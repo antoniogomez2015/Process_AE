@@ -1,0 +1,191 @@
+
+
+
+
+	http://www.digitalfilmtools.com/
+
+
+
+		este es una suite, completa que nos permite hacer todo el proceso de keyging/chromakey, tanto para
+
+		eliminar fondos, crear mates, refinar border, suprimir el spill, de chromas, otros
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	_zMatte Screen Smoother:
+
+
+		_este nos permite hacer más homogénio los chromakeys, antes de proceder a la extracción
+
+		de los mismos
+
+
+		_este permite hacer las zonas más claras ó con más brillo, hacer más oscuras hasta igualarlas
+
+		con las áreas más oscuras hasta lograr un chroma más homogéneo
+
+
+
+
+	_zMatte keyer:
+
+
+		_este nos permite indicar un color de chroma: blue/green, y leugo indicar la ponderación entre el 
+
+		background eliminado y, foreground, área de interés conservada así, como aumentar balance del 
+
+		matte, en relación a su contraste y expansión relativa
+
+
+		_como también, nos permite hacer mates secundarios en caso de ser necesario en escenas	complejas
+
+
+		_también, nos permite suprimir colores a modos de "Spill", en relación al background, ó fondo como 
+
+		a los bordes del área deseada ó extraida por el chromakey
+
+
+		_también, nos permite hacer correciones de color, gama, brillo, saturacion, rgb, otros
+
+
+
+
+	_zMatte Color Suppress:
+
+
+		_este nos permite eliminar el efecto de "Spill", en imágenes y videos tomados sobre chromas tanto 
+
+		verdes como azules
+
+
+		_este nos permite indicar el color a suprimir así, como la cantidad de supresión, rango y borde 
+
+		afectado, otros
+
+
+
+
+	_zMatte Edge Composite:
+
+
+		_este nos permite realizar operaciones en los bordes generados en el proceso de extracción de 
+
+		chromakey, de esta manera podremos tanto suavizar como desenfocar sólo el borde del pos proceso de 
+
+		chromakey, como también, aplicar correcciones de color, gama, rgb, otros, de esta manera podremos 
+
+		aumentar la calidad de los bordes y chromakey, en general
+
+
+		_este efecto también es útil para extrar el borde de un motivo para efectos especiales y 
+
+		composciones avanzadas
+
+
+
+
+	_zMatte Matte Repair:
+
+
+		_este es un auxiliar más sencillo de las opciones anteriores de generación de matte, este nos 
+
+		permite corregir y equalizar los mattes, generados como variar el black/white, del clip, 
+
+		shrink+glow, blur, otros
+
+
+
+
+	_zMatte Light Wrap:
+
+
+		_este nos permite lograr una mejor integración entre el background, ó fondo y el foreground, ó 
+
+		imágen ó layer, extraida ó aislada 
+
+
+		_Esto se logra mediante la colocación de la capa de fondo en un mate especial y luego combinarlo 
+
+		con el primer plano.
+
+
+		_este permite hacer que el color iluminación del fondo/background, penetre perifericamente a modo 
+
+		de spill en la layer, aislada ó extraida del foreground, ó chromakey
+
+
+		_esto es altamente recomenble en casos que desiemos hacer integraciones avanzadas entre el fondo y 
+
+		la imágen extraida
+
+
+		_así, podremos indicar la cantidad de luz "Light", y cuán invasiva será ésta sobre el área´
+
+		periferia de ésta ó el alcance ó expansión de la luz hacia el centro de la imágen ó su área 
+
+		concentrica
+
+
+
+	_zMatte Matte Generator:
+
+
+		_este nos permite generar Mates extraer y crea mates utilizando técnicas de extracción mate 
+
+		avanzada. Los métodos de extracción son mate de luminancia, matiz, saturación media, rojo, verde, 
+
+		azul, cian, magenta y amarillo. Hasta 5 mates se pueden extraer y combinarse usando modos de mezcla
+
+
+		_esto es especialmente útil en ocaciones donde el material de archivo footage no cuenta con canal 
+
+		alpha, ni chromakey, entre otras aplicaciones prácticas
+
+
+
+
+	-zMatte Holdout Composite:
+
+
+		_este nos permite hacer un provicioanl matte, a  elementos complejos de footage, como explisiones, 
+
+		otros
+
+
+		_a través, de una background, un nivel de fusion, un punto de black de la layers, ha afectar, como 
+
+		de los puntos de matte, de la layer, deseada black/white, clip, así, como el color de "Holdout", 
+
+		como de su opacidad, otros
+
+
+
+
+	_zMatte DeArtifact:
+
+
+		_este nos permite limpiar layers, con defectos del video  DV y HD, así, como también, bordes 
+
+		dentados entre otros
+
+
+
+
+	_zMatte Frme Averager:
+
+
+		_este nos permite hacer un blending average, entre una media de frames, que nosotros podemos 
+
+		determinar, de esta manera podemos hacer efectos de barrido e interpolación de frames, para 
+
+		diferentes efectos como también en algunos casos en chromas específicos
+
+
+
+
+	

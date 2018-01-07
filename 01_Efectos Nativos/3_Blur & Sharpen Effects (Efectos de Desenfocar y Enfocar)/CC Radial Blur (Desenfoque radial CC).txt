@@ -1,0 +1,120 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permitirá crear desenfoques configurables a través, de un punto de partida ó central
+
+
+	_éste efecto es similar al desenfoque direccional ó "Directional Blur", más el efecto de "Radial Blur",
+
+	nos permite indicar un vortice a partir del cuál, se generará el desenfoque y también, la dirección
+
+	la cuál, tomará dicho desenfoque
+
+
+	_y el desenfoque siempre será direccional el cuál, puede ser tanto radial ó rotativo como también, de
+
+	tipo zoom, ó de profundidad
+
+
+	_lo cuál, nos brinda una serie de posibilidades así, como también, podremos granular el efecto de 
+
+	desenfoque dejando la calidad de "low", y no en "high", la cuál, nos permintirá hacer desenfoques suaves
+
+	y barridos
+
+
+
+	
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	CC Radial Blur: (Desenfoque radial CC)
+	_______________
+
+	_Amount:
+
+		_éste valor nos permitirá indicar la cantidad de desenfoque ha aplicar
+
+
+	_Center:
+
+		_ésta opción nos permitirá indicar el target, ó área de acción sobre la cuál, se concentrará
+
+		ó dirigirá el efecto
+
+
+	_Type:
+
+		_Spin:
+
+			_ésta opción nos pemitirá hacer un desenfoque de tipo radial ó de modo torbellino en 
+
+			relación al target, ó centro seleccionado
+
+		
+		_Zoom:
+
+			_ésta opción nos permitirá hacer desenfoque de tipo zomm, ó infinito en relación a la
+
+			posición del target, ó centro seleccionado
+
+
+	_Antialiasing (Best Quality):
+
+		_ésta opción nos permitirá seleccionarel tipo de calidad deseado para el sistema entre las que
+
+		dispondremos de:
+
+
+			_Low:
+
+				_baja calidad ó calidad regular, especialmente útil para ciertos efectos de
+
+				realismo y detalle
+
+
+			_High:
+
+				_alta calidad especialmente útil para hacer barridos y efecto sedosos, otros
+
+
+
+
+
+
+
+
+
+
+
+
+
+

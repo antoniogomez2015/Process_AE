@@ -1,0 +1,87 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer reflejados para lograr efecto de simetría y animaciones abstractas entre
+
+	otras posibilidades
+
+
+	_así, como también, es especialmente para producción y paso contínuo como para el motion graphycs
+
+
+	_éste efecto tiene una característica interesante y que cuando en el parámetro de "Reflection Angle", lo
+
+	llevamos hasta radios ha más de un vuelta éste hace de máscada de la misma layer, la cuál, nos permtirá
+
+	hacer efectos inucitados ó alternativos
+
+
+	
+
+
+	
+	
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Mirrow:
+	_______
+
+
+		_Reflection Center:
+
+			_ésta opción nos permitirá indicar el punto a partir del cuál, se realizará la 
+
+			duplicación y reflejado de la layer, repectiva ha modo de target, ó punto de anclaje
+
+
+		_Reflection Angle:
+
+			_ésta opción nos permitirá indiar el ángulo en grados de rotación de la layer, 
+
+			duplicada a partir del punto de anclaje ó tarde del efecto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

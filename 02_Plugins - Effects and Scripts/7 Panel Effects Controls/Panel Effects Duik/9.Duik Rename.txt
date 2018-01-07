@@ -1,0 +1,97 @@
+
+
+http://duduf.net/index.php/products/after-effects/duik/
+
+	Referencia:
+
+		Tutorial basico de rigging con Duik
+			https://www.youtube.com/watch?v=3WiNMHMMduc
+
+		TUTORIAL: DUIK - ARTICULACIONES AUTOMATIZADAS EN AFTER EFFECTS
+			https://www.youtube.com/watch?v=Oi4G1-p59uI
+
+		DUIK 15 full tutorial overview Part 1 Rigging character tools
+			https://www.youtube.com/watch?v=2-m0Mc0ZTP8&list=PLL1LC1tW73eUOt7qjWvn3nYOkYOoQscmy
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Duik
+
+
+	Duik:
+
+
+	-este nos permite hacer sistema de kinemática y cinemática de character, y otros tipos de animaciones
+
+	así, como también, riggings, completos y asistidos con diferentes tipos de controles, limitadores y
+
+	disparadores ó trigers, de animación, otros
+
+
+	_ésta opción de hacer el proceso de rigging, de forma manual, es especialmente útil en characters, en 
+
+	los cuales requiere un especial cuidado ó éste es especialmente diferente a los estándares de posición 
+
+	de éste ó si éste no es un bípedo ó posee unas características únicas
+
+
+	_de ésta manera, el sistema "IK", nos permitirá configurar extremidades con kinemática inversa y directa
+
+	las cuales podremos integrar con otras extremidades y characters, ya realizados ó en proceso, otros
+
+
+	_como también, nos permite tener aplicaciones en máquinas ó otros elementos mecánicos, otros, que no son
+
+	characters, ni obedecen a ningún estandar de animación
+
+
+
+
+
+	Workflow:
+	_________
+
+
+	Descripción:
+
+	_la opción de "Rename", este nos permite renombrar elementos en lote ó a modo de bundle, nos permite 
+
+	renombrar tanto conjuntos de propiedades de layers, como "puppet pins", otros, así, como también, conjuntos
+
+	de layers, en general como también, conjuntos de composiciones en el panel project, entre otras posibilidades
+
+	de acción para renombrar elementos dentro del flujo de rigging, y en flujo de desarrollo y animación en general
+
+
+	_para lo cuál, tendremos que seleccionar las propiedades ha renombrar, ó el conjunto de layers, ó composiciones,
+
+	otros, y con éstos elementos seleccionados vamos al panel "Duik/Rigging/", y le damos al botón "Rename"
+
+
+	_para que así, nos aparezca un menú contexutal con las opciones de configuración en el cuál, no sólo podremos 
+
+	renombrar los elementos seleccionados si no que también, prodremos agregarles sufijos y prefijos lo cuál, es muy
+
+	importante para diferentes flujos de producción y animación y de riggings
+
+	
+	_más las primeras opciones entre las cuales tendremos que seleccionar están el tipo de elementos ha renombrar entre
+
+	los cuales disponemos de:
+
+		"Layers / pins / Project Items"
+
+
+	_de ésta manera, luego podremos chequear las opciones que deseamos activar y rellevar y asignar los contenidos ha 
+
+	cambiar ó renombrar y cuando hayamos terminado debemos darle al botón "Rename", para que así, el sistema renombre 
+
+	los elementos seleccionados
+
+
+
+
+

@@ -1,0 +1,144 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá preprocesar material de archivo para convertir éstos a través, de estándares en
+
+	una instancia personalizada la cual, podremos utilizar en nuestros proyectos
+
+
+	_lo que quiere decir es que podremos cargar un material de archivo de video en una composición a través, de
+
+	un estandar como por ejemplo; "NTSC", y éste a su vez, hacer que disminuya sus valores de lumninacia ó
+
+	saturación 
+
+
+	_así, como también, sus valores de umbral del punto máximo de los blanco y de los negros lo cuál, nos 
+
+	permitirá graduar el umbral visible de la layer, de ésta manera también, podremos mattes, en relación a las
+
+	características de iluminación, tonos, superficies en la escena del video ó material de archivo
+
+
+	_éstas opciones también, nos permitirán visualizar las áreas seguras que serán visibles en el video ó 
+
+	eliminadas en relación del umbral de la señal ó gamma permitida ó indicada rsepectivamente
+
+
+	_lo cuál, es especialmente útil para diferentes procesos de producción y paso contínio los cuáles, requieren
+
+	un preprocesado previo entre otras muchas posibilidades
+
+
+	_como también, podremos utilizar éste efecto de forma colateral para la generación de transparencias las 
+
+	cuáles, podremos utilizar en múltiples procesos en producción y paso contínuo
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Broadcast Colors: (Colores de Emision)
+	_________________
+
+	_Broadcast Locale:
+
+		_ésta opción nos permitirá el estándar de video de trabajo en los que dispondremos los más 
+
+		convencionales y generales, éstos son:
+
+
+			_NTSC:
+
+				_formato de video de televisión para la región Americana
+
+
+			_PAL:
+	
+				_formato de video de televisión para la región europea
+
+
+	How to Make Color Safe:
+
+		_ésta opción nos permitirá seleccionar entre diferentes criterios de acción los cuáles son:
+
+
+			_Reduce Luminance:
+
+				_ésta opción nos permitirá indicarle al sistema que mantenga el umbral de liminancia
+
+				de la imágen en un rango específico lo cuál, es especialmente útil para estabilizar
+
+				la imágen
+
+
+			_Reduce Saturation:
+
+				_ésta opción nos permitirá indicarle al sistema que mantenga el umbral de saturación
+
+				de la imágen en un rango específico lo cuál, es especialmente útil para estabilizar
+
+				la imágen
+
+
+			_Key Out Unsafe:
+
+				_ésta opción nos permitirá ver las áreas inseguras dentro de la imágen a través, de
+
+				transparencias sobre la imágen
+
+
+				_en relación al umbral indicado en la opción "Maximum Signal Ampitude", de ésta 
+
+				manera, éstas opciones las podremos utilizar para visualización como también, para
+
+				efectos ó procesos de paso contínuo para la generación de otros efectos
+
+
+			_Key Out Safe:
+
+				_ésta opción nos permitirá ver las áreas seguras dentro de la imágen a través, de
+
+				transparencias sobre la imágen, lo cuál, serán las áreas invertidas de las áreas
+
+				inseguras de la imágen
+
+
+				_en relación al umbral indicado en la opción "Maximum Signal Ampitude", de ésta 
+
+				manera, éstas opciones las podremos utilizar para visualización como también, para
+
+				efectos ó procesos de paso contínuo para la generación de otros efectos
+
+
+	_Maximum Signal Amplitude:
+
+		_
+
+
+

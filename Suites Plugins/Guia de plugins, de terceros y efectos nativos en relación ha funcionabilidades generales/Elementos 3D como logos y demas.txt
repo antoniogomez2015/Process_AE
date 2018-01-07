@@ -1,0 +1,26 @@
+
+
+
+
+Guia de plugins, de terceros y efectos nativos en relación ha funcionabilidades generales
+
+
+	"Elementos 3D como logos y demás"
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	_Red Giant / Trapcode / TAO:
+
+		_ésta opción nos permite generar elementos 3d, en tiempo real como logos, textos, y demás elementos generados 
+
+		a través, de difernetes métodos como primitivas, máscaras, y lights, y con una gran diferencia; que a los cuales 
+
+		podremos agregarle motion graphysc, y mograph, a través, del mismo sistema a través, del cuál, hemos generado 
+
+		dichoes elementos 3d, ésto es especialmente útil para diferentes procesos de producción, entre otras posibilidades
+
+

@@ -1,0 +1,112 @@
+
+
+
+EFX Shadow Fix
+
+
+	Referencia:
+
+		http://aescripts.com/efx-render-elements-z-depth-tools/   https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+	
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite limpiar ó mejorar el render map "shadow map", para eliminarle los halos blanquecinos entre los 
+
+	planos para obtener así, mejores resultados a la hora de la posproducción
+
+
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer mejores integraciones entre diferentes pases en producción en composiciones avanzadas de 
+
+	render, ésto es especialmente útil para pases  que no tienen tanta resolución ó que son de un tamaño relativo
+
+	ha 2k, ó menos
+
+
+	_así, como también, para pases donde exista problemas de integración ó calado de imágenes, otros
+
+
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+
+	_primero debemos tener una composición de trabajo previamente creada
+
+
+
+EFX Shadow Fix:
+_______________
+
+	_luego debemos incorporar los maps, respectivos en la composición de trabajo, en éste caso en "shadow map",
+
+	como mapa base al cuál, se agregaremos el plugins "Effects EFX RE/EFX_Shadow Fix"
+
+
+
+ZDepth Pass:
+____________
+
+
+	_para luego en las opciones del plugins ir a las opciones de "ZDepth Pass:", y seleccionar el "Depth Map", de 
+
+	la composición de render que tendremos que tener previamente en la respectiva composición
+
+
+
+Options:
+________
+
+
+	_así, podremos ir variando los valores de tolerancia para ir ajustando el pass, de acuerdo con los pases incluidos
+
+	en el sistema de shadow fix, éstos son:
+
+
+	_ID Color Torelance:
+
+		_ajuste de la torelacia del map, a través de un map, "ID", de reserva de elementos renderizados
+
+
+	_ZDepth Tolerance:
+
+		_ajuste de la torelacia del map, a través de un map, de "depth" (el más recomendado)
+
+	
+	_Opacity:
+
+		_ajuste alternativo por opacidad
+
+
+
+Resultado:
+__________
+
+
+	_de ésta manera al final tendremos el "shadow map", corregido con el efecto de "EFX Shadow Fix", aplicado
+
+	así, lo que tendremos que hacer es precomponer éste map, y estará listo para cualquier aplicación en producción
+
+	sin el problema de halos blancos entre elementos ó planos
+	
+
+

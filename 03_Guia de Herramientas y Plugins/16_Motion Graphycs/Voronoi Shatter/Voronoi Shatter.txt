@@ -1,0 +1,206 @@
+
+
+
+
+Voronoi Shatter
+
+
+	Referencia:
+
+		http://aescripts.com/voronoi-shatter-430/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite hacer recursos y animaciones para motion graphycs, entre otras posibilidades dentro del 
+
+	constructivimos visual y compositivo
+
+
+	_ésta opción permite la creación de módulos y super módulos de forma aleatoria y dinámica, otros
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer rápidas animaciones de material complementario para conforman elementos de motion graphycs
+
+	entre otro tipos de posibles de aplicaciones
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_para ésto, debemos de tener una composición previamente creada
+
+
+	_luego debemos crear una layer, luego con ésta layer, seleccionada vamos al panel "Voronoi Shatter", ubicado en
+
+	la sección de "Effects Controls"
+
+
+	_éste plugins, se divide en tres partes bien diferenciadas, éstas son:
+
+
+	-----------------------------------------------------------------------------------------------------
+
+
+
+	Módulo:
+	_______
+
+
+	_ésta permite indicar el criterio ha tomar sobre que muestra debemos tomar para crar el vitral, éstas opciones son:
+
+
+		Random:
+		_______
+
+
+			_ésta opción permite indicar un número específico para la fragmentación de la layer, de forma aleatoria
+
+
+			_dejando la configuración por defecto, éste nos dará el resultado de una fragmentación de la cantidad
+
+			especificada a través, de masks, sobre la layer, respectiva
+
+
+
+		Selection:	
+		__________
+
+
+			_ésta opción permite indicar un forma específica a través, de una máscara sobre la layer, respectiva
+
+
+			_de ésta manera debemos seleccionar la respectiva layer, y crearle una "Mask", en el centro de la layer,
+
+			
+			_leugo aún con la respectiva layer, y másk seleccionada vamos al panel "Voronoi Shatter", y vamos a las 
+
+			opciones de "Selection", y le damos al botón "Select", para capturar ésta forma como módulo personalizado
+
+			así, éste nos indicará la cantidad de vertex, que contiene ésta forma/mask
+
+
+			_y así al darle crear vitral con las opciones básicas podremos que la forma arquetípoca de la forma de la
+
+			más ha sido generada a través, de diferentes fragmentaciones, ésto es especialmente útil para diferentes
+
+			procesos tanto de motion graphys, como de producción, otros
+
+
+		Brightness Map:
+		_______________
+
+
+			_ésta opción permite indicar una referencia a través, de un mapa de luminancia ó "Pseudo-Luma", por medio
+
+			de una layer, externa ó auxiliar para éste propósito
+
+
+			_para ésto debemos de preparar un layer, la cuál, debe de ser en blando y negro ó sea sólo con valores de
+
+			luminancia
+
+
+			_para luego ir al panel "Voronoi/Brightness Map/", y hacemos "Sample"
+
+
+			_hay que hacer imágenes muy sencillas por lo general sólo rampas de dos tonos de blando ha negro
+
+
+
+
+	Piezas:
+	_______
+
+
+	_ésta opción permite la creación
+
+
+
+	Layers:
+	_______
+
+	
+	_éstas opciones permiten indicar los criterios de creación ó render del proceso sobre la respectiva layer, entre los cuales
+
+	disponemos de los siguientes:
+
+
+		Masks: (éstas opciones crean máscaras)
+		______
+
+			
+			_Distribute masks to layers:
+
+				_ésta opción crea una layer, de shape, por cada módulo ó forma del vitral generada así, como también,
+
+				activas las siguientes opción que estaban desactivadas, éstas son:
+
+
+					_Fill masks with random color:
+
+					Center Anchor Point:
+
+
+			_Expand masks 1 pixel:
+
+				_ésta opción permite indicar la creación de un pequeño margen ó aire entre cada módulo creado en el 
+
+				vitral
+
+
+			_Fill masks with random color:
+
+				_ésta opción permite crear cada módulo creado del vitral con un color de relleno aleatorio
+
+
+			_Center Anchor Point:
+
+				_ésta opción descompone relativamente las ubicaciones de los módulos que conforman el vitral, ya 
+
+				que al varial el anchor point, cambiará también, el punto de referencia inicial de creación
+
+
+
+		Shape Layers: (éstas opciones crean capas de forma/shapes)
+		_____________
+
+
+			_Fill layers with random color:
+
+				_ésta opción rellena los módulos con un color aleatorio
+
+
+			_Add stroke to all the layers:
+
+				_ésta opción crear un contorno al rededor de cada módulo creado
+
+
+			_Center Anchor Point:
+
+				__ésta opción descompone relativamente las ubicaciones de los módulos que conforman el vitral, ya 
+
+				que al varial el anchor point, cambiará también, el punto de referencia inicial de creación
+
+
+		
+		
+
+

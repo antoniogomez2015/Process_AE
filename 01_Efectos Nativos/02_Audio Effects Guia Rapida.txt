@@ -1,0 +1,102 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Audio:
+	______
+
+
+		_Backwards:
+
+			_éste nos permitirá invertir el audio de un clip, de audio ó video con audio
+
+			lo cuál, es especialmente útil cuando invertimos un video pero deseamos conserver el audio
+
+			en su sentido original
+
+
+		_Bass & Treble:
+
+			_éste nos permite resaltar lo graves y los agúdos del audio
+
+
+		_Delay:
+
+			_éste mos permnite hacer retarlos y reververaciones del audio avanzadas y configurables
+
+
+		_Flange & Chorus:
+
+			_éste nos permite acentuar las voces y los coros a través, de efectos de delay, y otros
+
+
+		_high-low Pass:
+
+			_éste nos permitirá a través, de ajustes simples homogenizar el audio tanto en sus 
+
+			parámetros para un sonido con graves ó un sonido con sólo agudos y muy pocos graves
+
+
+		_Modulator:
+
+			_éste nos permitirá modular el audio a través, de reververancias el sonido en general para 
+
+			acentuar las características de éste en pequeñas proporciones de éste efecto
+
+
+		_Parametric EQ:
+
+			_éste nos permitirá afinar de gran manera el audio en general teniéndo la posibilidad de 
+
+			ajustar el espectro del audio tanto en su frecuencia, amplitud e intensidad, otros
+
+
+		_Reverb:
+
+			_éste nos permitirá crear efectos de reververancia más avanzados los cuáles, nos permitirán 
+
+			hacer efectos en el audio así, como también, acentuar la voz, y demás sinidos dentro del audio
+
+			como también, lograr efectos de amplitud, espacio y pronfundidad, otros
+
+
+		_Stereo Mixer:
+
+			_éste nos permitirá hacer alternaciones entre los canales left/right, del audio para emular 
+
+			una atmósfera envolvente, especialmente útil para ser utilizado junto con el efecto de 
+
+			"Parametric EQ"
+
+
+		_Tone:
+
+			_éste nos permtirá recrear pulsos telefónicos, sonidos electrónicos y compuestos para crear
+
+			efectos especiales, otros
+
+
+
+
+
+
+

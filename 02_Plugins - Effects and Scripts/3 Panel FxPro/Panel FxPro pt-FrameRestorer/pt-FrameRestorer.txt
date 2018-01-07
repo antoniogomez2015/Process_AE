@@ -1,0 +1,110 @@
+
+
+http://aescripts.com/pt_framerestorer/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+panel FxPro / pt_framerestorer
+
+
+	pt_framerestorer
+
+
+	-este nos permite reparar material de video y secuencias de imagenes importadas y agregadas
+
+	en el timeline
+
+
+
+
+Workflow Option> 'Restore At Layer Markers'
+-------------------------------------------
+
+
+	-primero debemos hacer un reconocimiento del material moviendo el cabezal a traves, del timeline
+
+	y donde encontremos una 'anomalia', como un salto de frame (falta un frame), o un despecfecto 
+
+	como una rayadura que deseamos eliminar u otro despecfecto
+
+
+	-y en donde encontremos un salto de frame o desperfecto debemos colocar 'Marker' shortcut (*),
+
+	para marcar asi su ubicacio en el tiempo de reproduccion
+
+
+	-luego de haber agregado markers, los puntos deseados a corregir debemos seleccionar dicho
+
+	video o secuencia en el timeline, e ir al panel 'pt_framerestorer', y aplicar 'Apply'
+
+
+	-asi, dicho video o secuencia se convertira en una nueva composicion mas los errores marcados
+
+	a traves, e las markers, se habran suprimido (duplicando el frame anterior) limpiando nuestro 
+
+	video o secuencia deseada
+
+	
+
+
+Workflow Option> 'Find Missing Frames'
+--------------------------------------
+
+
+	-esta opcion permite encontrar frames, missings/perdidos, de nuestro video o secuencia
+
+
+	-primero seleccionamos nuestro video o secuencia o video en el timeline
+
+
+	-y con este seleccionado vamos al panel 'pt_framerestorer', y aplicamos 'Find Missing Frames',
+
+
+	-asi, comenzara un analisis el cual agregara marcas/markers, en los puntos donde hayan frames,
+
+	perdidos o faltantes en el timeline, en relacion al video o secuencia seleccionado
+
+
+
+
+Workflow Option> 'Restore Missing Frames'
+-----------------------------------------
+
+
+	
+	-esta opcion permite restaurar o eliminar los frames, perdidos o estraviados a traves de marcas
+
+	o markers, en el paso anterior
+
+
+	-asi, nuestro video o secuencia quedara limpia de los frames perdidos y solicitados ya que estos
+
+	seran eliminados (duplicando el frame anterior)
+
+
+
+
+Workflow Option> 'Reduce To Layer Markers'
+------------------------------------------
+
+
+
+	-esta opcion permite interpolar o hacer 'morpth', los frames indicados a traves de 'markers', 
+
+	ya que estos no son iguales o similares a los frames contiguos, tanto al anterior como 
+
+	al siguiente frame
+
+
+	-esta opcion es especialmente util en secuencias muy rapidas-cortas en donde las transiciones
+
+	entre tomas, efectos y planos se producen a alta velocidad y no es posible o aplica el duplicado
+
+	de frames, anteriores o posteriores si no, que hace fata o aplicar la ternica de interpolado
+
+	o morpth
+

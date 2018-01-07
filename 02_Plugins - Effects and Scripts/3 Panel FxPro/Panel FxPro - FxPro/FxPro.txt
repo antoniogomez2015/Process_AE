@@ -1,0 +1,29 @@
+
+
+http://aescripts.com/ft-toolbar/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+ft-toolbar 2 / FxPro
+
+
+	Panel FxPro
+
+
+	-la version 2, del script, ft-toolbar2, nos permite crear grupos de accesos directos tanto de
+
+	efectos como de scrips
+
+
+	-asi, haremos grupos tanto de los topicos mas importantes y relevantes de todas las secciones
+
+	tanto de plugins como de scrips no tan comunes o que no tengan una version 'script UI'
+
+
+
+
+	

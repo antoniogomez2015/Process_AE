@@ -1,0 +1,73 @@
+
+
+
+EFX Alpha Streaks
+
+
+	Referencia:
+
+		http://aescripts.com/efx-render-elements-z-depth-tools/   https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+	
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite hacer correcciones sobre el alpha, resultante de todo el proceso "EFX Render Suite"
+
+
+	_así, podremos eliminar rayaduras y fisuras en el alpha, resultante entre otros defectos posibles
+
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer correcciones en la producción y acoplamiento del alpha map, en los diferentes procesos
+
+
+	_ésto es especialmente útil para diferentes procesos y requerimientos avanzados de producción, otros
+
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+
+	_primero debemos tener una composición de trabajo previamente creada
+
+
+
+Mode:
+_____
+
+	_ésta opción nos permite indicar la cantidad de pixeles a tomar por cada muestreo para el análisis de cálculo
+
+
+Remover Threshold:
+__________________
+
+
+	_ésta opción nos permite indicar el umbral de remoción de inperfecciones en el alpha, generado
+
+
+
+Resultado:
+__________
+
+
+	_de ésta manera al final tendremos un alpha, sin imperfecciones ó defectos y listo para los diferentes procesos
+
+	de producción
+
+

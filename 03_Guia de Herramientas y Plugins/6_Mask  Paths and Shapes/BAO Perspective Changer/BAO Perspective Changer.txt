@@ -1,0 +1,121 @@
+
+
+
+
+BAO Perspective Changer
+
+
+	Referencia:
+
+		http://aescripts.com/bao_perspective_changer/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite hacer distorciones de una layer, a través, de pines más la capacidad adicional de proyectar la 
+
+	imágen en el espacio a través, de éstos
+
+
+	_ésto nos permitirá deformar la perspectiva proyecta de la layer
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_ésto permnite hacer deformaciones de capa ó layer, por medio de la distorción de la perspectiva, ésto puede hacerse
+
+	a través, de pines, ó de máscaras las cuales permiten hasta el seguimiento de éstas al estar las máscaras animadas
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	_primero debemos de tener una composición base de trabajo
+
+
+	_luego debemos crear ó cargar una layer, a la cuál, deseamos aplicarle las transformaciones de perspectiva
+
+
+Effects:
+________
+
+
+	_luego con la layer, respectiva seleccionada vamos ha "Effects/BAO/", y aplicamos el efecto "Perspective_Changer"
+
+
+	_para luego ir a las opciones de "Perspective_Changer/Mode", y colocar la opción de "Transform_crop", para que
+
+	así, poder hacer transformaciones de perspectiva sobre la imágen a través, los pines interiores
+
+	
+
+Mask:
+_____
+
+
+	_y para extender las posibilidades accíón podremos también, crearle una máscara de la layer, respectiva
+
+
+	NOTE: a la layer, repectiva ya le tendremos que haber aplicado el efecto "Perspective_Changer", en la opción de
+
+	mode haberle seleccionado la opción de "Transform_crop"
+
+
+	_así, luego de haberle aplicado una máscara, a la respectiva layer, ésta máscara la podemos animar si aplica
+
+
+	_para abrir el plugins "Perspecti_chance", para ésto vamos ha "Window/Perspective_change", así, se abrirá el panel
+
+	del script
+
+
+
+Perspective_change:
+___________________
+
+
+	_así, primero seleccionaremos la "másk", de la respectiva layer, en el panel timeline
+
+
+	_para luego ir a las opciones de:
+
+	----------------------------------------------------------------------------------------------------------------
+
+
+	From:
+
+		_ésta opción nos permitirá seleccionar el recurso el cuál, será tomado, así, elegiremos	la opción de "Mask"
+
+
+	To:
+
+		_ésta opción nos permitirá indicar a que ó a quién le será asignado el objeto que fue tomado, en éste caso
+
+		elegiremos la opción de "Transformation"
+
+
+	Mask path:
+
+		_lo más recomendable es dejar la opción de "Clockwise"
+
+
+	Reset geometry:
+
+		_ésta opción nos permite resetear el proceso
+
+
+

@@ -1,0 +1,67 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permitirá suavizar las áreas donde hay contraste en las zonas donde hay más líneas 
+
+	convergentes para en líneas paralelas, otros
+
+
+	_especialmente útil en casos en los cuáles, se está utilizando material de video con campos entrelazados
+
+	para que así, se suavizen los desperfectos y patrones generados por los campos entrelazados de un material
+
+	de archivo
+
+
+	_de ésta manera, el desenfoque tratará de aplicarse más ó acentuarse en el momento en el que aparezcan las
+
+	líneas paralelas horizontales del efecto del flickeo ó intermitencia del efecto de campos entrelazados
+
+	
+	_tratando así, de disimular ó eliminar éste efecto indeseado en la mayoría de los casos
+
+
+	
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+	
+	_aunque es totalmente recomendado para videos con compos entrelazados
+
+
+
+
+	Reduce Interlace Flicker: (Reducir Parpadeo ENtrelazado)
+	_________________________
+
+	_Softness:
+
+		_éste valor nos permitirá indicar la cantidad de desenfoque ha aplicar
+
+
+	
+
+

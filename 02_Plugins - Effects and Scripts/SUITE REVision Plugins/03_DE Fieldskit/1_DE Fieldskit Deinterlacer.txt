@@ -1,0 +1,198 @@
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+		Reference:
+
+			http://help.revisionfx.com/tutorial/80/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+		
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+DE: Fieldskit Deinterlacer:
+___________________________
+
+
+	_el plugins, "DE Fieldskit Deinterlacer", nos permitirá desentrelazar material entrelazado a material progresivo
+
+	de alta calidad que otros sistemas estandars
+
+
+
+
+	Timming Mode:
+
+
+		_= 1 Frame Per Frame:
+
+			_velocidad estandar "frame to frame", lo cuál, no generará cambios en el material desentrelazado 
+
+			resultante
+
+
+		_> 2x Duration, 1 Frame Per Field:
+
+			_
+
+
+		_> 2X FPS, Frame Per Field:
+
+			_ésta opción nos permitirá generar un material al doble de velocidad del original así, podremos generar
+
+			material por ejemplo de "29.97fps, ha 59.97fps", especialmente útil para "Twistor", ó "slow motion"
+
+
+		_= Fields Blend, 1 Frame Per Frame:
+
+			_
+
+		
+		_= Motion Estimate Blend, 1 Frame Per Frame:
+
+			_
+
+
+
+	_Field Order:
+
+
+		_Lower First:
+
+			_
+
+
+		_Upper Fierst:
+
+			_
+
+
+	_Fill Method:
+
+
+		_None:
+
+			_
+
+
+		_Duplicate:
+
+			_
+
+
+		_Blend:
+
+			_
+
+
+		_Best 3 Neighbors:
+
+			_
+
+
+		_Best 5 Neighbors:
+
+			_
+
+
+
+	_Detect Motion:
+
+
+		_No Motion Mask:
+
+			_
+
+
+		_2 Frames Compare:
+
+			_
+
+
+		_3 Frames Compare:
+
+			_
+
+
+
+	_Detect Method:
+
+
+		_Point Diference:
+
+			_
+
+
+		_Small Area:
+
+			_
+
+
+		_Large Area:
+
+			_
+
+
+	_Motion Tolerance:
+
+		_
+
+
+	_Mask Suppress:
+
+		_
+
+
+	_Mask Grow:
+
+		_
+
+
+	_Mask Feather:
+
+		_
+
+
+	_View Motion Mask:
+
+		_
+
+
+	_Smooth Vertically:
+
+		_
+
+
+	_Sharpen:
+
+		_
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+

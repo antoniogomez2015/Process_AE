@@ -1,0 +1,261 @@
+
+
+http://duduf.net/index.php/products/after-effects/duik/
+
+	Referencia:
+
+		Tutorial basico de rigging con Duik
+			https://www.youtube.com/watch?v=3WiNMHMMduc
+
+		TUTORIAL: DUIK - ARTICULACIONES AUTOMATIZADAS EN AFTER EFFECTS
+			https://www.youtube.com/watch?v=Oi4G1-p59uI
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Duik
+
+
+	Duik:
+
+
+	-este nos permite hacer sistema de kinemática y cinemática de character, y otros tipos de animaciones
+
+	así, como también, riggings, completos y asistidos con diferentes tipos de controles, limitadores y
+
+	disparadores ó trigers, de animación, otros
+
+
+	_ésta opción de hacer el proceso de rigging, de forma manual, es especialmente útil en characters, en 
+
+	los cuales requiere un especial cuidado ó éste es especialmente diferente a los estándares de posición 
+
+	de éste ó si éste no es un bípedo ó posee unas características únicas
+
+
+	_de ésta manera, el sistema "IK", nos permitirá configurar extremidades con kinemática inversa y directa
+
+	las cuales podremos integrar con otras extremidades y characters, ya realizados ó en proceso, otros
+
+
+	_como también, nos permite tener aplicaciones en máquinas ó otros elementos mecánicos, otros, que no son
+
+	characters, ni obedecen a ningún estandar de animación
+
+
+
+
+	Workflow:
+	_________
+
+
+	Layers:	
+
+	_primero dendremos de tener nuestro character, dividido en layer, en un programa de pixeles, ó vectorial
+
+	así, con sus layers, correctamente renombradas y con los prefijos L/R", precediendo a su nombre
+
+
+	_para luego, proceder ha importar éste archivo como una composición dentro de after effects
+
+
+	
+	Anchor Point:
+
+	_para luego, proceder ha reajustar la posición de los anchor point, de cada respectiva layer, a su respectiva
+
+	articulación para así, éstas obedezcan a la lógica y cinemática del character
+
+
+	_para ésto, disponemos de la herramiento de panorámica tracera, shortcut, "Y", de ésta manera, podremos ir
+
+	moviendo ó ajustando la posición del punto de anclaje de cada layer, a su respectiva articulación
+
+
+
+	Parent:
+
+	_ahora, tendremos que hacer el emparentamiento de las layers, para emular la kinemática, para ésto debemos
+
+	desplagar las opciones de "Parent", de after effects, con la composición activa ó seleccionada, debemos hacer
+
+	shortcut, "Shift + F4"
+
+
+	_de ésta manera, podremos emparentar de forma ascendente ó descendente respectivamente las layers, por ejemplo; 
+
+
+		"Arm/ForeArm/Hand"
+
+
+	_de ésta manera, la mano será hija del ante brazo y el ante brazo será hijo del brazo, de ésta manera al mover el
+
+	brazo se moverá todo el sistema más si movemos ahora el ante brazo el brazo se quedará intacto más si se moverán
+
+	el ante brazo y la mano
+
+
+
+	Controllers;
+	
+	_ahora, para configurar el sistema, tendremos que seleccioanr la última layer, que conformará el sistema ó extremidad
+
+	articulada, siguiendo el ejemplo del caso anterior:
+
+
+		"Arm/ForeArm/Hand"
+
+
+
+	_sería la layer, "Hand", y con ésta layer, seleccionada vamos al panel "Duik/Rigging/", y le damos al botón de 
+
+	"Controllers", para que así, se nos abra un panel con una serie de opciones para configurar el controller, por lo general
+
+	es recomendable dejar las opciones por defecto para el uso general del controller, y le damos ha "Create"
+
+
+	_de ésta manera el sistema nos creará una nueva layer, de tipo "shape", en modo de "layer guide", y con la forma de cruz
+
+	rotativa la cuál, nos servirá de handle para manejar la articulación así, como rotar ésta articulación y el sistema en
+
+	general
+
+
+
+	IK:
+
+	_ahora vamos ha relacionar las layer, su orden lógico con la layer, controller, para que así, pueda generarse el sistema 
+
+	de forma completa y operativa
+
+
+	_para lo cuál, tendremos que seleccioanr las layer, en el mismo orden en el cuál, se han emparentado en pasos anteriores,
+
+	siguiendo el ejemplo anterior, la selección debería de hacerse de la siguiente manera:
+
+
+		"Hand/ForeArm/Arm", y por último, debemos seleccionar la layer, "Controller"
+
+
+	_para que así, con todas las layers, seleccionar ir al panel "Duik/Rigging/", y le damos al botón de "IK", para que así, 
+
+	se nos abra un panel con una serie de opciones sobre tipos de kinemática inversa y sus respectivos "Goals", según la 
+
+	cantidad de bones, ó layers, seleccionadas no dará opciones de configuración ha elegir para éstas
+
+
+	_en ésta caso seleccionaremos la opción de "2-Layer IK & Goal", y le damos al botón "Create", para que así, el sistema
+
+	nos cree el sistema de rigging, de kinemática inversa y cree realmente la extremidad con la lógica correcta de movimiento
+
+	del character, deseada
+
+
+
+	Handle Rig:
+
+	_más ahora debemos tener control sobre los criterios de acción que tendrá el sistema así, como de sus posibilidades de 
+
+	animación y movimiento entre otros, por ejemplo para el rig, de un brazo tendremos los siguientes controles:
+
+
+		IK foreArm
+
+			Clockwise:
+
+				_ésta opción nos permite invertir el sentido de la articulación media del sistema, en éste caso
+
+				sería para la articulación correspondiente a el "elbow", ó codo
+
+
+		FK
+
+			Disable IK:
+
+				_ésta opción activa ó desactiva el sistema por completo temporalmente ó permanentemente
+
+
+			Upper FK:
+
+				_función de rotación para el "arm", en modo "KD", kinemática directa ó "FK", kinemática continua
+
+
+			Lower FK:
+
+				_función de rotación para el "foreArm", en modo "KD", kinemática directa ó "FK", kinemática continua
+
+
+		Stretch:
+
+			Auto-Stretch:
+
+				_ésta opción permite que la extremidad en su conjunto se estire cuando la layer, handle, al ser manejada
+
+				por nosotros ésta supere ó se extiende más allá del tamaño de la extremidad, de ésta manera podremos
+
+				controlar ó indicar al sistema si deseamos que la extremidad se estire ó no en el espacio
+
+
+			Stretch:
+
+				_más cuando la opción anterior de "Auto-Stretch", está desactiva aún tenemos un control del estiramiento
+
+				de forma manual, expresao en porcentajes tanto negativos como positivos, de ésta manera podremos tener un 
+
+				manejo más controlable del estiramiento, tanto en donde se realiza así, como su prolongación, otros
+
+
+			Auto-Shrink:
+
+				_éste es un control que nos permite configurar cuán se contraen ó retraen las extremidades ó articulaciones,
+
+				de ésta manera podemos graduar por ejemplo, cuanto se pliega un codo ó una rodilla en relación a las dos 
+
+				layers, que conforman la extremidad, otros
+
+
+		Goal hand:
+
+			Checkbox:
+
+				_ésta opción nos permite configurar el comporatamiento que tendrá la layer, ó articulación que está justo en
+
+				posición ó relación con la layer, handle, ó controlador, en éste caso es la layer, del "Hand", ó mano
+
+
+				_de ésta manera, la mano, podrá trarar de mantener su posición o heredará la nueva posición obtenida por el
+
+				foreArm. y sus movimientos relativos a través, de la kinemática invertida, otros
+
+
+
+
+	Puppets Pin Process:
+
+	_más si partimos ha realizar éste proceso a partir de layer, a las cuales les hemos aplicado el proceso de generación de bones, ó huesos
+
+	a través, del método de "pins", por medio de la herramienta "Puppet Pin", debemos hacer a través, del siguiente método:
+
+
+	_primero debemos aplicarle "pins", donde corresponda una articulación ó punto de flexión en la respectiva layer, a través, de la herramienta
+
+	de puppet tools, para luego hacer "Duik/Rigging/Bone"
+
+
+	_luego e igualmente que el proceso anterior debemos seleccionar la útima extremidad ó layer, que conformará el sistema y con ésta generar
+
+	un "Duik/Rigging/Controller"
+
+
+	_para luego emparentar éstas layer, las cuales enten conformadas como layers, individuales en el proceso
+
+
+	_lara luego, seleccionar las layer, en orden en relación a la kinemática, tanto las layers, creadas por nosotros como las layers, generadas 
+
+	en el proceso de "Duik/Rigging/Bone", a partir de los pines, especificados
+
+
+	_para de ésta manera, con las layers, en orden seleccionadas hacer "Duik/Rigging/IK"
+

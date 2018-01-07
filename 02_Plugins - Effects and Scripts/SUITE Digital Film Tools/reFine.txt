@@ -1,0 +1,218 @@
+
+
+
+
+	http://www.digitalfilmtools.com/refine/
+
+
+	
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá acentuar, exaltar ó exagerar la textura de una imágen para lograr
+
+		diferentes para el mejoramiento de la piel, labios, texturas rugosas, otros
+
+
+		_como también, para efectos de producción y paso contínuo
+
+
+		
+
+
+	reFine:
+	_______
+
+
+		View:
+
+			_Output:
+
+				_ésta opción nos permitirá visualizar el resultado final con el efecto aplicado 
+
+				sobre la imágen base
+
+
+			_Original:
+
+				_ésta opción nos permitirá visualizar la imágen original sin la aplicación del 
+
+				efecto
+
+
+			_Edges:
+
+				_ésta opción nos permitirá visualizar el matte, a través, de la luminancia de la
+
+				imágen generado a través, de la aplicación del efecto
+
+
+		Detail:
+
+			
+			_Coarse:
+
+				_ésta opción nos permitirá agregar detalle en la imágen en las áreas con una 
+
+				contraste y tamaño de detalle visible más "grandes", éste detalle agregado es de 
+
+				tipo cuarzo ó cuarteado ó resaltado de detalle sobre la imágen base
+
+
+				ésta opción es especialmente útil para resaltado de grietas, depresiones, relieves,
+
+				sombras, desniveles y demás detalles visibles y a grandes rangos y a groso modo
+
+
+			_Medium:
+
+				_ésta opción nos permitirá agregar detalle en la imágen en las áreas con una 
+
+				contraste y tamaño de detalle visible "Medio"
+
+
+				_ésta opción es especialmente útil para resaltado de facciones, líneas de expresión
+
+				y detalles generales de la imágen base
+
+
+			_Fine:
+
+				_ésta opción nos permitirá agregar detalle en la imágen en las áreas con una 
+
+				contraste y tamaño de detalle visible "pequeño ó fino"
+
+
+				_ésta opción es especialmente útil para resaltado suave de la piel
+
+
+			_Gang:
+
+				_ésta opción homogeniza ó iguala los valores anteriores de "Coarse | Medium | Fine",
+
+				como un solo valor aplicando así, el efecto a todos niveles de detalle por igual
+
+
+			_Shadows:
+
+				_ésta opción nos permitirá reducir el impacto del efecto en las zonas con más 
+
+				sombras, depresiones ó "pedestal", en la imágen y en todos los valores 
+
+				"Coarse | Medium | Fine"
+
+
+			_Medtones:
+
+				_ésta opción nos permitirá reducir el impacto del efecto en las zonas de los medios
+
+				tonos ó la "gamma" de la imágen y en todos los valores "Coarse | Medium | Fine"
+
+
+			_Highlights:
+
+				_ésta opción nos permitirá reducir el impacto del efecto en las zonas de las altas
+
+				luces ó "gain", de la imágen y en todos los valores "Coarse | Medium | Fine"
+
+
+			_Edge Quality:
+
+				_ésta opción nos permitirá aumentar exponencialmente la calidad del efecto 
+
+				mejorando el aspecto ó calidad de los bordes de la imágen a partir de la aplicación
+
+				del efecto sobre la imágen base
+
+
+
+		Cartoon:
+
+
+			_Amount:
+
+				_ésta opción nos permitirá agregar "glow", y "blur", sobre la imágen base para
+
+				eliminar ó desdibujar los detalles de la imágen base para el proceso de "cartoon"
+
+
+			_Detail:
+
+				_ésta opción nos permitirá filtrar la cantidad de efecto de "glow", y "blur", para
+
+				dejar ver ó no, el efecto de "Line", ó líneas del efecto de "Cartoon", lo cuál, nos
+
+				permitirá crear diferentes efectos de tiza pastel hasta acuarelas, otros
+
+
+			_Line:
+
+				_ésta opción nos permitirá agregar ó disminuir líneas de detalle a través, del
+
+				contraste y detalle de la imágen base en relación a su vez, de las opciones 
+
+				anteriores de "amount", y "detail"
+
+
+				_de ésta manera, podremos lograr diferentes efectos artísticos los cuáles, van 
+
+				desde diferentes efectos de pintura clásica hasta efectos cartoon
+
+
+
+		Pencil:
+
+			
+			_Amount:
+
+				_ésta opción nos permitirá resaltar detalles extra de la imágen base a través, de
+
+				valores de luminancia y contraste y exaltación de ésta manera, podremos lograr
+
+				diferentes y alternativos efectos sobre la imágen base
+
+
+			_Detail:
+
+				_ésta opción nos permitirá aumentar los valores de detalle extra sobre la imágen
+
+				base en relación a su vez, al valor anterior y a los lovares de luminancia
+
+
+			_Color:
+
+				_ésta opción nos permitirá agregar un color ha modo de "spill", sutil sobre las
+
+				áreas afectadas por el efecto
+
+
+			_Background Color:
+
+				_ésta opción nos permitirá agregar una dominante cromática directa sobre la imágen
+
+				base para que así, ésta cobre un color determinado
+
+
+			_Background Mix:
+
+				_ésta poción nos permitirá graduar la influencia u opacidad del sistema sobre la
+
+				imágen base para una mejor integración con la imágen base
+	
+
+
+
+
+
+
+
+
+

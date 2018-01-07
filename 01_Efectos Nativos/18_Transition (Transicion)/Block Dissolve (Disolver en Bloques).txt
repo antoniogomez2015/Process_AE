@@ -1,0 +1,131 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Disolver en bloques, hace que la capa desaparezca en bloques aleatorios. La anchura y la altura 
+
+	de los bloques puede definirse, en píxeles, por separado. En calidad de Borrador, los bloques se colocan 
+
+	con precisión de píxeles y tienen bordes muy definidos. En Calidad óptima, los bloques se pueden colocar 
+
+	con una precisión de subpíxeles y presentan bordes suaves
+
+
+	_Este efecto funciona con colores de 8 bpc y 16 bpc.
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Block Dissolve: (Disolver en Bloques)
+	_______________
+
+
+		_Transition Completion:
+
+			_ésta opción nos permitirá indicarle al sistema el avance de la transición ó del 
+
+			desvanecimiento develando así, las demás layers, de la composición respectiva
+
+
+		_Block Width:
+
+			_ésta opcion nos permitirá indicarle al sistema el tamaño de los bloques generado en el
+
+			sentido horizontal, de ésta manera, podremos crear sistema más refinados ó con escalas más
+
+			pequeñas, ó sistemas más toscos y grandes con una escala superior lo cuál, a su vez, nos
+
+			permitirá crear diferentes efectos de producció y paso contínuo
+
+
+		_Block Height:
+
+			_ésta opcion nos permitirá indicarle al sistema el tamaño de los bloques generado en el
+
+			sentido vertical, de ésta manera, podremos crear sistema más refinados ó con escalas más
+
+			pequeñas, ó sistemas más toscos y grandes con una escala superior lo cuál, a su vez, nos
+
+			permitirá crear diferentes efectos de producció y paso contínuo
+
+
+		_Feather:
+
+			_ésta opción nos permitirá indicarle al sistema que suavize los bordes generado por el 
+
+			sistema, de ésta manera, podremos generar un canal alpha, más suavizado en relación a su vez,
+
+			del efecto deseado
+
+
+		Soft Edges (Best Quality):
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste realize los cálculos 
+
+			para la generación del sistema con un algoritmo el cuál, contempla los sub pixeles de la 
+
+			imágen
+
+
+			_Lo cuál, a su vez interpolará la imágen y por ende suavizará los bordes de la imágen 
+
+			resultante
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

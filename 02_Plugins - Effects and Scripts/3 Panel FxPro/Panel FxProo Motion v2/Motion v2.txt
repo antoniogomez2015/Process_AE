@@ -1,0 +1,284 @@
+
+
+http://www.mtmograph.com/motion/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Motion 2
+
+
+__________________________________________________________________________________________________________
+
+
+Speed:
+
+
+	_esta permite controlar el grado de interpolación de determinados keyframes, así, estos pueden estar
+
+	en su estado normal como en estados de interpolación de entrada/in, como de salida/out, como también,
+
+	con interpolación de entrada y salida in/out
+
+
+	_más la característica de poder configurar estados intermedios en relación a los estados de interpolación
+
+	expresados anteriormente y que el programa nos ofrece un asistente de fotogramas clave ó keyframes
+
+
+	_así, podemos seleccionar uno ó varios keyframes, y ajustar su interpolación en un porcenje deseado, ej:
+
+	interpolación in/54%..., otros
+
+
+	_así, esta opción nos ofrece los siguientes controles
+
+
+		< / > /	><
+
+
+__________________________________________________________________________________________________________
+
+
+
+Anchor:
+
+
+	_esta opción nos permite ajustar entre keyframes, la ubicación del "anchor point", de las layers, seleccionadas
+
+	así, podremos animar estos estados entre keyframes, a su vez, las variantes generadas cuando las layers, son
+
+	duplicadas cuando éstas esta animadas previamente
+
+
+	_también, podemos hacer offset, a través, de tres slider, en relación a la ubicación actual del anchor point
+
+
+
+__________________________________________________________________________________________________________
+
+
+
+Exite:
+
+
+	_esta opción permite hacer el efecto inercia ó "Bounce", de la fuerza centrífuga y centrípeta al detenerse 
+
+	en elemento animado, esto es especialmente útil para aplicarselo ha keyframes, iniciales y finales de una 
+
+	animación así, los elementos se detendrán simulando la amortiguación del movimiento y las fuerzas expresadas 
+
+	anteriormente
+	
+
+__________________________________________________________________________________________________________
+
+
+
+Blend:
+
+
+	_esta opción permite suavizar ó interpolar el seguimiento fidedigno de las trayectorias de animación de los
+
+	elementos animados así, podemos hacer que un elemento siga exactamente la trayectoria de animación de forma 
+
+	exacta ó en tan solo en un 20%, u otras proporciones
+
+
+
+__________________________________________________________________________________________________________
+
+
+
+Burst:
+
+
+	_esta opción permite crear un "Shape", por defecto la cuál podemos graduar y modificar de forma relativa 
+
+	a la misma así, como modularla de forma radiar y espiral y gradada en diferentes parámetros y perspectivas
+
+	entre otras opciones alternativas
+
+
+	las opciones pueden ser extendidas a través, de las opciones de las layers, de forma entre otras opciones
+
+
+	esta opción es especialmente útil para complementos en animaciones de motion graphics, entre otros
+
+
+
+__________________________________________________________________________________________________________
+
+
+
+Clone:
+
+
+	_esta opción permite duplicar keyframes, seleccionados esto permite hacer replicar de animaciones así,
+
+	como especiaes de loops, controlados de cuantas veces deseamos que una animación se repita de cara al
+
+	motion graphics
+
+
+__________________________________________________________________________________________________________
+
+
+
+Jump:
+
+
+	_esta opción permite agregar físicar a un keyframes, ó propiedad seleccionados/as, más es especialmente
+
+	útil para keyfrmaes, iniciales y finales de una animación por que de esta manera al detenerse un elemento
+
+	animado este asumirá propiedades de repote en relación a su velocidad a través, de fuerzas de gravedad 
+
+	y peso del objeto así, como respuesta de rebote del objeto
+
+
+__________________________________________________________________________________________________________
+
+
+
+Name:
+
+
+	_esta opción permite renombrar layers, de forma bundle, ó simultaneamente, para esto aplicamos la opción
+
+	"Name", en el panel y luego seleccionamos las layers, que deseamos renombrar luego, ocnfiguramos el nombre
+
+	ó adjetivo que les deseamos agregar entre otros y aplicamos los cambios deseados a las layers, deseadas
+
+
+__________________________________________________________________________________________________________
+
+
+
+Null:
+
+
+	_esta opción permite crear null, emparentados a las layers, seleccionadas esto es especialmente útil tanto
+
+	para mover elementos animados a nuevas ubicaciones como también, para crear trayectorias de animación intermedias
+
+	entre diferentes elementos animados y seleccionados también, es útil para hacer rotaciones y transformaciones
+
+	de diferentes elementos como un grupo ó en conjunto, lo cuál, es muy útil para procesos de motion graphics
+
+
+__________________________________________________________________________________________________________
+
+
+
+Orbit:
+
+
+	_esta opción permite que una serie de layers orbiten sobre otras de forma circular y 2D, así, podemos seleccionar
+
+	las layers, que desemos que orbiten sobre otras luego, aplicamos "Orbit", luego en las opciones deo otbit target,
+
+	podemos seleccionar la layer, u object null, que deseamos que orbiten las layers, configuradas previamente
+
+
+__________________________________________________________________________________________________________
+
+
+
+Rope:
+
+
+	_esta opción permite hacer conexiones visuales ó gráficas entre layers, seleccionadas al estilo "Beans", opción
+
+	de render "Rowbytes/Plexus", esta opción es especialmente útil para mapas y elementos relacionales así, como
+
+	para el motion graphics
+
+
+__________________________________________________________________________________________________________
+
+
+
+Warp:
+
+
+	_esta opción permite agregar a alementos ó layers, animadas el efecto "Ghosht", ó "Strands", de si mismo
+
+	lo cuál aumenta ó potencia el efecto de movimiento e inercia del mismo
+
+	para esto, selecciona la lasyers, deseadas y aplicamos "Warp"
+
+
+__________________________________________________________________________________________________________
+
+
+
+Spin:
+
+
+	_esta opción permite hacer animaciones de rotación infinitas con controladores de rotación como: dirección
+
+	bypass, velicidad, otros
+	
+
+
+__________________________________________________________________________________________________________
+
+
+
+Stare:
+
+
+	_esta opción permite emular el efecto de "constrain Orient", de programas 3D, así, podemos seleccionar las layers,
+
+	que deseamos que sigan la orientación de otra layer, y aplicamos ha estas "Stare"
+
+
+	luego en las opciones de "Rotation - Stare - Target", escogemos la layer, que hará de pivote de orientación
+
+
+	esto es especialmente útil para motion graphics, entre otros efectos posibles
+
+
+
+__________________________________________________________________________________________________________
+
+
+
+Color Rig:
+
+
+	_esta opción permite agregar una serie de efectos preconfigurables tanto de ajuste de color como blanco y negro
+
+	entre otras opciones de ajustes rápidos de la imágen
+
+
+
+__________________________________________________________________________________________________________
+
+
+
+Vignette:
+
+
+	_esta opción permite agregar una viñeta circular de forma rápida y altamente configurable a una layer
+
+
+
+__________________________________________________________________________________________________________
+
+
+
+Sort:
+
+
+	_esta opción permite agrupar u organizar los elementos en folder/carpetas, en el panel proyect/proyecto,
+
+	de forma rápida y práctiva
+
+	previamente debemos configurar las opciones deseadas en las preferencias del panel "Motion 2"
+
+

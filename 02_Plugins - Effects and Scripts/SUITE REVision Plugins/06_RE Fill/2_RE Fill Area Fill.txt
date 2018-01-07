@@ -1,0 +1,204 @@
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+	
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE: Fill Area Fill:
+___________________
+
+
+	_éste efecto nos permitirá corregir un canal alpha, de una respectiva layer, con áreas rotas ó agujereadas por 
+
+	desgaste ó deteriodo de la imágen como por un keyging, insuficiente
+
+
+	_de ésta manera, a través, de otra toma ó imágen de la misma escena en la cuál, no se encuentren éstos problemas 
+
+	con el canal alpha, podremos corregir ó eliminar directamente éstos problemas
+
+	
+	_ésta opción es especialmente útil cuando tenemos un motivo en una reserva a través, de una "Mask", y deseamos eliminar
+
+	imperfecciones dentro de éste, para lo cuál, debemos de duplicar ésta layer, para tomarla como referencia sin los
+
+	efectos de keyging, mattes, otros, para que así, podamos eliminar los defectos en el canal alpha, existentes
+
+
+
+
+
+	_Fill: Preocess Mode:
+
+
+		_Bypass:
+
+			_ésta opción desactivará el la visualización general del efecto, especialmente útil para la edición y
+
+			supervisión de la respectiva layer, y de las demás layers
+
+
+		_Filled:
+
+			_ésta opción nos permitirá visualizar las fallas en el canal alpha, ó canales de color de la respectiva
+
+			layer
+
+
+		_Filled Hole Only:
+
+			_ésta opción nos permitirá visualizar sólo las fallas en el canal alpha, ó canales de color de la respectiva
+
+			layer
+
+
+		_Show Holes Over Source:
+
+			_ésta opción nos permitirá visualizar las fallas en el canal alpha, ó canales de color de la respectiva
+
+			layer, sobre el material de archivo a la vez
+
+
+		_Show Holes:
+
+			_ésta opción nos permitirá visualizar las fallas en el canal alpha, ó canales de color de la respectiva
+
+			layer, de forma más distinguida sobre los demás elementos
+
+
+
+	_HOLES: Source Channel:
+
+
+		_Alpha:
+
+			_ésta opción nos permitirá trabajar sobre el canal alpha
+
+
+		_RGB:
+
+			_ésta opción nos permitirá trabajar sobre canales de color
+
+
+		_Luminance:
+
+
+			_ésta opción nos permitirá trabajar sobre valores de luminancia de la imágen
+
+
+
+	_HOLES: ALT Source:
+
+		_ésta opción nos permitirá seleccionar la layer, de la cuál, deseamos hacer correcciones sobre el canal alpha,
+
+		ó en canales de color
+
+
+	_HOLES: (White):
+
+		_ésta opción nos permitirá invertir los canales, tanto el canal alpha, como los canales de color
+
+
+	_HOLES: Threshold Point %:
+
+		_ésta opción nos permitirá indicar el umbral de ataque del sistema para la detección de huyos ó defectos
+
+		tanto en el canal alpha, como en los canales de color
+
+
+
+	_FILL: Fill Method:
+
+
+		_Blended Neighborhood:
+
+			_ésta opción nos permitirá hacer un muestreo de tipo "Vecindario mezclado", ó patrones mezclados en
+
+			la escena general
+
+
+		_Nearest Valid:
+
+			_ésta opción nos permitirá hacer un muestreo de tipo "Válido más cercano", ó patrones identificados
+
+			y que se encuentre más cercanos unos de otros
+
+
+
+		_Mirrow:
+
+			_ésta opción nos permitirá hacer un muestreo de tipo "Espejo", ó patrones identificados de forma 
+
+			reflejada ó modular dentro de la escena
+
+
+
+		_Blended Bounded:
+
+			_ésta opción nos permitirá hacer un muestreo de tipo "Encerrados y Mezclados", ó patrones identificados 
+
+			de forma aglomerada y mezclada a su vez, en la escena
+
+
+
+	_FILL: Smooth Color:
+
+		_ésta opción nos permitirá indicar un umbral de suavizado del color de la imágen resultante
+
+
+	_FILL: Smooth Direction:
+
+		_ésta opción nos permitirá indicar un umbral de suavizado de la dirección del  movimiento
+
+
+	_FILL: Noise %:
+
+		_ésta opción nos permitirá reducir el reido general en la imágen generado
+
+
+	_FILL: Anti Alias:
+
+		_ésta opción nos permitirá activar las opciones de antialiasing, ó suavizado de los bordes y aumento de
+
+		calidad de la imágen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

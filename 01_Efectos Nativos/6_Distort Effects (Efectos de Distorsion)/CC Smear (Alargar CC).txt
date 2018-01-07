@@ -1,0 +1,102 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá La difuminación para deformar un área radial en la capa fuente, basada en un punto 
+
+	de partida, hacia un punto final. Puede aplicar múltiples efectos de Smear a su capa de origen 
+
+
+	_para poner los puntos de refencia ó handles, de cada instancia del efecto en diferentes posiciones para crear 
+
+	Grandes efectos de deformación en su conjunto
+
+
+	_de ésta manera, podremos crear deformación por pixeles en un área deternimada ha modo de pellisco a través,
+
+	de dos handles, ó targets
+
+
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Smear: (Alargar CC)
+	________
+
+
+		_From:
+
+			_éste es el punto inicial de deformación handle, target, a través, del cuál, podremos indicar
+
+			 a partir de que punto comenzará la deformación de la imágen a través, de ésta área 
+
+			determinada
+
+
+		_To:
+
+			_éste es el punto final de deformación handle, target, a través, del cuál, podremos indicar
+
+			 a partir de que punto terminará la deformación de la imágen a través, de ésta área 
+
+			determinada
+
+
+		_Reach:
+
+			_ésta opción nos permitirá indicar la cantidad de fuerza ha aplicar de deformación entre
+
+			ambos puntos, handles, ó targets 
+
+
+			_así, entre mayor fuerza apliquemos mayor será de deformación ó estiranmiento de los pixeles
+
+			entre ambos handles, ó targets, en relación a su vez, a la distancia entre éstos
+
+
+		_Radius:
+
+			_ésta opción nos permitirá indicar la cantidad de pixeles tomados por el sistema lo que 
+
+			determinará a su vez, el radio ó grosor del sistema sobre la imágen base
+
+
+
+
+
+
+
+
+
+
+
+

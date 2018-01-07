@@ -1,0 +1,208 @@
+
+
+
+Enviroment Light and Perspective, para After Effects
+
+
+	Referencia
+
+		http://aescripts.com/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Buena Depth Cue 1_Camara Mapper:
+________________________________
+
+	
+	Descripción: (éste permite hacer mapeo de cámara en un entorno 3d, de layers, proxis)
+
+
+	Composition/Bunea Depth Cue,   /   Effects/proces		
+
+
+	Referencia en la web: http://www.rowbyte.com/buena-depth-cue/
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Buena Depth Cue 2_Depth Map:
+____________________________
+
+	
+	Descripción: (éste permite emular depth maps, a partir de proyecto de layers, en un entorno 3d)
+
+
+	Composition/Bunea Depth Cue,   /   Effects/proces		
+
+
+	Referencia en la web: http://www.rowbyte.com/buena-depth-cue/
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Buena Depth Cue 3_Rackfocus:
+____________________________
+
+	
+	Descripción: (éste permite emular depth maps, a partir de proyecto de layers, en un entorno 3d)
+
+
+	Composition/Bunea Depth Cue,   /   Effects/proces		
+
+
+	Referencia en la web: http://www.rowbyte.com/buena-depth-cue/
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Buena Depth Cue 4_Atmosphere:
+_____________________________
+
+	
+	Descripción: (éste permite emular ambiente 3d, a través, de niebla a partir de proyecto de layers, en un entorno 3d)
+
+
+	Composition/Bunea Depth Cue,   /   Effects/proces		
+
+
+	Referencia en la web: http://www.rowbyte.com/buena-depth-cue/
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Buena Depth Cue 5_Falloff Lighting:
+___________________________________
+
+	
+	Descripción: (éste permite emular entornos con uliminación hiperealista a paritr de proyecto de layers, en un entorno 3d)
+
+
+	Composition/Bunea Depth Cue,   /   Effects/proces		
+
+
+	Referencia en la web: http://www.rowbyte.com/buena-depth-cue/
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Buena Depth Cue 6_FlipSide:
+___________________________
+
+	
+	Descripción: (éste permite emular layers, de doble cada a paritr de proyecto de layers, en un entorno 3d)
+
+
+	Effects/DigieEffects BDC V2.5/DE Flipside	
+
+
+	Referencia en la web: http://www.rowbyte.com/buena-depth-cue/
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Multiplane:
+___________
+
+	
+	Descripción: (éste permite hacer mapeo de cámara en un entorno 3d, de layers, proxis)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(G) / Panel Preview - Version / Referencia (debajo del Panel FxPro)
+
+
+	Referencia en la web: http://www.mtmograph.com/motion/
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Normality:
+__________
+
+	
+	Descripción: (éste permite hacer el efecto de volumetrías 3d, a través, de "depth map")
+
+
+	Effects/minning.de Normality/Normality
+
+
+	Referencia en la web: http://www.frischluft.com/
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Pixel Cloud:
+____________
+
+	
+	Descripción: (éste permite hacer el efecto de volumetrías 3d, avanzadas a través, de "depth map", realices de aplicaciones 3d)
+
+
+	Effects/Blurrypixel/PixelCloud
+
+
+	Referencia en la web: http://aescripts.com/pixel-cloud/
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+ZbornToy:
+_________
+
+	
+	Descripción: (éste permite hacer el efecto de volumetrías 3d, avanzadas a través, de "depth map", realices de aplicaciones 3d)
+
+
+	Effects/Blurrypixel/PixelCloud
+
+
+	Referencia en la web: http://www.frischluft.com/zborntoy/index.php
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+pt_Panorama:
+____________
+
+	
+	Descripción: (éste permite hacer panoramas en arcos ó hasta en 360, de una imágen ó composición en un entorno 3d
+
+	espeialmente útil para hacer panoramas 3d, a modo de pantalla de cine 3d, envolvente
+
+
+	Referencia en la web: http://aescripts.com/pt_panorama/
+
+
+
+
+

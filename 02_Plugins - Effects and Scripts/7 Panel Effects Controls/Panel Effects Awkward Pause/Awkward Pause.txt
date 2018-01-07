@@ -1,0 +1,121 @@
+
+
+http://aescripts.com/awkward-pause/
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Awkward Pause
+
+
+	Awkward Pause:
+
+
+	-este nos permite aliminar las áreas de ruido ó silencio de un audio, lo cuál, nos exitaría el paso por
+
+	audition para limpieza del audio entre otras posibilidades y efectos posibles
+
+	
+	Workflow:
+	_________
+
+	_primero debemos importar un track, de audio y cargarlo en el timeline, de la composición respectiva y 
+
+	del cuál, y para ver el wareframe, del audio aplicaremos el shortcut "L/L"
+
+
+
+	_posteriormente los tendremos que hacer convertir el audio en keyframes, lo cuál, debemos seleccionar la 
+
+	layer, de audio y con ésta seleccionada hacer "mouse right click/keyframe assistant/converte audio to 
+
+	keyframes", para que así, el sistema genere una nueva layer, de tipo null object, con el nombre por 
+
+	defecto de "[Audio Amplitude]"
+
+
+	
+	Amplitude layer:
+
+		_lo siguiente que tendremos que hacer serciorarnos de que en éste valor esté el mismo nombre de la 
+
+		layer, con el volcado de keyframes, del audio (es recomendable que se llame de la misma forma que 
+
+		por defecto)
+
+
+	Effect Name:
+
+		_la opción por defecto es en los dos canales
+
+
+	Detect Threshold:
+
+		_ésta opción nos permite asignar un umbral de detección para el audio para lo cuál, es altamente 
+
+		recomendable desplegar las opciones de las propiedades animadas en la layer, "[Audio Amplitude]", 
+
+		a través, del shortut; "U/U", para que así, podamos ver los picos de los beats, de audio e indicar 
+
+		un umbral en relación a los picos de audio existentes en la layer, de audio
+
+
+	Minimum Silence:
+
+		_ésta opción nos permite indicar un mínimo de detección para los sonidos mínimos ha suprimir
+
+
+	Accelerate:
+
+		_indeterminado
+
+
+	Soften Edits by (frames)?:
+
+		_indeterminado
+
+
+	Precomse Layers?:
+
+		_ésta opción emcapsula todo el resultado en una precomposición "Recomendado"
+
+
+	Slide Layers:
+
+		_superponer layers, de audio generadas en precomposición "Recomendado"
+
+
+	Test:
+
+		_ésta opción le permite al sistema comprobar cuál, es la layer de audio y cuál, es la layer,
+
+		correspondiente a layer, del volcado "[Audio Amplitude]"
+
+
+		_así, como también, nos permitirá general el sistema para lo cuál, previamente tendremos que
+
+		seleccionar la layer, de audio antes de aplicar el "Test"
+
+
+		_al hacer el "Test", el sistema nos arrojará un mensaje con el sumario de las partes de audio
+
+		ha suprimir así, como también, en la layer, de audio agregará marks, sobre las áreas ó 
+
+		intervalos de audio ha suprimir
+		
+
+
+	Stop:
+
+		_a través, de ésta opción podemos detener el análisis y creación del sistema
+
+
+	Remove Pauses!:
+
+		_de ésta manera, el sistema generará un nueva precomposición con todo el sistema de sub-layers,
+
+		de audio creadas para mantener así, los espacios vacíos de las partes de audio suprimidas
+
+

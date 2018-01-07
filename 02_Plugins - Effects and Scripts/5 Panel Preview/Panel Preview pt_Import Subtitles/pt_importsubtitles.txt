@@ -1,0 +1,33 @@
+
+
+http://aescripts.com/pt_importsubtitles/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview / pt_importsubtitles
+
+
+	pt_importsubtitles:
+
+
+	-este nos permite importar archivos en diferetes formatos con el contenido de diferentes
+
+	sub-titulos en diferentes ubicaciones en el tiempo en formatos ".srt", ó ".txt", creados 
+
+	en programas como adobe encore, otros, así, como también, podremos crearnos nosotros mismos de forma
+
+	manual editando el contenido de éstos archivos y creando los nuestros de forma independiente
+
+
+	_de ésta manera manera al importar este archivo se cargará en la composición en una layer, de texto
+
+	la cuál, tendrá marcado cada uno de los cambios de textos ó sub-títulos a través, de unas "marks",
+
+	ó marcas a través, del tiempo sobre el timeline, de la misma
+
+
+	(Ver Tutorial)

@@ -1,0 +1,52 @@
+
+
+
+
+liberar ejes de propiedades de animación que están relacionados
+
+
+	referencia:
+
+		Expresiones - Tutorial After Effects	
+			
+			https://www.youtube.com/watch?v=uYrJuisklPY
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	1_para ésta debemos seleccionar una propiedad la cuál, tenga expresiones de relacionamiento con otra
+
+	propiedad
+
+
+	2_volviendo al ejemplo de la propiedad de rotación que está superditada a la translación de 
+
+	propiedad para que así, podamos también, poder rotas éste elemento mientras que a su vez, está 
+
+	superditado por la translación de otro elemento y liberar así, sus respectivos ejes de cordenadas
+
+
+	3_para ésto, debemos entrar en la expresión y agregar un signo de más "+", al final de la expresión
+
+
+	4_para a continuación tomar el "piquick", y arrastrarlo en éste caso hasta la  rotación de ésta misma
+
+	layer, para que así, agrege la propiedad de rotación en éste caso, de ésta manera nos permitirá rotar
+
+	nuevamente el elemento mientras mantiene su relacionamiento con la propiedad de translación, quedando
+
+	de la siguiente manera:
+
+
+		1_thisComp.layer("proof").transform.position[0]
+
+		2_+
+
+		3_transform.rotation
+
+		4_thisComp.layer("proof").transform.position[0]+transform.rotation
+
+	

@@ -1,0 +1,108 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá distorsiona una capa transponiendo cada píxel del sistema de coordenadas (x,y) de 
+
+	la capa a la posición correspondiente en el sistema de coordenadas polares, o a la inversa
+
+
+	_de ésta manera, podremos crear el mapa esférico en forma de "M", como también, podremos crear una 
+
+	mapeo circular ha 360, grados especialmente útil para un sin número de procesos y efectos de paso contínuo
+
+	
+	_como también, ésta última opción es muy utilizada para crear texturas y sistemas radiales para otros
+
+	procesos de integración y complementarios en composiciones
+
+	
+
+
+	
+	
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Polar Coordinates: (Coordenadas polares)
+	__________________
+
+
+		_Interpolación:
+
+			_éste valor nos permitirá indicar la cantidad de distorsión aplicada
+
+
+		_Type of Conversion:
+
+			_ésta opción nos permitirá indicar el algoritmo ha utilizar en los cuáles, 
+
+			dispondremos de los siguientes:
+
+
+			_Polar to Rect:
+
+				_ésta opción crear el mapa esférico en forma de "M"
+
+
+				_Mueve los píxeles mediante las coordenadas (r, ) de cada píxel como coordenadas 
+
+				(x,y). Por ejemplo, las coordenadas polares de radio 10 y 45° se convierten en 
+
+				coordenadas (x,y) de (10,45).
+
+
+			_Rect to Polar:
+
+				_ésta opción forma el mapa circular en 360, grados
+
+
+				_Mueve los píxeles mediante las coordenadas (x,y) de cada píxel como coordenadas 
+
+				(r, ). Por ejemplo, una coordenada (x,y) de (2,3) se convierte en una coordenada 
+
+				polar con un radio de 2 y un grado de 3. Las líneas horizontales se distorsionan 
+
+				en círculos y las verticales, en radiales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

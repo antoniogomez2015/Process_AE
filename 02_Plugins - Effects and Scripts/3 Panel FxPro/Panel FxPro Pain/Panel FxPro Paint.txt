@@ -1,0 +1,25 @@
+
+
+panel nativo de after effects
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+panel FxPro / paint
+
+
+	Paint
+
+		_éste nos permite editar todas las propiedades de pintura y de clonación sea en los canales
+
+		de color ó canal alfa así, como también, para las opciones de clonado, para cuando creamos un 
+
+		nuevo arte de pintura ó clonado ó cuando deseamos editar alguno existente
+
+
+
+
+

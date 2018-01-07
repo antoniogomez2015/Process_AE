@@ -1,0 +1,149 @@
+
+
+http://aescripts.com/templater-pro/
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Templater
+
+
+	Templater:
+
+
+	-este nos permite automatizar composiciones para que éstas se conviertan en plantillas de render a 
+
+	través, de data obtenida de una tabla de un documento de ofice, realizado con herramientas online de
+
+	google, así, dicho documento lo podemos utilizar desde la nube ó descargado desde nuestro equipo
+
+
+	_así, el sistema tomará tanto la información como título, captions, images, y demás información del 
+
+	documento ha modo de instrucciones, de ésta manera, podremos indicar las ruta de archivos ha intercambiar
+
+	así, como la ruta de salida de render y plantilla de render
+
+
+	_de ésta manera, podremos automatizar todo el proceso para así, primeros ó terceros puedan hacer 
+
+	modificaciones en serie las cuales se convertirán en versiones de render
+
+
+		
+
+
+
+	Workflow:
+	_________
+
+
+	Set the data source:
+	____________________
+
+	_así, podremos seleccionar desde nuestra ruta de proyecto una archivo de tipo spreadsheet, hecho en google 
+
+	drive, y descargado en nuestro disco duro
+
+
+	_ésta es la opción más recomendada ya que la opción de sincronización lo más seguro es que requerirá 
+
+	suscripción online, directamente desde la página www.aescript.com, ó algo similar
+
+
+
+	Set the source footage folder:
+	______________________________
+
+	_en ésta opción debemos seleccionar una ruta en nuestra estructura de proyecto en la cuál, debemos de tener
+
+	todas las imágenes que solicitará el sistema en relación a la hoja de cálculo externa
+
+
+
+	Set the render output folder:
+	_____________________________
+
+	_en ésta opción debemos de indicar un ruta de salida de render en la cuál, se guardarán todos los archivos 
+
+	de render que se realizen de forma automatizada por el sistema
+
+
+
+	Render Options:
+	_______________
+
+	_en ésta opción ó sección debemos de seleccionar nuestros presets, de render, para los diferentes casos y 
+
+	requerimientos
+
+
+	
+	Filters:
+	________
+
+	_más luego tendremos unas opciones de filtrado y prefijos los cuales nos permitirán filtrar datos del 
+
+	archivo de tipo office, externo
+
+
+	_de ésta manera, podremos filtrar entre tomar información de las columnas ó filas "Render Row/Through"
+
+
+	_así, como los criterios que el sistema tomará como:
+
+		
+		_Current State:
+
+			_ésta opción renderizará todos los elementos
+
+
+		_Next row:
+
+			_ésta opción renderizará el siguiente elemento
+
+
+		_Preview row:
+
+			_ésta opción renderizará el previo elemento
+
+
+		_Random row:
+
+			_ésta opción renderizará elementos aleatorios
+
+
+		_Start row:
+
+			_ésta opción renderizará el primer elemento
+
+
+		_End row:
+
+			_ésta opción renderizará el último elemento
+
+
+	_así, como también, tendremos la posibilidad de agregar un prefijo general para los elementos
+
+	renderizados a través, del campo; "Job Prefix:"
+
+
+	
+	Render Preview:
+	_______________
+
+
+	_y por último tendremos la posibilidad de hacer preview, y render de las confiraciones y opciones
+
+	seleccionadas
+
+
+
+
+	
+
+
+
+

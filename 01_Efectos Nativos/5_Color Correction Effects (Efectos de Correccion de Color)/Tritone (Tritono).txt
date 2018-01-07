@@ -1,0 +1,91 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá teñir una imágen ó agregarle una dominante de color cambiando la información de
+
+	los pixeles originales de la imágen, de igual manera que el efecto de tint
+
+
+	_más con la diferencia de el efecto tritono nos permitirá influencias la gamma de los medios todonso de la
+
+	imágen de forma independiente a través, de control extra para los medio tonos
+
+
+	_de ésta manera, dispondremos de un control para las sombras, y negros, otros para los medios tonos y otro
+
+	para las altas luces ó brillos de la imágen
+
+
+	_así, como también, podremos hacer una integración con la imágen orignal para hacer una fusión graduable 
+
+	la cuál, nos permita hacer correcciones y ajustes sutiles de color
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Tritone: (Tritono)
+	________
+
+
+		_Highlights:
+
+			_ésta opción nos permitirá indicar color para altas luces de la imágen
+
+
+		_Midtones:
+
+			_ésta opción nos permitirá indicar color para los medios tonos de la imágen
+
+
+		_Shadows:
+
+			_ésta opción nos permitirá indicar color para sombras y netros de la imágen
+
+
+		_Blend With Original:
+
+			_ésta opción nos permitirá graduar la influencia del sistema ó modificación 
+
+			del color sobre la imágen original de forma graduable para poder así, hacer
+
+			correcciones sutiles de color
+
+
+
+
+
+
+
+
+
+
+
+

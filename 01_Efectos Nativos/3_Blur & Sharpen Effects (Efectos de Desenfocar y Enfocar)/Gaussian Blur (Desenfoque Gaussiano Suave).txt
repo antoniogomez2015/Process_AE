@@ -1,0 +1,90 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permitirá crear desenfoques rápidos y práctivos en los cuáles, podremos hacer también,
+
+	desenfoque direccionales, tanto horizontales como verticales
+
+
+	_éste efecto no es tan agresivo como box, compound, otros, más si es parecido ha "fast blur" 
+
+
+	_más bien, éste efectos es suavizado y sutíl y disimula imperfecciones y detalles	
+
+
+	_el efecto Desenfoque gaussiano permite desenfocar y suavizar la imagen, así como eliminar el ruido 
+
+
+	_el ajuste de la calidad de la capa no afecta al efecto Desenfoque gaussiano
+
+
+
+	Aplicación: 
+
+	_la diferencia más notable del efecto gaussian blur, en relación al efecto de fast blur, es que el efecto
+
+	gaussian blur, puede trabajar con resoluciones de imágenes más bajas, en el timeline, render
+
+
+	_de ésta manera, podremos bajar la calidad de las imágenes en el timeline, y el efecto se aplicará de
+
+	igualmenera a diferencia del efecto de fast blur 
+
+
+	_para lo cuál, debemos de seleccionar la respectiva layer, y con ésta seleccionada aplicamos el shortcut, 
+
+	"Control + Shift + U", especialmente en versiones antiguas de after effects, como css3, y anteriores
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Gaussian Blur: (Desenfoque Gaussiano Suave)
+	______________
+
+	_Blurriness:
+
+		_éste valor nos permitirá indicar la cantidad de desenfoque ha aplicar
+
+
+	_Blur Dimensions:
+
+		_éste valor nos permitirá indicar el sentido de desenfoque pudiéndo así, hacer desenfoques
+
+		rectangulares, al poder desenfocar homogeneamente ó sólo verticalmente u horizontalmente
+
+
+		_a través, de un selector en el cuál, podremos seleccionar entre éstas tres formas de aplicación
+
+		deñ desenfouqe
+	
+
+
+
+
+
+
+

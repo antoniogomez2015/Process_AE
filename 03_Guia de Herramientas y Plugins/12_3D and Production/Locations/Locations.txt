@@ -1,0 +1,60 @@
+
+
+
+
+Locations
+
+
+	Referencia:
+
+		http://aescripts.com/locations/
+
+
+	SEGUIR INVESTIGANDO HASTA LOGRAR HACER EL EFECTO COMPLETO
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite crear el efecto mapas 3d, con volumetrías espaciales a través, de elementos nulos 3d, por medio
+
+	de la información de mapa reales tomados de páginas webs, especializados
+
+
+
+Aplicaciones:
+_____________
+
+
+	_este permite construir mapas 3d, sobre el globo terráqueo en after effects, de forma altamente configurable y 
+
+	animable tanto para motion graphycs, así, como para otros procesos de producción incluso automatizables y auto
+
+	ajustables en relación a actualizaciones reales de los mapas através, de páginas webs, especializadas
+
+
+	_el inconveniente que tiene éste sistema es sobre las versiones actuales de las páginas que disponen de éste 
+
+	tipos de mapas entre otros factores
+
+
+	_(por ésta razón deben hacerce más pruebas sobre éstos sistemas hacerlo bien)
+
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+	

@@ -1,0 +1,33 @@
+
+
+http://aescripts.com/pt_panorama/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+panel FxPro / pt-Panorama
+
+
+	pt-Panorama
+
+
+	-este nos permite realizar panoramas cilindricos a traves, de una layer, de una imagen o composicion
+
+	seleccionada, podemos generar panoramas cilindricos cerrados o en grados determinados por nosotros
+
+	
+	-dicho panorama cilindrico se conforma de una serie de solidos, con una cantidad la cual la indicamos
+
+	nosotros 8, 16, 32...
+
+
+	-y sobre los solidos que conforman el cilindro se proyecta la imagen o composicion seleccionada
+
+	asi, se conforma el panorama, de esta manera, entre mas cantidad de solidos mayor sera la resolucion
+
+	o definicion circular del panorama cilindrico
+
+	

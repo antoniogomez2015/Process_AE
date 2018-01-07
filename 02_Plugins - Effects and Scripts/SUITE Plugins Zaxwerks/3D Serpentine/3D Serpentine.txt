@@ -1,0 +1,503 @@
+
+
+
+
+	Zaxwerks 3D Flags
+
+		Tutorial After Effects Plugins Zaxwerks
+			
+			https://www.youtube.com/watch?v=zWIn_mpk2NI
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Zaxwerks 3D Serpentine:
+	_______________________
+
+
+	_éste plugins, nos permitirá crear efectos de tipo strands, y demás efectos especiales de extrusión entre
+
+	otras posibilidades para la producción y motion graphycs, éste plugins, es similar al efecto "TAO", de 
+
+	"Red Giand/Trackcode/TAO"
+
+
+
+	Workflow:
+	_________
+
+	_para lo cuál, lo primero será tener creada una composición de trabajo así, como al menos una layer, sobre
+
+	la cuál, vamos ha aplicar el sistema
+
+	
+	_así, como también, será recomendable crear una cámara en la composición respectiva para un mejor control
+
+	y visualización del sistema
+
+
+	_así, como también, tendremos que crear otra layer, en la cuál, debemos de crear un path, "de animación", ó
+
+	de recorrido en el cuál, el sistema hará la trayectoria de la serpendina (no sirven path, de masks), por ende
+
+	lo más recomendado es crear el path, a través, de la animación de una propiedad de ésta respectiva layer, por
+
+	ejemplo, la propiedad "position"
+
+
+
+	3D Serpentine:
+	______________
+
+	_serpent 1 (globals):
+
+		_extrude path:
+
+			_ésta opción nos permite indicarle al sistema la layer, la cuál, tiene una path, 
+
+			de animación creado en una de sus propiedades, ej, "position"
+
+
+			_para a continuación darle al botón de "Serpetine Click Update", para que así, se
+
+			refresque el sistema y éste sea creado
+
+
+			_de ésta manera, el sistema se creará a partir de una forma predeterminada que 
+
+			dispone el sistema, en éste caso un cuadrado
+
+
+			_así, de ésta manera, el sistema creará una extrusión ó "serpentina", de la forma
+
+			base del sistema, generando así, el sistema
+
+
+		_path offsets:
+
+			_ésta opción nos permitirá desplazar la serpentina en el espacio 3d, ó viewport,
+
+			emulando así, el desplazamiento ó movimiento de la serpentina
+
+
+		_length:
+
+			_ésta opción nos permite alargar ó acorta la duración ó longitud de la serpentina
+
+
+		_cross section shape:
+
+			_ésta opción nos permitirá seleccionar entre una serie de forma personalizadas
+
+			sobre las cuales se podrá generar el sistema
+
+
+			_así, como también, indicarle al sistema que deseamos utilizar una forma 
+
+			personalizada, dichas opciones son:
+
+
+				_Lane:
+
+					_ésta opción creará el sistema a partir de una línea ó cinta
+
+
+				_reactangle:
+
+					_ésta opción creará el sistema a partir de un rectángulo ó cuadrado
+
+
+				_circle:
+
+					_ésta opción creará el sistema a partir de un circulo
+
+
+				_triangle:
+
+					_ésta opción creará el sistema a partir de un triángulo
+
+
+				_hexagon:
+
+
+					_ésta opción creará el sistema a partir de un hexágonos
+
+
+				_star:
+
+					_ésta opción creará el sistema a partir de una estrella
+
+		
+				_cross:
+
+					_ésta opción creará el sistema a partir de una cruz
+
+
+				_use cross section layer:
+
+					_ésta opción creará el sistema a partir de una layer, 
+
+					personalizada la cuál, debemos indicar en el paso siguiente
+
+
+
+		_cross section layer:
+
+			_ésta opción nos permite indicarle al sistema una layer, personalizada de la cuál,
+
+			el sistema tomará su forma para generar el sistema a partir de ésta
+
+
+		_draft path smoothness:
+
+			_ésta opción nos permitirá gradurar la resolución de visualización del sistema
+
+			en relación a la transición del path, de animación
+
+
+		_best path smoothness:
+
+			_ésta opción nos permitirá gradurar la resolución de la extrusión del sistema la
+
+			cuál, representará una mayor transición y semenjanza con el path, de animación,
+
+			en relación a la transición del path, de animación
+
+
+		_draft cross section sm:
+
+			_ésta opción nos permitirá aumentar ó disminuir la resolución de la forma 
+
+			resultante en el sistema en calidad de visualización
+
+
+		_best cross section smo:
+
+			_ésta opción nos permitirá aumentar ó disminuir la resolución de la forma 
+
+			resultante en el sistema en calidad de render
+
+
+		_lock scaling to path:
+
+			_(indeterminado)
+
+
+		_auto orientation:
+
+			_(indeterminado)
+
+
+		_orientation smoothing:
+
+			_(indeterminado)
+
+
+		_head end cap:
+
+			_ésta opción nos ofrece una serie de pressets, lo cuáles nos permitirán cambiar
+
+			el remate del caps inicial ó frontal, front, del sistema de cada 
+
+			seperntine
+
+
+		_head end cap size:
+
+			_ésta opción nos permite indicarle al sistema cuanto se proyecta ó prolonga el
+
+			respectivo caps, en relación al pressets, de remate del caps, seleccionados en el
+
+			paso anterior
+
+
+		_head end cap offset:
+
+			_ésta opción nos permite hacer animaciones especiales donde es proyectado ó 
+
+			prolongado el respectivo caps, de forma independiente de la serpentina a través,
+
+			del trazado de animación 
+
+
+		_tail end cap:
+
+			_ésta opción nos ofrece una serie de pressets, lo cuáles nos permitirán cambiar
+
+			el remate del caps final ó cola, tail del sistema
+
+
+		_tail end cap size:
+
+			_ésta opción nos permite indicarle al sistema cuanto se proyecta ó prolonga el
+
+			respectivo caps, en relación al pressets, de remate del caps, seleccionados en el
+
+			paso anterior
+
+
+		_tail end cap offset:
+
+			_ésta opción nos permite hacer animaciones especiales donde es proyectado ó 
+
+			prolongado el respectivo caps, de forma independiente de la serpentina a través,
+
+			del trazado de animación 
+
+
+		_show parts:
+
+			_ésta opción nos permite marginar ó liminar las partes del sistema que deseamos
+
+			visualizar ó animar así, podremos ver sólo el body, ó los caps, ó una combinación
+
+			entre éstos a través, de diferentes configuraciones posibles
+
+
+		_show past start:
+
+			_ésta opción nos permite visualizar una parte previa al sistema tanto en su parte
+
+			inicial como final, front/tail
+
+
+		_show past end:
+
+			_ésta opción nos permite visualizar una parte previa al sistema tanto en su parte
+
+			inicial como final, front/tail
+
+
+		_track 3D layer:
+
+			_(indeterminado)
+
+
+		color:
+
+			_éstas opciones nos permitirán cambiar el color de las partes del sistema
+
+
+			_body color:
+
+				_ésta opción nos permite cambiar el color al body, ó parte principal del
+
+				sistema a través, de un selector de color personalizable por nosotros
+
+
+			_body color map:
+
+				_ésta opción nos permite indicar el color al body, ó parte principal del
+
+				sistema a través, de una textura de color indicada por una layer, que
+
+				debemos indicar para éste proceso
+
+
+			_x tilling:
+
+				_ésta opción nos permite desplazar las texturas que utilizemos para el
+
+				proceso de colorización del sistema a través, de texturas así, podremos
+
+				en éste caso desplazar las texturas en el eje "X"
+
+
+			_Y tilling:
+
+				_ésta opción nos permite desplazar las texturas que utilizemos para el
+
+				proceso de colorización del sistema a través, de texturas así, podremos
+
+				en éste caso desplazar las texturas en el eje "Y"
+
+
+
+			_lock map to path:
+
+				_(indeterminado)
+
+
+			_body reflectivity:
+
+				_ésta opción nos permite variar y controlar la reflectividad del sistema
+
+				sobre sus material, textura y colores del body
+
+			
+			_head color control:
+
+				_ésta opción nos permite seleccionar que tipo de criterio se utilizará 
+
+				para la aplicación de color a el caps, front
+
+
+				_de ésta manera, podremos escoger entre la asignación de color a través,
+
+				de un picker, una textura ó un color importado ó heredado
+
+
+			_head color:
+
+				_ésta opción nos permite seleccionar un color a través, de un picker, el
+
+				cuál, será asignado al caps, front, ó head, del sistema
+
+
+			_head color map:
+
+				_ésta opción nos permite indicar el color para el caps, ó parte inicial 
+
+				del sistema a través, de una textura de color indicada por una layer, que
+
+				debemos indicar para éste proceso
+
+
+
+			_head reflectivity:
+
+				_ésta opción nos permite variar y controlar la reflectividad del sistema
+
+				sobre sus material, textura y colores del caps, front, ó head
+
+
+
+			_tail color control:
+
+				_ésta opción nos permite seleccionar que tipo de criterio se utilizará 
+
+				para la aplicación de color a el caps, tail ó back
+
+
+
+			_tail color:
+
+				_ésta opción nos permite seleccionar un color a través, de un picker, el
+
+				cuál, será asignado al caps, front, ó head, del sistema
+
+
+			_tail color map:
+
+				_ésta opción nos permite indicar el color para el caps, ó parte inicial 
+
+				del sistema a través, de una textura de color indicada por una layer, que
+
+				debemos indicar para éste proceso
+
+
+
+			_tail reflectity:
+
+				_ésta opción nos permite variar y controlar la reflectividad del sistema
+
+				sobre sus material, textura y colores del caps, tail, ó back
+
+
+			_sepent opactity:
+
+				_ésta opción nos permite graduar la opacidad de todo el sistema como un
+
+				todo
+
+
+		_serpent 2,3,4.....10:
+
+			_éstas opciones nos permiten repetir todo el proceso para generar así, hasta 10,
+
+			serpentinas a la vez, las cuales tendrán configuraciones independientes la unas
+
+			de las otras
+
+
+		_rendering style:
+
+			_éstas opciones nos permiten seleccionar el tipo de visualización y render del 
+
+			sistema global, así, podemos hacer que éste se vea en modo estandar, cartoon,
+
+			wareframe, otros
+
+
+		_best quality renderer:
+
+			_éstas opciones nos permiten seleccionar entre motor de render de entre software,
+
+			y OpenGL
+
+
+		_specular brightness:
+
+			_ésta opción nos permite aumentar ó disminuir la reflección especular de todo el
+
+			sistema en general
+
+
+		_specular sharpness:
+
+			_ésta opción nos permite aumentar ó disminuir el enfoque especular de todo el
+
+			sistema en general
+
+
+		_bump map:
+
+			_ésta opción nos permite asignarle una imágen ó layer, que haga de mapa de tipo
+
+			"bump", ó relieve
+
+
+		_bump height:
+
+			_ésta opción nos permite graduar cuán intenso será el efecto del mapa de tipo
+
+			bump, que asignamos en el paso anterior para el sistema
+
+
+		_reflection map:
+
+			_ésta opción nos permite asignarle una imágen ó layer, que haga de mapa de tipo
+
+			"reflection", ó reflexión a todo el sistema
+
+
+		_reflection map offset:
+
+			_ésta opción nos permite desplazar el mapa de reflexión que asignamos en el paso
+
+			anterior para el sistema
+
+
+		_shadow catcher plane:
+
+			_ésta opción nos permite asignarle una layer, al sistema para que ésta haga de 
+
+			catch shadow, ó reciba las sombras proyectadas por el sistema
+
+			
+			_NOTA: ésta layer, debe estar ubicada en el espacio en relación a la lógica de la
+
+			escana para que así, ésta layer, pueda recibir de forma física en relación de 
+
+			donde se proyectan las sombran a partir de las luces existentes
+
+
+		_shadow quality:
+
+			_ésta opción nos permite seleccionar de forma logarítmica la calidad de las sombras
+
+			generadas por ele sistema a partir de rangos que van desde "500-4000"
+
+
+		_online documentation:
+
+			_ésta opción nos brinda un enlace directo a la documentación online, para octener
+
+			así, mayor información del sistema y del fabricante del plugins
+
+
+
+

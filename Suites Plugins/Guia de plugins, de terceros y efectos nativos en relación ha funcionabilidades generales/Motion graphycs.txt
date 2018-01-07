@@ -1,0 +1,24 @@
+
+
+
+
+Guia de plugins, de terceros y efectos nativos en relación ha funcionabilidades generales
+
+
+	"Motion Graphycs"
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	_Red Giant / Trapcode / TAO:
+
+		_ésta opción nos permite la posibilidad de elementos configurados ha modo de módulos y super módulos los cuales
+
+		podremos proyectar de forma aleatoria y en cordenadas de trabajo específicas entre otras posibilidades avanzadas
+
+		para el proceso de producción
+
+

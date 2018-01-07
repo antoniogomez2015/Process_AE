@@ -1,0 +1,112 @@
+
+
+
+
+Holomatrix
+
+
+	Referencia:
+
+		https://www.redgiant.com/products/holomatrix/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite hacer el efecto nightshop, entre otros posibles ó derivados
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_especialmente útil para efectos complementarios en producción y procesos ya que éste es altamente configurable
+
+	y animable poscreación de éste sistema
+
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_para ésto debemos tener creadas un composición base de trabajo
+
+
+	_así, como una layer, ó composición a la cuál, se le agregará el sistema holomatrix
+
+
+
+Apply Holomatrix:
+
+	_ésta opción permite crear el sistema, para ésto, primero debemos seleccionar una layer, ó composición
+
+	anidada dentro de la respectiva composición de trabajo
+
+
+	_luego con la layer, ó composición, respectiva seleccionada hacemos "Apply Holomatrix", así, se creará el
+
+	sistema para la layer, seleccionada
+
+
+	_así, a partir de la creación del sistema la layer, seleccionada se pre-compondrá en una nueva composición
+
+	la cuál, contendrá el sistema
+
+
+	_y dentro de ésta precomposición se encontrará toda una serie de composiciones que conforman el sistema con todos
+
+	sus controles y elementos de ajustes, otros, los cuales podremos modificar para hacer ajustes avanzados
+
+
+
+Remove Holomatrix:
+
+	_ésta opción permite remover un sistema previamente aplicado ha una layer, ó composición
+
+
+Presets:
+
+	_posteriormente creado el sistema y antes de crearlo tendremos a la disposición de una serie de presets, los cuales nos
+
+	brindan unos ajustes rápidos y diversos de diferentes tipos posibles de apariencia del sistema
+
+
+	_ésto es especialmente útil para hacer grandes cambios y rápidos con poco esfuerzo
+
+
+Apply Preset:
+
+	_ésta opción permite aplicar al sistema seleccionado un preset, seleccionado en el paso anterior
+
+
+Update List:
+
+	_(opción indeterminada)
+
+
+Scale Setting For:
+
+	_ésta opción permite escalar el sistema de forma relativa, yendo desde formados SD, hasta HD
+
+
+Apply Scaling:
+
+	_ésta opción permite aplicar la escala del sistema seleccionada en el paso anterior
+
+
+
+	
+

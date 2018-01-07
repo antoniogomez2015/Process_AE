@@ -1,0 +1,138 @@
+
+Descripció de plugins nativos de after effects
+
+	1.Distort/distorción
+
+		1.1.Bezier Warp
+
+			deformación en el espacio de una capa con bezieres, nodos y manejadores en sus esquinas animables
+
+		1.2.Bulge
+
+			burbuja con efecto de lupa de acercamiento, animable
+
+		1.3.CC Bend It
+
+			torción vertical de la imágen en grados al mejor estilo 3d
+
+		1.4.CC Bender
+
+			distorcionador de punto y animable especial para hacer fuego u otros fluidos simulados
+
+		1.5.CC Blobbylize 
+
+			efecto de posterizados diplicados y sintetizados
+
+		1.6.CC Flo Motion
+
+			atractor de 2 puntos de distorción animable
+
+		1.7.CC Griddler
+
+			matríz configurable y editable que enmascara la capa ó la distorcionada, también puede hacer el efecto de inflado
+
+		1.8.CC Lens
+
+			efecto de ojo de pez acelerado y configurable
+
+		1.9.CC Page Turn
+
+			efecto de transición de página
+
+		2.0.CC Power Pin
+
+			generador de perspectiva y sketch a través de las poins en las esquinas de la capa
+
+		2.1.CC Slant
+
+			distorción vertical configurable
+
+		2.2.CC Smear
+
+			efecto liquid con 2 punto manejadores, de un punto "a", a un punto "b"
+
+		2.3.CC Split
+
+			separar un capa en 2 a través de una avertura de un punto "a" un punto "b"
+
+		2.4.CC Split 2
+
+			separar una capa en 2 a través de un avertira de un punto "a" un punto "b", controlando las averturas independientemente
+
+		2.5. CC Tiler 
+
+			matríz modular escalable como módulos y supermódulos animable
+
+		2.6.Corner Pin
+
+			generador de perspectiva con puntos manejadores en las esquinas de la capa
+
+		2.7.Displacement Map
+
+			aplicar mapas de desplazamientos creados a capas para generar efectos de volúmen y desplazamientos 3d
+
+		2.8.Liquify
+
+			efecto de liquado al mejor estilo photoshop y con un punto animable
+
+		2.9.Magnify
+
+			lupa en círculo con efecto de magnificación de la imágen dentro
+
+		3.0.Mesh Warp
+
+			maya que permite a través puntos asignados generar pliegues y doblesces para generar volúmen y perspectiva 3d
+
+		3.1.Mirror 
+
+			permite hacer una imágen reflejo a partir de punto de referencia en el cual se puede rotar en la capa misma
+
+		3.2.Offset
+
+			permite hacer modulos y supermódulos como matrices animables por un handle ó punto de referencia
+
+		3.3.Optics Compensation
+
+			permite hacer una compensación entre la perspectiva del plano de la capa y el pano de la cámara haciendo una compensación en la perspectiva emulando un virado 3d
+
+		3.4.Polar Cordinates
+
+			emula en 2d un efecto circular que da la sensación de una esfera en sentido sentrífigo ó centrípeta
+
+		3.5.Reshape
+
+			permite hacer un blend shape de capas intercambiando su máscaras para así cambiar la forma resultante
+
+		3.6.Ripple
+
+			permite generar un efecto de ondas centrífugas como un eco de un impacto en un fluido
+
+		3.7.Rolling Shutter Repair
+
+			permite corregir el ruido causado por el movimiento de tomas hechas a mano alzada
+
+		3.8.Smear
+
+			permite extraer y proyectar selectivamente las máscaras de una capa sobre la misma para su utilización
+
+		3.9.Spherize
+
+			permite generar un área circular en la cual se puede crear una efecto de esferizado ó burrbuja de acercamiento y distorción de la capa en el área determinada
+
+		4.0.Transform
+
+			permite recrear las propiedades basicas de edición de las capas dentro de las propiedades del efecto, tales como: Anchor Point/Position/Scale/Skew/Rotation/Opacity/Shutter Angle
+
+		4.1.Turbulent Displace
+
+			permite generar una ondulación en una dirección dando la sensación de movimiento, volúmen, forma, perspectiva y 3d 
+
+		4.2.Twirl
+
+			permite generar una distorción en forma enroscada ó como un tornado a través de un punto de referencia configurable
+
+		4.3.Warp
+
+			permite hacer distorciones a través de patrones seleccionables igual a Photoshop para distorciones controlables y animables
+
+			

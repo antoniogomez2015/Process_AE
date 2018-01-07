@@ -1,0 +1,62 @@
+
+
+http://aescripts.com/batchprocessor/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Batch Processor
+
+
+	Set Render Batch Processor:
+
+
+	-este nos permite hacer acciones por lote al modo de las "actions", de photoshop, de ésta manera podremos
+
+	aplicar diferentes presets, de efectos ha footage, directamente ó ha composiciones específicas
+
+
+	_lo más recomendado y práctico es aplicarselo ha footage, como imagenes seleccionadas en el panel project
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos tener cargado contenido en el panel project, como también, alternativamente haber creado
+
+	composiciones previas ha utilizar para éste proceso de requerirlo así
+
+
+	_para luego, seleccionar los elementos seados del panel project, ejemplo, un grupo de imagenes para luego,
+
+	con éstas seleccionadas ir al panel "Batch Processor"
+
+
+	_y seleccionar deformaciones en el viewport, pos-proceso
+
+
+	_así, como también, aplicar un preset, dándole ha "Browse", para que así, se abra en buscardor de presets,
+
+	instalados y disponibles en efter effects
+
+
+	_como también, podremos asignar un preset, de render ó ajustar nuestros propios settings
+
+
+	_y por último darle ha "Excecute", para que así, el sistema envíe éste elemento ó composición al render queve
+
+
+	_para allí, en el render queve, podamos aplicar un preset, de render ó configuremos las opciones de salida de
+
+	render para que comience el proceso y se rendericen los elementos seleccionados
+
+	con el preset, de effects, aplicados a cada uno de ellos
+
+
+

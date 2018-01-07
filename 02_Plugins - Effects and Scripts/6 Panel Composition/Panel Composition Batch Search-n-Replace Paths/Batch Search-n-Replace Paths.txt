@@ -1,0 +1,37 @@
+
+
+http://aescripts.com/batch-search-n-replace-paths/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Batch Search-n-Replace Paths
+
+
+	Batch Search-n-Replace Paths:
+
+
+	-este nos permite reemplazar material de archivo de un proyecto, inclusive cambiar varias características
+
+	de un proyecto como su ubicación, archivos de footage, que lo componen entre otras posibilidades
+
+
+	_ésto último está disponible para las últimas versiones de éste plugins (hay que buscarlo)
+
+
+
+	Workflow:
+	_________
+
+
+	_ver tutorial de la última versión
+
+
+
+
+
+
+

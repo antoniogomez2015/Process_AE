@@ -1,0 +1,387 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear un incrustamiento de color ó keygin, totalmente graduable y personalizable
+
+	en relación a nuestras necesidades
+
+
+	_así, como también, éste proceso también, nos servirá para lograr diferentes procesos de producción y paso
+
+	contínuo
+
+
+	NOTA: éste efecto es recomendable para chromas perfectos ó con pocas inperfecciones y variaciones de en la
+
+	iluminación con la cuál, fue tomada la toma general ó fondo verde ó azul
+
+	
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+	Workflow:
+	_________
+
+	1_una vez hemos aplicado el efecto "Color Difference Key", sobre la layer, a la cuál, deseamos hacer 
+
+	transparente una parte de ésta imágen debemos seleccionar el área ha hacer transparente a través, del
+
+	picker, de selección de color
+
+
+	_tanto de la opción de "Key Color", como de la opción del primer picker, ó picker, superior de las
+
+	opciones de "Preview", de la parte superior del efecto del panel "effects controls"
+
+
+	_para que así, el sistema capture el color ha eliminar de la imágen resultante
+
+
+
+	2_para a continuación comenzar ha realizar el matte, ó alpha, autogenerado por el sistema para que así,
+
+	podamos refinar y ajustar éste matte, en relación a las necesidades del color que desiemos eliminar
+
+
+	_de ésta manera, dispondremos en las opciones de "Prevew", de el modo de visualización de "Beta","B", 
+
+	en la cuál, debemos de configurar el área ha eliminar la cuál, debemos de conseguir representar por un 
+
+	color negro puro
+
+
+	_para lo cuál, dispondremos de el picker, de color negro de la parte media de la opción de "Preview",
+
+	de ésta manera, una vez hemos seleccionado el picker, negro debemos hacer click, en la imágen derecha
+
+	de la sección de "Prevew", sobre el área del color ha eliminar
+
+
+	_de ésta manera, a través, de éste proceso le estaremos indicando al sistema que deseamos hacer matte, 
+
+	esa área sobre la cuál, hemos clickado en la imágen derecha del área del "Preview", para que así, ésta
+
+	área en la imágen derecha de la zona de preview, se torne de color negro ó del color del matte, negro
+
+
+
+	3_así, como también, podremos repetir el proceso del paso "2", para indicar las áreas que desiamos se
+
+	convirtan de color "White", sobre el matte, generado de ésta manera, éste proceso lo debemos realizar
+
+	en vez de con que el picker, negro de la zona media del área de "Preview"
+
+
+	_lo debemos hacer con el picker, de la parte inferior ó de más abajo del área de "Preview", para que así,
+
+	obtengamos una imágen totalmente posteriozada en blanco y negro ha modo de "bitmap", la cuál, debería
+
+	ajustarse a las necesidades de nuestro requerimiento
+
+
+
+	4_para por último, proceder hacer ajustes en el matte, resultante a través, de los valores de "gamma, 
+
+	gain, pedestal", de los distintos valores disponibles
+
+
+	_de éste manera, éste proceso consiste principalmente en mover los valores de los blancos para que así, éstos
+
+	acentúen aún más el efecto de imágen bitmap, en relación al área que nos interesa que sea transparente ó área
+
+	ha eliminar de la imágen resultante
+
+
+	_a continuación los valores que tenemos disponibles y son los más recomendables ha utilizar para el ajuste
+
+	de los blancos para lograr así, el resultado deseado
+
+
+		_Partial A In White:
+
+		_Partial A Out White:
+
+		_Partial B In White:
+
+		_Partial B Out White:
+
+		_Matte In White:
+
+
+
+
+
+
+	Color Difference Key: (Incrustación de diferencia de color)
+	_____________________
+
+
+		_View:
+
+
+			_Source:
+
+				_ésta opción nos permitirá visualizar en el viewport, compositing, de la layer, 
+	
+				a la cuál, le hemos aplicamos el efecto
+
+
+			_Matte Partial A Uncorrected:
+
+				_ésta opción nos permitirá visualizar en el viewport, compositing, el canal alpha,
+
+				existente en la layer, a la cuál, le hemos aplicado efecto de forma natural ó por
+
+				defecto
+
+
+			_Matte Partial A Corrected:
+
+				_ésta opción nos permitirá visualizar en el viewport, compositing, el canal alpha,
+
+				resultante en la layer, a la cuál, le hemos aplicado efecto 
+
+
+			_Matte Partial B Uncorrected:
+
+				_ésta opción nos permitirá visualizar en el viewport, compositing, el canal alpha,
+
+				en negativo en la layer, a la cuál, le hemos aplicado efecto 
+
+
+			_Matte Partial B Corrected:
+
+				_ésta opción nos permitirá visualizar en el viewport, compositing, el canal alpha,
+
+				invertido resultante en la layer, a la cuál, le hemos aplicado efecto a través, del ajuste
+
+				y configuración del efecto en todo el proceso
+
+
+			_Matte Uncorrected:
+
+				_ésta opción nos permitirá visualizar el matte, resultante del proceso a partir de la 
+
+				aplicación y ajuste del efecto
+
+
+			_Matte Corrected:
+
+				_ésta opción nos permitirá visualizar el matte, resultante del proceso a partir de la 
+
+				aplicación y ajuste del efecto
+
+
+			_Final Output:
+
+				_ésta opción nos permitirá visualizar el proceso resultante para que así, podamos visualizar
+
+				la imágen con el color seleccionado eliminado ó hecho transparente
+
+
+			_[A,B Matte] Corrected, Final:
+
+				_ésta opción nos pemritirá visualizar ha modo de grilla ó grid, en cuatro vistas tanto la
+
+				vista del canal A,B,Matte, canales corregidos y el producto final
+
+
+
+		_Key Color:
+
+			_ ésta opcíón nos permitirá seleccionar un color ha eliminar de la imágen, éste color lo podremos
+
+			seleccionar a tracés, de un picker, ó un selector de color
+
+
+			_lo más recomandable es hacer suo del picker, y hacer click, sobre el color ha eliminar sobre la
+
+			imágen del área de "Prevew", para que así, sea más fácil la selección del color deseada sin el
+
+			efecto de la aplicación del efecto
+
+
+
+		_Color Matching Accuracy:
+
+
+			_Faster:
+
+				_ésta opción nos permitirá seleccionar un algoritmo de cálculo para la eliminación del
+
+				color ha eliminar, ésta es la opción más recomendada y rápida la cuál, requiere menos
+
+				recursos de parte del sistema
+
+
+			_More Accurate:
+
+				_ésta es una opción más recisa aunque ésta opción requerirá más recursos del sistema
+
+
+
+		_Partial A In Black:
+
+			_ésta opción nos pemritirá ajustar el punto de entrada de los negros ó pedestal,de los niveles 
+
+			de la imágen a través, de las cuáles, podremos controlar el matte, resultante del proceso del 
+
+			efecto de keying, de los calores de entrada de matte, ó alpha, natural de la imágen
+
+
+		_Partial A In White:
+
+			_ésta opción nos pemritirá ajustar el punto de entrada de los blancos ó gain,de los niveles 
+
+			de la imágen a través, de las cuáles, podremos controlar el matte, resultante del proceso del 
+
+			efecto de keying, de los calores de entrada de matte, ó alpha, natural de la imágen
+
+
+		_Partial A Gamma:
+
+			_ésta opción nos pemritirá ajustar el punto de entrada de los medio tonos ó gamma,de los niveles 
+
+			de la imágen a través, de las cuáles, podremos controlar el matte, resultante del proceso del 
+
+			efecto de keying, de los calores de entrada de matte, ó alpha, natural de la imágen
+
+
+			_las opciones de gamma son poco útiles para la mayoría de los casos y en pocas oportunidades
+
+			tienen efectos sobre el resultado final
+
+
+		_Partial A Out Black:
+
+			_ésta opción nos pemritirá ajustar el punto de salida de los negros ó pedestal,de los niveles 
+
+			de la imágen a través, de las cuáles, podremos controlar el matte, resultante del proceso del 
+
+			efecto de keying, de los calores de entrada de matte, ó alpha, natural de la imágen
+
+
+		_Partial A Out White:
+
+			_ésta opción nos pemritirá ajustar el punto de salida de los blancos ó gain,de los niveles 
+
+			de la imágen a través, de las cuáles, podremos controlar el matte, resultante del proceso del 
+
+			efecto de keying, de los calores de entrada de matte, ó alpha, natural de la imágen
+
+
+		_Partial B In Black:
+
+			_ésta opción nos pemritirá ajustar el punto de entrada de los negros ó pedestal,de los niveles 
+
+			de la imágen a través, de las cuáles, podremos controlar el matte, resultante del proceso del 
+
+			efecto de keying, de los calores de entrada de matte, ó alpha, natural de la imágen
+
+
+			_los efectos de "Beta", ó "B", tendrán gran influencia sobre el matte, resultante
+
+
+		_Partial B In White:
+
+			_ésta opción nos pemritirá ajustar el punto de entrada de los blancos ó gain,de los niveles 
+
+			de la imágen a través, de las cuáles, podremos controlar el matte, resultante del proceso del 
+
+			efecto de keying, de los calores de entrada de matte, ó alpha, natural de la imágen
+
+
+			_los efectos de "Beta", ó "B", tendrán gran influencia sobre el matte, resultante
+
+
+		_Partial B Gamma:
+
+			_ésta opción nos pemritirá ajustar el punto de entrada de los medio tonos ó gamma,de los niveles 
+
+			de la imágen a través, de las cuáles, podremos controlar el matte, resultante del proceso del 
+
+			efecto de keying, de los calores de entrada de matte, ó alpha, natural de la imágen
+
+
+			_las opciones de gamma son poco útiles para la mayoría de los casos y en pocas oportunidades
+
+			tienen efectos sobre el resultado final
+
+
+		_Partial B Out Black:
+
+			_ésta opción nos pemritirá ajustar el punto de salida de los negros ó pedestal,de los niveles 
+
+			de la imágen a través, de las cuáles, podremos controlar el matte, resultante del proceso del 
+
+			efecto de keying, de los calores de entrada de matte, ó alpha, natural de la imágen
+
+
+
+		_Partial B out White:
+
+			_ésta opción nos pemritirá ajustar el punto de salida de los blancos ó gain,de los niveles 
+
+			de la imágen a través, de las cuáles, podremos controlar el matte, resultante del proceso del 
+
+			efecto de keying, de los calores de entrada de matte, ó alpha, natural de la imágen
+
+
+		_Matte In BLack:
+
+			_ésta opción nos permitirá visualizar el matte, superpuesto de ambos canales, tanto al canal
+
+			alpha "A", y beta "B"
+
+
+		_Matte Gamma:
+
+			_ésta opción nos permitirá visualizar el matte, superpuesto de ambos canales, tanto al canal
+
+			alpha "A", y beta "B"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

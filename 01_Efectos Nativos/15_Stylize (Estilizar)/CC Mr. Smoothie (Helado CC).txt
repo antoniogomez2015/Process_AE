@@ -1,0 +1,238 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear modulación de los colores de una layer, sobre las formas implícitas ó
+
+	dibujadas dentro de la imágen indicada como valor en "Flow Layer" 
+
+
+	_de ésta manera, podremos hacer variaciones ó intervalos de colores intercambiados en las parte de una 
+
+	imágen analizada de forma ordenada
+
+
+	_de ésta manera, podremos undicar un rango en el cuál, el sistema analizará la imágen y en dicho rango el
+
+	sistema irá intercambiando los colores de las diferentes parte de la imágen por colores contiguos que se
+
+	encuentren dentro del rango indicado 
+
+
+	_dicho de otra manera, ésta opción nos permitirá hacer un "random", de los colores dentro de un área 
+
+	determinada dentro de la imágen sobre la cuál, se ha aplicado el efecto
+
+
+	_así, podremos hacer animaciones interctivas y automatizadas y altamente complejas compuestas de imágenes
+
+	y vectores pre construidos, otros
+
+
+	NOTA: éste efecto funciona mejor en imágenes vectoriales en las cuáles, hemos realizado patrones de colores
+
+	sólidos y con formas bien definidos entre los puntos del área ha rastrear por el sistema, ya que así, 
+
+	obtendremos resultados más predecibles
+
+
+	_de ésta manera, como podremos ver, ésto nos brinda un sin número de posibilidades de producción y procesos
+
+	de paso contínuo y animación, ya que podríamos animar las formas y layers, dentro de una composición que
+
+	utilizemos como proxi para la generación del sistema
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	CC Mr. Smoothie: (Helado CC)
+	________________
+
+
+		_Flow Layer:
+
+			_ésta opción nos permitirá indicar una layer, la cuál, se tomará como proxi y de la cuál,
+
+			se extraerá la información para la generación del sistema, por defecto está seleccionada
+
+			la misma layer, sobre la cuál, se ha aplicado el efecto
+
+
+		_Property:
+
+			_ésta opción nos permitirá indicar el criterio ó algoritmo de trabajo para la generación
+
+			del sistema ha generar, entre los cuáles, dispondremos de los siguientes:
+
+
+				_R/G/B:
+
+					_ésta opción nos permitirá indicarle al sistema que utilize cualquiera de 
+
+					los valores del espectro R/G/B, de forma por separado en relación a las
+
+					necesidades de producción, otros
+
+
+				_Alpha:
+
+					_ésta opción nos permitirá indicarle al sistema que utilize el canal como
+
+					algoritmo para la generación del sistema
+
+
+				_Luminance/Lightness:
+
+					_ésta opción nos permitirá indicarle al sistema que utilize los valores de
+
+					luminancia y brillo de la imágen para la generación del sistema
+
+
+				_Hue:
+
+					_ésta opcíon nos permitirá indicarle al sistema que utilize los valores del
+
+					espectro de color RGB, de manera unificada para la generación del sistema
+
+
+				_Saturation:
+
+					_ésta opción nos permitirá indicarle al sistema que utilize los valores de
+
+					saturación para la generación del sistema
+
+
+					_de ésta manera, ésta opción buscará unificar los tonos similares dentro de
+
+					los diferentes matices ó colores de la parte de una imágen indicada como 
+
+					un rango
+
+
+					_de ésta manera, el sistema igualará los colores haciendo rellenos de la 
+
+					imágen con colores sólidos lo cuál, es útil sólo para ciertos procesos de 
+
+					producción y paso contínuo, otros
+
+
+		_Smoothness:
+
+			_ésta opción nos permitirá indicarle al sistema el nivel de umbral ó tolerancia para la
+
+			detección de colores para la realización del muestreo entre los diferentes colores contiguos
+
+			detectados en el área de la imágen seleccionada
+
+
+			_de ésta manera, con valores cercanos ha "0", le indicaremos ha el sistema que éste sea menos
+
+			sensible ó detallista en el sampleo del área determinada
+
+
+			_más con valores cercanos ha "100", le estaremos indicando al sistema que sea más estricto y
+
+			detallado en el análisis y sampleo del área y colores determinados, de ésta manera, el 
+
+			sistema hará una mejor interpolación de los colores y más contínua y apreciables en 
+
+			relación al área seleccionada de la imágen base a la cuál, se le ha aplicado el efecto
+
+
+		_Sample A
+
+			_ésta opción nos permitirá indicar ó seleccionar cuál, será el principio del área de la 
+
+			imágen ha analizar ó samplear
+
+
+			_para lo cuál, dispondremos de un selector directamente en el viewport, del panel 
+
+			compositing, como también, a través, de valores en el panel effects control, como también,
+
+			a través, de un handle, en el panel effects controls
+
+
+		_Sample B:
+
+			_ésta opción nos permitirá indicar ó seleccionar cuál, será el final del área de la 
+
+			imágen ha analizar ó samplear
+
+
+			_para lo cuál, dispondremos de un selector directamente en el viewport, del panel 
+
+			compositing, como también, a través, de valores en el panel effects control, como también,
+
+			a través, de un handle, en el panel effects controls
+
+
+		_Phase:
+
+			_ésta opción nos permitirá hacer un desface de los colores rastreados ó detectados en el
+
+			área de la imágen indicada, de ésta manera, podremos hacer "offset", para hacer ajustes
+
+			sobre el esquema inicial de colores resultantes del sistema generado
+
+
+			_como también, para la realización de animaciones del sistema en general
+
+
+
+		_Color Loop:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el algoritmo ha utilizar para
+
+			la generación del sistema, de ésta manera, podremos disponer de diferentes combinaciones
+
+			entre los puntos de área ó región de sampleo
+
+
+			_de ésta manera, dispondremos de diferentes combinaciones de animaciones de sampleo entre
+
+			los puntos de área ó región lo cuál, nos permitirá obtener diferentes resultados
+
+
+
+
+
+
+
+
+
+
+

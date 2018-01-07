@@ -1,0 +1,152 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Barrido radial, pone al descubierto una capa subyacente mediante un barrido en círculo alrededor 
+
+	de un punto determinado. 
+
+
+	_En Calidad óptima, los bordes del barrido aparecen suavizados.
+
+
+	_Este efecto funciona con colores de 8 bpc y 16 bpc. En After Effects CS6 o versiones posteriores, este 
+
+	efecto funciona con color de 32 bits.
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Radial Wipe: (Barrido Radial)
+	____________
+
+
+		_Transition Completion:
+
+			_ésta opción nos permitirá indicarle al sistema el nivel ó avance de la transición para que
+
+			así, ésta pueda develar las demás layers, de la composición respectiva lo cuál, a su vez,
+
+			nos permitirá animar el sistema
+
+
+		_Start Angle:
+
+			_ésta opción nos pemritirá indicarle al sistema cuál, será la dirección de la transición y
+
+			del sistema entero lo cuál, nos permitirá una ámplia gama de posibilidades de animación y
+
+			de producción
+
+
+			_Ángulo en que se inicia la transición. Con un ángulo inicial de 0°, la transición empieza 
+
+			en la parte superior.
+
+
+		_Wipe Center:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el epicentro a partri del cuál,
+
+			se generará el sistema lo que a su vez, nos permitirá animar el sistema a través, de la 
+
+			imágen base
+
+
+		_Wipe:
+
+			_Indica si la transición se desplaza en el sentido de las agujas del reloj o al revés, o si 
+
+			alterna entre una dirección y la otra, de ésta manera, dispondremos de la siguientes opciónes
+
+
+
+			_Clockwise:
+
+				_ésta opción nos permitirá indicarle al sistema que éste genere el sistema en un
+
+				sentido de complexión ó rotación de izquierda ha derecha
+
+
+			_Counterdockwise:
+
+				_ésta opción nos permitirá indicarle al sistema que éste genere el sistema en un
+
+				sentido de complexión ó rotación de derecha ha izquierda
+
+
+			_Both:
+
+				_ésta opción nos permitirá indicarle al sistema que éste genere el sistema en un
+
+				sentido de complexión ó rotación de izquierda ha derecha a la vez, de decir, que
+
+				vaya cerrándose en ambas direcciones a su vez, en el sentido indicado por la 
+
+				propiedad de "Start Angle"
+
+
+
+		_Feather:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste suavize los bordes
+
+			generado para la creación del apha, de la transición			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

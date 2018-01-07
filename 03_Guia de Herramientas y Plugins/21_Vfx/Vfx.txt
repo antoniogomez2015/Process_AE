@@ -1,0 +1,31 @@
+
+Vfx, para After Effects
+
+
+	Referencia
+
+		http://aescripts.com/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Holomatrix:
+___________
+
+	
+	Descripción: (éste permite hacer el efecto de nightshop, y similares)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(F) / Panel FxPro / Referencia (al lado derecho del Panel Proyecto por default)
+
+
+	Referencia en la web: https://www.redgiant.com/products/holomatrix/
+
+

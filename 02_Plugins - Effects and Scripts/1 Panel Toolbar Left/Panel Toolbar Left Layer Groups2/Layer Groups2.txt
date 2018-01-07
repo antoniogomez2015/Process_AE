@@ -1,0 +1,24 @@
+
+
+http://aescripts.com/layer-groups/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Toolbar Left / Layer Groups2
+
+
+	Layer Groups2
+
+
+	_este nos permite organizar la visualización de layer, en el timeline, para obtener así, un rendimiento
+
+	más actualizado el cuál, permitirá un rendimiento mayor entre otras funcionalidades de edición y 
+
+	visualización de layers
+
+	
+

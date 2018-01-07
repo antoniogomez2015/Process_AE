@@ -1,0 +1,304 @@
+
+
+http://aescripts.com/paint-out/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / PaintOut
+
+
+
+	PaintOut:
+
+
+	-este nos permite eliminar los puntos de referencia en el proceso de "Motion Capture", los cuales se
+
+	conforman por lo general de puntos ó cuadrados muy pequeños de color rojo, verde ó azul, sobre el
+
+	motivo
+
+
+	_para que así, de ésta manera, a través, de éstos puntos de referencia poder capturar el movimiento de 
+
+	las diferentes partes del motivo a través, del tiempo por medio de las diferentes técnicas de trakeo
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener una composición de trabajo creada así, como también, debemos de tener importado
+
+	el material de trabajo al panel proyecto como secuencia de imagenes ó un video del motivo
+
+
+	_así, con el material de archivo debemos de crear un nueva composición ha medida para lo cuál, lo más
+
+	recpmendable es arrastrar éste manterial de archivo del panel proyecto hasta el ícono de nueva composición
+
+	para que así, el sistema cree una nueva composición a medida en relación a las propiedades del material de
+
+	archivo
+
+
+
+	Tracking:
+	_________
+
+	_y para dicho proceso de "PaintOut", éste sistema requiere que primero debemos hacer un trackeo de cada
+
+	punto de referencia ha eliminar a través, de las opciones ó panel de "Tracker", nativo de la aplicación
+
+	
+	_para lo cuál, en éste caso lo más recomendable el volcar en una nueva layer, de tipo "Null Object", el
+
+	proceso de trackeo de cada punto de referencia 
+
+	
+	_para que así, tengamos la posibilidad de ajustar la duración de ésta layer, ó punto de trackeo en el 
+
+	tiempo para que el sistema de "paintOut", contemple cuando un punto esta visible en el motivo y cuendo
+
+	éste punto ya no es visible en un punto determinado 
+
+
+	_por ejemplo; en punto de referencia determinado en la palma de una mano es visible miestras en la toma 
+
+	la palma de la mano este de cara a la cámara, más si la mano rota ó cambia de posición éste determinado 
+
+	punto ya no será visible en la toma del motivo, e incluso más adelante podría éste mismo punto volver ha 
+
+	estar visible si la palma de la mano vuelve ha estar en la posición inicial
+
+
+	_de ésta manera, podremos controlar y la duración de los puntos de trackeo a través, del control de la 
+
+	duración de las layers, que continen el volcado de los diferentes procesos de trackeo en el tiempo
+
+
+
+	Clone Size:
+	___________
+
+	_es aconsejable primero escoger el tamaño de la muestra ha clonar, ésta tendrá que tener un tamaño en 
+
+	relación al tamaño del punto de muestra de color sobre la layer, del motivo
+
+
+	_para ésta opción no tenemos referencia de cara al sistema de paintOut, lo cuál, tendremos que hacerlo
+
+	ha prueba y error hasta acertar
+
+
+	_más ésta opción del ajuste del tamaño de la muestra de clonado la podremos ajustar en el postproceso
+
+	en la opción de efectos agregados ha cada layer, del volcado del proceso de trackeo
+
+
+	
+	Clone Offset:
+	_____________
+
+	_ésta opción nos permite indicar un valor en pixeles para las cordenadas "X,Y", sobre cuando deseamos 
+
+	desplazar la muestra clonada sobre cada muestra de color respectiva ha ésta layer, de volcado del proceso
+
+	de trackeo
+
+
+
+	Vertor Offset: (ésta opción no es prelativa)
+	______________
+
+	_ésta opción nos permiteauto orientar el desface del clonado de los puntos de rerefencia a través, del 
+
+	propio movimiento inherente ó a través, del orden de una serie de layers, que le indiquemos como punto
+
+	de inicio y como punto final
+
+
+	
+	Color Adjust:
+	_____________
+
+	_ésta opción nos permitirá incluir un slider, de control en los efectos agregados a las layers, donde hemos
+
+	volcado los procesos de trackeo, para que así, a través, de éste slider de control podamos ajustar las 
+
+	diferencias de color entre el clonado resultante y el motivo original
+	
+
+
+
+	PaintOut:
+	_________
+
+	_primero debemos de cargar la layer, en la opción de "Comp", en el plugins "PaintOut", en la cuál, hemos 
+
+	creado preliminarmente los puntos de trackeo, sobre los puntos de referencia del motivo (no confundir con 
+
+	las layers, sobre las cuales hemos volcado el resultado de los procesos de trackeo)
+
+
+	
+	Load Tracks:
+	____________
+
+	_así, luego de haber cargado en el plugins, la layer, del motivo en la cuál, hemos realizado el proceso de 
+
+	trakeo sobre todos los puntos de referencia 
+
+
+	_debemos ahora entonces seleccionar todas las layers, sobre las cuales hemos volcado todos los procesos de
+
+	trackeo así, con todas éstas layers, seleccionadas vamos a las opciones del plugins, y debemos hacer click
+
+	sobre el botón de "Go", para que así, el plugins, paintout, genere el sistema
+
+
+	
+	System:
+	_______
+
+	_así, al haber creado el sistema a partir de hacer "Go", el sistema generado habrá creado un sistema de 
+
+	clonado sobre la layer, del motivo indicada
+
+
+	_a través, de las opciones nativas de "Paint -Clone-", "Effects/Paint Out/track-1-PO Brush 01", las cuales
+
+	podremos controlar ó ajustar a través, de unos efectos ó slider, agregados a las layer, en las cuales hemos
+
+	hecho el volcado de los puntos de referencia trackeados, éstos sliders, controladores son:
+
+
+
+	Controls: (No Vector Offset)
+	_________
+
+		
+		PO Clone Source Offset:
+
+			_ésta opción permite ajustar  el desface ó "Offset" de la muestra de clonado en ésta 
+
+			respectiva layer, ó punto de clonado (opción con expresión cuando se activa la opción de 
+
+			"Vector Offset")
+
+
+			_ya que las muestras pueden moverse ó tener problemas en su visualización por su 
+
+			interacción con los demás elementos de la escena así, como por la iluminación de la escena
+
+
+		PO Flip:
+
+			_ésta opción nos permite invertir la dirección de el clonado resultante, especialmente útil
+
+			para cierto tipo de clonados
+
+
+		PO Opacity:
+
+			_ésta opción nos permite ajustar ó variar la opacidad del clinado resultante, especialmente
+
+			útil para escenas complejas donde el motivo se mueve mucho y otros elementos pasan sobre la
+
+			muestra del motivo, así, podremos quitarle la opacidad ha esa muestra en momentos 
+
+			determinados mientras pasan esos elementos no deseados sobre el motivo y volver activar la
+
+			opacidad cuando ya hayan pasado éstos elementos
+
+			
+
+
+		PO Diameter / Herdness:
+
+			_ésta opción nos permite variar el tamaño relativo de la muestra de clonado a través, de la
+
+			opción de calado ó feather
+
+
+		PO Roundness / Rotation:
+
+			_ésta opción nos permite rotar la muestra de clonado en el tiempo eincluso animar ésta
+
+
+		PO Show:
+
+			_ésta opción es muy importante por que nos permite visualizar temporalmente la muestra del
+
+			clonado para que así, podamos tener una idea de la incluencia del clonado
+
+
+		PO Show Color:
+
+			_ésta opción nos permite cambiar el color de la muestra referencia del sistema de clonado
+
+
+	
+
+	Shortcuts:
+	__________
+
+	
+		Blink:
+
+			_ésta opción es un acceso directo a las opciones de "PO Show", en los efects-slider, 
+
+			agregados a todas las layers, donde hemos realizado los volcados de los sistemas
+
+			de trakeo
+
+
+
+		Select Nulls:
+
+			_ésta opción seleccionará todos los nulls object, que hemos creado y en donde hemos
+
+			volcado todos los procesos de tracking
+
+
+		
+		Select Paint Strokes:
+
+			_(Indeterminado)
+
+
+		
+		Remove Paint:
+
+			_ésta opción nos permite eliminar el sistema de paintout, forma rápida y práctiva de las 
+
+			layers, sobre las cuales hemos hecho el proceso de volcado del trackeo 
+
+
+
+		2D Tracker to Nulls
+
+			_ésta opción nos creará nulls objects, en relación a la cantidad de puntos de referencia
+
+			trackeados y a su vez, el sistema hará un volcado de todos los procesos de trackeos 
+
+			respectivamente en cada layer, creada de forma automática
+
+
+		Fix Expressions:
+
+			_(Indeterminado)
+
+
+
+
+
+
+
+
+

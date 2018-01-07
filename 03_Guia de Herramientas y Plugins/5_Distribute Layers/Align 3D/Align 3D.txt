@@ -1,0 +1,135 @@
+
+
+
+
+Align 3D
+
+
+	Referencia:
+
+		http://aescripts.com/align-3d/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite alinear tanto layers, 2d, como layers, 3d, así, como algotras acciones de transformación directa
+
+	de layers, entre otras acciones avanzadas de desarrollo
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite distribuir laryes, para diferentes procesos como motion graphycs, y otros procesos de constructivismo
+
+	visual (parece que no hay versiones del plugins para versiones actuzalizadas de la aplicación como CC 2014)
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_para ésto debemos seleccionar las layers, deseadas a modificar
+
+
+	
+
+	---------------------------------------------------------------------------------------------------------------
+
+
+
+Transform:
+__________
+
+
+	_ésta opciones nos permite hacer no sólo aniamientos si no también, transformaciones a las layers, seleccionadas
+
+	
+	_para que así, podramos hacer modificaciones avanzadas, ésto es especialmente útil para motion graphycs, y el 
+
+	constructivismo visual
+
+
+	_así, podremos seleccionar entre varias propiedades de transformación, éstas son:
+
+
+		_Anchor Point:
+
+			_ésta opción permite hacer transformaciones de layers, a través, del cambio del "anchor point"
+
+
+		_Position:
+
+			_ésta opción permite hacer transformaciones de layers, a través, del cambio de la "positopn"
+
+
+		_Scale:
+
+			_ésta opción permite hacer transformaciones de layers, a través, del cambio de la "scale"
+
+
+		_Rotation:
+
+			_ésta opción permite hacer transformaciones de layers, a través, del cambio de la "rotation"
+
+
+		_Orientation:
+
+			_ésta opción permite hacer transformaciones de layers, a través, del cambio de la "orientation"
+
+
+		Opacity:
+
+			_ésta opción permite hacer transformaciones de layers, a través, del cambio de la "opacity"
+
+
+		_Point Interest:
+
+			__ésta opción permite hacer transformaciones de layers, a través, del cambio del "point interest"
+
+
+Range:
+
+	_ésta opción permite indicar un rango de acción desde un punto "0", hasta un "100", por ciento de acción
+
+
+Align Layers to:
+
+	_ésta opción permite indicar los criterios de transformación y alineamiento a partir de los criterios y propiedades 
+
+	seleccionados en el paso anterior
+
+
+	Point:
+
+		_ésta opción permite ejecutar el alineamiento y criterios de transformación elegidos en los pasos anteriores
+
+
+Distribute Layers:
+
+	_ésta opción permite seleccionar las cordenadas de acción de distribución como los son "X, Y, Z", aunados a los anteriores 
+
+	de alineación y transformación
+
+
+	Line:
+
+		_ésta opción permite ejecutar las acciones tanto de alineación y transformaciones
+	
+
+
+

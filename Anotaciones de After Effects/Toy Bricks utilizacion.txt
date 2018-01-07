@@ -1,0 +1,39 @@
+
+Toy Bricks
+
+
+	INTRO:
+	cunado aplicamos el plugins Toy Bricks, las opciones que este nos proporciona sirven para crear elementos los cuales  serán objetos de tipo nulls, en los cuales
+	podremos confifurar como quieres que se comporten éstos, si serán objetos dinámicos ó estáticos, así como que tipos de animación y comportamiento realizarán en el 
+	espacio así, como su relación con el timeline del proyecto
+
+
+
+	1_creamos un sólido y lo renombramos como Toy Bicks
+
+	2_ahora aplicamos el plugins a el sólido, yendo ha Plugins/Crossphere/Toy Bricks
+
+	3_ahora vamos a crear un objeto de tipo "Rigid/Dody", para empezar ha generar simulaciones físicas con este, 
+	yendo ha "Toy Bricks/World/Create Object/Rigid Body", así, se creará en nuestra time line un objeto de tipo "Null", el cuál vendra llamado por defecto "rigid body 01"
+
+		3.1_en las propiedades del objeto tipo null "rigid body 01", vamo ha "Toy Bricks/Rigid Body/Collision Type/", y seleccionamos la forma geométricas que más se asemeje
+		a nuestro motivo a simular tenemos opciones como "Box/Sphere/Capsule/Cylinder/Compound", y lo reubicamos colocandolo en la misma ubicación que la de nuestro motivo
+
+		3.2_en las propiedades de "rigid body 01", podemos ir "Scale 1, 2 y 3", para cambiar las proporciones de la figura geométrica para que así, esta puede ajustar mejor
+		en caso de ser necesario para emular de forma mejor la forma del motivo, para actualizar los cambios de las dimesiones de la forma geométrica debemos mover la posición
+		del cabezal del timeline, de cambio en cambio, para que así, Toy Bricks actuzalice los cambios de la forma de la figura geométrica en relación a los cambios que realicemos
+
+
+
+	4_ahora vamos a generar un elemento de tipo colisionador "Collision Shape", para que en éste, puedan interactuar y colisionar con los demás elementos de tipo tigid body,
+	para esto, creamos un elemento de tipo "Rigid Body", y en sus propiedades (dle null creado "rigid body 02") seleccionamos en "Toy Bricks/Rigid Body/Collision Type/Static Plane", 
+	para que así, este elemento quede configurado como una elemento de tipo colicionador de elementos de tipo "Rigid Body", ahora este elemento de tipo plano colisionador
+	lo reubicamos por lo general en la línea de tierra u horizonte de nuetra composición, también es aconsejable renombrarlo como por ej: "Floor"
+
+	5_ahora vamo a relación nuevo elemento de tipo null "rigid body 01", con nuestro motivo, para que así, el elemento "rigid body 01", arrastre nuestro motivo emulando así 
+	la simulación realizada por Toy Bricks, para esto, desplegamos las propiedades de "Position", del elemento "rigid body 01", y las anidamos con las propiedades de "Position", del motivo 
+	haciendo Alt+Click, sobre la propiedad "Position", para que así se activen las opciones de expresiones y de esta manera poder anidar ambas porpiedades de posición expresadas anteriormente
+
+	6_para visualizar la simulación, colocamos el cabezal del timeline donde deseamos que inicie la simulación y luego vamos a; el solido llamado "Toy Bricks/Toy Bricks/World/Set Object/From Current Time"
+
+	7_ahora para generar la simulación vamos a el sólido "Toy Bricks/Toy Bricks/World/Bake Keyframes/To Current Time", así, se generarán los keyframes ó fotogramas en relación a la somulación previamente realizada

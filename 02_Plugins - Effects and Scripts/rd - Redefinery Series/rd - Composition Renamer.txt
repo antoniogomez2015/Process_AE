@@ -1,0 +1,43 @@
+
+
+
+
+RD, serie de escripts, gratuitos http://www.redefinery.com/   http://www.redefinery.com/ae/view.php?item=rd_Approximate
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+RD Composition Renamer
+
+
+	este escript, tiene como objetivo cambiar el nombre o agregar un sufijo a las composiciones seleccionadas
+
+	lo cual, nos permite administrar las composiciones de un proyecto de manera practica y rapida
+
+
+
+WorkFlow
+---------
+
+
+	-primero seleccionamos las composiciones en el panel proyecto a las cuales deseamos cambiarle el nombre o asignarle
+
+	un sufijo
+
+	
+	-alternativamente tambien, diponemos en le panel rd - Composition Renamer, la opcion de 'Select Compositions',
+
+	dicho comando seleccionara todas las composiciones del panel proyecto
+
+
+	-luego vamos al panel rd - Composition Renamer, y escribimos un sifujo personalizado en el campo 'Add Suffix'
+
+
+	-y para finalizar la operacion le damos al boton 'Rename'
+
+
+

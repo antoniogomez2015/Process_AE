@@ -1,0 +1,359 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria crear líneas segmentadas de color sobre una layer, ó área perimetral de una 
+
+	máscara de ésta maenra, podremos generar múltiples efectos para producción y paso contínuo
+
+
+	_las cuáles, podrán ser animadas como también, podremos crear efectos espectrales, especulares y causticos
+
+	entre otras posibilidades de creación
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Vegas: (Vegas)
+	______
+
+
+		_Stroke:
+
+			_ésta opción nos permitirá seleccionar el tipo de criterio el cuál, se utilizará para generar 
+
+			el sistema entre los cuáles, dispondremos de los siguientes:
+
+
+				_Mask/Path:
+
+					_ésta opción nos permnitirá generar el sistema a través, de una máscara ó 
+
+					trazado personalizado lo cuál, nos permnitirá crear un sistema específico
+
+					para una área perimetral en concreto y bien definida a través, del tiempo
+
+
+				_Image Contours:
+
+					_ésta opción nos permitirá generar el sistema a través, de valores obtenidos
+
+					de una imágen base como valores de luminancia, rgb, alpha, hue, saturation,
+
+					otros
+
+
+					_lo cuál, es menos preciso más nos permitirá crear efectos más complejos y
+
+					compuestos así, como profusiones, otros
+
+
+		_Input Layer:
+
+			_ésta opción nos permitirá seleccionar la layer, de la cuál, se tomará la información para 
+
+			la generación del sistema por medio de valores como luminancia, rgb, hue, saturation, otros
+
+
+			_los cuáles, indicaremos posteriormente
+
+
+		_Invert Input:
+
+			_ésta opción nos permitirá invertir los valores de la layer, seleccionada en el campo anterior
+
+			para que así, sean invertidos proporcionalmente el criterio de acción ó trabajo seleccionado
+
+
+		_If Layer Size Differ:
+
+			_ésta opción nos permnitirá selecciona si el efecto del sistema aplicará por igual a todo la 
+
+			la layer, ó canvas ó se concentrará especilmente en el área central de ésta, no estirando el
+
+			resultado del efecto hasta el área perimetral del sistema ó canvas
+
+
+		_Channel:
+
+			_ésta opción nos permitirá seleccionar el criterio de acción ha aplicar a la layer, seleccionada
+
+			de ésta manera, podremos obtener diferentes tipos de información de la respectiva layer, como:
+
+
+			_valores por luminancia, saturación, rgb, otros
+
+
+		_Threslhold:
+
+			_ésta opción nos permitirá indicar el rango de umbral de acción ó capacidad de penetración del sistema
+
+			en relación a la referencia tomada de la respectiva imágen ó layer, en relación a su vez, al criterio 
+
+			seleccionado
+
+
+			_de ésta manera, podremos crear un sistema más acusado y poblado ó un sistema menos detallado y limpio
+
+
+		_Pre-Blur:
+
+			_ésta opción nos permitirá pre-desenfocar la muestra ó referencia tomada de la imágen ó layer, para que
+
+			así, poder obtener resultados más integrados y con menos acutancia referencial y exactitud con la imágen 
+
+			original
+
+
+			_lo cuál, nos permtirá crear efectos más acuosos ó causticos entre otras posibilidades de creación y 
+
+			producicón
+
+
+			_a su vez, ésta opción disminuirá la cantidad de elementos representados por el sistema y representados 
+
+			serán simplificados
+
+
+		_Tolerance:
+
+			_ésta opción nos permitirá indicarle al sistema cuán fiel debe de tomar y representar la información tomada
+
+			de la imágen ó layer, de la cuál, el sistema está extrayendo la información
+
+
+			_de ésta manera, podremos crear un sistema más relajado el cuál, no se siña ocn exactitud, a la forma generada
+
+			por la layer, ó imágen de referencia
+
+
+		_Render:
+
+			_ésta opción nos permitirá seleccionar utilizar todos los contornos encontrados ó detectados dentro de la imágen
+
+			ó layer, de referencia ó sólo uno de éstos el cuál, podremos escoger posteriormente
+
+
+			_lo cuál, nos pemritirá limitar el alcance del sistema a un sólo contorno de los existentes
+
+
+		_Selected Contour:
+
+			_ésta opción nos permitirá desplazarnos y poder uno ha uno los contornos disponibles ó detectados por el sistema
+
+			para que así, podamos escoger uno de éstos el cuál, será visible mientras que los demás serán ocultados para todo
+
+			el resto del proceso
+
+
+		_Shorter Cotours Have:
+			
+			_ésta opción nos permitirá indicar el comportamiento de los segmentos ó contornos contiguos más próximos y 
+
+			con el mismo comportamiento y dirección al seleccionado
+
+
+			_Same Number of Segments:
+
+				_ésta opción seleccionará y dejará los segmentos contiguos más cercanos tal cuál, se han generado
+
+		
+			_Fewer Segments:
+
+				_ésta opción fusionará los segmentos contiguos que sean más similares y los convertirá en uno sólo
+
+				más difuminado como un todo
+
+	
+		_Path:
+
+			_ésta opción nos permitirá generar el sistema a través, de path, de una máscara aplicada a la layer, sobre
+
+			la cuál, se ha aplicado el sistema ó efecto, descartando así, la generación del sistema a través, de una
+
+			imágen
+
+
+		_Segments:
+
+			_ésta opción nos permitirá indicar la cantidad de segmenttos generados sobre la imágen ó path, ó trazado de
+
+			ésta manera, podremos crear un sistema con mayor densidad ó más separación de espacios vacíos entre segmentos
+
+			ó contornos
+
+
+			_lo cuál, nos permitirá en la mayoría de casos animar más fácilmente el sistema generado
+
+
+		_Length:
+
+			_ésta opción nos permitirá variar la longitud ó largo de cada segmento en relación al segmentos siguiente y
+
+			anterior
+
+
+			_de ésta manera, también, podremos controlar el tamño y espaciado entre segmentos ó contornos visibles 
+
+
+		_Segments Distribution:
+
+			_en ésta opción podremos elegir el criterio de agrupamiento de los segmentos ó contornos así, podremos 
+
+			seleccionar entre "bunched", ó agrupados ó "even", normales
+
+
+		_Rotation:
+
+			_ésta opción nos permitirá rotar la dirección de cada segmento en relación a un eje global en relación 
+
+			al punto de anclaje de la respectiva layer, sobre la cuál, está aplicado el sistema
+
+
+		_Random Phase:
+
+			_ésta opción nos permitirá activar la posibilidad de animar el sistema para que así, éste pueda rotar
+
+			sobre si mismo desplazando así, cada segmento ó contorno uno a tras del otro
+
+
+		_Random Seed:
+
+			_ésta opción nos permitirá configurar la cantidad de envíos ó animación previa la cuál, ejercerá como una
+
+			fuerza que empujará los segmentos ó contornos de forma constante lo cuál, permitirá animar el sistema
+
+
+		_Blend Mode:
+
+		_ésta opción nos permitirá seleccionar el tipo del criterio a través, del cuál, el sistema se renderizará en relación
+
+		a la layer, sobre la cuál, se ha plicado el efecto y sobre las demás layers, existentes en la composición respectiva
+
+
+			_Transparent:
+
+				_ésta opción sólo mostrará el sistema en su color de relleno con el resto de la layer, sobre la 
+
+				cuál, se ha aplicado el efecto estará ocualto ó no será visible
+
+
+			_Over:
+
+				_ésta opción mostrará el sistema en su color de relleno a la vez que también, mostrará la layer, base
+
+				sobre la cuál, se ha aplicado el sistema ó efecto
+
+
+			_Under:
+
+				_ésta opción mostrará el sistema debajo de la layer, sobre la cuál, se ha aplicado el sistema
+
+
+			_Stencil:
+
+				_ésta opción mostrará la layer, base sobre la cuál, se ha aplicado el sistema ha modo de estencial en
+
+				relación a la forma del sistema, de ésta manera, el sistema hará de matte, de luminancia el cuál, 
+
+				dejará ver la layer, base en dicha proporción
+
+
+			
+
+
+		_Color:
+
+			_ésta opción nos permitirá indicar un color a través, del cuál, se generará el sistema
+
+
+		_Width:
+
+			_ésta opción nos permitirá hacer variaciones sobre el ancho ó grosor de cada línea ó 
+
+			contorno de los cuáles, se conforma el sistema en relación al efecto deseado
+
+
+		_Hardness:
+
+			_ésta opción nos permitirá graduar la acutancia ó disfuninado del sistema ó 
+
+			líneas ó contornos lo cuál, nos permitirá integrar mejor el sistema con las 
+
+			demás layers, y elementos así, como la creación de efectos luminicentes ó de 
+
+			motion graphycs, otros
+
+
+		_Start Opacity:
+
+			_éta opción nos pemritirá agregar dinamismo al sistema al poder generar así, 
+
+			el efecto de strands, ó estelas al poder variar la opacidad de la parte final
+
+			de cada contorno ó stroke, lo cuál, generará un especto cola ó desintegración
+
+			que emulará ó sugerirá movimiento
+
+
+		_Mid-Point Opacity:
+
+			_ésta opción nos permitirá graduar la opacidad en la parte central de cada 
+
+			línea ó stroke, lo cuál, se sumará al efecto de strand, de la opción anterior
+
+			incrementando dicho efecto
+
+
+		_Mid-Point Position:
+
+			_ésta opción nos pemritirá hasta cierto grado cambiar la dirección del sistema
+
+			de forma emulada a través, de la iluminación local del propio sistema
+
+
+		_End Opacity:
+
+			_ésta opción nos permitirá graduar la opacidad en la parte final de cada 
+
+			línea ó stroke, lo cuál, se sumará al efecto de strand, de la opción anterior
+
+			incrementando dicho efecto
+
+
+					
+
+		
+
+
+

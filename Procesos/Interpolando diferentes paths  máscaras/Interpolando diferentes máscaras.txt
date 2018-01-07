@@ -1,0 +1,46 @@
+
+Tutorial: canal: Baltarejo Dicas e Truques,   Animando máscaras - After Effects CC  https://www.youtube.com/watch?v=vk9LJNEQ4fg
+
+
+
+intermpolando formas de máscaras en animación
+
+
+	1_seleccionamos la layer, a la cuál deseamos aplicarle una máscara
+
+
+	2_a continuación creamos un trazado con la herramienta de pluma (G), ó pegamos un forma de illustrator 
+
+	ó trazado (Path), de photoshop
+
+
+	3_ahora para cambiar ó interpolar esa forma con otra, le damos doble click, a la capa ó a la máscara para 
+
+	entrar en su modo de edición de capa ó máscara es igual
+
+
+	4_ahora en la ventana de edición de "Layer", seleccionada, nos sercioramos que la opción de "TARGET", este 
+
+	seleccionada la máscara actual, quedando asi: "Target:Mask 1"
+
+
+	5_luego abrimos las propiedades de la máscara, especificamente "Mask Path", shortcut (M), y procedemos 
+
+	a animar el primer estado que sería la forma de la máscara actual
+
+
+	6_a continuación colocamos el cabezal de la línea de tiempo en la ubicación donde queremos que comience 
+
+	la transición de un forma de máscara y otra
+
+
+	7_luego colocamos el cabezar de la línea de tiempo donde deseamos que termine la interpolación de una forma 
+
+	de máscara y otra
+
+
+	8_y por último copiamos y pegamos sea la forma de illustrator ó el path, de photoshop, así, after effects 
+
+	realizará la interpolación entre la forma previa y la nueva forma pegada
+
+

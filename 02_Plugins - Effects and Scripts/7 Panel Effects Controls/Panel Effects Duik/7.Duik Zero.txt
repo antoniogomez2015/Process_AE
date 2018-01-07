@@ -1,0 +1,92 @@
+
+
+http://duduf.net/index.php/products/after-effects/duik/
+
+	Referencia:
+
+		Tutorial basico de rigging con Duik
+			https://www.youtube.com/watch?v=3WiNMHMMduc
+
+		TUTORIAL: DUIK - ARTICULACIONES AUTOMATIZADAS EN AFTER EFFECTS
+			https://www.youtube.com/watch?v=Oi4G1-p59uI
+
+		DUIK 15 full tutorial overview Part 1 Rigging character tools
+			https://www.youtube.com/watch?v=2-m0Mc0ZTP8&list=PLL1LC1tW73eUOt7qjWvn3nYOkYOoQscmy
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Duik
+
+
+	Duik:
+
+
+	-este nos permite hacer sistema de kinemática y cinemática de character, y otros tipos de animaciones
+
+	así, como también, riggings, completos y asistidos con diferentes tipos de controles, limitadores y
+
+	disparadores ó trigers, de animación, otros
+
+
+	_ésta opción de hacer el proceso de rigging, de forma manual, es especialmente útil en characters, en 
+
+	los cuales requiere un especial cuidado ó éste es especialmente diferente a los estándares de posición 
+
+	de éste ó si éste no es un bípedo ó posee unas características únicas
+
+
+	_de ésta manera, el sistema "IK", nos permitirá configurar extremidades con kinemática inversa y directa
+
+	las cuales podremos integrar con otras extremidades y characters, ya realizados ó en proceso, otros
+
+
+	_como también, nos permite tener aplicaciones en máquinas ó otros elementos mecánicos, otros, que no son
+
+	characters, ni obedecen a ningún estandar de animación
+
+
+
+
+	Workflow:
+	_________
+
+
+	Descripción:
+
+	_la opción de "Zero", ésta opción nos permite hacer efecto de "set/free tranformation", de las aplicaciones 
+
+	3d, de ésta manera podremos volver a situar facilmente ha una layer, en un su posición original 
+
+
+	_ésta opción nos permite hacer el proceso de "Initial Pose", de una character, ó de alguna layer, en una 
+
+	animación determinada
+
+
+
+	Zero:
+
+	_de ésta manera, tendremos que seleccionar la layer, a la cuál, deseamos fijarle su posición en el viewport,
+
+	y con ésta layer, seleccionada vamos al panel "Duik/Rigging/", y le damos al botón de "Zero"
+
+
+	_de ésta manera. el sistema generará una nueva layer, a la omposición, ésta es la layer, "Zero_C_Name", ésta 
+
+	es una layer, de tipo null object, y esta en modo de guide, más ésta no estará visible y estará bloqueada y
+
+	se ubicará en el punto de anclaje de la layer, a la cuál, ésta le hará de set position
+
+
+	_de ésta manera, podremos desplegar la propiedad de "Position", de la layer, ha setear ó a la layer, a la 
+
+	cuál, le hemos aplicado el set position
+
+	
+
+
+
+

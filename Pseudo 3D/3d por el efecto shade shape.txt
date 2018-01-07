@@ -1,0 +1,33 @@
+
+
+
+efecto para crear un efecto 3d, para una layer 2d
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+General:
+________
+
+	_primero debemos de tener creada nuestra composición de trabajo asi como una layer, motivo, ésta layer, puede ser un
+
+	texto, layer, de forma/shape, ó imágen
+
+
+
+Proceso:
+________
+
+	_primero debemos seleccionar la layer, motivo y con ésta seleccionar ir ha "Effects/RE:Vision Plug-ins/Shade Shape", éste
+
+	efecto nos permite generar un efecto de volúmen sobre la layer, motivo a través, de sus contornos por medio del alpha, 
+
+	entre ésta layer, y el fondo
+
+
+	_éste método es especialmente útil para efectos especiales entre diferentes posibilidades de producción entre otros
+
+
+

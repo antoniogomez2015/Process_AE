@@ -1,0 +1,196 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá ha diferencia de recuperar detalles finos como el efecto "Refine Soft Matte",
+
+	el efecto "Refine Hard Matte", nos permitirá recuperar en gran manera el "Matte", en general del proceso 
+
+	del keygin, y mattes, en general
+
+
+	_de ésta manera, podremos utilizar éste efecto en conjunto con el efecto de "Matte/Matte Chocker", para
+
+	que así, aumentamos las posibilidades de obtener un matte, más corregido y con menos imperfecciones un su
+	
+	área perimetral más allá de los bordes de entre la imágen visible y la imágen oculta ó eliminada
+
+
+	_así, como también, de unos bordes más suvizados en integrados con las demás layers, de la composición
+
+	respectiva, otros
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Refine Hard Matte: (Indeterminado)
+	__________________
+
+
+		_Feather:
+
+			_aumentar éste valor mayor ha "0", el sistema integrará mejor el detalle recuperado con 
+
+			las demás layers, de la composición respectiva ya que disfuminará todo el área recuperada 
+
+			en proporción al valor indicado el cuál, deberá ser un valor bajo
+
+
+		_Contrast:
+
+			_aumentar éste valor mayor ha "0", el sistema aumentará el contraste de las áreas recuperadas
+
+			lo cuál, es especialmente útil para acompañar al proceso de "Feather", del paso anterior
+
+			entre otras muchas posibilidades en relación con contexto de la imágen resultante, otros
+
+
+		_Shift Edge:
+
+			_aumentar éste valor mayor ha "0", el sistema intensificará los valores de luminanci y a su 
+
+			vez, la definición del área recuperada a partir de los bordes de la imágen visible y la imágen
+
+			eliminado u oculta lo cuál, aumentará el detalle y capacidad recuperativa del área deseada
+
+
+			_ésta opción va de la mano con las opciones "Feather", y "Contrast", expresadas en los pasos
+
+			anteriores
+
+
+		_Reduce Chatter:
+
+			_al activar las opciones de "Chatter Reduction/More Detail | Smoother (Slower)", dispondremos
+
+			de un control a través, del cuál, podremos indicar el rango ó umbral de recuperación extra de
+
+			detalle y capacidad de penetración extra de la herramienta más allá, del perimetro ó extensión
+
+			ó alcance indicado previamente en los parámetros anteriores de la herramienta
+
+
+		_Use Motion Blur:
+
+			_ésta opción nos pemritirá activar el desenfoque de movimiento para las áreas recuperadas a
+
+			partir ó más allá de los bordes de la imágen
+
+
+			_para que así, éstos se comporten con un movimiento y desenfoque natural en clips, de películas
+
+			en los que éstas áreas recuperadas se mueven independientemente ó en conjunto relativo en la 
+
+			imágen en general
+
+
+		_Motion Blur:
+
+
+			_Samples Per Frame:
+
+				_a través, de ésta opción podremos indicar el intervalo de pre cálculo para el desenfoque
+
+				de movimiento generado de la imágen, éste valor estará superditado a si la opción de
+
+				"More Motion Blur", está activada ó no
+
+
+			_Shutter Angle:
+
+				_ésta opción nos permitirá indicar el ángulo de desenfoque aplicado al área recuperada más
+
+				allá, de los bordes de la imágen visible y la imágen eliminada, éste valor estará 
+
+				superditado a si la opción de "More Motion Blur", está activada ó no
+
+
+			_Highter Quality:
+
+				_ésta opción nos permitirá aumentar la calidad del desenfoque aplicado al área recuperada
+
+				más allá, de los bordes de la imágen visible y la imágen oculta, éste valor estará 
+
+				superditado a si la opción de "More Motion Blur", está activada ó no
+
+
+
+		_Decontaminate Edge Colors:
+
+			_activar ésta opción activará las opciones de "Color Spill", de, área recuperada más allá, de los
+
+			bordes de la imágen lo que permitirá tener un área más limpia e integrada con la imágen visible a
+
+			a través, del proceso de keygin
+
+
+		_Decontamination Amount:
+
+			_ésta opción nos permitirá indicar la cantidad de "spill", ha agregar al área recuperada más allá,
+
+			de los bordes de la imágen visible y la imágen ocualta de la imágen, éste valor estará 	superditado 
+
+			a si la opción de "Decontaminate Edge Colors", está activada ó no
+
+
+
+		_Extend Where Smoothed:
+
+			_ésta opción nos permitirá indicar la cantidad suavizado del "spill", será agregado al área 
+
+			recuperada más allá, de los bordes de la imágen visible y la imágen ocualta de la imágen, éste 
+
+			valor estará superditado a si la opción de "Decontaminate Edge Colors", está activada ó no
+
+
+		_Increase Decontamination:
+
+			_ésta opción nos permitirá aumentar la cantidad de "spill", ha agregar al área recuperada más allá,
+
+			de los bordes de la imágen visible y la imágen ocualta de la imágen, éste valor estará 	superditado 
+
+			a si la opción de "Decontaminate Edge Colors", está activada ó no
+
+
+		_View Decontamination Matte:
+
+			_ésta opción nos permitirá visalizar el matte, generado directamente en el viewport, del panel
+
+			"Compositing", para el proceso de "spill", ha agregar al área recuperada más allá, de los bordes 
+
+			de la imágen visible y la imágen ocualta de la imágen, 	éste valor estará superditado 	a si la 
+
+			opción de "Decontaminate Edge Colors", está activada ó no
+
+
+

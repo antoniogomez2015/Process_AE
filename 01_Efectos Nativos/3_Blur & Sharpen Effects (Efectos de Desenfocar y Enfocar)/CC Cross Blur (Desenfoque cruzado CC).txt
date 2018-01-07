@@ -1,0 +1,96 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permitirá crear desenfoques direccionales, tanto verticales como horizontales y de forma
+
+	mixta
+
+
+	_al mismo modo que en los efectos que disponen de las opciones de "Blur Dimensions", más el desenfoque 
+
+	conseguido por el efecto de "Cross Blur", es más realista y con más profundidad y detalle
+
+
+	_así, como también, es similar al efecto de "Directional Blur", más el efecto de "Cross Blur", no nos
+
+	permite indicar un radio de acción ó de trabajo en específico como el efecto de directional blur
+
+
+	_más que el efecto de cross blur, dispone de modos de fusión adicionales lo cuál, aumenta las posibilidades
+
+	de integración entre otros
+
+
+	_así, como también, permite la repetición de pixeles en los bordes de las imágenes en los bordes del canvas
+
+
+	_éste efecto también, es especialmente útil para lograr efectos especiales para stelas, strands, dinámicos,
+
+	otros
+	
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps	
+
+
+
+
+
+	Cross Blur: (Desenfoque cruzado CC)
+	___________
+
+	_Radius X:
+
+		_éste valor nos permitirá indicar la cantidad ó intensidad del efecto de desenfoque en el eje "X"
+
+	_Radius Y:
+
+		_éste valor nos permitirá indicar la cantidad ó intensidad del efecto de desenfoque en el eje "Y"
+
+
+	_Transfer Mode:
+
+
+		_ésta opción nos permitirá seleccionar entre una serie de modos de fusión los cuáles, nos permitirán
+
+		hacer variaciones de los resultados obtenidos
+	
+
+
+	_Repeater Edge Pixels:
+
+		_ésta opción nos pemritirá ajustar el comportamiento de los pixeles en las áreas de los bordes de la
+
+		imágenes, otros, para mejorar así los resultados en relación a los efectos deseados
+
+
+
+
+
+
+
+		_

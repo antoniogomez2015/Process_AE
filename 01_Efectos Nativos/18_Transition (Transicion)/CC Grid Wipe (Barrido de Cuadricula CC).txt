@@ -1,0 +1,169 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Grid Wipe, crea una transición que corta la capa fuente en cuadrados y los borra de la pantalla.
+ 
+
+	_La limpieza comienza desde un punto central definible por el usuario y se mueve de manera uniforme hacia 
+
+	el borde de la capa de origen. Los cuadrados pueden ser borrado usando tres formas diferentes.
+
+
+	_así, como también, podremos realizar diferentes efectos y constructivismo visual, mattes, y entre otras
+
+	posibilidades de producción paso contínuo
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Grid Wipe: (Barrido de Cuadricula CC)
+	_____________
+
+
+		_Completion:´
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que ésta realize la complexión
+
+			ó transición a través, de la cuál, se mostrarán las demás layers, subyacentes de la 
+
+			respectiva composición
+
+
+		_Center:
+
+			_ésta opción nos permitirá indicarle al sistema el epicentro a partir del cuál, se comenzará
+
+			ha generar el sistema, de ésta manera, podremos controlar las áreas con más densidad del
+
+			sistema generado
+
+
+		_Rotation:
+
+			_ésta opción nos permitirá indicarle al sistema si deseamos agregar rotación la cuál, a su 
+
+			vez, podrá ser positiva ó negativa, es decir, que podrá ser a la izquierda ó hacia la derecha
+
+
+		_Border:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la extensión inicial de efecto 
+
+			sobre la layer, base, es decir, la extensión que éste cubrirá desde un inicio 
+
+
+			_de ésta manera, podremos crear un sistema más compacto y con un grueso mayor y más aparente
+
+			ó por el contrario podremos crear un sistema más extenso ó ámplio desde un principio el cuál,
+
+			aparentará ser más delgado y estilizado
+
+
+		_Tiles:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la escala del sistema generado
+
+			de ésta manera, pdoremos crear diferentes efectos para lograr diferentes comportamientos 
+
+			entre las formas generadas como módulos, otros
+
+
+
+		_Shape:
+
+
+			_Doors:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, la forma modular del sistema
+
+				generado, y en éste caso el sistema creará un sistema totalmente cuadrático a partir
+
+				del centro
+
+
+			_Radial:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, la forma modular del sistema
+
+				generado, y en éste caso el sistema creará un sistema cuadrático aunque con los 
+
+				bordes redondeados
+
+
+			_Reactangular:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, la forma modular del sistema
+
+				generado, y en éste caso el sistema creará un sistema lineal el cuál, ocupará todo 
+
+				el ancho ó alto de la layer, base 
+
+
+				_ésta opción es la utilizada para generación de estructuras y constructivismo visual
+
+				para la generación de diferentes efectos de producción y paso contínuo
+
+
+	
+		_Reverse Transition:
+
+			_ésta opción nos permitirá indicarle al sistema que se ejecute de forma intertida, es decir,
+
+			que se ejecute con el alpha, auto generado pero ésta vez invertido, lo que representará que 
+
+			la transición ó el efecto se apreciará de forma invertida
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

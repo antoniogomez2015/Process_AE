@@ -1,0 +1,95 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá biselar ó extruir layers, con canal alpha, propio ó agregado por nosotros más
+
+	ésta opción a diferencia que el efecto "Bavel Alpha", el efecto de "Bevel Edges", nos permitirá crear ó
+
+	emular el efecto pseuso extrusión 3d, de forma geométrica
+
+
+	_lo que quiere decir, que ésta opción es más recomendada para layers, con canal alpha, de tipo rectangular
+
+	lo cuál, es especialmente útil layers, de tipo imágenes, sólidos, otros, las cuáles, sean cuadradas ó 
+
+	rectangulares
+
+
+	_ya que si aplicamos éste efecto en una layer, la cuál, tenga un canal alpha, irregular el efecto de biselado
+
+	se aplicará incorrectamente ya que éste mantendrá su proporción geométricamente cuadrada ó rectangular en
+
+	relación al "bounding box", del canal alpha, de la respectiva layer
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Bevel Edges: (Bordes biselados)
+	____________
+
+
+		_Edge Thickness:
+
+			_ésta opción nos permitirá indicar el grosor del bisel ó extrusión generada sobre los bordes
+
+			del canal alpha, de la respectiva layer
+
+
+		_Light Angle:
+
+			_ésta opción nos permitirá indicar la dirección de la luz, ó dirección del bisel ó extrusión
+
+			generada sobre el canal alpha, de la respectiva layer
+
+
+		_Light Color:
+
+			_ésta opción nos pemritirá indicar el color del bisel ó extrusión generada en el canal alpha, 
+
+			de la respectiva layer
+
+
+		_Light Intensity:
+
+			_ésta opción nos permitirá indicar la intensidad del bisel ó extrusión generar del canal alpha, 
+
+			de la respectiva layer
+
+
+
+
+
+
+

@@ -1,0 +1,613 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá eliminar ruido y granulidad de material de archivo para que así, podamos eliminar
+
+	ó suprimir gran parte de imperfecciones y patrones detectados a un análisis por medio de diferentes criterio
+
+	ó algoritmos de acción ó trabajo
+
+
+	_de ésta manera, podremos mejorar en gran manera, el material de archivo con ruido y granuliadad y deterioro
+
+	en general
+
+	
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Remove Grain: (Eliminar Granulado)
+	_____________
+
+
+		_Viewing Mode:
+
+
+			_Preview:
+
+				_ésta opción nos permitirá visualizar la aplicación del efecto en una zona ó región
+
+				limitada en un rectángulo el cuál, podremos personalizar en relación a nuestras
+
+				necesidades
+
+
+				_de ésta manera, éste recuadro de previsualización lo podremos hacer más grande ó
+
+				más pequeño en relación al área que deseamos ver aplicado el efecto sobre nuestro 
+
+				motivo
+
+
+				_como también, podremos mover éste recuadro hasta una zona ó área de interés en la 
+
+				cuál, deseamos ver el efecto aplicado para que así, podamos hacer pruebas y ensayos
+
+
+
+			_Noise Samples:
+
+				_ésta opción nos permitirá visualizar los puntos de sampleo a través, de los cuáles,
+
+				el sistema tomará referencia para la generación del efecto de granulado por medio de 
+
+				la layer, de referencia que hemos seleccionado para tal fin
+
+
+			_Compensation Samples:
+
+				_ésta opción nos permitirá visualizar los puntos de sampleo que tomará el sistema 
+
+				sobre la layer, a la cuál, le hemos aplicado el efecto de granulado personalizado
+
+				para que así, a través, de éstos puntos de referencia poder aplicar el efecto de 
+
+				granulado tomado de la layer, ó prixi, que hemos indicado para tal fin
+
+
+			_Blending Matte:
+
+				_ésta opción nos permitirá visualizar directamente en el viewport, del panel 
+
+				"compositing", el matte, generado para la aplicación del proceso, éste matte, también,
+
+				lo podremos utilizar para diferentes procesos de paso contínuo y producción, otros
+
+
+			_Final Output:
+
+				_ésta opción nos permitirá aplicar el efecto sobre toda la layer, sobre la cuál, hemos
+
+				aplicado el efecto omitiendo así, el recuadro de previsualización previa del efecto
+
+
+
+
+		_Prevew Region:
+
+
+			_Center:
+
+				_ésta opción nos pemritirá reubicar el recuadro de previsualización del efecto para 
+
+				que así, podamos ubicar éste recuadro en un área de interés determinada por nosotros
+
+				a través, de un handle, directamente en viewport, del panel "compositing", ó por medio 
+
+				de parámetros numéricos en el efecto en el panel "effects controls"
+
+
+				_ésta opción aplicará sólo si la opción "Vewing Mode", está en la opción de "Preview"
+
+
+			_Width:
+
+				_ésta opción nos pemritirá indicar un ancho personalizado para el recuadro de 
+
+				previsualización para que así, éste recuadro cubra un área personalizda por nosotros
+
+
+				_ésta opción aplicará sólo si la opción "Vewing Mode", está en la opción de "Preview"
+
+
+			_Height:
+
+				_ésta opción nos pemritirá indicar un alto personalizado para el recuadro de 
+
+				previsualización para que así, éste recuadro cubra un área personalizda por nosotros
+
+
+				_ésta opción aplicará sólo si la opción "Vewing Mode", está en la opción de "Preview"
+
+
+			_Show Box:
+
+				_ésta opción nos pemritirá indicar si el recuadro de previsualización será visible a
+
+				través, de un área perimetral de color ó si preferimos que éste no esté enmarcado en 
+
+				dicha área perimetral de color
+
+
+				_ésta opción aplicará sólo si la opción "Vewing Mode", está en la opción de "Preview"
+
+
+			_Box Color:
+
+				_así, como también, podremos indicar si el recuadro de previsualización se visualizará
+
+				a través, un color blanco por defecto ó si deseamos indicar un color personalizado a
+
+				través, de un picker, ó un selector de color personalizado para que así, ésta área
+
+				perimetral disponga de un color distintivo a los colores de la imágen bese y por ende
+
+				haya contraste entre ambos elementos
+
+
+				_ésta opción aplicará sólo si la opción "Vewing Mode", está en la opción de "Preview"
+
+
+
+
+		_Noise Reduction Settings:
+
+
+			_Noise Reduction:
+
+				_ésta opción nos permitirá indicar la cantidad de ruido detectado en la layer, base en
+
+				la cuál, hemos aplicado el efecto
+
+
+			_Passes:
+
+				_ésta opción nos permitirá indicar cuando pases ó sampleos se realizarán en la layer, 
+
+				base sobre la cuál, hemos aplicado el efecto para que así, el sistema tenga una mayor
+
+				precisión aunque aumentar el muestreo aumentará también, el tiempo de cálculo
+
+
+
+			_Mode:
+
+
+				_Multichannel:
+
+					_ésta opción nos permitirá indicarle al sistema que realice el análisis a través,
+
+					de un análisis realizado a cada canal de color de forma independiente uno del
+
+					otro lo cuál, requerirá un pre cálculo superior y más pesado para el sistema
+
+
+				_Simplechannel:
+
+					_ésta opción le indicará al sistema que éste debe de conmutar los canales de 
+
+					color e	interpretarlos como uno sólo para que así, el sistema sólo tenga que 
+
+					hacer un sólo cálculo para todos los canales de color lo cuál, alivianará el 
+
+					proceso de pre cálculo de todo el sistema
+
+
+
+			_Channel Nouse Reduction:
+
+
+				_Red | Green | Blue Reduction:
+
+					_ésta opción nos permitirá filtrar el proceso de reducción de ruido por canal 
+
+					para que así, podamos indicarle al sistema que haga énfasis en uno ó más canales
+
+					sobre la demás, en relación al efecto ó resultado deseado
+
+
+
+		_Fine Tunning:
+
+
+			_Chroma Suppression:
+
+				_ésta opción nos permitirá suprimir el color de un chroma, estandar el cuál, por lo 
+
+				general es de un color verde estandar para la industria presente en la layer, base
+
+				sobre la cuál, hemos aplicado el efecto
+
+
+				_ésta opción estará activa sólo si la opción de "Noise Reduction Setting", está en la
+
+				opción de "Multichannel"
+
+
+			_Texture:
+
+				_ésta opción nos permitirá indicarle al sistema un umbral de detección de texturas para
+
+				que así, el sistema no contempla la texturas de superficies determinnadas como parte del
+
+				ruido ha eliminar
+
+
+			_Noise Size Bias:
+
+				_ésta opción nos permitirá indicarle al sistema un umbral ó rango del tamaño del ruido 
+
+				posible ha detectar para que así, el sistema sólo elimine el ruido detectado dentro del 
+
+				rango ó umbral indicado y no más allá, de éste
+
+
+			_Clean Solid Areas:
+
+				_ésta opción nos permitirá indicarle al sistema un umbral ó rango de los patrones de
+
+				ruido encontrados en superficies lisas y sólidas sin texturas definidas para que así,	
+					
+				el sistema también, contemple éstos posibles patrones de ruido a través, de un rango
+
+				ó umbral determinado
+
+
+
+		_Temporal Filtering:
+
+
+			_Enable:
+
+				_ésta opción nos permitirá indicar la opción de filtrado y detección de ruido a través,
+
+				del tiempo
+
+
+			_Amount:
+
+				_ésta opción nos permitirá indicarle al sistema un umbral ó rango de ruido ha detectar
+
+
+			_Motion Santitivity:
+
+				_ésta opción nos permitirá indicarle al sistema un rango ó umbral de ruido ha detectar
+
+				a través, del timepo y a su vez, a los patrones de ruido encontrados por el sistema para
+
+				su posterior eliminación ó supresión en una determinada proporción
+
+
+
+		_Unsharp Mask:
+
+
+			_Amount:
+
+				_ésta opción nos permitirá indicar un umbral de detección de áreas desenfocadas en la
+
+				layer, base sobre la cuál, hemos aplicado el efecto para que así, éstas áreas influyan
+
+				en el análisis sólo en la proporción de un umbral ó rango determinado por nosotros
+
+
+			_Radius:
+
+				_ésta opción nos permitirá indicar un radio de alcance de éstas áreas desenfocadas para
+
+				que así, éstas áreas tengan influencia sobre áreas contíguas ha éstas, en una proporción
+
+				y rango determinado por nosotros a través, de un umbral
+
+
+			_Threshold:
+
+				_ésta opción nos permitirá indicar un umbral general para la detección de áreas 
+				
+				desenfocadas para que así, podamos limitar todo éste sistema de detección de áreas
+
+				desenfocadas al unísono
+
+
+
+		_Sampling:
+
+
+			_Source Frame:
+
+				_ésta opción nos permitirá indicar un frame, ó fotograma a través, del cuál, se tomarán 
+
+				las muestras de la layer, proxi, que hemos indicado para que así, a través, de éstas el 
+
+				sistema tome las referencias para la generación y transpolación del efecto de ruido y 
+
+				granulado a la layer, base a la cuál, hemos aplicado el efecto
+
+
+			_Number of Samples:
+
+				_ésta opción nos permitirá indicar un número personalizado de muestras ha utilizar para
+
+				la generación del efecto de ruido y granulado de ésta manera, en relación a la 
+
+				complejidad de la layer, proxi, que hemos indicado para la toma de muestras, podremos
+
+				entonces indicar un número determinado muestras para la generación del sistema
+
+
+			_Sample Size:
+
+				_ésta opción nos permitirá indicar un tamaño uniforme y personalizable para el tamaño
+
+				de las muestras para la generación del sistema lo cuál, a su vez, por lo general irá
+
+				relacionado con la cantidad de muestras indicadas para la generación del sistema
+
+
+			_Sample Box Color:
+
+				_ésta opción nos permitirá indicar un color personalizado para el enmarcado de cada
+
+				muestro ó sample, por lo general éstas serán de un color blanco más éste color lo 
+
+				podremos personalizar a través, de un picker, ó un selector de color personalizable
+
+
+
+			_Sample Selection:
+
+
+				_Manual:
+
+					_ésta opción nos permitirá activar la generación de muestras de forma manual
+
+					para que así, se active la opción de "Noise Sample Point" 
+
+
+					_para que así, podamos nosotros mismos en ésta sección a través, de un handle, 
+
+					directamente sea en el viewport, del panel compositing, ó en el panel 
+
+					effects controls 
+
+
+					_ubicar cada punto de muestreo ó sampleo en un lugar determinado en la layer, 
+
+					proxi, que hemos indicado lo cuál, nos permitirá indicarle al sistema que tome 
+
+					ciertas características que consideramos importantes para muestreo y sistema 
+
+					resultante
+
+
+					_para lo cuál, habrá que colocar la opción de "Viewing Mode", en la opción de
+
+					"Noise Samples", para que así, podamos ver en el viewport, del panel 
+
+					compositing, la layer, que hemos indicado como layer, proxi, de la cuál, se
+
+					tomará la información de ruido y granulado para la transpolación del efecto
+
+
+				_Automátic:
+
+					_ésta opción permitirá que el sistema ubique los puntos de smapleo ó muestreo
+
+					de forma automática y en los puntos más homogénios de la imágen ó layer, que
+
+					hemos indicado como proxi de ésta manera, el sistema evitará tomar muestras
+
+					complicadas como griedas, depreciones y relieves muy complejos y abrutos los
+
+					cuáles, darían resultados muy inesperados
+
+
+					_de ésta manera, el muestreo automático buscará tomar las muestras más parecidas
+
+					ó patrones baes y con menos imperfecciones buscando sólo el ruido de pixeles y 
+
+					la granulidad en general encontrada la respectiva layer, proxi
+
+
+
+			_Noise Sample Point:
+
+				_ésta opción nos brinda hasta "10", handles, a través, de los cuáles, podremos indicar
+
+				diez puntos de sampleos ó muestreos personalizados, para la generación del ruido y
+
+				granulado, ésta opción estará superditada a la opción "Sample Selection/Manual", si 
+
+				ésta está activada ó desactivada
+
+
+
+		_Blend with Original:
+
+				
+			_Amount:
+
+				_ésta opción nos permitirá indicar la proporción de integración ó fusión del sistema de
+
+				granulado con la layer, base, de ésta manera, podremos controlar el modo de fusión del
+
+				sistema de granulado y a su vez, la opacidad de éste a través, de un umbral 
+
+				personalizable
+
+
+			_Combine Match and Mask:
+
+
+				_Multiply | Screen:
+
+					_ésta opción nos permitirá seleccionar entre los dos modos de fusión más comúnes
+
+					para éste tipo de procesos en relación a nuestras necesidades
+
+
+			_Blur Matte:
+
+				_ésta opción nos permitirá agregar un desenfoque al matte, generado para la creación del
+
+				sistema de granulado lo que permitirá lograr en ciertos casos, unos resultados más
+
+				integrados entre otras posibilidades de producicón y paso contúnio
+
+
+
+			_Color Matching:
+
+
+				_Match Color using:
+
+
+					_RGB:
+
+						_ésta opción nos permitirá seleccionar el espacio de color ó algoritmo
+
+						de pre cálculo para la integración del sistema con la layer, base en
+
+						éste caso el "RGB", ó espectro de color más ámplio
+
+
+					_HUE:
+
+						_ésta opción nos permitirá seleccionar el espacio de color ó algoritmo
+
+						de pre cálculo para la integración del sistema con la layer, base en
+
+						éste caso el "HUS", ó limitado por el tono, saturación y brillo
+
+
+					_Chroma:
+
+						_ésta opción nos permitirá seleccionar el espacio de color ó algoritmo
+
+						de pre cálculo para la integración del sistema con la layer, base en
+
+						éste caso el "Chroma", ó un color clave, por lo general un color verde
+
+						específico y estándar para la industria
+
+
+					_Luminance:
+
+						_ésta opción nos permitirá seleccionar el espacio de color ó algoritmo
+
+						de pre cálculo para la integración del sistema con la layer, base en
+
+						éste caso el "Luminance", ó mapa de densidad ó matte
+
+
+					_R|G|B Channels:
+
+						_ésta opción nos permitirá seleccionar el espacio de color ó algoritmo
+
+						de pre cálculo para la integración del sistema con la layer, base en
+
+						éste caso el "R|G|B Channels", ó canales de colores independientes
+
+
+				_Matching Color:
+
+					_ésta opción nos permitirá indicar un color personalizado a través, de un picker,
+
+					ó selector de color personalizado para que así, podamos indicar un color 
+
+					específico para una integración concreta con los colores de la layer, base sobre
+
+					cuál, hemos aplicado el efecto de granulado
+
+
+				_Matching Tolerance:
+
+					_ésta opción nos permitirá indicar un valor o umbral a través, del cuál, podremos
+
+					indicarle al sistema cuán sensible será en relación al espacio de color ó 
+
+					algoritmo seleccionado
+
+
+				_Matching Softness:
+
+					_ésta opción nos permitirá indicar un valor de suavizado y desenfoque para la 
+
+					integración del sistema con la layer, base a través, del cuál, podremos cambiar
+
+					comportamiento y separación entre cada grano del sistema de granulado
+
+
+				_Invert Match:
+
+					_ésta opción nos permitirá invertir todo el comportamiento del espacio de color
+
+					y algoritmo seleccionado para la integración del sistema de granulado con la 
+
+					layer, base a la cuál, le hemos aplicado el efecto
+
+
+
+			_Masking Layer:
+
+
+				_Mask Layer:
+
+					_(Indeterminado de aquí en adelante)
+
+
+				_Masking Mode:
+
+					_
+
+
+				_If Mask Size Differs:
+
+					_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

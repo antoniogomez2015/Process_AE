@@ -1,0 +1,361 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos pemritirá crear sistemas de cabello, fibras, gramas, otros, como también, para diferentes
+
+	sistemas de producción y paso contínuo como partículas, otros
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Hair: (CC Cabello)
+	________
+
+
+		_Length:
+
+			_ésta opción nos permitirá determinar el tamaño de la fibra ó filamento generado por el
+
+			sistema
+
+
+		_Thickness:
+
+			_ésta opción nos permitirá indicar ó determinar el grosor del filamento ó fibra generada
+
+			por el sistema
+
+
+		_Weight:
+
+			_ésta opción permitirá la prolongación del filamento más allá, de la longitud natural 
+
+			indicada a través, del valor "Length"
+
+
+			_de ésta manera, la longitud extra es nula cuando indicamos un valor de "0", en la propiedad
+
+			de "Weight"
+
+
+			_más si indicamos valores negativos la longitud del el filamento ó fibra será extendida en
+
+			éste caso hacia arriba
+
+
+			_más si indicamos valores positivos la longitud del el filamento ó fibra será extendida en
+
+			éste caso hacia abajo
+
+
+			_de ésta manera, podremos generar diferentes efectos con gravedad positiva ó negativa así,
+
+			también, efecto más abstractos, otros
+
+
+		_Constant Mass:
+
+			_(Indeterminado)
+
+
+		_Density:
+
+			_ésta opción nos permitirá indicar la cantidad de fibras ó filamentos lo cuál, nos permitirá
+
+			crear sistemas más prolijos ó densos de fibras ó filamentos como también, sistemas más 
+
+			ligeros ó sitiles
+
+
+
+		Hairfall Map:
+
+
+			_Map Strength:
+
+				_ésta opción nos permitirá controlar la influencia de generación de fibras, hebras
+
+				ó filamentos a través, de una layer, auxiliar y un criterio ó algoritmo seleccionado
+
+
+				_de ésta manera, podremos controlar y distorsionar la generación de fibras natural
+
+				y homogenea del sistema a través, de una layer, auxiliar 
+
+
+				_para poder así, crear anomalías diferentes al patrón base como también, generar 
+
+				comportamientos y formas bien definidas y bajo unos requerimientos concretos para 
+
+				diferentes procesos de producción y paso contínuo
+
+
+			_Map Layer:
+
+				_ésta opción nos permitirá seleccionar una layer, la cuál, hará de layer, axuliar
+
+				para la generación alternativa del sistema de partículas lo que permitirá a su vez, 
+
+				crear anomalías y formas personalizadas de fibras y filamentos extras
+
+
+			_Map Property:
+
+
+				_Red | Green | Blue:
+
+					_ésta opción nos permitirá seleccionar ó indicar un criterio de trabajo de
+
+					tipo de color "R|G|B", el cuál, a su vez, es un algoritmo por medio del cuál,
+
+					se podrá generar el sistema de fibras ó hebras alternativo al sistema base 
+
+					y homogeneo
+
+
+				_Alpha:
+
+					_ésta opción nos permitirá seleccionar ó indicar un criterio de trabajo de
+
+					tipo "Canal Alpah", el cuál, a su vez, es un algoritmo por medio del cuál, 
+
+					se podrá generar el sistema de fibras ó hebras alternativo al sistema base 
+
+					y homogeneo
+
+
+				_Luminance | Lightness:
+
+					_ésta opción nos permitirá seleccionar ó indicar un criterio de trabajo de
+
+					tipo "Luminancia", el cuál, a su vez, es un algoritmo por medio del cuál,
+
+					se podrá generar el sistema de fibras ó hebras alternativo al sistema base 
+
+					y homogeneo
+
+
+				_Hue | Saturation:
+
+					_ésta opción nos permitirá seleccionar ó indicar un criterio de trabajo de
+
+					tipo "Gamma | Pedestal", el cuál, a su vez, es un algoritmo por medio del 
+
+					cuál, se podrá generar el sistema de fibras ó hebras alternativo al sistema 
+
+					base y homogeneo
+
+
+
+			_Map Softness:
+
+				_ésta opción nos permitirá controlar y cambiar el comportamiento del sistema en 
+
+				relación a las fibras ó hebras generadas de forma extra sobre el sistema base
+
+
+				_de ésta manera, podremos crear un sistema general de partículas ó fibras más sutil
+
+				ó por el contrario, en modo de profusión y dispersión mucho más denso y abundante 
+
+				y micro replicado
+
+
+				_lo cuál, nos permitirá crear sistemas más complejos y ricos propiamente para lograr
+
+				así, diferentes efectos de producción y paso contínuo, por ejemplo; efectos de 
+
+				gamusas, textiles, cristales, fractales, otros
+
+
+				_de ésta manera, con valores cercanos ha "0", lograremos efectos más profusos y 
+
+				abundantes y complejos
+
+
+				_y con valores cercanos ha "100", pograremos más sutiles y mínimals, como también,
+
+				más simples y ligeros
+
+
+			_Add Noise:
+
+				_ésta opción nos permitirá también, agregar dispersión y proligidad al sistema de
+
+				ésta manera, podremos aumentar la separación de las fibras ó hebras ó filamentos
+
+				existentes en el sistema como también, agregar sub fibras las cuáles, ahora se verán
+
+				multiplicadas y dispersas
+
+
+				_de ésta manera, podremos utilizar ésta opción de "Noise", en conjunto con la opción
+
+				de "Map Softness", para lograr diferentes efectos bajo requerimientos concretos
+
+
+				_así, con valores de "Map Softness", cercanos ha "100", podremos crear gramas más
+
+				homogeneas, alfonbras, otros y con valores de "Map Softness", cercanos ha "0", 
+
+				podremos crear efectos más de tipo tejidos, puntadas, cristales, fractales, otros
+
+
+
+		Hair Color:
+
+
+			_Color:
+
+				_más también, podremos controlar el color general de las fibras ó filamentos 
+
+				generados por el sistema así, podremos crear hebras que emulen cabello, pelo, pasto,
+
+				grama, cristales de colores otros
+
+
+			_Color Inheritance:
+
+				_ésta opción nos permitirá interactuar el "HUE", tono saturación del color
+
+				seleccionado para la generación del sistema
+
+
+			_Opacity:
+
+				_ésta opción nos pemritirá controlar la opacidad general de todo el sistema lo que permitirá
+
+				a su vez, que podamos integrar el sistema con otras layers, de la respectiva composición
+
+
+				_de ésta manera, lo más recomendado es colocar debajo del sistema una layer, con un color
+
+				similar al aplicado para la generación del sistema ó un color que haga juego con éste para
+
+				que así, se consiga un integración coherente
+
+
+
+		Light:
+
+			
+			_Light Height:
+
+				_ésta opción nos permitirá subir ó bajar la altura de la iluminación genera por el sistema
+
+				en relación a la altura del formato del canvas de la respectiva composición de ésta manera,
+
+				podremos controlar la ubicación de la luz base en el sistema
+
+
+			_Light Direction:
+
+				_así, como también, podremos controlar la dirección de iluminación generada en relación a 
+
+				su vez, de altura de la luz ó "Light Hright"
+
+
+
+		Shading:
+
+
+			_Ambient:
+
+				_ésta opción nos permitirá indicar la cantidad de iluminación global existente en
+
+				la imágen general y sistema de fibras ó hebras lo cuál, hará directamente la imágen 
+
+				más oscura ó más clara 
+				
+
+
+			_Diffuse:
+
+				_ésta opción también, hará que la imágen base y sistema de fibras ó hebras sea más 
+
+				receptiva a la cantidad de iluminación generada por el sistema de ésta manera, el sistema
+
+				podrá recibir más ó menos luz y efectos especulares y reflectivos
+
+
+			_Specular:
+
+				_ésta opción hará que y sistema de fibras ó hebras generados sea más receptivo a efectos 
+
+				especilares de brillo por la iluminación lo cuál, hará que el sistema resalte más sobre la 
+
+				imágen base
+
+
+			_Roughtness:
+
+				_ésta opción combina las opciones del efecto especular y de la cantidad de 
+
+				iluminación existente en el sistema de fibras ó hebras
+
+
+				_lo que permitirá que haya más notoriedad del efecto del sistema de fibras ó hebras ó que 
+
+				éste sea más sutil
+
+
+
+			_Metal:
+
+				_ésta opción va de la mano con la opción de "Specular", ya que la opción "Metal",
+
+				también, auna esfuerzos en relación a la capacidad de recibir especularidad de parte
+
+				del sistema de fibras ó hebras generadas y los efectos de relives sobre imágen base
+
+
+
+
+
+
+
+
+
+
+
+
+

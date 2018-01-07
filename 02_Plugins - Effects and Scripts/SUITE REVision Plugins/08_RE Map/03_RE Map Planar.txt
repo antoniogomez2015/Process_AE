@@ -1,0 +1,235 @@
+
+
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+		DEFlicker Tutorials/Playong List:
+
+			https://www.youtube.com/watch?v=ROG9Cx09xr4&list=PLJZE0COAfWUXTkWdhbkaO5GflW3hWJZ4h
+
+
+		RE:Flex (17 Videos)
+
+			https://www.youtube.com/playlist?list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v
+
+
+		RE:Flex Morph - Morphing between moving images
+
+			https://www.youtube.com/watch?v=t0lcSHYiOJg&list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v&index=2
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE:VisionFx RE: Map Planar:
+___________________________
+
+
+	_éste efecto nos permitirá transformar ó hacer ajustes de perspectiva y orientación de mapas como por ejemplo;
+
+	depth, uvs, ao, otros
+
+
+
+
+
+	RE: Map Planar Options:
+	_______________________
+
+
+	_Registration Mode:
+
+
+		_Source:
+
+			_ésta opción nos permitirá visualizar la layer, original sin la acción del efecto
+
+
+		_Project (Corner Pin):
+
+			_ésta opción nos permitirá visualizar la layer, original con la acción de la deformación
+
+			generada a través, del efecto de corner pin
+
+
+		_Unproject (Invert Corner Pin):
+
+			_ésta opción nos permitirá visualizar la layer, original con la acción de la deformación
+
+			generada a través, del efecto de corner pin, invertido
+
+
+
+	_ALT Projection Source:
+
+		_ésta opción nos pemritirá seleccionar una layer, auxiliar la cuál, sustituirá la layer, original
+
+		para la generación del proceso de distorsión ó ajuste
+
+
+
+	_Warp Output:
+
+
+		_Output Color:
+
+			_a través, de ésta opción podremos visualizar el color ó canal diffuse, de la layer, base, ó
+
+			la layer, "ALT", alternativa
+
+
+		_Output UV:
+
+			_a través, de ésta opción podremos visualizar el el mapa uv, generado de la layer base, ó
+
+			la layer, "ALT", alternativa
+
+
+	_Show Guide Line:
+
+		_ésta opción nos permitirá visualizar u oculta las líneas guías por medio de las cuáles, podremos
+
+		visualizar las referencias entre los diferentes puntos del efecto corner pin
+
+
+	_Pos 1 Source:
+
+		_éste es un punto de anclaje del sistema del efecto de corner pin
+
+
+	_Pos 2 Source:
+
+		_éste es un punto de anclaje del sistema del efecto de corner pin
+
+	
+	_Pos 3 Source:
+
+		_éste es un punto de anclaje del sistema del efecto de corner pin
+
+
+	_Pos 4 Source:
+
+		_éste es un punto de anclaje del sistema del efecto de corner pin
+
+
+
+	_Transform Controls:
+
+		
+		_Pos Center Source:
+
+			_ésta opción nos permitirá re centrar la posición de la layer, ó mapa base sin tener que 
+
+			mover los handles, ó puntos de anclaje de forma individual del efecto corner pin, para que 
+
+			así, podamos realizar ediciones rápidas de todo el sistema
+
+
+		_Scale X %:
+
+			_ésta opción nos permitirá poder realizar re escalado de la layer, base en el eje horizontal
+
+
+		_Scale Y %:
+
+			_ésta opción nos permitirá poder realizar re escalado de la layer, base en el eje vertical
+
+
+		_Scale Z:
+
+			_ésta opción nos permitirá poder realizar re escalado de la layer, base en el eje 
+
+			de profundiad
+
+
+
+	_Layer Resize:
+
+		
+		_Layer Grow X:
+
+			_ésta opcíon nos permitirá hacer un rescalado de la layer, base, sin tomar en cuenta 
+
+			la deformación realizada por efecto corner pin, incorporado en el eje horizontal
+
+
+		_Layer Grow Y:
+
+			_ésta opcíon nos permitirá hacer un rescalado de la layer, base, sin tomar en cuenta 
+
+			la deformación realizada por efecto corner pin, incorporado en el eje vertical
+
+
+	
+	_Render Controls:
+
+		
+		_Mip-Map Method:
+
+			_ésta opción nos pemitirá seleccionar al método ó algoritmo los cuáles, mejorarán el aspecto
+
+			de los pixeles tras las deformación resultante, de ésta manera, dispondremos de las siguientes
+
+			opciones "Standard, Medium, Smoothest"
+
+
+		_Sharpness:
+
+			_ésta opción nos permitirá agregar enfoque a los pixeles en relación a la deformación resultante
+
+			para lo cuál, el efecto nos brinda diferentes algoritmos ya que en algunos casos es necesario
+
+			agregar diferentes tipos de re enfoques cuando los pixeles se emborronan
+
+
+		_OverBg:
+
+			_activar ésta opción hará que una instancia de la layer, base esté en su posición y forma 
+
+			original sin las deformaciones aplicadas del efecto corner pin, integrado a parte de la 
+
+			instancia de la layer, que si tendrá las deformaciones del efecto corner pin, aplicados
+
+
+		_Blend Amount %:
+
+			_ésta opción nos permitirá controlar la opacidad que tendrá todo el sistema lo que permitirá
+
+			que podamos graduar la opacidad e integración de ésta layer, resultante con las demás layers,
+
+			de la respectiva composición
+
+
+		_Edges Anti-Aliasing:
+
+			_ésta opción mejorará el aspecto de los bordes en las áreas con mayor deformación realizada
+
+			por el efecto de corner pin		
+
+
+		_Motion Blur:
+
+			_ésta opción nos permitirá mejorar el aspecto de los pixeles en la interpolación de movimiento
+
+			esoecialmente cuando hay más deformación entre los pixeles
+
+
+
+
+
+

@@ -1,0 +1,112 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá poder configurar un matte, ó alpha, de una layer, determinado a través, de la 
+
+	información de otro layer, de forma específica
+
+
+	_lo cuál, es una forma directa de signación de canal alpha, ha una layer, determinada de igual manera, como
+
+	podríamos hacer con otros efectos de channels, de after effects, como channel combiner, Calculation, otros
+
+
+	_más la opción del filtro nos brinda posibilidades extras para layers, las cuáles disponen de un canal alfa
+
+	nativo el cuál, podrá utilizar en otra layer
+
+
+	_opciones especiales de interpretación del canal alpha, así, en relación a la conformación de éste entre
+
+	diferentes métodos y posibilidades
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Set Matte: (Definir Mate)
+	__________
+
+	_Take Matte From Layer:
+
+		_ésta opción nos permitirá seleccionar la layer, ó composición que hará de canal alpha
+
+
+	_Use For Matte:
+
+		_ésta opción nos permitirá seleccionar el tipo de criterio ó canal de información ha tomar para a
+
+		partir de ésta generar el canal alpha, agregado a la respectiva layer, a la cuál, se ha agregado 
+
+		éste efecto de set matte
+
+
+		_y dicho canales ó modos de información son los siguientes:
+
+			_Red / Green / Blue / Alpha / Luminance / Hue / Lightness / Saturation / Full / Off
+
+
+		_más éste efecto dará los mejores resultado cuando la layer, que hará de layer, auxiliar dispone de
+
+		un canal alpha, nativo y ésta opciones seleccionamos la opción de "Alpha"
+
+
+	_Invert Matte:
+
+		_ésta opción nos permitirá invertir el canal seleccionado lo cuál, invertirá los valores de 
+
+		luminancia y gamma lo cuál, a su vez, invertirá el matte, ó canal alpha, resultante y agregado a la
+
+		respectiva layer, base
+
+
+	_Stretch Matte to Fit:
+
+		_ésta opción tratará de ajustar el respectivo canal alpha, resultante al tamaño de la layer, base
+
+		como también, al tamaño del canvas ó composición respectiva
+
+
+	_Composite Matte Width..:
+
+		_(Indeterminado)
+
+
+	_Premultiply matte Layer:
+
+		_ésta opción nos permitirá genera un canal alpha, premultiplicado
+
+
+
+
+
+
+	

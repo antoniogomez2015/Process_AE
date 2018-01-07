@@ -1,0 +1,151 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá hacer virados y ajustes de color de forma más avanzada y de cierta manera más que
+
+	el efecto de "Channel Mixer"
+
+
+	_más con las diferencias de que en el efecto de "Color Balance", no haremos virados ó conversiones de un
+
+	canal ha otro como del rojo al azul, otros
+
+
+	_si no que en vez de eso, podremos hacer inyecciones de color a través, de filtros ó la segmentación por 
+
+	canal, y a su vez, a través, de los brillos, medios tonos, y sobras
+
+
+	_de ésta manera, podremos llegar a los mismos resultados que el efecto de "Channel Mixer", pero a través, de
+
+	difernetes criterios y parámetros
+
+
+	_de ésta manera, podremos utilizar éste efecto en vez del channel mixer, cuando nos interese mantener ó
+
+	controlar las luces, medio tonos y sombras sobre el virado bruto de color
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Color Balance: (Equilibrio de Color)
+	______________
+
+	_Shadow Red Balance:
+
+		_ésta opción nos permitirá indicar la influencia del canal rojo en relación a las sobras de la 
+
+		imágen
+
+
+	_Shadow Green Balance:
+
+		_ésta opción nos permitirá indicar la influencia del canal verde en relación a las sobras de la 
+
+		imágen
+
+
+
+	_Shadow Blue Balance:
+
+		_ésta opción nos permitirá indicar la influencia del canal azul en relación a las sobras de la 
+
+		imágen
+
+	
+	_Midtine Red Balance:
+
+		_ésta opción nos permitirá indicar la influencia del canal rojo en relación a los medios tonos de 
+
+		la imágen
+
+
+	_Midle Green Balance:
+
+		_ésta opción nos permitirá indicar la influencia del canal verde en relación a los medios tonos de 
+
+		la imágen
+
+
+	_Midle Blue Balance:
+
+		_ésta opción nos permitirá indicar la influencia del canal azul en relación a los medios tonos de 
+
+		la imágen
+
+
+	_Hightlight Red Balance:
+
+		_ésta opción nos permitirá indicar la influencia del canal rojo en relación a las alta luces de 
+
+		la imágen
+
+
+	_Hightlight Green Balance:
+
+		_ésta opción nos permitirá indicar la influencia del canal verde en relación a las alta luces de 
+
+		la imágen
+
+
+	_Hightlight Blue Balance:
+
+		_ésta opción nos permitirá indicar la influencia del canal azul en relación a las alta luces de 
+
+		la imágen
+
+
+	_Preserve Luminocity:
+
+		_ésta opción nos permitirá indicar que el sistema preserve la luminocidad de la imágen original ó
+
+		inicial de la layer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

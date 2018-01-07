@@ -1,0 +1,45 @@
+
+
+
+
+RD, serie de escripts, gratuitos http://www.redefinery.com/
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+RD Statesman
+
+
+	este escript, tiene como objetivo guardar estados de los diferentes parametros de una composicion seleccionada
+
+	a traves, de slots, de estados, con una capacidad de (6), estados de almacenamiento
+
+
+
+WorkFlow
+---------
+
+
+	-primero seleccionamos una composicion desea en el panel proyect
+
+
+	-luego vamos al panel  rd-Statesman
+
+	
+	-luego en el panel rd-Statesman, seleccionamos de la lista uno o varios valores switches/interructores de la lista 
+
+	ej. switches Effects
+
+
+	-luego con el/los, switches/, desedos hacemos mouse left click, en una de las arrows, o flechas sobre los numeros
+
+	respecivos, en la parte superior del panel teniendo (6), opciones o estodos disponibles a guardar
+
+
+	-para recuperar un estado almacenado o guardado debemos hacer mouse left click, en un numero respectivo correspondiente
+
+	ha un estado determinado almacenado

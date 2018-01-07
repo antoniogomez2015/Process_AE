@@ -1,0 +1,149 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear un incrustamiento de color ó keygin, a través, de los valores de liminancia
+
+	de la imágen
+
+
+	_de ésta manera, podremos eliminar color de la imágen que estén más cerca de los extremos del espectro ó gamma
+
+	tonal de la imágen de ésta manera, a través, de los niveles de la imágen podremos eliminar los colores que estén
+
+	más cerca del blanco puro y el negro puro hasta llegar hasta la gamma de colores medios respectivamente
+
+
+	_así, de ésta manera, podremos eliminar colores con una morfología compleja fácilmente en imágenes de alto 
+
+	contraste con muy poco esfuerzo lo cuál, es especialmente útil para procesos de paso contínuo y producción
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Extract: (Extraer)
+	_______
+
+
+		_Histogram:
+
+			_a través, del histograma podremos visualizar la gamma tonal de la imágen para que así, podamos
+
+			ubicar el rango en la luminancia deseado ha eliminar en la imágen resultante del proceso
+
+
+		_Channel:
+
+			_ésta opción nos pemritirá seleccionar el canal de trabajo, por lo general el canal de trabajo es
+
+			el canal conjunto que conforma la "luminancia", de la imágen
+
+
+			_más también, para chromes, específicos u otro color determinado podremos indicar cualquier canal
+
+			como "R/G/B", ó incluso trabajar sobre el mismo coanal "Alpha", de existir éste en la imágen
+
+
+		_Black Point:
+
+			_ésta opción nos permitirá controlar el punto de entrada de los negros de la imágen para que así,
+
+			podamos controlar el umbral de valores de luminancia eliminado de la imágen resultante
+
+
+		_White Point:
+
+			_ésta opción nos permitirá controlar el punto de entrada de los blancos de la imágen para que así,
+
+			podamos controlar el umbral de valores de luminancia eliminado de la imágen resultante
+
+
+		_Black Softness:
+
+			_ésta opción nos permitirá controlar la penunbra ó capacidad de penetración de efecto sobre el
+
+			color ó rango de luminancia ha eliminar de la imágen resultante lo que permitirá un rango de
+
+			acutancia menor lo cuál, generará una gradación superior en el proceso de la eliminación del color
+
+		
+		_White Softness:
+
+			_ésta opción nos permitirá controlar la penunbra ó capacidad de penetración de efecto sobre el
+
+			color ó rango de luminancia ha eliminar de la imágen resultante lo que permitirá un rango de
+
+			acutancia menor lo cuál, generará una gradación superior en el proceso de la eliminación del color
+
+
+		_Invert:
+
+			_ésta opción nos permitirá inveritr el matte, ó proceso de eliminación del color de la imágen
+
+			resultante
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

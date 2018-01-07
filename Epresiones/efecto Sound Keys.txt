@@ -1,0 +1,29 @@
+
+
+
+
+Expresiones para After Effects
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Audio Spectrum & Sound Keys After Effects Tutorial
+
+	https://www.youtube.com/watch?v=he9TsPmu45k
+
+-------------------------------------------------------------------------------------------------------------
+
+minAudio = 0;
+maxAudio = 100;
+minStretch = 90;
+maxStretch = 120;
+audioLev = thisComp.layer("Sound Keys").effect("Sound Keys")("Output 1");
+s = linear(audioLev, minAudio, maxAudio, minStretch, maxStretch);
+[s,s]
+
+	
+-------------------------------------------------------------------------------------------------------------	

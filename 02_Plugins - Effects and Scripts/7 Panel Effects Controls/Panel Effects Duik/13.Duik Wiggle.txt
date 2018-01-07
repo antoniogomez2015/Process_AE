@@ -1,0 +1,138 @@
+
+
+http://duduf.net/index.php/products/after-effects/duik/
+
+	Referencia:
+
+		Tutorial basico de rigging con Duik
+			https://www.youtube.com/watch?v=3WiNMHMMduc
+
+		TUTORIAL: DUIK - ARTICULACIONES AUTOMATIZADAS EN AFTER EFFECTS
+			https://www.youtube.com/watch?v=Oi4G1-p59uI
+
+		DUIK 15 full tutorial overview Part 1 Rigging character tools
+			https://www.youtube.com/watch?v=2-m0Mc0ZTP8&list=PLL1LC1tW73eUOt7qjWvn3nYOkYOoQscmy
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Duik
+
+
+	Duik:
+
+
+	-este nos permite hacer sistema de kinemática y cinemática de character, y otros tipos de animaciones
+
+	así, como también, riggings, completos y asistidos con diferentes tipos de controles, limitadores y
+
+	disparadores ó trigers, de animación, otros
+
+
+	_ésta opción de hacer el proceso de rigging, de forma manual, es especialmente útil en characters, en 
+
+	los cuales requiere un especial cuidado ó éste es especialmente diferente a los estándares de posición 
+
+	de éste ó si éste no es un bípedo ó posee unas características únicas
+
+
+	_de ésta manera, el sistema "IK", nos permitirá configurar extremidades con kinemática inversa y directa
+
+	las cuales podremos integrar con otras extremidades y characters, ya realizados ó en proceso, otros
+
+
+	_como también, nos permite tener aplicaciones en máquinas ó otros elementos mecánicos, otros, que no son
+
+	characters, ni obedecen a ningún estandar de animación
+
+
+
+
+
+	Workflow:
+	_________
+
+
+	Descripción:
+
+	_la opción de "Wiggle", ésta nos permite emular el efecto de wiggle, ó deformación ó alteración aletoria 
+
+	de una propiedad
+
+
+	_de ésta manera, el sistema le agrega a la layer, respectiva una serie de efectos a través, de los cuales
+
+	podremos controlar y personalizar al detalle el efecto de wiggle
+
+
+	_más ésta opción no hace el efecto de wiggle, a través, de expresiones directas de cara ha nosotros si no 
+
+	que aplica las expresiones a la propiedad respectiva y a nosotros nos brinda un control más agradable y 
+
+	sobre todo graduable y animable a través de efectos
+
+
+	Wiggle:
+
+	_de ésta manera, debemos animar la layer, deseada para leugo seleccionar la propiedad ha relacionar con el
+
+	sistema, ej; la propiedad de "Position"
+
+
+	_de ésta manera, debemos seleccionar ésta propiedad "Position", y con ésta propiedad seleccionada vamos al
+
+	panel de "Duik/Automation/", y le damos al botón "Wiigle", para que así, el sistema agrege los scripts, a
+
+	la propiedad respectiva y le agrege por otro lado los efectos a la respectiva layer
+
+
+	_más antes de ésto el sistema nos presentará un panel contextual en el cuál, nos preguntará si deseamos las
+
+	dimensiones separadas ó si deseamos todas las dimensiones juntas, para luego indicar "Wiggle", para que así,
+
+	sea generado el sistema
+
+
+	_para lo cuál, es altamente recomendable en el paso anterior seleccionar la opción de "Separate Dimensions",
+
+	para que así, el sisteme nos desglose las propiedades ha controlar de forma más específica, las cuales son:
+
+
+	
+		Property Wiggle:
+
+			Amplitudes:
+
+				X Amp:
+
+					_deformación en "X"
+
+
+				Y Amp:
+
+					_deformación en "Y"
+
+
+			Frequencies:
+
+				X Freq:
+
+					_amplitud de la deformación en "X"
+
+				
+				Y Freq:
+
+					_amplitud de la deformación en "Y"
+
+
+			Loop Duration(s):
+
+				_intervalo de duración de animación
+
+
+
+
+
+

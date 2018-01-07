@@ -1,0 +1,96 @@
+
+
+http://aescripts.com/3d-flip-book/
+
+	Tutorial: https://www.youtube.com/watch?v=5GPGoPwrOAs
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express
+
+
+	LayerSlayer
+
+
+	-este nos permite segmentar una layer, por ejemplo de video dividiéndola, a la cuál, podremos aplicarle efectos
+
+	y demás elementos de ajuste y depormación para la composición de diferentes planos y producción más ahora con
+
+	la posibilidad de poder hacer que todos los efectos y modificaciones realizadas en la layer, original se 
+
+	actualicen en las demás instancias segmentadas de la layer, respectiva
+
+
+
+	Criterio:
+	_________
+
+	éste sistema funciona ha modo de instancias reflejadas, ésto quiere decir de las layers, instancias de la original
+
+	harán ó repetirán todo lo que haga la layer, original, así, las layers, instancias no tengas keyframes, creados
+
+	ó demás propiedades animadas
+
+
+	_por ésta razón, es preciso que previamente realicemos todas las animaciones que tendrán ó asumirán las instancias
+
+	en el tiempo imaginando su posición en la estructura de la layers, las cuales colocaremos luego de haber segmentado
+
+	las layers, instancias
+
+
+
+	Workflow:
+
+	
+	_primero debemos seleccionar la layer, deseada para luego colocar el cabezal del timeline, en el lugar desado
+
+
+	_para luego ir al panel "LayerSlayer", y hacer "+", para que así, se conserve la layer, maestra u original y se
+
+	cree una nueva composición con una instancia de la layer, orignal a a su vez, se cree un corte partir del corte 
+
+	indicado por la posición del cabezal del timeline
+
+		
+		_de ésta manera a la layer, original le serán agregados los efectos de:
+
+			_Layer Slayer Master
+
+			_LS-Knock Out
+
+
+		_más a la composición instancia generada se le agregará el efecto de:
+
+			_Slayer Options
+
+		éstas composiciones instancias estarán vacías y sólo serán representaciones de la layer, original
+
+		por ésta razón la layer, original siempre tendrá que estar visible en la composición
+
+
+	
+	_de ésta manera podremos repetir éste proceso para cuantos cortes necesitemos realizar de la layer, original, pudiendo
+
+	seleccionar una instancia ó la layer, original para hacer los nuevos cortes ó segmentos haciendo "+", en el panel
+
+	"LayerSlayer"
+
+
+
+	Effects:
+	________
+
+	_de ésta manera podremos aplicarle efectos a la layer, original para luego ir al panel "LayerSlayer", y hacer "Refresh",
+
+	para que las layers, instancias se actualicen automaticamente en sus respectivas posiciones
+
+
+
+
+
+	

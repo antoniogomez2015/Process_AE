@@ -1,0 +1,96 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer deformaciones de perspectiva y deformación espacial, éste efecto es 
+
+	utilizado para diferentes procesos de producción y de paso contínuo, por ejemplo para procesos de volcado
+
+	de tracker, entre otros
+
+
+	_de ésta manera, éste efecto agrega un pin, ó punto de control ha modo de handle, simplificado a través, de
+
+	los cuáles, podremos hacer deformaciones y ajustes de la perspectiva de una imágen ó layer, para hacer que
+
+	ésta se pueda adaptar ha otro plano con otra perspectiva ó posición en el espacio dentro de otro plano
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Corner Pin: (Posicionar borde)
+	___________
+
+
+		_Upper Left;
+
+			_punto de control de la esquina superior izquierda
+
+
+		_Upper Right:
+
+			_punto de control de la esquina superior derecha
+
+
+		_Lower Left:
+
+			_punto de control de la esquina inferior izquierda
+
+
+		_Lower Right:
+
+			_punto de control de la esquina inferior derecha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,82 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá teñir ó crear dominantes de color sobre una imágen apartir de las áreas de las
+
+	saturación, sombras ó negros de la imágen ó "Gain" como primer valor configurable a través, de un color
+
+
+	_y a través, otro color configurable para las áreas de los medio tonos y altas luces ó "Gamma / Pedestal"
+
+
+	_lo cuál, nos permitirá cambiar colores de una imágen ó composición de forma rápida y práctiva más a su 
+
+	vez, dispondremos de un control para graduar la intensidad e influencia del efecto sobre la layer, original
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Tint: (Tinta)
+	_____
+
+
+		_Map Black To:
+
+			_ésta opción nos permitirá indicar el color para las áreas más negro, sombras muy oscuras ó 
+
+			negros de la imágen
+
+
+		_Map White To:
+
+			_ésta opción nos permitirá indicar el color para las áreas más en los medios tonos y altas 
+
+			luces ó blancos de la imágen
+
+
+		_Amount to Tint:
+
+			_ésta opción nos permitirá ajustar la cantidad del efecto aplicado sobre la imágen original
+
+			lo cuál, nos permitirá integrar el efecto de forma más integral
+
+
+
+
+
+
+
+
+
+
+
+
+

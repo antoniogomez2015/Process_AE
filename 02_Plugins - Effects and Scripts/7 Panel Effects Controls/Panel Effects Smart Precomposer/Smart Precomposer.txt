@@ -1,0 +1,44 @@
+
+
+http://aescripts.com/smart-precomposer/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Smart Precomposer
+
+
+	Smart Precomposer:
+
+
+	-este nos permite controlar que propiedades de una layer, de texto ó de forman ó shape, se irán a una
+
+	composición ó precomposición
+
+
+	_permitiéndonos elegir si deseamos que en la composición original se queden por ejemplo las máscaras
+
+	que tiene esa layer, originalmente así, los puntos de trackeo, efectos, animación, marcas, otros
+
+
+	_éstas opciones son muy útiles para diferentes procesos de producción y workflow
+
+
+	_éste plugins sólo tiene compatibilidad hasta la versión de after effects, Cs6, en esperas de que 
+
+	haya nuevas actualizaciones para las versiones de cc, y superiores
+
+
+
+
+	Workflow:
+	_________
+
+
+	_ver tutorial para la configuración y eso cuando haya una versión del plugins, actualizada
+
+
+

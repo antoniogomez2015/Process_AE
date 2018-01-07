@@ -1,0 +1,134 @@
+
+
+
+
+Du - Fx
+
+
+	Referencia:
+
+		http://duduf.net/?page_id=161  /  http://duduf.net/?page_id=2010
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar análisis de los efectos aplicados en una composición ó proyecto general ésto es especial
+
+	mente  útil para estudiar el impacto detalles de una composición para sus diferentes capas y efectos deseados
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite activar ó desactivar efectos de las layers, existentes sin la necesidad de que éstas layers, 
+
+	respectivas estén seleccionadas ó no
+
+
+	_ésto es especialmente útil para la edición y composición así, como para el estudio y comparación de layers,
+
+	con efecto y sin efecto determinado lo cuál, aumenta la productividad y desarrollo avanzado en producción
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_primero debemos crear una una composición base de trabajo
+
+
+	_luego debemos de crear las layers, a la cuáles les aplicaremos los efectos deseados según la lógica de la 
+
+	composición, otros
+
+
+	_así, podremos testear los efectos existentes tanto para el projecto completo, las composiciones seleccionadas
+
+	y la composición activa, de ésta manera podremos filtrar el alcance del test, de filtros ó efectos aplicados
+
+
+	---------------------------------------------------------------------------------------------------------------
+
+
+
+R:
+__
+
+	_ésta opción permite testear ó hacer un escaneo de los filtros y efectos aplicados existente en la composición y 
+
+	proyecto ésta opción es inpresindible como comenzar y continuar con el proceso
+
+	
+	_para ésto basta con darle sólamente un vez al botón "R"
+
+
+Filter:
+_______
+
+	_ésta opción permite filtrar entre los filtros y efectos existentes en la lista de filtros testeados ó escaneados
+
+	a partir de las paso anterior
+
+
+	_así, por ejemplo, prodremos seleccionar el campo superior de "Filter", ej: "FL Curves", así, estarán activas en 
+
+	panel sólo los efectos que conincidan, de ésta manera podremos ver las versiones del efecto "FL Curves", cuantas
+
+	veces éste exista ó esté aplicado en diferentes layers
+ 
+
+List:
+_____
+
+	_ésta representará una lista con todos los efectos testeados ó escaneados por pasos anteriores los cuáles podremos 
+
+	seleccionar para su posterior activación ó desactivación
+
+
+	_así, podremos ver si un filtro ó efecto está activado ó desactivado por que éste al estar activo presenta una "X", 
+
+	que antecede a su nombre 
+
+
+	_más cuando ésta está desactivado presenta una "-", que antecede a su nombre
+
+
+Active:
+_______
+
+	_ésta opción permite activar un efecto ó plugins, cuando ésta ha sido desactivado previamente
+
+
+	_para ésto debemos seleccionar el respectivo efecto ó filtro, en la "list", de efectos, el cuál debe de presentar
+
+	el signo de "-", que debe de anteceder a su nombre
+
+
+	_para ésto, debemos selccionar el efecto respectivo y hacer "Activer"
+
+
+Desactive:
+__________
+
+	_ésta opción permite desactivar un efecto ó filtro de la "list", de efectos, el cuál, debe de presentar el signo de
+
+	"X", el cuál, ancetecederá a su nombre
+
+
+	_para ésto, debemos seleccionar el efecto respectivo y hacer "Desactiver"
+
+
+	

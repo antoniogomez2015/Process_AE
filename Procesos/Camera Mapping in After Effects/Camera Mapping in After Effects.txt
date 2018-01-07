@@ -1,0 +1,102 @@
+
+https://www.youtube.com/watch?v=DKCzep6-baY
+
+
+https://www.youtube.com/watch?v=v8N7b3iEI3Q (tutorial en español)
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+pCamera Mapping in After Effects
+
+
+	Camera Mapping in After Effects
+
+
+	-este nos permite proyectar una imágen principan sincronizada con la toma de la cámara
+
+	sobre planos ó layers/solids, 3D, posicionados en el espacio 3d, emulando la perspectiva
+
+	sugerida de la imágen proyectada, para esto, podemos agregarle a las layers, que conformarán
+
+	el espacio 3d, el filtro de generate/grid
+
+
+	esto es posible a través, del principio de "foreground y background", de las imágenes ó layers,
+
+	en after effects
+
+
+	-luego procedemos a crear una camara (control + shift + alt + C), en la composicion
+
+
+	-posteriormente creamos una light (control + shift + alt + L), de tipo "Spot", esta la podemos
+
+	renombrar ej: "proyecting cam", también, activamos en esta "Casts Shadpws"
+
+
+	-ahora entrmos en las opciones de la camara y copiamos la propiedad de "Position", (control + C),
+
+
+	-luego seleccionamos la "Lght Spot", creada y pegamos la propiedad de posición copiada en la
+
+	propiedad de posición de la luz "camara proyecting", así, esta tomará la posición de la cámara,
+
+	esto lo podemos comprobar en la vista "top"
+
+
+	-ahora colocamos la imágen a proyectar sobre ó delante de la cámara, esta imágen/layer, debe estar
+
+	en 3D
+
+
+	-luego también pegamos la propiedad "Position", copiada de la cámara en la imágen a proyectar 
+
+	en su propiedad de posición
+
+
+	-luego movemos la imágen a proyectar en su eje "Z", hasta colocarla sobre la toma de la cámara
+
+	de la "tumb", que representa la cámara como miniatura en la escena ó composición, osea la colocamos
+	
+	sobre el lente de la miniatura de la cámara
+
+
+	-ahora procedemos a escalar la imágen a proyectar hasta ha escalarla hasta que tome el tamaño
+
+	de la boca del lente de la miniatura de la cámara, por lo general basta con hacer una escala
+
+	relativa en los 3 ejes, colocando un valor de "Scale x,y,z = 1.4", en una relación de la cámara
+
+	de una 1920 x 1080
+
+
+	-ahora seleccionamos la layer, ó imágen a proyectar y entramos a sus propuedades de material 3D,
+
+	shortcut "AA", y activamos las siguientes opcoines:
+
+
+		-Catst Shadows: colocamos "Only"
+
+		-Light Transmission: colocamos un valor de "100"
+
+	
+	-ahora le quidamos a las layers, que conforman el espacio 3d, el filtro "Generate/Grid",
+
+	y entramos a sus opciones de material 3D, shortcut "AA"
+
+
+	-y en las propiedades de mateiral 3D, de las layers, que conforman el espacio 3D, colocamos 
+
+	las opciones de:
+
+
+		-Acepts Lights: "Off"
+
+
+		
+

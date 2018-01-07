@@ -1,0 +1,222 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá transformar una forma en otra de la misma capa, a través, de máscaras 
+
+	referenciales ó auxiliares sobre la layer, sobre la cuál, se ha aplicado el efecto
+
+
+	_así, por ejemplo, podremos transformar la pose una modelo en una foto en la pose de otra modelo en otra
+
+	imágen ha modo de referencia
+
+
+	_para que así, la pose de la imágen ó foto de la primera modelo tome ahora la pose de la segunda modelo
+
+
+	_Puede crear o importar hasta tres máscaras para definir el área que desea distorsionar a través, de
+
+	la máscara de origen, la máscara de destino y la máscara de contorno (opcional)
+
+
+	_de ésta maenra, a través, de éstas opciones podremos crear morph, de layers, para diferentes efectos y
+
+	procesos de forma práctica y nativa dentro after effects
+
+
+
+	NOTE: De forma predeterminada, After Effects asigna una función a las máscaras (de origen, destino y 
+
+	contorno) según el orden en el que se crearon o se importaron. También puede especificar máscaras 
+
+	diferentes
+
+
+	_Las tres máscaras ha utilizar deben estar en la capa en que se aplica el efecto "Reshape", aunque se 
+
+	pueden copiar máscaras de otra capa
+
+
+		_para lo cuál, es recomendado el plugins, "CopyMask2Layer", de "MomoWorld"
+
+
+	
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	ReShape: (Dar nueva forma)
+	________
+
+
+		_Source Mask:
+
+			_Máscara de origen que contiene la zona de la imagen que desea cambiar de forma. 
+
+			Si no se especifica, After Effects emplea la segunda máscara creada como Máscara d
+
+			e origen En los paneles Composición y Capa, un contorno rojo define la máscara de 
+
+			origen
+
+
+		_Destination Mask:
+
+			_Máscara de destino que determina la forma de la imagen final. Si no se especifica, 
+
+			After Effects, emplea la tercera máscara creada como Máscara de destino. En los paneles 
+
+			Composición y Capa, un contorno amarillo define la máscara de destino
+
+
+		_Boundary Mask:
+
+			_La máscara de contorno Determina la parte de la imagen cuya forma se va a cambiar. No se 
+
+			modifica nada de lo que quede fuera del límite. Si no se especifica, After Effects emplea 
+
+			la primera máscara creada como Máscara de contorno. En los paneles Composición y Capa, un 
+
+			contorno azul define la máscara de contorno
+
+
+		_Percent:
+
+			_Grado de cambio de forma. Este valor resulta útil para crear distorsiones parciales que 
+
+			aumentan con el tiempo.
+
+
+		_Elasticity:
+
+			_Especifica la proximidad de la imagen a la forma definida por la curva. Inflexible actúa 
+
+			como la goma fría, lo que permite distorsionar lo mínimo la imagen. Muy fluido actúa como 
+
+			la goma caliente, lo que permite distorsionar la imagen de un modo fluido. Los demás ajustes 
+
+			se encuentran entre los dos ajustes anteriores. Cuanto más fluidos sean los ajustes de la 
+
+			elasticidad, más tiempo de procesamiento necesitan. Si la imagen final sigue la curva del 
+
+			modo deseado
+
+
+		_Correspondence Points:
+
+			_ésta opción nos permitirá visualizar un contedo de los puntos de control ó correspondencia
+
+			del sistema los cuáles, podremos configurar, crear  eliminar de forma personalizada
+
+
+			_de ésta manera, para crear un nuevo punto de control ó correspondencia primeramente debemos
+
+			de tener seleccionada la layer, respectiva a la cuál, le hemos aplicado efecto 
+
+
+			_para posteriormente seleccionar el efecto de "Reshape", en el panel "Effects Controls", ó 
+
+			en el timeline, shortcut, "E/E"
+
+
+			_para a continuación aplicar "Alt + Mouse Left Click", sobre cualquier área de cualquiera
+
+			de las dos máscaras tanto la máscara de origen como la de destino
+
+
+			_para que así, el sistema cree un nuevo punto de control ó correspondencia en éste punto y
+
+			de ésta misma menera, haciendo "Alt + Mouse Left Click", sobre un punto de control ó 
+
+			correspondencia creado previamente podremos eliminar éste
+
+
+			_así, de ésta manera, podremos repetir el proceso para crear los puntos de control ó 
+
+			correspondencia que necesitemos en relación al resultado deseado
+
+
+			_de ésta manera, posteriormente podremos aplicar "Mouse Left Click and Drag", sobre 
+
+			cualquiera de los puntos de control ó correspondencia creados y mover éstos para que así,
+
+			modifiquemos las influencias y deformaciones del sistema del efecto morph
+
+
+
+		_Interpolation Method:
+
+			_éstas opciones especifican la forma en la que After Effects, determina la distorsión de 
+
+			cada fotograma de vídeo o de animación en el intervalo entre fotogramas clave o si no 
+
+			existen fotogramas clave
+
+
+			_Discrete:
+
+				_Diferenciado, éste No requiere fotogramas clave porque calcula la distorsión de 
+
+				cada fotograma. Diferenciado produce los resultados más precisos, pero requiere 
+
+				mayor tiempo de procesamiento.
+
+
+			_Linear:
+
+				_Valor predeterminado, éste requiere dos o más fotogramas clave y realiza una 
+
+				interpolación en línea recta entre fotogramas clave. Lineal produce cambios entre 
+
+				fotogramas clave y cambios nítidos en los fotogramas clave
+
+
+			_Smooth:
+
+				_éste requiere tres o más fotogramas clave y aproxima la distorsión mediante curvas 
+
+				cúbicas, lo que produce distorsiones con un movimiento grácil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

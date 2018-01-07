@@ -1,0 +1,62 @@
+
+
+http://aescripts.com/ft-effect-instance/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+panel FxPro /  ft-Effect-Instance
+
+
+	 ft-Effect-Instance
+
+
+	-este nos permite instanciar un efecto de una layer, a otra layer, con la finalidad de poder
+
+	enfrentar ambas capas o hacer efectos reflejadosya que estos efectos se mantendran sincronizados
+
+	en sus controles y parametros, esto es especialmente util para efectos compuestos
+
+
+	-otra caracteristica importante es que el efecto instanciado conserva todas las modificaciones
+
+	que aplican sobre este, por efecto, emparentamientos, modificadores como scrips, y otros efectos
+
+	aplicados ha este, de esta manera, esto permite un instanciado practico y ligero para el sistema
+
+
+	-primero creamos un layer y le aplicamos un efectos deseado y lo configuramos a nuestro gusto
+
+
+	-luego seleccionamos el efecto que desamos instanciar en el panel 'effects controls', de la 
+
+	primera layers, que creamos
+
+
+	-y con el efecto deseado seleccionados vamos al panel 'ft-Effect-Instance', y le damos ha
+
+	'Copy Effect', asi, este quedara copiado 
+
+
+	-luego creamos una nueva layer, en la cual pegaremos el efecto vinculado, esta capa puede estar
+
+	en la misma composicion u en en otra composicion
+
+
+	-ahora seleccionamos la nueva layer, que creamos y vamos al panel 'ft-Effect-Instance', y le damos
+
+	ha Paste Instance, asi, el efecto copiado se pegara de forma vinculada, de esta manera al hacer
+
+	modificaciones en el efecto original, el otro efecto vinculado se vera afecto o actualizado
+
+
+	-en un momento determinado tambien, tenemos la posibilidad de desvincular los efectos para continuar
+
+	con una edicion individual, para vamos al panel 'ft-Effect-Instance', y le damos ha 
+
+	'Enable/Disable Link'
+
+	

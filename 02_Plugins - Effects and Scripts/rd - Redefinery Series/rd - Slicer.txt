@@ -1,0 +1,44 @@
+
+
+
+
+RD, serie de escripts, gratuitos http://www.redefinery.com/   http://www.redefinery.com/ae/view.php?item=rd_Approximate
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+RD Statesman
+
+
+	este escript, tiene como objetivo crear un videoWall, a traves, de una layer solid, o una layer de video
+
+
+
+WorkFlow
+---------
+
+
+	-primero seleccionamos una layer solid, o de video
+
+
+	-luego vamos al panel  rd-Slicer
+
+	
+	-luego en el panel rd-Slicer, indicamos la cantidad de secciones tanto en horizontal/Rows, con 
+
+	en vertical/Cols, asi, la separacion/margin, entre estos, como tambien, si estos tendran border
+
+	redondeados/Roundess
+
+
+	-tambien, podemos indicar que utilice el canal alpha, para agregar modo de fusion
+
+	-tambien podemos indicar que emparente todo el sistema videowall, resultante a un null object, lo cual,
+
+	es altamente recomendable
+
+	

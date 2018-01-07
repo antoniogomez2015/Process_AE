@@ -1,0 +1,212 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear un punto de luz realista sobre una layer, ó superficie la cuál, será la
+
+	layer, a la cuál, le hemos aplicado el efecto para que así, podamos emular una iluminación puntual muy 
+
+	realista con decaimiento y bordes suavizados
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	CC Spotlight: (Foco CC)
+	_____________
+
+
+		_From:
+
+			_ésta opción nos permitirá indicar la posición inicial de la luz, de tipo spot, ó puntual a 
+
+			proyectar sobre una layer, ó una superficie
+
+
+		_To:
+
+			_ésta opción nos permitirá indicar la posición de la luz proyectada de tipo spot, ó puntual 
+
+			a proyectar sobre una layer, ó una superficie
+
+
+		_Height:
+
+			_ésta opción nos permitirá indicar la altura del punto de iluminación en relación a la layer, 
+
+			ó superficie sobre la cuál, la luz será proyectada
+
+
+			_de ésta manera, podremos acercar más el punto a luz, a la superficie sobre la cuál, ésta 
+
+			será proyectada para que así, se produzca el efecto donde la luz se proyectará ahora 
+
+			cónicamente sobre la respectiva superficie
+
+
+			_más también, podremos elevar la posición del punto de luz para que así, ahora la luz se
+
+			proyecte de forma más paralela al plano de la layer, para que así, la luz tome ahora una 
+
+			forma más circular
+
+
+		_Cone Angle:
+
+			_ésta opción nos pemritirá indicar el radio de iluminación ó el tamaño que tendrá el área
+
+			iluminada de ésta manera, variar la cobertura para que así, podamos hacer una iluminación
+
+			más ó menos puntual ó envolvente
+
+
+		_Edge Softness:
+
+			_ésta opción nos permitirá controlar el "falloff", ó área en penumbra en los bordes
+
+			perimetrales del sistema de iluminación para que así, podamos crear un iluminación más ó
+
+			menos puntual y con border más ó menos definidos
+
+		
+		_Color:
+
+			_ésta opción nos permitirá indicar un color para la generación del sistema de iluminación
+
+			a través, de un picker, ó un selector de colores personalizado para que así, podamos crear
+
+			un sistema de iluminación con un color personalizado por nosotros
+
+
+		_Intensity:
+
+			_así, como también, podremos indicar una intensidad determinada para el sistema de 
+
+			iluminación generado para que así, éste sea totalmente variable y graduable
+
+
+
+		_Render:
+
+
+			_Light Only:
+
+				_ésta opción nos permitirá visualizar directamente en el viewport, del panel 
+
+				compositing sólo el foco del sistema de iluminación aislado de las demás layers,
+
+				de la respectiva composición
+
+
+			_Light Add:
+
+				_ésta opción sumará la iluminación generada por el sistema de iluminanción a los 
+
+				valores	de luminancia existentes en la respectiva layer, ó superficie
+
+
+			_Light Add +:
+
+				_ésta opción sumará la iluminación generada por el sistema de iluminanción a los 
+
+				valores	de luminancia existentes en la respectiva layer, ó superficie
+
+
+			_Light Shadow:
+
+				_ésta opción nos permitirá indicarle al sistema que genera un sistema de iluminación
+
+				de tipo cuadrado inverso, de ésta manera, toda la layer, será oscurecida ha modo de
+
+				"falloff", ó sombra dejando así, mucho más visible sólo el sistema de iluminación
+
+				generado, lo cuál, es la opción por defecto
+
+
+			_Gel Only:
+
+				_ésta opción nos permitirá indicarle al sistema que genera un sistema de iluminación
+
+				de tipo cuadrado inverdo, de ésta manera, toda la layer, será oscurecida ha modo de
+
+				"Matte", ó "Alpha", dejando así, sólo visible el sistema de iluminación	generado, ha
+
+				modo de máscara
+
+
+			_Gel Add:
+
+				_ésta opción sumará de forma alternativa la iluminación generada por el sistema de 
+
+				iluminanción a los valores de luminancia existentes en la respectiva layer, ó 
+
+				superficie
+
+
+			_Gel Add +:
+
+				_ésta opción sumará de forma alternativa la iluminación generada por el sistema de 
+
+				iluminanción a los valores de luminancia existentes en la respectiva layer, ó 
+
+				superficie
+
+
+			_Gel Shadow:
+
+				_ésta opción nos permitirá indicarle al sistema que genera un sistema de iluminación
+
+				de tipo cuadrado inverso alternativo, de ésta manera, toda la layer, será oscurecida 
+
+				ha modo de "falloff", ó sombra dejando así, mucho más visible sólo el sistema de 
+
+				iluminación generado, lo cuál, es la opción por defecto
+
+
+
+		_Gel Layer:
+
+			_ésta opción nos permitirá seleccionar una layer, la cuál, será mapeada sobre la superficie ó
+
+			layer, sobre la cuál, el sistema de iluminación generado es proyectado para que así, tengamos
+
+			la posibilidad de proyectar texturas a través, del sistema de iluminación generado
+
+
+			_ésta opció estará disponible cuando la opción de "Render", esté seleccionada una de las
+
+			opciones de "Gel"
+
+
+
+

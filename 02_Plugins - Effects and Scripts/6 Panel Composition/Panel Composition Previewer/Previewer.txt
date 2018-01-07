@@ -1,0 +1,38 @@
+
+
+http://misterhorse.tv/products/previewer/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Previewer
+
+
+	Previewer:
+
+
+	-este nos permite visualizar todos los elementos del panel project, y composition, de una manera práctica
+
+	pudiendo visualizar así, rápidamente archivos de imágenes, de illustrator, photoshop, audio, video, otros
+
+	de una manera visual dentro de la misma interface, de after effects, como una ventana más
+
+
+	_por contra parte no es compatible con todos los tipos de archivos
+
+
+
+	Workflow:
+	_________
+
+
+	_para ésto, debemos hacer visible el panel de "Previwer", así, como el panel "Project", y posarnos sobre
+
+	cada de los archivos disponibles para que éstos se visualicen ó reproduzcan en el panel previewer
+
+
+
+

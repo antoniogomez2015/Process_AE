@@ -1,0 +1,108 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_Line Sweep, es un efecto de transición que borrará la capa fuente línea por línea donde el espesor, la 
+
+	superposición y el ángulo se pueden controlar.
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Line Sweep: (CC Line Sweep)
+	______________
+
+
+		_Completion:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste realize la complexión
+
+			ó transición entre la layer, base y las demás layers, subyacentes de la composición 
+
+			respectiva
+
+
+		_Direction:
+
+			_ésta opción nos permitirá indicarle al sistema la orientación ó rotación a través, de la 
+
+			cuál, se generará el sistema en relación a nuestras necesidades de producción
+
+
+		_Thckness:
+
+			_ésta opción nos permitirá indicarle al sistema el ancho de los segmentos ó módulos generados
+
+			por el sistema, de ésta manera, podremos controlar la escala ó tamaño aparente del sistema
+
+			en relación a nuestras necesidades de producicón y paso contínuo
+
+
+		_Slant:
+
+			_ésta opción nos permitirá indicarle al sistema la longitud ó separación entre cada módulo
+
+			generado por el sistema lo cuál, nos permitriá configurar el sistema a medida en relación
+
+			a nuestras necesidades de producción y paso contínuo
+
+
+		_Flip Direction:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos intertir ó reflejar la dirección
+
+			del sistema, por ejemplo a través, de éste control podremos hacer que el sistema vaya de
+
+			derecha ha izquierda en vez de izquierda hacia la derecha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

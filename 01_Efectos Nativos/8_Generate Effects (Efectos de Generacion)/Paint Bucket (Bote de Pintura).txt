@@ -1,0 +1,215 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria rellenar áreas de color seleccionada por coincidencia a través, de un picker, al
+
+	mismo de modo que en Photoshop, podremos seleccionar un área por el color de sus pixeles y rellenar ésta
+
+	área ó coincidencias de corlor con un color determinado
+
+
+	_de ésta manera, podremos hacer cambios y variaciones de color de forma automática y dinámica a través, del
+
+	tiempo directamente en el viewport, por medio de una handle, el cuál, podremos animar
+
+
+	_también, tendremos la posibilidad de crear mates directos
+
+
+	_así, como también, podremos utilizar las opciones de "Paint Bucket/View Threshold", para obtener así, una
+
+	matte, del color seleccionado de ésta manera, podremos obtener un matte, dinámico a través, del cuál, el cuál,
+
+	incluso podremos variar con los demás colores contíguos de la imágen, escena ó composición respectiva
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Paint Bucket: (Bote de Pintura)
+	_____________
+
+
+		_Fill Point:
+
+			_ésta opción nos permitirá indicar la posición del selector de color tanto en el viewport, 
+
+			del canvas como en panel effects controls
+
+			
+			_de ésta manera, podremos seleccionar el área a muestrear la cuál, deseamos cambie de color
+
+
+		_Fill Selector:
+
+			_ésta opción nos permitirá indicar el criterio de acción del sistema de ésta manera, podremos
+
+			indicarle al sistema que tome de la imágen el color y el canal alfa a la vez, ó que en vez de
+
+			ésto utilize una gama de colores más limitada, ó que utilize sólo la opacidad, transparencia 
+
+			ó incluso que utilize sólo en canal alfa
+
+
+		_Tolerance:
+
+			_ésta opción nos permitirá indicale al sistema el umbral ó capacidad de penetración en relación
+
+			al área seleccionada ó indicada, de ésta manera, el sistema tendrá mayor menor rango de selección
+
+			de los colores contíguos en la imágen
+
+
+		_View Threshold:
+
+			_ésta opción nos permitirá visualizar y utilizar el mate ó umbral generado para la selección y 
+
+			reservas de color sobre la imágen resultante el cuál, a su vez, podremos utilizar para diferentes
+
+			procesos de producción y paso contínuo, otros
+
+
+		_Stroke:
+
+			_ésta opción nos permitirá seleccionar el contorno ó stroke, del resultado de la acción de la herramienta
+
+			lo que nos permtirá crear selecciones duras, suavizadas, sólo controles sin relleno interno, otros
+
+
+			_de ésta manera, dispondremos de los siguientes tipos de strokes, disponibles:
+
+
+				_Antialias:
+
+					_ésta opción es la por defecto y en la cuál, se rellenará todo el área seleccionada 
+
+					con los bordes sólo un poco suavizados
+
+
+				_Feather:
+
+					_ésta ocpión es especialmente útil para una serie de procesos ya que nos permitirá 
+
+					disfuminar en gran manera los border y parte del interior de las selecciones lo cuál, 
+
+					permite una integración total con demás elementos y otras layers, de la respectiva 
+
+					composición
+
+
+				_Spread:
+
+					_ésta opción nos permitirá expandir el área seleccionada de ésta manera,
+				
+					podremos hacer que las áreas seleccionadas sean más grandes en proporción a la forma de la 
+
+					misma
+
+
+				_Choke:
+
+					_ésta opción nos permitirá hacer retracciones del área seleccionada de ésta manera,
+				
+					podremos hacer que las áreas seleccionadas sean más pequeñas en proporción a la forma de la 
+
+					misma
+
+
+				_Stroke:
+
+					_ésta opción nos permitirá descartar la parte interior del área seleccionada permitiéndonos
+
+					sólo seleccionar el contorno del área total seleccionada
+
+
+		_Not un Use:
+
+			_ésta es un control general el cuál, cambia en relación a las opciones de stroke, seleccionada en el paso 
+
+			anterior
+
+
+		_Invert Fill:
+
+			_ésta opción nos permitirá invertir el sistema en general de ésta manera, las áreas seleccionadas dejarán de 
+
+			éstarlo y las áreas que antes no estaban seleccionadas ahora lo estarán
+
+
+		_Color:
+
+			_ésta opción nos permitirá indicar el color el cuál, sustituirá al color de´área seleccionada para lo cuál,
+
+			es recomendable utilizar el cuentagotas del selector de color que así, podamos muestrear colores reales ha 
+
+			sustituir y emular respectivamente
+
+
+		_Opacity:
+
+			_ésta opción nos permitirá controlar ó variar la opacidad del sistema lo que nos permitirá integrar éste con 
+
+			la layer, sobre la cuál, se aplicado el sistema ó efecto
+
+
+		_Blending Mode:
+
+			_ésta opción nos permitirá seleccionar un modo de fusión lo cuál, no permitirá integrar ésta layer, y sistema
+
+			con las demás layers, de la composición respectiva
+
+
+			_más también, dispondremos de dos modo de fusión especiales a través, de los cuáles, podremos crear mates 
+
+			especiales como:
+
+
+				_Fill Only:
+
+					_el cuál, nos creará un canal alpha, dejando visible el área de color rellenada la cuál, puede 
+
+					ser invertida
+
+
+				_Stencil Alpha:
+
+					_la cuál, nos creará un canal alpha, sobre el área no seleccionada aislando el área seleccionada
+
+					y ocultando la no seleccionada, dicha selección podra ser invertida
+
+
+
+
+
+
+

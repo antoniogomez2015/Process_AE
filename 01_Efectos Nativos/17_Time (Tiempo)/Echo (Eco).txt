@@ -1,0 +1,185 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/time-effects.html#echo_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Eco combina fotogramas de los diferentes tiempos de una capa. El efecto Eco tiene varios usos, 
+
+	desde un eco visual simple hasta efectos de barras y manchas.
+
+
+	_es decir, con éste efecto podremos crear delays, del barrido de las layers, animadas en la composición ó
+
+	también, strands, ó estelas de movimiento a través, de instancias generadas de la misma layer
+
+
+	_Los resultados de este efecto son visibles solo si la capa contiene cambios en el tiempo, como movimiento 
+
+	en una capa basado en un elemento de material de archivo de vídeo. Este efecto no crea ecos de movimiento 
+
+	creados mediante el movimiento de la propia capa dentro de la composición. 
+
+
+	_Para crear ecos de movimiento creados mediante el movimiento de la capa dentro de la composición, 
+
+	precomponga la capa, mueva todos los atributos en la nueva composición y aplique el efecto Eco a la capa 
+
+	precomposición.
+
+
+	_Este efecto funciona con color de 8 bpc, 16 bpc y 32 bpc.
+
+	
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+	
+
+	Echo: (Eco)
+	_____
+
+
+		_Echo Time (Seconds):
+
+			_Tiempo en segundos entre ecos. Los valores negativos crean ecos a partir de fotogramas 
+
+			anteriores; los valores positivos, desde fotogramas posteriores.
+
+
+		_Number Of Echoes:
+
+			_Número de ecos. Por ejemplo, si el valor es 2, el resultado es una combinación de tres 
+
+			fotogramas: el tiempo actual, el tiempo actual + Tiempo del eco, y el tiempo actual
+
+			+ (2 x Tiempo del eco).
+
+
+		_Starting Intensity:
+
+			_Opacidad general de todo el sistema
+
+
+		_Decay:
+
+
+			_ésta opción nos permitirá indicar un decaimiento de la opacidad de las últimas instancias
+
+			de la layer, generados como ecos ó strands, también, podríamos definir éste como como la vida
+
+			de las instancias a través, del tiempo
+
+
+			_Proporción entre la opacidad de un eco y la opacidad del eco que lo precede en la secuencia 
+
+			de ecos. Por ejemplo, si Decadencia es 0,5, la opacidad del primer eco es la mitad de la 
+
+			Intensidad inicial; la opacidad del segundo eco es la mitad de este último valor o una cuarta 
+			
+			parte de la Intensidad inicial.
+
+
+		_Echo Operator:
+
+
+			_Operación de fusión utilizada para combinar los ecos.
+
+
+
+			_Add:
+
+				_Combina los ecos agregando sus valores en píxeles. Si la intensidad de inicio es 
+
+				demasiado alta, este modo se puede sobrecargar rápidamente y generar barras blancas.
+
+
+			_Minimum:
+
+				_Combina los ecos tomando los valores de píxel mínimos de todos los ecos.
+
+
+
+			_Maximum:
+
+				_Combina los ecos tomando los valores de píxel máximos de todos los ecos.
+
+
+
+			_Screen:
+
+				_Simula la combinación de ecos uniéndolos ópticamente. Este modo es similar 
+
+				a Agregar, pero no se sobrecarga tan rápidamente
+
+
+			_Composite In Back:
+
+				_Hace que la imagen del tiempo actual vuelva a aparecer, con cada eco 
+
+				apareciendo sucesivamente más adelante en la composición.
+
+
+			_Composite In Front:
+
+				_Hace que la imagen del tiempo actual vuelva a aparecer al frente, con 
+
+				cada eco apareciendo sucesivamente más atrás en la composición
+
+
+			_Blend:
+
+				_Realiza la media de los ecos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

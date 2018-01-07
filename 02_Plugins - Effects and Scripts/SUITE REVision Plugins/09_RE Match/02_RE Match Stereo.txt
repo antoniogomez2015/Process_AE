@@ -1,0 +1,308 @@
+
+
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+		DEFlicker Tutorials/Playong List:
+
+			https://www.youtube.com/watch?v=ROG9Cx09xr4&list=PLJZE0COAfWUXTkWdhbkaO5GflW3hWJZ4h
+
+
+		RE:Flex (17 Videos)
+
+			https://www.youtube.com/playlist?list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v
+
+
+		RE:Flex Morph - Morphing between moving images
+
+			https://www.youtube.com/watch?v=t0lcSHYiOJg&list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v&index=2
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE:VisionFx RE: RE Match Stereo:
+________________________________
+
+
+	_éste efecto nos permitirá hacer recalculos de color y elementos colaterales de igual manera que el efecto
+
+	"RE Match Color", más el efecto "RE Match Stereo", fusionará ambas secuencias de imágenes ó clips, de video 
+
+	en un sólo producto resultante ha "modo estereoscópico", más por otra parte, éste efecto es más indicado cuando 
+
+	el material de referencia y el material ha recalcular son lo más parecido posible
+
+
+	_de ésta manera, éste efecto es más recomendado en los casos en que tenemos "la misma toma", tomada sea con diferentes
+
+	cámaras ó condiciones de iluminación, gamma, pedestal, gain, otros, ó simplemente tomas con algún desface mínimo ha
+
+	modo de crear un efecto estereoscópico a la hora de posterior fusionar ambos materiales a través, de diferentes
+
+	criterios y algoritmos, otros
+
+
+	_ya que éste efecto nos brinda herramientas precisas de comparación multidireccionales las cuáles, utilizan diferentes
+
+	criterios y comparativas para lograr resultados precisos en éstos casos
+
+
+
+
+
+
+	RE:Match Stereo Options:
+	________________________
+
+
+	_Match To:
+
+		_ésta opción nos permitirá seleccionar una layer, de la cuál, se toamará información para el recalculado de
+
+		color y demás elementos colaterales y a su vez, para la integración entre ambos materiales en el resultado
+
+		final ha obtener como layer, resultante
+
+
+
+	_Global Mode:
+
+
+		_None:
+
+			_ésta opción no utilizará ningún criterio de acción de ésta manera, haremos un bypass, para que así,
+
+			podamos ver fusionados ambos clips, ó secuencias de imágenes, tanto la referencial como la ha 
+
+			recalcular el color y demás elementos colaterales
+
+
+		_Mean Shift:
+
+			_ésta opción nos permitirá seleccionar un criterio de muestreo de desface de color para que así,
+
+			el sistema busque diferencias y similitudes entre ambas secuencias ó clips, de video para de ésta
+
+			manera, determinar la fusión que el sistema realizará entre ambos 
+
+
+		_Gain + Offset:
+
+			_ésta opción nos permitirá seleccionar un criterio de muestreo diferencia tonal ó levels, para que 
+
+			así, el sistema busque diferencias y similitudes entre ambas secuencias ó clips, de video para 
+
+			de ésta manera, determinar la fusión que el sistema realizará entre ambos 
+
+
+
+		_RGB Histogram 1,2:
+
+			_ésta opción nos permitirá seleccionar un criterio de muestreo de balance color RGB, equilibrado 
+
+			por los parámetros promediados en el hostograma para que así, el sistema busque diferencias 
+
+			y similitudes entre ambas secuencias ó clips, de video para de ésta manera, determinar la fusión 
+
+			que el sistema realizará entre ambos 
+
+
+
+		_LAB Histogram 1,2:
+
+			_ésta opción nos permitirá seleccionar un criterio de muestreo de balance color LAB, equilibrado 
+
+			por los parámetros promediados en el hostograma para que así, el sistema busque diferencias 
+
+			y similitudes entre ambas secuencias ó clips, de video para de ésta manera, determinar la fusión 
+
+			que el sistema realizará entre ambos 
+
+
+
+	_Local Match Model:
+
+
+		_Off:
+
+			_ésta opción nos realizará ningún cambio ó modo de fusión entre ambas layers
+
+
+		_Local Block Match:
+
+			_ésta opción realizará la mayor cantidad de integración y fusión entre ambas layers, a través, 
+
+			de diferentes métodos como distorsión y embos, otros
+
+
+			_ésta opción estará superditada a la opción seleccionado en "Global Mode"
+
+
+		_Less Detailed - Refine Mismatched areas:
+
+			_ésta opción realizará modificaciones más sutiles y sólo sobre la layer, a la cuál, le hemos aplicado
+
+			el efecto y sólo tomará información de la layer, complementaria
+
+
+			_de ésta manera, nos realizará distorsión sobre la layer, resultante más si modicaciones en el color,
+
+			tono, saturación, gamma, pedesta y gain
+
+
+			_ésta opción estará superditada a la opción seleccionado en "Global Mode"
+
+
+			_ésta opción permitirá el uso de mattes, a través, de los cuáles, podremos indicar áreas a las cuáles,
+
+			no deseamos que se le aplique el efecto resultante a través, de la opción de "Use Exclusion Matte"
+
+
+		_More Detailed - Refine Mismatched areas:
+
+			_ésta opción realizará modificaciones más sutiles y sólo sobre la layer, a la cuál, le hemos aplicado
+
+			el efecto y sólo tomará información de la layer, complementaria
+
+
+			_de ésta manera, nos realizará distorsión sobre la layer, resultante más si modicaciones en el color,
+
+			tono, saturación, gamma, pedesta y gain
+
+
+			_ésta opción estará superditada a la opción seleccionado en "Global Mode"
+
+
+			_ésta opción permitirá el uso de mattes, a través, de los cuáles, podremos indicar áreas a las cuáles,
+
+			no deseamos que se le aplique el efecto resultante a través, de la opción de "Use Exclusion Matte"
+
+
+
+	_Local Mode Function:
+
+
+		_Normal:
+
+			_ésta opción nos permitirá visualizar el resultado final con la potencia total de la aplicación del efecto
+
+			sobre la layer, resultante, ésta es la opción por defecto
+
+
+		_No Edge Fill:
+
+			_ésta opción nos permitirá mostrar las áreas supepuestas entre ambas layers, como áreas en mattes, lo que
+
+			puede ser útil para todo un proceso a parte para diferentes procesos de composición y producción y procesos
+
+			de paso contínuo
+
+
+		_Maintain original Alpha:
+
+			_ésta opción nos permitirá mantener y visualizar en canal alpha, de la layer, a la cuál, le hemos aplicado
+
+			el efecto en la layer, resultante del proceso de fusión ó integración entre ambas layers, para que así, 
+
+			la layer, resultante herede el canal alpha, de la layer, primaria
+
+
+		_Display Mismatch (to Red ch):
+
+			_ésta opción nos permitirá visualizar tanto las áreas de interacción como por ejemplo; las áreas superpuestas
+
+			ó áreas distorsionadas, todas éstas representadas en color rojo para que así, podamos apreciar las áreas
+
+			implicadas en el proceso resulatnte
+
+
+		_Display Match Only (To Alpha):
+
+			_ésta opción nos permitirá mantener y visualizar en canal alpha, de la layer, a la cuál, le hemos aplicado
+
+			el efecto en la layer, resultante del proceso de fusión ó integración entre ambas layers, para que así, 
+
+			la layer, resultante herede el canal alpha, de la layer, primaria
+
+
+
+
+	_Local Block Radius:
+
+		_ésta opcióm nos permitirá expander ó retraer el efecto y sus alcance entre relación ha ambas layers
+
+
+	_Mismatch Threslhold %:
+
+		_ésta opción nos permitirá variar el umbral ó sensibilidad del efecto para que así, podamos controlar la complejidad
+
+		que tendrá el efecto
+
+
+	_Use Exclusion Matte:
+
+		_ésta opción nos pemritirá activar las opciones de mattes, ó reservas para la aplicación del efecto sobre la layer,
+
+		resultante
+
+
+	_Extension Matte:
+
+		_ésta opción nos permitirá seleccionar una layer, la cuál, hara de matte, ó reserva de color la cuál, será utilizada
+
+		para crear un reserva la cuál, no será efectada por efecto resultante
+
+
+		_ésta opción está superditada a si seleccionamos las siguientes opciones en:
+
+			
+			_Local Match Mode:
+
+				_Less Detailed - Refine Mismatched areas
+
+				_More Detailed - Refine Mismatched areas
+
+
+	_Exclusion Channel:
+
+		_ésta opción nos permitirá seleccionar un canal de trabajo en la layer, que hemos seleccionada como matte, para
+
+		el proceso de reserva
+
+
+	_Reinclude Threshold %:
+
+		_ésta opción nos pemritirá indicar la cantidad penetración de éste matte, sobre la layer, resultante ó efecto aplicado
+
+
+	_Exclusion Matte Mode:
+
+		_ésta opción nos permitirá indicar el criterio de trabajo en relación al efecto, de ésta manera, podremos aplicar 
+
+		el efecto a través, de un criterio a través, del análisis ó "cálculo del color", ó a través, del análisis de la 
+
+		"estimación de la disparidad", ó "ambos", criterios ó algoritmos
+
+
+
+
+
+
+
+

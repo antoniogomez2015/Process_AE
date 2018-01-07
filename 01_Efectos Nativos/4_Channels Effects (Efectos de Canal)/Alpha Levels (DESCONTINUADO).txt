@@ -1,0 +1,84 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá hacer variaciones sobre el canal alpha, de una imágen ó composición para que así, 
+
+	podamos hacer que ésta se devanesca entre otras posibilidades
+
+
+	_éste efecto ha sido descontinuación a partir de la versión de after effects CS 5.5
+
+
+	_de ésta manera, podremos emular éste efecto a través, del efecto de "Levels", el cuál, debemos de 
+
+	configurarlo en las opciones de "Channel", ha "Alpha"
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Alpha Levels:
+	_____________
+
+	_Input Black Level:
+
+		_éste valor nos permitirá ajustar la escala de negros de la imágen para poder así, indicar el 
+
+		umbral de acción que tendrá el canal alfa resultante
+
+
+	_Input White Level:
+
+		_éste valor nos permitirá ajustar la escala de blancos de la imágen para poder así, indicar el 
+
+		umbral de acción que tendrá el canal alfa resultante
+
+
+	_Gamma:
+
+		_éste valor nos permitirá ajustar la ganancia relativa de compresión que tendrá el canal alfa 
+
+		resultante en relación a los valores de blancos y negros permitidos por la gama seleccionados de
+
+		éstos
+
+
+	_Output Black/White:
+
+		_éste valor nos permitirá neutralizar directamente el canal opuesto del canal alfa, pudiéndo así,
+
+		poder convertir el canal de los blancos ha negros y el canal de los negros ha blancos directamente
+
+	
+
+
+
+
+
+

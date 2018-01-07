@@ -1,0 +1,83 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear deformaciones las cuáles, nos permitirán emular distorsiones ópticas de
+
+	tipo "Barril", y "Cojín", para crear y emular diferentes efectos en composición, producción y paso contínuo
+
+
+	_en relación si indicamos valores positivos ó negativos podremos crear un tipo de efecto u otro
+
+
+	_éste esfecto es totalmente compativa con el efecto de "Optics Compensation", como "CC Bender", "CC Griddler",
+
+	"Motion Tile", entre otros a través, de los cuáles, podremos crear elementos como módulos, super módulos para 
+
+	el contructivimos visual y el motion graphycs, otros
+
+
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC LENS: (CC Lente)
+	________
+
+
+		_Center:
+
+			_ésta opción nos pemrnitirá indicar el epicentro del sistema a partir del cuál, se generará
+
+			el sistema
+
+
+		_Size:
+
+			_ésta opción nos permitirá indicar el tamaño del sistema ó alcance de éste sobre la imágen
+
+			original en relación al tipo de efecto logrado, de ésta manera, ésta dará la impresión que
+
+			aumentar el efecto sea éste de tipo barril ó cojín
+
+
+		_Convergence:
+
+			_ésta opción nos pemnitirá indicar la influencia del efecto de distorsión respectivo así,
+
+			podremos hacer crear un efecto de distorsión de tipo barril ó cojín más atenuada ó acusada
+
+
+			_lo creará mayor distorsión en las áreas perimetrales de la imágen ó efecto
+
+
+
+

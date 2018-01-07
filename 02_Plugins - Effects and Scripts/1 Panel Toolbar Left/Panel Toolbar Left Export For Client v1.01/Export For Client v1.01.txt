@@ -1,0 +1,79 @@
+
+
+http://aescripts.com/exportforclient/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Toolbar Left / Export For Client v1.01
+
+
+	Export For Client v1.01
+
+
+	-este nos permite exportar informacion tanto de layers, de texto e información de la duración
+
+	de las mismas así, como información de las layers, en general a través, de marcas/markers
+
+
+	-especialmente útil para que el cliente revise el material de trabajo de forma remota ràpidamente
+
+	
+	-podemos exportar todas las lyers, de texto de una composición y su tiempo en la composición
+
+		-Export Text and TC		
+
+	
+	esto nos permitirá obtener el contenido de texto así, como la información de su ubicación en el tiempo
+
+	dentro de la composición
+
+
+	-indique si desea exportar los valores de los keyframes, en el tiempo actual de la composición
+
+	(no puede incluir expresiones)
+
+		-Export all values
+
+
+	-podemos exportar sólo el texto plano de las layers, de la composición activa
+
+		-Export Plain Text
+
+
+	-ó podemos exportar el texto y su timecode/TC, ó tiempo actual en la composición
+
+		-Export Text and TC
+
+
+	cualquiera de estas dos opciones de exportación de texto que escojamos repercutirá en el
+
+	tipo de archivos resultante y su configuración u organización
+
+
+	-tambien, tiene la posibilidad de agregar marcas/markers, a layers, deseadas, luego, vamos ha
+
+	al panel a la opción de
+
+		-Export images: y hacemos "Add marker", así, se incluirán las imágenes en relación
+
+		a las marcas indicadas las cuales se incluirán en el render
+
+
+	-luego para finalizar el proceso de exportación debemos escoger el formato de exportación
+
+	de archivo:
+
+		-Export using:
+
+
+	-por último para finalizar el proceso le damos respectivamente ha:
+
+		-Export as .txt
+
+		-Export image files
+		
+

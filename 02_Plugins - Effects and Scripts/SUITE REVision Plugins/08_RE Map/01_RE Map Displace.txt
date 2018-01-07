@@ -1,0 +1,329 @@
+
+
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+		DEFlicker Tutorials/Playong List:
+
+			https://www.youtube.com/watch?v=ROG9Cx09xr4&list=PLJZE0COAfWUXTkWdhbkaO5GflW3hWJZ4h
+
+
+		RE:Flex (17 Videos)
+
+			https://www.youtube.com/playlist?list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v
+
+
+		RE:Flex Morph - Morphing between moving images
+
+			https://www.youtube.com/watch?v=t0lcSHYiOJg&list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v&index=2
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE:VisionFx RE: Map Displace:
+_____________________________
+
+
+	_éste efecto nos permitirá realizar desplazamientos volumétricos sobre una layer, a través, de la información 
+
+	obtenida de las misma layer, sin la necesidad de hacer de mapas de densidad entre otros
+
+
+
+	RE: Map Displace Options:
+	_________________________
+
+
+	_Warp Mode:
+
+
+		_Forward Warp:
+
+			_ésta opción nos permitirá hacer un desplazamiento de mapas de forma progresiva
+
+
+		_Inverse Warp:
+
+			_ésta opción nos permitirá hacer un desplazamiento de mapas de forma inversa en el sentido
+
+			opuesto de la lectura del mapa interno generado automáticamente de la propia imágen ó layer
+
+
+		_Swear
+
+			_ésta opción nos permitirá hacer un desplazamiento de mapas de forma progresiva suavizado
+
+			lo cuál, es especialmente útil para imágenes ó mapas complejos ó problemáticos
+
+
+		_FeedBack:
+
+			_ésta opción nos permitirá hacer un desplazamiento de mapas de forma neutral lo cuál, quiere
+
+			decir que el mapa será auto ajustable en relación al comportamiento del mapa en relación
+
+			a la deformación generada
+
+	_Process Mode:
+
+
+		_Result:
+
+			_ésta opción nos permitirá visualizar el resultado final de la deformación generada
+
+
+		_Apply to Screen Coords Map:
+
+			_ésta opción nos permitirá visualizar el mapa de cordenadas de deformación generado y su 
+
+			aplicación en los puntos con mayor deformación
+
+
+		_Show Vectors:
+
+			_ésta opción nos permitirá visualizar el vector general de deformación y los puntos de fuerza
+
+			de las zonas con más deformación
+
+
+	_Warp Amount:
+
+		_ésta opción nos permitirá indicar la cantidad de deformación aplicada al sistema en general de ésta manera,
+
+		podremos aplicar más ó menos fuerza
+
+
+	_Passes:
+
+		_ésta opción nos permitirá indicar la cantidad de pases ó muestreos al mapa de deformación generado a partir
+
+		del cuál, el sistema generará la deformación sobre la layer, resultante
+
+
+	_Displacement Source:
+
+		_ésta opción nos permitirá seleccionar una layer, a la cuál, deseamos aplicar el efecto de desplazamiento
+
+
+	_Displacement Controls:
+
+		
+		_Input Swap:
+
+			_ésta opción nos permitirá intercambiar el sentido del mapa de desplazamiento generado
+
+
+		_Smooth Map:
+
+			_ésta opción nos permitirá suavizar ó interpolar el mapa generado de desplazamiento para que así,
+
+			éste tenga más ó menos acutancia y el desplazamiento generado sea más ó menos abructo
+
+
+		_Max Displace:
+
+			_ésta opción nos permitirá enervar el mapa de desplazamiento generado desde una valor de "0", acción
+
+			en adelante para que así, podamos hacer más ó menos potente éste mapa en relación a la desplazamiento
+
+			generado
+
+
+		_Vector Scale X:
+
+			_ésta opción nos permitirá hacer desplazamiento ó corrección en el eje horizontal
+
+
+		_Vector Scale Y:
+
+			_ésta opción nos permitirá hacer desplazamiento ó corrección en el eje vertical
+
+
+		_Rotate Z:
+
+			_ésta opción nos permitirá hacer desplazamiento ó corrección en el eje de profundidad
+
+
+		_Modulation Source:
+
+			_ésta opción nos permitirá seleccionar una layer, la cuál, hará de mapa de profundidad ó depth,
+
+			personalizado 
+
+
+				_el cuál, podrá estar conformado por layers, precompuestas con máscaras y rellenadas
+
+				con un color sólido gradados en color gris y con un feather, en sus bordes ó con 
+
+				el efecto "PV Feather"
+
+
+				_la opción más usual es crear una layer, de tipo solid, y proceder ha pintar las áreas
+
+				de interés con diferentes tonos de gris
+
+
+				_otra opción es crear un mapa de densidad ó depth, más complejo a través, del plugin,
+
+				"DigiEffects BDC v2.5/DE Depth"
+
+
+	Modulation Controls:
+
+
+		_Modulation Channel:
+
+			_ésta opción nos permitirá seleccionar un canal de trabajo de la layer, que hemos seleccionado como 
+
+			mapa "depth", en la opción de "Modulation Source"
+
+	
+			_de ésta manera, podremos aplicar éste mapa en diferentes criterios a través, de los diferentes 
+
+			canales y tipos de datos en conjunto disponibles en ésta layer, para generar así, el mapa resultante
+
+
+			_por lo general la opción más viable es seleccionar el canal "alpha"
+
+
+
+		_Modulation Mode:
+
+			_ésta opcíon nos permitirá seleccionar el modo ó criterio de acción de ésta manera, podremos utilizar
+
+			el mapa con rangos que vayan de "0 to 1", ó de "-1 to 1"
+
+
+		_Modulation Scale:
+
+			_ésta opción nos permitirá indicar la escala general del mapa auxiliar personalizado así, podremos
+
+			graduar la intensidad ó influencia de éste mapa para el desplazamiento de la layer, respectiva
+
+
+		_Mip-Map Method:
+
+			_ésta opción nos permitirá mejorar la interpolación de pixeles lo cuál, mejorará sustancialmente
+
+			para lo cuál, dispondremos de diferentes modos los cuáles, son: "Standar, Medium, Smoothest"
+
+			
+
+
+		_Hold Edges:
+
+			_activar ésta opción ayuda a mantener los bordes de la imágen tras la deformación del proceso 
+
+			de desplazamiento
+
+
+		_Anto-Aliasing Sampling:
+
+			_ésta opción nos permitirá seleccionar un algoritmo de interpolación de pixeles, los cuáles, ayudarán
+
+			ha mejorar la calidad y el resultado general
+
+
+		_Sharpness:
+
+			_ésta opción nos permitirá enfocar el desplazamiento resultante lo cuál, es especialmente útil para
+
+			algunos casos en los que los pixeles de la imágen son muy estirados para lo cuál, el sistema nos brinda
+
+			diferentes algoritmos
+				
+
+
+	Forward Warp Controls:
+
+
+		_Warp Quality:
+
+			_ésta opción nos permitirá hacer variaciones sobre la calidad del resultado del desplazamiento en el
+
+			modo "Warp Mde/Forward Warp"
+
+
+		_Anti-Aliasing Method:
+
+			_ésta opción nos permitirá indicar algoritmo de suavizado de pixeles en el modo "Warp Mde/Forward Warp"
+
+
+		_Average Foldovers:
+
+			_ésta opción nos permitirá indicar el comportamiento de los pixeles solapados en el proceso 
+
+			de desplazamiento en el modo "Warp Mde/Forward Warp"
+
+
+		_Strips:
+
+			_ésta opción nos pemritirá seleccionar el sentido de la horientación de la deformación generada
+
+			a partir del proceso de desplazamiento
+
+
+		_Hrizontal Render:
+
+			_ésta opción nos permitirá indicar el sentida de la deformación horizontal de los pixeles para que
+
+			así, podamos indicarle al sistema si la deformación se realizará "Left-to-Right", ó "Right-to-Left"
+
+
+		_Vertical Render:
+
+			_ésta opción nos permitirá indicar el sentida de la deformación vertical de los pixeles para que
+
+			así, podamos indicarle al sistema si la deformación se realizará "Top-to-Bottom", ó "Bottom-to-Top"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

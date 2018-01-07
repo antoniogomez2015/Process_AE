@@ -1,0 +1,92 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer efectos de modulación ó sangrado de elementos de imágenes ó layer, lo 
+
+	cuál, nos permitirá extender las posibilidades de composición y desarrollo de efectos complejos y animados
+
+
+	_de ésta manera, podremos crear efectos compuestos para producción y paso contínuo como también, efectos
+
+	especiales para animación, otros
+
+
+	_una de las funciones ó aplicaciones fundamentales de éste efecto es la creación de elementos para motion 
+
+	graphycs, y el contructivismo visual y de elementos abstractos y simétricos, otros
+	
+
+
+	
+	
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Offset: (Desplazamiento)
+	_______
+
+
+		_Shift Cente To:
+
+			_ésta valor hará de target, ó punto de control a través, del cuál, podremos desplazar
+
+			el sistema sea en forma horizontal ó vertical, como también, podremos hacerlo de 
+
+			forma libre
+
+
+			_ya que el sistema replicará la layer, ha modo de "tiler", en todas las direcciones
+
+
+			_de ésta manera, podremos entender que éste efecto es como un efecto tiler, centrado
+
+			y manejable a través, de un handle
+
+
+		_Blend Width Original:
+
+			_éta opción nos pemritirá integrar el efecto con la layer, ó imágen original
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

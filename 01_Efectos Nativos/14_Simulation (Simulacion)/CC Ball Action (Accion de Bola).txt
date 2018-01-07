@@ -1,0 +1,220 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear un sistema de partículas ha modo de grid, ó grilla a través, del cuál,
+
+	podremos crear diferentes efectos corpusculares y de paso contínuo y de producción para diferentes procesos
+
+	de paso contínuo
+
+
+	_a través, de una layer, base de tipo sólid, ó de tipo de imágen la cuál, será mapeará el sistema para la
+
+	generación del mismo
+
+
+	_así, podremos crear efectos de tipo cadenas de ADN, torciones de partículas, turbulencias, otros
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+
+	
+
+	CC Ball Action: (CC Accion de Bola)
+	_______________
+
+
+		_Scatter:
+
+			_ésta opción nos permitirá agregar dispersión ó separación aleatorio entre cada partícula
+
+			generada por el sistema de ésta manera, podremos agregar aleatoriedad ó un comportamiento
+
+			orgánico ó de conformación ó disipación del sistema, otros
+
+
+		_Rotation Axis:
+
+			_ésta opción nos permitirá seleccionar un criterio ó algoritmo de trabajo para la orientación
+
+			general del sistema
+
+
+			_para la generación posterior del propio sistema a través, de la cuál, se generará la 	
+
+			distorsión ó torsión del sistema de partículas
+
+
+			_de ésta manera, podremos crear diferentes efectos y patrones ó comportamientos de distorsión
+
+			y deformación del sistema utilizando una ó más cordenadas a la vez, 
+
+
+			_de forma selectiva en relación a nuestras necesidades y a los comportamientos de distorsión 
+
+			ofrecidos por cada grupo de cordenadas disponibles y probados respectivamente
+
+
+			
+
+
+		_Rotation:
+
+			_ésta opción nos pemritirá incrementar ó atenuar la cantidad de distorsión aplicada sobre el
+
+			sistema en relación a su vez, al criterio de "Rotation Axis"
+
+
+		_Twist Property:
+
+			_ésta opción nos permitirá seleccionar un criterio ó algoritmo de trabajo para la generación
+
+			del sistema y de la torsión del mismo sistema de partículas
+
+
+			_de ésta manera, podremos crear diferentes efectos y patrones ó comportamientos de distorsión
+
+			y deformación del sistema
+
+
+			_para lo cuál, dispondremos de las siguientes opciones:
+
+
+				_X | Y | Z Axis:
+
+					_ésta opción nos permitirá generar el sistema y torsión del mismos a través,
+
+					de la información optenida de una ó más cordenadas disponibles
+
+
+				_X | Y |Center:
+
+					_ésta opción nos permitirá generar el sistema y torsión del mismos a través,
+
+					de la información optenida de la proporción central de la imágen ó layer
+
+
+				_Radius | Random:
+
+					_ésta opción nos permitirá generar el sistema y torsión del mismos a través,
+
+					de la información optenida de una ponderación general de la imágen para lograr
+
+					así, la máxima torsión posible
+
+
+				_R | G | B:
+
+					_ésta opción es muy útil, ya que nos permitirá generar el sistema y a su vez,
+
+					distorsionar y hacer torsión sobre éste a través, de la información de color
+
+					de uno de los canales de color disponible, lo que a su vez, interactuará con
+
+					la morfología real de la imágen y su información de color
+			
+
+
+				_Brightness | Otros:
+
+					_ésta opción es similar a la opción anterior más en éste caso el sistema 
+
+					tomará la información de los valores de luminancia de la imágen base
+
+
+		_Twist Angle:
+
+			_más ésta opción nos permitirá multiplicar de forma exponencial la opción de "Rotation", ó
+
+			distorsión aplicada por el sistema de ésta manera, podremos hacer que el efecto de distorsión
+
+			sea más abrasivo y envolvelten ó masivo sobre el sistema ó más suave y sutil
+
+
+		_Grid Spacing:
+
+			_ésta opción nos pemritirá crear una grilla ó grid, de partículas más ó menos densa lo que nos
+
+			permitirá hacer a su vez, un sistema más abstracto y ligero ó más complejo y ha modo de 
+
+			profusión con mucha más densidad de partículas
+
+
+			_lo cuál, a su vez, aumentará ó disminuirá la separación entre las partículas generadas
+
+
+			_éste valor estará relacionado directamente con el valor de "Ball Size"
+
+
+		_Ball Size:
+
+			_ésta opción nos pemritirá controlar el tamaño de las partículas generadas por el sistema
+	
+			de ésta manera, podremos crear sistema con partículas relativamente pequeñas pero con una
+
+			separación entre éstas mínima lo cuál, generará una representación muy realista ó de alta
+
+			resolución de la imágen base
+
+
+			_por el contrario podríamos generar un sistema con partículas grandes y con una separación 
+
+			entre éstas pequeña ó grande lo que nos permitirá crear sistemas más ligeros anque más
+
+			abstractos y figurativos
+
+
+			_como podremos ver, ésta opción estará infimamente relaciónada con la opción de "Grid Spacing"
+
+
+		_Instability State:
+
+			_ésta opción nos permitirá agregar ruido ó aleatoriedad a todo el sistema de partículas
+
+			generado de forma indibidual por cada partícula ha modo de turbulencia
+
+		
+
+
+
+
+
+
+

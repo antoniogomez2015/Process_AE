@@ -1,0 +1,133 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá llevar más allá las posibilidades del efecto "Corner Pin", ya que en éste efecto
+
+	tendremos control de la perspectiva y de la deformación 
+
+
+	_así como también, podremos hacer desplazamientos u offsets, de la imágen en cada una de las cordenadas 
+
+	generadas en la imágen, de ésta manera, podremos extender la imágen tanto en "top,buttom,left,right", para
+
+	poder crear así, constructivismo visual y compositing, otros
+
+
+	_así, como también, contenido para produccion y motion graphycs, y paso contínuo, otros
+
+
+	_así, como también, tendremos ayudas visuales de los dos puntos de fuga que genera el sistema y más aún
+
+	podremos mover éstas de forma práctica a través, de cada línea guía formada por dos handles, ó targets 
+
+
+	_de ésta manera, podremos mover dos handles, ó un lado completo del sistema moviendo una de las líneas de 
+
+	ferencia de la perspectiva ó puntos de fuga
+
+
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Power Pin: (Posicionar CC)
+	_____________
+
+
+		_Pins:
+
+			_a través, de cuatro handles, ó targets, uno a cada esquina de la respectiva layer,
+
+			podremos controlar el sistema y por ende la deformaciones y distorsiones de perspectiva
+
+
+		_Perspective:
+
+			_ésta opción nos permintirá controlar gradualmente la intensidad de la distorsión por 
+
+			perspectiva
+
+
+			_donde la distorsión natural de la perspectiva se presentará cuando indiquemos un valor
+
+			de "100"
+
+
+			_más si indicamos un valor de "0", el sistema intentará reducir el impacto de la distorsión
+
+			de la perspectiva lo máximo posible
+
+
+			_más si indicamos un valor superior ha "100", el sistema tratará la Perspectiva normal sobre 
+
+			los puntos móviles más próximos entre sí no sólo  para su Compresión de la imágen de la capa, 
+
+			sino que también la estira hacia el área más distorsionada aumentando así, proporcionalmente
+
+			la distorsión de perspectiva
+
+
+		_Unstretch:
+
+			_ésta opción tratará de revertir la distorsión de perspectiva obtenida en la imágen en relación
+
+			al área perimetral de la imágen
+
+
+			_para que así, el sistema devuelva a su posición original la parte de la imágen correspondiente
+
+			a los costados de la imágen, modificando así, sólo los pixeles, internos de la imágen
+
+
+		_Expansion (%):
+
+			_éstas opciones nos permtirán extender la imágen a través, de las perspectiva generada por medio
+
+			de los puntos de fuga establecidos, en éste caso, dos puntos de fuga
+
+
+			_de ésta manera, podremos extender la imágen en cualquierda de los cuatro planos a través, de los
+
+			cuatro costados de la imágen
+
+
+			_de ésta maenra, podremos proyectar ó extender la imágen de forma individual en cada costado en 
+
+			relación a la perspectiva de cada plano
+
+
+
+
+
+
+
+

@@ -1,0 +1,629 @@
+
+
+
+
+	http://www.digitalfilmtools.com/ezmask/
+
+		http://software.tiffen.com/products/dft-products/zmatte
+
+
+		http://software.tiffen.com/products/dft-products	
+		http://software.tiffen.com/products/dfx-products
+
+		http://www.digitalfilmtools.com/supported-hosts/adobe-photoshop-plugins.php
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+	Características:
+	________________
+
+
+		_éste efecto nos permitirá crear un sistema de mattes, y el proceso de keyer, ó chromakey, a través,
+
+		de colores estándares de la industria así, como también, a través, de otros criterios de tonos,
+
+		saturación, luminancia, otros
+
+
+		_más no tendremos la posibilidad de realizar el proceso de keyer, ó chromakey, a través, de un color
+
+		personalizado indicado ó seleccionado por nosotros
+
+
+
+
+	Workflow:
+	_________
+
+
+		_
+
+
+
+
+	zMatter Keyer:
+	______________
+
+
+		_View:
+
+
+			_Output:
+
+				_ésta opción nos permitirá visualizar el resultado final del proceso de keyer, ó
+
+				proceso de chromakey
+
+
+			_Foreground:
+
+				_ésta opción nos permitirá visualizar la imágen base ó imágen original
+
+
+			_Background:
+
+				_ésta opción nos permitirá visualizar la imágen que se encuentra más abajo en el
+
+				timeline, de la respectiva composición
+
+
+			_Combined Matte:
+
+				_ésta opción nos permitirá visualizar el matte, generado tanto del proceso primario
+
+				como del proceso secundario del keyer ó chromakey
+
+
+			_Primary Matte:
+
+				_ésta opción nos permitirá visualizar el matte, generado en el proceso primario
+
+				del keyer
+
+
+			_Secundary Matte:
+
+				_ésta opción nos permitirá visualizar el matte, generado en el proceso secuendario
+
+				del keyer
+
+
+			_Light Wrap:
+
+				_ésta opción nos permitirá visualizar el calado perimetral de la silueta de la 
+
+				imágen resultante del proceso de keyer, para hacer ajustes y afinaciones del proceso
+
+
+				_de ésta manera, podremos visualizar el halo de luz de la silueta de la imágen entre
+
+				la imágen recortada ó "foreground", y la imágen de fondo ó capa de abajo ó 
+
+				"background"
+
+
+			_Edge Matte:
+
+				_ésta opción es similar a la opción anterior de "light wrap", más en la opción de
+
+				"edge matte", podremos ver el área perimetral del proceso de matte, resultante tanto
+
+				del proceso primario como el secundario sin el calado entre el foreground y el
+
+				background
+
+			
+				_de ésta manera, podremos hacer ajustes de retracción de matte, y ajustes y detalles
+
+				de los bordes de la imágen resultante
+
+
+
+
+		DiArtfact:
+
+
+			_Enable:
+
+				_ésta opción activa la contemplación de alto detalle y ruido sobre la imágen 
+
+				resultante lo cuál, no es recomendable activar en la mayoría de procesos ya que 
+
+				éste efecto es contraproducente para la mayoría de los casos
+
+
+			_Horizontal Blur:
+
+				_ésta opción nos permitirá hacer desenfoque horizontal sobre la imágen resultante
+
+				en relación al ruido y alto detalle agregado a la imágen resultante
+
+
+			_Vertical Blur:
+
+				_ésta opción nos permitirá hacer desenfoque vertical sobre la imágen resultante
+
+				en relación al ruido y alto detalle agregado a la imágen resultante
+
+
+			_Gang Blur:
+
+				_ésta opción nos permitirá unificar los controles de desenfoque del sistema de ruido
+
+				y alto detalle de la imágen resultante para que así, ambos controles sean 
+
+				controlados a partir de un sólo control
+
+
+		
+		Primary Matte:
+
+			
+			_Extract On:
+
+
+				_Blue Screen:
+
+					_ésta opción nos pemritirá realizar el proceso a través, del color azul	estandar
+
+
+				_Green Screen:
+
+					_ésta opción nos pemritirá realizar el proceso a través, del color verde estandar
+
+
+				_Luminance:
+
+					_ésta opción nos permitírá realizar el proceso a través, de los valores de luminancia ó gain, de la imágen
+
+
+				_Hue:
+
+					_ésta opción nos permitirá realizar el proceso a través, de los valores de tono y matíz, de la imágen
+
+
+				_Saturation:
+
+					_sta opción nos permitirá realizar el proceso a través, de los valores de saturación ó pedestal de la imágen
+
+
+				_Average:
+
+					_sta opción nos permitirá realizar el proceso a través, de un averaje entre luminancia y tonos de la imágen
+
+
+				_Red | Green | Blue:
+
+					_ésta opción nos permitirá realizar el proceso a través, de los valores de los canales bases de color de la imágen base de ésta manera, podremos escoger entre los canales rojo, verde y azul
+
+
+				_Cyan | Magenta | Yellow:
+
+					_ésta opción nos permitirá realizar el proceso a través, de los valores de los canales bases de color complementarios de la imágen base de ésta manera, podremos escoger entre los canales cyan, magenta y amarillo
+
+
+
+			_Background:
+
+				_ésta opción nos permitirá eliminar el color seleccionado en la opción "Extract On"
+
+				_de ésta manera, con valores cercanos ha "0", eliminará más del respectivo color ó criterio seleccionado y con valores cercanos ha "100", eliminará menos color seleccionado conservando así, más parte de la imágen original
+
+
+			_Foreground:
+
+				_ésta opción nos permitirá aumentar ó disminuir la acutancia entre los tonos del matte, resultante del proceso
+
+				_de ésta manera, con valores cercanos ha "0", aumentará la suvidado ó tramado entre los tonos del matte, generado para el proceso y con valores cercanos ha "100", aumentará la autancia, definición ó contrastre entre los tonos del matte, generado para el proceso
+
+
+			_Position:
+
+				_(indeterminado)
+
+
+			_Range:
+
+				_(indeterminado)
+
+
+			_Back Clip:
+
+				_ésta ópción nos permitirá complementar ó corregir el matte, generado para el proceso
+
+				_de ésta manera, con valores cercanos ha "0", la acción será nula sobre el matte, resultante para el proceso, más con valores cercanos ha "100", podremos hacer más definidas las áreas negras del matte, generado para el proceso
+
+
+			_White Clip:
+
+				_ésta ópción nos permitirá complementar ó corregir el matte, generado para el proceso
+
+				_de ésta manera, con valores cercanos ha "0", la acción será nula sobre el matte, resultante para el proceso, más con valores cercanos ha "100", podremos hacer más definidas las áreas blancas del matte, generado para el proceso
+
+
+			_Shrink + Glow:
+
+				_ésta opción nos permitirá extender ó retraer los bordes del matte, resulntate para el proceso
+
+				_así, como también, de refinar y afinar los bordes de la imágen y por otra parte también, nos permitirá disfuninar los bordes del matte, resultante en cierta menera
+
+
+			_Horizontal Blur:
+
+				_ésta opción nos permitirá disfuninar el matte, resultante en el sentido horizontal lo cuál, nos pemritirá suavizar y eliminar imperfecciones en el matte, resultante así, como también, lograr una mejor integración con las demás layers, del proceso
+
+
+			_Vertical Blur:
+
+				_ésta opción nos permitirá disfuninar el matte, resultante en el sentido vertical lo cuál, nos pemritirá suavizar y eliminar imperfecciones en el matte, resultante así, como también, lograr una mejor integración con las demás layers, del proceso
+
+
+			_Gang Blur:
+
+				_ésta opción nos permitirá integrar ambos controles de desenfoque del matte, resultante a través, de uno sólo para que así, ambos controles sean manejados a través, de un sólo control
+
+
+			_Wrap:
+
+				_ésta opción nos permitirá agregar un halo de penumbra en el área perimetral de la imágen resultante
+
+				_de ésta manera, con valores cercanos ha "0", la acción del halo agregado será nula, más con valores cercanos ha "100", la acción del halo será visible y marcada
+
+				_lo cuál, nos pemritirá en algunos casos integrar mejor la imágen resultante con las demás layers, de la respectiva composición
+
+
+			_Invert:
+
+				_ésta opción nos pemritirá invertir el sentido del matte, para que así, las áreas de matte, blancas ahora pasen ha hacer negras y viceversa
+
+
+
+		Secundary Matte:
+
+
+			NOTA: para visualizar el resultado de éste proceso en el viewport, del panel compositing, debemos de ir a las opciones de "View", y allí, seleccionar la opción de "Secundary Matte"
+
+			_más para ver el resultado acumulado e interacción entre ambos pases de matte, generado para el proceso de keyer, ó chromekey, debemos de seleccionar en las opciones de "View", la opción de "Combined Matte"
+
+			_de ésta manera, éste segundo proceso de matte, nos permitirá crear diferentes efectos de producción, procesos creativos, otros así, como también, complementar el proceso generado en el primer pase de matte, ó "Primary Matte"
+
+
+
+			_Enable:
+
+				_ésta opción nos permitirá activar las opciones de matte, secundario
+
+				_de ésta manera, podremos entender que las imperfecciones que nos hayan quedado sin corregir en el proceso de "Primary Matte", ahora las podremos corregir en éste segundo pase de forma acumulativa
+
+
+			_Extract On:
+
+
+				_Blue Screen:
+
+					_ésta opción nos pemritirá realizar el proceso a través, del color azul	estandar
+
+
+				_Green Screen:
+
+					_ésta opción nos pemritirá realizar el proceso a través, del color verde estandar
+
+
+				_Luminance:
+
+					_ésta opción nos permitírá realizar el proceso a través, de los valores de luminancia ó gain, de la imágen
+
+
+				_Hue:
+
+					_ésta opción nos permitirá realizar el proceso a través, de los valores de tono y matíz, de la imágen
+
+
+				_Saturation:
+
+					_sta opción nos permitirá realizar el proceso a través, de los valores de saturación ó pedestal de la imágen
+
+
+				_Average:
+
+					_sta opción nos permitirá realizar el proceso a través, de un averaje entre luminancia y tonos de la imágen
+
+
+				_Red | Green | Blue:
+
+					_ésta opción nos permitirá realizar el proceso a través, de los valores de los canales bases de color de la imágen base de ésta manera, podremos escoger entre los canales rojo, verde y azul
+
+
+				_Cyan | Magenta | Yellow:
+
+					_ésta opción nos permitirá realizar el proceso a través, de los valores de los canales bases de color complementarios de la imágen base de ésta manera, podremos escoger entre los canales cyan, magenta y amarillo
+
+
+
+
+			_BLend:
+
+				_a través, de ésta opción podremos integrar éste sengundo pase de matte, para el proceso por medio de modo de fusión más comúnes y útiles incorporados en el sistema como "add,screen,multiply, otros"
+
+				_de ésta manera, podremos lograr resultados más complejos y completos del proceso de generación del matte, resultante para el proceso de keyer, ó chromakey
+
+
+			_Opacity:
+
+				_ésta opción nos peemitirá controlar la influencia general de éste segundo pase de matte, resultando así, de ésta manera, podremos controlar la insidencia de éste segundo pase de matte, acumulativo
+
+
+			_Background:
+
+				_con valores vercanos ha "0", aumentarán las áreas negras del matte, resultante del proceso más con valores cercanos ha "100", aumentarán los blancos en la imágen resultante del proceso
+
+				_de ésta manera, podremos complementar el proceso del ""Primary Matte
+
+
+			_Foreground:
+
+				_ésta opción nos permitirá aumentar ó disminuir los valores de acutancia entre los tonoes del matte, resultante del proceso de ésta manera, podremos aumentar ó disminuir el contraste y definición de los bordes del matte, resultante
+
+				_de ésta manera, con valores cercanos ha "0", la interpolación entre los tonos del matte, resultante del proceso será mayor lo cuál, indicará una menor acutancia entre los tonos logrando así, una mayor gradación entre los tonos mejorando los bordes y el calado de éstos
+
+				_y con valores cercano ha "100", la acutancia será mayor y la cantidad de tonos se verá reducida la mínima expresión aumentando el contraste y la permitida de detalle en los bordes
+
+
+			_Position:
+
+				_(Indeterminado)
+
+
+			_Range:
+
+				_(Indeterminado)
+
+
+			_Back Clip:
+
+				_ésta ópción nos permitirá complementar ó corregir el matte, generado para el proceso
+
+				_de ésta manera, con valores cercanos ha "0", la acción será nula sobre el matte, resultante para el proceso, más con valores cercanos ha "100", podremos hacer más definidas las áreas negras del matte, generado para el proceso
+
+
+			_White Clip:
+
+				_ésta ópción nos permitirá complementar ó corregir el matte, generado para el proceso
+
+				_de ésta manera, con valores cercanos ha "0", la acción será nula sobre el matte, resultante para el proceso, más con valores cercanos ha "100", podremos hacer más definidas las áreas blancas del matte, generado para el proceso
+
+
+			_Shrink + Glow:
+
+				_ésta opción nos permitirá extender ó retraer los bordes del matte, resulntate para el proceso
+
+				_así, como también, de refinar y afinar los bordes de la imágen y por otra parte también, nos permitirá disfuninar los bordes del matte, resultante en cierta menera
+
+
+			_Horizontal Blur:
+
+				_ésta opción nos permitirá disfuninar el matte, resultante en el sentido horizontal lo cuál, nos pemritirá suavizar y eliminar imperfecciones en el matte, resultante así, como también, lograr una mejor integración con las demás layers, del proceso
+
+
+			_Vertical Blur:
+
+				_ésta opción nos permitirá disfuninar el matte, resultante en el sentido vertical lo cuál, nos pemritirá suavizar y eliminar imperfecciones en el matte, resultante así, como también, lograr una mejor integración con las demás layers, del proceso
+
+
+			_Gang Blur:
+
+				_ésta opción nos permitirá integrar ambos controles de desenfoque del matte, resultante a través, de uno sólo para que así, ambos controles sean manejados a través, de un sólo control
+
+
+			_Wrap:
+
+				_ésta opción nos permitirá agregar un halo de penumbra en el área perimetral de la imágen resultante
+
+				_de ésta manera, con valores cercanos ha "0", la acción del halo agregado será nula, más con valores cercanos ha "100", la acción del halo será visible y marcada
+
+				_lo cuál, nos pemritirá en algunos casos integrar mejor la imágen resultante con las demás layers, de la respectiva composición
+
+
+			_Invert:
+
+				_ésta opción nos pemritirá invertir el sentido del matte, para que así, las áreas de matte, blancas ahora pasen ha hacer negras y viceversa
+
+
+
+
+		Color Suppress:
+
+
+			_Auto Color:
+
+				_
+
+
+			_Color:
+
+				_
+
+
+			_Foreground:
+
+				_
+
+
+			_Range:
+
+				_
+
+
+			_Edge:
+
+				_
+
+
+
+		Color Correct:
+
+	
+			_Hue:
+
+				_
+
+
+			_Saturation:
+
+				_
+
+
+			_Brightness:
+
+				_
+
+
+			_Contrast:
+
+				_
+
+
+			_Gamma:
+
+				_
+
+
+			_Red | Green | Blue:
+
+				_
+
+
+			_Flash Amount:
+
+				_
+
+
+			_Flash Color:
+
+				_
+
+
+
+		Light Wrap:
+
+
+			_Background:
+
+				_
+
+
+			_Light:
+
+				_
+
+
+			_Wrap:
+
+				_
+
+
+
+		Edge:
+
+
+			_Size:
+
+				_
+
+
+			_Color-Correct:
+
+				_
+
+
+			_Horozontal Blur:
+
+				_
+
+
+			_Vertical Blur:
+
+				_
+
+
+			_Gang Blur:
+
+				_
+
+
+			_Opacity:
+
+				_
+
+
+
+		DVE:
+
+
+			_Crop:
+
+				_
+
+
+
+			_Corner-Pin:
+
+
+				_Upper Left | Right:
+
+					_
+
+
+				Lower Left | Right:
+
+					_
+
+
+			_Position:
+
+				_
+
+
+			_Scale X | Y:
+
+				_
+
+
+			_Gang Scale:
+
+				_
+
+
+			_Rotate:
+
+				_
+
+
+			_Shear X | Y:
+
+				_
+
+
+			_Anchor X | Y:
+
+				_
+
+
+		
+		Force 16-bit processing:
+
+			_
+				
+					
+
+
+
+
+
+
+	

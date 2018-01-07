@@ -1,0 +1,154 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Blur and Sharpen:
+	_________________
+
+
+		_Box Blur: (Desenfoque de Cuadro)
+
+			_desenfoque general con opciones de iteraciones y dimensión
+
+
+
+		_Gaussian Blur: (Desenfoque Gaussiano Suave)
+
+			_desenfoque general más dimensión
+
+
+
+		_Fast Blur: (Desenfoque Rapido)
+
+			_desenfoque general con buena interpolación más dimensión y repetición de bordes
+
+
+
+		_Bilateral Blur: (Desenfoque Bilateral)
+			
+			_desenfoque de superficie con opción de desaturación
+
+
+
+		_Smart Blur: (Desenfoque Suavizado)
+
+			_desenfoque de superficie acentuado y avanzado
+
+			_más la posibilidad de hacer efectos de mapas de densidad y contornos blancos
+
+
+
+		_Radial Blur / Zoom:  (Desenfoque Radial)
+
+			_desenfoque radial y de tipo zoom
+
+
+
+		_CC Radial Blur: (Desenfoque radial CC)
+
+			_éste efecto nos permitirá crear desenfoques configurables a través, de un punto 
+
+			de partida ó central, éste efecto es similar al desenfoque direccional ó 
+
+			"Directional Blur", más el efecto de "Radial Blur", nos permite indicar un vortice 
+
+			a partir del cuál, se generará el desenfoque y también, la dirección la cuál, 
+
+			tomará dicho desenfoque
+
+
+
+		_CC Radial Fast Blur (Desenfoque rápido radial CC)
+
+			_desenfoque radial con más suavidad más orientado ha efectos
+
+			_éste también, tiene modos de trabajo con los brillo y sombras de la imágen
+
+			para hacer strands, ó estelas de luz u oscuridad
+
+
+
+		_CC Cross Blur: (Desenfoque cruzado CC)
+
+			_desenfoque direcciónal ó con dimensión independientes más modos de fusión
+
+			y la posibilidad de repetir bordes en el perímetro del canvas
+
+
+
+		_Directional Blur: (Desenfoque Direccional)
+
+			_desenfoque direccional por grados
+
+
+
+		_Channel Blur: (Desenfoque de Canal)
+
+			_desenfoque por canal más dimensión de dirección de desenfoque
+
+			y la posibilidad de repetir bordes en el perímetro del canvas
+
+
+
+		Compound Blur: (Componer Desenfoque)
+
+			_desenfoque a partir de una layer, auxiliar como mapa de densidad
+
+
+
+		Camara Lens Blur: (Desenfoque de Lente de Camara)
+
+			_desenfoque avanzado muliplanos a partir de una layer, auxiliar como mapa
+
+			de densidad y opciones avanzadas de con otros mapas auxiliares
+
+
+
+		_Unsharp Mask: (Mascara de Enfoque)
+
+			_acentuación del enfoque y sobre todo la creación de un [AO], Ambient Occlusion Map
+
+
+
+		_Sharpen: (Enfocar)
+
+			_aumento del enfoque a través, del aumento de contraste y por ende gamma y luminancia
+
+
+
+		_Reduce Interlace Flicker: (Reducir Parpadeo ENtrelazado)
+
+			_desenfoque para atenuar intermitencia de bordes paralelos en material de video
+
+
+
+		_CC Vector Blur:
+
+			_desenfoque sintético a través, de algoritmos para efectos especiales y procesos
+
+			así, como también, a través, de mapa de densidad auxiliares
+
+	
+
+
+
+

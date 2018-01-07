@@ -1,0 +1,144 @@
+
+
+
+AfterEffects Plugins Para Enviroment, Ilumination and Stage
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+--------------------------------------------------------------------------------------------------------
+
+BR_Ilumination_v1.01:
+_____________________
+
+
+
+	Descripción:
+	____________
+
+
+	_éste nos permite crear una pantalla ó screen, de lights, el cuál, podemos configurar para lograr
+
+	una atmósfera más envolvente ó luz  más suave "soft light", emulando así, "global ilumination"
+
+
+
+	Aplicación del Plugins:
+	_______________________
+
+
+	_primero debemos crear una layer "Solid", la cuál, hará de screen, donde se modularán la lights,
+
+	que determinemos para conformar la caja de luz
+
+
+	_éste solid, debemos ubicarlo según la lógica de la escena en el lugar donde desiemos proyectar
+
+	la luz, para ésto debemos activar sus propiedades 3d, éste solid, podemos renombrarlo ej "Screen"
+
+
+NOTE:	si vemos que seleccionando el "Solid/Screen", que hemos creado y luego seleccionamos el panel 
+
+	"BR_Ilumination_V1.01", éste no reacciona, tendremos entonces que cerrar éste y volverlo abrir
+
+	para que éste reaccione correctamente
+
+
+
+	BR_Ilumination_V1.01:
+	_____________________
+
+
+	_Light Spacing
+
+		_éste control nos permite indicar la cantidad de luces moduladas ej: (4x3), luces dentro
+
+		del marco del "Solid/Screen"
+
+
+	_Cast Shadow:
+
+		_ésta opción nos permite indicar si las luces a crear tendrán la opción "Cast Shadow",
+
+		activada
+
+
+	_Center & Stretch:
+
+		_Center & Stretch:
+
+			_modalidad de distribución de las luces "al centro y estiradas"
+
+
+		_Center:
+
+			_modalidad de distribución de las luces "al centro"
+
+
+		_Stretch:
+
+			_modalidad de distribución de las luces "estiradas"
+
+
+		_From Top Left:
+
+			_modalidad de distribución de las luces "al frente arriba y la izquierda"
+
+
+
+
+	_así, se crearán la cantidad de luces indicadas ej, "(6x4)", 24, luces, agregadas nuevas 
+
+	en el timeline, las cuales estarán conformadas dentro del espacio del "solid/screen"
+
+
+	_éstas luces nuevas creadas estarán bloqueadas, más es conveniente desbloquearlas y ocualtarlas
+
+	a través, de las opciones de "Layer Group2", u otros
+
+
+
+	Screen/Effects:
+	_______________
+
+
+	_al screen, que hemos creado para que éste sirva de proxi, se le agrarán los siguientes efectos
+
+	que nos permitirán controlar el sistema de caja de luz, éstos son:
+
+
+	_IL: Brightness:
+
+		_ésta opción nos permite incrementar la intensidad de la iluminación
+
+
+	_IL: Randomize / Seed:
+
+		_ésta opción nos permite hacer movimientos aleatorios sobre las luces que conforman
+
+		la caja de luz, ésto nos permite lograr una difusión random, de las luces y las sombras
+
+
+	_IL: Shadow Darkness / Diffusion:
+
+		_entre mayor sea el valor del "Point", de las sombras meyor y más suave serán las sobras
+
+		creadas por la iluminación sobre el motivo
+
+
+	_IL: Curvature:
+
+		_más aún podemos cambiar el efecto de iluminación y sobre la todo las de las sombras al
+
+		tener la posibilidad de arquear la caja de luz, ésto permitirá camiar la influencia de la
+
+		luz en sus diferenten puntos de salida de la luz, a través de las diferentes luces que lo
+
+		conforman
+
+
+		
+

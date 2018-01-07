@@ -1,0 +1,932 @@
+
+
+
+
+	Zaxwerks 3D Flags
+
+		Tutorial After Effects Plugins Zaxwerks
+			
+			https://www.youtube.com/watch?v=zWIn_mpk2NI
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Zaxwerks Warps:
+	_______________
+
+
+	_la serie de herramientas de "Zaxwerks Warps", se dividen en dos plugins, éstos son:
+
+
+		_3D Layer Warp
+
+		_3D Grid Warp
+
+
+	_que nos permitirán hacer deformaciones tridimensionales sobre layers, en el entorno 3d, del viewport
+
+	_éste nos permite crear literalmente banderas ó elementos 3d, como telas u elementos organicos del mismos 
+
+	tipo ó similares 
+
+
+
+	3D Gird Warps:
+	______________
+
+
+	_éste nos permitirá aplicarle deformaciones espaciales sobre una misma layer, la cuál, puede ser un sólido, 
+
+	imágen, video ó composición
+
+
+	_convirtiendo ésta en una layer 3d, en su propio espacio virtual ampliando las posibilidades 3d, de la
+
+	aplicación
+
+
+	_permitiéndonos la posibilidad de incluso poder aplicar hasta tres modificadores de distorción ó warp, con
+
+	diferentes propiedades y conbinaciones de distorción de la imágen para que así, podamos conseguir diferentes
+
+	efectos
+
+
+	_lo cuál, es especialmente útil para lograr entornos, ó enviroments, sets, planos especiales, otros, 
+
+	necesarios para los diferentes procesos de producción
+
+
+
+	Workflow:
+	_________
+
+	_para lo cuál, lo primero será tener creada una composición de trabajo así, como al menos una layer, sobre
+
+	la cuál, vamos ha aplicar el sistema
+
+
+	_también, es recomendable para la interacción con el entorno y escena, crear un nueva cámara y una nueva 
+
+	luz, las cuales podrán interactuar con el sistema resultante
+
+
+
+	3D Grid Warp:
+	_____________
+
+
+	NOTA: la diferencia de ésta versión con la versión del plugins, "3D Layer Warp", esencialmente es que ésta 
+
+	versión del plugins "3D Grid Layer", realiza lo mismo más con algunas variantes de configuración y la forma
+
+	de aplicación, pero en esencia se optienen los mismos resultados
+
+
+
+	_Effect Pressets:
+
+		_ésta opción nos permite seleccionar entre una serie de presets, de formas complejas las cuales
+
+		pueden ser útiles para cierto tipo de producciones
+
+
+		_éstos presets, son totalmente diferentes a los presets, de la versión del plugins, "3D Layer Warp"
+
+
+	_show gride grid:
+
+		_ésta opción nos permite visualizar el grid, del constructivismo de la forma generada ha modo
+
+		de grilla sobre la geometría 2d
+
+
+	_shape controls:
+
+		_éstas opciones nos permitirán configurar las dimensiones del sistema el cuál, no estará 
+
+		superditado al tamaño de las texturas de color difuso asignadas como en la versión del plugins,
+
+		"3D Layer Warp"
+
+
+		_left edge:
+
+			_ésta opción nos permitirá configurar la extensión del sistema hacia el borde izquierdo
+
+
+		_right edge:
+
+			_ésta opción nos permitirá configurar la extensión del sistema hacia el borde derecho
+
+
+		_top edge:
+
+			_ésta opción nos permitirá configurar la extensión del sistema hacia el borde superior
+
+
+		_bottom edge:
+
+			_ésta opción nos permitirá configurar la extensión del sistema hacia el borde inferior
+
+	
+	_draft geometric detail:
+
+		_ésta opción nos permite tener una visualización en el viewport, de la geometría ó forma 
+
+		resultante de una forma más simple ó con menos resolución ó con alta resolución en relación 
+
+		en relación a la complejidad de la escena respectiva y a la capacidad instalada de nuestro 
+
+		equipo
+
+
+		_ésta resolución de visualización en el viewport, estará expresada en valores logarítmicos 
+
+		que estarán expresados en valores a partir de "10x10", (ancho x alto), hasta "1000x1000"
+
+
+		_de ésta manera, si indicamos valores cercanos ha "10x10", tendremos una baja resolución 
+
+		poligonal en el viewport, lo que nos permitirá una rápida visualización para el proceso de 
+
+		edición y animación
+
+
+	_best geometric detail:
+
+		_ésta opción obedece al mismo principio que la opción anterior más ésta se refiere a la 
+
+		interpolación entre aristas en relación a la resolución indicada en el paso anterior
+
+
+		_entendiendo así, que ésta opción lo que hace es una interpolación ó suavizado entre los
+
+		pasos medios para lograr más resolución visualmente
+
+
+	_draft mode speed up:
+
+		_ésta opción agiliza el proceso de visualización en el modo de baja resolución así, en 
+
+		ésta opción es recomendable colocar un valor bajo entre "0-1", para aumentar el rendimiento
+
+
+	_transform:
+
+		_éstas opciones nos permitirán ajustar y controlar el sistema dentro del espacio 3d, en el 
+
+		viewport, y en la escena a través, de diferentes controles y parámetros
+
+
+		_centering:
+
+			_ésta opción nos seleccionar entre una serie de opciones de donde el sistema tomará
+
+			referencia para generar su propio "pivot", ó punto de anclaje, entre los cuales 
+
+			dispondremos de los siguientes:
+
+
+				_recenter pivot:
+
+					_ésta opción le permitirá al sistema colocar el pivot, en relación al
+
+					cálculo de la dimensión, tamaño ó extensión del sistema ó modelo así,
+
+					si ésta cambia de tamaño el sistema podrá recalcular un punto medio 
+
+					de equilibrio para colocar el pivot
+
+
+				_recenter object:
+
+					_ésta opción le permitirá al sistema colocar el pivot, del sistema en 
+
+					en relación a las dimensiones del sistema y proporción con el canvas
+
+					ó escena ó composición
+
+
+				_reset transform:
+
+					_ésta opción nos permitirá hacer "freeze", sobre todas las propiedades
+
+					de transformación expresadas a continuación lo que le permitirá al 
+
+					sistema resear todos sus atributos de transformación y colocarse en el
+
+					centro del viewport
+
+
+		_track 3D layer:
+
+			_ésta opción nos permite emparentar el sistema con otra la cuál, la cuál, hará de punto de
+			
+			anclaje permitiéndonos así, la posibilidad de poder animar el sistema de forma colateral
+
+			a través, de otra layer, aumentado así las posibilidades del sistema
+
+
+		_rotation order:
+
+			_ésta opción nos permite indicar al sistema la orientación de las cordenadas, de ésta manera,
+
+			podremos variar el sistema de cordenadas para que así, el sistema pueda emular otro sistema
+
+			de otra layer, ó sistema de simulación diferente al de éste plugins "3D layer Warp"
+
+
+		_center:
+
+			_(Indeterminado)
+
+
+		_position:
+
+			_éstas opciones nos permitirán mover el sistema de forma controlada en el viewport, y escena 
+
+			a través, de cordenadas específicas "X,Y,Z", de forma precisa
+
+
+		_scale:
+
+			_éstas opciones nos permitirán escalar el sistema de forma controlada en el viewport, y 
+
+			escena a través, de cordenadas específicas "X,Y,Z", de forma precisa
+
+
+	_line controls:
+
+		_ésta versión del plugins "3D Grid Warp", cuenta con un apartado para la edición control de las 
+
+		líneas guías, lo cuál, no dispone de éste la versión del plugins "3D Layer Warp"
+
+
+		_line layout:
+
+			_grid paper:
+
+				_ésta opción creará un sistema de referencia cuadriculado para la mayorias de
+
+				referencias más estándares
+
+
+			_radial circles:
+
+				_ésta opción creará un sistema de referencia de circulos concéntricos orientados
+
+				al centro del sistema
+
+
+			_radial squares:
+
+				_ésta opción creará un sistema de referencia de cuadrados concéntricos orientados
+
+				al centro del sistema
+
+			
+			_radial triangles:
+
+				_ésta opción creará un sistema de referencia de triángulos concéntricos orientados
+
+				al centro del sistema
+
+
+		_h line width:
+
+			_ésta opción nos permitirá graduar el ancho ó grosor de las líneas de referencia
+
+			en el eje vertical
+
+
+
+		_h line spacing:
+
+			_ésta opción controlará el espaciado entre las aristas del sistema de guias de referencia
+
+			en el eje horizontal
+
+
+		_h line center:
+
+			_ésta opcion nos permitirá cambiar el punto central donde convergerá todo el sistema de
+
+			líneas de referencia en el eje horizontal
+
+
+		_h phase shift:
+
+			_ésta opción nos permitirá desplazar ó desfazar el sistema en el eje horizontal 
+
+			permitiéndonos personalizar el sistema al motivo de forma más precisa
+
+			
+		_v line width:
+
+			_ésta opción nos permitirá graduar el ancho ó grosor de las líneas de referencia
+
+			en el eje horizontal
+
+		
+		_v line spacing:
+
+			_ésta opción controlará el espaciado entre las aristas del sistema de guias de referencia
+
+			en el eje vertical
+
+
+		_v line center:
+
+			_ésta opcion nos permitirá cambiar el punto central donde convergerá todo el sistema de
+
+			líneas de referencia en el eje vertical
+
+
+		_v phase shift:
+
+			_ésta opción nos permitirá desplazar ó desfazar el sistema en el eje vertical
+
+			permitiéndonos personalizar el sistema al motivo de forma más precisa
+
+
+		_line rotation:
+
+			_
+
+
+	_color controls:
+
+		_éstas opciones nos permitirán texturizar el sistema de forma personalizada así como también, 
+
+		indicar el tipo de mapas ha incorporar en el sistema para lograr un mayor realismo
+
+
+		_color map:
+
+			_ésta opción nos permitirá indicar un mapa de textura personalizado para el sistema para
+
+			su cara superior, éste mapa puede ser una layer, de tipo imágen ó una composición
+
+
+		_backfacing color map:
+
+			_ésta opción es idéntica a la opción anterior más en ésta opción podremos indicar un mapa 
+
+			de textura para la parte posterior y no anterior
+
+
+		_material shading:
+
+			_en ésta opción podremos indicarle al sisteme como resolvera el material de difusión así,
+
+			éste puede tener los siguientes comportamientos:
+
+
+				_absolute:
+
+					_ésta opción representará al material de textura difusa con una iluminación 
+
+					uniforme sin decaimiento y casi plana
+
+
+				_shaded:
+
+					_ésta opción representará al material de textura de "normal", ó con una
+
+					iluminación con decaimiento normal
+
+
+				_shaded with highlights:
+
+					_ésta opción representará el material de textura con una iluminación con
+
+					decaimiento más con reflejos especulares selectivos
+
+
+		_line visibility:
+
+			_ésta opción nos permite indicarle al sistema si deseamos que todas las líneas sean visubles
+
+			ó si sólo deseamos que las verticales u horizontales sena visibles en el viewport
+
+
+		_h line color:
+
+			_ésta opción nos permite indicar un color personalizado para las líneas horizontales del
+
+			sistema
+
+
+		_h line opacity:
+
+			_ésta opción nos permite indicarle al sistema un valor ó rango de opacidad para representar
+
+			el sistema en el eje horizontal
+
+
+		_v line color:
+
+			_ésta opción nos permite indicar un color personalizado para las líneas verticales del
+
+			sistema
+
+
+		_v line opacity:
+
+			_ésta opción nos permite indicarle al sistema un valor ó rango de opacidad para representar
+
+			el sistema en el eje vertical
+
+
+		_fill color:
+
+			_ésta opció nos permite indicar un color de relleno ó de fondo, función especialmente útil
+
+			para cuando estamos configurando el sistema sin haberle aplicado una textura de material
+
+			difuso ó "from/back"
+
+
+		_fill opacity:
+
+			_ésta opción nos permite indicarle un valor ó rango de opacidad para el color de relleno
+
+			asignado en el paso anterior
+
+
+		_reflection map:
+
+			_ésta opción nos permite indicarle al sistema un mapa personalizado para las reflexiones 
+
+			las cuales debemos aplicarlas en el paso siguiente
+
+			_ésta textura puede ser una layer, de tipo imágen ó composición
+
+
+		_reflectivity:
+
+			_en ésta opción podemos indicarle al sistema la cantidad de reflectividad sobre el 
+
+			sistema, ésta opción de reflectividad requiere una imágen personalizada en el paso 
+
+			anterior para su activación ó funcionamiento
+
+
+		_highlight sharpness:
+
+			_ésta opción nos permite concentrar ó hacer más selectiva las áreas con reflexión 
+
+			configurada en los dos pasos anteriores así, con valores cercanos ha "100", la 
+
+			reflexión será más concentrada y visible y con valores cercanos ha "0", la reflexión
+
+			será más dispersa y menos apreciable
+
+
+		_highlight brighness:
+
+			_ésta opción nos permite indicarle al sistema cuando brillo ó intensidad tendrán las
+
+			áreas con especularidad y reflexión, sean éstas áreas concentradas ó dispersas
+
+
+			_así, con valores cercanos ha "100", la intensidad será mayor y con valores cercanos 
+
+			ha "0", la intensidad será menor
+
+
+		_invisible front faces:
+
+			_ésta opción nos permite desactivar ó eliminar la representación de la cara frontal 
+
+			del sistema, ésto nos permite ahorrar recursos para ciertos tipos de producción en 
+
+			los cuales sólo se verá una de las dos caras y no ambas en el proceso de simulación 
+
+			y animación
+
+
+		_invisible back faces:
+
+			_ésta opción nos permite desactivar ó eliminar la representación de la cara 
+
+			posteiror del sistema, ésto nos permite ahorrar recursos para ciertos tipos de 
+
+			producción en los cuales sólo se verá una de las dos caras y no ambas en el 
+
+			proceso de simulación y animación 
+
+
+		_backfacing maps use:
+
+			_(Indeterminado)
+
+
+	_displacement controls:
+
+		_éstas opciones nos permites hacer variaciones de distorción sobre el sistema, y en poca
+
+		medida el efecto "Bump Map", a través, de diferentes parámetros y controles
+
+
+		_displacement map:
+
+			_ésta opción nos permite indicarle al sistema una layer, de tipo imágen ó 
+
+			composición para que haga de textura de desplazamiento sobre el sistema
+
+
+		displacement amount:
+
+			_ésta opción nos permite indicar la cantidad de desplazamiento ó distorción 
+
+			aplicado al sistema, donde valores cercanos ha "0", no hará desplazamiento y
+
+			valores cercanos ha "100", harán el mayor efecto de desplazamineto sobre el
+
+			sistema
+
+
+		_displacement offset:
+
+			_ésta opción permite incrementar el efecto del paso anterior con los mismos
+
+			criterios de acción que el paso anterior
+
+
+		_displacement smoothne:
+
+			_ésta opción nos permite aplicar un suavizado a las opciones de los dos pasos
+
+			anteriores aplicando los mismos criterios de acción para nos obtener así, 
+
+			resultados tan bruscos 
+
+
+		_displacement channel:
+
+			_ésta opción nos permite indicarle al sistema que filtre entre los canales
+
+			"R,G,B,A", de la layer, de textura que le hemos indicado al sistema que utilice
+
+			para el proceso de desplazamiento
+
+
+		_make back pixels trans:
+
+			_ésta opción nos permite indicarle al sistema que si la layer, que le hemos 
+
+			indicado al sistema que utilice para el proceso de desplazamiento tiene "Alpha",
+
+			ó pixeles transparentes, entonces éstos pixeles transparentes no los utilice para
+		
+			el proceso de desplazamiento si no que los descarte para éste proceso
+
+
+		_black pixel telerance:
+
+			_ésta opción nos permite indicarle al sistema el umbral de pixeles transparentes ha
+
+			contemplar para el sistema en la layer, indicada para el proceso de desplazamiento,
+
+			a través, de los mismos criterios de acción de "0-100"
+
+
+		_black pixel controls:
+
+			_
+
+
+	_use ripple controls:
+
+		_éstas opciones nos permiten activar para el sistema las opciones de distorción por ondas ó 
+
+		ripple, la cuál, podremos ajustar a través, de los expresados más abajo
+
+
+	_num waves:
+
+		_ésta opción nos permite indicarle al sistema la cantidad de de ondas permitiras para el 
+
+		sistema para las distorción por ondas
+
+
+	_nun fade waves:
+
+		_ésta opción nos permite indicarle al sistema la interpolación de la distorción de ondas en
+
+		relación a la cantidad de ondas determninadas en el paso anteiror
+
+	
+	_warp 1,2,3:
+
+		_éstas opciones nos permiten indicarle al sistema el tipo y la cantidad de distorción 
+
+		acumulada en el sistema a través, de disferentes controles y parámetros
+
+
+		_ésto es posible a través, de hasta tres distorcionadores los cuales podremos aplicar
+
+		de forma acumulativa uno tras de otros con diferentes configuraciones de distorción para
+
+		cada uno de éstos permitiéndonos así lograr efectos complejos
+
+
+		_warp style:
+
+			_ésta opción nos permite seleccionar un tipo de distorción base para un respectivo
+
+			distorcionador ó "Warp", de los tres disponibles
+
+
+			_entre los tipos de distorcionares disponibles tenemos los siguientes:
+
+
+				_none:
+
+					_ésta desactiva éste warp, para el sistema
+
+
+				_bend from center:
+
+					_ésta opción realiza una distorción de tipo "enrollado", como 
+
+					enrrollar un papel pergamino
+
+
+				_bend one side:
+
+					_ésta opción realiza una distorción de tipo "dobles", en uno de
+
+					los lados del sistema manteniendo el otro lado rígido a través,
+
+					de límites y controles
+
+
+				_fold from center:
+
+					_ésta opción realiza una distorción de tipo "vizagra", partiendo
+
+					el sistema en donde ambas partes se doblan al unísono
+
+
+				_fold one side:
+
+					_ésta opción es muy similar ha la opción de "bend one side", más 
+
+					éstas opción tiene un comportamiento más rigido como una vizagras
+
+					con uno de los dos lados fijos como fijada ha una pared
+
+
+				_twist form center:
+
+					_ésta opción realiza una distorción ha modo de "espiral", ó 
+
+					tornillo de progresiva
+
+
+				_twist one side:
+
+					_ésta opción es idéntica a la anterior más ésta opción retiene uno
+
+					de los extremos de manera intacta a través, de limitadores y 
+
+					parámetros
+
+
+				_bulge:
+
+					_ésta opción realiza una distorción ha modo de "inflado", positivo
+
+					ó negativo sobre un área del sistema a través, de limitadores y 
+
+					parámetros
+
+
+				_hump:
+
+					_ésta opción realiza una distorción de tipo "desface", de una parte
+
+					determinada del sistema a través, de limitadores y parámetros, 
+
+					permitiéndo así, poder desplazar en un sentido un área del sistema 
+
+					permaneciendo la demás parte del sistema de forma intacta
+
+
+				_flatten:
+
+					_ésta opción realiza una distorción de tipo "torción", de una parte
+
+					determinada del sistema a través, de limitadores y parámetros, es 
+
+					una versión limitada de "twist"
+
+
+				_taper:
+
+					_ésta opción realiza una distorción de tipo "desface", ó "hump",
+
+					aunque más limitada en su acción
+
+
+				_linear wave:
+
+					_ésta opción realiza una distorción de tipo "honda", pero en la 
+
+					práctica es más la aplicación de arrugas de papel sobre todo el 
+
+					sistema
+
+
+				_radial wave:
+
+					_ésta opción realiza una distorción idéntica a la anterior más
+
+					ésta tiene un comportamiento circular ó concentrico
+
+
+				_spherify:
+
+					_ésta opción realiza una distorción de tipo "esfera", y en la 
+
+					práctica trata de esferizar la superficie del sistema logrando
+
+					efectos de tipo concha ha esfera a través, de limitadores y 
+
+					parámetros
+
+		_warp axis:
+
+			_ésta opción es muy importante ya que es la que permite seleccionar la cordenada
+
+			de trabajo para la distorción
+
+			_hay que tener en cuenta que sólo se puede activar una sóla cordenada de trabajo
+
+			para el sistema de distorción
+
+
+		_apply warp:
+
+			_ésta opción es también, de gran importancia ya que permite indicarle al sistema
+
+			el tipo de plano de acción de cordenadas así, éste podrá ser "local", limitado a
+
+			posición relativa del sistema ó "global", las cordenadas de referencia del sistema
+
+			de la composición y del viewport
+
+
+		_warp amount:
+
+			_ésta opción nos permite indicarle al sistema la cantidad de distorción ha aplicar
+
+			sobre el sistema en relación al tipo de distorcionados seleccionado
+
+			_aplicando la distorción en valor y rango que van desde "0-100"
+
+
+		_warp limits:
+
+			_ésta opción ejerce limitación en la longitud de acción de los deformadores sobre
+
+			la superficie del sistema, de ésta manera, podremos graduar la acción ó alcance
+
+			de los deformadores sobre parte parcial ó total sobre el sistema
+
+			_aplicando limitación en valor y rango que van desde "0-100"
+
+
+		_limit smoothing:
+
+			_así, como también, al paso anterior podremos también, aplicar un parámetro de
+
+			suavizado con los mismos parámetro de acción de "0-100", logrando así, efectos
+
+			más suavizados
+
+
+		_X,Y,Z warp center:
+
+			_ésta opción nos permite cambiar la dirección ó centro de la parte más afectada
+
+			por un deformador así, podremos hacer ajustes sobre la forma y aspecto de la 
+
+			distorción resultante sobre el sistema
+
+
+		_warp direction:
+
+			_(indeterminado)
+
+
+		_warp rotation:
+
+			_ésta opción va de la mano con la opción de "X,Y,Z warp center", y aplica en la
+
+			práctiva en el sentido contrario de la acción pero con el mismo principio y 
+
+			aplicación práctiva
+
+
+		_warp lengh:
+
+			_(indeterminado)
+
+
+		_wave propagation:
+
+			_(indeterminado)
+
+
+		_spherify with:
+
+			_(indeterminado)
+
+
+		_spherify height:
+
+			_(indeterminado)
+
+
+		_show limits (draft mod):
+
+			_(indeterminado)
+
+
+	_camara & lights:
+
+		_éstas opciones nos permitirán integrar al sistema la interacción a través, de cámaras y
+
+		luces existentes en la composición
+
+
+		_light 1,2 color:
+
+			_ésta opción nos permite cambiar el matiz ó color de la luz, ésta opción sólo 
+
+			estará disponible cuando la opción de "use Comps Lights", está desactivada, así
+
+			como las demás opciones de iluminación seguidas a continuación
+
+
+		_light 1,2 intensity:
+
+			_ésta opción nos permite variar la intensidad de la iluminación generada por el
+
+			sistema, con valores en rango de "0-100"
+
+
+		_light 1,2 direction:
+
+			_ésta opción nos permite variar ó ajustar la dirección de donde proviene la luz,
+
+			variando la proyección del área iluminada y el área en penumbra del sistema
+
+
+		_light 1,2 elevation:
+
+			_ésta opción nos permite subir ó bajar la fuente de luz, de ésta manera, podremos
+
+			cambiar la perspectiva ó plano de donde proviene la iluminación
+
+
+		_shadow catcher plane:
+		
+			_ésta opción nos permite indicarle al sistema de plano en el cuál, proyectar las
+
+			sombras generadas sobre el sistema y su vez, ahora proyectadas sobre éste 
+
+			respectivo plano a través, de ésta layer, que le indicamos
+
+
+			_(probar funcionamiento)
+
+
+	_preferences:
+
+		_motion blur passes:
+
+			_ésta opción mejorar el renderizado ya que logra efectos más naturales al tener
+
+			una mayor rango de desenfoque de movimiento nativo del sistema, por lo general
+
+			biene con un valor por defecto de "8"
+
+
+	_online documentation:
+
+		_ésta opción nos llega ha un enlace remoto del fabricante en el cuál, podremos encontrar
+
+		información y documentación del sistema demás productos del fabricante
+
+
+
+
+

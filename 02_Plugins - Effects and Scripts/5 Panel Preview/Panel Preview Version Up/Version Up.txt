@@ -1,0 +1,106 @@
+
+
+http://aescripts.com/versionup/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/Version Up:
+
+
+
+	_éste permite organizar el orden y cargado de las versiones de una archivo así, como también, variantes
+
+	de éste ó secuencias del mismo ej, para diferentes productos de un mismo cliente los cuales podrían 
+
+	cambiar en el tiempo a modo de plantilla para hacer varias animaciones con éstos sólo variando el producto
+
+	intermpretado dentro del timeline, otros
+
+
+	Workflow:
+	_________
+
+
+	_para ésto, debemos guardar ó renombrar los archivos con una nomenclatura ordenada, ej:
+
+
+		"tumb_v001.jpg"
+
+		"tumb_v002.jpg"
+
+		"tumb_v003.jpg"
+
+		"tumb_v004.jpg"
+
+
+	_de ésta manera el interprete del sistema podra percatarse de que son nuevas instancias disponibles del mismo
+
+	archivos que se han guardado como versiones más actuales de éste
+
+
+	_así, al importar una de éstas imágenes je; "tumb_v001.jpg", como footage, al panel de proyectos de after effects, 
+
+	para luego incorporar ésta dentro del tiemeline, podremos posteriormente intercambiar ésta imágen por cualquier
+
+	otra de las que esté disponible en la misma ruta de la inicial con tan sólo hacer uso de las flechas ó arrows, del
+
+	panel "Version Up"
+
+
+	_y de ésta manera automáticamente las imagenes se actualizarán de forma inmediata e interactiva
+
+
+
+	Shortcuts:
+	__________
+
+
+	_más también, el sistema cuenta con una serie de shortucts, a través, de los archivos ubicados en: 
+
+
+		C:\Program Files\Adobe\Adobe After Effects CC 2014\Support Files\Scripts\ScriptUI Panels\versionUp_noUI 
+
+
+	los cuales podremos configurar para crear propiamente accesos directos de éstos
+
+
+		_versionUp_noUI_down.jsxbin
+
+		_versionUp_noUI_downLetter.jsxbin
+
+		_versionUp_noUI_downMaximum.jsxbin
+
+		_versionUp_noUI_settings.jsxbin
+
+		_versionUp_noUI_up.jsxbin
+
+		_versionUp_noUI_upLetter.jsxbin
+
+		_versionUp_noUI_upMaximum.jsxbin
+
+
+	_para ésto, debemos copiar éstos escripts, fuera de la carpeta "ScriptUI", dentro de la estructura de archivos de
+
+	after effects, para que así, éstos archivos de plugins, queden dentro de la carpeta de "Scripts", de after effects,
+
+	para que así, éstos se ejecuten directamente cuando éstos sean llamados y no traten de ejecutarse dentro de una ventana
+
+	contextual como parte de la interface, de after effects
+
+
+
+	_para posteriormente hacer uso del script, "ft-toolbar2", y llamarlos a través, de accesos directos
+
+
+	_de ésta manera podremos tener acceso incluso ahora ha comando más avanzados ó específicos como ir no sólo a la siguiente
+
+	versión existente si no a la última por ejemplo entre otras opciones disponibles
+
+
+
+
+

@@ -1,0 +1,77 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+		https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá agregar efectos de retardo y repetición del audio de forma secuencial lo cuál, es 
+
+	especialmente útil para acentuar situaciones y crear atmósferas dentro de un escena así, como también, para
+
+	emular espacios ámplios, otros
+
+
+
+	Formatos:
+	_________
+
+	_los formatos más comúnes para el trabajo con audio son los siguientes en after effects:
+
+
+		_Mp3:
+
+			_éste es el formato más común y generalizado para la edición e intercambio de archivos de
+
+			audio
+
+
+		_Wav:
+
+			_éste es uno de los formatos más comúnes en el procesado e intercambio de archivos de audio
+
+
+
+	Delay:
+	______
+
+	_Dela Time (Miliseconds):
+
+		_ésta opción nos permitirá indicar los intervalos en milisegundos a través, de los cuáles, se creará
+
+		el efectos de delay, ó retardo y modulación del audio
+
+
+	_Delay Amount:
+
+		_ésta opción nos permitirá indicar la cantidad de audio bajo el efecto de delay
+
+
+	_Feedback:
+
+		_ésta opción nos permitirá indicar la cantidad de modulación ó reververancia del audio
+
+
+	_Dray Out:
+		
+		_(Indeterminado)
+
+
+	_Wet Out:
+
+		_(Indeterminado)
+
+
+
+

@@ -1,0 +1,132 @@
+
+
+http://aescripts.com/leemsanimationtools/#/discussion/embed
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Express / Leem's Animation Tools 2
+
+
+	Leem's Animation Tools 2:
+
+
+	-este nos brinda una serie de herramientas para realizar diferentes procesos del rigging, de un character,
+
+	en sus diferentes facetas de producción
+
+
+	_éstas herramientas las tendremos divididas en paneles ó secciones las cuales cumplen diferentes funciones
+
+	en el tiempo y en diferentes procesos de workflow
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener una composición de trabajo creada así, como también, las layers, que conforman 
+
+	las diferentes partes del character
+
+
+
+	Pin To Parent:
+	
+	_ésta modalidad nos permite hacer un rig, de una composición de layer, pertenecientes a la lógica y cinemática
+
+	de un character, ej; un brazon ó un arm, las layer, deben estar agrupadas y emparentadas en relación a la lógica
+
+	y cinemática del character, así, como también, precompuestas bajo los mismos criterios
+
+
+	_ésto es posible a través, por medio de la herramienta "Puppet Pin", shortcut "Control + P", ó titere, nativa de 
+
+	after effects, a través, y es por medio de éstos controles que el sistema de "Leems Animation Tools", podrá 
+
+	generar un sistema completo de rigging, del character, respectivo
+
+
+	_para lo cuál, lo primero será seleccionar la layer, base del character, ha deformar por el sistema y con ésta 
+
+	seleccionada debemos activar la herramienta puppet pin, y comenzar ha generar los pines, en las articulaciones del 
+
+	character, ya que éstos pines será los que tomará el sistema para generar el rig
+
+
+	_para ésto, lo primero es activar la herramienta de "Puppet Tool", a través, del shortcut "Control + P", e ir 
+
+	haciendo "pins", en las articulaciones claves, ej, en el "shoulder", u hombro "elbow", ó codo, en el "hand", ó mano,
+
+	en el "finger", ó extremo de los dedos
+
+
+	_para luego, seleccionar nuevamente la layer, base del character y desplegar el efecto generado ha ésta de la herramienta
+
+	de puppet pin, shortcut "ee", para de ésta manera, seleccionar el efecto generado
+
+
+	_y con el efecto seleccionado ir al panel "Leem's Animation Tools/", a la sección de "Pin To Parent", y configurar las 
+
+	siguientes características:
+
+
+		_Prefix:
+
+			_ésta opción nos permite indicar el nombre que se les asignará a las layers, de ayuda generadas por el sistema
+
+
+		_Sufix:
+
+			_ésta opción nos permnite indicar el prefijo que precederá al nombre que se les asignará a las layers, de ayuda 
+
+			generadas por el sistema
+
+
+		_Null Size:
+
+			_éste es un slider, que nos permitirá indicar el tamaño que tendrán las layers, de ayuda de tipo null object, 
+
+			es recomendable tamaño de entre de "200"
+
+
+		_Color Tag:
+
+			_ésta opción nos permite indicar el color que tendrán asignadas las layers, de ayuda generadas por el sistema
+
+
+		_Create:
+
+			_éste botón nos permitirá generar el sistema de rigging, de forma automática
+
+
+			_de ésta manera, se generará una layer, de tipo null object, por cada "pin",
+
+			creado previamente respectivamente como punto de control de ayuda ó handle
+
+
+			_luego, es conveniente renombrar éstas layers, de ayuda generadas con los
+
+			mismos nonbres que hemos utilizado ej; "shoulder,elbow,handle,finger", para
+
+			tener así, una mayor lógica de las layers, en el timeline
+
+
+	de ésta manera podremos que ahora podremos controlar el character, a través, de las layers, nulls, de forma mucho más práctiva
+
+	y en relación a la cinemática del character, y no a través, de los puppet pines
+
+
+	_el sistema crea un sistema de rig, base al cuál, podremos incrementar ó haciendo un rigging, más completo ó ámplio, por ejemplo;
+
+	podríamos emparentar el handle, de "finger", con el handle, del "hand", y así, con el siguiente del "elbow", y por último con el 
+
+	de el "shoulder", de ésta manera podríamos obtener un rig, con kinemática más avanzado
+
+
+

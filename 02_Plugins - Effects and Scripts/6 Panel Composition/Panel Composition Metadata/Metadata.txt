@@ -1,0 +1,18 @@
+
+
+ventana nativa de after effects
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Metadata
+
+
+	Metadata:
+
+
+	_este nos permite ver y crear metadata ha un proyecto y composiciones en after effects
+		

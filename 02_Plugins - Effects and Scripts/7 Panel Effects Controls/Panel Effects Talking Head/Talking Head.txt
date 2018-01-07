@@ -1,0 +1,267 @@
+
+
+http://aescripts.com/talking-head/#/discussion/embed
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Talking Head
+
+
+	Talking Head:
+
+
+	-este nos permite cinemáticas completas de faces, ó rostros de un character, ésta es bastante completa 
+
+	y práctiva especialmente para lograr animaciones detalladas y grandes rasgos de en fonética y expresión 
+
+	facial, otros
+
+
+	_así, como también, crea un rig, automático y soporta un workflow regular de rigging, adicional 
+
+	(no incluido por el sistema)
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener un composición de trabajo así, como todo el rostro del character, editado en 
+
+	algún programa de pixeles ó vectorial, tanto las layer, de su conformación base como las layers, de sus
+
+	diferentes estados y expresiones alternativas, es altamente conveniente tener todo éste material en layers,
+
+	diferentes al momento de importar éste archivo dentro de after effects, así, como correctamente renombradas
+
+	éstas layers, para que así, tengamos un mejor flujo de trabajo dentro de after effects
+
+
+	_el sistema de "Talking Head", soporta los siguientes controles mínimos:
+
+
+		_Eye Left (escelrótica)
+
+		_Eye Right (escelrótica)
+
+		_Pupil Left (pupila)
+
+		_Pupil Right (pupila)
+
+		_Eyebrow Left (ceja)
+
+		_Eyebrow Right (ceja)
+
+		_Face (rostro base)
+
+		_Jaw (mandíbula)
+
+		_Mouth Open (labios entre abiertos)
+
+		_Mouth Closed (labios cerrados ó contraidos)
+
+
+
+	_para luego importar éste archivo como una composició de trabajo dentro de after effects
+
+
+
+	Relacionamiento:
+
+	_ahora tenemos que relacionar todas las layers, que hemos creado con cada una de las partes del sistema
+
+	siguiendo la lógica del character, por ejemplo, la layer, del "ojo derecho", debe ser relacionada con el 
+
+	botón del ojo derecho del panel "Eye Right", y así, secesivamente con el resto de layers, requeridas por 
+
+	el panel
+
+
+	_de ésta manera, al agregar la primera layer, al sistema se le agregará una nueva layer, de tipo null object,
+
+	llamada "Talking Head Controls", la cuál, dispondrá de serie de efectos correspondientes a todos los controles 
+
+	posibles por el sistema para que de acuerdo con la layer, y la lógica del character, y su cinemática hagamos 
+
+	las emulaciones deseadas
+
+
+	_al agregar las layers, correcpondientes al "mouth", ó labios, en sus estados "open/Closed", cada uno de 
+
+	éstos estados puede estar conformado por varias layers, cada uno de éstos si así, lo deseamos para hacer
+
+	animaciones más completas y con una mejor articulación fonética y cinemática, para lo cuál, importará el 
+
+	orden en el cuál, seleccionemos las layer, para cada uno de los estados, ej, si el estado del mouth/open,
+
+	estará conformado de tre layers, tendré que primero ir seleccionando una ha una éstas layers, según su lógica
+
+	y con éstas seleccionadas ir al panel "Talking Head", y hacer "Mouth/Open", y así, mismo debemos repetir éstos
+
+	pasos para el "Mouth/Closed", 
+
+
+	_y para cuando utilicemos ésta opción debemos activar en los efectos de la layer, "Talking Head Controls", la 
+
+	opción del efecto "Link Mouth Shape to Volumen", para que así, el sistema active ésta modalidad de transiciones 
+
+	entre estados de los labios ó mouth	
+
+
+	NOTA: si algún elemento es conformado por más de una layer, por ej, la mandúbula, si ésta está conformada por	
+
+	dos layer, tendrán que ser seleccionadas ambas layers, y con éstas selccioanadas ir al panel y "Talking Head",
+
+	y hacer "Jaw", para que así, ambas layers, sean registradas en el sistema como una sola
+
+
+
+	Rigging:
+
+	_el relacionamiento de layers, se realizará de forma automática el cargar todas las layers, al sistema más las
+
+	layers, adicionales que no contemple el sistema tendrán que ser relacionadas de forma manual a la raíz, principal
+
+	del sistema ó rig
+
+
+	
+	Sistema:
+
+	_de ésta manera, el sistema nos ofrece los siguientes controles y parámetros:
+
+
+
+		Audio Amplitude:
+
+			_ésta opción nos permite controlar la cinemática y fonética del habla de forma automática
+
+			a través, de una conversión de una layer, de audio ha una layer, de amplitud de autio 
+
+			(ver tutorial para más detalles), de ésta manera el habla estará controlada por los picos
+
+			de audio más altos y más bajos
+
+
+			_para lo cuál, haremos mouse right click, sobre la layer, de audio y seleccionaremos la 
+
+			opción de "Keyframe Assistant/Convert Audio to Keyframes", para que así, obtener una nueva
+
+			layer, proxi, con la amplitud del audio ha utilizar por el sistema de forma automática 
+
+			cuando el sistema detecte ésta
+
+
+		Mouth Open Threshold:
+
+			_ésta opción es un suiche, que determina si los labios estarán abiertos ó cerrados, 
+
+			intercambiando valores en "0/1"
+
+
+		Link Mouth Shape to Volumen:
+
+			_ésta es una opción avanzada y permite hacer transiciones entre diferentes estados de la
+
+			boca de un character, en una determinada posición, por ej, permite hacer transiciones de
+
+			estados entre la boca cuendo está abierta y cuando está cerrada y sus diferentes procesos
+
+			de articulación como pasos medios
+
+
+		Mouth Open Count:
+
+			_ésta opción estará controlada por el sistma y el factor de animación por audio ó manual
+
+
+		Mouth Scale Factor:
+
+			_función indeterminada por nosotros
+
+
+		Mouth Shape Open:
+
+			_ésta opción estará controlada por el sistma y el factor de animación por audio ó manual
+
+
+
+		Mouth Shape Closed:
+
+			_ésta opción estará controlada por el sistma y el factor de animación por audio ó manual
+
+
+		Jaw Scale Factor:
+
+			_función indeterminada por nosotros
+
+
+		Look Direction:
+
+			_ésta opción nos permite controlar hacia donde mirarán los ojos, ésta es un control 
+
+			dinámico el cuál, podremos controlar a través, de un punto variable y animable
+
+
+		Look Skew:
+
+			_ésta opción nos permite hacer efecto de ojos biscos y es un control totalmente animable y
+
+			ajustable así, como animable
+
+
+		Blink Interval:
+
+			_ésta opción nos permite controlar el intervalo de parpadeo de los ojos, por defecto biene
+	
+			en un intervalo de parpadeo de dos segundos
+
+
+
+		Blink Spped:
+
+			_ésta opción nos permite controlar la velocidad del parpadeo de los ojos
+
+
+		Squint:
+
+			_ésta opción nos permite configurar el factor de estrabismo ó cuán abiertos ó cerrados 
+
+			tendrá el character, los ojo
+
+
+		Squint offset:
+
+			_ésta opción nos permite configurar un desface entre lo abiertos ó cerrados de los ojos de
+
+			forma individual
+
+
+		Eyebrows Tilt:
+
+			_ésta opción nos permite fungir las cejas ó partir el ceño, ó hacer el efecto contrario
+
+
+		Eyebrows Raise:
+
+			_ésta opción nos permite subir ó bajar el conjunto de las cejas
+
+
+		Eyebrows Offset:
+
+			_ésta opción nos permite subir una ceja, en desface de la otra
+
+
+		Eyebrows Pinch:
+
+			_ésta opción nos permite separar ó juntar las cejas de forma equidistante
+
+
+
+

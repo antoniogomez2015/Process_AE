@@ -1,0 +1,622 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_tendremos la posibilidad de utilizar éste efecto para tres propósitos comúnes, el primero es revelar las
+
+	demás layers, de la composición que estén por debajo de la layer, sobre la cuál, hemos aplicado el efecto
+
+
+	_como segundo propósito, podremos utilizar éste efecto para revelar una layer, configurada para que ésta
+
+	sea revelada como reverso de los fragmentos del efecto, de ésta manera, en el avance de la transición se
+
+	irá ocultando la layer, base y se irá revelando la layer, de reverso
+
+
+	_y como tercer propósito, podremos utilizar éste efecto para la generación de mósulo, mattes, mapas de 
+
+	luminancia entre otras posibilidades de producción y paso contínuo
+
+
+	_Este efecto simula un grupo de tarjetas que muestra una imagen y que después se voltean para mostrar otra 
+
+	imagen. 
+
+
+	_El efecto Barrido de tarjetas controla un número de filas y columnas de tarjetas, la dirección de volteo 
+
+	(incluida la capacidad de utilizar una degradación para determinar el orden del volteo). 
+
+
+	_También puede controlar la aleatoriedad y la variación para que el efecto tenga un aspecto más realista. 
+
+
+	_Al variar las filas y las columnas, puede crear efectos de persiana veneciana o de farol chino.
+
+
+	_El efecto Barrido de tarjetas comparte muchos controles con el efecto Baile de cartas.
+
+
+	_Este efecto funciona con colores de 8 bpc.
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Card Wipe: (Barrido de Tarjetas)
+	__________
+
+
+		_Transition Completion:
+
+			_ésta opción nos permitirá indicarle al sistema el avance de la interpolación entre la
+
+			imágen base y la capa traces así, como también, de las demás layers, de la composición 
+
+			respectiva
+
+
+		_Transition Width:
+
+			_Ancho del área que está cambiando de forma activa del original a la nueva imagen.
+
+	
+			_de ésta manera, podremos hacer que el área en transición pueda ser más fina ó más extensa
+
+			(ancha), en relación del efecto deseado así, podremos crear efectos más abrasivos ó más 
+
+			sutiles, finos (angostos), y rápidos a su vez
+
+
+
+		_Back Layer:
+			
+
+			_Capa que aparece en segmentos en el reverso de las cartas. Puede usar cualquier capa de la 
+
+			composición. 
+
+
+			_El conmutador de vídeo se puede desactivar  Si la capa tiene efectos o máscaras, primero 
+
+			debe componerla.
+
+
+
+		_Rows & Columns:
+
+
+			_Intro: Especifica la interacción de los números de filas y columnas. Independiente activa 
+
+			los controles deslizantes de Filas y columnas. La opción Las columnas detrás de las filas 
+
+			solo activa el control deslizante de Filas. Si selecciona esta opción, el número de columnas
+
+			será siempre el mismo que el de filas.
+
+
+
+			_Independient:
+
+				_ésta opción nos permitirá indicarle al sistema que realize el control de la 
+
+				cantidad de filas y columnas de forma independiente una de la otra
+
+
+			_Columns Follows Rows:
+
+				_ésta opción nos permitirá indicarle al sistema que realize el control de la 
+
+				cantidad de filas y columnas de forma conjunta para que así, un valor afecte al 
+
+				otro
+
+
+		_Rows:
+
+			_El número de filas, hasta 1.000.
+
+
+
+		_Columns:
+
+			_El número de columnas, hasta 1.000, a no ser que se haya seleccionado Las columnas detrás 
+
+			de las filas.
+
+
+
+		_Card Scale:
+
+			_Tamaño de las tarjetas. Un valor menor que 1 reduce el tamaño de las tarjetas y la capa 
+
+			subyacente se ve en los huecos. Un valor mayor que 1 aumenta el tamaño de las tarjetas y 
+
+			crea un mosaico en bloques que se superponen
+
+
+
+		_Flip Axis:
+
+			
+			_Intro: Eje alrededor del cual se voltea una tarjeta.
+
+
+
+			_X / Y:
+
+				_ésta opción nos permitirá indicarle al sistema la orientación de virado de los
+
+				fragmentos generados por el sistema
+
+
+				_lo cuál, nos permitirá cambiar el sentido y todo el contexto y prácticamente el
+
+				tipo de efecto logrado lo que nos permitirá una gran variedad de posibilidades
+
+				para generar diferentes procesos de producción y paso contínuo
+
+
+			_Freedom:
+
+				_ésta opción nos permitirá indicarle al sistema la orientación de virado de los
+
+				fragmentos generados por el sistema
+
+
+				_y en éste caso podremos generar fragmentos aleatorios lo cuál, nos permitirá 
+
+				cambiar el sentido y todo el contexto y prácticamente el tipo de efecto logrado lo 
+
+				que nos permitirá una gran variedad de posibilidades para generar diferentes 
+
+				procesos de producción y paso contínuo
+
+
+
+
+
+		_Flip Direction:
+
+
+			_Intro: Dirección en la que se voltean las tarjetas alrededor de sus ejes.
+
+
+
+			_Positive:
+
+				_ésta opción permitrá que los fragmentos se orientes y giren en la dirección por
+
+				defecto la cuál, es de izquierda ha derecha
+
+
+			_Negative:
+
+				_más tendremos la posibilidad de invertir ésta dirección u orientación para poder
+
+				así, hacer variaciones sobre el efecto y sus posiblidades
+
+			
+			_Random:
+
+				_así, como también, dispondremos de la posibilidad de alternar la posición y 
+
+				dirección de los fragmentos generados por el sistema para lograr así, 
+
+				comportamientos más orgánicos y menos predecibles
+
+
+		_Flip Order:
+
+
+			_Intro: Dirección en que tienen lugar la transición. Puede utilizar también un degradado 
+
+			para definir un orden de volteo personalizado: Las tarjetas se voltean primero donde el 
+
+			degradado sea negro y finalmente donde el degradado sea blanco.
+
+
+			
+			_Left to Right,...:
+
+				_ésta opción nos permitirá indicarle al sistema la dirección y orientación global 
+
+				de todo el sistema en general
+
+
+				_de ésta manera, en relación a nuestras necesidades podremos hacer que el sistema
+
+				comience y termine en una dirección y orientación específica, así, por ejemplo, el
+
+				sistema podrá comenzar de arriba hacia abajo, ó de derecha ha izquierda, como 
+
+				también, podrá tomar una direccion y orientación oblícua, otros
+
+
+		_Gradient Layer: (indeterminado)
+
+			_Cada degradación que se va a usar en el orden de volteo. Puede seleccionar cualquier 
+
+			capa de la composición
+
+
+		_Timing Randomness:
+
+			_Alterna los tiempos de la transición. Cuando este control es 0, las tarjetas se voltean 
+
+			en orden. Cuanto más alto sea el valor, más aleatorio es el orden de volteo de las tarjetas.
+
+
+		_Random Seed:
+
+			_ésta opción nos permitirá indicarle al sistema que cree una animación previa al inicio del
+
+			timeline, para que así, el sistema no tenga que realizar una curva de animación inicial
+	
+			del sistema
+
+
+		_Camara System:
+
+
+			_Intro: Indica si se deben usar las propiedades de posición de cámara del efecto, las 
+
+			propiedades de posicionamiento de los bordes del efecto o las posiciones de cámaras y luz de
+
+			la composición predeterminada para procesar las imágenes 3D de las cartas.
+
+
+			_Camara Position:
+
+				_ésta opción nos permitirá indicarle al sistema que utilize la cámara generada por
+	
+				el mismo sistema del efecto la cuál, podremos controlar directamente en el efecto
+
+
+			_Camara Pin:
+
+				_ésta opción nos permitirá indicarle al sistema que utilize como cámara la modalidad
+
+				de formación de tipo "Corner Pin", generada por el mismo sistema del efecto la cuál,
+
+				nos permitirá controlar directamente el sistema como una cámara nativa
+
+
+			_Comp Camara:
+
+				_ésta opción nos permitirá indicarle al sistema que utilize una cámara existente
+
+				en la composición respectiva para que así, el efecto nos seda control de la cámara
+
+				ha una cámara personalizada creada por nosotros
+
+		_Camara Position:
+
+
+			_X,Y,Z Rotation:
+
+				_Gire la cámara alrededor del eje correspondiente. Utilice estos controles para 
+
+				mirar las cartas desde arriba, desde un lado, desde atrás o desde cualquier otro 
+
+				ángulo.
+
+
+			_X,Y Position:
+
+				_Ubicación de la cámara en el espacio (x,y).
+
+
+			_Z Position:
+
+				_Lugar donde está colocada la cámara a lo largo del eje z. Los números pequeños 
+
+				acercan la cámara a las cartas, y los mayores, la alejan.
+
+
+			_Focal Lengh:
+
+				_La distancia desde la cámara a la imagen. Los números más pequeños acercan la 
+
+				imagen.
+
+
+			_Transform Order:
+
+				_Orden en el que gira la cámara alrededor de sus tres ejes. Asimismo, indica si esta
+
+				gira antes o después de situarla mediante los demás controles de Posición de cámara.
+
+
+		_Corner Pins:
+
+
+			_Intro: Posicionamientos de los bordes es un sistema de control de cámara alternativo. Se 
+
+			usa como ayuda para componer el resultado del efecto en una escena sobre una superficie 
+
+			plana, inclinada con respecto al fotograma.
+
+
+			_Borde superior izquierdo, Borde superior derecho, Borde inferior izquierdo, Borde inferior 
+
+			derecho lugar por el que se deben unir los bordes de la capa.
+
+
+
+			_upper Left/Right Corner:
+
+				_ésta opción nos permitirá controlar la perspectiva la imágen a través, de dos 
+
+				controles superiores izquierdo y derecho por medio de dos handles, directamente en 
+
+				el viewport, del panel compositing, ó a través, de controles específicos en el panel
+
+				effects controls
+
+
+			_Lower Left/Right COrner:
+
+				_ésta opción nos permitirá controlar la perspectiva la imágen a través, de dos 
+
+				controles inferiores izquierdo y derecho por medio de dos handles, directamente en 
+
+				el viewport, del panel compositing, ó a través, de controles específicos en el panel
+
+				effects controls
+
+
+			_Auto Focal Lengh:
+
+				_Controla la perspectiva del efecto durante la animación. Si la Distancia focal 
+
+				automática no está seleccionada, la distancia focal que haya especificado se 
+				
+				utilizará para localizar la posición de la cámara y la orientación que sitúa los 
+
+				ángulos de la capa en el posicionamiento de los bordes, si es posible. 
+
+
+				_Si no es así, la capa se reemplazará por su contorno, dibujado entre los bordes. 
+
+				Cuando Distancia focal automática está activada, se utilizará la distancia focal 
+
+				necesaria para hacer coincidir los puntos de los ángulos, si fuera posible. 
+
+
+				_De no serlo, interpolará el valor correcto de los fotogramas cercanos.
+
+
+			_Focal Lengh:
+
+				_Ignora el resto de ajustes si los resultados obtenidos no son los necesarios. 
+
+				Si define la Distancia focal con algún valor que no corresponda al que debiera tener
+
+				si los bordes estuvieran realmente en esa configuración, la imagen puede tener un 
+
+				aspecto extraño (por ejemplo, recortada de forma rara). No obstante, si conoce dicha
+
+				distancia focal, esta es la forma más sencilla de obtener resultados correctos.
+
+
+		_Lighting:
+
+
+			_Light Type:
+
+				
+				_Distant Source:
+
+					_ésta opción nos permitirá indicarle al sistema que utilize un tipo de 
+
+					iluminación dirección generada por el mismo sistema del efecto, la cuál,
+
+					a su vez, emulará al sol
+
+
+				_Point Light:
+
+					_ésta opción nos permitirá indicarle al sistema que utilize un tipo de 
+
+					iluminación puntual generada por el mismo sistema del efecto, la cuál,
+
+					a su vez, emulará un luz de punto convencional ó normal
+
+
+				_First Comp Light:
+
+					_ésta opción nos permitirá indicarle al sistema que utilize un tipo de 
+
+					iluminación personalizada la cuál, será la primera layer, de tipo "light",
+
+					encontrada en la parte superior de la composición respectiva, la cuál, a su
+
+					vez, podrá ser una luz de tipo point, spot, ambient, otros
+
+			_Light Intensity:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la intensidad de 
+
+				iluminación auto generada por el sistema
+			
+
+			_Light Color:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el color de la 
+
+				iluminación auto generada por el sistema, para lo cuál, dispondremos de un picker,
+
+				ó un selector de color por medio del cuál, podremos indicar un color personalizado
+
+
+			_Light Position:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la posición del sistema
+
+				en las cordenadas "X,Y", para la iluminación auto generada
+
+
+			_Light Depth:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la posición del sistema
+
+				en las cordenadas "Z", para la iluminación auto generada
+
+
+			_Ambient Light:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la iluminación ambiental
+
+				base para la generación del sistema base
+
+
+		_Material:
+
+
+			_DiffuseReflection:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la reflexión difusa del
+
+				material, es decir, el tono del color base para que así, éste pueda ser más ó nemos
+
+				claro en relación a la capacidad de éste de reflajar la luz ambiente ó no
+				
+
+			_Specular Reflection:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la reflexión especular 
+
+				del material, es decir, la capacidad de éste de representar el brillo sobre las 
+
+				áreas más claras
+
+
+			_Highligt Sharpness:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la reflexión en las altas
+
+				luces del material, es decir, la capacidad del material de crear altos brillo y 
+
+				destellos sobre la imágen
+
+
+		_Position Jilter:
+
+
+			_Intro: Al agregar vibración (Vibración de posición y Vibración de giro) se consigue que 
+
+			esta transición sea más realista. La variación funciona en las tarjetas antes, durante y 
+
+			después de que se produzca la transición. Si desea que la variación se produzca solo 
+
+			durante la transición, comience con un Nivel de vibración 0, anímelo hasta el nivel deseado 
+
+			durante la transición y, finalmente, vuélvalo a animar hasta 0 al final de la transición.
+
+				
+
+			_X,Y,Z Jilter Amount:
+
+				_Especifica el nivel y la velocidad de la variación en los ejes x, y, z. Nivel de 
+
+				vibración X, Y y Z especifican la cantidad de movimiento externo. Los valores de 
+
+				Velocidad de vibración X, Y y Z especifican la velocidad de vibración de cada opción
+
+				Nivel de vibración.
+
+
+			_X,Y,Z Jilter Speed:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el intervalo de velocidad
+
+				para la generación de la vibración sobre el sistema, en las diferentes cordenadas
+
+		_Rotation Jilter:
+
+
+			_X,Y,Z Rot Jilter Amount:
+
+				_Especifica el nivel y la velocidad de la vibración de giro en torno a los ejes 
+
+				x, y, z. Nivel de vibración de giro X, Y y Z especifican el nivel de vibración 
+
+				giratoria a lo largo de un eje. Un valor de 90° hace posible que una carta gire 
+
+				hasta 90° en cualquier dirección. Los valores de Velocidad de vibración de rotación 
+
+				X, Y y Z especifican la velocidad de vibración giratoria.
+
+
+			_X,Y,Z Rot Jilter Speed:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el intervalo de velocidad
+
+				de rotación para la generación de la vibración sobre el sistema, en las diferentes 
+
+				cordenadas
+
+
+			
+
+
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,60 @@
+
+
+
+efecto para crear un efecto 3d, para una layer 2d
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+General:
+________
+
+	_primero debemos de tener creada nuestra composición de trabajo asi como una layer, motivo, ésta layer, puede ser un
+
+	texto, layer, de forma/shape, ó imágen
+
+
+
+Shatter:
+________
+
+	_primero tentremos que crear un nuevo sólido el cuál, hará de proxi para luego con éste nuevo sólido seleccionado ir ha 
+
+	"Effects/Simulation/Shatter", ó "dispersión", en las versión en español, para luego proceder ha configurar el efecto para 
+
+	que éste simule un efecto 3d, sobre la layer, motivo
+
+
+	NOTA: el color tendrá el motivo será el color que tendrá la layer, que hace de proxi que por lo general será un solid
+
+
+
+	View:
+
+		_colocar Rendered
+
+
+	Shape:
+
+		_colaremos Custom
+
+
+	Custom Shatter Map:
+
+		_seleccionamos la layer, motivo, ej, la layer, de texto
+
+
+	Force 1 y 2:
+
+		_debemos de colocar todos sus valores en "0"
+
+
+	Camara System:
+
+		_para controlar el sistema a través, de una cámara personalizada debemos colocar el valor de "Comp Camara"
+
+
+
+

@@ -1,0 +1,158 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá eliminar ó neutralizar un color al igual que el efecto "Obsolete/Spill Suppressor",
+
+	más con la diferencia de que éste efecto nos permitirá disponer de controles extras ó ultras
+
+
+	_a través, de las cuáles, podremos controlar la tolerancia del color el rango y umbral, la desaturación el rango
+
+	del spill ó contaminación de color y la corrección de la luminancia, otros
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Advanced Spill Suppressor: (Supresión de Rebase Avanzado)
+	__________________________
+
+
+		_Method:
+
+
+			_Standard:
+
+				_éste método hará que el efecto se comporte de forma básica como el efecto 
+
+				"Obsolete/Spill Suppressor", sin las opciones avanzadas del efecto 
+
+				"Advanced Spill Suppressor/Ultra"
+
+
+				_más la opción básica de "standard", trabajará sólo con un color "green"
+
+				claro el cuál, corresponderá ha un color genérico de la industria el cuál,
+
+				no podremos cambiar ó modificar si no sólo en la versión "Ultra"
+
+
+			_Ultra:
+
+				_seleccionar ésta opción nos permnitirá disponer de todas las opciones avanzadas
+
+				de corrección y personalización del efecto lo cuál, es lo más recomendado para
+
+				lograr mejores resultados
+
+
+		_Suppression:
+
+			_ésta opción nos permitirá indicar la cantidad de color ha eliminar ó neutralizar para que
+
+			podamos indicar el umbral ó acción del efecto en relación al color seleccionado ó por defecto
+
+
+
+		_Ultra Settings:
+
+			
+			_Key Color:
+
+				_ésta opción nos permitirá seleccionar un color ha eliminar ó neutralizar a través, de
+
+				un picker, ó selector de color personalizable
+
+
+			_Tolerance:
+
+				_ésta opción nos permitirá indicarle al sistema cuán sensible ó de que tamaño será el 
+
+				umbral ó capacidad de detección del sistema de el color seleccionado en el paso anterior
+
+
+			_Desaturate:
+
+				_ésta opción nos permitirá indicar el umbral ó capacidad de desaturar el color seleccionado
+
+				y/ó, el motivo de ésta manera, podremos convertir el color seleccionado en un color de gris 
+
+				neutro respetando ó nó el motivo como una persona por ejemplo
+
+
+			_Spill Range:
+
+				_así, como también, podremos eliminar dominantes sutiles sobre la imágen resultante lo cuál,
+
+				nos permitirá eliminar contaminaciones sutiles de color sobre la imágen en general de forma
+
+				estricta ó general sobre la imágen resultante
+
+
+			_Spill Color Correction:
+
+				_de ésta manera, una vez tenemos determinado un rango de corrección de la contaminación de
+
+				color sobre la imágen reusltante podremos a su vez, indicar una cantidad de color determinada
+
+				ha eliminar
+
+
+			_Luma Correction:
+
+				_más también, tendremos la posibilidad de hacer correcciones sutiles en el matte, generado en 
+
+				la imágen resultante para lograr así, micro correcciones sobre la imágen resultante
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

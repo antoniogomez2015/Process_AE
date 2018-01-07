@@ -1,0 +1,93 @@
+
+
+
+Proceso de alpha Personalizado
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+Primero generamos el matte, de luminancia:
+
+
+	_para ésto, seleccionamos la layers, a la cuál, deseamos crearle el alpha, y le aplicamos el plugins,
+
+	"Effects/EFX Keying-Alpha/EFX Luma select"
+
+
+	_y así, moviendo el valor de:
+
+		
+		_Min luma:
+
+			_podremoa ajustar el umbral de alpha, generado sobre la imágen el cuál, podremos utilizar
+
+
+	_Min luma falloff:
+
+		_así, podremos hacer una degradado de la escala de grises para ampliar la gamma de valores
+
+
+	_invert:
+
+		_por lo general dejamos éste valor en: "no"
+
+	
+	_Mode:
+
+		_full luma
+
+
+	_Original alpha:
+
+		_replace
+
+
+_por último ésta layer, debemos pre.componerla "moviendo todos los atributos a la nueva composición"
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+Componer alpha:
+
+
+	_ahora a la layer, original la cuál, no dispone de canal alpha, ha éste le aplicaremos el plugins:
+
+
+		_"Effects/Digieffects Delirium/DE AlphaTool"
+
+
+	_el cuál, tendremos que configurar de la siguiente manera:
+
+
+		_Alpha Mode:
+
+			_en éste opciónes escogeremos la opción de "Set Matte"
+
+
+		_Matte Layer:
+
+			_en ésta opción escogeremos la layer, respectiva en la cuál, hemos generado el matte, 
+
+			previamente en el paso anterior
+
+
+		_Channel:
+
+			_en ésta opción escpgeremos: "Luminance"
+
+
+_de ésta manera la layer, original no tendrá matte, de luminancia, si no que tendrá "canal alpha", de forma nativa
+
+_ésto nos eviará tener que hacer "track matte", de layers
+
+
+
+
+
+
+

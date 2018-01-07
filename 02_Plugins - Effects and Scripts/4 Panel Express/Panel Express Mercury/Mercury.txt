@@ -1,0 +1,44 @@
+
+
+http://aescripts.com/mercury/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express
+
+
+	AE Mercury
+
+
+	-este nos permite hacer emular el efecto de metaboll, entre shapes, éste es un efecto residual
+
+	que puede realizarse de forma nativa sin plugins, dentro de after effects
+
+
+	_para ésto debemos de crear una composición de trabajo y layers, de forma/shape, de trabajo
+
+
+	_luego seleccionamos las layers, de forma deseadas y vamos al panel "AE_Mercury", y hacemos
+
+	"AEMercury" 
+
+
+	_de ésta manera se crearán dos controles, el de los efectos estará oculto en el timeline, y el
+
+	otro, el de los elementos controladores estará visible "Null 1", en el cuál, a través, de sliders,
+
+	podremos controlar el border, el desenfoque, otros
+
+
+	_de ésta manera al mover la layers, shape, en el viewport, podremos que acercarse ó superponerse
+
+	las formas éstas tomarán un comportamiento líquido ó magmático "metaboll"
+
+	
+
+
+	

@@ -1,0 +1,90 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto es especialmente útil para diferentes procesos la creación de desenfoques selectivos de ésta
+
+	manera, podremos crear áreas de desenfoque personalizadas y de forma gradada de forma estructurada ó libre
+
+	ó artística
+
+
+	_ya que éste efecto trabaja a través, de una layer, auxiliar de la cuál, tomará los valores de luminancia
+
+	podremos a través, de éste modular las área de desenfoque y enfoque
+
+
+	_así, podremos entender que podremos utilizar para éste fin layers, por ejemplo de Photoshop, las cuáles,
+
+	puedan estar realizadas con las áreas de enfoque totalmente personalizadas y detalladas; con la gradación
+
+	ó acutancia deseada entre los bordes y áreas deseadas
+
+
+	_más también, podremos crear éstas áreas y layers, directamente en after effects, a través, de otros 
+
+	efectos como fractal noise, ó incluso a través, de "paint brush", pero sea cuál, sea el método en éstos
+
+	casos tendremos que precomponer ésta layer, como una nueva composición para que así, after effects, 
+
+	reconosca correctamente los efectos
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Compound Blur: (Componer Desenfoque)
+	______________
+
+	_Blur Layer:
+
+		_éste valor nos permitirá seleccionar la layer, que hará de desenfoque
+
+
+	_Maximum Blur:
+
+		_éste valor nos permitirá indicar la cantidad de desenfoque
+
+
+	_If Layer Sizes Differ:
+
+		_éste valor nos permitirá tomar todos los valores de todo el área de los valores de luminancia
+
+		de la layer, que hará de desenfocador
+
+
+	¨_Inver Blur:
+
+		_éste valor nos permitirá invertir los valores de luminancia de la layer, que hará de desenfocador
+
+		así, como también, animar éste valor
+
+
+
+
+
+

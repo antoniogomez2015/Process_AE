@@ -1,0 +1,63 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá controlar una expresión sobre uno ó varios atributos de un elementos a través,
+
+	de la confirmación de condicionales preconstruidos dentro de after effects, ó desarrollados en relación al
+
+	requerimiento de la animación ó proceso de producción
+
+
+	_de ésta manera, podremos disparar un script, por medio de éste control ha modo de trigger, ó ha modo de
+
+	condicional el cuál, podremos animar a través, del tiempo
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Ccheckbo Control: (Control de Cassilla de Verificacion)
+	_________________
+
+
+		_Checkbox:
+
+			_éste es un checkbox, de control a través, del cuál, podremos activar instrucciones de
+
+			un script, el cuál, hayamos configurado y aplicado a la rspectiva layer, y atributos
+
+
+
+
+
+
+

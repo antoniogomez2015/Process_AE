@@ -1,0 +1,86 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá crear efectos de fusión de layers, con ciertas características únicas de integración
+
+	dentro de las mismas propiedades del efecto
+
+
+	_lo cuál, es especialmente útil para crear efectos complejos y compuestos y de paso contínuo, otros
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Blend: (Fusionar)
+	______
+
+	_Blend Width Layer:
+
+		_ésta sección nos permitirá escoger la layer, de acción a través, de la cuál, se realizará el
+
+		el modo de fusión espial como la layer, a la cuál, se le ha aplicado el efecto de "Blend"
+
+
+	_Mode:
+
+		_éste valor nos permitirá seleccionar el modo especial de fusión los cuáles, son muy similarse
+
+		a los modos de fusión nativos de la aplicación más éstos son extractos de éstos ó formas 
+
+		simplificadas de éstos los cuáles, son muy útiles para diferentes procesos de efectos de paso
+
+		cintínuo y efectos en producción
+
+
+	_Blend Width Original:
+
+		_éste valor nos permitirá integrar ambas layers, en proporción en relación a la characterística del
+
+		modo de fusión seleccionado
+
+
+	_If Layer Sizes Differ:
+
+		_éste valor nos permitirá indicar el tipo de aplicación del modo de fusión; donde podremos escoger
+
+		entre "Center", el cuál, ponderará todo el efecto al centro de la imágen
+
+
+		_y la opción de "Stretch to Fit", la cuál, distribuirá todo el efecto en toda el área de la imágén
+
+		ó composición respectiva ó canvas
+	
+
+
+
+
+
+

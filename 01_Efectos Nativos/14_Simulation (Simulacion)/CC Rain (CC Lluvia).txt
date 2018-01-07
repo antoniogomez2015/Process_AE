@@ -1,0 +1,141 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos pemritirá crear efectos bases de lluvia, llovisnas, y similares más podremos configurarlo
+
+	de diferentes maneras para crear incluso un sistema de partículas y strands, otros
+
+
+	_para la creación de diferentes efectos de producción y paso contínuo de ésta manera, pdoremos crear efectos
+
+	de tipo star treck, lasers, otros
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Rain: (CC Lluvia)
+	________
+
+
+		_Amount:
+
+			_ésta opción nos permitirá indicar la cantidad de partículas generadas por el sistema de
+
+			ésta manera, principalmente podremos controlar la densidad del sistema en relación a las
+
+			necesidades de producción y paso contínuo
+
+
+		_Speed:
+
+			_ésta opción nos permitirá controlar dos aspectos, el primero será la velocidad de las
+
+			partículas y, el segundo aspecto es la longitud de las partículas lo que nos permitirá crear
+
+			a su vez, efectos más cercanos ha partículas ó efectos más cercanos a strands, ó lasers, 
+
+			otros
+
+
+		_Angle:
+
+			_ésta opción nos permitirá rotar todo el sistema de partículas generado, lo que nos pemritirá
+
+			a su vez, rotar las partículas como todo un conjunto en una dirección determinada en relación
+
+			a las necesidades de producción y paso contínuo
+
+
+		_Angle Variation:
+
+			_ésta opción nos permintirá agregar variación ó aleatoriedad de rotación a las partículas
+
+			generadas por el sistema, pero en éste caso el sistema agregará variación de rotación para
+
+			cada partícula generada por el sistema
+
+
+			_éste valor estará superditado al valor de "Angle", de la opción anterior
+
+
+		_Drop Size:
+
+			_ésta opción nos permitirá indicarle al sistema el grosor que tendrá cada partícula generada
+
+			por el sistema no que nos permitirá a su vez, configurar el sistema en relación a las 
+
+			necesidades de producción y paso contínuo
+
+
+		_Opacity:
+
+			_ésta opción nos permitirá controlar la opacidad general del sistema que nos permitirá a su
+
+			vez, controlar la integración del sistema con las demás layers, de la composición como 
+
+			también, crear sistemas totalmente opacos para diferentes procesos concretos y de producción
+
+
+		_Source Depth:
+
+			_ésta opción le permitirá al sistema emular diferentes planos de partículas en la cordenada
+
+			"Z", creando así más partículas con diferentes longitudes de "strands", para así, emular el
+
+			efecto de profundidad
+
+
+			_lo cuál, a su vez, también, emulará el atributo de "Amount", en cierta manera, en relación
+
+			a la cantidad de partículas agregadas de manera extra
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,303 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Transition Effects:
+	___________________
+
+
+	_Block Dissolve: (Disolver en Bloques)
+
+		_El efecto Disolver en bloques, hace que la capa desaparezca en bloques aleatorios. La anchura y la 
+
+		altura de los bloques puede definirse, en píxeles, por separado. En calidad de Borrador, los bloques 
+
+		se colocan con precisión de píxeles y tienen bordes muy definidos. En Calidad óptima, los bloques 
+
+		se pueden colocar con una precisión de subpíxeles y presentan bordes suaves
+
+
+		_Este efecto funciona con colores de 8 bpc y 16 bpc.
+
+
+
+	Card Wipe: (Barrido de Tarjetas)
+
+		_tendremos la posibilidad de utilizar éste efecto para tres propósitos comúnes, el primero es revelar 
+
+		las demás layers, de la composición que estén por debajo de la layer, sobre la cuál, hemos aplicado 
+
+		el efecto
+
+
+		_como segundo propósito, podremos utilizar éste efecto para revelar una layer, configurada para que 
+
+		ésta sea revelada como reverso de los fragmentos del efecto, de ésta manera, en el avance de la 
+
+		transición se irá ocultando la layer, base y se irá revelando la layer, de reverso
+
+
+		_y como tercer propósito, podremos utilizar éste efecto para la generación de mósulo, mattes, mapas 
+
+		de luminancia entre otras posibilidades de producción y paso contínuo
+
+
+
+	Gradient Wipe: (Barrido de Degradacion)
+
+		_El efecto Barrido de degradación hace que los píxeles de la capa se hagan transparentes en función 
+
+		de los valores de luminancia de los píxeles correspondientes de otra capa, denominada capa de 
+
+		degradación. 
+
+
+		_Los píxeles oscuros de la capa de degradación hacen que los píxeles correspondientes se conviertan 
+
+		en transparentes en un valor bajo de Finalización de transición. Por ejemplo, una capa de degradación
+
+		de escala de grises que pasa del negro de la izquierda al blanco de la derecha, hace que la capa 
+
+		subyacente se muestre de derecha a izquierda al ir aumentando el valor de Finalización de transición.
+
+
+		_Este efecto funciona con colores de 8 bpc y 16 bpc.
+	
+
+
+	Iris Wipe: (Barrido Irisado)
+
+		_El efecto Barrido irisado, crea una transición radial que pone al descubierto la capa subyacente. 
+
+
+		_Especifica el número de puntos utilizado para crear el iris en un intervalo entre 6 y 32 puntos, y 
+
+		especifique si se utiliza un radio interior. 
+
+
+		_Si Usar radio interior está seleccionado, podrá especificar valores para Radio interior y Radio 
+
+		exterior; el iris no se podrá ver cuando Radio exterior, Radio interior, o ambos, estén ajustados 
+
+		a 0. 
+
+
+		_El iris es más redondo cuando se define el mismo valor tanto para Radio exterior como para Radio 
+
+		interior.
+
+
+
+	Linear Wipe: (Barrido Lineal)
+
+		_El efecto Barrido lineal, realiza un barrido lineal sencillo de una capa en una dirección específica 
+
+
+		_En calidad de Borrador, el borde del barrido no aparece suavizado; en Calidad óptima, el borde el 
+
+		barrido sí aparece suavizado y el calado es uniforme.
+
+
+
+	Radial Wipe: (Barrido Radial)
+
+		_El efecto Barrido radial, pone al descubierto una capa subyacente mediante un barrido en círculo 
+
+		alrededor de un punto determinado. 
+
+
+		_En Calidad óptima, los bordes del barrido aparecen suavizados.
+
+
+		_Este efecto funciona con colores de 8 bpc y 16 bpc. En After Effects CS6 o versiones posteriores, 
+
+		este efecto funciona con color de 32 bits.
+
+
+
+	Venetian Wipe: (Barrido Veneciano)
+
+		_El efecto Barridos venecianos pone al descubierto una capa subyacente mediante el uso de bandas con 
+
+		una dirección y ancho específicos. 
+
+
+		_En calidad Borrador, las bandas se animan con una precisión de píxeles; en calidad Óptima, las 
+
+		bandas se animan con una precisión de subpíxeles.
+
+
+		_Este efecto funciona con colores de 8 bpc y 16 bpc.
+
+
+
+	CC Glass Wipe: (Barrido de Cristal CC)
+
+		_éste efecto nos permitirá crear efectos de transiciones como también, efectos especiales de paso 
+
+		contínuo y de producción, ya que éste nos permitirá crear distorsiones plásticas y con transparencias 
+
+		ha modo caustic, entre otras muchas posibilidades
+
+
+		_e incluso tendremos la posibildiad de modelar el efecto a través, de la utilización de un mapa 
+
+		de densidad a través, del cuál, podremos limitar el alcance del efecto a través, del tiempo
+
+
+		_El efecto Glass Wipe, crea una transición vistosa basada en los valores de otro capa. 
+
+
+		_El resultado final es que una capa de aspecto vítreo se derrite para revelar otra capa
+
+
+
+	CC Grid Wipe: (Barrido de Cuadricula CC)
+
+		_El efecto Grid Wipe, crea una transición que corta la capa fuente en cuadrados y los borra de 
+
+		la pantalla.
+ 
+
+		_La limpieza comienza desde un punto central definible por el usuario y se mueve de manera 
+
+		uniforme hacia el borde de la capa de origen. Los cuadrados pueden ser borrado usando tres 
+
+		formas diferentes.
+
+
+		_así, como también, podremos realizar diferentes efectos y constructivismo visual, mattes, 
+
+		y entre otras posibilidades de producción paso contínuo
+
+
+
+	CC Image Wipe: (Barrido de Imagen CC)
+
+		_Image Wipe, usa una capa para controlar el gradiente de la transición.
+
+
+
+	CC Jaws: (Mandibulas CC)
+
+		_El efecto Jaws, crea una transición que divide la capa de origen en dos partes.
+
+
+		_Con cada parte que tiene un borde en forma de dientes a lo largo del borde de división. 
+
+
+		_Tres diferentes formas de diente están disponibles.
+
+
+		_así, como también, éste efecto nos permitirá hacer diferentes procesos de producción y paso 
+
+		contínuo como también, diferentes elementos para el constructivimos visual, otros
+
+
+
+	CC Light Wipe: (Barrido de Luz CC)
+
+		_El complemento Light Wipe, crea una transición que utiliza una fuente de luz para limpiar la capa 
+
+		fuente, ésta luz puede ser de un color sólido o puede ser muestreada desde capa fuente mientras se 
+
+		borra. 
+
+
+		_La forma de la luz, así como la fuente y rotación, es completamente definible por el usuario.
+
+
+		_éste efecto nos permitirá realizar diferentes procesos de producción y paso contínuo así, como 
+
+		también, como parte del constructivismo visual
+
+
+
+	CC Line Sweep: (CC Line Sweep)
+
+		_Line Sweep, es un efecto de transición que borrará la capa fuente línea por línea donde el espesor, 
+
+		la superposición y el ángulo se pueden controlar.
+
+
+		_así, como también, crear diferentes efectos de producción y paso contínuo como también, para 
+
+		la creación de animaciónes y del constructivismo visual
+
+
+
+	CC Radial ScaleWipe: (Barrido de Escala Radial CC)
+
+		_Radial Scale Wipe, es un efecto radial donde el borde se pliega para develar las layers, subyacentes
+
+		de la respectiva composición
+
+	
+		_éste efecto también, nos permitirá crear diferentes efectos de distorsión y procesos de producción 
+
+		y paso contínuo así, como también, para el constructivismo visual
+
+
+
+	CC Scale Wipe: (Barrido de Escala CC)
+
+		_Scale Wipe, extiende una capa fuera de la pantalla (o sobre ella) moviendo el centro de escala
+
+	
+		_éste efecto también, nos permitirá crear diferentes efectos de distorsión y procesos de producción 
+
+		y paso contínuo así, como también, para el constructivismo visual
+
+
+
+	CC Twister: (Tornado CC)
+
+		_Twister, retuerce la capa fuente para revelar otra capa
+
+	
+		_éste efecto también, nos permitirá crear diferentes efectos de distorsión y procesos de producción
+
+		y paso contínuo así, como también, para el constructivismo visual
+
+
+
+	CC WarpoMatic: (CC WarpoMatic)
+
+		_WarpoMatic, es un filtro para crear transiciones deformadas entre dos capas basadas en el canal 
+
+		seleccionado, o "Reactor". También se puede usar para agregar el warping efecto a la capa de origen 
+
+		de los efectos, seleccionando esa capa en "Layer To Reveal", controlar. Incluye controles para 
+
+		determinar la cantidad de deformación, dirección, suavidad y Blend Span.
+
+	
+		_éste efecto también, nos permitirá crear diferentes efectos de distorsión y procesos de producción 
+
+		y paso contínuo así, como también, para el constructivismo visual
+
+
+
+
+
+
+

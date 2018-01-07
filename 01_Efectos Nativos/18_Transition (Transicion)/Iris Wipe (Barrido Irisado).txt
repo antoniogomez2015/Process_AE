@@ -1,0 +1,165 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Barrido irisado, crea una transición radial que pone al descubierto la capa subyacente. 
+
+
+	_Especifica el número de puntos utilizado para crear el iris en un intervalo entre 6 y 32 puntos, y 
+
+	especifique si se utiliza un radio interior. 
+
+
+	_Si Usar radio interior está seleccionado, podrá especificar valores para Radio interior y Radio exterior; 
+
+	el iris no se podrá ver cuando Radio exterior, Radio interior, o ambos, estén ajustados a 0. 
+
+
+	_El iris es más redondo cuando se define el mismo valor tanto para Radio exterior como para Radio interior.
+
+
+	_El efecto Barrido irisado, es el único efecto de transición que no tiene la propiedad Finalización de 
+
+	transición. Para animar el efecto Barrido irisado y que exponga las capas subyacentes, anime las propiedades
+
+	de Radio.
+
+
+	_Este efecto funciona con colores de 8 bpc y 16 bpc. En After Effects CS6, o versiones posteriores, este 
+
+	efecto funciona con color de 32 bits
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Iris Wipe: (Barrido Irisado)
+	__________
+
+
+		_Iris Center:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el epicentro para la generación
+
+			del sistema, específicamente de la forma geometríca y el alpha, generado a través, de ésta
+
+			sobre la imágen base
+
+
+			_así, como también, ésta opción nos permitirá animar el sistema a través, del tiempo
+
+
+		_Iris Points:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la cantidad de puntos ó vertices
+
+			sobre la cuál, estará conformado el sistema
+
+
+			_lo que a su vez, indicará cuál, será la forma resultante del sistema generado así, podremos
+
+			generar formas alphas, triangulares, cuadradas, pentagonales, otros
+
+
+		_Outer Radius:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el radio ó tamaño del sistema
+
+			generado sobre la imágen base, de ésta manera, podremos crear un alpha, con una forma
+
+			geométricas más ó menos grande
+
+
+		_Use Inner Radius:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos utilizar el sistema invertido,
+
+			es decir, que en vez de generar figuras de tipo triángulos y pentagonos, en vez de eso, 
+
+			deseamos generar formas de tipo estrellas y de formas compuestas regulares semejantes ha
+
+			estrellas
+
+
+		_Inner Radius:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el tamaño del sistema generado
+
+			cuando la propiedad "Use Inner Radius", está activada para que así, podamos controlar el 
+
+			tamaño del sistema y podamos sangrar el sistema fuera del tamaño de la layer, base si así,
+
+			lo deseamos
+
+
+		_Rotation:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos rotar el sistema generado para
+
+			que así, podamos animar éste a través, del tiempo y generar múltiples efectos
+
+
+		_Feather:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste suavize los bordes de
+
+			la forma ó alpha, generado sobre la layer, base
+
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

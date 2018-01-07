@@ -1,0 +1,106 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer desfaces ó virados de los diferentes canales existentes dentro de una 
+
+	misma layer, para que así, podamos hacer efectos y configuraciones especiales para diferentes 
+
+	requerimientos y procesos específicos como para la producción 3d, de pasos primidos en layers, otros 
+
+
+	_como también, para diferentes procesos de producción y pasos contínuo de efectos
+
+
+	_por otra parta también, podremos reforzar canales para así, poder generar un canal especial resultante para
+	
+	procesos de mattes de limunancia, y de densidad para diferentes procesos de animación y sumulación, otros
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Shift Channels: (Cambiar Canales)
+	_______________
+
+	_Take Alpha From:
+
+		_ésta opción nos permitirá tomar el canal alfa, de cualquiera de los canales disponibles dentro de
+
+		la respectiva layer, éstos canales disponibles son los siguitentes:
+
+
+		_Alpha / Red / Green / Blue / Luminance / Hue / Lightness / Saturation / Full On / Full Off
+
+
+	_Take Red From:
+
+		_ésta opción nos permitirá tomar el canal rojo, de cualquiera de los canales disponibles dentro de
+
+		la respectiva layer, éstos canales disponibles son los siguitentes:
+
+
+		_Alpha / Red / Green / Blue / Luminance / Hue / Lightness / Saturation / Full On / Full Off
+
+
+	_Take Green From:
+
+		_ésta opción nos permitirá tomar el canal verde, de cualquiera de los canales disponibles dentro de
+
+		la respectiva layer, éstos canales disponibles son los siguitentes:
+
+
+		_Alpha / Red / Green / Blue / Luminance / Hue / Lightness / Saturation / Full On / Full Off
+
+
+	_Take Blue From:
+
+		_ésta opción tratará ésta opción nos permitirá tomar el canal azul, de cualquiera de los canales 
+
+		disponibles dentro de la respectiva layer, éstos canales disponibles son los siguitentes:
+
+
+		_Alpha / Red / Green / Blue / Luminance / Hue / Lightness / Saturation / Full On / Full Off
+
+
+
+	_lo cuál, como podremos ver ésto nos permitirá potencializar las caracteríscas y prestacionse de un canal
+
+	respectivo, domninante de color, de liminocidad, gamma, otros
+
+
+	_para diferentes procesos lo cuál, nos permite llevar más allá las posibilidades de los canales y sus 
+
+	posibles usos dentro de los diferentes procesos de producción y paso contínup
+
+
+	
+
+	

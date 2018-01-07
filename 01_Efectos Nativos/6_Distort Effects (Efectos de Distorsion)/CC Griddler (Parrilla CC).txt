@@ -1,0 +1,115 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá cortar y animar una capa en cuadrados. Griddler, Crea una versión de mosaico de la 
+
+	capa de origen, mientras escala y gira los mosaicos. Cuanto más pequeño sea el tamaño, más "Tiles", hay. 
+
+	Ajustes de mayor tamaño producen menos "Tiles"
+
+
+	_éste efecto es similar a las posibilidades dentro de los efectos de "CC Wave Warp", y "Warp", ya que éste
+
+	también, nos permnitirá a través, de la modulación de figuras geométricas compuesta y procedurales podremos
+
+	crear contenido para producción y paso contínuo 
+
+
+	_como también, para motion graphycs, y constructivismo visual entre otras muchas posibilidades, otros
+
+
+	_de ésta manera, podremos utilizar éste efecto con conjunto con los efecto mensionados entre muchos otros 
+
+	como "Motion Tile", "Tiler" "CC Repeat Tiler", para lograr así, efectos más complejos y concretos
+
+
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Griddler: (Parrilla CC)
+	____________
+
+
+		_Horizontal/Vertical Scale:
+
+			_ésta opción nos permitirá indicar el valor del ancho y alto de cada tile, el cuál, podrá 
+
+			ser de una valor de 100%, el cuál, cubrirá toda el área natural de toda la imágen por la 
+
+			cantidad de tiles, que quepan en el ancho de la imágen
+
+
+			_más si indicamos valores menores a "100%", entonces se generará espacios vacios en 
+
+			transparenia entre éstos tiles, ahora más angostos que en su estado natural de "100%"
+
+
+			_más también, podremos indicar valores superiores ha "100%", lo cuál, hará que los tiles, 
+
+			se supuper pongan logrando efectos diferentes de desface de superficies, virados de piexeles,
+
+			entre otros
+		
+
+
+		_Tile Size:
+
+			_ésta opción es muy importante por que a través, de ésta podremos indicar la cantidad de tiles,
+
+			existentes en el sistema, tanto de ancho como de alto lo cuál, formará la grilla de tiles
+
+
+		_Rotation:
+
+			_ésta opción permitirá hacer rotaciones globales del sistema de tiles, al unísono más también,
+
+			de forma individual en relación a la imágen ó textura contenida en cada tile, generado por el
+
+			sistema
+
+
+		_Cut Tiles:
+
+			_ésta opción permintirá que los tines generados en los pixeles internos de la imágen no pueda
+
+			tener espacios vacios entre éstos
+
+
+			_de ésta manera, el sistema rellenará los espacios vacios creados entre éstos por la imágen
+
+			base lo cuál, puederesultar útil para cierto tipo de efectos y procesos
+	
+
+
+
+

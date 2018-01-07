@@ -1,0 +1,548 @@
+
+
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+		DEFlicker Tutorials/Playong List:
+
+			https://www.youtube.com/watch?v=ROG9Cx09xr4&list=PLJZE0COAfWUXTkWdhbkaO5GflW3hWJZ4h
+
+
+		RE:Flex (17 Videos)
+
+			https://www.youtube.com/playlist?list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v
+
+
+		RE:Flex Morph - Morphing between moving images
+
+			https://www.youtube.com/watch?v=t0lcSHYiOJg&list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v&index=2
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE:VisionFx RE: RE Match Color:
+_______________________________
+
+
+	_éste efecto nos permitirá hacer recalculado e igualaciones de color a través, de diferentes criterios y parámetros 
+
+	en un punto determinado y a través, del tiempo de ésta manera, podremos realizar diferentes ajustes e igualaciones 
+
+	de color para igualar metrajes y material de archivo de diferentes tomas, cámaras, clips, y secuencias en general 
+
+	en diferentes procesos de producción
+
+
+
+
+
+	Workflow:
+	_________
+
+
+	1_primero debemos de tener una composició de trabajo así, como también, tendremos que haber cargado al menos dos 
+
+	secuencias de imágenes ó videos ó composiciones respectivamente con las cuáles, trabajaremos para el proceso 
+
+	en la nueva composición que hemos creado
+
+
+	2_para a continuación seleccionar la layer, correspondiente al video ó secuencia de imágenes la cuál, deseamos
+
+	corregirle ó igualarle el color en relación a un material referencia que es la otra secuencia que hemos cargado
+
+
+	_para que así, con ésta layer, seleccionar ir ha "Effects/RE:Vision Plugins/", y allí, aplicar el efecto 
+
+	"RE: Match Color", sobre ésta layer
+
+
+	3_para posteriormente en las opciones del efecto "RE: Match Color", ir específicamente ha "Get Color From:", y
+
+	allí, seleccionar una layer, la cuál, hará de material de archivo de referencia del cuál, será muestreada para
+
+	el proceso de igualación de color y demás valores de la layer, a la cuál, hemos aplicado éste efecto
+
+
+	4_para posteriormente ir a las opciones de "Transfer Method:", y allí, seleccionar uno de los criterios de muestreo
+
+	disponible en relación al tipo de referencia que deseamos que el sistema tome en cuenta para el recalculado de color
+
+	y demás valores respectivos
+
+
+	5_así, como también, en las opciones de "Color Space:", podremos seleccionar el tipo de espacio de color en relación
+
+	al tipo de problemas ó criterio que deseamos que el sistema iguale con el material referencial, de ésta manera, 
+
+	podremos hacer uso de un espacio convencional "RGB", para la mayoría de los casos como también, de un espacio "Lab", 
+
+	para casos donde hay demasiadas áreas con destellos y claves altas como también, de un espacio de color "Luminance", 
+
+	para casos en los que desiemos hacer correcciones de gamma, gain, pedestal, otros
+
+
+
+	6_así, como también, dispondremos de un valor "Gamma:", a través, del cuál, podremos elegir el criterio de la gamma,
+
+	de valores ha utilizar de ésta manera, podremos dejar la opción por defecto ó seleccionar una de las opciones 
+
+	de gamma delineado ó linearizado para obtener así, valores más mesurables y estandarizados
+
+
+	7_más también, dispondremos de opciones más avanzadas como la opción "Frame to Match:", a través, de la cuál, podremos
+
+	hacer un muestreo sobre el material referencial a través, de cada frame, de éste ó a través, de posters,
+
+	clave a través, del tiempo con un intervalo personalizado indicados por nosotros de áreas que considerados clave 
+
+	del metraje y que deseamos que sean consideradas por el sistema para el recalculado de color en relación 
+
+	a los resultados que deseamos conseguir en el material final
+
+
+	8_incluso podremos ir más allá, pudiendo como ya dijimos guardas posters, del material de referencia como también, 
+
+	aplicar filtros de corrección y limitadores a través, de las opciones de "Adjustment Controls:", para mejorar así,
+
+	el material de referencia en relación a los resultados que deseamos obtener en el material corregido y resultante
+
+
+	9_y por último podremos también, hacer muestreos selectivos tanto de todo el material como de los posters, que vayamos
+
+	capturando para que así, podramos evitar áreas que consideramos que incluirán ruido al muestreo y que influirán
+
+	de forma negativa ó contra producente en relación a los resultados deseados, para lo cuál, dispondremos 
+
+	de las opciones "Window Controls:"
+
+
+
+
+
+
+
+	RE: RE Match Color Options:
+	___________________________
+
+
+	_Get Color From:
+
+		_ésta opción nos permitirá seleccionar una layer, la cuál, de material referencial del cuál, se toamará un
+
+		muestreo de color y demás valores en relación a los criterios de trabajo seleccionados posteriormente 
+
+		en relación a los resultados deseados
+
+
+	_Transfer Method:
+
+		_ésta opción nos permitirá seleccionar el criterio de acción ó de trabajo en relación a los elementos que 
+
+		deseamos que el sistema tome en cuenta de ésta maenra, podremos indicarle al sistema que tome valores de
+
+		ganancia tonal, desface de color, pre cálculos de histogramas, y análisis personalizados de ésta manera,
+
+		dispondremos de los siguientes valores ó criterios de trabajo:
+
+
+			
+			_None:
+
+				_ésta opción no tomará ningún criterio de trabajo lo realizará un bypass, del efecto sobre
+
+				el material de archivo y layer, sobre la que está aplicado el efecto respectivo
+
+
+
+			_Mean Shift:
+
+				_ésta opción buscará desfaces ó virados de color entre el clip, ó secuencia referencia y la
+
+				secuencia sobre la cuál, se ha aplicado el efecto para lograr así, la igualación de color 
+
+				y demás valores colaterales
+
+
+			_Gain + Offset:
+
+				_ésta opción contemplará primordialmente los cambios de ganancia ó valores de "levels", 
+
+				encontrados entre el material referencial y el material ha corregir ó igualar
+
+
+			_Histogram 1,2:
+
+				_ésta opción nos ofrece una igualación neutral ó estandar para la mayoría de los casos ó
+
+				ha nivel general, tanto del color como de los demás valores relacionados entre ambos clips,
+
+				ó secuencias ha corregir e igualar
+
+
+				_ésta opción es más recomendada cuando hayamos indicado "LAB", como espacio de color
+
+				en el siguiente valor a continuación
+
+
+			_Use stored analysis:
+
+				_ésta opción nos permitirá utilizar una ponderación del muestreo de la cantidad de posters,
+
+				de referencia que hayamos cargado en el sistema para que así, podamos obtener un resultado
+
+				más predecible y personalizado en relación a nuestras necesidades
+
+
+			_Show image used to get color from:
+
+				_ésta opción nos permitirá visualizar en el viewport, el clip, ó secuencia de referencia
+
+				en su estado natural sin la aplicación del efecto, corrección ó ajuste
+
+
+
+	_Color Space:
+
+
+		_RGB:
+
+			_ésta opción nos permitirá indicarle al sistema que tome el espacio de color más convencional y 
+
+			ámplio para uso de general para la corrección e igualación 
+
+
+		_LAB:
+
+			_ésta opción nos pemritirá indicar un espacio de color el cuál, nos servirá indicarle al sistema
+
+			los límites de valores en las altas luces y destellos y con rangos dinámicos de la imágen hacia
+
+			la clave alta
+
+
+		_Luminance:
+
+			_ésta opción es similar ha "RGB", más ésta opción contemplará los nivales de la imágen ó 
+
+			"gain, gamma, pedestal"
+
+
+
+	_Gamma:
+
+
+		_Ignore:
+
+			_ésta opción nos agregará criterios extras en el método del cálculo de la gamma ó niveles
+
+			de la imágen resultante en relación a la secuenciaó clip, referencial
+
+
+		_Delinearize:
+
+			_ésta opción agregará el criterio de corrección de gamma ó niveles "delinearizado", ó ponderado
+
+			lo cuál, creará un cálculo de gamma más dinámico en relación a los cambios de la imágen a través,
+
+			del tiempo
+
+
+		_Linearize:
+
+			_ésta opción agregará el criterio de corrección de gamma ó niveles "linearizado", ó lineal lo cuál, 
+
+			creará un cálculo de gamma más directo y rápido ya que éste ponderará una media de todos los cambios 
+
+			de la imágen a través, del tiempo
+
+
+
+	_Frame to Match:
+
+
+		_Match every frame:
+
+			_ésta opción nos permitirá realizar el análisis y muestreo en cada frame, de la secuencia ó clip, 
+
+			de referencia
+
+
+		_Match to still 1,2,3,4:
+
+			_ésta opción nos permitirá realizar el análisis y muestreo sólo en lo frames, poster, que hayamos
+
+			indicado de la secuencia ó clip, de referencia previamente de ésta manera, podremos utilizar varios
+
+			criterios a lo largo del tiempo y posder animar éstos reajustes dinámicos a través, del tiempo
+
+
+			_lo cuál, es especialmente útil cuando tenemos como referencia un filmstrip, de diferentes tipos
+
+			de clips, ó material de archivo y deseamos igualar un material de forma referencial ha éstas
+
+			secuecias de referencia
+
+
+		_Dissolve:
+
+			_(indeterminado)
+
+
+
+	_Still Settings:
+
+
+		_Set Still Time:
+
+			_ésta opción es la por defecto la cuál, se almacerá frames, ó posters, de referencial para hacer
+
+			los cálculos ó análisis para la igualación de color y de los demás valores colaterales
+
+
+		_Still 1,2,3,4 Time:
+
+			_ésta opción nos permitirá almacerá frames, ó posters, de referencial para hacer
+
+			los cálculos ó análisis para la igualación de color y de los demás valores colaterales
+
+
+			_de ésta manera, dispondremos de has cuatro slots, los cuáles, conformarán cuatro posters,
+
+			a partir de los cuáles, el sistema hará una ponderación para la generación del análisis
+
+
+			_de ésta manera, lo primero que tendremos que hacer es ir a la opción de "Transfer Method", y
+
+			allí, seleccionar la opción de "Show image used to get color from", para que así, podamos ver
+
+			la imágen ó secuencia ó clip, de referencia en el viewport, y poder así, ver las áreas de interés
+
+			deseadas mientras movemos el cabezal del timeline
+
+
+			_para que así, luego de que hayamos localizado un área ó frame, de ineterés en el material 
+
+			referencial poder seleccionar uno de los cuatro slots, disponibles para el posterior análisis 
+
+			para el recalculado de color y demás elementos colaterales
+
+
+			
+
+	_Store Current Analysis:
+
+		_ésta opción hará de botón a partir del cuál, podremos tomar toda la información de las muestras ó frame
+
+		posters, que hayamos guardado en en las opciones de "Still Settings", para que así, el sistema tome una
+
+		ponderación de todas las muestras indicadas como frame posters, a través, del tiempo
+
+
+		_de ésta manera, ésta opción equivaldrá ha seleccionar la opción de "Transfer Method/Used store analysis",
+
+		lo cuál, bloqueará todas las demás opciones dejando sólo la referencia de la muestras a través, de los
+
+		frames posterior, para la creación del análisis a partir del cuál, se realizará el proceso de recalculado
+
+		de color demás valores colaterales
+
+
+
+	_Adjustment Controls:
+
+
+		_Pre-Adjustment Mode:
+
+
+			_None:
+
+				_ésta opción no realizará pos ajustes de ningún tipo sobre el material resultante en relación
+
+				al clip, ó secuencia de referencia lo hará de bypass, sobre éstas opciones
+
+
+			_Compress highlights:
+
+				_ésta opción nos permitirá realizar pos ajustes de tipo limitador de las altas luces sobre 
+
+				el material resultante en relación al clip, ó secuencia de referencia lo hará de bypass, 
+
+				sobre éstas opciones
+
+
+			_Pre-equalize:
+
+				_ésta opción nos permitirá realizar pos ajustes de tipo pre ecualización de las altas luces 
+
+				y demás valores colaterales sobre el material resultante en relación al clip, ó secuencia 
+
+				de referencia lo hará de bypass, sobre éstas opciones
+
+
+			_Gamma compensate:
+
+				_ésta opción nos permitirá realizar pos ajustes de tipo limitador de gamma ó levls, de las 
+
+				altas luces sobre el material resultante en relación al clip, ó secuencia de referencia 
+
+				lo hará de bypass, sobre éstas opciones
+
+
+
+		_Adjustment Amount %:
+
+			_ésta opcíón nos permitirá indicar la cantidad de pre ajuste ha aplicar en relación del criterio
+
+			seleccionado en el paso anterior "Pre-Adjustment Mode:"
+
+
+		_Blend width Original %:
+
+			_ésta opción nos permitirá integrar el pre ajuste indicado con el material de referencia para que así,
+
+			podamos graduar de forma más ámplia los pre ajustes con el material original de referencia
+
+
+		_Limit %:
+
+			_ésta opción nos permitirá retraer los pos efectos para que así, podamos limitar la acción ó la
+
+			cantidad de pos efecto aplicado en relación el criterio ó como de color seleccionado en la opción
+
+			de "Color Space:"
+
+
+	
+	_Window Match:
+
+		_ésta opción nos permitirá activar las opciones de los marginadores a través, de los cuáles, podremos 
+
+		delimitar un área determinada en la cuál, el sistema tomará la información descartando así, la información
+	
+		ó área exluida de ésta área ó ventana
+
+
+		_de ésta manera, podremos limitar ó hacer un muestreo selectivo para que así, el sistema no tome toda la 
+
+		información disponible en un frame, ya que un frame, determinado podría haber información no deseada ó que
+
+		no vaya con los resultados deseados
+
+
+		_ésta opción es recomendada tanto para las opciones de criterios de color, gamma y sobre todo para el uso
+
+		de frame posters
+
+
+
+	_Window Controls:
+
+
+		_Draw Overlay:
+
+			_ésta opción nos permitirá hacer visibles el área entre los handles, ha modo de líneas marginadoras
+
+			ha modo de marco ó ventana lo que puede hacer más fácil el proceso de selección de un área determinada
+
+
+		_Draw Over:
+
+
+			_ésta opción nos permitirá invercambiar en la vista y la aplicación de los marginadores entre 
+
+			el material referencial y el material resultante 
+
+
+			_para que así, el sistema pueda tomar tanto referencia del material muestreado como del material
+
+			ha corregir a través, de marginadores diferentes e individuales 
+
+
+			_lo que nos permitirá potencializar de manera inucitada las posibilidades de hacer una corrección 
+
+			ó ajuste a través, de un muestreo específico y muy concreto excluyendo las áreas de ruido ó que no 
+
+			interesan para el proceso deseado
+
+
+
+			_Target:
+
+				_ésta opción nos permitirá visualizar y seleccionar un área determinada de muestreo 
+
+				en el material de destino ó corregir
+
+
+			_Source (get color from):
+
+				_ésta opción nos permitirá visualizar y seleccionar un área determinada de muestreo 
+
+				en el material de referencia
+
+
+		
+		_Target Top Left:
+
+			_ésta opción nos permitirá indicar valores numéricos exactos del handle, superior izquierdo del
+
+			marginador de muestreo para el proceso de remuestreo de color y valores colaterales
+
+
+		_Target Bottom Right:
+
+			_ésta opción nos permitirá indicar valores numéricos exactos del handle, inferior derecho del
+
+			marginador de muestreo para el proceso de remuestreo de color y valores colaterales
+
+
+		_Source Bottom Left:
+
+			_ésta opción nos permitirá indicar valores numéricos exactos del handle, inferior izquierdo del
+
+			marginador de muestreo para el proceso de remuestreo de color y valores colaterales
+
+
+		_Source Top Right:
+
+			_ésta opción nos permitirá indicar valores numéricos exactos del handle, superior derecho del
+
+			marginador de muestreo para el proceso de remuestreo de color y valores colaterales
+
+
+		_Invert Windows:
+
+			_ésta opción nos permitirá invertir el área seleccionada por los marginadores del muestreo
+
+
+		_Overlay Color:
+
+			_ésta opción nos pemritirá indicar un color el cuál, será contemplado en el proceso de muestreo
+
+			de color para que así, el sistema agregue ésta nueva dominante de color indicada
+
+
+			_para que así, podamos contaminar el muestreo de forma intensional para lograr así, una dominante
+
+			de color deseada
+
+
+
+
+

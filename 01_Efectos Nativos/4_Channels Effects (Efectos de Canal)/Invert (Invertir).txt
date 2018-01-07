@@ -1,0 +1,68 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá hacer inversiones de diferentes tipos de canal, espacios de color, de información para
+
+	matte, y densidad como de canal alpha, de forma práctica y rápida
+
+
+	_así, de ésta manera, podremos invertir canales de una layer, como canales de "RGB / Red / Green / Blue",
+
+	"Luminance, Alpha, otros"
+	
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Invert: (Invertir)
+	_______
+
+	_Channel:
+
+		_ésta opción nos permitirá seleccionar la layer, seleccionar el canal ó criterio de acción para 
+
+		genera el efecto de inversión de éste
+
+
+	_Blend Width Original:
+
+		_ésta opción nos pemritirá indicar el rango de acción de éste efecto en relación a la layer, orignal
+
+		sobre la cuál, fue aplicado éste efecto
+
+
+
+
+
+
+
+
+
+	

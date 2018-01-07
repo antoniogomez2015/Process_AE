@@ -1,0 +1,145 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria crear grillas y diferetnes efectos de producción y paso contínuo para la creación
+
+	de mattes, mapa, módulos, super módulos entre otras posibilidades dentro del constructivismo visual
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Grid: (Cuadricula)
+	_____
+
+
+		_Anchor:
+
+			_control ó handle, a través, del cuál, podremos controlar ó indicar la resolución que tendrá 
+
+			el sistema ó grilla directamente desde el viewport, ó del panel effects controls
+
+
+			_así, como también, hará de epicentro ó punto de anclaje global el cuál, por lo general lo 
+
+			colocaremos en el centro del canvas
+
+
+		_Size From:
+
+			_ésta opción nos permitirá seleccionar el criterio de acción ó configuración del sistema
+
+			de ésta manera, podremos controlar el sistema a través, de un handle, "Corner Point", ó de forma 
+
+			más controlada "Width / Height Sliders"
+
+			
+
+
+		_Corner:
+
+			_control ó handle, a través, del cuál, podremos controlar ó indicar la resolución que tendrá 
+
+			el sistema ó grilla directamente desde el viewport, ó del panel effects controls
+
+
+		_Width:
+
+			_ésta opción nos permitirá controlar el ancho ó resolución horizontal del sistema, ésta opción
+
+			estará disponible sólo cuando la opción en "Size From/Corner Point", no esté seleccionada
+
+
+		_Height:
+
+			_ésta opción nos permitirá controlar el ancho ó resolución vertical del sistema, ésta opción
+
+			estará disponible sólo cuando la opción en "Size From/Corner Point", no esté seleccionada
+
+
+		_Border:
+
+			_ésta opción nos permitirá determinar el grosor de cada línea que conformará el sistema ó 
+
+			grilla de ésta maenra, podremos crear un sistema más fino ó grueso en relación al efecto y
+
+			constructivismo visual deseado
+
+
+		_Feather Width:
+
+			_ésta opción nos permitirá disfuninar ó integrar el sistema en su sentido horizontal con las 
+
+			demás layers, de la composición como también, para la creación de efectos luminosos, otros
+
+
+		_Feather Height:
+
+			_ésta opción nos permitirá disfuninar ó integrar el sistema en su sentido vertical con las 
+
+			demás layers, de la composición como también, para la creación de efectos luminosos, otros
+
+
+		_Invert Grid:
+
+			_ésta opción nos permitirá invertir la posición de los colores y forma del sistema de ésta
+
+			manera, podremos hacer que lo que eran líneas ahora esté vacío y lo que estaba vacío ahora
+
+			esté rellenado del colores especificado, ha modo de inversión global ó negativo
+
+
+		_Color:
+
+			_ésta opción nos permitirá indicar un color de rellenos para el sistema
+
+
+		_Opacity:
+
+			_ésta opción nos permitirá indicar una opacodad determinada para el sistema lo cuál, nos 
+
+			permitirá integrar ésta layer, con las demás layers, de la respectiva composición
+
+
+		_Blending Mode:
+
+			_ésta opción nos permitirá seleccionar un modo de fusión de entre todos los modos de
+
+			fusión disponibles dentro del sistema nativo de blend mode, de la aplicación por defecto
+
+
+
+
+
+
+
+

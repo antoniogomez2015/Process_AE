@@ -1,0 +1,120 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+				https://helpx.adobe.com/es/after-effects/using/obsolete-effects.html#basic_3d_effect
+
+				
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+	
+	NOTA: Los efectos de la categoría Obsoleto se conservan para permitir la compatibilidad con los proyectos 
+
+	creados con versiones anteriores de After Effects. Cuando se actualizan proyectos o se crean proyectos 
+
+	nuevos, debe usar efectos y técnicas alternativos en lugar de los efectos de la categoría Obsoleto.
+
+
+
+
+	_El efecto Supresión de rebase, elimina los trazos de la incrustación por croma de una imagen con una 
+
+	pantalla que ya se ha eliminado. Por norma general, Supresión de rebase se utiliza para eliminar rebases 
+
+	de color de los bordes de una imagen. Los rebases están causados por un reflejo de la luz en la pantalla 
+
+	y en el tema.
+
+
+	_así, como también, para eliminar la contaminación de color sobre el motivo
+
+
+	_Este efecto funciona con colores de 8 bpc y 16 bpc. En After Effects CS6 o versiones posteriores, este 
+
+	efecto funciona con color de 32 bits.
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Spill Suppressor: (Supresion de Rebase)
+	_________________
+
+
+		_Color to Suppress:
+
+			_ésta opción nos permitirá indicarle al sistema a través, de un picker, ó un selector
+
+			de color, el color ha eliminar de la imágen base, el cuál, podra ser un rebase de color
+
+			como también, una contaminación de color sobre el motivo
+
+
+		_Suppression:
+
+			_ésta opción nos permitirá indicarle al sistema la cantidad de color ha eliminar ó 
+
+			suprimir, de ésta manera 
+
+
+			_el sistema buscará neutralizar el color seleccionado el cuál, lo convertirá ha un color 
+
+			gris neutro para que así, éste color gris neutro sea más fácil de integrar y discimular 
+
+			con las demás layers, subyacentes de la composición
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

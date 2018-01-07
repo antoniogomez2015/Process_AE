@@ -1,0 +1,112 @@
+
+
+Official Site:
+
+			
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+DigiEffects Buena Depth Cue Camara Mapper: (Proyección de Cámara sobre Planos)
+__________________________________________
+
+
+	_el plugins, "Buena Depth Cue Camara Mapper", nos permitirá crear proyección de planos a través, de la cámara
+
+	
+	_de ésta manera la cámara principal funcionará como un proyector de cine, proyectando la imágen sobre los planos 
+
+	que harán de "screens", así. dependiendo de la posición de éstos planos ó screens, en el espcio tridimensional 
+
+	representarán un perspectiva diferente ante la segunda cámara orbital en el espacio 3d
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+DigiEffects Buena Depth Cue Depth Map: (Depth of Field)
+______________________________________
+
+
+	_el plugins, "Buena Depth Cue Depth Map", nos permitirá crear ó emular un mapa de profundidas ó "depth map", el
+
+	cuál, podremos utilizar en diferentes procesos de producción como desenfoques realistas, extrusiones, brumas, 
+
+	penumbras, entre otros muchos efectos de producción avanzados y realistas
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+DigiEffects Buena Depth Cue Rackfocus: (Depth of Field)
+______________________________________
+
+
+	_éste es práctivamente una variante el plugins "Depth Map", de ésta misma casa de plugins, más con la diferencia
+
+	de éste no utiliza plugins externos ó nativos de after effects, como el desenfoque de lente ó "Camara Lens Blur",
+
+	si no, que éste utiliza sus propios plugins, en las layers, más una layer, maestra ó "[Master Rack Focus Control]", 
+
+	con la cuál, podremos controlar todo el sistema
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+DigiEffects Buena Depth Cue Atmosphere: (Atmosfera a traves de Camara)
+_______________________________________
+
+
+	_el plugins, "Buena Depth Cue Atmosphere", nos permitirá emular "atmósfera 3d", creando una nibla entre las layers, 
+
+	de diferentes densidades entre si
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+DigiEffects Buena Depth Cue Falloff Lighting: (Luz ambiental 3d eb Depth of Field)
+_____________________________________________
+
+
+	_el plugins, "Buena Depth Cue Falloff Lighting", nos permitirá emular un mapa de "luz ambiental inversa realista", 
+
+	creado en una aplicación 3d
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+DigiEffects Buena Depth Cue FlipSide: (Efectos de layers, en Espejo ó Mirrow)
+_____________________________________
+
+
+	_el plugins, "Buena Depth Cue FlipSides", nos permitirá emular "side by side", para emular que una layer, es reversible 
+
+	y que tiene imágen en ambas caras
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+

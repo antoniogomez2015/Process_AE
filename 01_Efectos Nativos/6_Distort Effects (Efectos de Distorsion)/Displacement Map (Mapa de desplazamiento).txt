@@ -1,0 +1,163 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer deformaciones a través, de desplazamientos tanto horizontales como 
+
+	verticales
+
+
+	_de ésta manera, podremos hacer diferentes efectos tanto para la generación de volúmen como para efectos
+	
+	especiales de paso contínuo y producción
+
+
+	_de ésta manera, para la generación de la deformación requeriremos la creación de mapa de densidad a 
+
+	través, de una layer, auxiliar la cuál, es recomendable que sea una precomposición
+
+
+	
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Displacement Map: (Mapa de desplazamiento)
+	_________________
+
+
+		_Displacement Map Layer:
+
+			_éste selector nos pemitirá seleccionar la layer, que hará de mapa de densidad ó 
+
+			desplazamiento
+
+
+		_Use For Horizontal Displacement:
+
+			_ésta opción nos pemritirá indicar el canal de trabajo a partir del cuál, se realizará 
+
+			el desplazamiento
+
+
+			_entre los cuáles, dispondremos de los canales "R/G/B", "Alpha, Liminance, otros"
+
+
+		_Max Horizontal Displacement:
+
+			_ésta opción nos permitirá indicar la cantidad de desplazamiento en el eje horizontal
+
+
+		_Use For Vertical Displacement:
+
+			_ésta opción nos pemritirá indicar el canal de trabajo a partir del cuál, se realizará 
+
+			el desplazamiento
+
+
+			_entre los cuáles, dispondremos de los canales "R/G/B", "Alpha, Liminance, otros"
+
+
+		_Max Vertical Displacement:
+
+			_ésta opción nos permitirá indicar la cantidad de desplazamiento en el eje vertical
+
+
+		_Displacement Map Behavior:
+
+			_ésta opción nos permitirá indicar el criterio de desplazamiento en relación al canvas
+
+			de ésta manera, dispondremos de las siguientes opciones:
+
+
+				_Stretch Map to Fit:
+
+					_ésta opción hara la deformación tomando en cuenta toda el área del canvas
+
+					en relación al efecto resultante y el mapa de densidad asignado
+
+
+				_Tile Map:
+
+					_ésta opción hara la deformación tomando en cuenta toda el área del canvas
+
+					en relación al efecto resultante y el mapa de densidad asignado, tratando
+
+					de modular el mapa de densidad cuando éste de menor tamaño que el canvas
+
+
+				_Center Map:
+
+					_ésta opción hara la deformación sin tomar en cuenta toda el área del canvas
+
+					en relación al efecto resultante y el mapa de densidad asignado
+
+
+
+
+		_Edge Behavior:
+
+			_Wrap Pixels Around:
+
+				_ésta opción permitirá que el sistema refleje los pixeles del lado opuesto de la imágen
+
+				del canvas para que así, éstos emulen la continuidad del plano cuando éste se desplaza 
+
+				sea vertical y horizontalmente
+
+
+			_Expand Output:
+
+				_ésta opción trabaja en conjunción con la opción anterior y estira lo pixeles 
+
+				existentes en las áreas perimetrales del canvas para completas la imágen en los
+
+				desplazamientos tanto horizontales como verticales
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

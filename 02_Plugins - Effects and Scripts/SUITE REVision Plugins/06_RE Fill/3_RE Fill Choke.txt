@@ -1,0 +1,182 @@
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+	
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE: Fill Choke:
+_______________
+
+
+	_éste efecto nos permitirá retraer ó extender el área perimetral del canal alpha, ó de canales de color respectivamente
+
+	de ésta manera, podremos ajustar los canales de la imágen en relación a nuestras necesidades y bajo diferentes criterios
+
+
+	_yendo un poco más allá de las posibilidades que nos brinda la opción de "RE Fill Alpha"
+
+
+
+
+	_Input Channel:
+
+
+		_Luminance:
+
+			_ésta opción nos permitirá trabajar bajo los valores de luminancia de la imágen
+
+
+		_Alpha:
+
+			_ésta opción nos permitirá trabajar bajo el canal alpha, de la imágen el cuál, puede ser a partir de una
+
+			máscara, ó canal a través, de otros procesos de producción ó un canal incrustado dentro de la propia imágen
+
+		
+		_R/G/B:
+
+			_ésta opción nos permitirá trabajar bajo los valores de R/G/B, de la imágen
+
+
+
+	_Threshold Point %:
+
+		_ésta opción nos permitirá indicar el umbral a contemplar como canal alpha, ó canal de color, de ésta manera,
+	
+		podremos ampliar el rango de acción ó tolerancia sobre un canal de la imágen en relación a un tipo 
+
+		de información y los patrones existentes en ésta
+
+
+	_Choke Amount:
+
+		_ésta opción nos permitirá extender ó retraer el área perimetral del canal alpha, ó un canal de color 
+
+		determinado
+
+
+	_Output Logic:
+
+
+		_Result:
+
+			_ésta opción nos permitirá optener un resultado de canal alpha, ó de color de forma normal así, 
+
+			el reusltado será el convencinal en el cuál, veremos el canal alpha, ó de color aplicado 
+
+			en el sentido correcto ó esperado
+
+
+		_Difference:
+
+			_ésta opción nos permitirá optener un resultado del canal alpha, ó de color de forma invertida el 
+
+			cuál, será mostrado sólo en el área extendida ó retraida en el canal alpha, ó en un canal de color
+
+
+			_lo cuál, nos permitirá mostrar sólo el área de la imágen resultante de forma marginada, mostrando así,
+
+			sólo al área extendida ó retraida
+
+
+		_Before Choking:
+
+			_ésta opción nos permitirá visualizar el canal alpha, aplicado sin efecto de forma natural sobre la
+
+			imágen para diferentes procesos de adición y supervisión sobre la imágen ó layer, respectiva
+
+
+
+	_Output White Mode:
+
+
+		_White to RGB:
+
+			_ésta opción nos permitirá hacer un volcado del canal alpha, ó de color resultando sobre otro canal
+
+			ó criterio determinado, en éste caso; el volcado se realizará sobre el color "RGB"
+
+
+			_de ésta manera, el área de la imágen dentro del área del canal alpha, aparecerá en negro y el área
+
+			correspondiente al área extendida ó retraida aparecerá en color blanco y el área exterior de fuera 
+
+			del área del canal alpha, será transparente
+
+
+		_White to RGB - Fill Alpha:
+
+			_ésta opción es idéntica a la opción anterior de "White to RGB", más en éste caso el área exterior 
+
+			de fuera del área del canal alpha, será también, de color negro
+
+
+		_White to Alpha:
+
+			_ésta es la opción por defecto en la cuál, el canal apha, hará de canal alpha, mostrando la imágen
+
+			enmarcada en éste de forma normal y esperada
+
+
+		_White to R/G/B:
+
+			_ésta opción nos permitirá mostrar un canal como R/G/B, en el área retraida ó extendida y su color
+
+			complementario en el área interna del canal alpha como relleno de la imágen debelada
+
+
+
+	_Extend Rect Edges:
+
+		_ésta opción nos permitirá extender los bordes ó pixeles del área del canal alpha, para integrar en algunos 
+
+		casos mejor la imágen con las demás layers, de la composición respectiva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

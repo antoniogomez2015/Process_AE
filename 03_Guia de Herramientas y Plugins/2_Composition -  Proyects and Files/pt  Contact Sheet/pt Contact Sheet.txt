@@ -1,0 +1,158 @@
+
+
+
+
+pt_contactsheet
+
+
+	Referencia:
+
+		http://aescripts.com/pt_contactsheet/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste nos permite hacer una hoja de contactos ó "contact sheet", de los puntos importantes de nuestra composición 
+
+	para que así, podamos enviarle a nuestro cliente ó colaboradores una hoja de contactos de nuestra animación lo cuál,
+
+	el altamente práctico, incluso más práctico que enviarle proxis, automarizadas, otros
+
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite grandes y prácticos workflows, entre equipos de colaboradores y clientes para tener la posibilidad
+
+	de poder enviarles directamente una hoja de contactos de las partes ha revisar ó aprobar de una animación a un 
+
+	cliente ó equipo de desarrollo y colaboradores, otros,
+
+	
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+	_primero vamos ha tener que hacer una precomposición de la composición deseada pero luego necesitaremos hacer 
+
+	marks, ó marcas de los puntos de interés a convertir en "tumbs", de la hoja de contactos para ésto, debemos crear
+
+	una layer, de tipo "null object", en la composición deseada para en ésta crear las marcas de interés deseadas en la 
+
+	composición antes de pre-componer ésta, shortcut de marks "*"
+
+
+	_así, tendremos que tener en cuenta que cada "marker", ó marca que hagamos se convertirá en una "tumb", de la hoja 
+
+	de contactos, por ésta razón las marcar que hagamos tendremos que mesurarlas en relación a cuantas tumbs, deseamos mostrar
+
+	en la hoja de contactos y en el tamaño que deseamos que tengan éstas, entendiento que entre mayor cantidad de tumbs,
+
+	deseamos visualizar en la hoja de contactos menor será el tamaño que tendrá cada una de éstas
+
+	
+	_y para hacer una pre-composición, para ésto, seleccionamos todas las layers, deseadas de nuestra composición excepto
+
+	la layers, en la cuál, hemos creado las marcas para que ésta no sea incluida en la pre-composición, para luego ir ha 
+
+	"Layer/Pre-compose", ó shortcut "Control + Shift + C", ésta nueva composición la podremos llamar ej: "hoja de contactos"
+
+
+	_de ésta manera tendremos una layer, guía con todas las marcas de interés las cuáles ahora tendremos que pasar a la
+
+	pre-composición resultante que hemos realizado, para ésto, iremos desplazando el cabezal de la composición e iremos 
+
+	agregando marcas en la pre-composición, shortcut "*", activando las opciones del snap, shortcut "Shift"
+
+
+
+
+Choose Source Layer:
+____________________
+
+	_y ahora si, con la pre-composición con las marcas asignadas debemos seleciconar ésta precomposición e ir al panel de
+
+	"pt_ContactSheet", y darle a la opción de "Choose Source Layer", así, el sistema hara un reconocimiento y proporción
+
+	al tamaño de ésta layer, así como si escala relativa a la composición para calcular así, automáticamente cuantas tumbs,
+
+	cabrían en la composición
+
+
+Scale:
+______
+
+	_pero éste cálculo tendremos que mejor hacerlo nosotros para ahorrarnos pasos posteriores, para ésto, lo mejor es dividir
+
+	el tamaño de la composición entre la cantidad de marcas que hemos agregado en los pasos anteriores por ejemplo: para una
+
+	composición de 1920*1080, donde hemos agregado cuatro marcas ésto quiere decir que tendré que dividir el tamaño de la 
+
+	composición entre cuatro menos los márgenes que les daremos a las tumbs
+
+
+	_por ende en el valor de escala podría asignar un valor de tamaño de escala de "45%", de ancho-alto, lo que daria unas
+
+	medidas relativas de "864 x 486px", los cuál, indica que cabrían cuatro tumbs, en el tamaño de la composición
+
+
+Comp size:
+__________
+
+	_éste valor se determina automáticamente al escoger la pre-composición en el paso "Choose Source Layer"
+
+
+Spacing:
+________
+
+	_ésta opción nos permite indicar un valor para el espaciado entre tumbs, generadas (ojo, éste margen debemos calcularlo
+
+	en la ponderación de tumbs, ha generar)
+
+
+Alignement:
+___________
+
+	_ésta opción permite que podamos escoger alternativas de alineamiento de las tumbs
+
+
+Columns / Rows:
+_______________
+
+	_éste valor nos muestra la cantidad relativa de tumbs, ha generar tanto el vertical como en horizontal
+
+
+Make Contact Sheet:
+___________________
+
+	_éste valor nos permite generar la hoja de contactos respectiva
+
+
+
+Exportación:
+____________
+
+
+	_así, podremos exportar ésta hoja de contactos yendo ha "Composition/Save Frame Ass/Photoshop Layer", ó 
+
+	también, a través, de las opciones de cola de render, shortcut, "Control + M", otros
+
+
+
+

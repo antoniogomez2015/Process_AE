@@ -1,0 +1,109 @@
+
+
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+			http://revisionfx.com/products/rsmb/after-effects/
+
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+		
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	RE:VisionFx RSMB (Reel Smart Motion Blur):
+	__________________________________________
+
+
+	_éste efecto nos permitirá crear ó agregar "motion blur", realista ha elementos en movimiento de la escena ha nivel
+
+	global ó específico ha layers, determinadas de forma rápida y práctica y sobre todo ligera en comparación con las
+
+	opciones nativas de apliacación de motion blur
+
+
+	_la aplicación por defecto dispone de la activación de motion blur, por layer, específicamente así, como el forzado
+
+	de motion blur, a través, de un efecto nativo yendo ha "Effects/Time/CC Force Motion Blur"
+
+
+	_más éstas opciones requiere muchos recursos del sistema lo cuál, hace inviable ésta opción es proyectos medianamente
+
+	complejos para lo cuál, lo más recomendable es utilizar las opciones de "REVisionFx Rell Smart Motion Blur", a través,
+
+	de las cuáles, obtendremos mejores resultados y un menor costo para el sistema instalado
+
+
+
+
+
+	RSMB:
+	_____
+
+
+		_Blur Amount:
+	
+			_ésta opción nos permitirá aumentar ó disminuir la cantidad de desenfoque agregado al sistema
+
+
+		_Alt Motion Src:
+
+			_ésta opción nos pemritirá seleccionar una layer, complementaria la cuál, de mapa extra de desenfoque
+
+			a través, de sus valores de luminancia
+
+
+		_Motion Sensitivity:
+
+			_ésta opción nos pemritirá enerbar ó exaltar más ó menos la cantidad de desenfoque aplicable en relación
+
+			a la cantidad y velocidad del movimiento detectado por el sistema de ésta manera, podremos hacer al sistema
+
+			más ó menos sensible al movimiento y a la velocidad de éste movimiento
+
+
+		_Use GPU:
+
+			_ésta opción nos pemritirá activar ó desactivar la aceleración por gpu, ó acelaración gráfica 3d, de ésta
+
+			manera, podremos aumentar la capacidad y velocidad del procesos a través, de la memoria extra de los sistema
+
+			de tarjetas 3d, disponibles de alta gama del mercado
+
+
+		_Match Frame Size:
+
+
+			_Whole Frame:
+
+				_ésta opción es la por defecto y la más recomendada para la mayoría de los casos la cuál, hara una
+
+				ponderación entre los frames contiguos para el cálculo para la generación del sistema
+
+
+			_Defined Region Plus 20%:
+
+				_ésta es una opción alternativa la cuál, hará un cálculo pondera mucha mayor el cuál, contemplará
+
+				una áreas más grande ó una cantidad de frames, mucho mayor lo cuál, a su vez, requirá mas memoria
+
+				por parte del sistema
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+Extrucion de texto o capas para emular 3d
+
+la expresion tiene el objetivo de que el "eje Z", cambie mientras se van duplicando las capas 
+
+1.activar las propiedades de expresiones en la propiedad de la capa "position"
+
+2.escribimos en el campo de la empresiones: x=
+
+3.luego vinculo el valor de "x", de la propiedad posicion con el pick handle para asi asignarle un valor a la expresion en su valor "x"
+y le indicamos que ese valor no cambie. Como no es la ultima linea escribimos ";", para crear otra linea y asignar los otros valores
+
+4.luego vinculo el valor de "y", de la propiedad posicion con el pick handle para asi asignarle un valor a la expresion en su valor "y"
+y le indicamos que ese valor no cambie. Como no es la ultima linea escribimos ";", para crear otra linea y asignar los otros valores
+
+5.luego para la propiedad de interes en este caso la "z", escribiremos: "z=index*2;", asi, index, devolvera el valor numerico del orden 
+de las capas y lo multiplicara por le numero indicado en este caso es por "2", luego le damos ";"
+
+6.luego debemos indicar que vale cada una de las condenadas, para esto escribimos: [x,y,z]
+
+7.esta expresion quedaria asi, ejemplo:
+
+	x=transform.position[0];
+	y=transform.position[1];
+	z=index*2;
+	[x,y,z]
+
+
+8.luego seleccionamos la capa y la duplicamos mientras vemos como una capa se coloca contigua a la anterior generando un grosor emulando
+un 3d, debemos entonces duplicar la capa hasta que estemos satisfechos con la extrucion conseguida

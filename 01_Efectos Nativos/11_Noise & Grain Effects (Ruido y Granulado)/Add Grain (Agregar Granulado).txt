@@ -1,0 +1,625 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá agregar el efecto de granulado para emular así, el efecto de películas ó film,
+
+	convencional no digital ó para otros efectos de producicón y aso contínuo, otros
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Add Grain: (Agregar Granulado)
+	__________
+
+
+		_Viewing Mode:
+
+
+			_Preview:
+
+				_ésta opción nos permitirá visualizar la aplicación del efecto en una zona ó región
+
+				limitada en un rectángulo el cuál, podremos personalizar en relación a nuestras
+
+				necesidades
+
+
+				_de ésta manera, éste recuadro de previsualización lo podremos hacer más grande ó
+
+				más pequeño en relación al área que deseamos ver aplicado el efecto sobre nuestro 
+
+				motivo
+
+
+				_como también, podremos mover éste recuadro hasta una zona ó área de interés en la 
+
+				cuál, deseamos ver el efecto aplicado para que así, podamos hacer pruebas y ensayos
+
+			
+			_Blending Matte:
+
+				_ésta opción nos permitirá visualizar directamente en el viewport, del panel 
+
+				"compositing", el matte, generado para la aplicación del proceso, éste matte, también,
+
+				lo podremos utilizar para diferentes procesos de paso contínuo y producción, otros
+
+
+			_Final Output:
+
+				_ésta opción nos permitirá aplicar el efecto sobre toda la layer, sobre la cuál, hemos
+
+				aplicado el efecto omitiendo así, el recuadro de previsualización previa del efecto
+
+
+
+		_Preset:
+
+
+			_[None]:
+
+				_ésta es la opción por defecto la cuál, no aplicará ningún preset, que emule ninguna
+
+				película ó configuración personalizada por nosotros ó por terceros
+
+
+			_Films Presets:
+
+				_ésta opción nos permitirá seleccionar una gama de presets, los cuáles, emularán
+
+				diferentes películas ó "films", los más clásicos para que así, podamos aplicar éstas
+
+				emulaciones de forma práctica y en un sólo paso
+
+
+
+		_Preview Region:
+
+
+			_Center:
+
+				_ésta opción nos pemritirá reubicar el recuadro de previsualización del efecto para 
+
+				que así, podamos ubicar éste recuadro en un área de interés determinada por nosotros
+
+				a través, de un handle, directamente en viewport, del panel "compositing", ó por medio 
+
+				de parámetros numéricos en el efecto en el panel "effects controls"
+
+
+				_ésta opción aplicará sólo si la opción "Vewing Mode", está en la opción de "Preview"
+
+
+			_Width:
+
+				_ésta opción nos pemritirá indicar un ancho personalizado para el recuadro de 
+
+				previsualización para que así, éste recuadro cubra un área personalizda por nosotros
+
+
+				_ésta opción aplicará sólo si la opción "Vewing Mode", está en la opción de "Preview"
+
+
+			_Height:
+
+				_ésta opción nos pemritirá indicar un alto personalizado para el recuadro de 
+
+				previsualización para que así, éste recuadro cubra un área personalizda por nosotros
+
+
+				_ésta opción aplicará sólo si la opción "Vewing Mode", está en la opción de "Preview"
+
+
+			_Show Box:
+
+				_ésta opción nos pemritirá indicar si el recuadro de previsualización será visible a
+
+				través, de un área perimetral de color ó si preferimos que éste no esté enmarcado en 
+
+				dicha área perimetral de color
+
+
+				_ésta opción aplicará sólo si la opción "Vewing Mode", está en la opción de "Preview"
+
+
+			_Box Color:
+
+				_así, como también, podremos indicar si el recuadro de previsualización se visualizará
+
+				a través, un color blanco por defecto ó si deseamos indicar un color personalizado a
+
+				través, de un picker, ó un selector de color personalizado para que así, ésta área
+
+				perimetral disponga de un color distintivo a los colores de la imágen bese y por ende
+
+				haya contraste entre ambos elementos
+
+
+				_ésta opción aplicará sólo si la opción "Vewing Mode", está en la opción de "Preview"
+
+
+
+		_Tweaking:
+
+
+			_Intensity:
+
+				_a través, de éste control podremos "tweaking", ó ajustar la intensidad del efecto lo
+
+				que permitirá que podamos hacer éste más ó menos visible ó acentuado para que así,
+	
+				éste tenga más presencia sobre la layer, base sobre la cuál, hemos aplicado el efecto
+
+
+			_Size:
+
+				_a través, de éste control podremos "tweaking", ó ajustar el tamaño del efecto de
+
+				granulado lo cuál, a su vez, aumentará la presencia del granulado de ésta manera, éste
+
+				control por lo general estará superditado al control de "Intensity", ó valor anterior
+
+
+			_Softness:
+
+				_a través, de éste control podremos "tweaking", ó ajustar el distanciamiento y a su
+
+				vez, el suavizado entre granos de ésta manera, el efecto más natural se logrará 
+
+				indicando un valor de "0"
+
+
+				_más con valores superiores ha "0-1", lograremos granos más separados entre si y más
+
+				suavizados ó interpolados entre si a través, de un desenfoque lo cuál, bajará la 
+
+				acutancia y la definición lo cuál, nos permitirá generar diferentes efectos
+
+
+			_Aspect Ratio:
+
+				_ésta opción nos permitirá cambiar el aspecto de los pixeles que conformarán el 
+
+				granulado de forma horizontal lo que nos permitirá a su vez, lograr diferentes efectos
+
+				posibles de deformación y estiramiento con valores distintos ha "1", para diferentes 
+
+				procesos de producción y de paso contínuo
+
+
+			_Channel Intensities:
+
+
+				_R|G|B Intensity Channels:
+
+					_ésta opción nos permitirá hacer desbalances entre los canales de color que
+
+					conforman la mezcla del efectos de granulado de ésta manera, podremos hacer 
+
+					que el efecto de granulado tenga determinadas dominantes de color a través, 
+
+					del control de sus canales independientemente
+
+
+					_ésta opción estará superditada a que si la opción de "Color/Monochromatic", 
+
+					esté activada ó desactivada
+
+
+
+			_Channel Size:
+
+
+				_R1G|B Size Channels:
+
+					_e incluso podremos variación de tamaño del efecto granulado generado a 
+
+					través, de los canales color de ésta manera, podremos aumentar ó disminuir el
+
+					tamaño  de los granulos en relación a su color 
+
+
+					_para que así, podamos lograr efectos múltiples como volumetrías por densidad,
+
+					matrices, entre otras posibilidades de producción y paso contínuo
+
+
+
+		_Color:
+
+
+			_Monochromatic:
+
+				_ésta opción nos pemritirá descartar toda la información de color del sistema de
+
+				granulado generado para que así, sólo utilicemos el efecto granulado como un volúmen
+			
+				ó mapa de densidad ó matte, entre otros procesos de producción y paso contínuo
+
+
+			_Saturation:
+
+				_ésta opción nos permitirá hacer variaciones sobre la saturación de los colores 
+
+				activos ó visibles en el sistema de granulado
+
+
+				_ésta opción aplicará sólo si la opción de "Color/Monochromatic", esté activada ó 
+
+				esté desactivada
+
+
+			_Tint Amount:
+
+				_ésta opción nos pemritirá indicar la cantidad de color seleccionado en el paso
+
+				siguiente en la opción de "Tint Color"
+
+
+				_ésta opción aplicará sólo si la opción de "Color/Monochromatic", esté activada ó 
+
+				esté desactivada
+
+
+
+			_Tint Color:
+
+				_ésta opción nos pemritirá indicar un color personalizado a través, de un picker, ó
+
+				a través de un selector de color personlizado para que así, podamos teñir el efecto
+
+				de granulado de un color personalizado para diferentes efectos de producción y paso
+
+				contínuo
+
+
+				_ésta opción aplicará sólo si la opción de "Color/Monochromatic", esté activada ó 
+
+				esté desactivada
+
+
+		
+		Application:
+
+			
+			_Blending Mode:
+
+
+				_Film:
+
+					_ésta opción nos permitirá indicar el modo de fusión ó integración del efecto
+
+					de granulado con la layer, base a la cuál, le hemos aplicado el efecto de
+
+					ésta manera, la opción de "Film", es la opción más untegral y balanceada la
+
+					cuál, nos permitirá crear un efecto más realista para la mayoría de los casos
+
+
+
+				_Multiply | Add | Screen | Overlay:
+
+					_ésta opción nos permitirá indicar el modo de fusión ó integración del efecto
+
+					de granulado con la layer, base a la cuál, le hemos aplicado el efecto de
+
+					ésta manera, dispondremos de los modos de fusión más universables y útiles
+
+					para diferentes procesos de producción paso contínuo
+
+			_Shadows:
+
+				_ésta opción nos permitirá resaltar más las áreas de las sombras ó áreas más oscuras
+
+				del efecto granulado generado para que así, éstas áreas resalten del fondo ó layer,
+
+				base a la cuál, le hemos aplicado el efecto
+
+
+			_Midtones:
+
+				_ésta opción nos permitirá resaltar más las áreas de los medios tonos ó áreas de la
+
+				gamma tonal media del efecto granulado generado para que así, éstas áreas resalten 
+
+				del fondo ó layer, base a la cuál, le hemos aplicado el efecto
+
+
+			_Hightlights:
+
+				_ésta opción nos permitirá resaltar más las áreas de las altas luces ó áreas más
+
+				brillantes ó con un gain, ó ganancia superior del efecto granulado generado para que 
+
+				así, éstas áreas resalten del fondo ó layer, base a la cuál, le hemos aplicado el 
+
+				efecto
+
+
+			_Midpoint:
+
+				_(indeterminado)
+
+
+
+			_Channel Balance:
+
+
+				_Red Shadows | Midtones | Hightlights:
+
+					_ésta opción nos permitirá ajustar el gain/pedestal, ó ganancia y saturación
+
+					de los niveles ó luminancia de los colores por canal y por rango tonal ó levels
+
+
+					_de ésta manera, podremos controlar las sombras u tomos oscuros, medios tonos 
+
+					y las altas luces ó brillos del color y a su vez, por canal, en éste caso para
+
+					los rojos
+
+
+				_Green Shadows | Midtones | Hightlights:
+
+					_ésta opción nos permitirá ajustar el gain/pedestal, ó ganancia y saturación
+
+					de los niveles ó luminancia de los colores por canal y por rango tonal ó levels
+
+
+					_de ésta manera, podremos controlar las sombras u tomos oscuros, medios tonos 
+
+					y las altas luces ó brillos del color y a su vez, por canal, en éste caso para
+
+					los verdes
+
+
+				_Blue Shadows | Midtones | Hightlights:
+
+					_ésta opción nos permitirá ajustar el gain/pedestal, ó ganancia y saturación
+
+					de los niveles ó luminancia de los colores por canal y por rango tonal ó levels
+
+
+					_de ésta manera, podremos controlar las sombras u tomos oscuros, medios tonos 
+
+					y las altas luces ó brillos del color y a su vez, por canal, en éste caso para
+
+					los azules
+
+
+
+		_Animation:
+
+			
+			_Animation Speed:
+
+				_ésta opción nos permitirá indicarle al sistema si deseamos que éste tenga una animación
+
+				inicial y en que proporción de velocidad inicial
+
+
+			_Animate Smoothly:
+
+				_ésta opción nos permitirá activar la opción de animación suavizada lo cuál, permitirá
+
+				animaciones más interpoladas ó con una mejor transición entre movimiento y movimiento
+
+
+				_ésta opción es especialmente útil para animaciones en las que hemos creado un sistema
+
+				de granulado con una escala mucho mayor a la normal
+
+
+			_Random Seed:
+
+				_ésta opción nos pemritirá indicar un valor aleatorio de animación inicial al sistema
+
+				de granulado, ésta opción estará superditada a la opción de "Animation Speed"
+
+
+
+		_Blend With Original:
+
+
+			_Amount:
+
+				_ésta opción nos permitirá indicar la proporción de integración ó fusión del sistema de
+
+				granulado con la layer, base, de ésta manera, podremos controlar el modo de fusión del
+
+				sistema de granulado y a su vez, la opacidad de éste a través, de un umbral 
+
+				personalizable
+
+
+			_Combine Match and Mask:
+
+
+				_Multiply | Screen:
+
+					_ésta opción nos permitirá seleccionar entre los dos modos de fusión más comúnes
+
+					para éste tipo de procesos en relación a nuestras necesidades
+
+
+			_Blur Matte:
+
+				_ésta opción nos permitirá agregar un desenfoque al matte, generado para la creación del
+
+				sistema de granulado lo que permitirá lograr en ciertos casos, unos resultados más
+
+				integrados entre otras posibilidades de producicón y paso contúnio
+
+
+			_Color Matching:
+
+
+				_Match Color using:
+
+
+					_RGB:
+
+						_ésta opción nos permitirá seleccionar el espacio de color ó algoritmo
+
+						de pre cálculo para la integración del sistema con la layer, base en
+
+						éste caso el "RGB", ó espectro de color más ámplio
+
+
+					_HUE:
+
+						_ésta opción nos permitirá seleccionar el espacio de color ó algoritmo
+
+						de pre cálculo para la integración del sistema con la layer, base en
+
+						éste caso el "HUS", ó limitado por el tono, saturación y brillo
+
+
+					_Chroma:
+
+						_ésta opción nos permitirá seleccionar el espacio de color ó algoritmo
+
+						de pre cálculo para la integración del sistema con la layer, base en
+
+						éste caso el "Chroma", ó un color clave, por lo general un color verde
+
+						específico y estándar para la industria
+
+
+					_Luminance:
+
+						_ésta opción nos permitirá seleccionar el espacio de color ó algoritmo
+
+						de pre cálculo para la integración del sistema con la layer, base en
+
+						éste caso el "Luminance", ó mapa de densidad ó matte
+
+
+					_R|G|B Channels:
+
+						_ésta opción nos permitirá seleccionar el espacio de color ó algoritmo
+
+						de pre cálculo para la integración del sistema con la layer, base en
+
+						éste caso el "R|G|B Channels", ó canales de colores independientes
+
+
+
+				_Matching Color:
+
+					_ésta opción nos permitirá indicar un color personalizado a través, de un picker,
+
+					ó selector de color personalizado para que así, podamos indicar un color 
+
+					específico para una integración concreta con los colores de la layer, base sobre
+
+					cuál, hemos aplicado el efecto de granulado
+
+
+				_Matching Tolerance:
+
+					_ésta opción nos permitirá indicar un valor o umbral a través, del cuál, podremos
+
+					indicarle al sistema cuán sensible será en relación al espacio de color ó 
+
+					algoritmo seleccionado
+
+
+				_Matching Softness:
+
+					_ésta opción nos permitirá indicar un valor de suavizado y desenfoque para la 
+
+					integración del sistema con la layer, base a través, del cuál, podremos cambiar
+
+					comportamiento y separación entre cada grano del sistema de granulado
+
+
+				_Invert Match:
+
+					_ésta opción nos permitirá invertir todo el comportamiento del espacio de color
+
+					y algoritmo seleccionado para la integración del sistema de granulado con la 
+
+					layer, base a la cuál, le hemos aplicado el efecto
+
+
+
+			_Masking Layer:
+
+
+				_Mask Layer:
+
+					_(Indeterminado de aquí en adelante)
+
+
+				_Masking Mode:
+
+
+					_Intensity:
+
+						_
+
+
+					_Alpha:
+
+						_
+
+
+					_Inverted Intensity:
+
+						_
+
+
+					_Inverted Alpha:
+
+						_
+
+
+
+				_If Mask Size Deffers:
+
+
+					_Center:
+
+						_
+
+
+					_Stretch To Fit:
+
+						_
+
+
+
+
+

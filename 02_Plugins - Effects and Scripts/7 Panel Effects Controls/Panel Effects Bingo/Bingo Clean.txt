@@ -1,0 +1,150 @@
+
+
+http://www.lequochai.com/tools/bingo.html
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Bingo
+
+
+	Bingo:
+
+
+	-este es otra sección o apartado del plugins la cuál, nos ofrece otra serie de opciones relacionada con
+
+	reducción y optimización del proyecto así, como también la administración de grupo de layers, entre otras
+
+	opciones
+
+
+
+	Workflow:
+	_________
+
+
+	Clean:
+	______
+
+
+		_pestaña número 2 del plugins 
+
+					
+
+
+	Proj Clean-up:
+
+
+		_ésta sección nos ofrece tre diferentes opciones ó criterios para la optimización del proyecto y los
+
+		que archivos de éste se compone
+
+
+		_Asset Optimizer:
+
+			_ésta opción elininará archivos que no estén en uso en el panel project/3.assets/.., 
+
+			así, como imágenes entre otros, que no hayan sido utilizados en ninguna composición
+
+
+		_Project Reduce:
+
+			_éste tratará de hacer una reducción del proyecto eliminando archivos redundantes del
+
+			proyecto ó que estén repetidos, otros
+
+
+		_Item Type Sort:
+
+			_ésta opción simplificará la estructura de proyecto ó de carpetas creada, dejando sólo
+
+			las carpetas en eso y renombrándolas agregándoles el prefijo "Sorted", eliminando las que 
+
+			no se han utilizado, de ésta manera el proyecto se verá más simple
+
+
+
+	Layer Group Name:
+
+		_ésta sección nos permite hacer grupos de layers, a través, de labels, de color, nombres de grupos
+
+		así, como también, a través, de la utilización de los suiches de capa
+
+
+		_de ésta manera podremos organizar el contenido y el flujo de producción y animación, así, podremos
+
+		visualizar grupos de layers, ó ocultarlos, como también, seleccionar éstos, eliminarlos, otros
+
+
+
+		_Layer Group Name:
+
+			_ésta opción nos brinda un campo en el cuál, indicar un nombre para el grupo ha generar
+
+
+		_Color:
+
+			_ésta opción nos permite seleccioanr un color distintivo para el grupo que se generará
+
+
+
+		_Set  Group Label:
+
+			_ésta opción nos permitirá generar ó crear el grupo
+
+
+		_Set Unsed:
+
+			_ésta opción captura y oculta las layers, seleccionadas en una composición (Indeterminado)
+
+
+		_Remove Unused:
+
+			_ésta opción elimina las layers, capturadas en el paso anterior (Indeterminado)
+
+
+		_Get Group List:
+
+			_ésta opción permique que la lista de grupos de abajo se actualize para cuando vamos 
+
+			creando más grupos
+
+
+		_Precomp:
+
+			_"ésta opcíon requiere haber seleccionado un grupo de panel de arriba"
+
+
+			_ésta opción nos permite hacer un precomposición de las layers, que conforman un grupo
+
+
+		_Off:
+
+			_"ésta opcíon requiere haber seleccionado un grupo de panel de arriba"
+
+			
+			_ésta opción nos permite ocultar las layers, que conforman un grupo
+
+
+		_On:
+
+			_"ésta opcíon requiere haber seleccionado un grupo de panel de arriba"
+
+			
+			_ésta opción nos permite hacer visibles las layers, que conforman un grupo así, como
+
+			también, seleccionar éstas automáticamente
+
+
+		_Deñete:
+
+			_"ésta opcíon requiere haber seleccionado un grupo de panel de arriba"
+
+
+			_ésta opción nos permite eliminar la layers, que conforman un grupo
+
+
+

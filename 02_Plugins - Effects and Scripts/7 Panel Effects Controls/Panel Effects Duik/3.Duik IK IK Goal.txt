@@ -1,0 +1,105 @@
+
+
+http://duduf.net/index.php/products/after-effects/duik/
+
+	Referencia:
+
+		Tutorial basico de rigging con Duik
+			https://www.youtube.com/watch?v=3WiNMHMMduc
+
+		TUTORIAL: DUIK - ARTICULACIONES AUTOMATIZADAS EN AFTER EFFECTS
+			https://www.youtube.com/watch?v=Oi4G1-p59uI
+
+		DUIK 15 full tutorial overview Part 1 Rigging character tools
+			https://www.youtube.com/watch?v=2-m0Mc0ZTP8&list=PLL1LC1tW73eUOt7qjWvn3nYOkYOoQscmy
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Duik
+
+
+	Duik:
+
+
+	-este nos permite hacer sistema de kinemática y cinemática de character, y otros tipos de animaciones
+
+	así, como también, riggings, completos y asistidos con diferentes tipos de controles, limitadores y
+
+	disparadores ó trigers, de animación, otros
+
+
+	_ésta opción de hacer el proceso de rigging, de forma manual, es especialmente útil en characters, en 
+
+	los cuales requiere un especial cuidado ó éste es especialmente diferente a los estándares de posición 
+
+	de éste ó si éste no es un bípedo ó posee unas características únicas
+
+
+	_de ésta manera, el sistema "IK", nos permitirá configurar extremidades con kinemática inversa y directa
+
+	las cuales podremos integrar con otras extremidades y characters, ya realizados ó en proceso, otros
+
+
+	_como también, nos permite tener aplicaciones en máquinas ó otros elementos mecánicos, otros, que no son
+
+	characters, ni obedecen a ningún estandar de animación
+
+
+
+
+	Workflow:
+	_________
+
+
+	Descripción:
+
+	_la opción de IK Goal, nos permite hacer un relacionamiento kinemático entre layers, que se mueven ó 
+
+	interactúan de forma relativa la una de la otra
+
+
+	_ésto es especialmente útil para la configuración de partes de characters 
+
+
+	_así, como también, para la animación en general donde deseamos por ejemplo que una serie de layer, 
+
+	emparentadas con otras, y al rotarlas ó moverlas éstas a su vez, mantengan su orientación relativa a su
+
+	posición orignal, ésto quiere decir que éstas layers, no cambiarán su orientación en relación a la layer, 
+
+	sobre cuál, rotan ó se mueven
+
+
+
+	Parents:
+
+	_para ésto, debemos hacer los emparentamientos deseados según la lógica del character, ó animación en general
+
+	para luego aplicar el sistema de "IK Goal", a las layers, que deseamos que mantengan su orientación original
+
+
+
+	IK Goal:
+
+	_de ésta manera, debemos seleccionar una layer, a la cuál, deseamos aplicarle el sistema de "IK Goal", y con
+
+	ésta seleccionada ir al panel "Duik/rigging/", y debemos darle al botón "IK Goal", para que así, se le agrege
+
+	ha ésta layer, el efecto de control de "Goal/Checkbox", el cuál, podremos activar ó desactivar en cualquier
+
+	momento e incluso animar éste control
+
+
+	_de ésta manera, podremos repetir éstos pasos para el resto de layers, a las cuales deseamos aplicarle el 
+
+	sistema de Ik Goal, para que así, éstas layers, mantengan su orientación original de cara a la layers, de la
+
+	cuál, estan emparentadas
+
+
+
+
+

@@ -1,0 +1,410 @@
+
+
+3D and Production para After Effects
+
+
+	Referencia
+
+		http://aescripts.com/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Evil Twin Stereo 3D:
+____________________
+
+	
+	Descripción: (éste permite hacer el efecto 3d anagliph)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(C) / Toobar left superior / Referencia (al lado izquierdo del panel proyecto por fefault)
+
+
+	Referencia en la web: http://videohive.net/item/aw_triangulator/6977783?s_phrase=&s_rank=49  https://vimeo.com/105584249
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Locations: (problemas revisar versiones de mapa disponebles para éste sistema)
+__________
+
+	
+	Descripción: (éste permite hacer mapas 3d, a través, referencias de mapas reales digitales)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(C) / Toobar left superior / Referencia (al lado izquierdo del panel proyecto por fefault)
+
+
+	Referencia en la web: http://aescripts.com/locations/
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Elementary: 
+___________
+
+	
+	Descripción: (éste extender las posibilidades de "Element 3d", así, la de otros plugins de efectos 3d y dinámicos)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(D) / Panel Proyecto / Referencia (Panel Proyecto por default)
+
+
+	Referencia en la web: http://aescripts.com/elementary/
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+EFX Render 1 Shadow Fix: 
+________________________
+
+	
+	Descripción: (éste permite corregir la veladuras ó "halos blanquecinos" entre los planos de los "shadow map", 
+
+	obtenidos de aplicaciones 3d)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		"Effects/EFX RE/EFX_Shadow Fix"
+
+
+	Referencia en la web: http://aescripts.com/efx-render-elements-z-depth-tools/
+
+				https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+EFX Z_Depth Compose: 
+____________________
+
+	
+	Descripción: (éste permite hacer depth maps, compuestos a través, de dos tipos de depth map, existesntes
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		"Effects/EFX EFX Z_Depth Compose"
+
+
+	Referencia en la web: http://aescripts.com/efx-render-elements-z-depth-tools/
+
+				https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+EFX ID Blur 10: 
+_______________
+
+	
+	Descripción: (éste permite hacer desenfoques a través, de un "ID Map", sin la necesidad de crear plano y un "depth map",
+
+	hecho por nosotros ó por una aplicación 3d
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		"Effects/EFX RE/EFX_ID Blur 10"
+
+
+	Referencia en la web: http://aescripts.com/efx-render-elements-z-depth-tools/
+
+				https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+EFX ID Blur 20: 
+_______________
+
+	
+	Descripción: (éste permite hacer desenfoques a través, de un "ID Map", sin la necesidad de crear plano y un "depth map",
+
+	hecho por nosotros ó por una aplicación 3d
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		"Effects/EFX RE/EFX_ID Blur 20"
+
+
+	Referencia en la web: http://aescripts.com/efx-render-elements-z-depth-tools/
+
+				https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+EFX ID Blur 40: 
+_______________
+
+	
+	Descripción: (éste permite hacer desenfoques a través, de un "ID Map", sin la necesidad de crear plano y un "depth map",
+
+	hecho por nosotros ó por una aplicación 3d
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		"Effects/EFX RE/EFX_ID Blur 40"
+
+
+	Referencia en la web: http://aescripts.com/efx-render-elements-z-depth-tools/
+
+				https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+EFX ID-Z_Depth Blur 10: 
+_______________________
+
+	
+	Descripción: (éste permite hacer desenfoques similares a los que hacer "EFX ID Blur 10/20/40", más con la incorporación
+
+	de un "ZDepth Pass", para aumentar las posibilidades y controles de acción en los planos de desenfoque
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		"Effects/EFX RE/EFX ID-Z_Depth Blur 10"
+
+
+	Referencia en la web: http://aescripts.com/efx-render-elements-z-depth-tools/
+
+				https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+EFX ID-Z_Depth Blur 20: 
+_______________________
+
+	
+	Descripción: (éste permite hacer desenfoques similares a los que hacer "EFX ID Blur 10/20/40", más con la incorporación
+
+	de un "ZDepth Pass", para aumentar las posibilidades y controles de acción en los planos de desenfoque
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		"Effects/EFX RE/EFX ID-Z_Depth Blur 20"
+
+
+	Referencia en la web: http://aescripts.com/efx-render-elements-z-depth-tools/
+
+				https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+EFX ID-Z_Depth Blur 40: 
+_______________________
+
+	
+	Descripción: (éste permite hacer desenfoques similares a los que hacer "EFX ID Blur 10/20/40", más con la incorporación
+
+	de un "ZDepth Pass", para aumentar las posibilidades y controles de acción en los planos de desenfoque
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		"Effects/EFX RE/EFX ID-Z_Depth Blur 40"
+
+
+	Referencia en la web: http://aescripts.com/efx-render-elements-z-depth-tools/
+
+				https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+EFX ID Edge Blur 2: 
+___________________
+
+	
+	Descripción: (éste permite hacer desenfoques y suavizado a los border de mapas como el "ID Map", para que así
+
+	suavicemos la acutancia entre los border para lograr en ocaciones resultados más realistas
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		"Effects/EFX RE/EFX ID Edge Blur 2"
+
+
+	Referencia en la web: http://aescripts.com/efx-render-elements-z-depth-tools/
+
+				https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+EFX Z_Depth Cut: 
+________________
+
+	
+	Descripción: (éste permite hacer mattes, a través, del desplazamiento de un "depth map", para que así, podamos
+
+	hacer transiciones de mattes, por medio de los diferentes planos encontrados en el depth map
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		"Effects/EFX RE/EFX Z_Depth Cut"
+
+
+	Referencia en la web: http://aescripts.com/efx-render-elements-z-depth-tools/
+
+				https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+EFX Velocity Select: 
+____________________
+
+	
+	Descripción: (éste permite hacer transiciones y desenfoques relativos por opacidad en mapas de "Velocity Map",
+
+	tmabién, puede utilizar en imágenes estáticas para hacer transparencias relativas de planos
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		"Effects/EFX Velocity Select"
+
+
+	Referencia en la web: http://aescripts.com/efx-render-elements-z-depth-tools/
+
+				https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+EFX ID Select: 
+______________
+
+	
+	Descripción: (éste permite hacer selecciones más precisas y selectas de las diferentes reservas dentro de un
+
+	"ID Map", como base permite hacer has cinco selecciones de reservar para luego acceder ha éstas a través, de un slider
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		"Effects/EFX ID Select"
+
+
+	Referencia en la web: http://aescripts.com/efx-render-elements-z-depth-tools/
+
+				https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+EFX Alpha Streaks: 
+__________________
+
+	
+	Descripción: (éste permite mejorar el alpha, resultante de todo el proceso eliminando las rayas ó fisuras en el mismo)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		"Effects/EFX Alpha Streaks"
+
+
+	Referencia en la web: http://aescripts.com/efx-render-elements-z-depth-tools/
+
+				https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+EFX Render 1 Depth Shadow: 
+__________________________
+
+	
+	Descripción: (éste permite corregir la veladuras ó "halos blanquecinos" entre los planos de los "shadow map", 
+
+	obtenidos de aplicaciones 3d)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		"Effects/EFX RE/EFX_Z_Depth_Shadow"
+
+
+	Referencia en la web: http://aescripts.com/efx-render-elements-z-depth-tools/
+
+				https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+
+

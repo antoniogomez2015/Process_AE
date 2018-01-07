@@ -1,0 +1,404 @@
+
+
+http://aescripts.com/tracker2mask/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Tracker2Mask
+
+
+	Tracker2Mask:
+
+
+	-éste plugins, nos permitirá trackear, ó hacer seguimiento de máscaras complejas ha modo de rotoscopia al mejor 
+
+	modo de "Mocha Pro"
+
+
+	_de ésta manera, podremos obtener una gran ayuda en el proceso de producción al necesitar trackear una
+
+	máscara muy compleja, ya que el sistema no es perfecto, es decir, que no logra señirse la máscara compleja
+
+	trackeada sobre el motivo complejo pero si se acerca bastante lo cuál, nos permitirá tener que hacer sólo 
+
+	ajustes menores sobre la máscará resultante para que así, ésta se siña perfectamente
+
+	
+	_para lo cuál, el sistema hace uso de las herramientas nativas de trackeo ó seguimiento de la aplicación,
+
+	de ésta manera, lo más recomendado es la utilización de más de dos puntos de trackeo (4 puntos), para
+
+	obtener así, la deformación y distorción por perspectiva y movimiento en general del motivo dentro de la
+
+	escena en 3d, del video
+
+
+
+	Workflow:
+	_________
+
+
+	Requerimiento:
+	______________
+
+
+		Tracker:
+		________
+
+		_primero tendremos que crear los puntos de tracker, necesarios en relación a las dimensiones del 
+
+		motivo como de su forma
+
+		
+		_para elementos cuadrados basta con colocar un punto de trackeo en cada esquina de referencia, 
+
+		pero para elementos más complejos tendremos que colocar los puntos de referencia en los extremos 
+
+		de la forma general sin tomar en cuenta su forma detallada 
+
+
+		_para que de ésta manera el sistema tome las referencias de movimiento y distorción del motivo
+
+
+		Tracker Preview:
+		________________
+
+		_para lo cuál, lo más recomendado es hacer una composición con el video/footage, ó mateiral ha
+
+		tracker, para que así, no haya diferencias entre reescalado y distorción ó reinterpretación del
+
+		frame rate, y demás elementos nativos del video ó material de archivo para el proceso de trackeo
+
+
+		_así, como también, antes de comenzar con el proceso de trackeo es recomendable colocar la 
+
+		resolución del viewport, en la máxima calidad, shortcut "Control + J", y "Control + Alt + 1",
+
+		ya que el viewer Layer, de edición de track, hereda la visualización del viewport, principal de 
+
+		composición
+
+
+		Teacker Options:
+		________________
+
+		_y ahora para comenzar con el proceso de tracker, debemos hacer mouse right click, sobre la layer,
+
+		de video y seleccionar la opción de "Track Motion", ó yendo ha "Menú/Animation/Track Motion", para
+
+		que así, el material de archivo se abra dentro del panel "Layer" 
+
+
+		_mientras que a su vez, se abre el panel "Tracker", en el cuál, podremos realizar el proceso de 
+
+		trackeo ya que también, en el panel layer, abierto también, se habrá agregado un punto de tracker
+
+
+		_para posteriormente en las opciones del panel track, debemos colocar las opción de "Track Type",
+
+		en "Perspective Corner Pin", por ejemplo para que así, el sistema nos ofresca cuatro puntos de track,
+
+		para que así, de ésta manera, podremos ajustar los puntos distribuidos en el área deseada sobre el
+
+		motivo para posteriormente volver ha colocar la opción de "Track Type", en la opción de "Transform", 
+
+		pero ahora podremos ver que conservamos los cuatro puntos de track, desvinculados como los necesitamos 
+
+		para el proceso
+
+
+		NOTA: entre más área dejemos en el área de seguimiento en cada punto de rastreo tanto en el área de 
+
+		seguimiento interior como en la exterior rodeando el aspa de cada track, tendremos más posibilidades
+
+		éxito de seguimiento así, como si el motivo tiene suficiente contraste y definición
+
+
+		_para leugo ir a las opciones de "Track/Options..", y activar la el modo de 
+
+		"Adapt Features On Every Frame", de ésta manera, el sistema funcionará mejor para la interpolación
+
+		especial fotograma ha fotograma
+
+
+		_activar las opciones de "Rotation", y "Scale", serán opcionales y estarán sugetas ha pruebas y 
+
+		comprobación de sus resultados		
+
+
+		_para posteriormente comenzar con el proceso de track, ó seguimiento de forma cuidadosa hacia 
+
+		adelante y hacia atras hasta terminar con el proceso en relación a la duración del material 
+
+		ha seguir
+
+
+
+		Mask:
+		_____
+
+		_luego de haber terminado el proceso de track, ó seguimiento en el panel "Layer", debemos de volver
+
+		ha el panel "Composition"
+
+
+		_para que así, podamos generar una máscara señida el motivo ó como la necesitemos, para ésto debemos
+
+		de seleccionar la layer, respectiva al motivo y a través, de la herramienta pluma, shortcut, "G",
+
+		debemos comenzar ha generar sobre el motivo una máscara ha trackear
+
+
+		_es recomendable colocar la visualización de la máscara que hemos creado en "none", para que así, ésta
+
+		no nos condicione en el proceso de seguimiento
+
+
+	------------------------------------------------------------------------------------------------------------
+
+	Tracker2Mask:
+	_____________
+
+	
+	Freeze Selection:
+	_________________
+
+	_para posteriormente de haber creado el track, y la máscara respectiva debemos ahora seleccionar la layer, del 
+
+	motivo y desplegar sus opciones "Motion Trackers/Tracker 1/Track Point 1..."
+
+
+	_así, como sus opciones de "Masks/Mask 1"
+
+
+	_ya que así, podremos seleccionar los puntos de tracks "Track Point 1..", y la máscara "Mask 1", a la vez, y una
+
+	vez tengamos tanto los puntos de track, "Track Point", como la máscara respectiva "Mask 1", entonces con ambos
+
+	elementos seleccionados vamos al panel "Track2Mask", y le damos a la opción de "Freeze Selection", para que así,
+
+	el sistema capture los elementos que harán parte del sistema y no tengamos cada vez que necesitemos hacer una 
+
+	corrección sobre la máscara tener que entonces volver ha seleccionar todos los elementos una y otra vez ya que de
+
+	ésta manera, todos elemeentos quedarán precargados al sistema
+
+
+
+	MaskTrack:
+	__________
+
+	_para proceguir con el proceso de trackeo de la máscara a través, del sistema para lo cuál, el sistema dispone de
+
+	una botonera para el proceso de trackeo, de la cuál, debemos utilizar las opciones de:
+
+
+		_"Fill With Keyframe to the Letf":
+
+			_ésta opción nos permitirá analizar todo el diferencial de movimiento y distorción de la forma de 
+
+			la máscara y los puntos de trackeo realizados previamente y cargados al sistema junto con la 
+
+			máscara, de ésta manera, el sistema hará un seguimiento frame to frame, hacia la izquierda del 
+
+			timeline, en relación de la posición del cabezal y de las opciones de "Step width", aproximado de 
+
+			la máscara sobre el motivo de forma automática
+
+
+		_"Fill Keyframe to the Right":
+
+			_ésta opción es idéntica a la enterior más éste hará el proceso hacia la derecha en vez de hacia 
+
+			la izquierda como en el paso anterior
+
+
+	_de ésta manera, ahora sólo nos queda ajustar los criterios de acción del sistema así, como también, hacer los 
+
+	últimos ajustes de forma manual sobre la máscara
+
+
+	
+	Step Width:
+	___________
+
+	_ésta opción permite indicar el rate, del inervalo lo cuál estará sólo disponible ó tendrá acción sólo cuando
+
+	apliquemos el modo de interpolación de ""Fill With Keyframes""
+
+
+	_de ésta manera, podremos hacer una interpolación de entre 5f ha 10f, ó más, así, podremos ajustes distanciados
+
+	dentre entre cada 15f, ó 30f, y luego interpolar éstos ajustes con un intervalo de "5f ha 10f, ó más"
+
+
+
+	Interpolation Method:
+	_____________________
+
+	_la opción por defecto con la hemos realizado el proceso del paso anterior es la opción de 
+
+	"Use nearest trackpoint", ó lo que es decir; que utilize la información de los puntos de trackeo más cercanos
+
+
+	_pero también, disponemos de opciones personalizadas en las cuales podemos configurar cuán fidedigna y precisa
+
+	será ésta interlación entre la máscara y el motivo, ésta opción es: 
+
+	"Interpolate between trackpoints (global<->local)", a través, de los slider:
+
+
+		_Fall-Off(1):
+
+			_cantidad de fall-off, ó suavizado de interpolación entre la variación de movimiento
+
+			_entre valores cercanos ha "0.5", los ángulos e interpolaciones serán más agudos ó acusados
+
+			entre valores cercanos ha "4", los ángulos e interpolaciones serán más sueves 
+
+
+		_Filter(180):
+
+			_cantodad de torción en relación al movimiento
+
+
+
+	Refine Interpolation:
+	_____________________
+
+	_así, como también, ahora podremos ajustar manualmente y ajustar la máscara resultante del proceso de trackeo 
+
+	realizado en los pasos anteriores
+
+
+	_para lo cuál, debemos de volver a las opciones de la botonera de trackeo del panel "Track2Mask", en la parte
+
+	superior del panel en la cuál, dispondremos de dos opciones específicamente, éstas son:
+
+
+		_"New Keyframe at Current Time":
+
+			_ésta opción nos permite ir avanzando entre los diferentes keyframes, de la máscara animada 
+
+			resultante e ir haciendo ajustes de la forma de la máscara a través, de la modificación de la 
+
+			posición de sus respectivos vertex para leugo aplicar el botón "New Keyframe at Current Time",
+
+			lo cuál, reemplazará el keyframe existente dentro del sistema
+
+
+		_"Fill With Keyframes": (opciones recomendada)
+
+			_y ésta opción es incluso mucho más interesante que la anterior ya que ésta nos permite hacer
+
+			una interpolación no tanto "frame to frame", si no que con ésta opción podemos hacer un ajuste
+
+			por ejemplo; en el frame "10", y otra en el frame "30", (borrando los frames entre éstos), para
+
+			luego darle al botón "Fill With Keyframes", para que así, el sistema interpole los keyframes, 
+
+			entre ambos keyframes, ó modificaciones realizadas por nosotros en los frames "10f-30f"
+
+
+			_incluso podríamos hacer sólo ajustes principales sobre la máscara trackeada sólo en frames,
+
+			separados por 1 segundo por ejemplo ó 30f, para hacer "Fill With Keyframes", para que así, el
+
+			sistema interpole todos los frames, entre éstos y sólo nos quede hacer por último micro ajustes
+
+
+	_y posteriormente a los ajustes sobre la máscara resultante podemos eliminar los trackers, sobre la layer, del
+
+	motivo si lo consideramos necesario por que éstos ya no serán necesarios
+
+
+
+	Local Modifications:
+	____________________
+
+	NOTA: éstas opciones pueden utilizarse con todo el proceso expresado en los pasos anteriores más tiene más 
+
+	utilidad en procesos por a parte y en motion graphycs, otros
+
+
+	DESCRIPCIÖN: ésta modalidad permite crear puntos de control los cuales pueden interactuar ó colisinar con el
+
+	área de la máscara trackeada, ha modo de colisionadores físicos los cuales tendrán la propiedad de deformar
+
+	la máscara para lograr diferentes efectos e interacciones
+
+
+	_cuando éste proceso se realiza con elementos a parte del proceso expresado anteriormente, no requiere que 
+
+	al motivo le hayamos aplicado el proceso de trackeo, con las herramientas nativas de "Tracker Panel", así, 
+
+	bastará con tan sólo seleccionar la máscara de la layer, del motivo y con ésta seleccionada ir al panel 
+
+	"Tracker2Mask", en el cuál, dispondremos de una serie de opciones las cuales son:
+
+
+		_(RE) Create Control Layer:
+
+			_ésta opción creará ó recreará puntos de interacción en relación a la cantidad de puntos de
+
+			trackeo existentes en la escena, creando así, un punto de interacción por cada punto de 
+
+			trackeo existente en la layer, del motivo
+
+
+		_Add TrackPoint(s):
+
+			_ésta opción agrega puntos de interacción adicionales, más ésta opción requiere que la layer,
+
+			del motivo tenga puntos de trackeo existentes en ésta layer, previamente ha éste punto
+
+
+		_Add Dummy Point: (Opción recomendada)
+
+			_ésta opcíon permite crear puntos de interacción libres, es decir, que no requiere que la layer,
+
+			del motivo tenga puntos de trackeo creados previamente ha éste proceso
+
+
+			_lo que es especialmente útil para los diferentes procesos de interacción en motion graphycs, y
+
+			en diferentes procesos de producción, otros, (ésta es la opción más recomendada para la mayoría
+
+			de los procesos)
+
+
+	_de ésta manera, bastará entonces con seleccionar la máscara de la layer, del motivo y con ésta seleccionada ir
+
+	al panel "Tracker2Mask", y darle al botón "Add Dummy Point", para que así, el sistema agrege una nueva layer, a 
+
+	la composición con el nombre de "Tracker2Mask Local Controls"
+
+
+	_y dicha layer, "Tracker2Mask Local Controls"", tendrá cargado un efecto por cada punto de interacción a través, 
+
+	del cuál, podremos controlar y ajustar los parámetros del punto de interacción
+
+
+	_éste punto de interacción creado al hacer "Add Dummy Point", es circular y de color rojo preliminarmente
+
+
+	_de ésta manera, podremos ahora animar éste punto de interacción para que así, éste interactue y colisione con 
+
+	partes de la máscara para lo cuál, debemos animar éste a través, del tiempo 
+
+
+	_para ésto, debemos ir a sus opciones del efecto, shorcut "F3", y en dichas opciones opciones podremos animar su 
+
+	posición, calado de interacción así, como sus opciones de borde
+
+
+	_ya que éstos puntos de interacción tienen una función dual en su interacción; la de enpujar los vertex, que estén
+
+	en su exterior y la de mover en su conjunto lo vertex, que estén en su interior
+
+
+	

@@ -1,0 +1,94 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá eliminar ó neutralizar un color seleccionado que por lo general éste color corresponderá
+
+	con el color del chroma, seleccionado y eliminado de una layer, ó imágen
+
+
+	_de ésta manera, una vez hayamos realizado el proceso de keygin, a través, de cualquier método efecto ó plugin,
+
+	podremos también, neutralizar éste color de rebase ó color de contamina el color natural de la imágen 
+
+
+	_así, como sus bordes para que así, éste color dominante de la imágen sea eliminado ó neutralizado a través, de su 
+
+	color complementario y la imágen resultante tome un tono más natural 
+
+
+	_y los bordes de la imángen se tornen de un color gris el cuál, se integrará mucho mejor con las demás layers, 
+
+	de la composición
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Spill Suppressor: (Supresión de Rebase)
+	_________________
+
+
+		_Color To Suppress:
+			
+			_ésta opción nos permitir´eliminar ó neutralizar un color seleccionar a través, de un picker, de color
+
+			ó a través, de un selector de color directamente
+
+
+		_Suppression:
+
+			_ésta opción nos permitirá indicar la cantidad ó umbral de color ha eliminar en a imágen en relación 
+
+			al color seleccionado y la cantidad de color existente en la imágen base respectivamente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+
+Procesos, para After Effects
+
+
+	Referencia
+
+		http://aescripts.com/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+-------------------------------------------------------------------------------------------------------------
+
+pt_FrameRestorer:
+_________________
+
+	
+	Descripción: (éste permite restaurar missing, frames, de una secuencia de imágenes de un source)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(F) / Panel FxPro / Referencia (al lado derecho del Panel Proyecto por default)
+
+
+	Referencia en la web: http://aescripts.com/pt_framerestorer/
+
+

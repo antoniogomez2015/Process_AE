@@ -1,0 +1,119 @@
+
+
+http://duduf.net/index.php/products/after-effects/duik/
+
+	Referencia:
+
+		Tutorial basico de rigging con Duik
+			https://www.youtube.com/watch?v=3WiNMHMMduc
+
+		TUTORIAL: DUIK - ARTICULACIONES AUTOMATIZADAS EN AFTER EFFECTS
+			https://www.youtube.com/watch?v=Oi4G1-p59uI
+
+		DUIK 15 full tutorial overview Part 1 Rigging character tools
+			https://www.youtube.com/watch?v=2-m0Mc0ZTP8&list=PLL1LC1tW73eUOt7qjWvn3nYOkYOoQscmy
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Duik
+
+
+	Duik:
+
+
+	-este nos permite hacer extendibles las propiedades animadas de una layer, de ésta manera, podremos por
+
+	ejemplo ahora relacionar la propiedad de animación a través, de expresiones, con otras propiedades de 
+
+	ésta manera influir y controlar otras layers, y otras propiedades, otros
+
+
+
+
+	Workflow:
+	_________
+
+
+	Descripción:
+
+	_la opción de "List", este nos permite hacer extendibles las propiedades animadas de una layer, de ésta 
+
+	manera, podremos por ejemplo ahora relacionar la propiedad de animación a través, de expresiones, con 
+
+	otras propiedades de ésta manera influir y controlar otras layers, y otras propiedades, otros
+
+
+	_de ésta manera, podremos animar una layer, por ejemplo; la propiedad de "Position", a la cuál, también, 
+
+	le hemos aplicado un script, de "wiggle(3,200);"
+
+
+	_para luego, seleccionar la propiedad de la layer, que hemos animado, en éste caso es la propiedad de 
+
+	"Position", y con ésta propiedad seleccionada vamos al panel "Duik/Rigging/", y le damos al botón de 
+
+	"List"
+
+
+	_de ésta manera, el sistema le agregará ha ésta layer, un efecto con los controles de animación, 
+
+	entendiendo que para cada parámetro ó propiedades los valores serán distindos entre así, en éste caso
+
+	los valores son:
+
+
+
+		Position List:
+
+
+			1
+
+
+				Value:
+
+					_propiedad de posición relacionada con el script "wiggle()"
+
+
+				Weight:
+
+					_peso ó importancia de influente de ésta propiedad sobre las demás
+
+
+			2
+
+
+				Value:
+
+					_ésta es una propiedad alternativa para la posición animada la cuál,
+
+					podremos alternar e influencias a la original con ésta posición
+
+
+				Weight:
+
+					_peso ó importancia de influente de ésta propiedad sobre las demás
+
+			.....
+
+			NOTA: el sistema crea hasta "5", controles aplicables como variables del sistema
+
+
+
+	_de ésta manera podremos ver que podemos influenciar los valores y comportamiento originales de animación
+
+	así, como también, relacionar éstos con valores y propiedades de animación de otras layers, y atributos,
+
+	entre otras posibilidades a través, de de las expresiones
+
+			
+
+
+			
+
+
+
+
+

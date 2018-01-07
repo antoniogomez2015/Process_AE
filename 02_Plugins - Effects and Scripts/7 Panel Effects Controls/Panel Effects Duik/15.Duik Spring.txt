@@ -1,0 +1,124 @@
+
+
+http://duduf.net/index.php/products/after-effects/duik/
+
+	Referencia:
+
+		Tutorial basico de rigging con Duik
+			https://www.youtube.com/watch?v=3WiNMHMMduc
+
+		TUTORIAL: DUIK - ARTICULACIONES AUTOMATIZADAS EN AFTER EFFECTS
+			https://www.youtube.com/watch?v=Oi4G1-p59uI
+
+		DUIK 15 full tutorial overview Part 1 Rigging character tools
+			https://www.youtube.com/watch?v=2-m0Mc0ZTP8&list=PLL1LC1tW73eUOt7qjWvn3nYOkYOoQscmy
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Duik
+
+
+	Duik:
+
+
+	-este nos permite hacer sistema de kinemática y cinemática de character, y otros tipos de animaciones
+
+	así, como también, riggings, completos y asistidos con diferentes tipos de controles, limitadores y
+
+	disparadores ó trigers, de animación, otros
+
+
+	_ésta opción de hacer el proceso de rigging, de forma manual, es especialmente útil en characters, en 
+
+	los cuales requiere un especial cuidado ó éste es especialmente diferente a los estándares de posición 
+
+	de éste ó si éste no es un bípedo ó posee unas características únicas
+
+
+	_de ésta manera, el sistema "IK", nos permitirá configurar extremidades con kinemática inversa y directa
+
+	las cuales podremos integrar con otras extremidades y characters, ya realizados ó en proceso, otros
+
+
+	_como también, nos permite tener aplicaciones en máquinas ó otros elementos mecánicos, otros, que no son
+
+	characters, ni obedecen a ningún estandar de animación
+
+
+
+
+
+	Workflow:
+	_________
+
+
+	Descripción:
+
+	_la opción de "Spring", ésta opción nos permite emular el efecto de rebote en el climax ó finalización de
+
+	una animación que por lo general simula el choque con otra superficie
+
+
+	
+	Spring:
+	
+	_para ésto, debemos animar al menos una propiedad de animación, por ejemplo "Position", de ésta manera,
+
+	debemos seleccionar ésta respectiva propiedad ó keyframes
+
+
+	_y con ésta propiedad ó keyframes, seleccionados vamos al panel "Duik/Automation/", y le damos al botón 
+
+	"Spring", para que así, nos aparezca un panel contextual con algunas opciones de configuración especialmente
+
+	para la propiedad de "Position", las cuales son:
+
+
+		_Without simulation Light:
+
+			_
+
+
+		_Simulation Heavy computing:
+
+			_éste permite una simulación bien acusada ó fuerte
+
+
+
+	_de ésta manera el sistema agregará un script, a la respectiva propiedad así, como también, a la respectiva
+
+	layer, le agregará un efecto de control el cuál, nos permitirá controlar el sistema, éste tiene las 
+
+	siguientes characterísticas:
+
+
+		
+		Property Spring:
+
+
+			Elasticity:
+
+				_ésta opción controla la posibilidad de elasticidad que tendrá la similación,
+
+				entre menor sea el valor mayor será el efecto
+
+
+			Damping:
+
+				_ésta opción controla lo elástico ó flexible que será la simulación,
+
+				entre menor sea el valor mayor será el efecto
+
+
+			Trigger Speed:
+
+				_ésta opción controla cuán reaccionable es el elemento a la elasticidad en la 
+
+				simulación
+	
+
+
+

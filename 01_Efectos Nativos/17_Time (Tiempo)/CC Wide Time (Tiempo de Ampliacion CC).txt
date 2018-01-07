@@ -1,0 +1,110 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/text-effects.html#numbers_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_CC Wide Time, es un desenfoque temporal que está diseñado para mejorar la apariencia de movimiento de 
+
+	cualquier objeto que esté en contra de un fondo estacionario. 
+
+
+	_ésta opción Utiliza datos de anteriores y frames, posteriores. 
+
+
+	_Las capas con efectos aplicados deben precomponerse antes de aplicar Tiempo amplio.
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Wide Time: (Tiempo de Ampliacion CC)
+	_____________
+
+
+		_Forward Steps:
+
+			_Utilice estos controles para establecer el rango de frames, desde el cual, crear el temporal
+
+			de frames, ha difuminar. Los pasos hacia atrás se difuminan detrás del frame, actual y los 
+
+			Pasos hacia delante se borran delante de eso
+
+
+			_ésta opción nos permitirá indicarle al sistema los pasos ó frames, ha interpolar hacia 
+
+			adelante
+
+
+		_Backward Steps:
+
+			_ésta opción nos permitirá indicarle al sistema los pasos ó frames, ha interpolar hacia 
+
+			atras
+
+
+		_Native Motion Blur:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos utilizar ó no, las 
+
+			características de motion blur, nativas de la aplicación, de ésta manera, dispondremos de
+
+			dos opciones, las cuáles, son las siguiente: On / Off
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

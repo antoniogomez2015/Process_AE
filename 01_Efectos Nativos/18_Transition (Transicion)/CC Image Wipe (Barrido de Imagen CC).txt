@@ -1,0 +1,136 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_Image Wipe, usa una capa para controlar el gradiente de la transición.
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Image Wipe: (Barrido de Imagen CC)
+	______________
+
+
+		_Completion:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste realize la complexión
+
+			ó animación del sistema a través, del fundido de la layer base, sobre las demás layers, 
+
+			subyacentes de la composición respectiva, lo que a su vez, no permitirá animar todo 
+
+			el sistema
+
+
+		_Border Softness:
+
+			_Use este control para determinar la cantidad de suavidad (o borrosidad) aplicada a la bordes
+
+			de la transición. Los valores más altos aumentan el tiempo de renderizado.
+
+
+		_Auto Softness:
+
+			_Use esta casilla de verificación para ajustar automáticamente la suavidad del borde a la 
+
+			Finalización velocidad mediante el uso de desenfoque de movimiento adaptativo. 
+
+
+			_Esta opción solo es útil cuando la  complexión ha sido animada y más notable en transiciones 
+
+			rápidas.
+
+
+
+
+		_Gradient:
+
+
+			_Layer:
+
+				_Use este menú emergente para seleccionar una capa para usar como un degradado para 
+
+				la transición, de ésta manera, podremos limitar la acción del efecto en relación a
+
+				las necesidades de producción
+
+
+				_La información del canal que se utilizará se especifica en el control de la 
+
+				propiedad.
+
+
+			_Property:
+
+				_Use este control para especificar la información del canal, desde la capa 
+
+				seleccionada, en que basar el degradado. Elija una de las siguientes opciones 
+
+				de la menú emergente, Rojo, Verde, Azul, Alfa, Luminancia, Luminosidad, Matiz y 
+
+				Saturación
+
+
+			_Blur:
+
+				_Use este control para determinar la cantidad de desenfoque aplicado al 
+
+				degradado seleccionado
+
+
+			_Inverse Gradient:
+
+				_Use esta casilla de verificación para invertir el degradado.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

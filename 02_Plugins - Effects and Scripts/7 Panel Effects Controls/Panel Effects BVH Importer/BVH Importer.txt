@@ -1,0 +1,150 @@
+
+
+http://aescripts.com/bvh-importer/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / BVH Importer
+
+
+	BVH Importer:
+
+
+	-éste nos permite importar secuencias de cinemática en animación 3d, para ser reproducidos en un armature,
+
+	ó skeleton, base hecho a través, de layers, de shape, ó formas
+
+
+	_éstas simulaciones de cinemática son realizadas en programas como motion builder, ó maya 3d, y similares,
+
+	las cuales permiten exportar archivo ".bvh", entre otros formatos genéricos compatibles con éstos sistemas 
+
+	de intercambio
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener una composición de trabajo creada en una primera instancia base, más como una opción
+
+	avanzada también, podríamos tener un títere ó character, creado el cuál, obedecerá al character, que hayamos
+	
+	importado por lo general será un bípedo el cuál, estará compuesto de dos extremidades superiore y dos inferiores,
+
+	cabeza, cuello
+
+
+	_para que así, podamos transpolar el movimiento ó animación de las layers, ha nuestro character, personalizado
+
+
+
+	BVH Importer:
+	_____________
+
+	Load BVH file:
+
+		_para activar dicho proceso es preciso cargar en ésta sección archivo de extensión ".BVH", el cuál, podremos
+
+		configurar e importar para utilizar así, la animación implícita en éste en un armature básico ó en un 
+
+		character, personalizado
+
+
+	Number of Joints:
+
+		_ésta campo nos presenta la cantidad de joins, ó articulaciones que tiene el armature, original con el cuál,
+
+		se realizó la animación del archivo .bhv
+
+
+	Duration:
+
+		_éste campo nos presenta la duración de la animación en frames, con la cuál, fué concevida la animación del
+
+		archvo .bvh
+
+
+	Frame rate:
+
+		_éste campo nos presenta el intervalo de fotogramas de animación con el cuál, fue realizada la animación del
+
+		archivo .bvh
+
+
+	Set Frame Rate to:
+
+		_éste valor nos permite remuestrear ó cambiar el intervalor de animaicón del archivo .bvh
+
+
+	Set animation from/to:
+
+		_éstos campos nos permiten filtrar ó limitar el rango de animación que deseamos importar y no toda la 
+
+		animación si así, lo requerimos
+
+
+	Create neutral pose at the beginning of animation:
+
+		_ésta opción nos permite hacer una pose del keyframe, "0", de la animación importada del archivo .bvh
+
+
+	Force Header pose to the center of the screen:
+
+		_ésta opción nos permite centrar la animación al centro del canvas del viewport
+
+
+	Force Motion data to the center of the screen:
+
+		_ésta opción nos permite centrar la animación al centro del canvas del viewport
+
+
+	Composite size:
+
+		_ésta opción nos permite sincronizar el tamaño de la composición actual, con el tamaño de la composición 
+
+		con la cuál, fué realizada la animación del archivo .bvh
+
+
+	Skeleton scale factor:
+
+		_y más aún, ésta opción nos da la posibilidad de reescalar el armature y animación a un tamaño en relación
+
+		al arrojado como tamaño de animación del campo ó opción anterior "Composite size"
+
+
+	On each Joint create:
+
+		_ésta opción nos permite seleccionar si el armatire, ha generar se compodrá a través, de layers, de tipo
+
+		solid, ó de tipo nulls
+
+
+		Dimensions:
+
+			_así, como también, nos permite indicar un tamaño relativo para éstos indicado en porcentajes
+
+
+		Anchor point:
+
+			_así, como también, donde deseamos que éstos tengan su punto de anclaje
+
+
+		Add circular mask:
+
+			_adicionalmente podremos activar ésta opción de máscara "explorar/no se ha visto como funciona"
+
+
+	Correct joints with Beam Effect:
+
+		_ésta opción nos permite hacer una corrección de tipo sincronización con el efecto nativo d after effects,
+
+		"beam", ó haz luminoso
+
+
+

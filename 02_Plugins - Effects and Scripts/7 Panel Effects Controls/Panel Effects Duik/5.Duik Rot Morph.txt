@@ -1,0 +1,138 @@
+
+
+http://duduf.net/index.php/products/after-effects/duik/
+
+	Referencia:
+
+		Tutorial basico de rigging con Duik
+			https://www.youtube.com/watch?v=3WiNMHMMduc
+
+		TUTORIAL: DUIK - ARTICULACIONES AUTOMATIZADAS EN AFTER EFFECTS
+			https://www.youtube.com/watch?v=Oi4G1-p59uI
+
+		DUIK 15 full tutorial overview Part 1 Rigging character tools
+			https://www.youtube.com/watch?v=2-m0Mc0ZTP8&list=PLL1LC1tW73eUOt7qjWvn3nYOkYOoQscmy
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Duik
+
+
+	Duik:
+
+
+	-este nos permite hacer sistema de kinemática y cinemática de character, y otros tipos de animaciones
+
+	así, como también, riggings, completos y asistidos con diferentes tipos de controles, limitadores y
+
+	disparadores ó trigers, de animación, otros
+
+
+	_ésta opción de hacer el proceso de rigging, de forma manual, es especialmente útil en characters, en 
+
+	los cuales requiere un especial cuidado ó éste es especialmente diferente a los estándares de posición 
+
+	de éste ó si éste no es un bípedo ó posee unas características únicas
+
+
+	_de ésta manera, el sistema "IK", nos permitirá configurar extremidades con kinemática inversa y directa
+
+	las cuales podremos integrar con otras extremidades y characters, ya realizados ó en proceso, otros
+
+
+	_como también, nos permite tener aplicaciones en máquinas ó otros elementos mecánicos, otros, que no son
+
+	characters, ni obedecen a ningún estandar de animación
+
+
+
+
+	Workflow:
+	_________
+
+
+	Descripción:
+
+	_la opción de "Rot Morph", nos permite efectos de "Muscle Sistem", ó también, efecto de animación orgánica
+
+	en la cuál, los elementos evolucionan ó se transforman a través, del tiempo entre otras muchas otras 
+
+	posibilidades de animación
+
+
+
+	Layers:
+
+	_para ésto, debemos de tener una composición de trabajo así, como las layers, a las cuales desemos animar
+
+	ó deformar de forma controlada
+
+
+		
+	Animation shape:
+
+	_de ésta manera, tendremos que animar la layer, ha animar, ésta layer, debe de ser de tipo "Shape", de ésta
+
+	manera entraremos a sus opciones de "Contents/Shape 1/Path 1/Path", y animaremos en dos posiciones ó keyframes,
+
+	ambos estados que tendrá ésta respectiva layer, por ejemplo, una layer, correspondiente ha un brazo ó arm 
+
+
+	_así, animaremos sus respectivos estados para la posición en el estado del músculo biset, retraído y contraído
+
+	en una longitud de un segundo en el timeline
+
+
+	
+	Rot Morph:
+
+	_de ésta manera, colocaremos el cabezal de animación del timeline, en el primer keyframe, que hemos generado 
+
+
+	_y leugo, seleccionaremos ambos keyframes, generados y con éstos seleccionados vamos al panel de "Duik/Rigging/",
+
+	y le damos al botón "Rot Morph", ó "deformación de rotación", para que así, se genere el sistema y ha ésta layer,
+
+	le sean agregados los siguientes efectos de control:
+
+
+
+		Path Rotation Morph:
+
+			Reference Layer:
+
+				_ésta opción relaciona automáticamente a layer, ha deformar
+
+
+			Min. Angle:
+
+				_ésta opción permite graduar la interacción de la animación realizada por nosotros
+
+				previamente sobre la forma ó path
+
+
+				_y es altamente recomendable colocarle un valor de "-14"
+
+
+			Ma. Angle:
+
+				_ésta opción nos permitirá controlar la animación del muscle, entre sus dos estados
+
+				tanto el de acción como el de reposo
+
+
+				_para ésto, es recomendable manerase entre valores entre "0 y 90", de ésta manera,
+
+				podremos animar el músculo a través, del tiempo 
+
+		
+				_y no a través, de los keyframes, que le colocamos a la layer, en el timeline ya que a 
+
+				través, de éste sistema, la animación realizada sobre la layer, quedará inactiva
+	
+
+
+

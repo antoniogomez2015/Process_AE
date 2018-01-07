@@ -1,0 +1,130 @@
+
+
+http://aescripts.com/project-sync/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+panel Effects Controls / Project Sync
+
+
+	Project Sync:
+
+
+	-este nos permite sincronizar composiciones entre proyectos así, como también, de crear nuevos proyectos
+
+	con composiciones relacionadas de diferentes proyectos
+
+
+	_ésto es especialmente útil para aumentar las capacidades de los proyectos y composiciones y el flujo de
+
+	de producción entre desarrolladores, otros
+
+
+	_ésta opción permite también, aumentar la importación de proyectos dentro de otros proyectos
+
+
+	_ésta se convierte en una excelente opción importar un proyecto externos y hacer uso de sus composiciones
+
+	sin tener que preocuparnos que éstas composiciones que hemos utilizado sean actualizadas posteriormente
+
+	por uqe también, serán actualizadas en éste proyecto
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener al menos dos proyectos creados con al menos una composición cada uno de éstos
+
+
+	_para luego abrir uno de éstos proyectos y abrir una de sus composiciones
+
+
+	_y para posteriormente "importar el otro proyecto", que hemos creado, así, éste se importara a modo
+
+	de una nueva carpeta ó folder, dentro del panel proyecto
+
+
+	_de ésta manera, podremos hacer uso de las composiciones del proyecto que hemos importado dento de las
+
+	composiciones del primer proyecto que abrimos
+
+
+	_para ésto podemos arrastrar las composiciones del poryecto que hemos importado dentro de otras composiciones
+
+	del proyecto base que teníamos abierto
+
+
+
+	Sincronización:
+	_______________
+
+	_luego, debemos sincronizar ambos proyectos para que así, éstos queden sincronizados, de ésta manera cuando 
+
+	hagamos modificaciones sobre las composiciones del proyecto que hemos importado éstas se actualicen en el proyecto 
+
+	base que las hemos incorporado
+
+
+	_para ésto, debemos seleccionar la carpeta con el nombre del proyecto que hemos importado y con ésta carpeta 
+
+	seleccionada vamos al panel "Project Sync", y hacemos "Link Project" 
+
+
+	_para que de ésta manera se abra un panel contextual en cuál, podremos seleccionar el proyecto ha sincronizar ó
+
+	relacionar con el existente, por lo general debemos escoger el proyecto al cuál, pertenece la composición que
+
+	estamos utilizando en el proyecto base
+
+
+	_y a partir de éste punto sucederán dos cosas, la primera será que el nombre del proyecto que hemos relacionado
+
+	saldrá en la lista superior del panel "Project Sync", y la segunda, que en le panel project, aparecerá ahora una
+
+	nueva carpeta, ésta es "Sync Folder", para el uso interno general del sistema del plugins
+
+
+	_de ésta manera, al hacer algún cambio en alguna composición del proyecto que hemos relacionado éstas se podrán
+
+	actualizar en el proyecto base en el cuál, las hemos relacionado ó utilizado
+
+
+
+	Share Comp:
+	___________
+
+	_más también, tenemos la posibilidad de exportar una composición como un nuevo proyecto externo el cuál, podremos
+
+	importar posteriormente en cualquier momento en otros proyectos
+
+
+	_ésta composición que hemos exportado como un nuevo proyecto también, quedará relacionada con el proyecto original
+
+	al cuál, pertenece para que de ésta manera ésta composición pueda ser también actualizada en los proyecto que ésta
+
+	sea importada
+
+
+	_de ésta manera, ampliaremos las posibilidades de flujo entre composiciones y proyectos
+
+
+	
+	Check for Updates:
+	__________________
+
+	_y para actualizar un composición que ha sido comodificada en su repectivo proyecto original tenemos a nuestra
+
+	disposición un botón para actualizar esas composiciones en el proyecto que la estemos utilizando, de étas 
+
+	manera dicha composición también, se actualizará en éste proyecto
+	
+	
+
+
+

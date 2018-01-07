@@ -1,0 +1,284 @@
+
+
+
+Trapcode Tao
+
+
+	INTRODUCCION A PLUGIN TAO DE TRAPCODE - AFTER EFFECTS
+
+		https://www.youtube.com/watch?v=l_rkn_1bb1s
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Aplicacions:
+_____________
+
+	1_podemos crear formas básicas como "Circle, Line", para generar elementos, accesorio ó motion graphycs, y dentro de las
+
+	mismas formas geométricas podemos varias la cantidad lados así, podremos generar formas ó módulos triangulares, cuadrados,
+
+	pentagonales, exagonales, otros...
+
+
+	_y en las opciones de "Segments/Segment Mode", podemos seleccionar la opción de "Repeat N-gon", para así, podamos hacer 
+
+	modulaciones tipo mograph, de cinema 4d, de elementos geométricos fragmentados y modulados
+
+
+	2_así, como también, podemos generar un forma fractal ó irregular la cuál, podemos configurar para generar matrices y 
+
+	elementos eleatorio y altamente configurable para motion graphycs
+
+
+	3_alternativamente podemos crear formas complejas a través, del uso de máscaras como trazados de animación como vectores
+
+	dentro de la producción así, como textos y logotipos y emblemas
+
+
+	4_también, tenemos la posibilidad de hacer trayectorias y recorridos complejos a través, de la utilización de "lisghts",
+
+	como elementos generadores las cuales podemos animar para que así, el sistema haga uso de las trayectorias de animación
+
+	como paths, de generación del sistema
+
+
+	_NOTA: las lighs, debemos renombrarlas con el nombre en mayúscula de "TAO", para que así, el sistema las conosca como 
+
+	elementos generadores del sistema, también debemos de tomar en cuenta que en éste caso, el color de las lights, será 
+
+	tomado como el color para generar el sistema también, así, podremos incluso animar el color ó matiz de la light, para
+
+	que así, podamos animar el color del sistema en tiempo real
+
+
+	_la opción de generación del sistema a través, de lights, es especialmente útil para genera ó construir elementos como logos
+
+	y demás elementos complejos ó de entorno 3d, a través, de trayectorias emparentadas de otros elementos de seguimiento
+
+
+	_para animar las trayectorias de animación de las lights, en el entorno 3d, debemos ir a las opciones de 
+
+	"Paths from TAO Lights/TAO Lights Mode", y cambiar de la opción de "Entire Path", que crear un path, constante a la opción 
+
+	de "Build-Up", ya ésta última permite que la generación del sistema sea constante en relación a la posición de la light
+
+	
+	_así, cuando generamos el sistema se por light, ó masks, debemos desactivar la opción de "Path generator/Generate Path",
+
+	para que así, el sistema elimina la forma primitiva básica que genera el sistema por defecto
+
+
+
+	5_de ésta manera, podemos hacer motion graphycs, avanzado a través, de la opción de "Repeat Paths", a través, de cualquiera
+
+	de los métodos de creación expresados anteriormente, de ésta manera, podremos proyectar y modular formas en el espacio 3d,
+
+	y manipularlas en tiempo real y hacer animaciones complejas y altamente editables
+
+	
+	6_también, tenemos la posibilidad de haber composiciones de elementos tubulares como tuberías a través, de la opción
+
+	"Path Generator/Gridify"
+
+
+	7_tamién, tenemos la posbilidad de hacer elementos ha modo de espigas, ó ramificaciones, lo cuál, es especialmente útil para
+
+	hacer formas como; cepillos, cadenas de adn, poluciones, flur, hair, cien pies, y otros elementos dinámicos e interactivos y 
+
+	demás efectos especiales haciendo uso de otros efectos con composiciones enbebidas en paso continuo
+
+
+	_para ésto debemos ir a las opciones de "Segments/Debug Normals"
+
+
+	_y alternativamente a todas las opciones anteriores tenemos la posibilidad de de personalizar la orientación de las instancias
+
+	generadas, sean éstas strands, módulos, otros, para ésto vamos a las opciones de "Segments/Orient To Path", ésta opción biene
+
+	activada por defecto y hace que los instancias sigan la dirección u orientación de path, del sistema, más si desactivamos ésta
+
+	opción podremos a continuación indicar el eje de cordenada de trabajo deseado en grados en relación a nuestra composición y 
+
+	requerimientos, ó cuál, es especialmente útil para motion graphycs, y composiciones ha medida y en producción
+
+
+	
+	8_y de gran manera disponemos de una opción aunada a todas las opciones expuestas anterior la cuál, nos permitirá crear efectos
+
+	sumado de humo, líquidos viscosos, leche, plstico caliente, otros, y éstos efectos se pueden multiplicar y convertir en otros 
+
+	efectos más complejos a través, de composiciones anidadas más otros efectos para lograr resultados increibles
+
+	_para ésto, debemos ir ha "Fractal Displacement", y aumentar el valor de "Amplitude", el cuál, biene por defecto con un valor de
+
+	cero ó desactivado
+
+
+
+Generales:
+__________
+
+	_primero debemos de crear una nueva composición en la cuál, debemos de crear un sólido ó layer, general la cuál, contendrá
+
+	el efecto, éste efecto trabaja también, con máscaras, de ésta manera, ésta layer, tendrá que tener las máscaras respectivas
+
+	de ser el caso para así, éstas máscaras sean tomandas en cuenta por el sistema
+
+
+
+Path Generator:
+_______________
+
+	_en las opciones de path generator, podemos controlar todo sobre la generación del sistema en relación al modo seleccionado 
+
+	en las opciones de: "Shape", ó si estamos trbajando con "Lights", ó "Masks"
+
+
+
+Segments:
+_________
+
+	_en las opciones de segmentos tendremos opciones de configurar todo en respecto a los segmentos, visualización y comportamiento
+
+	del sistema en el viewport 3d
+
+
+
+Randomness:
+___________
+
+	_en las opciones de randomización tenemos la posibilidad de agregar aleatoriedad al sistema generado en posición, rotación y 
+
+	escala y envíos hacia el sistema
+
+
+
+Offset:
+_______
+
+	_en las opciones de offset, tendremos todas las opciones ha activar para animar como posición, tamaño, escala, textura, color
+
+	rotaciones, loops
+
+
+	_más en las opciones a continuación podremos configurar esas respectivos elementos ha animar que hemos activado en el paso anterior
+
+	a través, de todos los controles en cordenadas de animación tanto locales como globales
+
+
+
+Repeat Path:
+____________
+
+	_las opciones de repeat paths, nos permite hacer instancias moduladas del sistema completo lo cuál, es especialmente útil para hacer
+
+	sistema de mograph, y motion graphycs, entre otras posibilidades de composición
+
+
+
+Fractal Displacement:
+_____________________
+
+	_ésta opción nos permite agregar un comportamiento líquido al sistema y aleatorio a la vez, especialmente útil para una gran cantidad
+
+	de efectos compuestos en el proceso de producción, éste valor estará superditado a la cantidad de segmentos que tenga el sistema así,
+
+	como de la cantidad de "Fractal Displacement/Frecuency", para lograr así, diferentes efectos y acabados
+
+
+
+Materials & Lighting:
+_____________________
+
+	_en éstas opciones podremos controlar la opacidad del sistema así, como color que tendrá el mismo como también, los shader, y 
+
+	comportamientos del material ante los demás elementos dentro del entorno 3d
+
+
+	_el sistema también, estará superditados ha luces extras que agregemos al entornos 3d, así, como también, si éstas luces tiene color
+
+	así, podremos afectar al sistema tanto en intensidad luminosa como en el color de ésta
+
+
+
+
+Textures:
+_________
+
+	_la opción de textura nos permite agregar un textura mapeada para el sistema, en genera no da muy buenos resultados a primera vista,
+
+	se podria utilizar a través, de una textura especial, generada ha modo de partters, simple y modulada que permite sólo agregar detalles
+
+	al sistema en general
+
+
+
+
+World Translation:
+__________________
+
+	_ésta opción nos permite mover y controlar todo el sistema en general en el entornos 3d, y viewport 
+
+
+
+
+Visibility:
+___________
+
+	_ésta opción nos permite controlar aspectos importantes como efecto de cercanía y lejanía ha modo de plano de cámara ó rack focus,
+
+	como también,  ha modo de "fog", y penumbra de todo el sistema
+
+
+
+Rendering:
+__________
+
+	_las opciones de render, son bastante completas y útiles ya que nos permite controlar el shader, de salida que tendrá al material
+
+	como textura de render
+
+
+	_así, como las opcioens de draw, las cuales son permitirán renderizar el sistema en modo sombreado, en wareframe, points,
+
+
+	_así, como la fusión e interacción con el fondo ó background entre otras posibilidades
+
+
+	_así, como también, dispondremos de un segundo pase en el cuál, podremos acentuar en gran manera las opciones de wareframe para
+
+	que así, incluso podamos ajustar el grosor de la maya alámbrica y su color de forma a parte
+
+
+	_y por otra parte podremos controlar el ambient occlusion, samples y demás controles generales de render
+
+
+	_y por último tenemos las opciones de render mode, en las cuales dispondremos de pases en los cuales podremos hacer desde un 
+
+	full render, hasta sacar pases de render de normals, position, depth, AO, ésta última opción nos permite hacer render de pases
+
+	para otras aplicaciones en un flujo de producción ó hacer precomsiciones del sistema para utilizar éstos pases en otras composiciones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

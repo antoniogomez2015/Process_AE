@@ -1,0 +1,265 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá generar el efecto de anaglifos entre otros efectos colaterales ha éste proceso
+
+	de ésta manera, podremos crear el efecto de lentes 3d, para diferentes procesos entre otros
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	3D Classes: (Gafas 3D)
+	___________
+
+
+		_Left View:
+
+			_ésta opción nos permitirá seleccionar una layer, la cuál, hará de canal ó fase izquierda
+
+			del sistema, por lo general lo más recomendable es seleccionar la misma layer, base sobre
+
+			la cuál, se aplicó el efecto
+
+
+		_Right View:
+
+			_ésta opción nos permitirá seleccionar una layer, la cuál, hará de canal ó fase derecha
+
+			del sistema, por lo general lo más recomendable es seleccionar la misma layer, base sobre
+
+			la cuál, se aplicó el efecto
+
+
+			_para que así, ya con ambos canales ó fases seleccionadas por ver ambas fases a la vez, en el 
+
+			viewport, del panel compositing, y poder así, proceder con el proceso de 3d glass
+
+
+		_Scene Convergence:
+
+			_ésta opción nos permitirá desfazar ó sincronizar ambos canales ó fases en el sentido 
+
+			horizontal para la generación del efecto 3d glass, u otros
+
+
+		_Vertical Alignment:
+
+			_ésta opción nos permitirá desfazar ó sincronizar ambos canales ó fases en el sentido 
+
+			vertical para la generación del efecto 3d glass, u otros
+
+
+
+		_Units:
+
+
+			_Pixels:
+
+				_ésta es la opción por defecto y la mas recomendada para el pre cálculo del movimiento
+
+				de los canales ó fases, para que así, podamos mover éstos en proporción a su tamaño
+
+				en pixeles
+
+
+			_% Of Source:
+
+				_ésta es una opción alternativa a través, de la cuál, podremos mover los canales ó
+
+				fases en relación a su vez, a su porcentaje de tamaño para poder generar así, el
+
+				efecto de 3d glass, otros
+
+
+
+		_Swap Left-Right:
+
+			_ésta opción nos permitirá intercambiar la posición de los canales ó fases que conforman el
+
+			sistema de ésta manera, podremos pasar fácilmente la layer, del canal ó fase izquierda para 
+
+			que ésta ahora ocupe el canal ó fase derecha y viceversa
+
+
+
+		_3D View:
+
+
+			_Stereo Pair (Side by Side):
+
+				_ésta opción nos permitirá ver ambos canales ó fases de forma contigua ó lado a lado
+
+				en el sentido vertical del viewport, del panel compositing, para que así, tengamos una
+
+				apreciación comparativa entre ambos canales ó fases
+
+	
+				_así, como también, ésta modalidad de visualización nos permitirá crear otros efectos
+
+				y posibilidades de composición para motion graphycs, procesos comparativos y creativos
+
+				para diferentes procesos de paso contínuo y de producción, otros
+
+
+			_Over Under:
+
+				_ésta opción nos permitirá ver ambos canales ó fases de forma contigua ó lado a lado
+
+				en el sentido horizontal del viewport, del panel compositing, para que así, tengamos 
+
+				una apreciación comparativa entre ambos canales ó fases
+
+	
+				_así, como también, ésta modalidad de visualización nos permitirá crear otros efectos
+
+				y posibilidades de composición para motion graphycs, procesos comparativos y creativos
+
+				para diferentes procesos de paso contínuo y de producción, otros
+
+
+
+			_Interlace Upper L Lower R:
+
+				_ésta opción nos pemritirá visualizar ambos canales ó fases de forma superpuesta y con
+
+				el desface vertical y horizontal indicado por nosotros, más como canales entrelazados 
+
+				lo cuál, nos permitirá crear diferentes efectos con la apariencia aplicada del efecto 
+
+				de "video entrelazado", para diferentes procesos de paso contínuo y producción, otros
+
+
+			_Difference:
+
+				_ésta opción nos pemritirá visualizar ambos canales ó fases de forma superpuesta y con
+
+				el desface vertical y horizontal indicado por nosotros, más con el efecto de modo de
+
+				fusión de tipo "differente", de ésta manera podremos crear diferentes efectos de 
+
+				profusión y composiciones de alto contraste y para diferentes procesos de paso contínuo
+
+				y producción, otros
+
+
+			_Red Green LR:
+
+				_ésta opción nos pemritirá visualizar ambos canales ó fases de forma superpuesta y con
+
+				el desface vertical y horizontal indicado por nosotros, más el virado de color a través,
+
+				de una re interpretación de los canales rojo y verde
+
+
+				_lo cuál, nos permitirá crear un pseudo efecto anaglifo así, como también, para otros
+
+				procesos de producción y paso contínuo
+
+
+			_Red Blue LR:
+
+				_ésta opción nos pemritirá visualizar ambos canales ó fases de forma superpuesta y con
+
+				el desface vertical y horizontal indicado por nosotros, más el virado de color a través,
+
+				de una re interpretación de los canales rojo y azul
+
+
+				_lo cuál, nos permitirá crear un pseudo efecto anaglifo así, como también, para otros
+
+				procesos de producción y paso contínuo
+
+
+			_Balanced Red Green LR:
+
+				_ésta opción nos pemritirá visualizar ambos canales ó fases de forma superpuesta y con
+
+				el desface vertical y horizontal indicado por nosotros, más el virado de color a través,
+
+				de una re interpretación de forma balanceado de los canales rojo y verde
+
+
+				_lo cuál, nos permitirá crear un pseudo efecto anaglifo así, como también, para otros
+
+				procesos de producción y paso contínuo
+
+
+			_Balanced Red Blue LR:
+
+				_ésta opción nos pemritirá visualizar ambos canales ó fases de forma superpuesta y con
+
+				el desface vertical y horizontal indicado por nosotros, más el virado de color a través,
+
+				de una re interpretación de forma balanceado de los canales rojo y azul
+
+
+				_lo cuál, nos permitirá crear un pseudo efecto anaglifo así, como también, para otros
+
+				procesos de producción y paso contínuo
+
+
+			_Balanced Colored Red Blue:
+
+				_ésta opción nos pemritirá visualizar ambos canales ó fases de forma superpuesta y con
+
+				el desface vertical y horizontal indicado por nosotros, más el virado de color a través,
+
+				de una re interpretación de de los canales rojo y azul ó cyan
+
+
+				_lo cuál, nos permitirá crear un efecto completo anaglifos 
+
+
+
+		_Balance:
+
+			_ésta opcíon estará disponible sólo cuando las opciones de "Balanced Red Green LR", 
+
+			"Balanced Red Blue LR", y "Balanced Colored Red Blue", estén seleccionadas en las opciones de
+
+			"3D View"
+
+
+			_de ésta manera, a través, de ésta opción podremos aumentar ó disminuir el contraste del 
+
+			sistema así, como también, el efecto de anaglifos generado
+
+
+
+
+
+
+
+
+

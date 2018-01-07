@@ -1,0 +1,127 @@
+
+
+http://aescripts.com/projection/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / BR Projection
+
+
+
+	BR projection:
+
+
+	-este nos permite hacer "Camara Mapping", en un clip, de video ó secuencia de imágenes como motivo, lo 
+	
+	cuál, tiene diferentes aplicaciones entre las que encontramos:
+
+
+	_ésta modalidad de camara mapping, nos permite hacer el proceso de eliminación de puntos de trackeo, 
+
+	proceso incluso mejor que el obtenido en el proceso del plugins "PaintOut", ya que el plugins "Projection",
+
+	encapsula los puntos de marcas dentro de una composición aislada del movimiento permitiendo así, corregir
+
+	más fácilmente los puntos de trackeo sin tener que tomar el movimiento ó cambios de planos
+
+
+	_así, como también, ésta opción ó modaliadd permiten hacer procesos de producción ya que permiten proyectar
+
+	sobras sobre motivos emulados 
+
+
+	_así, como también, permiten recibir información para animaciones dinámicas y simulaciones a través, de 
+
+	layer, generada como proxi, de proyección, otros
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos cargar el material de archivo al panel proyecto, éste puede ser un clip, de video
+
+	ó secuencia de imágenes
+
+
+	_para luego hacer una composición a partir de éste material archivo para lo cuál, debemos de seleccionar
+
+	éste en el panel "project", y arrastrar éste sobre el ícono de nueva composición para que así, el sistema
+
+	genere una nueva composición a partir de características del material de archivo y no hayan incoherencias
+
+
+	
+	3D Camara Tracking - Corner Pin:
+	________________________________
+
+	_para éste proceso primero tendremos que capturar el plano y perspectiva inicial del motivo para lo cuál,
+
+	podemos utilizar diferentes herramientas como prodrían ser "3D Camara Tracking", ó "Corner Pin", a través,
+
+	de diferentes procesos como los de "Mocha Pro", entre otras posibilidades de obtener la perspectiva de una
+
+	escena
+
+
+	_como por ejemplo, también, a través, del plugins, "The Foundry Camara Tracker", u otros plugins ó efectos
+
+
+	_de ésta manera, tendremos que obtener un plano de tipo solid, con sus propiedades 3d, activadas el cuál
+
+	tendrá que tener captura la perspectiva del motivo en relación a la escena respectiva
+
+
+	_ésta layer, de tipo solid, que debemos obtener es recomendable que sea de color "Negro" para que el 
+
+	proceso de camara projection, se haga correctamente
+
+
+	_y para una previalización preliminar para hacer reajustes de la posición de éste plano proxi, podríamos
+
+	también, colocar la opacidad de éste plano en un 50%, para poder así, ver el fondo de la escena
+
+
+
+	BR Projection:
+	______________
+
+	_y leugo de tener la layer, del plano con la respectiva perspectiva del motivo sobre la layer, de el motivo
+
+
+	_debemos entonces seleccionar la layer, del motivo ó clip, del video ó secuencia de imágenes y con ésta 
+
+	layer, seleccionada debemos al panel del plugins "BR Projection", y seleccionar ésta layer, en la opción 
+
+	de "Select Layer to Project...", para que así, ésta sea cargada al sistema y pueda proyectar ésta sobre la
+
+	la layer, de tipo sólido que hemos creado y configurado
+
+
+	_para luego seleccionar la layer, que hemos creado de tipo sólido y a la cuál, le hemos transferido la 
+
+	perspectiva del plano del motivo a través, del "3D Camara Tracker"
+
+
+	_y con ésta layer, seleccionada debemos ir al plugins "BR Projection/", y darle al botón de "Go", para que
+
+	así, el plugins, genere el sistema 
+
+
+	NOTA: [no se puede continuar con el proceso por la versión que tenemos instalada del plugins, es una
+
+	versión en modo "Trial", extendida y ésta limita ha una composición en 720x480px]
+
+	 
+
+
+
+
+
+

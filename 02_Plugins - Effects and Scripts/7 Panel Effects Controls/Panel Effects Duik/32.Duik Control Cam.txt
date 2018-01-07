@@ -1,0 +1,130 @@
+
+
+http://duduf.net/index.php/products/after-effects/duik/
+
+	Referencia:
+
+		Tutorial basico de rigging con Duik
+			https://www.youtube.com/watch?v=3WiNMHMMduc
+
+		TUTORIAL: DUIK - ARTICULACIONES AUTOMATIZADAS EN AFTER EFFECTS
+			https://www.youtube.com/watch?v=Oi4G1-p59uI
+
+		DUIK 15 full tutorial overview Part 1 Rigging character tools
+			https://www.youtube.com/watch?v=2-m0Mc0ZTP8&list=PLL1LC1tW73eUOt7qjWvn3nYOkYOoQscmy
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Duik
+
+
+	Duik:
+
+
+	-este nos permite hacer sistema de kinemática y cinemática de character, y otros tipos de animaciones
+
+	así, como también, riggings, completos y asistidos con diferentes tipos de controles, limitadores y
+
+	disparadores ó trigers, de animación, otros
+
+
+	_ésta opción de hacer el proceso de rigging, de forma manual, es especialmente útil en characters, en 
+
+	los cuales requiere un especial cuidado ó éste es especialmente diferente a los estándares de posición 
+
+	de éste ó si éste no es un bípedo ó posee unas características únicas
+
+
+	_de ésta manera, el sistema "IK", nos permitirá configurar extremidades con kinemática inversa y directa
+
+	las cuales podremos integrar con otras extremidades y characters, ya realizados ó en proceso, otros
+
+
+	_como también, nos permite tener aplicaciones en máquinas ó otros elementos mecánicos, otros, que no son
+
+	characters, ni obedecen a ningún estandar de animación
+
+
+
+
+
+	Workflow:
+	_________
+
+
+	Descripción:
+
+	_la sección de "Control Cam", ésta nos permite hacer un rig, de cámara para tener un mejor control y manejo
+
+	de la cámara para un mejor workflow, de animaciones
+
+
+	_para lo cuál, tendremos uqe crear una cámara a la composición activa
+
+
+	_luego, debemos de seleccionar la cámara que hemos creado previamente y con ésta cámara seleccionada vamos ha
+
+	el panel "Duik/Camaras/", y le damos al botón "Control Cam", para que así, el sistema genere tre nuevas layers, 
+	
+	a la composición
+
+
+	_éstas serán layers, de tipo solid, y estarán en modo de layer, guide; y a través, de las cuales podremos 
+
+	controlar ahora el sistema de la cámara, la cuál, habrá quedado bloqueada y ocualta
+
+
+	_de ésta manera, el sistema habra creado tres layers, la cuales nos permiten los siguientes controles sobre el
+
+	nuevo sistema de la cámara:
+
+
+		
+		Control_Camara 1:
+
+			_Position:
+
+				_ésta opción nos permite mover todo el sistema, tanto el punto de target, ó cruceta
+
+				como también, la cámara física
+
+
+				_lo que nos permitirá hacer los efectos camara pan/till/zoom/travel
+
+		
+		Camara 1 Position:
+
+			_Position:
+
+				_ésta opción nos permite mover la cámara física dentro de la escena en las cordenadas
+
+				"X/Y/Z",
+
+
+		Camara 1 Target:
+
+			_Position:
+
+				_ésta nos ofrece una layer, de tipo shape, con una forma de cruceta, visual en el
+
+				viewport, del panel composition, a través, de la cuál, podremos mover ésta 
+
+				arrastrándola para orbitar la cámara dentro de la escena, de ésta manera obtendremos
+
+				una cámara unificada
+
+			
+				_ó también, dicho de otra manera ésta opción hace a través, de ésta cruceta ha modo
+
+				de "target", ó punto de anclaje de la cámara
+
+	
+
+
+
+
+
+

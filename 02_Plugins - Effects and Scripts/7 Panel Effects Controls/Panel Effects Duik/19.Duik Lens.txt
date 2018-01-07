@@ -1,0 +1,132 @@
+
+
+http://duduf.net/index.php/products/after-effects/duik/
+
+	Referencia:
+
+		Tutorial basico de rigging con Duik
+			https://www.youtube.com/watch?v=3WiNMHMMduc
+
+		TUTORIAL: DUIK - ARTICULACIONES AUTOMATIZADAS EN AFTER EFFECTS
+			https://www.youtube.com/watch?v=Oi4G1-p59uI
+
+		DUIK 15 full tutorial overview Part 1 Rigging character tools
+			https://www.youtube.com/watch?v=2-m0Mc0ZTP8&list=PLL1LC1tW73eUOt7qjWvn3nYOkYOoQscmy
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Duik
+
+
+	Duik:
+
+
+	-este nos permite hacer sistema de kinemática y cinemática de character, y otros tipos de animaciones
+
+	así, como también, riggings, completos y asistidos con diferentes tipos de controles, limitadores y
+
+	disparadores ó trigers, de animación, otros
+
+
+	_ésta opción de hacer el proceso de rigging, de forma manual, es especialmente útil en characters, en 
+
+	los cuales requiere un especial cuidado ó éste es especialmente diferente a los estándares de posición 
+
+	de éste ó si éste no es un bípedo ó posee unas características únicas
+
+
+	_de ésta manera, el sistema "IK", nos permitirá configurar extremidades con kinemática inversa y directa
+
+	las cuales podremos integrar con otras extremidades y characters, ya realizados ó en proceso, otros
+
+
+	_como también, nos permite tener aplicaciones en máquinas ó otros elementos mecánicos, otros, que no son
+
+	characters, ni obedecen a ningún estandar de animación
+
+
+
+
+
+	Workflow:
+	_________
+
+
+	Descripción:
+
+	_la opción de "Lens", nos permite emular el efecto de lens, flere, a través, de layers, de ésta manera
+
+	podremos hacer éste efecto de forma intectiva
+
+
+	_para ésto, debemos de tener una composición creada y una serie de layers, por lo general layers, de shape,
+
+
+	_de ésta manera, crearemos entre unas 6, ha 9, layers, las cuales conformaremos en línea, éstas layers, 
+
+	las podemos escalar y colocar en una conformación similar a los flares, al igual que su conformación de 
+
+	color
+
+
+
+	Lens:
+
+	_de ésta manera, tendremos que seleccionar las layers, con las cuales se conformará el sistema, más primero
+
+	tendremos que seleccionar la layer, del medio ó la layer, que se encuentre en el punto centrico de ésta 
+
+	fila ó columna de layers, para luego, proceder ha seleccionar el resto de layer, tratando de llevar un 
+
+	orden cronológico al seleccionar éstas de forma consecutiva
+
+
+	_y así, con todas las layers, deseadas seleccionar vamos al panel "Duik/Automation/", y le damos click, al 
+
+	botón "Lens", para que así, el sistema organice las layers, de una forma gerárquica, colocando la layer,
+
+	del medio en un extremo del sistema y las demás layers, de forma contigua así, como también, le agregará
+
+	a cada una de las layer, un efecto de control
+
+
+	_con la diferencia que al resto de las layers, le ha agregado un efecto de:
+
+
+		Lens Flare:
+
+			Distance:
+
+				_ésta opción nos permite hacer un desplazamiento entre layers, contiguas ha modo
+
+				de offset, entre éstas layers
+
+
+	_y a la layer, media ó principal le ha agregado un efecto de:
+
+
+		Lens Flare:
+
+			Intensity:
+
+				_ésta opción nos permite configurar la opacidad que tendrán todas las layers, del 
+
+				sistema de forma global
+
+
+			Scale:
+
+				_ésta opción nos permite configurar que escala tendrán todas las layers, dentro
+
+				de el sistema lo cuál, afectará sobre la escala relativa entre layers
+		 
+	
+
+	_de ésta manera, si movemos la layer, del medio ó la master, podremos mover todo el sistema el cuál, tendrá
+
+	como conjunto un comportamiento que emulará ha un efecto de lens flare
+
+

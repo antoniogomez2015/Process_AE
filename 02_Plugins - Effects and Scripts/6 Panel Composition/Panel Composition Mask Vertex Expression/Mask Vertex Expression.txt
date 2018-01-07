@@ -1,0 +1,39 @@
+
+
+http://www.nabscripts.com
+
+	http://www.nabscripts.com/downloads_en.html
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Mask Vertex Expression
+
+
+	Mask Vertex Expression:
+
+
+	-este nos permite hacer animaciones a través, de los vertex, de una máscara, a través, de programación 
+
+	javascript, ésto es especialmente útil para diferentes procesos de animación y producción
+
+	
+	_el inconveniente es que requiere de una formación previa en programación
+
+
+
+
+	Workflow:
+	_________
+
+
+	_estudiar y experimentar
+	
+
+
+
+
+

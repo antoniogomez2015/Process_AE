@@ -1,0 +1,280 @@
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+		DEFlicker Tutorials/Playong List:
+
+			https://www.youtube.com/watch?v=ROG9Cx09xr4&list=PLJZE0COAfWUXTkWdhbkaO5GflW3hWJZ4h
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+DEFlicker:
+__________
+
+	_el plugins, deflickers, nos permite eliminar el efecto estroboscópicos en videos el cuál, puede producirse por
+
+	deferentes causas en un video	
+
+
+	_así, disponemos de tres variantes de éste plugins, las cuales son;
+
+
+		_High Speed
+
+		_Time Lapse
+
+		_Auto Levels
+
+
+	_la versión de plugins, "DE: Flicker TimeLapse", especialmente útil para flicker, producido por sombras en la 
+
+	escena, elementos inesperados, cambios de ambiente, secuencias grabadas en "TimeLapse", cambios de iluminación, 
+
+	lluevia inesperada, y similares
+
+
+
+	Settings:
+	_________
+
+	_así, lo primero que hay que hacer es cargar el material de archivo ó source, ha after effects, para lo cuál debemos
+
+	hacer doble click, sobre el panel "Project", para que así, se abra el explorador a través, del cuál, podremos navegar
+
+	hasta la ubicación del archivo
+
+
+	_luego de haber importado el arvhivo de video, debemos de seleccionarlo en el panel project, para que así, éste nos 
+
+	muestre las información de éste video en el panel project, en la parte superior de éste
+
+
+	_de ésta manera, podremos ver por ejemplo que dimensiones en pixeles tiene el video así, como frame rate, si es un vodeo
+
+	de 24f, 30f, ó frames, por segundo
+
+
+	_de ésta manera, podremos verificar si hay algún problema de interpretación ó campatibilidad en la composición actual y 
+
+	el material de archivo, para lo cuál, contamos con el panel "Interpret Footage", y para acceder ha éste panel tendremos
+
+	que seleccionar el footage, ó video en el panel project, y con éste seleccionado aplicar el suiente shortcut; 
+
+	"Control + Alt + G"
+
+
+	_de ésta manera en éste panel podremos ajustar el frame rate, del video así, como también, los campos para videos 
+
+	entrelazados, el aspecto del pixel, como también, el perfil del color
+
+
+	_y leugo de haber configurado las propiedades del video es altamente recomendable crear un nueva composición a través, de
+
+	las propiedades del video para lo cuál, la opción más fácil es arrastrar el footage, ó material de archivo el ícono de 
+
+	"composition", en la parte inferior del panel project, para que el sistema cree una nueva composición a partir de los 
+
+	parámetros del video
+
+
+
+DE: Flicker TimeLapse:
+______________________
+
+	_así, luego de haber revisado y ajustado las propiedades del video ó source, y de haber creado una nueva composición, podremos
+
+	ahora aplicar el efecto de "Effects/RE:Vision Plugins/DE:Flicker TimeLapse", ésta opción es especialmente útil para casos en
+
+	donde el flicker, ó efecto estroboscópio es visible por elementos repetitivos ó inesperados
+
+
+	_a connuación se explicarán las características más importantes del plugins, ha tener en cuenta:
+
+
+	-------------------------------------------------------------------------------------------------------------------------------
+
+
+
+	_Adjust Color Levels:
+
+		_ésta opciones nos ofrecen una gran cantidad de herramientas adicionales la cuales nos ayudarán ha obtener un mejor
+
+		resultado de ésta manera, disponemos de las siguientes herramientas:
+
+
+		_Global Color Correct: 
+
+		_ésta opción nos permite seleccionar entre diferentes presets, por grain, ó ganancia, y otros
+
+		por histograma de rgb, para que así, podamos probar diferentes opciones para el análisis
+
+
+		_Reference Frame:
+
+		_ésta es una de las opciones más importantes ya que nos permite ayudar al sistema ha realizar el análisis ya que podremos
+
+		indicarle los frames, que consideramos que están correctos a través, del tiempo e incluso; podremos animar ésta propiedad
+
+		para que así, el sistema tenga una referencia sostenida en el tiempo a través, del tiemline
+
+
+		_Set Frame at Current Tim:
+
+		_ésta es una opción automática la cuál, puede calcular el sistema para que así, a través, de un solo frame, ponderado 
+
+		pueda tener un referencia previa de todo el material de video
+
+
+		_Dissolve Between Ref Fim:
+
+		_éste opción le permitirá borrar los frames, que considerará como flicker
+
+
+		_Limit Sat and Lum %:
+
+		_ésta opción podrá limitar la saturación y la luminancia para ciertos tipos de procesos y de videos
+
+
+		_Pre-Correct:
+
+		_ésta opción le permitirá al sistema hacer una pre corrección del material de video antes de realizar el análisis
+
+
+	------------------------------------------------------------------------------------------------------------------------------
+
+
+
+	_Time Window (frame +/-):
+
+		_ésta opción nos permite indicar la cadencia ó intervalos de frames, de forma comparativa, la opción por dfecto es "2", 
+
+		la más recomendable
+
+
+	_Next Frame Step:
+
+		_ésta opción es una extensión de la opción anterior la cuál, nos permite indicar el alcance del análisis en frames, la
+
+		opción por defecto es "1", la más recomendable
+
+
+	_Simpling Block Step:
+
+		_al ser ésta modalidad de plugins, de no tan alta velocidad la información es analizada por bloques así, podremos escoger
+
+		entre diferentes niveles de muestreo, la opción por defecto es "Large", y disponemos de las siguientes:
+
+
+			_Smaller(Finer)
+		
+				_ésta es la sensibilidad más alta para la lectura de los bloques de información
+		
+			_Medium
+
+				_ésta es la sensibilidad más media para la lectura de los bloques de información
+
+
+			_Large
+
+				_ésta es la sensibilidad olgada para la lectura de los bloques de información
+
+		
+			_Bif(Mose Global)
+
+				_ésta es la sensibilidad más general ó light, para la lectura de los bloques de información
+
+
+	_Method:
+
+		_1_Average Math (Camara Static)
+
+			_algoritmo promedio para movimiento de elementos con cámara estática
+
+
+		_2_Cumulate Math (Camara Pan)
+
+			_algoritmo para recorrido en movimiento de elemnetos superpuesto por cámara en movimiento
+
+
+		_3_Coarse Color Transfer (Large DOF)
+
+			_algoritmo general por transferencia de color especialmente para depth of field, ó DOF
+
+
+		_4_Frame Average
+
+			_algoritmo general para la mayoría de los casos en que no tengamos información de como fue 
+
+			tomado el video, ya que ésta opción hace promedio de frames, para hacer el cálculo
+
+
+
+
+	_Max Change %:
+
+		_ésta opción nos permite indicar la tolerancia permitira como criterio para el análisis, el valor por defecto es de "100",
+
+		para un detección total
+
+
+
+	_Constant Color Fix:
+
+		_ésta opción nos permite agregar al cálculo el contraste por color, lo cuál, puede resultar especialmente útil para un gran
+
+		núemro de casos
+		
+
+	_Mark Segments:
+
+		_ésta opción nos permite elegir entre diferentes criterios para los cortes realizados sobre el video para remuestrear las áreas
+
+		dle video con flicker, entre los cuales disponemos de:
+
+		
+			_Cut A
+
+			_Cut B
+
+			_Cut C
+
+			_Dissolve (Ingnore Local Correction)
+
+	
+	_Contrast %:
+
+		_así, como también, tendremos la posibilidad de aumentar el contraste para ayudarnos en casos donde el contraste natural no es
+
+		suficiente
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

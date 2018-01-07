@@ -1,0 +1,193 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear un incrustamiento de color ó keygin, de forma muy similar al efecto 
+
+	"Color Range", aunque de forma más limitada ó simple para chromes, más simples ó con mejor problemas de
+
+	arrugas, iluminación y detalles
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Linear Color Key: (Incrustación por Croma Lineal)
+	_________________
+
+
+		_Preview:
+
+			_ésta opción a través, de dos viewer, nos permirá visualizar la layer, base u original y el matte,
+
+			generado por el proceso para que así, podamos tener una apreciación directa del efecto en relación
+
+			a la layer, base u original
+
+
+
+			_Picker Upper:
+
+				_a través, del picker, superior podremos seleccioanr el color ha eliminar a través, del
+
+				viewer, izquierdo de la sección de "Preview", del efecto ó directamente en el viewport
+
+				del panel "Composition"
+
+
+			_Picker Midle:
+
+				_ésta opción nos permitirá hacer mouse left click, sobre el viewer, del panel izquierdo 
+
+				de la sección de "Preview", del efecto ó directamente en el viewport del panel "Composition"
+
+
+				_para que así, podamos agregar más área con diferentes tonos del color seleccionado lo cuál,
+	
+				es especialmente útil en colores seleccionados con diferentes gammas tonales por defectos 
+
+				de iluminación, otros
+
+
+			_Picker Lower:
+
+				_ésta opción nos permitirá hacer mouse left click, sobre el viewer, del panel izquierdo 
+
+				de la sección de "Preview", del efecto ó directamente en el viewport del panel "Composition"
+
+
+				_para que así, podamos restar más área con diferentes tonos del color seleccionado lo cuál,
+	
+				es especialmente útil en colores seleccionados con diferentes gammas tonales por defectos 
+
+				de iluminación, otros
+
+
+
+		_View:
+
+
+			_Final Output:
+
+				_ésta opción nos pemritirá ver el resultado del proceso de forma más grande directamente
+
+				en el viewport, del panel "Compositing"
+
+
+			_Source Only:
+
+				_ésta opción nos pemritirá ver la layer, base de forma más grande directamente 	en el 
+
+				viewport, del panel "Compositing"
+
+
+			_Matte Only:
+
+				_ésta opción nos pemritirá ver matte, resultante del proceso de forma más grande directamente
+
+				en el viewport, del panel "Compositing"
+
+
+
+		_Key Color:
+
+			_ésta opción nos permitirá selecciona el color ha eliminar a través, de un picker, como también, 
+
+			a través, de un selector de color
+
+
+		_Match Colors:
+
+
+			_Using RGB:
+
+				_ésta opción nos permnitirá utilizar el espacio de color rgb, para la generación del matte,
+
+				para el proceso del efecto
+
+
+			_Using HSB:
+
+				_ésta opción nos permnitirá utilizar el espacio de color hsb, para la generación del matte,
+
+				para el proceso del efecto
+
+
+
+			_Using Chrome:
+
+				_ésta opción nos permnitirá utilizar un color determinado para la generación del matte,
+
+				para el proceso del efecto
+
+
+
+
+		_Matching Tolerance:
+
+			_ésta opción nos permitirá aumentar ó disminuir el umbral del color seleccionado ha eliminar para
+
+			que así, podamos eliminar tonos contiguos al color seleccionado de ésta manera, podremos eliminar
+
+			un chrome, con diferentes variantes en la iluminación y otros defectos como arrugas, otros
+
+
+		_Matching Softness:
+
+			_ésta opción nos permitirá aumentar ó disminuir la acutancia entre la parte de la imágen eliminada
+
+			y la parte de la imágen que permanecerá visible de ésta manera, tendremos una imágen reultante con
+
+			bordes más suavizados ó tramados
+
+
+		_Key Operation:
+
+
+			_Key Colors:
+
+				_ésta opción nos permitirá conservar los colores no seleccionados para que así, se mantenga 
+
+				más el efecto de chrome key
+
+
+			_Keep Colors:
+
+				_ésta opción nos permitirá tratar de conservar el color chrome, seleccionado existente no
+
+				borrado aún a partir del proceso del efecto
+
+
+
+
+
+

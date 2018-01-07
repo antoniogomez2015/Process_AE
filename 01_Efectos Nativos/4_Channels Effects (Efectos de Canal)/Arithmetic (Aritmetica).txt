@@ -1,0 +1,112 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá crear efectos muy interesante de integración de los canales rgb, por medio de la 
+
+	posterización del color en áreas determinadas 
+
+
+	_a través, de la fusión de los canales, en proporción iguales ó diferentes personalizada R/G/B, y a través, 
+
+	de diferentes operadores ó algoritmos
+
+
+	_y dichos algorítmos funcionan relacionando valores de luminancia con canales de color de la imágen en 
+
+	diferentes proporciones y mezclas 
+
+
+	_lo cuál, nos brinda una serie de posibilidades para la creación de imágenes y procesos, otros
+
+
+	_de ésta manera, podremos crear efectos compuestos de forma nativa ó a través, de la integración con otros
+
+	efectos como paso contínuo
+
+
+	_donde los efectos más inmediatos son efectos de tipo desgaste, oxido, abstracciones de color y formas,
+
+	stencils, otros, en relación al algorítmo seleccionado
+
+	
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Arithmetic: (Aritmetica)
+	___________
+
+	_Operator:
+
+		_ésta sección nos permitirá seleccionar el criterio ó algorítmo de acción lo cuáles, darán 
+
+		diferentes resultados principalmente al tipo de imágen ó composición de la respectiva layer,
+
+		y en relación tambén, al efecto buscado
+
+
+	_Red Value:
+
+		_éste valor nos permitirá indicar la influencia del canal rojo en el sistema de mezcla de color
+
+		posteriozado en las áreas elegidas por el algorítmo seleccionado en relación a su vez, a la imágen
+
+		ó composición respectiva de la layer, respectiva
+
+
+	_Green Value:
+
+		_éste valor nos permitirá indicar la influencia del canal verde en el sistema de mezcla de color
+
+		posteriozado en las áreas elegidas por el algorítmo seleccionado en relación a su vez, a la imágen
+
+		ó composición respectiva de la layer, respectiva
+
+
+	_Blue Value:
+
+		_éste valor nos permitirá indicar la influencia del canal azul en el sistema de mezcla de color
+
+		posteriozado en las áreas elegidas por el algorítmo seleccionado en relación a su vez, a la imágen
+
+		ó composición respectiva de la layer, respectiva
+
+
+	_Clipping:
+
+		_(Indeterminado)
+
+	
+
+
+
+
+
+

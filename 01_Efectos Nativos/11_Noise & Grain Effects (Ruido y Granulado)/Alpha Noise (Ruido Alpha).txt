@@ -1,0 +1,244 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear ruido en las áreas visibles de una layer, la cuál, posee un canal alpha,
+	
+	integrado ó agregado en after effects
+
+
+	_de ésta manera, podremos marginar la aplicación del efecto de ruido a una layer, determinada respetando su
+	
+	área transparence ó con canal alpha, a través, de diferentes criterios y modalidades para que así, podamos
+
+	aplicar éste efecto al área visible ó al área perimetral con degradado ó feather, otros
+
+
+	_también, podremos utilizar éste efecto para aplicar ruido a un canal alpha, directamente en el área blanca 
+
+	respectando el área de color negro ó reserva para múltiples efectos de paso contínuo y de producción
+
+	
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Alpha Noise: (Ruido Alpha)
+	____________
+
+
+		_Noise:
+
+
+			_Uniform Random:
+
+				_ésta opcíon nos permitirá agregar el efecto de ruido de tipo aleatorio distribuido
+
+				en toda el área de la layer, base a la cuál, hemos aplicado el efecto de forma uniforme
+
+
+			_Squared Random:
+
+				_ésta opcíon nos permitirá agregar el efecto de ruido de tipo aleatorio distribuido
+
+				en toda el área de la layer, base a la cuál, hemos aplicado el efecto de forma uniforme
+
+				aunque a través, de patrones con más espacio entre ellos para que así, logremos un
+
+				resultado más suavizado y homogeneo a la vez
+
+
+			_Uniform Animation:
+
+				_ésta opción activará las opciones de ruido animado de tipo uniforme para que así, 
+
+				éste tenga un comportamiento dinámico a través, del tiempo
+
+
+			_Squared Animation:
+
+				_ésta opción activará las opciones de ruido animado de tipo patrón para que así, éste 
+
+				tenga un comportamiento dinámico a través, del tiempo
+
+
+
+		_Amount:
+
+			_ésta opción nos pemritirá indicar la cantidad de ruido ha generar ó un umbral a través, del
+
+			cuál, podremos colmar más ó menos la layer, base sobre la cuál, hemos aplicado el efecto
+
+
+
+		_Original Alpha:
+
+
+			_Add:
+
+				_ésta opción aplicará todo el efecto sobre toda la layer, no enmarcarando el efecto
+
+				sólo el en área visible de la layer, sobre la cuál, hemos aplicado el efecto así, como
+
+				también, cambiará un poco el valor de luminancia del efecto a través, de éste modo de
+
+				fusión de tipo "Add"
+
+
+			_Clamp:
+
+				_ésta opción enmascarará todo el efecto dentro del área de visible de la imágen ó de la
+
+				parte del canal alpha, de color blanco
+
+
+				_respectando así, el área de color negral del canal alpha, ó área oculta ó eliminada
+
+				de la layer, base sobre la cuál, hemos aplicado el efecto
+
+
+			_Scale:
+	
+				_ésta opción aplicará el efecto de forma muy diferente a las opciones anteriores ya que
+
+				ésta opción utilizará el efecto de ruido generado como un matte, a través, del cuál, el
+
+				sistema creará un proceso de "track matte", 
+
+
+				_a través, del cuál, las áreas más oscuras en la layer, base serán eliminadas y las 
+
+				áreas más claras serán visibles sobre la layer, base en la cuál, hemos aplicado el 
+
+				efecto para que así, podamos conseguir una gran gama de posibilidades de efectos de 
+
+				paso contínuo y producicón
+
+
+				_para al final obtener un mapa de densidad ó elementos hechos de pseudo partículas,
+
+				tramas, otros
+
+
+			_Edges:
+
+				_ésta opción aplicará el efecto sólo en el área perimetral de la parte de la imágen
+
+				visible y la parte de la imágen oculta ó eliminada de las diferentes áreas de la 
+
+				imágen de la layer, base sobre la cuál, hemos aplicado el efecto
+
+
+				_de ésta manera, el efecto en éste caso aplicará sobre los bordes con tramado ó el
+
+				efecto "feather", lo cuál, es especialmente útil para diferentes efectos de producción
+
+				y paso contínuo
+
+
+				_de ésta manera, podríamos previamente aplicar a la layer, base sobre la cuál, hemos
+
+				aplicado el efecto, podríamos aplicar un efecto de tipo "Blur and Sharpen/Channel Blur",
+
+				para que así, desenfoquemos el canal alpha, para que así, éste responda correctamente
+
+				al efecto que deseamos lograr
+
+
+
+		_Overflow:
+
+
+			_Clip:
+
+				_ésta opción permitirá que el ruido generado en el canal alpha, se integre con la layer,
+
+				base sobre la cuál, hemos aplicado el efecto para que así, el ruido generado se 
+
+				visualize sobre la layer, base y puedan verse a la vez, tanto el ruido generado como
+			
+				la layer, base sobre la cuál, hemos aplicado el efecto
+
+
+			_Wrap Back:
+
+				_ésta opción es una variante de la opción anterior pero ya ésta opción comenzará ha 
+
+				eliminar parte de la imágen base a través, de un porcentaje de ruido el cuál, se
+
+				presentará ya de un color blanquecino
+
+
+			_Wrap:
+
+				_ésta opción es una variante de la opción anterior pero ya ésta opción presentará todos
+
+				lo pixeles del ruido generado de color blanco suprimiento así, la gran mayoría de la 
+
+				información de la layer, base sobre la cuál, hemos aplicado el efecto
+
+
+
+		_Random Seed:
+
+			_ésta opción nos permitirá indicar un umbral de animación inicial para el sistema, ésta opción
+
+			aplicará sólo cuando la opción "Uniform Animation", y "Squared Animation", estén seleccionadas
+
+			en las opciones a su vez, de "Noise"
+
+
+
+		_Noise Options (Animation):
+
+
+			_Cycle Noise:
+
+				_ésta opciónn nos pemritirá indicar la animación en ciclo lo que permitirá crear 
+
+				patrones de animación de ruido repetitivo
+
+
+			_Cycle (In Revolutions):
+
+				_ésta opción nos permitirá indicar intervalos de ciclos de animación de ruido para que
+
+				así, podamos crear más un ciclo de animación en intervalores de tiempo
+
+
+
+
+
+
+
+

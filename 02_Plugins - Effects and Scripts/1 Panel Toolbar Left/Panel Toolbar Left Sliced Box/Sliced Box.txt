@@ -1,0 +1,276 @@
+
+
+
+
+	http://aescripts.com/sliced-box/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Toolbar Left / Sliced Box
+
+
+	Sliced Box:
+	___________
+
+
+	_este nos permitirá crear un grid, de módulos 3d,los cuáles, podremos animar y crear motion graphycs, y todo
+
+	tipo de mivimientos y comportamientos a través, del sistema generado
+
+
+	_ésto es posible a partir de una layer, seleccionada en la composición activa y de la configuración del panel
+
+	"Sliced Box", para que así, el sistema sea generado
+
+
+
+	Workflow:
+	_________
+
+
+	_para ésto debemos crear un composición de trabajo así, como también debemos crear una imagen ó composición
+
+	de ésta de trabajo
+
+
+	_de ésta manera, con una layer, de la composición seleccionada ir al panel "Slice Box", proceder así, ha 
+
+	configurar el efecto ha generar
+
+
+		_a partir de éste punto, el sistema eliminará la layer, seleccionada en la composición previamente
+
+		y sustituirá ésta por una composición llama "MasterBox_SS_SlicedBox_1"
+
+
+		_así, como también, creará una layer, con el nombre de "SlicedBox_1", a través, de la cuál, podremos
+
+		controlar todos los comportamientos del sistema generado, como movimientos, animaciones, otros
+
+
+		_y a su vez, generará una layer, de tipo "guide", con el nombre de "Secuence Scale Range", la cuál,
+
+		no tendremos que manipular para el proceso
+
+
+		_y por último también, creará una layer, para controlar el color del sistema así, como el sistema de
+
+		iluminación relacionado por script, de forma interna por el sistema
+
+
+
+	Effects Controls:
+	_________________
+
+		Controls SlicedBox_1:
+
+
+			_Anchor Point [Z Offset]:
+
+				_ésta opción estará controlada por scripts, nativos del sistema
+
+
+			_Center ANchor Point:
+
+				_ésta opción nos permitirá indicarle al sistema que alinea el sistema generado con
+
+				el centro del viewport, del panel compositing
+
+
+			_X | Y | Z Offset:
+
+				_ésta opción nos permitirá indicarle al sistema que desplace mos módulos unos de 
+
+				otros en relación a una cordenada determinada para que así, podamos animar el sistema
+
+
+			_Random [Z] Offset:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos activar la opción de 
+
+				movimientos aleatorio para los módulos en el eje "Z"
+
+
+			_Random Seed:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos animar ó desplazar los
+
+				módulos en el eje "Z", ésta opción estará superditada a la opción anterior de
+
+				"Random [Z] Offset"
+
+
+			_X | Y | Z Rotation:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos que ésta haga rotaciones
+
+				de los módulos en una cordenada específica respectivamente
+
+
+			_X | Y | Z Sequential Rotation:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos hacer rotaciones 
+
+				secuenciales ó progresivas entre los diferentes módulos generados
+
+
+			_Uniform Scale:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos hacer escala global ó
+
+				uniforme para que así, podamos escalar todos los módulos independientemente unos de
+
+				otros
+
+
+			_Enable Sequential Scale:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos hacer escalados 
+
+				secuencial de los módulos generado por el sistema
+
+
+			_Sequential Scale:
+
+				_éste parámetro estará controlado por script, por el sistema generado
+
+
+			_Min Value is [0]:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos que el valor mínimo
+
+				de referencia del sistema sea "0"
+
+
+			_Reverse Index:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos invertir el orden ó
+
+				índice de refencia de los módulos generados por el sistema para que así, el sistema
+
+				se anime de manera invertida
+
+
+			_Scale Factor:
+
+				_éste parámetro estará controlado por script, por el sistema generado
+
+
+			_Z Scale:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos que la profundida ó 
+
+				escala de los módulos en el eje "Z", sea mayor ó meno
+
+
+
+		Control Box Color:
+
+			
+			_Box Color:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el color de la extrusión
+
+				de los módulos generados por el sistema
+
+
+
+
+
+
+	///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	Input:
+
+
+		_Columns:
+
+			_ésta opción nos permitirá indicarle al sistema la cantidad de columnas ó cantidad de módulos
+
+			que deseamos que tenga el sistema generado en el eje horizontal
+
+
+		_Rows:
+
+			_ésta opción nos permitirá indicarle al sistema la cantidad de columnas ó cantidad de módulos
+
+			que deseamos que tenga el sistema generado en el eje vertical
+
+
+		_Box Width:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la prondidad del sistema en el
+
+			eje "Z"
+
+
+		_SB Pseudo Effect:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos agregar propiedades extras de
+
+			animación como "anchor point, position, rotation, escale box color"
+
+
+	Light & MB:
+
+		_Casts Shadows:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste reciba sombras de luces
+
+			existentes en el sistema
+
+
+		_Acepts Shadows:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste reciba sombras globales
+
+			de las demás layers, de la composición respectiva
+
+
+		_Acepts Lights:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste reciba luces ha nivel
+
+			general
+
+
+		_Enable Motion Blur:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste permita motion blur, ó
+
+			desenfoque de movimiento
+
+
+		_Modify:
+
+			_(indeterminado)
+
+
+
+
+	_Build:
+
+		_ésta opción nos permitirá indicarle al sistema que deseamos generar el sistema con las 
+
+		configuraciones especificadas en los pasos anteriores
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

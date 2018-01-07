@@ -1,0 +1,138 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+		https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá utilizar la información de la cordenada "Z", de la escena para a través, de ésta obtener
+
+	un mapa de profundidad por medio del cuál, crear una penumbra ó niebla realista en escena la cuál, 
+
+	contemplará los elementos reales en la escena 3d, iluminación y demás elementos en la escena
+
+
+	_más también, tendremos la posibilidad de incorporar un mapa externo precompuesto a través, del cuál, 
+
+	podremos modificar la apariencia y comportamiento de la niebla ó penumbra resultante
+
+
+
+	Formatos:
+	_________
+
+	_para trabajar con éste tipo de modalidad requeriremos trabajar con los siguientes tipos de archivos de
+
+	proceso e intercambio entre las aplicaciones 3d, y after effects, éstas son las siguientes:
+
+
+	NOTE: en principaio éste efecto esta listo para funcionar con todo tipo de formato de archivo de 
+
+	intercambio de información 3d, la cuál, pueda ser usada dentro de after effects, de ésta manera, éstos 
+
+	archivos de intercambio pueden ó no estar generados dentro de una aplicación 3d
+
+
+	_los archivo de tipo de intercambio más útiles y utilizados son:
+
+
+		_.prf
+
+			_archivo de tipo intercambio, es el más antiguo y no está disponible en todas las 
+
+			aplicaciones de forma nativa, éste da muy buenos resultados, éste formado está relacionado
+
+			principalmente en aplicaciones como softimage xsi
+
+
+		_OpenEXR:
+
+			_archivo de tipo intercambio, éste es el más común y está disponible en todas las 
+
+			aplicaciones modernas y actualizadas
+
+
+		_RLA / RPF:
+
+			_archivo de tipo intercambio, bastante funcional y está disponible principalmente en la
+
+			aplicación cinema 4d
+
+
+
+
+
+	3D Fog: (Niebla en 3D)
+	_______
+
+	_Fog Color:
+
+		_ésta opción nos permite seleccionar un color personalizado para el niebla resultante
+
+
+	_Fog Start Depth:
+
+		_ésta opción nos pemrintirá indicar en que plano ó área comenzará ha aplicar el efecto de niebla
+
+
+		_lo más recomendable colovar ésta opción en "0", ó primer plano, ó según la lógica de la escena
+
+
+	_Fog End Depth:
+
+		_ésta opción nos pemrintirá indicar en que plano ó área terminará de aplicarse el efecto de niebla
+
+
+		_lo más recomendable es colocar valores negativos según el caso, ej: "-470"
+
+
+	_Fog Opacity:
+
+		_ésta opción nos pemritirá bajar la intensidad de la niebla resultante ej, "50%"
+
+
+	_Scattering Density:
+
+		_ésta opción nos permitirá graduar la dispersión ó densidad ó capacidad de penetración de la niebla
+
+		resultante
+
+	
+	_Foggy Background:
+
+		_ésta opción nos permitirá activar si el sistema contemplará la emisión del fondo como parte del
+
+		sistema de niebla generado
+
+
+	_Gradient Layer:
+
+		_ésta opción nos permitirá seleccionar una layer, precompuesta ó directamente un composición en la
+
+		cuál, haya información como por ejemplo una layer, con una fractal noise, el cuál, será tomado
+
+		para la generación de una niebla personalizada
+
+
+	_Layer Contribution:
+
+		_éste slider, nos permitirá controlar la influencia que tendrá ésta layers, personalizada para
+
+		modificar el sistema original
+
+
+
+
+
+

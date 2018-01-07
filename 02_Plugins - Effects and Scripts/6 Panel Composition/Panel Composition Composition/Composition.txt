@@ -1,0 +1,23 @@
+
+
+ventana nativa de after effects
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Composition
+
+
+	Composition:
+
+
+	_este nos permite visualizar el resultado de todas las acciones y modificaciones que realicemos sobre
+
+	las layers, y composiciones en el proyecto respectivo, ésta ventana es indispensable para el trabajo
+
+	y workflow, de after effects
+
+		

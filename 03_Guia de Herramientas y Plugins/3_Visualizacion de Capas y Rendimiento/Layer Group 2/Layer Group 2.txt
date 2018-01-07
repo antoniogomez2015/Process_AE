@@ -1,0 +1,113 @@
+
+
+
+
+MatchRate
+
+
+	Referencia:
+
+		http://aescripts.com/layer-groups/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite organizar mejos las composiciones dentro del timeline, permitiendo un mejor workflow, y performance
+
+
+
+Aplicaciones:
+_____________
+
+
+	_éste permite acelerar los procesos de performance y desarrollo así, como permite un mejor desenvolvimiento dentro
+
+	de la aplicación y de los diferentes procesos de desarrollo y animación, otros
+
+
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	1_el primer ícono nos permite seleccionar una serie de layers, y agriparlas dentro de una layer "solid", éste sistema
+
+	no es más que un shortcut, a un proceso de "Hiden Switche", del timeline, la diferencia con éste plugins, sería que nos
+	
+	permite trabajar con diferentes grupos en vez de con un sólo grupo, como lo hace la opción del panel por defecto
+
+
+	2_el segundo ícono nos permite desplegar ó mostrar las las layers, ocualtas por el paso anterior
+
+
+	3_el tercer ícono nos permite volver a ocultar las layers, visualizables temporalmente
+
+
+	4_el cuatro ícono permite mostrar "show", mostrar una layer, que representa un determinado "groups", en el timeline, ésta 
+
+	opción lo que hará será prender el "ojo", de la layer, en el timeline, de la leyer, de grupo así, como de las layers, que
+
+	éste contiene
+
+
+	5_el quinto ícono permite mostrar "hide", ocultar una layer, que representa un determinado "groups", en el timeline, ésta 
+
+	opción lo que hará será apagar el "ojo", de la layer, en el timeline, de la leyer, de grupo así, como de las layers, que
+
+	éste contiene
+
+
+	6_el sexto ícono permite eliminar un sistema de grupo ó group, seleccionado, así, éste nos pedirá que indiquemos si deseamos
+
+	eliminar sólo la estructura de grupo liberando las layers, que éste contiene ó si deseamos eliminar tanto la estructura de
+
+	grupo así, como todas las layers, que éste contiene en su interior
+
+
+	7_el séptimo ícono permite duplicar un group, que tengamos seleccionado
+
+
+	8_el octavo ícono permite agregar nuevas layers, seleccionadas a un grupo determinado
+
+
+	9_el noveno ícono permite sustraer un ó unas layers, determinadas por nosotros de un grupo
+
+
+	10_el décimo ícono permite renombrar un grupo, previamente seleccionado (no funciona revisar)
+
+
+	11_el décimo primer ícono permite la creación de mattes, sobre un respectivo group
+
+
+	12_el décimo segunto ícono permite hacer un volcado de las layers, dentro de determinado grupo, ha una nueva precomposición
+
+
+	13_el cécimo tercer ícono permite hacer "Isolate", de determinadas layers, seleccionadas
+
+
+	14_el décimo cuarto ícono permite hacer diferentes procesos a modo de bundle, extra de herramientas encapsuladas en ésta opción
+
+
+	15_el décimo quinto ícono permite hacer variaciones sobre la estructura y ubicación de las layers, que conforman del grupo, y su 
+
+	relación unas con otras
+
+
+	16_el décimo sexto ícono son las cnfiguraciones del panel y sistema
+
+
+	
+

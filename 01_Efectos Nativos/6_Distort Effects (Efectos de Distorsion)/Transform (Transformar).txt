@@ -1,0 +1,158 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer controlar las transformaciones básicas de una layer, ó composición de ésta
+
+	manera, podremos controlar las transformaciones de una layer, ó composición entera en relación a los 
+
+	requerimientos tanto de la layer, respectiva como a la coposición actual ó activa
+
+
+	_así, como también, en relación al apilado de efectos en el panel effects controls, de la respectiva layer,
+
+	en la cuál, se ha aplicado el efecto de transofrm
+
+
+	_de ésta manera, podremos hacer transformaciones básicas sobre la layer, en un punto determninado en la 
+
+	aplicación de los diferentes efectos en la pila de efectos de la respectiva layer
+
+
+	_de ésta manera, en relación al efecto final deseado podremos utilizar el efecto de deform, para modificar
+
+	la layer, para que ésta tenga un estado de transformación específico para la aplicación de los siguientes
+
+	efectos en la pila
+
+
+	_así, como también, incluso podríamos modificar las transformaciones básicas de todas las layers, de la 
+
+	composición a la vez, ó al unísono al aplicarle el efecto transform, a una layer, de tipo adjustment, 
+
+	colocada en la parte superior de la composición
+
+	
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Transform: (Transformar)
+	_________
+
+
+		_Anchor Point:
+
+			_ésta opción nos permitirá indicar el punto de anclaje de la layer, ó sistema
+
+
+		_Position:
+
+			_ésta opción nos permitirá indicar la posición de la layer, ó sistema el cuál,
+
+			nos permitirá hacer desplazamientos literales de la layer, en el espacio del 
+
+			canvas
+
+
+		_Uniform Scale:
+
+			_ésta opción nos permitirá indicar un tipo de escala uniforme ó a través, de 
+
+			cordenadas independientes, tanto horizontales como verticales de la layer, ó 
+
+			sistema
+
+
+		_Scale:
+
+			_ésta opción nos permitirá indicar es grado de la escala global de la layer, ó
+
+			sistema
+
+		_Skew:
+
+			_ésta opción nos permitirá indicar es grado de sesgado global de la layer, ó
+
+			sistema
+
+
+		_Skew Axis:
+
+			_ésta opción nos permitirá indicar la cordenada de sesgado global de la layer, ó
+
+			sistema
+
+
+		_Rotation:
+
+			_ésta opción nos permitirá indicar es grado de la rotación global de la layer, ó
+
+			sistema
+
+
+		_Opacity:
+
+			_ésta opción nos permitirá indicar es grado de opacidad global de la layer, ó
+
+			sistema
+
+
+		_Use Composition's Shutter:
+
+			_ésta opción nos permitirá indicarle al sisma que éste use las opciones de 
+
+			motion blur, establecidas en las opciones avanzadas de la respectiva composición
+
+
+		_Shutter Angle:
+
+			_así, como también, podremos en el efecto transform, indicar una velocidad de
+
+			motion blur, de forma personalizada adicional
+
+
+		_Sampling:
+
+			_como también, podremos indicar una velocidad de sampleo ó calidad ó interpolación
+
+			del motion blur, en relación a las opciones anteriores de shutter angle
+
+
+
+
+
+
+
+
+
+
+

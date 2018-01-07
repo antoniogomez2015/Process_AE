@@ -1,0 +1,164 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá hacer ajustes de HSL, ó tono saturación y brillo por canal de forma específica ó
+
+	por separado a través, de los criterios ó sistema de gamma, pedestal y gain
+
+
+	_lo cuáles, podremos modificar por separado por cada criterio y a su vez, cada uno de éstos por cada canal
+
+	respectivamente lo que nos permite tener un control estructura y exactitud de cada parámetro 
+
+
+	_a diferencia de "curves", por ejemplo que disponemos de hasta 255. controles de forma libre y no 
+
+	controlada
+
+
+	NOTE: El efecto Gama/pedestal/ganancia ajusta la curva de respuesta de forma independiente para cada canal 
+
+	para pedestal y ganancia, un valor de 0,0 significa totalmente desactivado, y un valor de 1,0, completamente 
+
+	activado
+
+
+	_de ésta manera, podremos entender que los valores de gamma, pedesta y gain, representan las siguientes 
+
+	características dentro del HLS, (tono, saturación y brillo):
+
+
+		_Pedestal:
+
+			_pedestal, representará a las altas luces, brillos ó blancos en la imágen
+
+
+		_Gamma:
+
+			_gamma, representará los medio tonos en la imágen
+
+
+
+		_Gain:
+
+			_gain, representará la saturación, sombras ó negros en la imágen
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Gamma / Pedestal / Gain: (Gama Pedestal y Ganancia)
+	________________________
+
+
+		_Black Stretch:
+		
+			_El control "estiramiento de negros" reasigna los valores de píxeles bajos de todos los 
+
+			canales asignándoles nuevos valores de "estiramiento de negros", más altos los cuáles, darán 
+
+			un brillo a las zonas más oscuras de la imágen recuperando éstas al conseguir detalles en 
+
+			las zonas más oscuras de la imágen
+
+
+		_Red Gamma:
+
+			_éste valor nos permitirá aumentar la información de la gamma tonal de la imágen hacia los 
+
+			medio tonos en el canal de los rojos en éste caso
+
+
+		_Red Pedestal:
+
+			_éste valor nos permitirá aumentar la información de la gamma tonal de la imágen hacia las 
+
+			saturación, sobras ó negros en el canal de los rojos en éste caso
+
+
+		_Red Gain:
+
+			_éste valor nos permitirá aumentar la información de la gamma tonal de la imágen hacia las 
+
+			altas luces, brillos ó blancos en el canal de los rojos en éste caso
+
+
+		_Green Gamma:
+
+			éste valor nos permitirá aumentar la información de la gamma tonal de la imágen hacia los 
+
+			medio tonos en el canal de los verdes en éste caso
+
+
+		_Green Pedestal:
+
+			_éste valor nos permitirá aumentar la información de la gamma tonal de la imágen hacia las 
+
+			saturación, sobras ó negros en el canal de los verdes en éste caso
+
+
+		_Green Gain:
+
+			_éste valor nos permitirá aumentar la información de la gamma tonal de la imágen hacia las 
+
+			altas luces, brillos ó blancos en el canal de los verdes en éste caso
+
+
+		_Blue Gamma:
+
+			_éste valor nos permitirá aumentar la información de la gamma tonal de la imágen hacia los 
+
+			medio tonos en el canal de los azules en éste caso
+
+
+		_Blue Pedestal:
+
+			_éste valor nos permitirá aumentar la información de la gamma tonal de la imágen hacia las 
+
+			saturación, sobras ó negros en el canal de los rojos en éste caso
+
+
+		_Blue Gain:
+
+			_éste valor nos permitirá aumentar la información de la gamma tonal de la imágen hacia las 
+
+			altas luces, brillos ó blancos en el canal de los azules en éste caso
+
+
+
+
+
+
+
+
+
+
+
+

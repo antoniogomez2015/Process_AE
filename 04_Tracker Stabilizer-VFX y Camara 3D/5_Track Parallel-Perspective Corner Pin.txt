@@ -1,0 +1,87 @@
+
+
+
+
+	Tracker ó Rastreo en After Effects
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Nota: la diferencia entre "Parallel Corner Pin", y "Perspective Corner Pin"
+
+
+
+	A_Parallel Corner Pin:
+	______________________
+
+		_éste obedece a una relación de "Skew", entre sus punto de ancla/anchor
+
+
+
+
+	B_Perspective Corner Pin:
+	_________________________
+
+		_en este sus puntos de ancla/anchor, son libres para controlar perspectiva y distorción
+
+
+
+
+
+	1.primero creamos una composición arrastrando nuestro source/video, al ícono de composición para que se cree una 
+
+	nueva composición con todas las propiedades del video como; tamaño, tipo de video: entrelazado, progresivo, frame 
+
+	rate, otros, garantizando así, un correcto trackeo
+
+
+
+	2.con el video seleccionado en la timeline, hacemos right+click y seleccionamos "Track Motion"
+
+
+
+	3.en las opciones del panel "Track", vamos a las opciones de "Track Motion/Type Track/(Parallel Corner Pin ó 
+
+	Perspective Corner Pin)", respectivamente
+
+
+
+	4.así, aparecerán cuatro puntos de ancha, los cuales debemos ubicar en cada uno de los cuatro extremos del screen 
+
+	que deseamos hacer track/seguimiento
+
+
+
+	5.ahora procedemos a trackear, observando cuadro a cuadro que no haya problemas ó desfaces
+
+
+
+	6.luego cargamos en la composición actual, la imágen desea ó composición ej: "Motivo", a la cuál desemos aplicarle 
+
+	la deformación ó seguimiento capturado en el trackeo
+
+
+
+	7.posteriormente volvemos al panel "Track Motion", y vamos a las opciones de "Track Motion/Motion Target-destino de 
+
+	movimiento", y elegimos ó seleccionamos la capa ó composición deseada, en este caso es; "Motivo"
+
+
+
+	8.así, a la capa "Motivo", asignada se le agregará un nuevo efecto, este es "Corner Pin", y en sus punto de anclas 
+
+	"Upper Left/Upper Right/Lower Left/Lower Right", le serán asígnados los valores del rastreo de movimiento permitiendo
+
+	así, que los movimientos de deformación del efecto corner pin, sigan los movimientos iniciales del screen, del cuál 
+
+	extraimos los movimientos en sus dimensiones en el espacio
+
+
+
+
+
+

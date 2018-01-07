@@ -1,0 +1,101 @@
+
+
+
+Efecto sifon ó metaball en shapes en after effects
+
+
+	Referencia:
+
+		Sombra Flat - Tutorial After Effects
+
+			https://www.youtube.com/watch?v=Tz-2y48-a5o
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	_primero debemos crear el elemento motivo, como puede ser una layer, de shape, ó forma ó una layer,
+
+	de texto
+
+
+	_para luego, aplicarle ha ésta layer, el efecto de:
+
+	
+		_"Effect/Blur & Sharpen/CC Radial Fast Blur"
+
+
+	CC Radial Fast Blur:
+	____________________
+
+	_el cuál, debemos proyectar hacia un lado para que éste así proyecte el desenfoque hacia donde deseamos
+
+	emular la sonbra ó shadow, ha generar
+
+
+		_Amount:
+
+			_en cantidad podriamos colocar un valor de "100"
+
+
+
+	_ahora para posterizar esa proyección de blur, ó desenfoque demos aplicarle ha esa respectiva layer, el
+
+	efecto de:
+
+
+		_"Effect/Matte/Matte Choker"
+
+
+	Matte Choker:
+	_____________
+
+
+		_Geometric Softness 1:
+
+			_éste valor debemos colocarlo en "0"
+
+
+		_Choke 1:
+
+			_éste valor debemos colocarlo en su valor máximo inverso, éste es: "-127"
+
+
+	de ésta manera podremos ver la posterización de la sombra ha proyectar
+
+
+	_y para darle color ha ésta respectiva sombra ó shadow, debemos aplicarle ha ésta layer, el efectos de:
+
+		
+		_"Effect/Generate/Fill"
+
+
+	para que así, podamos cambiar el color ha color deseado que se funda con el fondo ó background y tenga
+
+	la apariencia en color, tono y opacidad de una sombra ó shadow
+
+
+	_y por último para enviar la sombra al fondo y que sobre salga la layer, motivo ej: el texto, debemos
+
+	agregar ha ésta layer, respectiva el efecto de:
+
+
+		_"Channel/CC Composite"
+
+
+	CC Composte:
+	____________
+
+
+		_al cuál, sólo debemos desactivarle la opción de "RGB only", de ésta manera ya podremos ver el
+
+		el efecto terminado y funcionando correctamente
+
+
+		
+
+	
+
+
+

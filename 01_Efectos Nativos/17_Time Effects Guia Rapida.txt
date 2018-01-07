@@ -1,0 +1,270 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Time Effects:
+	_____________
+
+
+	_Echo: (Eco)
+
+		_El efecto Eco combina fotogramas de los diferentes tiempos de una capa. El efecto Eco tiene varios 
+
+		usos, desde un eco visual simple hasta efectos de barras y manchas.
+
+
+		_es decir, con éste efecto podremos crear delays, del barrido de las layers, animadas en la
+		
+		composición ó también, strands, ó estelas de movimiento a través, de instancias generadas de la misma 
+
+		layer
+
+
+		_Los resultados de este efecto son visibles solo si la capa contiene cambios en el tiempo, como 
+
+		movimiento en una capa basado en un elemento de material de archivo de vídeo. Este efecto no crea 
+
+		ecos de movimiento creados mediante el movimiento de la propia capa dentro de la composición. 
+
+
+		_Para crear ecos de movimiento creados mediante el movimiento de la capa dentro de la composición, 
+
+		precomponga la capa, mueva todos los atributos en la nueva composición y aplique el efecto Eco a la 
+
+		capa precomposición.
+
+
+		_Este efecto funciona con color de 8 bpc, 16 bpc y 32 bpc.
+
+
+
+	_Posterize Time: (Tiempo de Posteriozacion)
+
+		_El efecto Tiempo de posterización, bloquea una capa para una velocidad de fotogramas específica. 
+
+		Resulta útil por sí solo como efecto especial, pero tiene además otros usos más sutiles. 
+
+
+		_Por ejemplo, puede bloquear el material de archivo de vídeo de 60 campos por segundo a 24 fotogramas 
+
+		por segundo (y, a continuación, procesar el campo a 60 campos por segundo) para dar un aspecto de 
+
+		película. 
+
+
+		_Asimismo, pueden bloquearse composiciones anidadas para una velocidad de fotogramas determinada. 
+
+		Este efecto se denomina a veces Luz estroboscópica en dispositivos de hardware.
+
+
+		_La animación del valor del control deslizante de Velocidad de fotogramas puede dar resultados 
+
+		inesperados. Por ello, el único método de interpolación admitido para la velocidad de fotogramas 
+
+		es Mantener.
+
+
+		_Este efecto funciona con color de 8 bpc, 16 bpc y 32 bpc
+
+
+
+	_Time Difference: (Diferencia de Tiempo)
+
+		_El efecto Diferencia de tiempo, calcula la diferencia de color entre dos capas y resulta una 
+
+		herramienta útil en la corrección del color; utilícelo para extraer diferencias de color cuando 
+
+		se equipare una placa de fondo con un material de archivo de primer plano. 
+
+
+		_También es apropiado para crear mates que se vayan a utilizar para aplicar estelas de humo, fuego 
+
+		o efectos de eco. 
+
+
+		_Una vez aplicado el efecto Diferencia de tiempo para encontrar las diferencias de color en el 
+
+		material de archivo, puede utilizar los efectos de corrección de color para aplicar las correcciones 
+
+		de color.
+
+
+		_ésta efecto también, nos permitirá crear efectos especiales como réplicas de imágenes animadas en 
+
+		diferentes tiempos, también, nos permitirá hacer proxis de animación a través, de un layer, 
+
+		auxiliares la cuál, tendrá máscaras ó rotoscopia del motivo para que éste interactúe luego sobre 
+
+		la layer, de fondo a través, de los diferentes modos de fusión e integración de mattes, y alphas, 
+
+		otros
+
+
+		_Este efecto funciona con colores de 8 bpc
+
+
+
+	_Time Displacement: (Desplazamiento de Tiempo)
+
+		_El efecto Desplazamiento de tiempo distorsiona la imagen desplazando píxeles en el tiempo, lo que 
+
+		produce una gran variedad de efectos. Por ejemplo, la técnica tradicional de "slit-scan", que captura
+
+		diferentes etapas de una imagen en movimiento con el tiempo, puede simular el efecto Desplazamiento 
+
+		de tiempo.
+
+
+		_Como con el efecto "Mapa de desplazamiento", el efecto Desplazamiento de tiempo, emplea un mapa de 
+
+		desplazamiento, pero basa el movimiento de los píxeles de la capa en valores de luminancia del mapa. 
+
+
+		_Los píxeles de la capa que correspondan a zonas más luminosas del mapa de desplazamiento se 
+
+		sustituyen por píxeles en la misma posición pero un número de segundos determinado más adelante 
+
+		en el tiempo. De igual modo, los píxeles de la capa que correspondan a zonas oscuras del mapa 
+
+		de desplazamiento se sustituyen por píxeles en un número de segundos determinado hacia atrás 
+
+		en el tiempo.
+
+
+
+	_Timewarp: (Deformacion de Tiempo)
+
+		_El efecto Deformación de tiempo le proporciona un control preciso sobre un gran número de parámetros
+
+		al cambiar la velocidad de reproducción de una capa, lo que incluye métodos de interpolación, 
+
+		desenfoque de movimiento y recortes de origen para eliminar efectos no deseados. 
+
+	
+		_Puede utilizar el efecto Deformación de tiempo para crear resultados simples a cámara lenta o cámara 
+
+		rápida o cambios de temporización más complejos. El efecto Deformación de tiempo funciona 
+
+		independientemente del definidor de Combinación de fotogramas en el panel Línea de tiempo.
+
+
+
+	_CC Force Motion Blur: (Forzar Desenfoque de Movimiento CC)
+
+		_El efecto "force motion blur", ó forzado de desenfoque de movimiento, tiene la capacidad de agregar 
+
+		desenfoque de movimiento a los efectos que carecen de la capacidad de desenfoque de movimiento 
+
+		mezclando varios fotogramas intermedios. 
+
+
+		_El "force motion blur", siempre debe aplicarse a una capa de ajuste o a una composición que contenga 
+
+		efectos precompuestos. los efectos de pre composición son un paso requerido porque usa datos de 
+
+		fotogramas previos y posteriores. 
+
+
+		_Si se utiliza una capa de ajuste, no es necesario el paso de precomposición, todos los cambios 
+
+		temporales debajo de la capa de ajuste se pueden realizar mediante el desenfoque de movimiento del 
+
+		efecto "force motion blur", y ya que dicho proceso consiste en generar desenfoque de movimiento en 
+
+		cada capa, de esta manera consume menos tiempo y capacidad de proceso. 
+
+
+		_El tiempo de render puede, en el peor de los casos, multiplicarse por el número de layers, 
+
+		en movimiento
+
+
+
+	_CC Time BLend: (Fusion de Tiempo CC)
+
+		_La capa fuente, incluido cualquier efecto aplicado antes de Time Blend, dejará un desvanecimiento 
+
+		sendero en la salida. La capa fuente debe tener algún tipo de conjunto de animación, para ejemplo 
+
+		de escala, posición o rotación pre-compuesta. 
+
+
+		_La capa fuente también puede ser una película o un efecto animado en la capa fuente, por ejemplo, 
+
+		un sistema de partículas. de ésta manera, podremos controlar cuánto acumular así como si el camino 
+
+		debe ser mezclado o compuesto, dispondremos de varias opciones de composición para elegir.
+
+
+
+	_CC Time BLend FX: (Fusion de TiempoFX CC)
+
+		_"CC Time Blend Fx", A diferencia de el efecto "CC Time Blend", el efecto "CC Time Blend Fx", nos 
+
+		permitirá crear strands, ó ecos de efectos específicos sobre una layer, ó composición repectiva
+
+
+		_ya que el efecto "CC Time Blend", aplica a todos los efecto y demás ainmaciones aplicadas a un 
+
+		layer, ó composición respectiva
+
+
+		_Cuando se usa solo una instancia con Pegar seleccionado, esto creará un efecto similar a Time Blend,
+
+		(para uso, consulte Time Blend), pero no usará toda la potencia de Time Blend FX. 
+
+
+		_Básicamente lo que sucede es que el que está configurado para Copiar, copia el búfer de datos y el 
+
+		que está configurado para Pegar, pega qué hay en el búfer de datos en el siguiente fotograma. 
+
+
+		_Necesita combinar Time Blend FX, con algún otro efecto o animación. Algo necesita procesarse, 
+
+		copiarse y luego pegado nuevamente para ser procesado nuevamente. Este puede ser otro parámetro 
+
+		de efectos.
+
+
+
+	_CC Wide Time: (Tiempo de Ampliacion CC)
+
+		_CC Wide Time, es un desenfoque temporal que está diseñado para mejorar la apariencia de movimiento 
+
+		de cualquier objeto que esté en contra de un fondo estacionario. 
+
+
+		_ésta opción Utiliza datos de anteriores y frames, posteriores. 
+
+
+		_Las capas con efectos aplicados deben precomponerse antes de aplicar Tiempo amplio.
+
+
+
+
+
+
+
+
+
+
+

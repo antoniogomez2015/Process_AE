@@ -1,0 +1,30 @@
+
+
+RE:Vision Plugins After Effects
+
+
+	RE:Flex Warp
+
+		1_creamos una composición y cargamos una capa a la cuál deseamos hacerle una deformación
+
+		2_a dicha capa le aplicamos un filtro yendo ha "Effects/RE:Vision/RE:Flex Warp"
+
+		3_en las opciones del efecto colocamos "RE:Flex Warp/Display/(Warped image)"
+
+		4_creamos máscaras sobre los elementos deseados a los cuales deseamos realizarle transformaciones, en acción de máscara colocamos "None", para que así, las imágenes siempre enten visibles así, como las máscaras
+			
+			4.1_ha estas máscaras debemos renombrarlas y llamarlas ej: "motivo_1_Form", éstas serán las máscaras pasivas así. como cambiarles el color por un color "Rojo", (color requirido por el plugins)
+
+			4.2_ha estas máscaras debemos duplicarlas (control+D), y renombrarlas ej: "motivo_1_To", éstas serán las máscaras activas y asignarles un color "Verde", (color requirido por el plugins)
+		
+		5_es aconsejable tener la opción RE:Flex Warp/(Auto Hide/Show Masks)", activada, para evitar así superposición y confusión entre los tipos de máscaras
+
+		6_luego selecciono las máscaras "Motivo_1_To", de color "verde", y animo la propiedad "Mask Path", para así, distorcionar la capa en el tiempo a través de la máscara
+
+		7_también podemos crear un máscara permetral la cuál limirá la acción de las distorsión de las máscaras deformadoras, esta máscara limitadora la llamaremos ej: "Boundary", y le asignaremos un color "Yellow"
+
+			7.1_luego en RE:Flex Warp/Boundary/seleccionamos la máscara que creamos para tal fin llamada "Boundary", así, las deformación se limitará a la máscara boundary
+
+
+
+

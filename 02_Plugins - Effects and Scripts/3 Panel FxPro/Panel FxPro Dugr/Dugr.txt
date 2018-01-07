@@ -1,0 +1,210 @@
+
+
+http://duduf.net/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Dugr
+
+
+	Panel FxPro/ Dugr
+
+
+	-este nos permite tener un control de las layers, de una composición a través, de grupos los cuales 
+
+	podremos controlar y gestionar a nuestras necesidades
+
+
+
+	Crear Grpups:
+	_____________
+
+	_para ésto, debemos seleccionar las layers, en el timeline, que deseamos que conformen un grupo y con 
+
+	éstas layers, seleccionadas vamos al panel "Dugr", y en el campo que dice por defecto: "New group...",
+
+	escribimos el nombre que le desemos asignar al nuevo grupo ha crear y para terminar de crear el nuevo
+
+	grupo le damos ha "Enter", ó a través, del ícono "+", ó plus, de ésta manera el nuevo grupo que hemos 
+
+	creado aparecerá en la lista de grupos
+
+
+	
+	Manager Groups:
+	_______________
+
+	_así, como también, podremos agregar y eliminar layers, dentro de un grupos previamente creado 
+
+
+	_para ésto debemos seleccionar la layer, ha agregar en el timeline, para luego darle al botón 
+
+	"Add selected layer to selected group", justo debemos del campo de nuevo nombre de grupo
+
+
+	_y para eliminar una layer, de un grupo existente debemos seleccionar tanto el grupo en el panel Dugr,
+
+	como la layer, respectiva en el timeline, para luego darle al botón 
+
+	"Remove selected layer to selected group", justo debemos del campo de nuevo nombre de grupo
+
+
+
+	Use Master Groups:
+	__________________
+
+	_así, dispondremos de una serie de botones principales a través, de los cuales podremos controlar las 
+
+	funciones principales de los grupos, entre los cuales disponemos de los siguientes:
+
+
+
+		_a continuación presentaremos un esquema de la ubicación de los botones principales de izquierda
+
+		ha derecha, éstos son los botones de arriba de color azul:
+
+
+
+		Isolate Selected Group:
+		_______________________
+
+		_la primera opción hace isolate, del grupo seleccionado tanto en el timeline como en el viewport
+
+
+
+		Isolate Selected Group in the Timeline Only:
+		____________________________________________
+
+		_la segunda opción hace isolate, del grupo seleccionado sólo en el timeline
+
+
+
+		Isolate Selected Group in the Composition Panel Only:
+		_____________________________________________________
+
+		_la tercera opción hace isolate, sólo en el viewport
+
+
+	
+		Select Layer from Selected Groups:
+		__________________________________
+
+		_la cuarta opción nos permite seleccionar todas las layers, dentro de un grupo
+
+
+
+		Invert Group Selection:
+		_______________________
+
+		_la quinta opción nos permite invertir la selección de grupos en el panel de grupos del plugins
+
+
+
+		Leave Isolation:
+		________________
+
+		_la sexta opción nos permite liverar las layers, ó deshacer los posibles isolates de los pasos 
+
+		anteiroes
+
+
+
+
+	Suiches Groups Master:
+	______________________
+
+	_así, como también, tenemos a nuestra disposición una gran cantidad de los suiches, de gestión de layers, 
+
+	para controlar así, más aún a los diferentes grupos existentes en el panel, entre los cuales disponemos:
+
+
+
+		_Visible:
+
+			_ésta opción nos permitirá hacer visibles ó ocualtar todas las layers, de un grupo
+
+
+		_Audio:
+
+			_ésta opción nos permitirá hacer visibles ó ocualtar los audios dentro de un grupo
+
+
+		_Solo:
+
+			_ésta opción nos permitirá hacer un "solo", de grupo en el viewport
+
+
+		_Lock:
+
+			_ésta opción nos permitirá hacer un "lock", de las layers, de un grupo
+
+
+		_Shy:
+
+			_ésta opción nos permitirá activar las opciones de "shy", a las layers, de un grupo
+
+
+
+		_Collapse T:
+
+			_ésta opción nos permitirá activar las opciones de "Collapse Transformation", ha todas
+
+			las layers, de un grupo si aplican para éstas
+
+
+
+		_Quality Sampling:
+
+			_ésta opción nos permitirá variar entre las diferentes posibilidades de calidad de para
+
+			las layers, parte de un grupo
+
+
+
+		_Fx:
+
+			_ésta opción nos permitirá hacer visibles ó ocualtar los efectos para las layers, de un 
+
+			grupo si éstas poseen efectos
+
+
+
+		_Frame Blending:
+
+			_ésta opción nos permitirá activar ó desactivas las opciones de frame blending, para las
+
+			layers, de un grupo si aplican para éstas
+
+
+		_Motion Blur:
+
+			_ésta opción nos permitirá activar ó desactivas las opciones de motion blur, para las
+
+			layers, de un grupo si aplican para éstas
+
+
+		_Adjusment Layer:
+
+			_ésta opción nos permitirá activar ó desactivas las opciones de adjusment layers, para 
+
+			las layers, de un grupo si aplican para éstas
+
+
+		_3D:
+
+			_ésta opción nos permitirá activar ó desactivas las opciones de 3D, para las layers, de 
+
+			un grupo si aplican para éstas
+	
+
+	
+
+
+	
+
+
+	

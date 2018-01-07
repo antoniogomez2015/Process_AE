@@ -1,0 +1,38 @@
+
+
+
+
+relacionar valores de propiedades de animación
+
+
+	referencia:
+
+		Expresiones - Tutorial After Effects	
+			
+			https://www.youtube.com/watch?v=uYrJuisklPY
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	1_tenemos la posibilidad de relacionar propiedades para que así, unas propiedades estén superditadas por
+
+	otras para realizar sus respectivas acciones, ej, podríamos hacer que una rotación penda de la 
+	translación de otra
+
+
+	_para ésto, debemos desplegar las propiedades ha relacionar para luego, a la propiedad ha relacionar 
+	debemos activarle sus propiedades de expresiones "Alt + mouse left click"
+
+
+	_para luego arrastrar el "Piquick", hasta la propiedad ha relacionar, de ésta manera si arrastramos sobre
+
+	el nombre de la propiedad respectiva se relacionarán todas sus cordenadas más si arrastramos sobre alguna
+
+	de las cordenadas se relacionará sólo ha ésta respectiva propiedad a la cuál, se ha arrastrado sobre ésta
+
+
+
+	

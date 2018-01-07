@@ -1,0 +1,86 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá eliminar imperfecciones de clips, de video y secuencias de imágenes como efectos
+
+	como por ejemplo; polvo y rascaduras entre otro tipos de imperfecciones en clips, antiguos los cuáles, presentan
+
+	deterioro por diferentes causas
+
+
+	_para que así, podamos disminuir y eliminar en alto grado éstas imperfecciones sobre el material de archivo
+
+
+	_más ésta versión "Median", es una versión aún más simplificada del efecto de "Dust & Scratches", ó,
+
+	(Polvo y Rascaduras), de ésta manera, ésta versión "Median", prescinde de las opciones de threshold, umbral, 
+
+	entre otras posibilidades
+
+
+	_de ésta manera, ésta versión de "Median", es más recomendable para clips, con imperfecciones sutiles y fáciles
+
+	de corregir en las cuáles, sólo requiramos aplicar valores muy bajos para hacer ajustes y correcciones rápidas
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Median: (Mediana)
+	_______
+
+
+		_Radius:
+
+			_ésta opción nos permitirá indicar ó un rango ó umbral a través, del cuál, podremos indicarle
+
+			al sistema la cantidad de corrección del ruido y de las rasgaduras encontradas en la layer,
+
+			base a la cuál, le hemos aplicado el efecto
+
+
+		_Operate On Alpha Channel:
+
+			_ésta opción nos permitirá aplicar la correción de ruido y rasgaduras al canal alpha, existente
+
+			en la layer, base sobre la cuál, hemos aplicado el efecto
+
+
+
+
+
+
+
+
+
+

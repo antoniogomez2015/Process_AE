@@ -1,0 +1,97 @@
+
+Distribute Layers, para After Effects
+
+
+	Referencia
+
+		http://aescripts.com/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+---------------------------------------------------------------------------------------------------------------------
+Layer Distribute:
+---------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Riff: (no corre error: Unable to execue script at line 23, undefined is not an object)
+_____
+
+	
+	Descripción: (interpolaciones avanzada entre animaciones)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(M) / Panel Toolbat Right Timeline / Referencia al lado derecho del Panel Timeline)
+
+
+	Referencia en la web: http://aescripts.com/rift/
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Align 3D: 
+_________
+
+	
+	Descripción: (interpolaciones avanzada entre animaciones)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(D) / Panel Proyecto / Referencia (Panel Proyecto por default)
+
+
+	Referencia en la web: http://aescripts.com/align-3d/
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Randomizer: 
+___________
+
+	
+	Descripción: (distribución y alineamiento de layers, en el espacio 2d, y 3d)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(D) / Panel Proyecto / Referencia (Panel Proyecto por default)
+
+
+	Referencia en la web: http://aescripts.com/randomizer/
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Centrum: 
+________
+
+	
+	Descripción: (éste permite crear nuevas layers, y distribuirlas construyendo formas de geometría)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(F) / Panel FxPro / Referencia (al lado derecho del Panel Proyecto por default)
+
+
+	Referencia en la web: http://aescripts.com/centrum/
+
+
+
+
+

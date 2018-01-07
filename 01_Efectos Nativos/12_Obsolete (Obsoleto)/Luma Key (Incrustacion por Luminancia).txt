@@ -1,0 +1,177 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/utility-effects.html#grow_bounds_effect
+
+				https://helpx.adobe.com/es/after-effects/using/color-management.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+		Tutorial:
+
+			Extender limites de los objetos (Grow bounds) - After effects para principiantes
+				https://www.youtube.com/watch?v=qa8pdgAn-cY
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+	
+	NOTA: Los efectos de la categoría Obsoleto se conservan para permitir la compatibilidad con los proyectos 
+
+	creados con versiones anteriores de After Effects. Cuando se actualizan proyectos o se crean proyectos 
+
+	nuevos, debe usar efectos y técnicas alternativos en lugar de los efectos de la categoría Obsoleto.
+
+
+
+
+	_éste efecto nos permitirá realizar extracciones de diferentes áreas de una imágen a través, de diferentes
+
+	criterios lo cuál, nos permitirá realizar diferentes procesos y efectos de producción y paso contínuo
+
+
+	_El efecto Incrustación por luminancia elimina todas las regiones de una capa con una luminancia o luminosidad
+
+	específicas. 
+
+
+	_El ajuste de la calidad de la capa no afecta al efecto Incrustación por luminancia.
+
+
+	_Use este efecto si el objeto para el que desea crear un mate tiene un valor de luminancia muy distinto al de 
+
+	su fondo. Por ejemplo, si desea crear un mate para notas musicales sobre un fondo blanco, puede eliminar los 
+
+	valores más claros; las notas musicales oscuras serán las únicas zonas opacas.
+
+
+	_Este efecto funciona con colores de 8 bpc y 16 bpc.
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Luma Key: (Incrustacion por Luminancia)
+	_________
+
+
+		_Key Type:
+
+
+			_Key Out Birghter:
+
+				_ésta opción nos permitirá indicarle al sistema que elimine áreas con mayor brillo
+
+				ó valores ó tonos altos de luminancia en la imágen base
+
+
+			_Key Out Darker:
+
+				_ésta opción nos permitirá indicarle al sistema que elimine áreas con mayor penunbra
+
+				ó valores ó tonos bajos de luminancia en la imágen base
+
+
+			_Key Out Similar:
+
+				_ésta opción nos permitirá indicarle al sistema que elimine áreas con superficies
+
+				similares en tono, saturación y brillo en la imágen base
+
+
+			_Key Out Dissimilar:
+
+				_ésta opción nos permitirá indicarle al sistema que elimine áreas con superficies
+
+				no similares ó irregulares en tono, saturación y brillo en la imágen base
+
+
+		_Threshold:
+
+			_ésta opción nos permitirá indicarle al sistema el umbral a través, del cuál, será eliminada
+
+			parte de la imágen en relación a su vez, al criterio seleccionado en el paso anterior
+
+
+		_Tolerance:
+
+			_ésta opción nos permitirá indicarle al sistema el umbral de tolerancia ó exactitud en el
+
+			análisis de las áreas ó superficies analizadas
+
+
+		_Edge Thin:
+
+			_ésta opción nos permitirá indicarle al sistema la posibilidad de extender ó retraer las áreas
+
+			afectadas por el criterio de acción seleccionado en la opción "Key Type", de ésta manera,
+
+			podremos aumentar ó disminuir las áreas extraidas en relación a las necesidades de producción
+
+
+		_Edge Feather:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste suavize ó desenfoque
+
+			los bordes ó perímetro del área extraida para que así, el sistema pueda integrarse mejor con
+
+			las demás layers, subyacentes de la composición respectiva, como también, para diferentes
+
+			efectos de producción y paso contínuo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

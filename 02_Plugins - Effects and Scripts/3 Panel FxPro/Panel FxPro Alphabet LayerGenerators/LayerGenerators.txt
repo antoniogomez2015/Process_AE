@@ -1,0 +1,78 @@
+
+
+http://aescripts.com/layergenerators/
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+LayerGenerators
+
+
+	Panel FxPro/ LayerGenerators
+
+
+	-este nos permite crear contenido, crear nuevas layers, en serie a una composición a través, de diferentes
+
+	criterios para lo cuál, el plugins, dispone de tres diferentes panenes los cuales hacen como si fuesen 3 
+
+	diferentes plugins
+
+
+	_de ésta manera, podremos generar y administrar más contenido dentro de composiciones y proyectos
+
+
+
+	Alphabet:
+	_________
+
+	_ésta panel nos permite generar layers, de tipo text, ó shape, así, podremos generar todo el alfabeto de
+
+	letras en layers, separadas a través, de diferentes criterios:
+
+
+
+		_Latters:
+
+			_ésta opción nos permite generar todas las layers, del alfabeto en minúsculas
+
+
+		_Upper Case:
+
+			_ésta opción nos permite generar todas las layers, del alfabeto en mayúsculas
+
+
+		Digits:
+
+			_ésta opción nos permite incorporar dentro del alfabeto digitos ó números
+
+
+		Puntiation and Symbols:
+
+			_ésta opción nos permite incorporar dentro del alfabeto simbolos y signos de puntuación
+
+
+		Center ANchor Point:
+
+			_ésta opción nos perminte colocar en punto de alclaje de cada layer, en centro de cada
+
+			respectiva layer, lo cuál, es recomendable para la mayoría de los procesos
+
+
+		Use Shape Layers:
+
+			_ésta opción nos permite generar todas layers, del alfabeto en layers, de tipo shape
+
+
+		Generate:
+
+			_éste botón nos permite generar el sistema de layers, del alfabeto
+
+
+
+
+
+
+	

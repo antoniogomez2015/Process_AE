@@ -1,0 +1,82 @@
+
+
+http://aescripts.com/pt_multiplane/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview / pt_Multiplane
+
+
+	pt_framerestorer
+
+
+	-este nos permite hacer el efecto 'Camara Mapping', de forma mas facil y automatizada
+
+	
+	-primero debemos preparar todo el material con todos sus planos extraidos o con sus
+
+	reservas respectivas de unos con otros asi, como de la preparacion de bg/background,
+
+	o fondo o sky, este proceso lo podemos hacer en after effects, a traves, de mascaras
+
+	como tamcien en aplicaciones externas como photoshop o illustrator u otras
+
+
+	-debemos crear una composicion solo para el proceso de 'multiplane', o camara mapping,
+
+	ya que el proceso contemplara todas las layers en la composicion para su programacion
+
+
+	-ahora sin layers, seleccionadas vamos al panel 'pt-Multiplane', y seleccionamos el campo
+
+	de amplitud que tendran las layers, en su conjunto en el espacio a traves, de un valor
+
+	inicial y final 'Front/Back'
+
+
+	-luego para aplicamos 'Apply Multiplane', asi, se distribuiran las layers, en el espacio
+
+	indicado, tambien, se creara un nueva camara y se les agregaran expresiones a las layers,
+
+	de la escena para controlar su escala relativa al plano de la camara creada
+
+
+	-ahora es aconsejable seleccionar  la camara creada e ir ha 'Layer/Transform/Auto-Orient',
+
+	o a traves, de su shortcut 'Control + Alt + o', y colocar el valor de 'Auto Orientation (Off)',
+
+	para tener asi, un control mas real de la camara
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	-la ventaja de este proceso 'pt_framerestorer', es que las expresiones aplicadas a las layers,
+
+	de la composicion nos permite mover las layers, en su plano 'Z', o profundidad de la escena
+
+	de forma individual
+
+
+	-con la caracteristicas de que las layers, movidas en su plano de profundida son reescaladas,
+
+	'Scale (Z) +/-', en relacion al plano de la camara
+
+
+	-esto permite que una capa sea movida en el plano 'Z', mas mantenga su escala relativa al plano
+
+	de la camara manteniendo su proporcion exacta inicial u original
+
+
+	-esto es especialmente util para variar o ajustar o exagerar el efecto de paralaje de las escenas
+
+	en relacion a los planos de proximidad para lograr efectos de movimiento y pronfundidad 
+
+	mas avanzados
+

@@ -1,0 +1,45 @@
+
+
+http://aescripts.com/bao_perspective_changer/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Perspective Changer
+
+
+	Panel Proyecto/Perspective Changer
+
+
+		-este nos permite hacer un efecto similar el "corner pin"
+
+		_para ésto debemos seleccionar la layer, respectiva e ir ha "Effects/BAO/Perspective_Changer"
+
+
+		_para a continuación tomar los pines, de su exterior ó perímetro y hacer las respectiva corrección
+
+		de perspectiva ó deformación deseada, ésto  en "Mode: Selection"
+
+		_para luego hacer el cambio de "Mode: Transform_crop", para que así, el efecto realice la deformación
+
+		ó corrección de perspectiva deseada
+
+
+		_más también, disponemos de la opción de transpolar éste efecto ha máscaras entre otras opciones para
+
+		lo cuál, contamos con el panel del plugins externo de "Perspective_changer", el cuál, nos permitirá
+
+		transpolar la deformación ha una máscara ó de una máscara ha la layer, de transfomación
+
+
+		_para ésto éste panel dispone de las opciones de "From", y "To", en las cuales podremos configurar las
+
+		opciones de transpolación entre "Mask", y "Transformation"
+
+		
+
+
+	

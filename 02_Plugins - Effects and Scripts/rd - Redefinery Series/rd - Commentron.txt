@@ -1,0 +1,64 @@
+
+
+
+
+RD, serie de escripts, gratuitos http://www.redefinery.com/   http://www.redefinery.com/ae/view.php?item=rd_Approximate
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+RD RemoveMarkers
+
+
+	este escript, tiene como objetivo agregar informacion general al proyecto en relacion a determinadas partes del 
+
+	mismo proyecto, a traves, de comando predeterminados, otros
+
+
+
+WorkFlow
+---------
+
+
+	-primero seleccionamos una composicion en el panel proyecto
+
+
+	-luego vamos al panel rd - Commentron, y seleccionamos uno de los criterios disponibles, los cuales son
+
+
+	Affect
+	------
+
+
+		-All
+
+			-indeterminado
+
+
+		-All Fotage
+
+			-indeterminado
+
+
+		-All Disk-based Footage
+
+			-indeterminado
+
+
+		-Selected
+
+			-indeterminado
+
+
+
+
+NOTA	he hecho pruebas y no he logrado resultados
+
+
+	
+	
+

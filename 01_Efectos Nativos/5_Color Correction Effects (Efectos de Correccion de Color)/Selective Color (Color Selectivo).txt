@@ -1,0 +1,481 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permite una edición selectiva y avanzada de color, el cuál, nos permitirá trabajar tanto
+
+	en el espacio de color e entrada: R/G/B, como C/M/Y/ Blacks / Whites / Neutrals
+
+
+	_para posteriormente hacer ajustes y modificaciones sobre éstos canales a través, del método de "C/M/Y/K"
+
+
+	_lo cuál, nos lleva a otro nivel si comparamos éste efecto con el efecto de "Hue/Saturation", el cuál,
+
+	también, nos permite la edición de HSL, por medio de los espacios de color del RGB, y CMY, pero a través,
+
+	de la modalidad de virado de color por medio del wheel, ó rueda de color
+
+
+
+	Funcionalismo:
+
+	_de ésta manera, en el efecto de "Selective Color", podremos hacer una corrección de color extensa ya que en
+
+	éste podremos ha cada canal editarlo de forma independiente y a su vez 
+
+
+	_ha éste respectivo canal hacerle ajustes a través, del modo de color "C/M/Y/K", de forma independien a su 
+
+	vez como si fuesen sub-canales cmyk, dentro de cada canal editado respectivamente
+
+
+	_lo cuál, nos brindará todo un sistema de edición fino y detallado del color y las respectivas dominantes
+
+	de éste, como estilos, otros
+
+
+
+	Workflow:
+	
+	_de ésta manera, debemos de primeramente seleccionar un método, donde el cuál, es más recomendado es el
+
+	"Absolute"
+
+
+	_para posteriormente seleccionar una canal de trabajo en el selector de "Colors", el cuál, comenzaremos 
+
+	ha editar como ajustes y dominantes de color a través, de los controles C/M/Y/K
+
+
+	_de ésta manera, podremos ver que sea cuál, sea el método ó espacio de edición de colores en entrada
+
+	que seleccionemos para trabajar, los ajustes y variaciones de colores las realizaremos en el espacio 
+
+	y modo de color C/M/Y/K
+
+
+
+	Interface:
+
+	_por defecto biene seleccionado el método "Relative", el cuál, para la mayoría de los casos dará 
+
+	mejores resultados el método "Abolute"
+
+
+	_y en la sección de "Colors", vendrá seleccionado la opción de "Reds", de ésta manera, podremos 
+
+	seleccionar éste ó cualquier otro canal de entrada "R/G/B, como C/M/Y/ Blacks / Whites / Neutrals"
+
+
+	_más también, dispondremos de todos los canales desplegados dentro de la misma interface, dentro de 
+
+	las opciones de "Details"
+
+	
+	_para que así, podamos hacer ediciones en todos los canales posibles de entrada en relación al tipo
+
+	de corrección, ajuste ó dominante de color deseado
+
+
+	_por ejemplo, puede utilizar la corrección selectiva del color para disminuir el cyan del componente 
+
+	verde de una imagen a la vez que se mantiene sin modificar el cyan, del componente azul, otros
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Selective Color: (Color Selectivo)
+	________________
+
+
+		_Method:
+
+			_Relative:
+				
+				_Cambia la cantidad existente de cian, magenta, amarillo o negro en un 
+
+				porcentaje del total. Por ejemplo, si comienza con un píxel que tiene 50% 
+
+				de magenta y añade un 10%, el 5% se añade al magenta (10% del 50% = 5%) 
+
+				para un total de 55% de magenta. (Esta opción no puede ajustar el blanco 
+
+				especular puro, que no contiene ningún componente de color).
+
+
+			_Absolute: (recomendado)
+
+				_Ajusta el color en valores absolutos. Por ejemplo, si comienza con un 
+
+				píxel que tiene un 50% de magenta y añade un 10%, la definición de la 
+
+				tinta magenta es un total del 60%.
+
+
+		_Colors:
+
+			_éste selector nos permnitirá seleccionar el tipo de canal de trabajo los cuáles,
+
+			pueden ser de diferentes espacios de color así, como también, de HLS, como:
+
+
+			_R/G/B, como C/M/Y/ Blacks / Whites / Neutrals
+
+
+		_Cyan:
+
+			_éste control nos permitirá ajustar el cyan, del canal seleccionado en el selector 
+
+			colors
+
+
+		_Magenta:
+
+			_éste control nos permitirá ajustar el magenta, del canal seleccionado en el 
+
+			selector colors
+
+
+		_Yellow:
+
+			_éste control nos permitirá ajustar el yellow, del canal seleccionado en el 
+
+			selector colors
+
+
+		_Black:
+
+			_éste control nos permitirá ajustar el black, ó gamma/HSL, del canal 
+
+			seleccionado en el selector colors
+
+
+
+
+		Details
+
+
+			_Reds:
+
+				_Cyan:
+
+					_éste control nos permitirá hacer ajuste del cyan, dentro del 
+
+					canal red, en éste caso, sin afectar al cyan, de otros canales
+
+
+				_Magenta:
+
+					_éste control nos permitirá hacer ajuste del magenta, dentro del 
+
+					canal red, en éste caso, sin afectar al magenta, de otros canales
+
+
+				_Yellow:
+
+					_éste control nos permitirá hacer ajuste del yellow, dentro del 
+
+					canal red, en éste caso, sin afectar al yellow, de otros canales
+
+
+				_Black:
+
+					_éste control nos permitirá hacer ajuste de gamma/HSL, dentro del 
+
+					canal red, en éste caso, sin afectar el gamma/HSL, de otros canales
+
+
+
+			_Yellows:
+
+				_Cyan:
+
+					_éste control nos permitirá hacer ajuste del cyan, dentro del 
+
+					canal yellow, en éste caso, sin afectar al cyan, de otros canales
+
+
+				_Magenta:
+
+					_éste control nos permitirá hacer ajuste del magenta, dentro del 
+
+					canal yellow, en éste caso, sin afectar al magenta, de otros canales
+
+
+				_Yellow:
+
+					_éste control nos permitirá hacer ajuste del yellow, dentro del 
+
+					canal yellow, en éste caso, sin afectar al yellow, de otros canales
+
+
+				_Black:
+
+					_éste control nos permitirá hacer ajuste de gamma/HSL, dentro del 
+
+					canal yellow, en éste caso, sin afectar el gamma/HSL, de otros canales
+
+
+
+			_Greens:
+
+				_Cyan:
+
+					_éste control nos permitirá hacer ajuste del cyan, dentro del 
+
+					canal green, en éste caso, sin afectar al cyan, de otros canales
+
+
+				_Magenta:
+
+					_éste control nos permitirá hacer ajuste del magenta, dentro del 
+
+					canal green, en éste caso, sin afectar al magenta, de otros canales
+
+
+				_Yellow:
+
+					_éste control nos permitirá hacer ajuste del yellow, dentro del 
+
+					canal green, en éste caso, sin afectar al yellow, de otros canales
+
+
+				_Black:
+
+					_éste control nos permitirá hacer ajuste de gamma/HSL, dentro del 
+
+					canal green, en éste caso, sin afectar el gamma/HSL, de otros canales
+
+
+
+			_Cyans:
+
+				_Cyan:
+
+					_éste control nos permitirá hacer ajuste del cyan, dentro del 
+
+					canal cyan, en éste caso, sin afectar al cyan, de otros canales
+
+
+				_Magenta:
+
+					_éste control nos permitirá hacer ajuste del magenta, dentro del 
+
+					canal cyan, en éste caso, sin afectar al magenta, de otros canales
+
+
+				_Yellow:
+
+					_éste control nos permitirá hacer ajuste del yellow, dentro del 
+
+					canal cyan, en éste caso, sin afectar al yellow, de otros canales
+
+
+				_Black:
+
+					_éste control nos permitirá hacer ajuste de gamma/HSL, dentro del 
+
+					canal cyan, en éste caso, sin afectar el gamma/HSL, de otros canales
+
+
+
+			_Blues:
+
+				_Cyan:
+
+					_éste control nos permitirá hacer ajuste del cyan, dentro del 
+
+					canal blue, en éste caso, sin afectar al cyan, de otros canales
+
+
+				_Magenta:
+
+					_éste control nos permitirá hacer ajuste del magenta, dentro del 
+
+					canal blue, en éste caso, sin afectar al magenta, de otros canales
+
+
+				_Yellow:
+
+					_éste control nos permitirá hacer ajuste del yellow, dentro del 
+
+					canal blue, en éste caso, sin afectar al yellow, de otros canales
+
+
+				_Black:
+
+					_éste control nos permitirá hacer ajuste de gamma/HSL, dentro del 
+
+					canal blue, en éste caso, sin afectar el gamma/HSL, de otros canales
+
+
+
+			_Magentas:
+
+				_Cyan:
+
+					_éste control nos permitirá hacer ajuste del cyan, dentro del 
+
+					canal magenta, en éste caso, sin afectar al cyan, de otros canales
+
+
+				_Magenta:
+
+					_éste control nos permitirá hacer ajuste del magenta, dentro del 
+
+					canal magenta, en éste caso, sin afectar al magenta, de otros canales
+
+
+				_Yellow:
+
+					_éste control nos permitirá hacer ajuste del yellow, dentro del 
+
+					canal magenta, en éste caso, sin afectar al yellow, de otros canales
+
+
+				_Black:
+
+					_éste control nos permitirá hacer ajuste de gamma/HSL, dentro del 
+
+					canal magenta, en éste caso, sin afectar el gamma/HSL, de otros canales
+
+
+	
+			_Whites:
+
+				_Cyan:
+
+					_éste control nos permitirá hacer ajuste del cyan, dentro del "Pedestal",
+
+					global de toda la imágen
+
+
+				_Magenta:
+
+					_éste control nos permitirá hacer ajuste del magenta, dentro del 
+
+					"Pedestal", global de toda la imágen
+
+
+				_Yellow:
+
+					_éste control nos permitirá hacer ajuste del yellow, dentro del 
+
+					"Pedestal", global de toda la imágen
+
+
+				_Black:
+
+					_éste control nos permitirá hacer ajuste del black, dentro del 
+
+					"Pedestal", global de toda la imágen
+
+
+
+			_Neutrals:
+
+				_Cyan:
+
+					_éste control nos permitirá hacer ajuste del cyan, dentro de la 
+
+					"Gamma", global de toda la imágen
+
+
+				_Magenta:
+
+					_éste control nos permitirá hacer ajuste del magenta, dentro de la 
+
+					"Gamma", global de toda la imágen
+
+
+				_Yellow:
+
+					_éste control nos permitirá hacer ajuste del yellow, dentro de la 
+
+					"Gamma", global de toda la imágen
+
+
+				_Black:
+
+					_éste control nos permitirá hacer ajuste de black, dentro de la 
+
+					"Gamma", global de toda la imágen
+
+
+
+			_Blacks:
+
+				_Cyan:
+
+					_éste control nos permitirá hacer ajuste del cyan, dentro de la 
+
+					"Gain", global de toda la imágen
+
+
+				_Magenta:
+
+					_éste control nos permitirá hacer ajuste del magenta, dentro de la 
+
+					"Gain", global de toda la imágen
+
+
+				_Yellow:
+
+					_éste control nos permitirá hacer ajuste del yellow, dentro de la 
+
+					"Gain", global de toda la imágen
+
+
+				_Black:
+
+					_éste control nos permitirá hacer ajuste de black, dentro de la 
+
+					"Gain", global de toda la imágen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

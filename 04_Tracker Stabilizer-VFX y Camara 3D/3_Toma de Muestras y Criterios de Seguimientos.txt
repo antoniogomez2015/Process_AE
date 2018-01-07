@@ -1,0 +1,113 @@
+
+
+
+
+	Tracker ó Rastreo en After Effects
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Seleccionadores de pixeles a trackear:
+	______________________________________
+
+
+	1.el rectángulo interno: enmarca los pixeles que deseamos seguir: procuremos indicar pixeles de alto contraste en 
+
+	esta selección, por ejemplo: blancos y negros; para que la herramienta pueda comparar entre ambos colores/saturación 
+
+	ó contraste, si colocamos sólo un color ó contraste, la herramienta no podrá comparar para poder hacer el muestreo 
+
+	para el trackeo, (un 80%, de lo que queramos trackear y un 20%, de lo que esta al rededor)
+
+
+
+	2.el rectángulo exterior: enmarca los pixeles que tomará la herramienta para comparar los cambios relizados por los 
+
+	pixeles para hacer la extrapolación de pixeles para poder moverse a la nueva posición de los pixeles (si hacemos el 
+
+	rectángulo exterior demaciado grande en relación al rectángulo interno, la herramienta perderá demaciado rendimiento)
+
+
+
+	3.debemos comenzar el trackeo al principio ó al final del clic de video para poder así, trackear hacia adelante y 
+
+	hacia atras
+
+
+
+	4.la edición y ajuste de los rectángulos de muestreo para el trackeo debemos hacerlo en el panel de layer ó capa
+
+
+
+	5.la herramienta de track/rastreador funciona a través de muestreo de pixeles, por esta razón debemos configurar la 
+
+	ventana de composición con resolución completa, ya que la ventana de layer/capa, hereda ó trabaja con la misma 
+
+	resolución que la ventana de composición
+
+
+
+	6.luego de trackear nuestro clic de video debemos "Apply/aplicar", los cambios en el panel "Track/rastreador", en 
+
+	la capa ó clip, seleccionado
+
+
+
+	7.se crearán los atributos "Motion Trackers" y "Track Pint", donde se almacenará el trackeo que hemos realizado en 
+
+	el clip, de video ó capa
+
+
+
+	8.al "Apply/aplicar", el trackero en el panel "Track/rastreo," se creará el atributo "Transform" "Anchor Point", 
+
+	en el clip, de video selecionado ó capa, donde se aplicarán los ajuste de movimiento ó escala ó rotación ó 
+
+	perspectiva
+
+
+
+
+
+	Criterio de Muestreo para position-scale-ratation:
+	__________________________________________________
+
+
+	1.para rastrear/track ó stabilized/estabilizar "position", en un plano, solo hace falta un punto de rastretro, con 
+
+	su rectángulo interior y exterior, el cual muestrea para seguir y almacenar los datos en el tiempo
+
+
+
+	2.rastrear/track ó stabilized/estabilizar "position-rotation", en un plano, hacen falta dos puntos de rastreo:
+
+		
+
+		2.1.con el primer punto se toman muestras de pixeles similares para su seguimiento y así, estabilizar 
+
+		movimiento/posición
+
+
+
+		2.2.con el segundo punto se toman muestras de pixeles similares para tomarlas de referencia de comparación 
+
+		entre la altura del punto1 y el punto2 para determinar la rotación del plano
+
+
+
+		2.3.con el segundo punto también se toman muestras de pixeles similares para tomarlas de referencia de 
+
+		comparación entre la proximidad ó distancia entre el punto1 y el punto2 para determinar cambios de escala 
+
+		en el plano
+
+
+
+
+
+
+

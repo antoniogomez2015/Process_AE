@@ -1,0 +1,51 @@
+
+
+
+
+Animation Patterns
+
+
+	Referencia:
+
+		https://www.youtube.com/watch?v=cMLR-GSNKTY
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar animaciones de motion graphycs, a partir de formas geométricos como patrones los cuales
+
+	son modificables a través, de variaciones de los mismos, otros
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer rápidas animaciones de material complementario para conforman elementos de motion graphycs
+
+	entre otro tipos de posibles de aplicaciones
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Interpolación de Keyframes:
+___________________________
+
+	
+	_para ésto, debemos de tener una composición previamente creadas
+
+
+	_luego debemos crear una layer, a la cuál debemos animarle una ó varias propiedades de animación
+
+

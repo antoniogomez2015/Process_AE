@@ -1,0 +1,138 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria´crear matrices ó modulaciones de formas cuadradas ó rectangulares las cuáles, podrán
+
+	servir para diferentes procesos de mattes, mapas de deformación, otros así, como también, para la generación
+
+	de texturas proxis, otros
+
+
+	_así, como también, para generación dinámica de efectos en producción y paso contínuo entre otroas 
+
+	posibilidades
+
+
+	_también, para creación de cuadrantes, degradados múltiples entre otras muchas posibilidades ya que el sistema
+
+	por defecto crea un canal alpha, del propio sistema, de ésta manera, las áreas negras u oscurás estarán huecas
+
+	y las áreas blancas ó claras, serán visibles
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Checkerboard: (Tablero de Ajedrez)
+	_____________
+
+
+		_Anchor:
+
+			_ésta opción nos permitirá indiar el punto a partir del cuál, de comenzará ha generar el 
+
+			sistema así, como también, de mover ó animar todo el sistema en general
+
+
+		_Size Form:
+´
+			_éta opción nos permitirá indicar el criterio de acción y creación del sistema, de ésta 
+
+			manera, podremos generar el sistema a través, de un slider, ó ha través, de un handle, en 
+
+			el viepwort, a través, del cuál, podremos aumentar ó disminuir la resolución del sistema 
+
+			ó variar la cantidad de módulos integrados en el sistema
+
+			
+			_así, como también, podremos tener un control absoluto a través, de controles 
+
+			independientes tanto para el ancho como para el alto del sistema y módulos
+
+		
+
+		_Width_
+
+			_control para variar el ancho ó cantidad de módulos incorporados dentro del sistema, ésta
+
+			opción estará disponible sólo cuando las opciones de "Size From", estén en "Width Slider", 
+
+			y "Width & Height Slider"
+
+
+		_Height:
+
+			_control para variar el alto ó cantidad de módulos incorporados dentro del sistema, ésta
+
+			opción estará disponible sólo cuando las opciones de "Size From", esté en 
+
+			"Width & Height Slider"
+
+
+		_Father Width:
+
+			_ésta opción nos permitirá hacer difuminados en el sentido horizontal de los módulos lo 
+
+			cuál, nos permitirá crear efectos de degradados sinuosos en una dirección del sistema lo
+
+			cuál, es especialmente útil para un sin número de procesos de mapa, mattes, y procesos
+
+
+		_father Height:
+
+			_ésta opción nos permitirá hacer difuminados en el sentido vertical de los módulos lo 
+
+			cuál, nos permitirá crear efectos de degradados sinuosos en una dirección del sistema lo
+
+			cuál, es especialmente útil para un sin número de procesos de mapa, mattes, y procesos
+
+
+		_Color:
+
+			_ésta opción nos permitirá indicar un color para las áreas blancas por defecto ó visibles
+
+			del sistema pudiéndo así, poder personalizar el color del sistema
+
+
+		_Blend Mode:
+
+			_ésta opción nos permitirá integrar el sistema con las demás layers, de la respectiva 
+
+			composición a través, de la mayoría de los modos de fusión disponibles en el sistema por
+
+			defecto de forma nativa
+
+
+
+
+
+

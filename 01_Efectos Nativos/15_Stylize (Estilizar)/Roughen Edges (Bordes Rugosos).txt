@@ -1,0 +1,329 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear diferentes efectos a través, del cuál, podremos destruir la definición de
+
+	los bordes ó del relleno de una layer, sea ésta un vector ó imágen
+
+
+	_éste efecto sólo funciona con layers, imágenes ó vectores que tengan ó posean alphas, ó áreas en 
+
+	transparencia, ó mejor dicho; en imágenes que tengas border ó áreas periféricas
+
+
+	_de ésta manera, podremos crear diferentes efectos de producción y paso contínuo
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Roughen Edges: (Bordes Rugosos)
+	______________
+
+
+		_Edge Type:
+
+
+			_Roughen:
+
+				_ésta opción nos permitirá hacer border rugosos en el área perimetral exterior de
+
+				una layer, ó parte de ella a través, de canal alpha, directo ó indirecto
+
+
+				_más ésta opción tiene la característica que no necesariamente debe de respetar
+
+				el área perimetral de la layer, sobre la cuál, se ha aplicado el efecto
+
+
+			_Roughen color:
+
+				_ésta opción es idéntica a la opción de "Roughen", más la opción de "Roughen color",
+
+				nos permitirá cambiarle el color al área perimetral afectada por el efecto, de ésta
+
+				manera, podremos indicar un color personalizado para éstas áreas a través, de un
+
+				picker, ó un selector de color en el panel effects controls
+
+			
+				_lo cuál, nos permitirá integrar mejor motivo con los demás elementos de la escena
+
+				así, como también, para crear efectos más complejos, otros
+
+
+			_Cut:
+
+				_ésta opción es similar a la opción de "Roughen", más la opción de "Cut", nos 
+
+				permitirá hacer bordes rugosos más definidos y nítidos ó posterizados así, como 
+
+				también, éstos bordes estarán enmascarados de forma cirscuncrita al tamaño real 
+
+				de la layer, sobre la cuál, se ha aplicado el efecto
+
+
+			_Spiky:
+
+				_ésta opcíon nos permitirá crear bordes rugosos a partir del área perimetral de la
+
+				imágen y sus áreas con alpha, hacia afuera lo que quiere decir, es que podremos
+
+				extender la imágen a través, del efecto mientras creamos alta rugocidad en los 
+
+				bordes, en la proporción a la cantidad de la propiedad "Border"
+
+
+				_más ésta opcíon también, nos permitirá crear bordes rugosos más disfuninados y 
+
+				tramados lo cuál, los hace unos bordes más complejos y elaborados
+
+
+				_lo cuál, es especialmente útil para diferentes procesos de producción y paso
+
+				contínuo y de constructivismo visual
+
+
+			_Rusty:
+
+				_ésta opción nos permitirá crear la rugocidad hacia adentro ó "fill", de la layer,
+
+				lo cuál, nos permitirá crear otro tipo de efectos, como efectos de desgaste, 
+
+				texturas, patrones aleatorios
+
+			
+				_lo cuál, nos será muy útil para diferentes efectos de paso contínuo y de producción
+
+
+			_Rusty Color:
+
+				_ésta opción es idéntica a la opción anterior, más la opción de "Rusty Color", nos
+
+				permitirá teñir ó pintas las áreas perimetrales internas y con canal alpha, 
+
+				generadas de un color personalizado el cuál, podremos indicar a través, de un 
+
+				selector de color ó a través, de un picker, en el panel effects controls
+
+
+			_Photocopy:
+
+				_ésta opción nos permitirá crear efectos de rugocidad en el perímetro de la layer,
+
+				pero en su lado interno, dejando el área perimetral externa intacta, mientras que
+
+				a su vez, el área interna central de la layer, quedará vacía ó en canal alpha, 
+
+				auto generado
+
+
+				_de ésta manera, podremos crear layers, huecas para diferentes efectos para procesos
+
+				de producción y paso contínuo y constructivismo visual, otros
+
+
+			_Photocopy color:
+
+				_ésta opción es idéntica a la opción anterior de "Photocopy", más la opción de
+
+				"Photocopy color", nos permitirá rellenar el área interna central generada con una
+
+				alpha, auto generado
+
+
+				_para que así, podamos a través, de un selector de color ó a través, de un picker,
+
+				indicar un color personalizado
+
+
+		_Edge color:
+
+			_ésta opción nos permitirá seleccionar un color personalizado a través, de un selector de
+
+			color ó a través, de un picker
+
+
+			NOTA: ésta opción sólo estará disponible para las opciones de "Edge Type", las cuále,
+			
+			contengas la palabra "color", en ellas
+
+
+		_Border:
+
+			_ésta opción nos permitirá indicarle al sistema cuán extenso ó cuanto deseamos que penetre
+
+			el efecto de bordes rugosos sobre las áreas perimetrales ó en alpha, sean éstas áreas 
+
+			perimetrales internas ó externas
+
+
+		_Edge Sharpness:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos bordes rugosos más suavizados
+
+			ó más definidos y con mayor acutancia en relación a los demás colores
+
+
+		_Fractal Influence:
+
+			_ésta opción nos permitirá indicarle al sistema la fractalidad ó complejidad de los bordes
+
+			rugosos generados, de ésta manera, podremos crear unos bordes rugosos más definidos y 
+
+			detallados 
+
+
+			_ó hasta llegar el punto de hacer efectos de desvanecimiento total, dejando sólo una bruma 
+
+			desefocada sobre el área perimetral de la layer, y sus áreas en alpha
+
+
+			_lo cuál, es especialmente útil para una serie de efectos de procesos de producción y paso
+
+			contínuo
+
+
+		_Scale:
+
+			_ésta opción nos permitirá variar la escala del efecto no que nos permitirá cambiar la 
+
+			apariencia ó resolución del efecto de bordes rugosos generado
+
+
+			_de ésta manera, podremos crear con bordes rugosos más complejos y profusos ó densos, ó por
+
+			el contrario podremos crear efectos más plásticos y maleados
+
+
+			_de ésta menera, podremos ver que ésta opción nos permitirá crear efectos en diferentes 
+
+			escalas de apreciación y complejidad lo que nos permitirá crear gran cantidad de efectos de
+
+			producción y paso contínuo y de constructivismo visual
+
+
+		_Stretch Width or Height:
+
+			_ésta opción nos permitirá cambiar ó definir la orientación en la cuál, es generado el 
+
+			efecto de bordes rugosos
+
+
+			_de ésta manera, en vez de generar el efecto de bordes rugosos en todas las direcciones, 
+
+			podremos en vez de eso, genear el efecto tanto en el sentido horizontal como en el sentido
+
+			vertical
+
+
+			_de ésta manera, para generar el efecto en sentido vertical, debemos de indicar valores 
+
+			negativos, y para generar el efecto en sentido horizontal, debemos de indicar valores
+
+			positivos
+
+
+			_lo cuál, nos abre un mundo de posibilidades de cara al constructivismo visual y efectos de
+
+			producción y paso contínuo
+
+
+		_Offset (turbulence):
+
+			_ésta opcíon nos permitirá desplazar el sistema del efecto por completo sin la necesisdad 
+
+			de tener que mover la layer, de su posición original, de ésta manera, podremos animar todo
+
+			el sistema en general y ver como éste interactúa con el área perimetral de la layer
+
+
+		_Complexity:
+
+			_ésta opción nos permitirá aumentar la complejidad ó profusión del efecto generado de bordes
+
+			rugosos de ésta manera, podremos crear deformación más limpiad y definidas ó más profusas
+
+			y con un mayor detalle y más fino
+
+
+			_ésta opción es especialmente utilizada para efectos de simulaciones y procesos de 
+
+			producción y paso contínuo
+
+
+		_Evolution:
+
+			_ésta opción nos permitirá agregar variantes al sistema y animaciones sobre la misma
+
+
+
+		_Evolution Options:
+
+
+			_Cycle Evolution:
+
+				_ésta opción nos permitirá activar las opciones de ciclo avanzadas del sistema lo
+
+				cuál, nos permitirá agregar comportamientos y patrones de animaciones
+
+
+			_Cycle (in Revolutions):
+
+				_ésta opción nos permitirá agregar la cantidad de ciclo de repeticiones del sistema
+
+				ha generar, de ésta manera, podremos agregar una cantidad de patrones en secuencia
+
+				ha repetir antes de volver ha comenzar con el ciclo nuevamente
+
+
+			_Random Seed:
+
+				_ésta opción nos permitirá indicar una cantidad de animación previa del sistema lo
+
+				que quiere decir, es que ésta opción hace un desface en las animaciones y 
+
+				simulaciones del sistema generado
+
+
+
+
+
+
+
+
+
+

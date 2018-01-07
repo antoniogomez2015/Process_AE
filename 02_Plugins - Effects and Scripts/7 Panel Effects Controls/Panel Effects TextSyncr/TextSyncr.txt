@@ -1,0 +1,127 @@
+
+
+http://aescripts.com/textsyncr/#/discussion/embed
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / TextSyncr
+
+
+	TextSyncr:
+
+
+	-este nos permite hacer interpretaciones de audio para obtener los puntos álgidos en el tiempo de la 
+
+	gesticulación y fonética entre palabra y palabra a través, del tiempo
+
+
+	_de ésta manera, el sistema capturará la ejecución fonética de cada palabra en timeline, a través, del 
+
+	uso de marcas ó marks, la cuál, tendrá como descripción lo que dice literalmente cada palabra para una mayor
+
+	interpretación de la misma y de la secuencia
+
+
+	NOTA: para realizar éstos procesos el sistema requiere de la instalación previa de "java", entre otros 
+
+	elementos básicos para su funcionamniento, éste plugins, es muy similar y hasta complementario con el 
+
+	plugins, "LipSyncr", la diferencia es que éste puede servir ha otros plugins, de animación, otros
+
+
+	
+
+	Workflow:
+	_________
+
+
+	Audio:
+
+	_primero, debemos preparar el material de audio ha interpretar para que éste cumpla con los parámetros 
+
+	requeridos por el sistema, para lo cuál, es recomendado hacer un workflow, con la aplicación de 
+
+	"Media Encoder"
+
+
+	_para ésto, debemos procesar el audio para éste tenga la siguiente configuración previa al proceso:
+
+		
+		_el audio debe de estar en formato ".wav", warefrom audio
+
+		_así, como también, debe estar en modo de canal "mono"
+
+		_la frecuencia de audio es recomendada en "16.000Hz"
+
+		_formato recomendado ".mp3"
+
+
+	_para luego, si importar éste archivo de audio como una layer, ha after effects, para posteriormente 
+
+	incorporarlo a la composición de trabajo y luego al panel de "textsyncr", en la sección de "Analize/",
+
+	"Voice Recording (WAV)"
+
+
+
+	Lettering:
+	
+	_más a parte del audio en off, editado e importado en el paso anterior y relacionado con el sistema 
+
+	también, tendremos que tener el copy, de lo que dice el audio en palabra escritas en un archivo de 
+
+	texto
+
+
+	_el cuál, tendremos que pegar como una transcripción del texto en el campo del plugins, donde dice
+
+	"Paste audio transcription here", dicha transcripción es recomendable que no lleve acentos, ni comas
+
+	y signos de puntuación en general así, como tampoco carácteres especiales del lenguaje
+
+
+	NOTA: todas las prestaciones y características del plugins, funcionan perfectamente en audios y 
+
+	transcripciones en ingles, quizás no funcionen del todo en todos los idiomas
+
+
+
+	Analize:
+
+	_para luego, seleccionar la composición como activa ó en el panel proyecto, y con ésta seleccionada
+
+	ir al panel "textsyncr/Analize", y hacer "Analize", para que así, el sistema comience ha realizar el
+
+	análisis del audio a través, del copy, ó transcripción del texto suministrada, la cuál, hará en segundo
+
+	plano
+
+
+	_y cuando éste analisis haya terminado éste nos avisará y dara un reporte en una ventana contextual y,
+
+	a continuación el sistema nos generará una nueva layer, en la composición activa con las marcas generadas
+
+	en sus respectivas palabras listas para usar
+
+
+	Captions:
+	
+	_y por último las opciones de captions, nos permitirán configurar la cantidad de texto ó apalabras y párrafo
+
+	que se representará a la vez, en el viewport, ó composition panel
+
+
+	_de ésta manera podremos utilizar éste sistema ya generado de sincronización de texto y audio en marcas en
+
+	plugins, como los de "typemonkey, layermonkey, motionmonkey", y otra gama de plugins que permiten la 
+
+	sincronización ó identificación de marcas dentro de su workflow, otros
+
+
+
+
+

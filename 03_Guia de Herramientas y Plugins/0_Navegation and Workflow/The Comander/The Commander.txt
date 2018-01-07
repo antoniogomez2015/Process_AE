@@ -1,0 +1,210 @@
+
+
+
+
+The Commander
+
+
+	Referencia:
+
+		http://www.davejacobson.com/
+
+			https://vimeo.com/134916975
+
+
+	
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste hace búsquedas rápidamente de efectos, elementos de escena, archivos/files, del panel proyecto, y otras
+
+	funciones básicas y avanzadas
+
+
+	
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer grandes configuraciones con grupos de efectos, de expresiones, de plugins, y otros tipos de 
+
+	selecciones especiales en grupos de carpetas y sub carpetas para lograr un rendimiento optimo y avanzado que 
+
+	aunmenta el flujo de trabajo y performa del alcanla a la hora de realizar proyecto al tener un avanico más amplio
+
+	de herramientas a la mano
+
+
+
+Configuración:
+______________
+
+
+	_para la configuración del shortcut, del script, primero debemos ubicar el archivo donde se escribe la información
+
+	por defecto de la aplicación, para ésto vamos ha "Edit/Preferences/General", y allí al final abrimos las opciones
+
+	de "Reveal Preferences in Explorer"
+
+
+	_así, se abrirá el explorador de windows, con la ubicación de los archivos de escritura de configuración de la aplicación
+
+	"C:\Users\mono\AppData\Roaming\Adobe\After Effects\13.1", en la cuál, ubicaremos el archivo de nombre y extensión 
+
+	"Adobe After Effects 13.1 Win en_US Shortcuts.txt", para luego brir éste
+
+
+	_para que así, en la parte casi final de éste archivo encontraremos los siguientes scripts, en forma de lista
+
+	ejemplo ya personalizados por nosotros:
+
+	---------------------------------------------------------------------------------------------------------------
+
+	"ExecuteScript" = "(Ctrl+Shift+Alt+Space)"
+	"ExecuteScriptMenuItem01" = "(Shift+Tab)"
+	"ExecuteScriptMenuItem02" = "()"
+	"ExecuteScriptMenuItem03" = "()"
+	"ExecuteScriptMenuItem04" = "()"
+	"ExecuteScriptMenuItem05" = "()"
+	"ExecuteScriptMenuItem06" = "()"
+	"ExecuteScriptMenuItem07" = "()"
+	"ExecuteScriptMenuItem08" = "()"
+	"ExecuteScriptMenuItem09" = "()"
+	"ExecuteScriptMenuItem10" = "()"
+	"ExecuteScriptMenuItem11" = "()"
+	"ExecuteScriptMenuItem12" = "(Ctrl+Space)"
+	"ExecuteScriptMenuItem13" = "()"
+	"ExecuteScriptMenuItem14" = "()"
+	"ExecuteScriptMenuItem15" = "()"
+	"ExecuteScriptMenuItem16" = "()"
+	"ExecuteScriptMenuItem17" = "()"
+	"ExecuteScriptMenuItem18" = "()"
+	"ExecuteScriptMenuItem19" = "()"
+	"ExecuteScriptMenuItem20" = "()"
+
+
+	---------------------------------------------------------------------------------------------------------------
+
+
+	_así, podremos ver que ésta lista de scripts, representa la lista de scripts, en forma descendente ubicados en la
+
+	carpeta "C:\Program Files\Adobe\Adobe After Effects CC 2014\Support Files\Scripts"
+
+
+	_de ésta manera podremos ver que el script, que nos interesa para éste caso "djCommander_v1.00.jsxbin", se encuentra
+
+	en la posición descendente de "12", en relación a su nombre y su relación alfabética con el nombre de los demás scripts,
+
+	
+	_más si deseamos cambiar la ubicación relativa del script, en relación al nombre de los demás scripts, tenemos la 
+
+	posibilidad de renombrar éste script, como por ejemplo se hizo de forma nativa con el script "00 Quick Menu.jsxbin",
+
+	para que éste se encuentre de primera en la lista de scripts
+
+
+	_de ésta manera al asinarle a la siguiente línea de script, el siguiente shortcut; 
+
+		
+		"ExecuteScriptMenuItem12" = "(Ctrl+0)"
+
+
+	de ésta manera el respectivo script, que se encuentre en ésta posición responderá ha éste shortcut
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+	
+
+
+	--------------------------------------------------------------------------------------------------------------
+
+
+	Installing:
+
+		_en la carpeta donde tenemos un respaldo del plugins, se ha creado un archivo de descripción de la 
+
+		instalación y proceso de configuración del plugins, así, como también, el proceso de creación de un shortcut
+
+
+	Search:
+
+		_en la barra de búsqueda tenemos la posibilidad de insertar tanto keyworks, ó palabras de claves tanto de 
+
+		categorías que nosotros mismos hayamos creado como categorías, sub categorías y comandos, como también, 
+
+		keyworks, de la misma estructura de plugins, ej "color"
+
+
+		_como también, podemos insetar palabras libres ej: "tint", como también, palabras específicas de un efecto
+
+		determinado ej; "ramp", otros
+
+
+
+	Customize:
+
+
+		_éste nos ofrece una serie de categorías de configuración la se tendrá que ver reflejada con una serie de carpetas
+
+		para cada una de éstas
+
+
+			Animation Presets - Dorectories:
+			________________________________
+
+				_ésta opción permite seleccionar uno ó varios directorios de presets, de animación en nuestro equipo
+
+
+			Animation Presets - Files:
+			__________________________
+
+				_éste permite seleccionar uno ó varios archivos/files, de presets, de animación en nuestro equipo
+
+
+			Effects Exlusionts:
+			___________________
+
+				_éste permite hacer grupos de exclusiones de efectos determinados para que éstos nos muestren como resultados
+
+
+			Expressions:
+			____________
+
+				_éste nos permite desarrollar nuestro propio grupo de expresiones personalizadas por nosotros
+
+		
+			Menu Items:
+			___________
+
+				_éste nos permite desarrollar nuestro propio grupo de menus de expresiones personalizadas por nosotros
+
+
+			Scripting - Code:
+			_________________
+
+				_éste nos permite desarrollar y probrar nuestras propias creaciones de scripts, personalizados por nosotros
+
+
+			Scripting - Directories:
+			________________________
+
+				_éste nos permite escoger nuesros propios directorios y desarrollar nuestros propios escripts, por nosotros
+
+
+			Scripting - Files:
+			__________________
+
+				_éste nos permite escoger nuesros propios archivos de directorios y desarrollar nuestros propios escripts, por nosotros
+			
+
+

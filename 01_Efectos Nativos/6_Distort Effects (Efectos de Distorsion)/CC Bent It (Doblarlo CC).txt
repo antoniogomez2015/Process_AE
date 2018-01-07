@@ -1,0 +1,188 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer distorsiones de tipo curva doblada para lo cual, el efecto hará una 
+
+	intervensión en la layer, limitando ésta ha sólo utilizar una pequeña área de forma rectangular en el centro
+
+	de la imágen y canvas por lo cuál, se recomienda previamente hacer una precomposición de la respectiva layer
+
+
+	_más el área visible de la imágen estará superitada por los controlares ha modos de targets, a través, de los
+
+	cuáles, podremos manejar el comportamiento del efecto resultante en relación al criterio de deformación y 
+
+	distorsión seleccionado en las opciones del efecto
+
+
+	_éste efecto es especialmente útil para hacer torsiones de imágen para diferentes propósitos los cuáles van
+
+	desde las abstracciones, contructivismo visual al interactual la forma generada con la imágen de fondo al mover
+
+	la forma sobre la imágen
+
+
+	_como también, en generación de formas arqueadas en simetría, formas en transición dinámica a través, del 
+
+	movimiento de los targets, otros
+
+
+	_nos permitirá hacer deformación hasta en 360 grados lo cuál, es especialmente útil para hacer óvalos para
+
+	producción y efectos múltiples de paso contínuo, otros
+
+
+	_de ésta manera, las áreas de la imágen mostradas, la distorsión sobre la imágen y la forma resultante 
+
+	del sistema estarán superditados primeramente a los parámetros selecciondos pero principalmente a la 
+
+	ubicación de los handles, ó controladores
+
+
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Bent It: (Doblarlo CC)
+	__________
+
+
+		_Bend:
+
+			_ésta opción nos permnitirá graduar la cantidad ó influencia del efecto ha aplicar sober 
+
+			la imágen
+
+
+		_Start:
+
+			_ésta opción es un target, ó handle, a través, del cuál, podremos hacer interaccions sobre
+
+			la curva de distorsión sobre la imágen, de ésta manera, podremos hacer variaciones sobre
+
+			la forma, posición y tamaño de la forma resultante distorsionada, en éste caso en 
+
+			controlador de la parte superiores y principal
+
+
+		_End:
+
+			_ésta opción es un target, ó handle, a través, del cuál, podremos hacer interaccions sobre
+
+			la curva de distorsión sobre la imágen, de ésta manera, podremos hacer variaciones sobre
+
+			la forma, posición y tamaño de la forma resultante distorsionada, en éste caso en 
+
+			controlador de la parte inferiores y alternativo u opcional
+
+
+		_Render Prestart:
+
+			_ésta opción nos permitirá indicar el tipo de acción ó criterio de distorsión para el 
+
+			sistema entre los cuáles, dispondremos de los siguientes:
+
+
+				_None:
+
+					_ésta opción desactivará de distorsión y visualización de la forma a 
+
+					partir del segundo punto de control ó handle, ó target, hacia abajo
+
+					para que así, de ésta manera, sólo quede visible la parte superior 
+
+					del sistema
+
+
+				_Static:
+
+					_ésta opción dejará visible la parte de abajo del sistema en relación 
+
+					al segundo punto de control ó handle, ó target, más ésta área estará 
+
+					rígida, recta ó estática ó innmovil y sin acción en relación a los 
+
+					transformadores ó handles, de la forma e imágen
+
+
+				_Bend:
+
+					_ésta opción es la por defecto y ésta permitirá la deformación ó 
+
+					distorsión a patir de ambos extremos de los handles, ó controladores
+
+
+					_de ésta manera, la parte de abajo también, hará torsión la cuál, será
+
+					más leve que la superior
+
+
+				_Mirrow:
+
+					_ésta opción es la por defecto y ésta permitirá la deformación ó 
+
+					distorsión a patir de ambos extremos de los handles, ó controladores
+
+					de forma simétrica reflejando también, la imágen base
+
+
+					_de ésta manera, la parte de abajo también, hará torsión la cuál, con
+
+					la misma proporción que la de la parte superior
+
+		_Distort:
+
+			_ésta opción nos permitirá limitar el alcance ó extensión del efecto a partir del 
+
+			handle, ó controlador superior, de ésta manera, dispondremos de los siguisntes controles:
+
+
+				_Legal:
+
+					_ésta opción nos permitirá indicar un límite para el sistema ó forma
+
+					generada a partir de la ubicación del handle, ó controlador superior
+
+					el cuál, será el límite del sistema en la parte superior
+
+
+				_Extended:
+
+					_ésta opción nos permitirá extender la forma generada del sistema más
+
+					allá, del handle, ó controlador superior
+
+
+
+
+
+

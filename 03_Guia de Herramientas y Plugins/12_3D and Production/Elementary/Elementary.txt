@@ -1,0 +1,55 @@
+
+
+
+
+Elementary
+
+
+	Referencia:
+
+		http://aescripts.com/elementary/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite tanto puntos de anclajes para sistemas de "element 3d", para que así, podamos manejar éstos a 
+
+	través, de objeto nulo u troos, así, como también, crear sobras de éstos sistemas, reflexiones, pases avanzados
+
+	entre otras posibilidades avanzadas de producción
+
+
+
+
+Aplicaciones:
+_____________
+
+
+	_este permite permite construir diferentes plus, para la herramienta principalmente element 3d, para que ésta pueda
+
+	integrarse mejor en el entorno 3d y con otras herramientas entre otros
+
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+	_deben de hacer pruebas compatibilidad de funcionamiento sobrea las herramienta y las versiones utilizadas de ambos
+
+	sistemas, tanto de element 3d, como de elementary
+
+
+	

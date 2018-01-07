@@ -1,0 +1,113 @@
+
+Anillo Inversor De 52mm Para Monturas Nikon. Macrofotografia
+	http://articulo.mercadolibre.com.ve/MLV-458952911-anillo-inversor-de-52mm-para-monturas-nikon-macrofotografia-_JM
+
+Anillo Elevador De Diametro 52 A 58mm Nikon Canon Fotografía
+	http://articulo.mercadolibre.com.ve/MLV-458849799-anillo-elevador-de-diametro-52-a-58mm-nikon-canon-fotografia-_JM
+
+
+
+
+Extrusion por Shutter
+
+
+	Referencia
+
+		https://www.youtube.com/watch?v=v03Ljokn_XY
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Workflow:
+
+
+	_primero debemos de crear nuestra layer, motive, ó composición que represente el mismo, ésta la ocultamos
+
+
+	_luego debemos crear una layer, de tipo solid, la cuál, hará de contenedor por el shutter, effect
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+Shutter:
+
+	_a la cuál, le aplicaremos un effect, yendo ha "Effects/Simulation/Shutter"
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+Shutter Configuration:
+______________________
+
+
+
+NOTE: para obtener la visualización del motivo
+
+
+-View:
+
+	_en ésta opción esgemos "Rendered"
+
+
+NOTE: para indicar una forma personalizada por nosotros
+
+
+-Shape:
+
+	_pattern:
+
+		_en ésta opción escojemos "Custom"
+
+
+	_Custom Shatter Map:
+
+		_para luego seleccionar nuestra layer, motivo en éste caso será la layer, de nuestro logo
+
+
+NOTE: para eliminar las físicas del simulador y que el motivo se mantenga en su lugar
+
+
+-Force 1:
+
+	_Strength:
+
+		_en ésta opción indicamos el valor de "0"
+
+
+-Physics:
+
+	_Gravity:
+
+		_en ésta opción indicamos el valor de "0"
+
+
+
+-Textures:
+
+
+	_From Layer:
+
+		_en ésta opción podemos seleccionar una layer, como textura frontal del sistema
+
+
+	_Side Layer
+
+		_en ésta opción podemos seleccionar una layer, como textura lateral del sistema
+
+
+	_Back Layer:
+
+		_en ésta opción podemos seleccionar una layer, como textura tracera del sistema
+
+
+
+-Camara System:
+
+
+	_en éste opción debemos seleccionar "Comp Camara"
+
+
+
+
+

@@ -1,0 +1,129 @@
+
+
+EFX ID-Z_Depth Blur 20
+
+
+	Referencia:
+
+		http://aescripts.com/efx-render-elements-z-depth-tools/   https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+NOTE:	la diferencia entre "EFX ID-Z_Depth Blur 10/20/40", es la densidad de desenfoque tracero, lo más recomendable es utilizar
+
+	la opción de EFX ID-Z_Depth Blur 10/20
+
+	
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite desenfocar planos a través, un "ID Map", y un "Depth Map", especialmente útil para desenfocar planos 
+
+	y objectos de diferentes mapas como "diffuse, reflexion, refraction, otros"
+
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer desenfoques selectivos haciendo uso de todas las posibilidades posibles entre id mpas, y depth map
+
+
+	_ésta opción lleva más allá las posibilidades convencionales tanto de usar una opción como otra si no que más bien, ésta
+
+	opción utiliza de forma fusionada ambas opciones permitiendo tener un mejor control del sistema de desencoque al tener 
+
+	más mapas con información para el control del sistema, otros
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+
+	_primero debemos tener una composición de trabajo previamente creada
+
+
+
+EFX ID-Z_Depth Blur:
+____________________
+
+	_luego debemos incorporar los maps, respectivos en la composición de trabajo, en éste caso en "diffuse map",
+
+	como mapa base al cuál, se agregaremos el plugins "Effects EFX RE/EFX ID-Z_Depth Blur 10"
+
+
+	_así, se entiende que al render map, al cuál, le apliquemos el filtro "ID Blur 10", será el mapa corregido
+
+
+
+ID Pass:
+________
+
+
+	_para luego en las opciones del plugins ir a las opciones de "ID Pass:", y seleccionar el "ID Map", de 
+
+	la composición de render que tendremos que tener previamente en la respectiva composición
+
+
+
+ZDepth pass:
+____________
+
+
+	_para luego en las opciones del plugins ir a las opciones de "EFX ID-Z_Depth Blur:", y seleccionar el "ZDepth pass", 
+
+	de la composición de render que tendremos que tener previamente en la respectiva composición
+
+
+
+Options:
+________
+
+
+	_así, podremos ir variando los valores de tolerancia para ir ajustando el pass, de acuerdo con los valores
+
+	en el sistema de ID Blur, éstos son:
+
+
+	_Blur:
+
+		_éste permite indicar la cantidad de desenfoque general
+
+
+	_Blur Gamma:
+
+		_éste permite indicar la cantidad relativa en proporción a las características del pass, seleccionado
+
+	
+	_ID Color Tolerance:
+
+		_éste permite ajustar la tolerancia de desenfoque aplicada por la selecciones de color dentro del ID Pass
+
+
+	_Z Depth Tolerance:
+
+		_éste permite ajustar la tolerancia de desenfoque aplicada por medio de la sección de profundidad por densidad de planos
+
+
+
+Resultado:
+__________
+
+
+	_de ésta manera al final tendremos un desenfoque relativo y selectivo a través de planos seleccionados en relación
+
+	a la configuración interna tanto del id pass, como del depth pass, que aplicados al respectivo pass, seleccionado
+	
+
+

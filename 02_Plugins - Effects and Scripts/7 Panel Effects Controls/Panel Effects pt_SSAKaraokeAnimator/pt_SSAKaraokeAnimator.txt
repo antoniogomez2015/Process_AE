@@ -1,0 +1,303 @@
+
+
+http://aescripts.com/pt_ssakaraokeanimator/#/discussion/embed
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / pt_SSAKaraokeAnimator
+
+
+	pt_SSAKaraokeAnimator:
+
+
+	-este nos permite hacer efecto de seguimiento de palabras que emular el efecto de kareoke, a través, de
+
+	diferentes criterios de acción y de animación
+
+
+	_de ésta manera dispondremos de pressets, así, como opciones alternativas para activar y desactivar las 
+
+	cuales permitirán ampliar las acciones de animación
+
+
+	_hay que tener claro que el sistema ya biene hecho de forma predeterminada y no nos da la opción de poder
+
+	animar los elementos de forma manual por nosotros mismos
+
+
+
+
+	Workflow:
+	_________
+
+	_primero debemos de tener creada una composición de trabajo más en éste caso no es necesario que hayamos 
+
+	creado previamente una layer, de texto antes de aplicar el sistema de "pt_SSAKaraokeAnimator"
+
+
+	_ya que el sistema al ser creado éste creará una layer, de texto con contenido genérico el cuál, cambiar
+
+	mientras va avanzado el tiempo ó el cabezal del timeline
+
+
+	_de ésta manera, podremos posteriormente cambiar éste texto por nuestro texto personalizado, es recomendado
+
+	para éste paso el plugins, "rd_EditText", ya que éste nos permitirá cargar el texto existente en el layers,
+
+	de texto en un determinado momento del timeline, así, tomo tener una apreciación global del texto que permite 
+
+	una mejor edición y sobre todo una mejor recomposición del texto
+
+
+
+	Pressets:
+
+	_ésta opción nos permite seleccionar entre gran cantidad de presets, de animación y flujo de texto listos para
+
+	usar, de ésta manera al plicar uno de éstos las opciones siguientes iran cambiando relativamente ha éstos
+
+
+
+	Fast Preset Options:
+
+	_ésta opción nos permite configurar la propiedad sobre la cuál, trabajará el sistema sobre las words, ó palabras
+
+	para causar diferentes efectos sobre éstas, en los cuales tenemos las siguientes propiedades disponibles
+
+
+		Property:
+
+			_ésta opción desabilita las propiedades como criterio de acción de animación para la animación
+
+			para las words, ó palabras
+
+
+		Position:
+
+			_ésta opción activa la propiedad de posición para la animación de las words, ó palabras
+
+			así, como sus atributos de control ó edición
+
+
+		Scale:
+
+			_ésta opción activa la propiedad de escala para la animación de las words, ó palabras
+
+			así, como sus atributos de control ó edición
+
+
+		Opacity:
+
+			_ésta opción activa la propiedad de opacidad para la animación de las words, ó palabras
+
+			así, como sus atributos de control ó edición
+
+
+		Color:
+
+			_ésta opción activa la propiedad de color para la animación de las words, ó palabras
+
+			así, como sus atributos de control ó edición
+
+
+		Blur:
+
+			_ésta opción activa la propiedad ó efecto de desenfoque para la animación de las words, ó palabras
+
+			así, como sus atributos de control ó edición
+
+
+
+	Animation Style:
+
+		_ésta opción nos permite elegir entre diferentes criterios de estilo de animación entre los ciales 
+
+		disponemos de los siguientes:
+
+	
+			Block:
+
+				_animación sólida en bloque
+
+
+			Wipe:
+
+				_animación en transición ó interpolada
+
+
+			Ramp Up:
+
+				_animación con degradado superior
+
+
+			Ramp Down:
+
+				_animación con degradado inferior
+
+
+			Triangle:
+
+				_animación con una ponderación triangulada
+
+
+			Round:
+
+				_animación con un ponderación alteredor de si mismas
+
+
+
+	Timming controls:
+
+	_así, como también, podremos ajustar un poco el timming, ó momento en que se ejecutan las acciones elegidas 
+
+	para las palabras animadas para lo cuál, disponemos de los siguientes criterios:
+
+
+
+		Apply During:
+
+			_ésta opción aplicará los criterios de animación en el mismos momento que es seleccionada 
+
+			la palabra ó word, ha animar
+
+
+		Apply Before:
+
+			_ésta opción aplicará los criterios de animación antes del momento que es seleccionada la 
+
+			palabra ó word, ha animar
+
+
+		Apply After:
+
+			_ésta opción aplicará los criterios de animación después del momento que es seleccionada 
+
+			la palabra ó word, ha animar
+
+
+		Curver:
+
+		_y aunado al timming, podremos también, ajustar las curvas del comportamineto espacial de animación
+
+		a través, de curvas prestablecidas de animación entre las cuales dispondremos de:
+
+
+
+			No Ease:
+
+				_ésta opción no hace compensación de aceleración y de desaceleración espacial en las
+
+				palabras animadas
+
+
+			Ease All:
+
+				_ésta opción no hace compensación de aceleración y de desaceleración espacial de entrada
+
+				y de salida en las palabras animadas
+
+
+			Ease Out:
+				
+				_ésta opción no hace compensación de desaceleración espacial de salida en las
+
+				palabras animadas
+
+
+			Ease Mid:
+
+				_ésta opción no hace compensación de aceleración y de desaceleración espacial en un punto
+
+				medio de su animación en las palabras animadas
+
+
+			Ease In:
+
+				_ésta opción no hace compensación de aceleración y de desaceleración espacial al inicio
+
+				de la animación en las palabras animadas
+
+
+
+		General Options:
+
+		_ésta opción nos permite hacer el efecto de falloff, ó superposición de animación para lograr efectos más
+
+		variados el cuál, nos permite hacer calados de animación entre palabras, para ésto disponemos de las opciones
+
+		de:
+
+
+
+			Fade In:
+
+				_ésta opción nos permite indicar un número de fotogramas ha superponer sobre la otra animación
+
+				siguiente ó anterior
+
+
+
+			Fade Out:
+
+				_ésta opción nos permite indicar un número de fotogramas ha superponer sobre la otra animación
+
+				siguiente ó anterior
+
+
+		_así, como también, nos permite la opción de indicar cuál, será el flujo del texto en la animación para cuál, 
+
+		dispondremos de los siguientes criterios:
+
+
+		
+			Left to Right:
+
+				_fluejo del texto de izquierda ha derecha
+
+
+			Right to Left:
+
+				_flujo del texto de derecha ya izquierda
+
+
+			Top to Bottom:
+
+				_flujo del texto de arriba hacia abajo
+
+
+	
+		_así, como también, adicionalmente nos permite agregar elementos gráfico de seguimiento alternatico como una
+
+		"ball", ó bola ó pelota "Add Bouncing Ball", la cuál, será animada por el sistema de forma automática, ésta 
+
+		rebotará sobre las las palabras animadas en el tiempo
+
+
+		_así, como tamién, podremos hacer un rastreo de texto "Text Crawl", para tener unos mejores resultados con
+
+		éstas opciones seleccionadas anteriormente
+
+
+
+	KFN Options:
+
+	_éstas opciones son para trabajar con archivo nativos de "Kareoke", y no para uso general del programa, para lo cuál,
+
+	dispondremos de un acceso para imporar éste tipo de archivo "Import Kareoke", de ésta manera ya se cargará un contenido
+
+	de texto editado por el sistema kareoke, otros, a través, de archivos en formatos ".ass .kfn"
+
+
+
+	Preview:
+
+	_y por útltimo, para poder ejecutar ó cargar un preset, de los seleccionados en los pasos anteriores para que éstos sean
+
+	cargados como layers, en el timeline, debemos hacer uso del botón "Preview", para que así, el sistema sea generado
+
+
+ 
+

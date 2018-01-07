@@ -1,0 +1,146 @@
+
+
+
+AfterEffects Plugins Para 3D y Text 3D
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+--------------------------------------------------------------------------------------------------------
+
+Panel Toolbat Right Timeline/ BR_3D_Bevel_v1.1:
+_______________________________________________
+
+
+
+	_
+
+
+
+--------------------------------------------------------------------------------------------------------
+
+Panel Toolbat Right Timeline/ Two Sided Layer:
+______________________________________________
+
+
+
+	Widget 3D:
+	__________
+
+
+	_éste tiene como objetivo crear un axis, referencial el cuál, nos servirá de guia y ubicación 
+
+	en el entorno 3d, al crear éste nos ofrece las siguientes opciones de "Display":
+
+
+		_Pitch:
+
+			_
+
+
+		_Heading:
+
+			_
+
+
+		_Heading marker:
+
+			_
+
+
+		_Horizont:
+
+			_
+
+
+		_Invert alert:
+
+			_
+
+
+		_Below alert:
+
+			_
+
+
+		_AE Axes:
+
+			_
+
+
+	Grid 3D:
+	________
+
+
+	_éste nos permite crear un grid, 3d, el cuál, nos puede servir de guía de ubicación para los 
+
+	elementos de la escena entre otras posibilidades, éste nos ofrece las siguientes opciones de
+
+	visualización a la hora de su creación:
+
+
+		_Division Size:
+
+			_
+
+
+		_No Divisions:
+
+			_
+
+
+		_Placement:
+
+			_
+
+
+		_Progress:
+
+			_
+
+
+		_XYZ:
+			
+			_
+
+
+
+	Horizon 3D:
+	___________
+
+
+	_éste nos permite crear un horizonte, 3d, el cuál, nos puede servir de guía de ubicación para los 
+
+	elementos de la escena entre otras posibilidades, éste nos ofrece las siguientes opciones de
+
+	visualización a la hora de su creación:
+
+
+		_Y - Axis:
+
+			_
+
+
+		_Triangle:
+
+			_
+
+
+		_Base Line:
+
+			_
+
+
+		_Ground fill:
+
+			_
+
+
+
+
+
+
+

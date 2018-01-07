@@ -1,0 +1,201 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá proyectar sombras realistas a partir de una layer, la cuál, tenga un área 
+
+	perimetral ó un canal alpha aplicado sea que éste canal alpha, esté incorporado en la respectiva layer,
+
+	ó que lo hayamos agregado nosotros a través, de una máscara ó por medio de un set matte, otros
+
+
+	_para que así, podamos crear una sombra realista junto con ésta layer, lo cuál, nos permitirá incorporar
+
+	mucho ésta layer, con las demás layers, de la composición respectiva
+
+
+	_ésta opción a diferencia de la opción "Drop Shadow", la opción "Radial Shadow", nos permitirá crear sombras
+
+	igualmente realistas más en éste caso tendremos más libertadad y más características y posibilidades de 
+
+	acción para la generación de la sombra generada
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Radial Shadow: (Sombra Radial)
+	______________
+
+
+		_Shadow Color:
+
+			_ésta opción nos pemrnitirá indicar el color que tendrá la sombra generada por el sistema
+
+			para que así, podamos personalizar el color de la sombra ha generar lo cuál, nos permitirá
+
+			emular un color que pueda integrarse mejor con otro color de otra layer, de interés
+
+
+		_Opacity:
+
+			_ésta opción nos permitirá graduar ó variar la opacidad que tendrá la sombra generada por
+
+			el sistema lo que permitirá que podamos hacer variaciones sobre la dureza de la sombra para
+
+			que así, podamos integrar ésta mucho mejor con otras layers, de la respectiva composición
+
+
+		_Light Source:
+
+			_ésta opcíón a través, de un handle, directamente en el viewport, del panel compositing,
+			
+			podremos indicar la dirección opuesta que tendrá la sombra proyectada y a su vez, la 
+
+			distancia de ésta
+
+
+			_en relación a la ditancia de éste handle, del punto de anclaje de la layer, a la cuál, le
+
+			hemos aplicado el efecto
+
+
+			_también, podremos controlar éstos parámetros directamente en el panel effects cntrols, para
+
+			que así, podamos indicar valores más exactos y controlables
+
+
+		_Projection Distance:
+
+			_ésta opción nos permitirá indicar la distacia de proyección de la sombra generada para que
+
+			así, ésta sombra nos permita generar el efecto de mayor ó menos distancia entre la layer,
+
+			que le hemos aplicado el efecto y la layer, sobre la cuál, proyectamos la sombra de las
+
+			demás layers, de la respectiva composición que estén por debajo de ésta layer, a la cuál,
+
+			le hemos aplicado el efecto
+
+
+		_Softness:
+
+			_ésta opción nos pemritirá graduar la penumbra ó acutancia ó suavidad de los bordes de la 
+
+			sombra proyectada lo que a su vez, permitirá aumentar ó disminuir la definición y resolución 
+
+			de la sombra proyectada
+
+
+			_lo que a su vez, permitirá una mayor integración entre la layer, con la sombra aplicada y 
+
+			las demás layers, de la respectiva composición que estén por debajo de ésta layer, a la cuál,
+
+			le hemos aplicado el efecto
+
+
+
+		_Render:
+
+
+			_Regular:
+
+				_ésta es la opción por defecto y a través, de la cuál, podremos conseguir una sombra
+
+				suavizada y de alta calidad
+
+
+			_Glass Edge:
+
+				_ésta opción nos permitirá activar las opciones de "Spill Color", a la sombra 
+
+				generada para que así, podamos agregar un extra del color de la layer, a la cuál, le
+
+				hemos aplicado el efecto 
+
+
+				_para que así, en el área perimetral de la sombra generada por el sistema podamos
+
+				agregar un halo del spill color, tomado de la layer, base a la cuál, le hemos 
+
+				aplicado el efecto
+
+
+
+		_Color Influence:
+
+			_ésta opción nos pemritirá indicar un rango ó umbral del spill color, ha agregar en el área
+
+			perimetral de la simbra generada
+
+
+			_lo que nos permitirá integrar mucho mejor la layer, bese a la cuál, le hemos aplicado el
+
+			efecto con las demás layers, de la composición respectiva que estén por debajo de ésta layer
+
+
+
+		_Shadow Only:
+
+			_ésta opción nos permitirá visualizar en el viewport, del panel compositing, sólo la sombra
+
+			generada ocualtando la layer, a la cuál, le hemos aplicado el efecto para que así, podamos
+
+			hacer diferentes procesos de producción y paso contínuos en los que sólo necesidamos la
+
+			sombra por a parte de una layer, determinada
+
+
+
+		_Resize Layer:
+
+			_ésta opción nos permitirá indicarle al sistema que re escale la sombra generada en relación
+
+			al tamaño de la layer, base a la cuál, hemos aplicado el efecto, ésta opción es útil en
+
+			ciertos casos donde podremos ver distorsión entre ambos elementos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

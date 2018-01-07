@@ -1,0 +1,46 @@
+
+
+http://aescripts.com/speed-lines/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Toolbar Left / Speed Lines v1.2
+
+
+	speed-lines
+
+
+	-este nos permite hacer estelas o strands, de las trayectorias de animacion sean estas de layers,
+
+	de forma como de imagenes u otras layers animadas
+
+
+	-primero debemos animar la layer, deseada, sea la animacion linear o interpolada, (esto determinara
+
+	si las strands, sin lineales o curvas)
+
+
+	-luego seleccionamos la layer, animada a la cual deseamos agregar strands de forma
+
+
+	-luego con la layer, deseada seleccionada vamos al panel 'Speed Lines v1.2', e indicamos los atributos
+
+	deseados:
+
+
+		-numero de lineas
+
+		-separacion de las lineas
+
+		-grosor de las lineas
+
+		-angulos de las lineas
+
+
+	-y para finalizar le damos ha "create speed lines", asi veremos que al reproducir la animacion
+
+	se crearan strands, en relacion a la configuracion previa de las strands

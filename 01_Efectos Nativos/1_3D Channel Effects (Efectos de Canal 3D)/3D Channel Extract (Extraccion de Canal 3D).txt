@@ -1,0 +1,143 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+		https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá extrar canales, de renders, comprimidos en un sólo archivo de aplicaciones 3d, como
+
+	softimage, maya, 3d max, otros
+
+
+	_lo cuál, nos permitirá hacer un sólo render, de forma más práctiva y económica en relación a recursos 
+
+	necesarios para éste proceso en dichas aplicaciones 3d,
+
+
+	_así, como de su posterior manejo en prostproducción al ser sólo una secuencia de imágenes la cuál, ocupará
+
+	menos pesos en el disco, otros
+
+
+
+	Formatos:
+	_________
+
+	_para trabajar con éste tipo de modalidad requeriremos trabajar con los siguientes tipos de archivos de
+
+	proceso e intercambio entre las aplicaciones 3d, y after effects, éstas son las siguientes:
+
+
+	NOTE: en principaio éste efecto esta listo para funcionar con todo tipo de formato de archivo de 
+
+	intercambio de información 3d, la cuál, pueda ser usada dentro de after effects, de ésta manera, éstos 
+
+	archivos de intercambio pueden ó no estar generados dentro de una aplicación 3d
+
+
+	_los archivo de tipo de intercambio más útiles y utilizados son:
+
+
+		_.prf
+
+			_archivo de tipo intercambio, es el más antiguo y no está disponible en todas las 
+
+			aplicaciones de forma nativa, éste da muy buenos resultados, éste formado está relacionado
+
+			principalmente en aplicaciones como softimage xsi
+
+
+		_OpenEXR:
+
+			_archivo de tipo intercambio, éste es el más común y está disponible en todas las 
+
+			aplicaciones modernas y actualizadas
+
+
+		_RLA / RPF:
+
+			_archivo de tipo intercambio, bastante funcional y está disponible principalmente en la
+
+			aplicación cinema 4d
+
+
+
+
+	3D Channel Extract: (Extraccion de Canal 3D)
+	___________________
+
+	_3D Channel:
+
+		_en éste selector podremos escoger el tipo de canal ha extraer de los disponibles entre los cuáles,
+
+		disponemos de los siguientes:
+
+
+			_Z-Deppth:
+
+				_éste nos permitirá extraer el canal de profundidad en la cordenada "Z"
+
+
+			_Object ID:
+
+				_éste nos permitirá extraer el canal de identificador de volúmen por objetos
+
+
+			_Texture UV:
+
+				_éste nos permitirá extraer el canal de textura uv, superficial de los objetos
+
+
+			_Surface Normals:
+
+				_éste nos permitirá extraer el canal superficial de normales de los objetos ó
+
+				en relación a la dirección de las caras de los polígonos en las diferentes 
+
+				superficies de los objetos en la escena
+
+
+			_Coverage:
+
+				_éste nos permitirá extraer el canal superficial de los contornos de los objetos
+
+
+			_Background RGB:
+
+				_éste nos permitirá extraer el canal equivalente al "Beaty", ó diffuse map
+
+
+			_Unclamped RGB:
+	
+				_éste nos permitirá extraer el canal equivalente ha un threshold, ó posterizado
+
+
+			_Material ID:
+
+				_éste nos permitirá extraer el canal de alto contraste en valores blanco y negro
+
+				por material asinado respectivamente
+
+
+
+	_Back Point:
+
+		_éste control nos permitirá controlar el umbral ó "level", de los negros en los mapas resultantes
+
+
+	_White Point:
+
+		_éste control nos permitirá controlar el umbral ó "level", de los blancos en los mapas resultantes
+

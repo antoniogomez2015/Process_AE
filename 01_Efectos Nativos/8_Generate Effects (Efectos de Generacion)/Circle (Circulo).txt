@@ -1,0 +1,133 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria´crear un círculo geométrico de forma procedural el cuál, padrá estar totalmente
+
+	relleno ó estar hueco en su interior el cuál, a su vez, será totalmente configurable y animable
+
+
+	_de ésta manera, podremos crear éstas tipos de formas tanto un circulo como un anillo graduables para 
+
+	diferentes procesos de producción y paso contínuo como también, para la generación de mattes, mapas, otros
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Circle: (Circulo)
+	_______
+
+
+		_Center:
+
+			_ésta opción nos permitirá indicar el epicentro ó punto a partir del cuál, se comenzará
+
+			ha generar el efecto ó ha crear en éste caso el círculo ó anillo respectivamente
+
+
+		_Radius:
+
+			_ésta opción nos permitirá indicar el radio ó tamaño que tendrá el círculo ó anillo 
+
+			respectivamente, de ésta manera, con un valor mayor mayor será el tamaño del sistema
+
+
+		_Edge:
+
+			_éstas opciones nos permitirá indicar algún tipo de de forma de anillo ha generar sobre
+
+			la base del círculo que hemos creado previamente, de ésta manera, dispondremos de diferentes 
+
+			criterios para la generación de una anillo
+
+
+			_los cuáles, podrán generar hacia el exterior del círculo, hacia el interior de éste ó una
+
+			combinación de ambos, generándose así, tanto de adentro como de afuera del círculo
+
+
+		_Edge Radius:
+
+			_ésta opción nos permitirá indicar la expansión del anillo sobre el círculo, de ésta manera,
+
+			podremos generar un anillo más fina ó mas grueso respectivamente
+
+
+		_Feather Outer Edge:
+
+			_ésta opción nos permitirá difuminar el borde externo del sistema de animllo generado a partir
+
+			del círculo, para múltiples propósitos de mapas, producción y paso contínuo
+
+
+		_Feather Inner Edge:
+
+			_ésta opción nos permitirá difuminar el borde interno del sistema de animllo generado a partir
+
+			del círculo, para múltiples propósitos de mapas, producción y paso contínuo
+
+
+
+		_Invert Circle:
+
+			_ésta opción nos permitirá invertir los colores del sistema a modo de mate invertido para
+
+			diferentes propósitos de producción y paso contínuo, otros
+
+
+		_Color:
+
+			_ésta opción nos permitirá indicar un color para el sistema tanto del círculo como de anillo 
+
+			respectivamente
+
+
+		_Opacity:
+
+			_ésta opcipón nos permitirá graduar la opacidad del sistema apra que así, podamos integrar
+
+			éste con las demás layers, de la composición respectiva
+
+
+		_Blending Mode:
+
+			_ésta opción nos permitirá seleccionar un modo de fusión el cuál, nos permitirá fusionar el
+
+			sistema con las demás layers, de la composición respectiva
+
+
+
+
+
+
+
+

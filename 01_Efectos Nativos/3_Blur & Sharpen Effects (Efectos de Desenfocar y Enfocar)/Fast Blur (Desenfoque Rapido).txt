@@ -1,0 +1,65 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permitirá crear desenfoques rápidos y práctivos en los cuáles, podremos hacer también,
+
+	desenfoque direccionales, tanto horizontales como verticales
+
+
+	_éste es especialmente útil para lograr desenfoques hiperrealistas en composiciones ha 32bits
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Fast Blur: (Desenfoque Rapido)
+	__________
+
+	_Blurriness:
+
+		_éste valor nos permitirá indicar la cantidad de desenfoque ha aplicar
+
+
+	_Blur Dimensions:
+
+		_éste valor nos permitirá indicar el sentido de desenfoque pudiéndo así, hacer desenfoques
+
+		rectangulares, al poder desenfocar homogeneamente ó sólo verticalmente u horizontalmente
+
+
+		_a través, de un selector en el cuál, podremos seleccionar entre éstas tres formas de aplicación
+
+		deñ desenfouqe
+	
+
+
+
+
+
+
+

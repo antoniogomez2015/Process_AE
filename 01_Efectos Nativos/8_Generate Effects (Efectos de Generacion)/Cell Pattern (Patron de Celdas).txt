@@ -1,0 +1,190 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria´crear patrones de celdas para genera patrones celulares basándose en el ruido celular. 
+
+
+	_Utilícelo para crear texturas de fondo y patrones estáticos o en movimiento. Los patrones pueden utilizarse 
+
+	a su vez como mates texturizados, como mapas de transición o como origen para mapas de desplazamiento.
+
+
+	_así, como también, efectosde paso contínuo y de producción entre otras posibilidades de mapas, patrones,
+
+	modulaciones en módulos y super módulos, otros
+
+
+	_éstos patrones de módulos y super módulos podrán estar representados de forma ordenada ó desordenada y 
+
+	mixta, lo cuál, nos permitirá una gran versatilidad de producción y animación, otros
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Cell Pattern: (Patron de Celdas)
+	_____________
+
+
+		_Cell Pattern:
+
+			_ésta opción nos permitirá indicar el tipo de patrón ó módulo en relación al efecto deseado
+
+			entre los cuáles, podmore dispones entre:
+
+
+				_cristalizados:
+
+					_éstos nos permitirá crear efectos con modulaciones geométricas y anguladas
+
+					con ángulos afilados y definidos y con una mayor acutancia
+
+
+				_Sólidos:
+
+					_éstos nos permitirá crear módulos de color sóludos de diferentes matices y 
+
+					tonos en sí, lo que nos permitirá crear diferentes efectos de densidades y 
+
+					profundidad, otros
+
+
+
+				_Volumétricos:
+
+					_éstos nos permitirán crear efectos de degradados con volúmen efectos pseudo
+
+					esféricos entre otras muchas posibilidades y efectos como lumínicos, 
+
+					volumétricos respectivamente en relación a los efectos deseados, otros
+
+
+		_Invert:
+
+			_ésta opción nos pemritirá invertir los colores del sistema ha modo de negativo lo cuál, nos
+
+			permitirá aumentar las posibilidades de producción y generaciónn de mates y mapas, otros
+
+
+		_Contrast:
+
+			_ésta opción nos permitirá aumentar ó disminuir el contrastes entre los tonos del sistema lo
+
+			cuál, variará la acutancia y relación entre las formas, tonos y patrones respectivamente
+
+
+		_Overflow:
+
+			_ésta opción nos permitirá indicarle al sistema que a cada módulo le agregen otro módulo dentro
+
+			de ésta manera, pdoremos alterar el comportamiento del sistema en general e independiente
+
+
+			_de ésta manera, podremos disponer de los siguientes modos:
+
+	
+				_Wrap Back:
+
+					_ésta opción agrega un módulo dentro de los existentes
+
+
+				_Clip:
+
+					_ésta opción no agergará módulos dentro de otros
+
+
+				_Soft Clamp:
+
+					_éta opción noa agregará módulos dentro de otros así, como también, 
+
+					suavizará ó disfuminará los respectivos módulos existentes
+
+
+		_Disperse:
+
+			_ésta opción nos permitirá hacer dispersar ó reagrupar los módulos del sistema, de ésta 
+
+			manera, podremos crear modulaciones geométricas ó profusiones de elementos similares 
+
+			pero desordenados, otros
+
+
+		_Size:
+
+			_ésta opción nos permitirá variar el tamaño del sistema ó hacer zoom, sobre éste
+
+
+		_Offset:
+
+			_ésta opción nos permitirá desplazar el sistema para que así, podamos hacer correcciones
+
+			y ajustes sobre éste así, como también, animaciones
+
+
+		_Tiling Cells Horizontal:
+
+			_ésta opcíón nos permitirá hacer variaciones de los módulos y sobre el sistema en general
+
+
+		_Tiling Cells Vertical:
+
+			_ésta opcíón nos permitirá hacer variaciones de los módulos y sobre el sistema en general
+
+
+		_Evolution:
+
+			_ésta opción nos permite hacer variaciones sobre el sistema el cuál, esté disperso para
+
+			que así, podamos animar todo el sistema
+
+
+		_Evolution Options:
+
+			_		
+
+
+		_Cycle (in Revolution):
+
+			_ésta opción nos permitirá hacer variaciones sobre el comportamiento del tipo de evolución 
+
+			del sistema cuando éste está disperso
+
+
+		_Random Seed:
+
+			_ésta opción nos permitirá hacer variones sobre los envíos iniciales del sistema
+
+
+
+
+
+

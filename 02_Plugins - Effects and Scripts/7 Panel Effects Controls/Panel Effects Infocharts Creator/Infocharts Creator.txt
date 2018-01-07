@@ -1,0 +1,122 @@
+
+
+http://aescripts.com/infocharts-creator/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Infocharts Creator
+
+
+	Infocharts Creator:
+
+
+	-este nos permite gráficos de valores los cuales pueden representados a través, de picos de dcs, bandas y
+
+	circulos de gráficos
+
+
+	_éstos es especialmente útil para la representación de gráficos y curvas de valores para informes y reportes,
+
+	otros
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener un composición de trabajo sobre la cuál, serán volcadas las layers, del sistema 
+
+	generado
+
+
+	
+	.csv:
+	_____
+
+	_así, el plugins, al ejecutar éste nos solicitará que cargemos un archivo de tipo ".csv", el cuál, es un 
+
+	archivo office, de excel "creo"
+
+
+
+	Manual:
+	_______
+
+	_más si no disponemos de un archivo de tipo ".csv", con los datos y valores de nuestro gráfico ha generar 
+
+	podremos también, crear éstos valores de forman manual dentro del plugins, y after effects
+
+
+	_para ésto, debemos ir al plugins, Infocharts Creator/, e ir a la sección de "Items", y darle al botón 
+
+	"Add Item", para que así, nos aparezca una serie ventanas contextuales seguidas de tipo prompt, la cuál nos 
+
+	pedirá la siguiente información:
+
+
+		_la primera ventana que nos aparecerá nos dirá "Type the name of your new item", que le indiquemos 
+
+		el nombre que tendrá le nuevo item, ha generar, ej: "Venezuela"
+
+
+		_y la segunda ventana que nos aparecerá nos dirá "Type the value of ypur new item", que le indiquemos
+
+		el valor que tendrá en nuevo item, ha generar, nota: "éste valor debe de ser numérico", ej: "1"
+
+
+	_de ésta manera, se agregará éste nuevo item, que hemos creado a la lista de items, del panel del plugins, y 
+
+	así, podremos repetir éste paso para ir agregando de forma manual todos los items, que desiemos para generar
+
+	el sistema de gráficos
+
+
+
+	Manager:
+	________
+
+	_más también, en la lista de items, del panel podremos gestionar el orden de los items, existentes pudiendo 
+
+	hacerlos subir y bajar cambiando así, su índice en la lista de items
+
+
+	_para ésto, disponemos de los botones "Down/Up"
+
+
+	
+	Generate InfoChart:
+	___________________
+
+	_para luego de haber creado todos los items, y de haber organizado éstos, podremos generar el sistema pudiendo
+
+	escoger el tipo de gráfico ha generar, entre los cuales disponemos de los siguientes:
+
+
+		Create Line Chart:
+
+			_ésta opción nos permitirá genera un gráficos de nodos ó docs, unidos a través, de una línea,
+
+			éste gráfico es total método de
+
+
+		Create Bar Chart:
+
+			_
+
+
+		Create Ring Chart:
+
+			_
+
+			
+
+
+	
+
+
+

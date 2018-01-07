@@ -1,0 +1,61 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá hacer correcciones rápidas y directas sobre el brillo y el contraste a través, de
+
+	dos aliders, uno independiente del otro lo cuál, facilita la apreciación del resultado deseado
+
+
+	_éste efecto trabajo sobre todos los pixeles de la layer, y sobre los canales lo cuál, nos ofrecerá 
+
+	resultados directos y homogéneos de brillo y contraste por pixeles
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Brightness & Contrast: (Brillo y Contraste)
+	______________________
+
+	_Brightness:
+
+		_ésta opción nos permitirá indicar la cantidad de brillo deseado, tanto en valores positivos como
+
+		negativos a través, de los cuáles, podremos crear claridad u oscuridad
+
+
+	_Contrast:
+
+		_ésta opción nos permitirá indicar la cantidad de contraste deseado tanto en valores positivos como
+
+		negativos, de ésta manera, podremos lograr contrastes más acusados o incluso un imágen medio lavada
+
+
+
+

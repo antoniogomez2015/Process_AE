@@ -1,0 +1,141 @@
+
+
+http://aescripts.com/pt_multiplane/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview / pt_Multiplane
+
+
+
+
+General:
+_______
+
+
+	-este nos permite hacer el efecto 'Camara Mapping', de forma mas facil y automatizada
+
+	
+	-primero debemos preparar todo el material con todos sus planos extraidos o con sus reservas respectivas de 
+
+	unos con otros asi, como de la preparacion de bg/background, o fondo o sky, este proceso lo podemos hacer en 
+
+	after effects, a traves, de mascaras como tambien en aplicaciones externas como photoshop o illustrator u 
+
+	otras
+
+
+
+Basics:
+_______
+
+	-debemos crear una composicion solo para el proceso de 'multiplane', o camara mapping, ya que el proceso 
+
+	contemplara todas las layers en la composicion para su programacion 
+
+
+	_las layers, que conformarán los planos ha utilizar en el proceso de "Multiplane", deben estar en 3d,
+
+
+	_las layers, que conformarán los planos ha utilizar en el proceso de multiplane, deberán estar en un mismo
+
+	plano o ubicación en la cordenada "Z", es decir, debemos dejarlas en el mismo lugar en el cuál, se encontraban
+
+	en el proceso de extracción de la layer, base (éste requerimiento es imprecindible para el proceso multiplane)
+
+
+
+Depth:
+______
+
+
+	-ahora sin layers, seleccionadas vamos al panel 'pt-Multiplane', y seleccionamos el campo
+
+	de amplitud que tendran las layers, en su conjunto en el espacio a traves, de un valor
+
+	inicial y final 
+
+
+		_'Front/Back':
+
+			_así, es recomendable dejar el valor por defecto, entre "0, ha 2000", de profundidad, ésta longitud
+
+			quiere decir la distancia en la cuál, se proyectarán las layers, en la cordenada "Z", ó hacia atras
+
+			en la respectiva composición para que éstas representen la escena de planos 3d
+
+
+			_ésta dsitancia la podremos recalcular posteriormente volviendo ha recalcular el proceso ó mejor dicho
+
+			volviendo ha ejecutar el comando de creación del proceso de multiplane, así, ésta distancia será reajustada
+
+		
+			_otra opción es mover manualmente cada plano hasta una nueva posición deseada, así, éste respectivo plano
+
+			de la composición tendrá una escala relativa a su distancia en relación a la cámara para que éste siempre
+
+			mantenga la misma escala relativa a la escala del momento de su creación
+
+
+
+Apply Multiplane:
+_________________
+
+
+	-luego aplicamos 'Apply Multiplane', asi, se distribuiran las layers, en el espacio
+
+	indicado, tambien, se creara un nueva camara y se les agregaran expresiones a las layers,
+
+	de la escena para controlar su escala relativa al plano de la camara creada
+
+
+	_de ésta manera se crearán también un "null object", por cada layer, ó plano de la escena 
+
+	de éste modo es recomendable mover la respectiva layer, a través, de éste objeto nulo para que
+
+	así, éste se encargue de reescalar la layer, respectiva para que ésta manenga la proporción con
+
+	la escena mientras cambiamos la distacia en relación a la cámara para ganar ó perder efecto de 
+
+	proximidad ó lejanía de ésta respectiva layer, ó plano respectivo
+
+
+	-ahora es aconsejable seleccionar  la camara creada e ir ha 'Layer/Transform/Auto-Orient',
+
+	o a traves, de su shortcut 'Control + Alt + o', y colocar el valor de 'Auto Orientation (Off)',
+
+	para tener asi, un control mas real de la camara
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	_la ventaja de este proceso 'pt_Multiplane', es que las expresiones aplicadas a las layers,
+
+	de la composicion nos permite mover las layers, en su plano 'Z', o profundidad de la escena
+
+	de forma individual
+
+
+	_con la caracteristicas de que las layers, movidas en su plano de profundida son reescaladas,
+
+	'Scale (Z) +/-', en relacion al plano de la camara
+
+
+	_esto permite que una capa sea movida en el plano 'Z', mas mantenga su escala relativa al plano
+
+	de la camara manteniendo su proporcion exacta inicial u original
+
+
+	_esto es especialmente util para variar o ajustar o exagerar el efecto de paralaje de las escenas
+
+	en relacion a los planos de proximidad para lograr efectos de movimiento y pronfundidad 
+
+	mas avanzados
+

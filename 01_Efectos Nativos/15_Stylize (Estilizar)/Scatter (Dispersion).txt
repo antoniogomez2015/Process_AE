@@ -1,0 +1,107 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Dispersión esparce los píxeles de una capa, lo que proporciona un aspecto desenfocado o 
+
+	distorsionado. -Sin cambiar el color de cada píxel individual, el efecto Dispersión redistribuye los píxeles
+
+	de forma aleatoria, pero en la misma zona general que sus posiciones originales.
+
+
+	_Este efecto funciona con colores de 8 bpc y 16 bpc.
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Scatter: (Dispersion)
+	________
+
+
+		_Scatter Amount:
+
+			_ésta opción nos permitirá indicarle al sistema la cantidad de dispersión deseada en 
+
+			relación al efecto deseado
+
+
+		_Grain:
+
+			_Both:
+
+				_ésta opción nos permitirá indicarle al sistema la dirección en la cuál, se generará
+
+				el sistema de dispersión, en éste caso; el sistema se generará en ambas direcciones, 
+
+				tanto en el eje horizontal como en el eje vertical
+
+
+			_Horizontal:
+
+				_ésta opción nos permitirá indicarle al sistema la dirección en la cuál, se generará
+
+				el sistema de dispersión, en éste caso; el sistema se generará en el eje horizontal
+
+
+			_Vertical:
+
+				_ésta opción nos permitirá indicarle al sistema la dirección en la cuál, se generará
+
+				el sistema de dispersión, en éste caso; el sistema se generará en el eje vertical
+
+
+
+		_Scatter Randomness:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste mueva los pixeles 
+
+			aleatoriamente a través, del tiempo
+
+
+		_Randomize Every Frame:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que mueva aleatoriamente los
+
+			pixeles, en cada frme, ó fotogramas de la animación ó simulación
+
+
+
+
+
+
+
+
+

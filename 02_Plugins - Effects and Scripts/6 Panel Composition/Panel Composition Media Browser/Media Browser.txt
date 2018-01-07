@@ -1,0 +1,28 @@
+
+
+ventana nativa de after effects
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Media Browser
+
+
+	Media Browser:
+
+
+	_este nos permite tener una ventana de explorador dentro del mismo after effects, a través, del cuál,
+
+	podremos hacer doble click, sobre cualquier elemento que ubiquemos para importarlo en la composición
+
+	menos otras composiciones de after effects, de otros proyecto
+
+
+	_más también, debemos tener en cuenta que tendremos limitaciones como la visualización de archivos, así,
+
+	como también, en la navegación dentro de toda la estructura de nuestra PC, otros
+
+		

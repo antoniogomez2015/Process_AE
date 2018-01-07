@@ -1,0 +1,260 @@
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+	
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE: PV Feather:
+_______________
+
+
+	_éste efecto nos permitirá generar y controlar el feather, de una layer, de forma más completa y controlable e incluso
+
+	podremos crear múltiples feather, ó desvanecimientos para crear efectos e integraciones complejas entre diferentes layers,
+
+	para poder lograr así, diferentes efectos y procesos de producción
+
+
+	_de ésta manera, a través, de éste proceso podremos animar ó modificar en el tiempo lo vertex, que conforman el feather, 
+
+	a través, del tiempo en relación a las necesidades de producción
+
+
+
+	_Mode:
+
+		_en ésta opción dispondremos los mismos modos de acción de más máscaras por defecto ó forma nativa de la aplicación
+
+
+	_Inverted:
+
+		_en ésta opción podremos invertir la máscara de igual modo que de forma nativa
+
+
+	_Inside Mask:
+
+		_en ésta opción podremos seleccionar la máscara de la respectiva layer, la cuál, hará de máscara base
+
+
+	_Outside Mask:
+
+		_en ésta opción podremos seleccionar la máscara de la respectiva layer, la cuál, hará de de máscara en offset,
+
+		a través, de la cuál, se generará el efecto feather
+
+
+		_ésta opción no es obligatorio más si opcional en casos de que desiemos generar una forma de un feather especial
+
+
+	_Match Vertices:
+
+		_ésta opción nos pemritirá visualizar vértices adicionales del sistema para una mayor apreciación del sistema
+
+
+	_Move Together:
+
+		_ésta opción nos permnitirá mover vertex, de ambas máscaras al unísono lo cuál, no permitirá una fácil edición en 
+		
+		los casos en lo que desiemos hacer modificaciones tanto en la máscara base con la máscara exterior del feather, 
+
+		lo cuál, será necesario en la mayoría de los casos
+
+
+	_Fill if closed:
+
+		_ésta es una opción especial, ya que ésta nos permitirá ocultar el relleno de una máscara y dejas sólo visible el 
+
+		área que conforma el efecto "feather", entre ambas máscaras
+
+
+	_Apply Feather:
+
+		_ésta opción nos permitirá aplicar ó visualizar el efecto feather, entre ambas máscaras, lo cuál, nos pemritirá 
+
+		habilitar ó deshabilitar el efecto feather, tanto para efectos de pre producción, otros
+
+
+	_ReelSmart Motion Blur:
+
+		_ésta opción nos permitirá activar el desenfoque de movimiento a través, del tiempo especialmente útil para las 
+
+		máscaras son animadas a través, del tiempo
+
+
+
+	_Action:
+
+
+		_Duplicate and Offset Inner Mask:
+
+			_ésta opción nos permitirá generar ó crear una nueva máscara en relación al "Offset Amount", indicado
+
+			a través, de la cuál, y en conjunto con la máscara base, se generará el efecto feather
+
+
+		_Offset Outer Mask at Current Frame:
+
+			_ésta opción nos permitirá hacer offset, extra en una máscara ya creada como máscara exterior para la 
+
+			generación del efecto feather, en fotograma actual
+
+
+			_de ésta manera, podremos extender una máscara exterior ó vertex, seleccionados previamente de ésta 
+
+			de forma práctica en relación a la cantidad de offset, indicado en la opción de "Offset Amount", 
+
+			previamente
+
+
+		_Offset outer Mask at All Keyframes:
+
+			_ésta opción nos permitirá hacer offset, extra en una máscara ya creada como máscara exterior para la 
+
+			generación del efecto feather, en todos los fotogramas y keyframes, al igual que la opción anterior
+
+
+
+	_Offset Amount:
+
+		_ésta opción nos permitirá indicar la cantidad de offset, ó separación entre la máscara base y la máscara ha 
+
+		generar la cuál, hará de máscara exterior para la generación del efecto feather
+
+
+	_Show Connections:
+
+		_ésta opción nos permitirá visualizar las relaciones paralelas entre ambas máscaras, tanto la interior ó base 
+
+		como la exterior ó perimetral
+
+
+	_Show Offset Mask:
+
+		_ésta opción nos permitirá visualizar una máscara auxiliar perimetral exterior la cuál, no existe como máscara
+
+		creada en la respectiva layer
+
+
+		_ésta máscara exterior la podremos utilizar para visualizar la extensión ó alcance del "Offset Amount", así, 
+
+		podremos tener una idea más clara del alcance y penetración del efecto resultante en relación a las demás layers,
+
+		en la composición respectiva
+
+		
+
+
+	_Original Layer:
+
+		_ésta opción nos permitirá seleccionar la layer, de la cuál, serán tomadas las máscaras de trabajo
+
+
+
+
+	----------------------------------------------------------------------------------------------------------------------
+
+
+	Workflow:
+	_________
+
+
+	1_primeramente debemos de tener creados una composición de trabajo y al menos una layer, sobre la cuál, deseamos aplicar 
+
+	el respectivo efecto
+
+
+	2_para posteriormente crear una nueva máscara con la forma deseada sobre la respectiva layer
+
+
+	3_para a continuación seleccionar la respectiva layer, a la cuál, deseamos aplicar el efecto e ir ha 
+
+	"Effects/RE: Vision Plugins/", y seleccionar el efecto de "PV Feather"
+
+
+	4_para luego ir a las opciones de "Mode", en las opciones del plugins, en el panel "effects controls", de after effects,
+
+	y allí, seleccionar cualquiera de las opciones las cuáles son las mismas que nos proporciona las máscaras de forma nativa
+
+
+	6_para luego, ir a la opción de "Offset Amount", y ellí, indicar la cantidad de "offset", ó distancia que deseamos haya 
+
+	entre la máscara original y la nueva máscara ha generar a partir de las cuáles, se generar el efecto "feather", entre ambas 
+
+	máscaras
+
+
+	6_para posteriormente ir a las opciones de "Actions", y seleccionar la opción por lo general la opción e 
+
+	"Duplicate and Offset Inner Mask", para que así, a partir de éste punto sea generada una nueva máscara en la respectiva 
+
+	layer, para que así, a partir de la diferencia de tamaño de ambas máscaras se genere el efecto "feather"
+
+
+		6.1_incluso podremos crear más de un "feather", en una misma máscara para lo cuál, sólo tendremos que repetir el 
+
+		proceso de indicar un nuevo "offset Amount", y aplicar nuevamente el criterio de 
+
+		"Action/Duplicate and Offset Inner Mask", para que así, otra nueva máscara sea generada con el offset indicado
+
+ 		y con el nuevo "feather", respectivo
+
+
+	
+	Offset Personalizado:
+	_____________________
+
+
+	1_también, podremos crear un offset, personalizado para lo cuál, debemos crear una más máscara inicial base u original y 
+
+	otra máscara exterior ó con un offset, el cuál, desiemos y tenga una forma más personaliza de la forma replicada de la 
+
+	original en la mayoría de los casos
+
+
+	2_para a continuación ir a las opciones de "Inside Mask", y seleccionar la máscara base u original
+
+
+	3_para luego ir a las opciones de "Outside Mask", y allí, seleccionar la máscara la cuál, hará de máscara exterior ó
+
+	máscara perimetral la cuál, hemos creado de forma personalizada
+
+
+	4_para que así, el sistema cree el efecto feather, entre ambas layers, de forma automática sin la necesidad de ir a las
+
+	opciones de "Offset Amount", y "Actions"
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

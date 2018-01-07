@@ -1,0 +1,114 @@
+
+
+
+
+CopyMask2Layer 2
+
+
+	Referencia:
+
+		http://aescripts.com/copymask2layer/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite transferir las máscaras creadas y hasta animadas sobre una layer, ha otras layers
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_ésto es especialmente útil para producción al tener la posibilidad de transferir una máscara de una layers ha
+
+	otras
+
+
+	_así, podremos envar las máscaras de layer, ha otra para procesos de recervas y enmascaramientos múltiples de
+
+	adhisión y sustracción
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_primero debemos tener un composición base creada
+
+
+	_luego debemos tener una layers, creadas
+
+
+	_así, debemos proceder ha crearle una ó varias máscaras ha una layer, y ha animar éstas si aplica
+
+
+	
+
+	---------------------------------------------------------------------------------------------------------------
+
+
+
+Select Mask:
+____________
+
+	_así, de ésta manera primero debemos seleccionar las máscaras deseadas de una layer, respectiva para comenzar el 
+
+	proceso de transferencia de máscaras, para luego indicar el criterio de transferencia en el siguiente paso
+
+
+	Insert Keyframe at each frame:
+
+		_éste criterio permite convertir cada movimiento de la máscara en su layer, original ó ha un respectivo 
+
+		keyframe, en cada frame, de la layer, de destino, ésto garantiza que se transferirá la máscara y todos los 
+
+		movimientos de éstas
+
+
+		_ésta es la opción más recomendada para transferir máscaras animadas
+
+		
+		_NOTE: éstas opciones no funcionan para layers, con "Auto - Orientation", shortcut "Control + ALt + O", y 
+
+		       con la opción activada de "Orient Along Path", ya que nos podrá transferir éste movimiento agregado
+
+			en tiempo  real por programación y no por datos almacenados en keyframes
+
+
+	Insert as few keyframe as possible:
+
+		_ésta opción trata de insertar cuantos menos fotogramas sea posible en la transferencia de máscaras
+
+
+		_ésta opción es más recomendada para máscaras en las cuales no hay animación ya que máscaras animadas no
+
+		siempre da resultados totalmente predesibles, otros
+
+
+Insert Mask:
+
+	_y por último para pegar las máscaras copiadas ha una layer, de destino debemos seleccionar así primero la layer
+
+	de destino para aplicarle ha ésta "Inser mask", para que así, las máscaras sean transferidas ha ésta respectiva 
+
+	layer, de destino
+
+
+	_para que así, podramos ver que las máscaras originales se han transferido a la layer, de destino conservando la
+
+	posición y escala original de origen así, sus atributos de animación si aplican, otros
+
+	
+	

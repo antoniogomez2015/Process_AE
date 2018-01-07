@@ -1,0 +1,89 @@
+
+
+
+
+Animation Patterns
+
+
+	Referencia:
+
+		http://www.mtmograph.com/link/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar disparadores de animación 
+
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite tener una animación previamente animada a la cuál, podremos acceder a través, de disparadores
+
+	configurables
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_primero debemos crear una una composición base de trabajo
+
+
+	_leugo de debemos de crear una layer, la cuál, debemos animar tanto en sus propiedades de 
+
+	"translation/rotation/scale"
+
+
+	_para luego seleccionar ésta respectiva layer, e ir al panel "Linkv1.5", y primero indicar la cantidad de
+
+	instancias que deseamos de la layer, ej; "5"
+
+
+	_luego también, podremos seleccionar las propiedades ha relacionar de la animación exitente, entre las
+
+	cuales contamos con "translation/scale/rotation"
+
+
+	_y por último dale al botón de creación de instancias del objeto, de ésta manera se crearán las instancias
+
+	designadas en el timeline, como nuevas layers 
+
+
+	_más en la layer, principal u original se agregará nuevos efectos controlables a través, del panel de 
+
+	propiedades de efectos
+
+
+	_como también, la capa original también, cambiará de color, por lo generál tomará un color amarillo, éste
+
+	es un indicativo de que ésta capa la capa controladorá del comportamiento de las demás layers
+
+
+
+Alternativo:
+____________
+
+
+	_también, podemos crear animaciones de layers, existentes para ésto el panel de Link V1.5, cuenta con un 
+
+	slider, vertical el cuál transforma el panel con opciones evanzadas sobre configuración de layers, existentes
+
+	en la escena de ésta forma el programa no tendrá que crear instancias de una layer original si no que tomará
+
+	las layers existentes e indicadas en la escena en el timeline

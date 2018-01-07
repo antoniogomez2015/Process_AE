@@ -1,0 +1,138 @@
+
+
+
+
+Dj Render Hogs
+
+
+	Referencia:
+
+		http://aescripts.com/renderhogs/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite administrar la visualización de layers, y efectos en general así, la de valores de efectos
+
+
+	_de ésta forma se puede conseguir desactivar layers, efectos y valores de efectos para que así, poder tener un
+
+	mejor manejo de la aplicación más ligero y también de cara el render
+	
+
+Aplicaciones:
+_____________
+
+
+	_de ésta manera podremos desactivar efectos y valores así, como layers, enteras que previamente hayamos configurado
+
+	para ésto a través, de éste sistema, ésto es especialmente útil para trabajar en producción, otros
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_primero debemos crear una una composición base de trabajo
+
+
+	_luego debemos de crear las layers, a la cuáles les aplicaremos los efectos deseados según la lógica de la 
+
+	composición, otros
+
+
+
+Tag: Hog:
+
+	_éste es el control más importante del sistema por que es el que permite setear tanto las layers, efectos y valores
+
+	como partes del sistema para que éste los reconozca y controle
+
+
+	_así, para ésto, tendremos que seleccionar los elementos deseados de la respectiva composición, éstos pueden ser, layers,
+
+	en si mismas, efectos, ó incluso valores específicos dentro de un efecto
+
+
+	NOTE: si se desean incluir efectos en el sistema deben de seleccionarse éstos respectivos efectos ó valores (no las layers),
+
+	por que si sólo seleccionamos las layers, reconocerá sólo las layers
+
+
+
+Tag: Sub:
+
+	_éste valor es identico al alterior más éste hará ó tendrá el "suiche", invertido, es decir, que mientras los elementos con 
+
+	"Tag Hog", se desactivarán en "Hogs: Enable", mietras que los elementos con "Tag: Sub", en "Hog: Enable", de desactivarán
+
+
+	_así, ésta opción nos permitirá hacer exclusiones inversas de algunos elementos determinados por nosotros
+
+
+
+Tag: Remove:
+
+	_ésta opción permite eleminar elementos del sistema, para ésto seleccionar los elementos con el sistema y luego aplicamos "Tag: Remove"
+
+
+
+Hogs: Enable:
+
+	_ésta opción permite desactivar los elementos a los cuáles se les ha aplicado el sistema
+
+
+Hogs: Disable:
+
+	_ésta opción permite activar los elementos a los cuáles se les ha aplicado el sistema
+
+
+Make Indicator:
+
+	_ésta opción permite crear un indicador visual en el viewport, el cuál, avisará cuando hayan elementos desactivados en el sistema
+
+
+Value Reduction:
+
+	_ésta opción nos permite reducir la acción de un valor determinado a un porcentaje determinado por nosotros para que así, podamos
+
+	bajar la intensisdad de éste respectivo efecto para lograr aligerar el sistema para la edición y producción y render
+
+
+	_para ésto, primero indicamos un valor ej "20%", luego seleccionamos los valores deteminados y aplicamos "Value Reduction: 00"
+
+
+Value Sub:
+
+	_ésta opción permite lo mismo que el paso anterior más de forma excluyente ó inversa
+
+
+Togle & Render!:
+
+	_(opción inexplorada)
+
+
+Preferences:
+
+	_éstas opciones son muy importantes ya que permite configurar el alcance del sistema si sólo tendra alcance para ésta composición,
+
+	la composición seleccionada, todo el proyecto entre otras opciones importantes
+
+
+NOTE: también, el sistema cuenta con una serie de comandos directos que se pueden enrutar ha ej; "ft-toolbar", como accesos directos, éstos
+
+	deben de buscarse en la ruta de instalación del plugins
+
+

@@ -1,0 +1,129 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer distorciones de superficie a través, de una grilla configurable a través,
+
+	de la cuál, podremos modificar la superficie por medio de las intercepciones de la grilla
+
+
+	_de ésta manera, cada punto de intercepción está conformado a su vez, por cuatro handles, ha modo de 
+
+	beizers
+
+
+	_lo cuál, nos brinda aún más posibilidades de edición, no sólo a través, de lo puntos de intercepción de la 
+
+	grilla si no también, a través, de los handles, de éstos
+
+
+	_de ésta manera, podremos ver que el efecto mesh warp, lleva más allá las posibilidades de deformación que
+
+	el efecto beizer warp, ya que el efecto mesh warp, dispone de handles, y puntos de intercepción no solo en
+
+	área perimetral de la imágen si no que también, en su área interna
+
+
+
+
+	Workflow:
+
+	_para editar un punto de intercepción ó un handle, primeramente debemos posarnos sobre éste con el mouse,
+
+	y hacer "mouse left click", para que así, éste punto esté activo para la edición y los respectivos handles,
+
+	esté visibles para su edición
+
+
+	_lo más recomendado es comenzar con una resolución ó cantidad de puntos muy baja para así, poder hacer los
+
+	ajustes y deformaciones generales sobre la imágen
+
+
+	_para posteriormente aumentar la resolución ó cantidad de punto de intercepción para así, disponder de más
+
+	capacidad de detalles sobre la imágen
+
+	
+
+
+	
+	
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Mesh Warp: (Deformación de malla)
+	__________
+
+
+		_Rows:
+
+			_ésta opción nos permitirá indicar la cantidad de celdas ó puntos de intercepción en la
+
+			horizontal del sistema
+
+
+		_Colmns:
+
+			_ésta opción nos permitirá indicar la cantidad de columnas ó puntos de intercepción en la
+
+			vertical del sistema
+
+
+		_Opacity:
+
+			_ésta opción va de "0-10", la cuál, suavizará el efecto cuando se indica un valor mayor 
+
+			ha "0"
+
+
+		_Distortion Mesh:
+
+			_ésta opción nos permitirá hacer animaciones de la deformaciones a través, del tiempo de
+
+			forma animada ó interpolada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,106 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá hacer ajustes generales sobre layers, a través, de valores y algorítmos de 
+
+	corrección de imágen automáticaa
+
+
+	_como podremos ver éste efecto nos permnitirá hacer cambios controlados y limitados en la imágen orignal
+
+	hasta cierto límite para mantener así, el balance y equilibrio de la imágen 
+
+
+	_donde sólo se busca el resaltado de los tonos y el reavivado del contraste pero a su vez, manteniendo el
+
+	equilibrio del color y el balance de blancos
+
+	
+	_entendiéndo así, que los efectos "Auto", como en éste caso "AutoColor", nos permitirán corregir de forma
+
+	automática y sostenida en el tiempo diferentes tipos de material de archivo en una composición determinada
+
+	
+	_de ésta manera, éste efecto ajustará y regulará el material ó source, en relación a todos sus parámetros
+
+	pero especialmente "Temporal Smoothing(Seconds)", lo cuál, no evitará tener que hacer correcciones frame to
+
+	frame
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	AutoColor: (Color Automático)
+	__________
+
+	_Temporal Smoothing (Second):
+
+		_éste valor nos permitirá hacer una ponderación del suavizado ó armonizado de la imágen resultantes
+
+		a través, de un valor el cuál, puede llegar hasta "10"
+
+
+	_Scene Delect:
+
+		_(Indeterminado)
+
+
+	_Black Clip:
+
+		_éste valor nos permitirá hacer una ponderación de la gamma de las luces de la imágen resultante
+
+		a través, de un valor el cuál, puede llegar hasta "10"
+
+
+	_White Clip:
+
+		_éste valor nos permitirá hacer una ponderación de la gamma de las sombras de la imágen resultante
+
+		a través, de un valor el cuál, puede llegar hasta "10" 
+
+
+	_Snap Neutral Midtones:
+
+		_ésta opción señirá el sistema a mantener los tonos de la imágen en el rango de los medio tonos
+
+		naturales de la imágen original
+
+
+	_Blend Width Original:
+
+		_ésta opción nos permitirá controlar la influencia del efecto en relación a la imágen original
+
+
+		
+
+
+
+
+
+

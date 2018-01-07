@@ -1,0 +1,86 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer integraciones entre una layer, determinada y un color sólido lo cuál, es
+
+	útil para ciertos procesos de integración e igualación para la generación de sistemas de fluidos y efectos
+
+	de simulación progresiva, otros
+
+
+	_y que la integración es realizada a través, de los modos de fusión nativos de la aplicación integrados
+
+	dentro del efecto
+
+
+	_lo cuál, potencia de forma práctiva los posibles efectos e integraciones de color por colúmen, forma, 
+
+	gamma, liminancia, acutancia, otros
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Solid Composite: (Composicion Solida)
+	________________
+
+	_Source Opacity:
+
+		_ésta opción nos permitirá hacer variaciones de la opacidad de la layer, base para que así, tenga
+
+		más presencia el color plano alternatico de igualación u opuesto en algunos casos
+
+
+	_Color:
+
+		_ésta opción nos permitirá seleccionar el color de integración ó contraste
+
+
+	_Opacity:
+
+		_ésta opción nos permitirá indicar la opacidad del respectivo color plano seleccionado para la 
+
+		integración de fusión ó contraste respectivo
+
+
+	_Blending Mode:
+
+		_ésta opción tratará el modo de fusión ha utilizar como criterio ó algoritmo de trabajo a través,
+
+		del cuál, se realizará el proceso de integración, fusión ó diferencia entre la layer, base y el
+
+		color seleccionado respectivamente
+
+
+
+
+
+	

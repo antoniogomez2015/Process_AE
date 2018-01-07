@@ -1,0 +1,246 @@
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+		DEFlicker Tutorials/Playong List:
+
+			https://www.youtube.com/watch?v=ROG9Cx09xr4&list=PLJZE0COAfWUXTkWdhbkaO5GflW3hWJZ4h
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+DEFlicker:
+__________
+
+	_el plugins, deflickers, nos permite eliminar el efecto estroboscópicos en videos el cuál, puede producirse por
+
+	deferentes causas en un video
+
+
+	_así, disponemos de tres variantes de éste plugins, las cuales son;
+
+
+		_High Speed
+
+		_Time Lapse
+
+		_Auto Levels
+
+
+	_la versión del plugins, "DE: Flicker High Speed", especialmente útil para el flicker, ocacionado por la cámara 
+
+	y ruido de fondo de alta velocidad
+
+
+
+	Settings:
+	_________
+
+	_así, lo primero que hay que hacer es cargar el material de archivo ó source, ha after effects, para lo cuál debemos
+
+	hacer doble click, sobre el panel "Project", para que así, se abra el explorador a través, del cuál, podremos navegar
+
+	hasta la ubicación del archivo
+
+
+	_luego de haber importado el arvhivo de video, debemos de seleccionarlo en el panel project, para que así, éste nos 
+
+	muestre las información de éste video en el panel project, en la parte superior de éste
+
+
+	_de ésta manera, podremos ver por ejemplo que dimensiones en pixeles tiene el video así, como frame rate, si es un vodeo
+
+	de 24f, 30f, ó frames, por segundo
+
+
+	_de ésta manera, podremos verificar si hay algún problema de interpretación ó campatibilidad en la composición actual y 
+
+	el material de archivo, para lo cuál, contamos con el panel "Interpret Footage", y para acceder ha éste panel tendremos
+
+	que seleccionar el footage, ó video en el panel project, y con éste seleccionado aplicar el suiente shortcut; 
+
+	"Control + Alt + G"
+
+
+	_de ésta manera en éste panel podremos ajustar el frame rate, del video así, como también, los campos para videos 
+
+	entrelazados, el aspecto del pixel, como también, el perfil del color
+
+
+	_y leugo de haber configurado las propiedades del video es altamente recomendable crear un nueva composición a través, de
+
+	las propiedades del video para lo cuál, la opción más fácil es arrastrar el footage, ó material de archivo el ícono de 
+
+	"composition", en la parte inferior del panel project, para que el sistema cree una nueva composición a partir de los 
+
+	parámetros del video
+
+
+
+DE: Flicker High Speed:
+_______________________
+
+	_así, luego de haber revisado y ajustado las propiedades del video ó source, y de haber creado una nueva composición, podremos
+
+	ahora aplicar el efecto de "Effects/RE:Vision Plugins/DE:Flicker High Speed", ésta opción es especialmente útil para casos en
+
+	donde el flicker, ó efecto estroboscópio es bastante acusado y ha alta velocidad
+
+
+	_a connuación se explicarán las características más importantes del plugins, ha tener en cuenta:
+
+
+	-------------------------------------------------------------------------------------------------------------------------------
+
+
+
+	_Time Window (frame +/-):
+
+		_ésta opción nos permite indicar la cadencia ó intervalos de frames, de forma comparativa, la opción por dfecto es "2", 
+
+		la más recomendable
+
+
+	_Next Frame Step:
+
+		_ésta opción es una extensión de la opción anterior la cuál, nos permite indicar el alcance del análisis en frames, la
+
+		opción por defecto es "1", la más recomendable
+
+
+	_Method:
+
+		_1_Color Transfer (fine Color Math)
+
+			_método de análisis para flicker, con sutiles dominantes de color
+
+
+		_2_Color Transfer (Coarse Color Math)
+
+			_método de análisis para flicker, con fuertes dominantes de color
+
+
+		_3_Color Transfer (Abrut Change)
+
+			_método de análisis para flicker, con abruptas dominantes de color
+
+
+		_4_Noise Clean Metho 1
+
+			_método de análisis para flicker, con altas dominantes de ruido de fondo
+
+
+		-_5_Noise Clean Metho 2
+
+			_método de análisis para flicker, con altas dominantes de ruido de fondo
+
+
+		_6_Alternat (Period 2)
+
+			_método de análisis para flicker, con altas dominantes de ruido de fondo alternativa
+
+
+
+	_Motion Analisys:
+
+		_ésta opción nos permite escoger el tamaño del parámetro de la escala del análisis, también, podríamos traducir esta
+
+		opción como la profundidad del análisis, la opción por defecto es "Medium Scale", y disponemos de las siguientes:
+
+		
+			_Small Scale
+
+			_Medium Scale
+
+			_Large Scale
+
+			_Off
+
+
+	_Noise Reduction:
+
+		_ésta opción nos permite indicar cuanto flicker, dseamos eliminar, por defecto es "0", aunque en ocaciones deseremos dejar
+
+		un poco de flicker
+
+
+	_Max Change %:
+
+		_ésta opción nos permite indicar la tolerancia permitira como criterio para el análisis, el valor por defecto es de "100",
+
+		para un detección total
+
+
+	_Refinement Mode:
+
+		_ésta es una opción avanzada la cuál, nos permite agregar como adicional una opción de refinamiento para el análisis, su 
+
+		posición por defecto es "Off", más disponemos de las opciones de:
+
+
+			_Off:
+
+				_opción para dectivar el parámetro
+
+			_Refine:
+
+				_opción que nos permite indicar un imbral de acción del refinamiento de detección
+
+
+			_Pulsating HightLights:
+
+				_opción que nos permite orientar el parámetro de refinamiento ha las altas luces generadas por el flicker
+
+
+	_Mark Segments:
+
+		_ésta opción nos permite elegir entre diferentes criterios para los cortes realizados sobre el video para remuestrear las áreas
+
+		dle video con flicker, entre los cuales disponemos de:
+
+		
+			_Cut A
+
+			_Cut B
+
+			_Cut C
+
+			_Dissolve (Ingnore Local Correction)
+
+	
+	_Gamma Adjust:
+
+		_ésta opción nos permite indicar ó ajustar la gamma tonal del video para en casos de que necesitemos aumentar ó bajar el contraste
+
+		para obtener mejores resultados, la opción por defecto en éste parámetro es de "1", ó gamma default
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

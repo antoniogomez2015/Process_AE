@@ -1,0 +1,177 @@
+
+
+
+
+Animation Patterns
+
+
+	Referencia:
+
+		http://aescripts.com/divide-and-corner/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar animaciones de motion graphycs, a partir de formas geométricas como patrones de módulos
+
+	en máscaras los cualespermiten una gran flexibilidad
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer material de apoyo y de constructivismo visual para motion graphycs, entre otras 
+
+	posibilidades así como también, tiene opciones altamente configurables en modo de matrix
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_para ésto, debemos de tener una composición previamente creadas
+
+
+	_luego debemos crear una solid layer, luego con ésta layer, seleccionada vamos a las opciones del panel 
+
+	"Divide & Corner"
+
+
+	_en el cuál, disponemos de las siguientes opciones:
+
+
+		Modulo:
+		_______
+
+			_Circle
+
+			_Cuadrado
+
+			_Romboide
+
+			_Triángulo
+
+			_Exágono
+
+			_Briks
+
+
+		Divide:
+		_______
+
+
+			_Columns:
+
+				_éstas son las hileras verticales
+
+
+			_Rows:
+
+				_éstas son las hileras horizontales
+
+
+			_Margin:
+
+				_éste es el margen posible en las hileras de módulos
+
+
+
+		Corner:
+		_______
+
+
+			_Recto
+
+			_Convexo
+
+			_Cóncavo
+
+			_Concavo Recto
+
+			_Convexo Recto Inverso
+
+
+
+		Anchor Point:
+		_____________
+
+
+			_ésta opción nos permite seleccioanr el anchor point, de cada módulo creado dentro del 
+
+			super módulo
+
+
+
+		Criterios:
+		__________
+
+
+			_To Mask:
+
+				_ésta opción es excelente por que crear todos los módulos creados dentro de la misma 
+
+				layer, de origen a través, de máscaras
+
+
+				NOTE: sólo activando las opciones de "Layering", serán activadas las opciones avanzadas
+
+
+			_To ShapeLayer:
+			
+				_ésta opción envía cada uno de los módulos a una nueva layer, de forma/shape
+
+
+			_Layering:
+
+				_ésta opción envía cada módulo creado a duplicado de la layer, original en forma de mask
+
+
+			_Create perfect shapes:
+
+				_ésta opción opta por un criterio más estricto de creación
+
+
+			_Parent to Null Object:
+				
+				_éste opción permite agregarle un object null, en cada layer, creada a partir de un 
+
+				respectivo módulo para tener así, un mayor control de cada módulo
+
+
+			_Create Color Control:
+
+				_ésta opción permite crear una layer, control la cuál, contiene una series de effectos
+
+				los cuales hacen de controladores a través, del panel de control de efectos
+
+
+			_Create Collage:
+
+				_ésta opción permite hacer creaciones avanzadas de matrices, superpuestas y modulares
+
+				a través, de controladores avanzados totalmente animables por medio del panel de control
+
+				de efectos
+
+
+
+
+
+
+
+
+

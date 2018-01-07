@@ -1,0 +1,22 @@
+
+
+panel nativo de after effects
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Info
+
+
+	Panel Proyecto/info
+
+
+		-especialmente util para para ver la información de ubicación de los elementos dentro del espacio
+
+		del viewport, así, como también, opciones de efectos y de colors entre otras opciones especiales
+
+		y contextuales
+	

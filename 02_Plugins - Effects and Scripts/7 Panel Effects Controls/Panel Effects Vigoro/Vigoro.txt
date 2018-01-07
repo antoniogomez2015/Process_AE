@@ -1,0 +1,965 @@
+
+
+
+
+http://aescripts.com/vigoro/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Vigoro
+
+
+	Vigoro:
+
+
+	-este nos permite crear efectos de "strands", a partir de formas geométricas básicas generadas por el 
+
+	sistema
+
+
+	_así, de ésta manera, a través, de por ejemplo de círculos, hexagonos y otros podremos a partir de éstos
+
+	obtener strands, ó instancias relacionadas con la shape, ó forma geométrica original
+
+
+	_para que así, éstas instancias segan y compartan comportamientos con la forma original
+
+
+	_de ésta manera, podremos crear variaciones animadas en el tiempo así, como anomalías de comportamientos
+
+	así, como de forma, lo cuál, permitirá animaciones coplejas así, como el constructivismo visual lo cuál,
+
+	es especialmente útil para motion graphycs, avanzado
+
+
+	
+	Workflow:
+	_________
+
+	_primero debemos de tener creada una composición de trabajo en la cuál, no recomendable que ésta composición
+
+	sea únicamente para el sistema de "Vigoro", y ésta nueva composición no tenga layers, creadas previamente ya
+
+	que el sistema generará todo el sistema de layers, y demás elementos por si misma
+
+
+
+	Vigoro:
+	_______
+
+
+		_Vigoro Comp Name:
+
+			_ésta opción nos permitirá renombrar las layers, generadas por el sistema
+
+
+		_No of Layers:
+
+			_ésta opción nos pemritirá indicar la cantidad de strands, ó instancias generadas por el 
+
+			sistema
+
+
+		_No Cut Effects (Enables 3D Shadows):
+
+			_ésta opción nos permitirá generar el efecto de cortes en las layers, generadas por le 
+
+			sistema lo cuál, será opcional
+
+
+		_3D Comp:
+
+			_ésta opción nos permitirá activar las opciones de 3d, para las layers, generadas por el
+
+			sistema
+
+
+		_Camara:
+
+			_ésta opción nos permitirá crear una cámara para el sistema para controlar así, las 
+
+			layers, 3d, generadas por el sistema
+
+
+		_Light:
+
+			_ésta opción nos permitirá crear luces para el sistema para iluminar así, las 
+
+			layers, 3d, generadas por el sistema
+
+
+
+		_Create Comp:
+
+			_ésta opción nos permitirá generar el sistema
+
+
+		_Setings:
+
+			_éstas opciones nos permitirán configurar los criterios para la generación del sistema
+
+
+		_Add Text Layer:
+
+			_ésta opción nos permitirá agregar layers, de texto al sistema lo cuál, lo hace 
+
+			extensible
+
+
+		_Convert Layer:
+
+			_ésta opción nos permitirá agregar layers, de forma  personalizadas al sistema de vigoro,
+
+			ya generado previamente
+
+
+		_Bake/Free Comp:
+
+			_ésta opción nos permitirá hacer un volcado de las layers, para así, cada uno de éstas
+
+			tenga animación propia en relación a la animación ó simulación generada por el sistema
+
+
+			_de ésta manera, en las opciones de volcado podremos filtrar que deseamos volcar, 
+
+			pudiéndo volcar efectos, transformaciones, layers, de texto, otros
+
+
+
+	Crear el Sistema:
+	_________________
+
+	_para generar el sistema debemos de seleccionar previamente la respectiva composición de trabamo en el
+
+	panel proyecto
+
+
+	NOTA: ésto es así, silo seleccionamos en las opciones "Settings", del plugins, lo cuál, hará que el 
+
+	hacer éste paso Vigoro tome ó emule las características de la composición selección más si no se 
+
+	selecciona ésta opción vigoro, generará el sistema son la necesidad de seleccionar nada en el panel 
+
+	proyecto
+
+
+	_para posteriormente ir al panel del plugins, Vigoro, y hacer mouse left click, sober el botón de
+
+	"Create Comp", para que así, el sistema sea generado en relación a los parámetros indicados ó 
+
+	seleccionados
+
+
+
+	Vigoro System:
+	______________
+
+	_luego de haber generado el sistema con vigoro, éste habrá creado una nueva composición con el nombre
+
+	que le indicamos en el campo "Vigoro Comp Name", del plugins, por lo general ésta composición tendrá
+
+	el nombre de "Vigoro"
+
+
+	_ésta nueva composición se compone de las siguientes las layers, las cuáles, tienen la siguiente
+
+	función:
+
+
+
+		_Controller:
+
+			_en ésta layer, se encuéntran todos los controles y funcionalismos del sistema ha modo 
+
+			de efecto los cuáles, podremos controlar en el panel "Effects Controls", shortcut "F3"
+
+
+
+		_Fill Color:
+
+			_layer, interna del sistema
+
+
+		_Stroke Color:
+
+			_layer, interna del sistema
+
+
+		_VVVVV:
+
+			_layer, interna del sistema
+
+
+
+		_Vigoro Shape 1,2,3,4,5,...:
+		
+			_éstas layers, representan la la forma base e instancias ó strands, del sistema
+
+
+		_^^^^^:
+
+			_layer, interna del sistema
+
+
+
+	Vigoro Controls:
+	________________
+
+	_de ésta manera, luego de haber generado el sistema podremos acceder a todos los controles de sistema
+
+	a través, de la layer, "Controller", seleccionado ésta layer, y yendo al panel effects controls, 
+
+	shortcut, "F3", éstos controles son los siguientes:
+
+
+
+	Basic:
+
+		_éstas opciones nos permitirán controlar la forma geométrica basica circular
+
+
+		_Time offse (Seconds):
+
+			_
+
+
+		_Circle Size:
+
+			_
+
+
+		_Circle:
+
+			_
+
+
+		_Polygin Sides:
+
+			_
+
+
+		_Polygon Roundness:
+
+			_
+
+
+		_Adjust Internal Rotation:
+
+			_
+
+
+		_Size offset:
+
+			_
+
+
+		_Rotation Offset:
+
+			_
+
+	
+	Apperance:
+
+		_Fill:
+
+			_
+
+
+		_Fill Opacity:
+
+			_
+
+	
+		_Stroke:
+
+			_
+
+
+		_Stroke Opacity:
+
+			_
+
+
+		_Stroke Thickness:
+
+			_
+
+
+		_Thickness Offset:
+
+			_
+
+
+		_Stroke Dash:
+
+			_
+
+
+		_Dash Offset:
+
+			_
+
+
+		_Fade on Scale:
+
+			_
+
+
+		_Color:
+
+			_Top Color:
+
+				_
+
+
+			_Bottom Color:
+
+				_
+
+
+			_Fill Color Layer:
+
+				_
+
+
+			_Fill Color Sample Off:
+
+				_
+
+
+			_Stroke Color Layer:
+
+				_
+
+
+			_Stroke Color Sample:
+
+				_
+
+
+			_Visualize Color Point:
+
+				_
+
+
+
+	Cut Effects:
+
+		_Cut Edges:
+
+			_Follow Main Rotation:
+
+				_
+
+
+			_Cut Amount:
+
+				_
+
+
+			_Cut Angle:
+
+				_
+
+
+			_Cut Rotation Offset:
+
+				_
+
+
+			_Cut Offset (Time):
+
+				_
+
+
+		_Slice:
+
+			_Follow Main Rotation:
+
+				_
+
+
+			_use Iternal Rotation:
+
+				_
+
+
+			_Slice Amount:
+
+				_
+
+
+			_Slice Angle:
+
+				_
+
+
+			_Slice Rotation Offset:
+
+				_
+
+
+			_Slice Position Offset:
+
+				_
+
+
+			_Slice Offset (Time):
+
+				_
+
+
+			_Sticky Slice:
+
+				_
+
+
+		_Wave Cut:
+
+			_Follow Main Rotation:
+
+				_
+
+
+			_Use Internal Rotation:
+
+				_
+
+
+			_Wave/Teeth:
+
+				_
+
+
+			_Wave Cut Amount:
+
+				_
+
+
+			_Wave Width:
+
+				_
+
+
+			_Wave Height:
+
+				_
+
+
+			_Wave Angle:
+
+				_
+
+
+			_Wave Rotation Offset:
+
+				_
+
+
+			_Wave Position Offset:
+
+				_
+
+		
+		Cutout:
+
+			_Enable Cutout:
+
+				_
+
+
+			_Same Shape as Lay:
+
+				_
+
+
+			_Cutout Sides:
+
+				_
+
+
+			_Cutout Roundness:
+
+				_
+
+
+			_Cutout Size:
+
+				_
+
+
+			_Cutout Rotation:
+
+				_
+
+
+			_Cutout Offset:
+
+				_
+
+
+		Scanlines:
+
+			_Follow Main Rotation:
+
+				_
+
+
+			_Scanlines Amount:
+
+				_
+
+
+			_Scanlines Width:
+
+				_
+
+
+			_Scanlines Angle:
+
+				_
+
+
+			_Scanlines Rotation:
+
+				_
+
+		
+	_Distribution:
+
+		_Distribute Around Controller:
+
+			_
+
+
+		_Point A:
+
+			_
+
+
+		_Point A (z axis):
+			
+			_
+
+
+		_Point B:
+
+			_
+
+
+		_Point B (Z axis):
+
+			_
+
+
+		_Circle Distribution:
+
+			_
+
+
+		_Circle Size (Dist):
+
+			_
+
+
+		_Circle Rotation (Dist):
+
+			_
+
+
+		_Circle Amount (Dist):
+
+			_
+
+
+	Speed Modifiers:
+
+		_Size:
+
+			_Size in Scale:
+
+				_
+
+
+			_Size in Rotation:
+
+				_
+
+
+			_Size on Position:
+
+				_
+
+
+		_Scale:
+
+			_Affect X Scale:
+
+				_
+
+
+			_Affect Y Scale:
+
+				_
+
+
+			_Scale in Size:
+
+				_
+
+
+			_Scale on Rotation:
+
+				_
+
+
+			_Scale in Position:
+
+				_
+
+
+		Rotation:
+
+			_Rotation on Scale:
+
+				_
+
+
+			_Rotation on Size:
+
+				_
+
+
+			_Rotation on Position:
+
+				_
+
+
+		_Position:
+
+			_Affect X Position:
+
+				_
+
+
+			_Affect Y Position:
+
+				_
+
+
+			_Position on Scale:
+
+				_
+
+
+			_Position on Size:
+
+				_
+
+
+			_Position on Rotation:
+
+				_
+
+
+		_Roundness:
+
+			_Round on Scale:
+
+				_
+
+
+			_Round on Size:
+
+				_
+
+
+			_Round on Position:
+
+				_
+
+
+			_Round on Rotation:
+
+				_
+
+
+	Cloner:
+
+		_Enable Cloner:
+
+			_
+
+
+		_Cloner Copies:
+
+			_
+
+
+		_Cloner Anchor Offset:
+
+			_
+
+
+		_Cloner Position Offset:
+
+			_
+
+
+		_Cloner Scale Offset:
+
+			_
+
+
+		_Cloner Angle Offset:
+
+			_
+
+
+		_Cloner Start Opacity:
+
+			_
+
+
+		_Cloner End Opacity:
+
+			_
+
+
+		_Radial Rotation:
+
+			_
+
+
+		_Radial Size (Cloner):
+
+			_
+
+
+		_Circle Rotation (Cloner):
+
+			_
+
+
+	_Text Options:
+
+		_Source Text Layer:
+
+			_
+
+
+		_Adjust Text Anchor:
+
+			_
+
+
+		_Adjust Text Position:
+
+			_
+
+
+		_Text Appearance:
+
+			_Same as Shape:
+
+				_
+
+
+			_Text Fill:
+
+				_
+
+
+			_Text Fill Opacity:
+
+				_
+
+
+			_Text Stroke:
+
+				_
+
+
+			_Stroke Opacity (Text):
+
+				_
+
+
+			_Stroke Size (Text):
+
+				_
+
+
+			_Stroke Offset Size (Text):
+
+				_
+
+
+		_Tracking:
+
+			_
+
+
+		_Tracking Offset:
+
+			_
+
+
+		_Character Offset:
+
+			_
+
+
+		_Text Wiggler:
+
+			_Range:
+
+				_Start Wiggle Range:
+
+					_
+
+
+				_End Wiggle Range:
+
+					_
+
+
+				_Wiggle Offset Rotation:
+
+					_
+
+
+			Enable Wiigle:
+
+				_
+
+
+			_Wiggle Amount:
+
+				_
+
+
+			_Top Layer Wiggle:
+
+				_
+
+
+			_Bottom Layer Wiggle:
+			
+				_
+
+
+			_Wiggle/Second:
+
+				_
+
+
+			_Character Correlation:
+
+				_
+
+
+			_temporal Phase:
+
+				_
+
+
+			_Spatial Phase:
+
+				_
+
+
+			_Lock Dimensions:
+
+				_
+
+
+			_Random Seed:
+
+				_
+
+
+			_Layer Random Wiggle:
+
+				_
+
+
+		_Wiggle Properties:
+
+			_Anchor Point Wiggle:
+
+				_
+
+
+			_Position Wiggle:
+
+				_
+
+
+			_Scale Wiggle:
+
+				_
+
+
+			_Skew Wiggle:
+
+				_
+
+
+			_Skew Axis Wiggle:
+
+				_
+
+
+			_Rotation Wiggle:
+
+				_
+
+
+			_Opacity Wiggle:
+
+				_
+
+
+			_Tracking Wiggle:
+
+				_
+
+
+			_Character Offset Wiggle:
+
+				_
+
+		
+	_Converted Layer Options:
+
+		_Adjust Converted Anchor:
+
+			_
+
+	
+		_Adjust Converted Position:
+
+			_
+
+
+		_Adjust Converted Opacity:
+
+			_
+
+
+		_Adjust Converted Scale:
+
+			_
+
+
+
+	
+
+
+
+

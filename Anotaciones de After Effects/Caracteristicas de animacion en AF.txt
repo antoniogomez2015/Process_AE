@@ -1,0 +1,87 @@
+
+caracteristicas de animacion en after effects:
+
+1.seleccion y edición de trayectos: herramienta Selection Tool (V)
+
+2.cambio de tipo de interpolación en trayectos: herramienta Convert Vertex Tool (G menu) ó Nodo Seleccionado+Control+Alt+click
+
+3.panel de modos de animación: Control+Alt+k
+
+4.panel de modos de velocidad de animación: Control+Shift+k / Alt+doble click
+
+5.Toggle Hold Keyframe (Conmutar mantener fotograma clave)(desactiva interpolación): selección de fotogramas+Control+Alt+H
+
+6.desaceleración de entrada y desaceleración de salida de fotogramas: selección+F9
+
+7.desaceleración de entrada: Shift+F9
+
+8.desaceleración de salida:Control+Shift+F9
+
+9.auto bezier: selección+Control+click
+
+10.velocidad constante de fotogramas: selección+right click/Rove Across Time (desplazarse en el tiempo) (repetir para desactivar)
+
+11.reestauración al estado normal de fotogramas: selección+doble click
+
+
+creación de fotogramas automático:
+
+1.propiedades de posición: doble click sobre fotograma
+
+2.crear fotogramas de position: Shift+Alt+P
+
+3.crear fotogramas de scale: Shift+Alt+S
+
+4.crear fotogramas de rotation: Shift+Alt+R
+
+5.crear fotogramas de opacity: Shift+Alt+T
+
+
+criterios del menú interpolación de fotograma
+
+1.acceso directo al panel: Control+Alt+K
+
+2.Temporal Interpolations (interpolación de tiempo): 
+
+	2.1.linear: interpolación equidistante en el tiempo (no toma en cuenta la forma de la trayectoria, cambios en ángulos)
+
+	2.2.Bezier: interpolación gradual en el punto de entrada y de salida de fotogramas (no toma en cuenta la forma de la trayectoria, cambios en ángulos)
+
+	2.3.Continuous Beizer: interpolación gradual continua en el punto de entrada y de salida de fotogramas (no toma en cuenta la forma de la trayectoria, cambios en ángulos)
+
+	2.4.Auto Beizer: interpolación automática entre fotogramas (no toma en cuenta la forma de la trayectoria, cambios en ángulos)
+
+	2.5.Hold Beizer: interpolación sostenida en el tiempo (no toma en cuenta la forma de la trayectoria, cambios en ángulos)
+
+	2.6.Current Setting: equivale a la opción bezier, pero con interpolación gradual de entrada ó de salida de fotograma solamente (no toma en cuenta la forma de la trayectoria, cambios en ángulos)
+
+3.Spatial interpolacions (funcion de la herramienta: Convert Vertex Tool) (interpolación en el espacio; representación en la curva ó trayectoria de interpolación)
+
+	3.1.linear: linear: interpolación equidistante en el tiempo (no toma en cuenta la forma de la trayectoria, cambios en ángulos)
+
+	3.2.bezier: interpolación gradual en el espacio con una curva en el espacio de la trayectoria (toma en cuenta la forma de la trayectoria que la compone, cambios con bezieres configurables)
+
+	3.3.Continuous Beizer: interpolación gradual continua en el espacio con una curva en el espacio de la trayectoria (toma en cuenta la forma de la trayectoria que la compone, cambios con bezieres configurables)
+
+	3.4.Auto Beizer: interpolación automática en el espacio de su trayectoria entre fotogramas (toma en cuenta la forma de la trayectoria que la compone, cambios con bezieres configurables)
+
+	3.5.Current Setting: equivale a la opción bezier, pero con interpolación gradual en el epacio de entrada ó de salida de fotograma solamente (toma en cuenta la forma de la trayectoria que la compone, cambios con bezieres configurables)
+
+4.Roving (velocidad constante de fotogramas seleccionados):
+
+	4.1.Lock To Time: fotogramas ajustados al tiempo actual
+
+	4.2.Rove Across Time: velocidad constante entre fotogramas (circulo peuqueño)
+
+	4.3.Current Setting: velocidad personalizable
+
+
+gerarquia de fotogramas:
+
+1.fotograma rombo: velocidad contante / vale menos que el fotograma concabo
+
+2.fotograma concabo: cambio de velocidad / es una curva y vale más que la velocidad constante (graph editor)
+
+3.fotograma auto bezier (circulo grande): cambio de velocidad suavizado automáticamente en ambos sentidos / es una curva y vale más que la velocidad constante (graph editor)
+
+3.fotograma conmutado (circulo pequeño): fotograma clave mantenido en el tiempo / vale más que todos los fotogramas

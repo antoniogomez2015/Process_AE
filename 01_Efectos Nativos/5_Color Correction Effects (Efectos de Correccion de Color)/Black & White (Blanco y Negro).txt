@@ -1,0 +1,130 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá convertir una imágen de color en una imágen blanco y negro de forma práctica y 
+
+	directa
+
+
+	_de ésta manera, dispondremos de controles a través, de los espacios de color R/G/B, y C/M/Y, para hacer
+
+	ajustes de conversiones de toda la gamma tonal de la imágen para que así, podamos obtener una corversión
+
+	a blanco y negro de forma controlada y personalizada
+
+
+	_más auxiliarmente dispondremos de opción de entintado que ha modo de filtro de fotografía podremos teñir
+
+	la imágen por medio de un color el cuál, podremos personalizar
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Black & White: (Blanco y Negro)
+	______________
+
+
+		_Reds:
+
+			_éste valor nos permitirá hacer una marginación de la gamma, en el canal en éste caso de los
+
+			reds, de la imágen, resaltando ó atenuando éste
+
+
+		_Yellows:
+
+			_éste valor nos permitirá hacer una marginación de la gamma, en el canal en éste caso de los
+
+			yellows, de la imágen, resaltando ó atenuando éste
+
+
+		_Greens:
+
+			_éste valor nos permitirá hacer una marginación de la gamma, en el canal en éste caso de los
+
+			greens, de la imágen, resaltando ó atenuando éste
+
+
+
+		_Cyans:
+
+			_éste valor nos permitirá hacer una marginación de la gamma, en el canal en éste caso de los
+
+			cyans, de la imágen, resaltando ó atenuando éste
+
+
+
+		_Blues:
+
+			_éste valor nos permitirá hacer una marginación de la gamma, en el canal en éste caso de los
+
+			blues, de la imágen, resaltando ó atenuando éste
+
+
+
+		_Magentas:
+
+			_éste valor nos permitirá hacer una marginación de la gamma, en el canal en éste caso de los
+
+			magentas, de la imágen, resaltando ó atenuando éste
+
+
+
+		_Tint:
+
+			_ésta opción nos permitirá activar la opción de entintado para el sistema
+
+
+		_Tint Color:
+
+			_éste selector nos permitirá seleccionar un color de forma directa ó a través, de un picker,
+
+			el cuál, será utilizado como filtro sobre la imágen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

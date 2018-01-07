@@ -1,0 +1,441 @@
+
+
+http://duduf.net/index.php/products/after-effects/duik/
+
+	Referencia:
+
+		Tutorial basico de rigging con Duik
+			https://www.youtube.com/watch?v=3WiNMHMMduc
+
+		TUTORIAL: DUIK - ARTICULACIONES AUTOMATIZADAS EN AFTER EFFECTS
+			https://www.youtube.com/watch?v=Oi4G1-p59uI
+
+		DUIK 15 full tutorial overview Part 1 Rigging character tools
+			https://www.youtube.com/watch?v=2-m0Mc0ZTP8&list=PLL1LC1tW73eUOt7qjWvn3nYOkYOoQscmy
+
+		Getting started with DUIK 15 full tutorial overview Part 2 Automation tools
+			https://www.youtube.com/watch?v=WWIEZHCYUu8&index=2&list=PLL1LC1tW73eUOt7qjWvn3nYOkYOoQscmy
+	
+		How to use DUIK 15 Full Tutorial Overview Part 3 Animation tools
+			https://www.youtube.com/watch?v=7GPMoCSBJBc
+
+		DUIK 15 Full Tutorial Overview Part 4 Camera tools & Settings
+			https://www.youtube.com/watch?v=qWWqt7807hA
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Duik
+
+
+	Duik:
+
+
+	-este nos permite hacer sistema de kinemática y cinemática de character, y otros tipos de animaciones
+
+	así, como también, riggings, completos y asistidos con diferentes tipos de controles, limitadores y
+
+	disparadores ó trigers, de animación, otros
+
+
+
+
+	Workflow:
+	_________
+
+	
+	Character Layer:
+
+	_primero tendremos que tener nuestro character, creado en layers, en un programa de pixeles ó vectorial,
+
+	es altamente conveniente que éstas layers, estén renombradas de forma técnica y en ingles para que así, 
+
+	el sistema reconozca cada una de las partes de forma correcta ej;
+
+		"head, neck, shoulder, arm, forearm, hand, finger, chest, hip, leg, femur, tibia, foot"
+
+
+	_así, como también, tendremos que diferenciar cuando una extremidad pertenece al lado derecho ó izquierdo
+
+	del character, para lo cuál, en su nomenclatura tendremos que agregar ha modo de prefijo la identificación 
+
+	de  "L/R Name", ejemplo:
+
+		
+		"L Leg", "R Leg"
+
+
+	_el sistema no sorporta la estructura de fingers, ó dedos, por éste tendrá que ser sólo una layer, que se 
+
+	conforme como los dedos ó alernativamente podría se una layer, para cada dedo y que el sistema tome un sólo 
+
+	dedo y que los demás dedos estén emparentados ha éste dedo reconocido por el sistema
+
+
+
+	Anchor Point:
+
+	_para luego importar éste archivo como una composición dentro de after effects, y poder proceder con 
+
+	la generación de el sistema
+
+
+	_ahora tendremos que ajutar la posición de los puntos de ancla de cada layer, para que así, éstos puntos
+
+	de ancla coincidan con las posiciones de las articulaciones según la lógica y cinemática del character
+
+
+	_para ésto, debemos activar la herramienta de panorámica tracera de after effects, shortcut "Y", para que
+
+	así, procedamos ha mover los puntos de ancla hasta la ubicación de las articulaciones
+
+
+
+	Pins:
+
+	_ahora debemos signar las partes de cuerpo para que el sistema las reconozca y respecte como tales, para 
+
+	ésto, en las partes complejas ó las partes que deberían ser seccionar por más de una parte como el torso ó 
+
+	chest, ó un brazo y ante brazo si éstos no estubiesen separados por layers, independientes, tendríamos que aplicar
+
+	un método para que el sistema identifique que ésta layer, debe ser interpretada como un área seccionable en dos 
+
+	partes ó como dos bones, ó huesos diferentes en vez de un sólo hueso, para que así, el sistema no interprete algo 
+
+	diferente ó haga una mala interpretación, por ejemplo; que el sistema divida una layer, en secciones ó bones no 
+
+	deseados ó con tamaños no deseados, otros
+
+
+	_para lo cuál, disponemos de la herramienta de "puppet Tool", ó títere como herramienta auxiliar, a través, de la
+
+	cuál, tendremos que ir haciendo "pins", sobre las articulaciones de debería tener una layer, la cuál, el sistema
+
+	tendrá que interpretar con más de una hueso ó bone 
+
+
+	_por ejemplo: para un torso; tendríamos que agregar un "pin", en el área de la base del "neck", ó cuello así, como
+
+	otro pin, en el área media del torax, y otro por último en la base del "hip", ó cadera
+
+
+	_otro ejemplo sería para un brazo, para el cuál, tendríamos que agregar un pin, a la altura del "shoulder", ó hombro
+
+	otro pin, a la altura del "elbow", ó codo y por último otro pin, a la altura de la "hand", muñeca ó mano
+
+
+	_de ésta manera, disponemos del a herramienta de "Puppet Pin", shortcut "Control + P", a través, de la cuál, podremos
+
+	crear los pins, en las layers, que deseamos que el sistema las interprete con más de un hueso ó bone, por layer, 
+
+	entendiendo así, que cuando el sistema encuentre dos "pins", seguidos creará un bone, entre éstos
+
+
+	_en éste punto, también, sería recomendable entras a las opciones de éstas layers, a la cuales les hemos aplicado el
+
+	efecto de puppet tool, y renombrar éstos pines, para obtener así, un mayor control y conocimiento de éstos, para ésto
+
+	vamos ha "LayerName/effects (ee) Puppet/Mesh/Deform/Puppet Pin..", de ésta manera, podremos renombrar los pines con el
+
+	nombre de la articulación más cercana, ej; "neck, chest, hip"
+
+
+	Bones:
+
+	_ahora, tendremos que crear los bones, a partir de las layes, las cuales ya están configuradas según el paso anterior
+
+	para el recocimiento por el sistema
+
+
+	NOTA: ésta herramienta ó sección en específica sólo servirá para layers, a las cuales le hemos aplicado el efecto de
+
+	"Puppet Tool", para dividir ésta en varios huesos ó bones, en vez de un sólo hueso
+
+
+	_para lo cuál, tendremos que seleccionar una layer, ha convertir ha bones, e ir al panel "Duik/Rigging", y con la 
+
+	respectiva layer, seleccionada darle al botón "Bones"
+
+
+	_de ésta manera, el sistema generará una nueva layer, de tipo "null object", convertida en una layer, "Guide", 
+
+	correspondiente ha cada "Pin", encontrado del proceso de "Puppet Pin", de ésta manera, el sistema colocará ésta nueva
+
+	layer, de tipo null y guía en el respectivo lugar del pin, que corresponderá a su vez, a cada articulación del character
+
+	
+	_dichas layers, de tipo null object, generadas ya estarán deformando el character por que ya estarán haciendo de rig, 
+
+	sobre la layer, respectiva
+
+
+	_y así, podremos repetir éste proceso para las demás layers, que desiemos dividir en bones, y que le hayamos aplicado
+
+	el efecto de puppet tool
+
+
+	
+	Auto Rig:
+
+	_y para conectar ahora las layers, "Multi Bones" con el sistema de "Puppet Pin", con las layer, de "Single Bone", ó con
+
+	un sólo hueso ó sin el sistema de "Puppet Tool", disponemos de la herramienta de "Auto-Rig", la cuál, hará un recocimiento
+
+	de la composición valiéndose de la nomenclatura ó nombres de la layers, para reconocer éstas y armar el character de forma
+
+	lógica
+
+
+	_para lo cuál, tendremos que deseleccionar todas las layers, de la composición activa y respectiva para luego ir al panel
+
+	"Duik/Rigging/", y hacer "Auto-Rig", para que así, entremos a la modalidad de auto rig, y el panel cambie por completo y nos
+
+	muestre todas las opciones disponibles para auto riging
+
+
+	_entre las cuales dispondremos de la asistencia para crear: "Front leg/Arm", "Back Lef, ó foot", "Spine- Neck Head", "Tail",
+
+	así, como también, la opción de "Full character", que es la opción que seleccionaremos
+
+
+	_para que así, nos aparezca una ventana contextual con la siguiente lista de opciones ha seleccionar y relacionar con nuestras
+
+	layers, del character en la composición actual:
+
+
+	------------------------------------------------------------------------------------------------------------------------------
+
+
+		_Left leg Layers:
+
+			
+			Femur, thigh:
+
+				_"L Femur"
+
+
+			Tibia, Firula, Calf, Knee:
+
+				_"L Tibia"
+
+
+			Tarsus, foot:
+
+				_"L Foot"
+
+
+			Claws, hoof, toes:
+
+				_"L Hoof" (opcional, garras/cascos/dedos)
+
+
+		Null Objects:
+
+
+			Tip, Tiptoe:
+
+				_si nuestro character, no podee éstos null, de control adicionales debemos de dejar éstos cambos vacíos
+
+
+			Heel. back, contact, palm:
+
+				_si nuestro character, no podee éstos null, de control adicionales debemos de dejar éstos cambos vacíos
+
+
+
+	de ésta manera tendremos que ir haciendo coincidir las layers, correspondientes al character, con las layers, que no requiere
+
+	el sistema para luego darle ha "Next", para continuar con el proceso
+
+
+
+	------------------------------------------------------------------------------------------------------------------------------
+
+
+		_Left Arm / Front leg Layers:
+
+			
+			Shoulder blade, clavicle:
+
+				_"L Shoulder"
+
+
+			Arm, humerus, shoulder:
+
+				_"L Arm"
+
+
+			Ulma, radius, foerearm, elbow:
+
+				_"L ForeArm"
+
+
+			Carpus, palm, hand:
+
+				_"L Hand"
+
+
+			Claws, hoof, fingers:
+
+				_"L Hoof" (opcional, garras/cascos/dedos)
+
+
+		_Null Objects:
+
+
+			Tip, titoe:
+
+				_si nuestro character, no podee éstos null, de control adicionales debemos de dejar éstos cambos vacíos
+
+
+			Heel, back, contact, palm:
+	
+				_si nuestro character, no podee éstos null, de control adicionales debemos de dejar éstos cambos vacíos
+
+
+
+	------------------------------------------------------------------------------------------------------------------------------
+
+
+		_Spine Layers:
+
+			
+			Head:
+
+				_"Head"
+
+
+			Neck:
+
+				_"Neck"
+
+
+			From:
+
+				_"Neck"
+
+
+			To:
+
+				_"Neck"
+
+
+			Spine, torso, chest, thorax:
+
+		
+			From:
+
+				_"Chest Pins"
+
+			
+			To:
+
+				_"Chest"
+
+
+			Hips, pelvis, abdomen:
+
+				_"Hips"
+
+
+
+	------------------------------------------------------------------------------------------------------------------------------
+
+		
+		NOTA: si nuestro character, no posee cola ó tail, debemos de seleccionar en la opción "Hips, pelvis, abdomen", la 
+
+		opción de "None", para que así, el sistema no nos genere una cola ó tail
+
+
+		_Tail Layers:
+
+			
+			Hips, pelvis, abdomen:
+
+				_"Hips"
+
+
+			Tail:
+
+				_"Tail"
+
+		
+			From:
+
+				_Tail Pins
+
+
+			To:
+
+				_"Tail"
+
+
+			Options:
+
+
+				Single:
+			
+					_inderminado
+
+				
+				Two curves:
+
+					_indeterminado
+
+
+	para por último darle ha "ok", y el sistema de contrucción wizard, para que así, éste comience ha generar el sistema
+
+	de ésta manera, el sistema generará una serie de layers, de tipo handles, ó manejadores del character, de los puntos
+
+	de riggins, generados para controlar toda la cinemática y kinemática del character
+
+
+	_ésto es posible a través, de layer, tipo null object, y layer, de tipo shape, convertidas ha layer, guide
+
+
+
+	Observaciones:
+
+	_después de haber creado el sistema es altamente aconsejable reagrupar las layer, en el tiemeline, enviando las layers,
+	
+	que conforman al character, hasta la parte de abajo, así, como también, es recomendable colorear éstas por tipos ej,
+
+	colorear un color las layer, de corresponden el "arm, forearm, hand, fingers", y así sucesivamente con los demás grupos
+
+	de layers, del character
+
+
+
+	Handles:
+
+	_de ésta manera, podremos ver que ahora para controlar el character dispondremos de las layer, "handles", las cuales 
+
+	tendrán que estar en la parte superior de la composición para que éstas siempre estén visibles ya que a través, de éstas
+
+	es que controlaremos y animaremos el character
+
+
+	_éstas layers, tienen el prefijo de "C_", y son layers, de tipo "Shape", las cuales nos permitirán mover y rotar partes
+
+	del character, a través, de las articulaciones definidas para el mismo
+
+
+	_más éstas layers, tienen a nuestra disposición una serie de plugins, y controles a través, de los cuales podremos controlar
+
+	los criterios de acción, comportamiento y animación que tendrá el character, entre otras posibilidades
+
+	los cuales variarán según la función ó complejidad de la respectiva articulación y su relación con las demás articulaciones
+
+	y demás ocntroles, a continuación se explicarán por tipo de articulación y sus posibilidades, éstos son:
+
+
+		C_hand left/right:
+
+			_IK foreArm left/right
+	
+
+

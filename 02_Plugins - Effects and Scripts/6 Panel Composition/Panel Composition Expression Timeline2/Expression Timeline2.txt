@@ -1,0 +1,100 @@
+
+
+http://aescripts.com/expression-timeline/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Expression Timeline2
+
+
+	Expression Expression Timeline2:
+
+
+	-este nos permite animar expresiones e incluso hacer transiciones ó interpolaciones entre éstas de
+
+	forma programa y altamente editable
+
+
+	Workflow:
+	_________
+
+
+	_para ésto, debemos de tener una composición de trabajo así, como las layers, a las cuales deseamos
+
+	aplicarle expresiones
+
+
+	_para leugo, aplicar la expresión inicial que tendrá la respectiva layer, ésta expresión la podemos aplicar
+
+	inicialmente en la layer, respectiva ó directamente en la interface, del plugins
+
+
+	_en el caso de aplicar la expresión inicial en la layer, y seleccionar la propiedad a la cuál, se le ha 
+
+	aplicado la expresión, luego tendremos que ir al panel "Expression Timeline2", y darle ha "Load", para que
+
+	así, la expresión sea cargada en el sistema del plugins
+
+
+	_de lo contrario, de seleccionar la layer, respectiva y la propiedad ha controlar ej, "Translation", tendremos
+
+	que ir al panel "Expression Timeline2", y darle ha "Add Expressions", para de ésta manera agregar la expresión
+
+	manualmente	
+
+
+	_luego, tendremos las opciones de "Frame:", al inicio y final de la sección "Add Expressions", éstos "Frames",
+
+	nos permiten indicar la duración que tendrá la expresión expresada anteriormente en la duración del timeline,
+
+	relativa
+
+
+	_y en la "Frame", de "out", ó finalización por defecto biene con el valor de "infinity", más si cambiamos éste
+
+	valor ha otro, como por ejemplo; "30", entonces se desplegará una nueva sección a la derecha del panel permitiéndonos
+
+	más opciones de interpolación y de agregar nuevas expresiones
+
+
+	_así, si le damos a la opción ó botón de "Add Fade", entonces nos aparecerá un campo donde podremos indicar la duración
+
+	de la transición ó interpolación, éste es "Fade of Duration"
+
+
+	_más ahora si deseamos agregar posteriormente en el tiempo otra expresión a continuación de la expresión anterior y de 
+
+	la interpolación, tendremos que buscar la opción de del "Frame", de salida de la transión que tiene un valor de "infinity",
+
+	e indicarle un valor ej, "30"
+
+
+	_de ésta manera nos aparecerá otro módulo de expresiones a la derecha del panel donde el "Frame", inicial partirá del frame;
+
+	"60", junto donde quedó el anterior
+
+
+	_y así, en el nuevo campo de "Add Expresions", podremos agregar la nueva expresión que continuará justo donde terminará la
+
+	última transición anterior
+
+
+	_más al finalizar de ejecutarle la nueva expresión también, podremos agregar una nueva transición ó interpolación si así, lo
+
+	consideramos conveniente ó no y de ésta manera podremos repetir todo el proceso de nuevo
+
+
+	_y para finalizar el proceso debemos de tener la layer, respectiva y la propiedad de trabajo ej; "Transition", e ir al panel
+
+	"Expression Timeline2", y darle ha "Apply"
+
+
+	_de ésta manera podremos ver que al reproducir el timeline, las animaciones se realizarán tomando en cuenta las expresiones y 
+
+	sus correlaciones en el tiempo así, como sus respectivas transiciones ó interpolaciones
+
+	

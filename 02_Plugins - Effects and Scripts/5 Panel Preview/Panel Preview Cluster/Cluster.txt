@@ -1,0 +1,156 @@
+
+
+http://videohive.net/item/cluster-v20/9205447?s_rank=51
+
+	
+	Cluster v2.0 Tutorials 001: Basics
+
+		https://www.youtube.com/watch?v=Xn1xNbdcb-o&list=PLRA_e93qzQGj6tDU6H87IJtSWtoKSRk0u
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/Cluster:
+
+
+
+	_éste permite hacer conexiones entre layers, ha modo similar ha plexus, ó layer conection, especialmente
+
+	útil para diferentes procesos de relacionamientos y motion graphycs, otros
+
+
+	
+	Workflow:
+	_________
+
+
+	_primero debemos crear un composición de trabajo
+
+
+	_así, como también, unas layer, de trabajo como ej, shapes, las cuales pueden estar animadas ó no
+
+
+
+	Controllers:
+	____________
+
+	_para a continuación crear primeramente un controlador a la escena, para ésto, vamos al panel "Cluster",
+
+	y le damos ha "Controllers", si éste no está visible debemos darle el shuche, que está en la parte izuquierda
+
+	del panel
+
+
+	_de ésta manera se nos abrirá el panel de "Controllers", en el cuál, podremos crear un nuevo controller a través,
+
+	de un ícono de más "+", en la parte derecha media del panel, de ésta manera seleccionaremos el controller que éste
+
+	genere en el panel y le daremos ok, así, éste respectivo controler se agregará a la escena en el timeline
+
+
+	_éste respectivo controller, en un null object, el cuál, contendrá todos los controles para el sistema a través, del
+
+	panel de control de efectos podremos acceder a todos sus controles
+
+
+
+	Path:
+	_____
+
+	_y ahora debemos seleccionar el criterio y tipo de forma de curva ha generar entre las layers, ha relacionar para ésto,
+
+	debemos ir al panel "Cluster", y hacer mouse left click, sobre el suiche, a la izquierda del panel para así, hacer visibles
+
+	las opciones de "tipo de conección" y "tipo de curvas", en éste caso iremos ha las opciones de "tipo de curvas", las cuales
+
+	están en la parte derecha del panel las cuales son las siguientes:
+
+
+		_trazado punteado:
+
+			_ésta opción generará conexiones con trazo punteado "dashed"
+
+
+		_trazado lineal:
+
+			_ésta opción generará conexiones con trazo lineal y liso "linear"
+
+
+		_trazado curvo:
+
+			_ésta opción generará conexiones con trazos curvos "curve"
+
+
+			_al seleccionar ésta opción se nos abrirá una ventana contextual en la cuál, podremos
+
+			indicar la dureza ó calidad de la curva ha generar, otros
+
+
+			_y ya generado el sistema con éste criterio nos apacerán en el viewport, unos "dots", 
+
+			a través, de "guide layers", los cuales harán de handles, y podremos mover y ajustar
+
+			en el viewport, para controlar a través, de éstos las parábolas de las curvas ya generadas
+
+
+
+	Conecion:
+	_________
+
+	_para luego seleccionar ó indicar el tipo de acción ó criterio que tendrá el sistema en 
+
+	relación a la ubicación y disposición de las layers, y a sus relaciones ó conexiones, 
+
+	para ésto el sistema nos ofrece las siguientes opciones:
+
+	
+		_linear connection:
+
+			_ésta opción buscará al elemento más cercano y lo relacionará a través un trazado
+
+
+		_parent connection:
+
+			_ésta opción buscará primero al elemento hijo más cercano y lo relacionará a través 
+
+			un trazado
+
+
+		_recursion connection:
+
+			_ésta opción buscará a cualquier elemento y lo relacionará a través un trazado
+
+
+
+	Creación del sistema:
+	_____________________
+
+	_ahora para genera el sistema y relacionamiento de las layers, con los criterios seleccionados primero
+
+	debemos seleccionar las layers, en el orden que desiemos si desiamos que éstas se relacionen en algún 
+
+	orden en específico
+
+
+	_para luego, con las layers, deseadas seleccionadas, ir al panel "Cluster", y primero seleccionar el tipo
+
+	de trabajo ha generar para seleccionar el tipo de conexión ha generar y en ese punto se comenzará ha crear
+
+	el sistema de relacionamiento de layers, a través, de una ventana contextual la cuál, nos indicará el proceso
+
+
+	_y así, al terminar éste proceso podremos ver que las layers, ya estarán relacionadas por medio de los criterios
+
+	seleccionados en los pasos anteriores
+
+
+	_también, tenemos la posibilidad de crear varios controles con las mismas layers, ó con otras ó mixtas con
+
+	diferentes criterios para lograr diferentes efectos avanzados, otros 
+	
+
+	
+

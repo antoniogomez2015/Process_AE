@@ -1,0 +1,138 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá ha modo de kernel ó núcleo poder a partir de éste crear diferentes efectos como
+
+	una matriz compositiva en la cuál, podremos crear los siguientes tipos de efectos;
+
+		
+		_gaussian blur, sharpen, emboss and find edges, endless
+
+
+	_para lo cuál, dispondremos de una grilla de controles de líneas de tres controles cada una
+
+	
+	_donde le comportamiento de los cntroles en cada línea es idéntica a la anterior con la unica distición
+
+	que los efectos será acumulativos
+
+
+	_lo que quiere decir que si en la primera línea logramos un efecto sharpen, en la siguiente línea lo 
+
+	podremos intensificar ó modificar a través, del efecto contrario ó a través, otro efecto agregado en esa
+
+	línea y en la siguiente
+
+
+	_de ésta manera, podremos que podremos componer nuestros propios efecto en éste sistema de efectos bases
+
+
+
+
+	Workflow:
+
+	_de ésta manera, por ejemplo: para crear un efecto de desenfoque debemos de mover el control de 
+
+	"Line 1 / 3-L1"
+
+
+	_miestras que para hacer enfoque ó sharpen, debemos de mover el control de "Line 1 / 3-L1", de forma
+
+	negativa ó asignando valores negativos, de igual menera 
+
+
+	_podremos hacer con el resto de controles los cuáles, tienen diferentes criterios en relación ha si 
+
+	aplicamos valores positivos ó negativo
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Kernel:  (CC Kernel)
+	__________
+
+
+		_Line 1:
+
+			_1-L1:
+
+				_control de parámetro de la grilla de efectos
+
+			_2-L1:
+
+				_control de parámetro de la grilla de efectos
+
+
+			_3-L1:
+
+				_control de parámetro de la grilla de efectos
+
+
+		_Line 2:
+
+			_1-L2:
+
+				_control de parámetro de la grilla de efectos
+
+			_2-L2:
+
+				_control de parámetro de la grilla de efectos
+
+
+			_3-L2:
+
+				_control de parámetro de la grilla de efectos
+
+
+		_Line 3:
+
+			_1-L3:
+
+				_control de parámetro de la grilla de efectos
+
+			_2-L3:
+
+				_control de parámetro de la grilla de efectos
+
+
+			_3-L3:
+
+				_control de parámetro de la grilla de efectos
+
+
+
+
+
+
+
+

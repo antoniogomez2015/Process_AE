@@ -1,0 +1,275 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos pemritirá 
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Foam: (CC Foam)
+	________
+
+
+		View:
+
+			_Rendered:
+
+				_
+
+
+			_Draft:
+
+				_
+
+
+			_Draft + Flow Map:
+
+				_
+
+
+
+		Producer:
+
+
+			_Producer Point:
+
+				_
+
+
+			_Producer X | Y:
+
+				_
+
+
+			_Producer Orientation:
+
+				_
+
+
+			_Zoom Producer Point:
+
+				_
+
+			_Production Rate:
+
+				_
+
+
+
+		Bubbles:
+
+
+			_Size:
+
+				_
+
+
+			_Size Variance:
+
+				_
+
+
+			_Lifespan:
+
+				_
+
+
+			_Bubble Growth Speed:
+
+				_
+
+
+			_Strength:
+
+				_
+
+
+
+		Physics:
+
+
+			_Initial Speed:
+
+				_
+
+
+			_Initial Direction:
+
+				_
+
+
+			_Wind Speed:
+
+				_
+
+
+			_Wind Direction:
+
+				_
+
+
+			_Turbulence:
+
+				_
+
+
+			_Wobble Amount:
+
+				_
+
+
+			_Repulsion:
+
+				_
+
+
+			_Pop Velocity:
+
+				_
+
+
+			_Viscosity:
+
+				_
+
+
+			_Zoom:
+
+				_
+
+
+			_Universe Size:
+
+				_
+
+
+
+		Rendering:
+
+
+			_Blend Mode:
+
+
+				_Transparent:
+
+					_
+
+
+				_Solid Old in Top:
+
+					_
+
+
+				_Solid New on Top:
+
+					_
+
+
+
+			_Bubble Texture:
+
+				_
+
+
+			_Bubble Texture Layer:
+
+				_
+
+
+
+			Bubble Orientation:
+
+
+				_Fixed:
+
+					_
+
+
+				_Physical Orientation:
+
+					_
+
+
+				_Bubble Velocity:
+
+					_
+
+
+
+			Flow Map:
+
+
+				_Flow Map:
+
+					_
+
+
+				_Flow Map Sleepness:
+
+					_
+
+
+				_Flow Map Fits:
+
+					_
+
+
+				_Simulation Quality:
+
+					_
+
+
+				_Random Seed:
+
+					_
+
+
+
+
+
+
+
+
+
+
+
+

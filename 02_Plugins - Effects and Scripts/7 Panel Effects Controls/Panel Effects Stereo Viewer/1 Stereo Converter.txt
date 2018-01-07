@@ -1,0 +1,129 @@
+
+
+-no hay web actual para éste plugins-
+
+
+	éste parece una versión inicial del plugins "Evil Twin Stereo 3D"
+
+		http://aescripts.com/evil-twin-stereo-3d/
+
+
+	Tutorial:
+
+		Stereoscopic 3D Workflow in After Effects - Tutorial Part 1
+
+			https://www.youtube.com/watch?v=fJUMy4fvHOY&t=128s
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Stereo Converter:
+
+
+	Paso: 1 | Stereo Converter:
+
+
+	-éste es el primer paso del procedo en la serie de plugins "Stereo", ya que el plugins, específicamente
+
+	nos permitirá duplicar una composición existente ha modo de reflejo más unos controles adicionales en cada
+
+	composición los cuáles, nos permitirán ajustar la separación de cámara de forma sincronizada
+
+	
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener creadas dos composiciones creadas de trabajo, una para cada lado del efecto de
+
+	estereoscopia 3d, así, de ésta manera, tendremos que crear un composición para el lado "Left"
+
+
+	_así, como también, tendremos que crear las layers, que tendrán éstas respectivas composiciones 
+
+	"Left"	
+
+
+	_"stereo converter", nos permitirá convertir una composición del panel proyecto en una composición opuesta
+
+	por ejemplo, si escogemos una composición llamada "Left", el sistema nos generará otra composición a partir
+
+	de ésta llamada "RIGHT"
+
+
+
+	Paralax:
+
+	_para luego abrir la nueva composición generada "RIGHT", y buscar la primera layer, con el nombre de "Null2", 
+
+	por ejemplo la cuál, es una nueva layer, agregada de tipo null object, en la cuál, dispondremos de una slider,
+
+	a través, del cuál, podremos ajustar ó variar la distancia entre cámaras entre composiciones left-right
+
+
+	_más éstos cambios de desface de cámara no serán visibles de inmediato que los hagamos sino que tendremos que 
+
+	volver ha generar la composición reflejada "RIGHT", para lo cuál, tendremos que volver al panel 
+
+	"Stereo Converter", y hacer "Generate Right Comp", nuevamente para que así, el sistema nos genere otra nueva 
+
+	composción llamada "RIGHT RIGHT", la cuál, debemos abrir y empezar a trabajar con ésta y no con la "RIGHT", ya
+
+	que en ésta nueva composición "RIGHT RIGHT", si podremos ver el desface a la hora de comparar ésta con la 
+
+	composición "Left"
+
+	
+	
+
+	Stereo  Converter:
+	__________________
+
+	
+		_Automatic Naming:
+
+			_ésta opción permite que el sistema renombre los archivos resultantes de forma automática
+
+		
+		_Auto Link Properties:
+
+			_ésta opción permite que el sistema relacione ambas composiciones, tanto la composición LEFT,
+
+			como la composición RIGHT, y sus respectivas layers, de el control de distacia de cámara así,
+
+			como también, con todo el sistema que se generará posteriormente a través, del plugins 
+
+			"STEREO VIEWER"
+
+		
+			_de ésta manera, podremos posteriormente animar cualquier layer, ó la cámara, ó una luz, en la
+
+			composición LEFT, y todos éstos cambios se actualizarán en la composición RIGHT, y por ende en
+
+			todas las composiciones del proceso stereoscophyc, del proceso del plugins "STEREO VEWER"
+
+
+		_Mark As Footage:
+
+			_(indeterminado)
+
+
+		_Unmark As Footage:
+
+			_(indeterminado)
+
+
+		_Generate Right Comp:
+
+			_éste botón permite generar el sistema de duplicación de composición y layers, relacionales
+
+
+
+

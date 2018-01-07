@@ -1,0 +1,31 @@
+
+
+
+
+RD, serie de escripts, gratuitos http://www.redefinery.com/   http://www.redefinery.com/ae/view.php?item=rd_Approximate
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+RD Preservation
+
+
+	este escript, tiene como objetivo conservar las caracteristicas del ' frame rate', y 'resolution', cuando una 
+
+	composicion es enviada al render queve 
+
+
+
+WorkFlow
+---------
+
+
+	Este script muestra una paleta con controles para cambiar el "Preservar la velocidad de fotogramas 
+
+	cuando anidados o en la cola de render" y "Conservar resolución cuando anidado" opciones en Ajustes 
+
+	de composición para múltiples composiciones seleccionadas.

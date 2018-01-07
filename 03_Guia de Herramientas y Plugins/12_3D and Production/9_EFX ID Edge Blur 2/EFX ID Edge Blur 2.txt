@@ -1,0 +1,112 @@
+
+
+
+EFX ID Edge Blur 2
+
+
+	Referencia:
+
+		http://aescripts.com/efx-render-elements-z-depth-tools/   https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite desenfocar los border un map, como por ejemplo un "ID Map", para que así suavicemos la acutancia 
+
+	entre los planos, reservas ó colores, así como también para suavizar los border de cualquier otro map
+
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer desenfoques y suavizados más realistas a los bordes especialmente para un "ID Map", más también,
+
+	es posible utilizarse para otro tipos de maps, con bordes duros
+
+
+	_ésto es especialmente útil para hacer procesos en producción con mucha más calidad entre otras posibilidades
+
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+
+	_primero debemos tener una composición de trabajo previamente creada
+
+
+
+ID Blur:
+________
+
+	_luego debemos incorporar los maps, respectivos en la composición de trabajo, en éste caso en "diffuse map",
+
+	como mapa base al cuál, se agregaremos el plugins "Effects EFX RE/EFX_ID Blur 10"
+
+
+	_así, se entiende que al render map, al cuál, le apliquemos el filtro "ID Blur 10", será el mapa corregido
+
+
+
+ID Pass:
+________
+
+
+	_para luego en las opciones del plugins ir a las opciones de "ID Pass:", y seleccionar el "ID Map", de 
+
+	la composición de render que tendremos que tener previamente en la respectiva composición
+
+
+
+Options:
+________
+
+
+	_así, podremos ir variando los valores de tolerancia para ir ajustando el pass, de acuerdo con los valores
+
+	en el sistema de EFX ID Edge Blur 2, éstos son:
+
+
+	_Blur:
+
+		_éste permite indicar la cantidad de desenfoque general
+
+
+	_ID Tolerance:
+
+		_éste permite indicar la cantidad de desenfoque por tolerancia a partir de id map
+
+	
+	_Mix Amount:
+
+		_éste permite ajustar cantidad de desenfoque mezclado de forma relativa
+
+
+
+Resultado:
+__________
+
+
+	_de ésta manera al final tendremos un desenfoque relativo y selectivo sólo para los border del map, en
+
+	relación ha sus colores ó planos ó acutancia relativa
+
+
+	_tmabién, podremos ver visualizaciones especiales donde sólo podremos ver los bordes de manera aislada 
+
+	para observar así los resultados de integración de imágen
+
+

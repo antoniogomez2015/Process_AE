@@ -1,0 +1,167 @@
+
+
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+		DEFlicker Tutorials/Playong List:
+
+			https://www.youtube.com/watch?v=ROG9Cx09xr4&list=PLJZE0COAfWUXTkWdhbkaO5GflW3hWJZ4h
+
+
+		RE:Flex (17 Videos)
+
+			https://www.youtube.com/playlist?list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v
+
+
+		RE:Flex Morph - Morphing between moving images
+
+			https://www.youtube.com/watch?v=t0lcSHYiOJg&list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v&index=2
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE:VisionFx RE: Map Inverse UV:
+_______________________________
+
+
+	_éste efecto nos permitirá invertir un mapa de tipo uvmap, de ésta manera, podremos lograr efectos de remapeo uv,
+
+	360, e inversos de forma práctica y directa
+
+
+
+
+	RE: Map Inverse UV Options:
+	___________________________
+
+
+	_Display:
+
+
+		_Inverse UV Map:
+
+			_ésta opción nos permite visualizar el mapa resultante de forma invertida ó el mapa resultante final
+
+
+		_UV W/Edges. Thresh:
+
+			_ésta opción nos permitirá visualizar el mapa original de uvs, ó layer, base
+
+
+		_Check UVs:
+
+			_ésta opción nos permitirá visualizar los uvs, de la geometría 3d, referencial ha modo de vertex
+
+
+
+	_Color Src:
+
+		_ésta opción nos permitirá seleccionar una layer, la cuál, será tomada como material diffuse, el cuál, será
+
+		mostrado como mapa resultante, por ende es recomendable seleccionar la misma layer, de uvmap, la cuál,
+
+		deseamos invertir para un 360, otros
+
+
+
+	_Mode:
+
+
+		_Mesh:
+
+			_ésta opción nos permitirá visualizar ó renderizar el mapa resultante ha modo de mapa sólido sin 
+
+			espacio tramado
+
+
+		_Point Sample:
+
+			_ésta opción nos permitirá visualizar ó renderizar el mapa resultante ha modo de mapa tramado 
+
+			ó points
+
+
+
+	_Edges Threshold %:
+
+		_ésta opción nos permitirá mejorar el tramado de los border y la acutancia con el fondo
+
+
+	_Alpha Threshold %:
+
+		_ésta opción nos permitirá mejorar el umbral en las áreas de recorte cuando los mapas ó texturas tienen
+
+		asignado un canal ó composición alpha
+
+
+		_para que así, éstos bordes estén más suavizados con un tramado más suavizado en relación a las demás
+
+		layers, de la composición respectiva
+
+
+	_Fill:
+
+		_ésta opción nos permitirá rellenar todo el viewport, del mapa uv, respectivo de forma plana y extendida
+
+		sin tomar en cuenta la directrices uvs, intríncicas en el mapa
+
+
+	_Anti-Alias:
+
+		_ésta opción nos permitirá seleccionar un algoritmo para el suavizado de bordes general de ésta maenra,
+
+		dispondremos de las opciones "1x1, 2x2, 3x3, 4x4", para mejorar el aspecto general de los pixeles resultantes
+
+
+	_AA Method:
+
+		_ésta opción nos pemritirá seleccionar el método ó criterio de acción que tendrán las opciones 
+
+		de antialiasing, de ésta manera, dispondremos de las opciones 
+
+
+			_"Faster", la cuál, la opción predeterminada la cuál, creará un suavizado de pixeles general sobre 
+
+			la imágen resultante 
+
+
+			_más también, dispondremos de la opción "Less Memory", la cuál, nos permitirá lograr un suavizado
+
+			de menor calidad más éste requerirá menos requerimientos de memoria en el sistema ó nuestro equipo
+
+
+	_Output Width:
+
+		_ésta opción nos permitirá redimensionar el ancho del mapa generado en el viewport, de ésta manera, podremos
+
+		ajustar el mapa resultante el cuál, podremos pre componer para luego utilizarlo en diferentes procesos
+
+
+	_Output Height:
+
+		_ésta opción nos permitirá redimensionar el alto del mapa generado en el viewport, de ésta manera, podremos
+
+		ajustar el mapa resultante el cuál, podremos pre componer para luego utilizarlo en diferentes procesos
+
+
+
+
+
+
+

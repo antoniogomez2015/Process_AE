@@ -1,0 +1,23 @@
+
+
+Panel nativo de after effects
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/Preview:
+
+
+
+	_éste permite controlar la previsualización del viewport, y forma de reproducción y avance entre 
+
+	frame rate, resolución, tamaño, otras opciones disponibles
+
+	
+	
+
+
+

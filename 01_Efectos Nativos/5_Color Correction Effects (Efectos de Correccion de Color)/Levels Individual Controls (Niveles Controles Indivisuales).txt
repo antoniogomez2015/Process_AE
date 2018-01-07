@@ -1,0 +1,140 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto levels Individual Controls. nos permtirá hacer los mismos tipos de ajustes y correcciones que
+
+	el efecto de levels, simple ó convencional
+
+
+	_con las diferencias de que ésta versión del plugins levels, nos permitirá tener a la mano en la misma
+
+	áreas los controles de edición por canal para que así, dispongamos la edición por canal de la manera, 
+
+	convencional a través, del selector chanels 
+
+
+	_más ahora también, dispondremos de los controles "Red, Green, Blue, Alpha", seguido del control 
+
+	convencional de "RGB", global
+
+
+	_lo que nos permitirá ahora realizar ajustes multiples ha modo de dos monitores donde ahora podremos hacer 
+
+	ajustes globales a través, del gráfico y en el modo "RGB" 
+
+
+	_y a su vez, podremos hacer micros ajustes en las opciones inferiores de la edición por canal a través, 
+
+	de los controles agregados adicionalmente en ésta versión del efecto levels
+
+
+	_a parte de éstas características adicionales todos los controles de ésta versión del efecto son idénticas
+
+	a la versión simple ó convencional del efecto
+
+
+
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Levels Individual Controls: (Niveles Controles Indivisuales)
+	___________________________
+
+
+		_Input Black:
+
+			_éste rando los nospermitirá indicar el punto de entrada de gamma ó "Gain", de 
+
+			la saturación, sombras ó negros de la imágen original a través, de un valor inicial 
+
+			de "0"
+
+
+		_Input White:
+
+			_éste rango los nos permitirá indicar el punto de salida de gamma ó "Pedestal", 
+
+			de los brillos, luminocidad ó blancos de la imágen original a través, de un valor 
+
+			inicial de "255"
+
+
+		_Gamma:
+
+			_éste rango los nos permitirá indicar el punto intermedio de "gamma", de los medios 
+
+			tonos de la imágen original a través, de un valor inicial de "1"
+
+
+		_Output Black:
+
+			_éste rango nos permitirá marginar la gamma tonal en punto de entrada ó "Gain", 
+
+			para marginar ó corregir el espectro y gamma resultante
+
+
+		_Output White:
+
+			_éste rango nos permitirá marginar la gamma tonal en punto de salida ó "Pedestal", 
+
+			para marginar ó corregir el espectro y gamma resultante
+
+
+		_Clip TO Output Black:
+
+			_ésta opción nos permitirá crear entrada de ganna, en alta resolución ha 32bits,
+
+			para el punto de entrada ó "Gain", ó saturación, sombras y negros de la imágen
+
+
+		_Clip To Output White:
+
+			_ésta opción nos permitirá crear salida de ganna, en alta resolución ha 32bits,
+
+			para el punto de salida ó "Pedestal", ó Brillos, altas luces ó blancos de la 
+
+			imágen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

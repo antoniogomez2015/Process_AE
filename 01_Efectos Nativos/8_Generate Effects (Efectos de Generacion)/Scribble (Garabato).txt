@@ -1,0 +1,287 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria rellenar un layer, ó máscara tanto en un relleno ó contorno ó área perimetral
+
+	de ésta manera, podremos rellenar el área determinada por un esbozo de línias discontínuas las cuáles, 
+
+	emulan la escritura ha mano alzada
+
+
+	_la cuál, puede ser animable y tener diferentes comportaminetos y aspectos para diferentes aplicaciones para
+
+	producción y efectos de paso contínuo para otros procesos posibles
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Scribble: (Garabato)
+	_________
+
+
+		_Scribble:
+
+			_ésta opción nos permitirá indicar si desemos utilizar una única máscara seleccionada ó 
+
+			utilizar todas las máscaras existentes en la repectiva layer
+
+
+		_Mask:
+
+			_ésta opción nos permitirá seleccionar una de las máscaras existentes en la respectiva
+
+			layer, la cuál, será utilizada para la generación del sistema
+
+
+		_Fill Type:
+
+			_ésta opción nos permitirá indicar el tipo de criterio de acción para la generación del
+
+			sistema de ésta manera, dispondremos de los siguientes modos:
+
+
+				_Inside:
+
+					_ésta opción nos pemritirá generar el sistema dentro del área perimetral
+
+					de la respectiva máscara sobre la cuál, se ha generado el sistema
+
+
+				_Centered Edge:
+
+					_ésta opción nos permitirá generar el sistema de forma comprimida y 
+
+					simplificada sobre la línea perimetral en su parte central de la máscara sobre 
+
+					la cuál, está generado el sistema
+
+
+				_Inside Edge:
+
+					_ésta opción nos permitirá generar el sistema de forma comprimida y 
+
+					simplificada sobre la línea perimetral pero en su parte interna de la máscara 
+
+					sobre la cuál, está generado el sistema
+
+
+				_Outside Edge:
+
+					_ésta opción nos permitirá generar el sistema de forma comprimida y 
+
+					simplificada sobre la línea perimetral pero en su parte externa de la máscara 
+
+					sobre la cuál, está generado el sistema
+
+
+				_Left Edge:
+
+					_ésta opción volcará todo el sistema virado hacia la izquierda y en el área 
+
+					perimetral de la máscara sobre la cuál, se ha generado el sistema
+
+
+				_Right Edge:
+
+					_ésta opción volcará todo el sistema virado hacia la derecha y en el área 
+
+					perimetral de la máscara sobre la cuál, se ha generado el sistema
+
+
+		_Color:
+
+			_ésta opción nos permitirá indicar un color personalizado para el sistema
+
+
+		_Opacity:
+
+			_ésta opción nos pemritirá graduar la opacidad del sistema
+
+
+		_Angle:
+
+			_ésta opción nos permitirá cabiar ó variar el ángulo de las ondulaciones del sistema
+
+
+		_Stroke Width:
+
+			_ésta opción nos permitirá graduar ó variar el ancho de las líneas ó que conforman el
+
+			sistema
+
+		
+		_Curviness:
+
+			_ésta opción nos permitirá hacer curvas las zonas angulares de las respectivas ondulaciones
+
+			generadas por el sistema de ésta manera, podremos generar un sistema en ángulos ó en ondas
+
+
+		_Curviness Variation:
+
+			_ésta opción nos permitirá agregar variación al sistema en relación a la capacidad de curvas
+
+			las ondulaciones del sistema lo cuál, creará aleatoriedad en el sistema de forma crítica
+
+
+		_Spacing:
+
+			_ésta opción nos permitirá aumentar ó disminuir la resolución del sistema lo cuál, permitirá
+
+			tener más ó menos ondas en el sistema en relación al efecto deseado
+
+
+			_lo cuál, nos permitirá hacer efectos tanto de escritura, rellenado, ó hasta efecto de
+
+			"mayonesa", "fluidos", otros
+
+
+		_Path Overlap:
+
+			_ésta opción nos permitirá expandir ó retraer el sistema en relación al área perimetral 
+
+			del sistema en relación a la máscara de trabajo utilizada para generar el sistema
+
+
+		_Path Overlap Variation:
+
+			_ésta opción nos permitirá crear variación en la disposición de las ondas dentro del 
+
+			sistema en relación al área perimetral de la máscara de trabajo sobre la cuál, se ha 
+
+			generado el sistema
+
+
+		_Start:
+
+			_ésta opción nos permitirá animar el sistema a modo de "Trim Path", de las shape layers,
+
+			desde el inicio hasta el final del sistema
+
+
+		_End:
+
+			_ésta opción nos permitirá animar el sistema a modo de "Trim Path", de las shape layers,
+
+			desde el final hasta el principio del sistema
+
+
+		_Fill Paths Sequientialy:
+
+			_(Indeterminado)
+
+
+		_Wiggle Type:
+
+			_ésta opción nos permitirá seleccionar el tipo de interacción del sistema de ésta manera,
+
+			podremos crear un sistema interactivo ó vibrante ó estático para lo cuál, disponemos de las
+
+			siguientes opciones:
+
+
+				_Static:
+
+					_ésta opción nos permitirá crear un sistema estático el cuál, no vibrará ó
+
+					tendrá oxilaciones para determinados efectos
+
+
+				_Jumpy:
+
+					_ésta opción nos permitirá crear un sistema dinámnico ó con movimiento el cuál,
+
+					se moverá ó tendrá un exitanción constante y tendrá oxilaciones para determinados 
+
+					efectos
+
+
+				_Smooth:
+
+					_ésta opción nos permitirá crear un sistema dinámnico ó con movimiento el cuál,
+
+					se moverá ó tendrá un exitanción constante y tendrá oxilaciones para determinados 
+
+					efectos aunque de forma suavizada
+
+
+		_Wiggle/Second:
+
+			_en ésta opción podremos graduar el nivel de oxilaciones del sistema así, podremos crear un sistema
+
+			más ó menos dinámico ó con más vibración en relación a nuestras necesidades
+
+
+		_Random Seed:
+
+			_ésta opción nos permitirá indicar una cantidad de variación u oxilación inicial para el sistema
+
+
+		_Composite:
+
+			_ésta opción nos permitirá seleccionar el modo de renderización y composición del sistema en relación
+
+			a la layer, sobre la cuál, está creado y las demás layers, de la composición respectiva para lo cuál,
+
+			dispondremos de las siguientes opciones:
+
+
+				_On original Image:
+
+					_ésta opción nos permitirá mostrar tanto la layer, sobre la cuál, se ha aplicado el 
+
+					sistema así, como también, el propio sistema a través, de su color seleccionado
+
+
+				_On Transparent:
+
+					_ésta opción nos permitirá mostrar el sistema a través, del color seleccionado ocultando 
+
+					la visibilidad de la layer, sobre la cuál, se ha generado el sistema
+
+
+				_Reveal Original Image:
+
+					_ésta opción nos permitirá mostrar la layer, sobre la cuál, se ha generado el sistema a 
+
+					través, del sistema generado a modo de máscara ó matte
+
+
+
+		
+
+
+

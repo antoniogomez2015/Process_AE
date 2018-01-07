@@ -1,0 +1,180 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá ampliar áreas de una imágen por medio de figuras geométricas definida báses
+
+
+	_lo cuál, es especialmente útil para hacer procesos de resaltado, estilismo en composición de planos, otros
+
+
+	_para también, para hacer reservas ó aislamientos a través, de la opción de "Blending Mode/Node", dentro
+
+	de las opciones del efecto para que así, todo se enmascare y sólo sea visible el área ampliada
+
+
+
+	
+	
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Magnify: (Aumentar)
+	________
+
+
+		_Shape:
+
+			_ésta opción nos permnitirá seleccionar el tipo de forma base a partir de la cuál, se
+
+			generará el efecto de magnificación
+
+
+			_entre las cuáles, dispondremos de "Circle", circular y "Square", cuadrada
+
+
+		_Center:
+
+			_ésta opción nos permitirá indicar la posición del sistema de maginificación sober la
+
+			imágen ó layer
+
+
+		_Magnification:
+
+			_ésta opción nos permitirá indicar la grado de magnificación sobre la imágen original
+
+
+		_Link:
+
+			_ésta opción nos pemrnitirá indicar si deseamos emparentar el tamaño del sistema con
+
+			algotra propiedad como las siguientes:
+
+
+				_None:
+
+					_ésta es la opción por defecto la cuál, no realiza ningún relacionamiento
+
+
+				_Size To Magnification:
+
+					_ésta opción relaciona el tamaño del sistema con el grado de magnificación
+
+					así, cuando aumentemos el grado de magnificación también, aumentará el 
+
+					tamaño del sistema de forma automática
+
+
+				_Size & Feather To Magnification:
+
+					_ésta opción relaciona tanto el tamaño como el calado del sistema con el 
+
+					grado de magnificación así, cuando aumentemos el grado de magnificación 
+
+					también, aumentará el tamaño del sistema de forma automática
+
+
+		_Size:
+
+			_ésta opción nos pemrnitirá indicar el tammaño del sistema de forma manual
+
+
+		_Feather:
+
+			_ésta opción nos pemritirá indicar una magnitud ó tamaño para el calado ó acutancia del 
+
+			sistema en relación a la imágen original
+
+
+		_Opacity:
+
+			_ésta opción nos permitirá integrar el efecto con la imágen original permitiéndonos
+
+			graduar la opacidad del sistema
+
+
+		_Scaling:
+
+			_ésta opción nos pemitirá indicar el tipo de interpolación de difuminación para el 
+
+			efecto de feather, de ésta manera, podremos seleccionar entre los siguintes tipos:
+
+
+				_Standard:
+
+					_ésta es la interpolación estandar y más recomendado para la mayoría 
+
+					de los casos
+
+
+				_Soft:
+
+					_ésta es una interpolación más suavizada, recomendada para calados 
+
+					muy grandes y acusados
+
+
+				_Scatter:
+
+					-ésta es una interpolació con ruido de pixel la cuál, es recomendado
+
+					sólo para lograr cierto tipos de efectos
+
+
+		_Blend Mode:
+
+			_a través, de ésta opción podremos seleccionar un modo de fusión los cuáles, son los
+
+			mismo que disponesmo de forma nativa en el sistema de layer blend mode
+
+
+		_Resize Layer:
+
+			_(indeterminado)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

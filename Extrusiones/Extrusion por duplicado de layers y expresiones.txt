@@ -1,0 +1,33 @@
+
+
+
+	Extrusion por duplicado de layers y expresiones
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	_para ésto, debemos tener creada una composición de trabajo así, como también, una layer motivo
+
+
+	_a la cuál, en su propiedad de "Position", le activaremos sus propiedades de expresiones, haciendo
+
+	"Alt + Mouse left click", sobre el ícono de reloj, de ésta
+
+
+	_para luego pegar la siguiente expresión en el respectivo campo de expresiones:
+
+
+		"(position+[0,0,(index)*1.0]);"
+
+
+	_para por último, proceder ha duplicar ésta layer, a la cuál, le hemos aplicado la respectiva expresión
+
+	a través, del shortcut "Control + D", pero antes, debemos activarle ha ésta respectiva layer, la ropiedad
+
+	3d, para luego si proceder con el proceso de duplicación, de ésta manera podremos ver que las nuevas 
+	layers, duplicadas se irán duplicando en una posición desplazada en la cordenada "Z", en un pixel, para 
+	que así, de ésta manera logremos el efecto espacial de volumen aumentado 3d, como un efecto de grosor ó 
+	extrusión
+
+		

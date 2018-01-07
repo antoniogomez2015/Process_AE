@@ -1,0 +1,169 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá crear efectos de fusión de layers, más con un enfoque aún más ámplio que los efectos
+
+	"blend", y "calculation", de ésta misma sección de efectos de "channels"
+
+
+	_de ésta manera, podremos utilizar éste efecto para diferentes tipo de combinaciones y creterios en relación
+
+	a los objetivos deseados
+
+
+	_ya que podremos trabajar con una sóla layer, la cuál, será la misma layer, a la cuál, le hemos aplicado el
+
+	efecto
+
+
+	_una diferencia sustancial de éste efecto en relación con el efecto de "Calculation", es que el efecto de
+
+	"Channel Combiner", no dispone de modos de fusión integrados, ni simplificados ni los nativos de la 
+
+	aplicación
+
+
+	_y no que en cambio hace la fusión de canales en relación a sus propios algoritmos de funcionamiento interno
+
+	en relación a los canales seleccionados, espacios de color ó filtros seleccionados
+
+
+
+
+	Mezcla de canales:
+
+	_pudiéndo así, potenciar canal de ésta misma layer, por ejemplo; podríamos tomar el canal de los rojos y con
+
+	éste potenciar un canal resultante de "Hue", tono saturación y brillo para posteriormente utilizar éste 
+
+	canal resultando como un resultado final ó para trabajar con éste canal resultante en otros efectos ha modo
+
+	paso contínuo
+
+
+
+
+	Virados y espacios de color:
+
+	_ó incluso más aún seguiendo éste mismo ámbito podría converitr un espacio de color de los canales de color
+
+	de ésta layer, ha otro espacio de color logrando así, virados de color tando en los canales en si como en la
+
+	gamma tonal
+
+
+	_por ejemplo podríamos converitr el espacio de color de "RGB to HLS", para conseguir así, efectos de 
+
+	posteriozado y virados de color inesperados y hasta armónicos dependiendo de la imágen como recurso 
+
+	utilizado
+
+
+	
+
+	Compositing Layers:
+
+	_ó incluso podríamos utilizar una layer, complementaria al sistema para extraer de ésta un canal específico
+
+	el cuál, podría ser un canal de color ó un canal combinado ó incluso un canal alpha, ó de luminancia, otros
+
+
+	_el cuál, podría combinar con otro canal de la layer, base para que así, podamos optener un canal complejo
+
+	como canal resultante ó un canal potenciado el cuál, ahora ha heredado un canal alpha, u algotra propiedad
+
+	que lo hace más potente para un proceso determinado, otros
+
+
+	
+	Análisis:
+
+	_éste efecto es especialmete útil para composiciones y efectos complejos y compuestos los cuáles requieren
+
+	un nivelde integración control completo en las variaciones de canales y flujos en relación a los efecos
+
+	deseados
+
+
+	
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Channel Combiner: (Combinador de Canales)
+	_________________
+
+	_Use 2nd Layer:
+
+		_ésta sección nos permitirá indicar si deseamos trabajar con una sóla layer, ó con dos layeres, ó 
+
+		una layer, adicional complementaria
+
+
+	_Source Layer:
+
+		_éste valor nos permitirá indicar la layer, complementaria ha utilizar en caso de utilizar mas de 
+
+		una layer, para generar el proceso de combinación de canales
+
+
+	_From:
+
+		_éste valor nos permitirá indicar el criterio de acción, canal, espacio de color ó filtro ha 
+
+		utilizar como punto inicial ó canal de una layer, base
+
+
+
+	_To:
+
+		_éste valor nos permitirá indicar el criterio de acción, canal, espacio de color ó filtro ha 
+
+		utilizar como punto final ó canal de una layer, de destino ó resultante 
+
+
+
+	_Invert:
+
+		_ésta opción nos permitirá invertir los canales que conforman el sistema invirtieéndo así, la gamma
+
+		tonal y liminancia del canal resultante
+
+
+
+	_Solid Apha:
+
+		_(Indeterminado)
+
+
+	
+
+
+

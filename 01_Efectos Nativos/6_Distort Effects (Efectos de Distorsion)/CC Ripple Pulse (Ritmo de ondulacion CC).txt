@@ -1,0 +1,122 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer efectos ondas concéntricas pero ha diferencia del efecto ripple, éste 
+
+	efecto nos permitirá crear el efecto de ondas concéntricas pero ha modo de "Lupa", ó colo lo hace el efecto
+
+	"Inflate", ó algunas opciones del efecto "wave warp", ó el "CC Griddler", otros
+
+
+	_de ésta manera, podremos elemento concéntricos con desface de imágen por áreas circulares especialmente 
+
+	útil para motion graphycs, constructivismo visual, producción y paso contínuo, otros
+
+
+	_y por supuesto para trabajar de forma complementario con el efecto "ripple", y los efectos de tipo 
+
+	"Drops, Pool Water, otros"
+
+
+
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Ripple Pulse: (Ritmo de ondulacion CC)
+	________________
+
+
+		_Center:
+
+			_
+
+
+		_Pulse Levels (Animate):
+
+
+			NOTE: éste es requerido que sea animado a través, de keyframes, en el timeline
+
+
+			_Utilice este control para determinar la fuerza del pulso que crea la ondulación. Esta
+
+			El control debe ser animado. Usando valores positivos, la dirección del pulso de La fuerza 
+
+			está hacia fuera desde el punto central. Usando valores negativos, la dirección de la
+
+			La fuerza del pulso está hacia dentro en el punto central 
+
+
+			_de ésta manera, con valores más altos en un keyframe, determinado en el tiempo el efecto de 
+
+			desface de la imágen por ondulación concéntrica será más grande ó notorio que con valores más 
+
+			pequeños
+
+
+		_Time Span (Sec):
+
+			_Este control determina la velocidad de la ola ondulada. "Time Span", decide cómo Muy atrás 
+
+			en el tiempo la onda se extienden. Los valores del nivel de pulso dentro de este rango serán
+
+			renderizados de igual manera
+
+
+			_ésta opción nos permitirá aumentar el pulso de ondulaciones con desfaces de ondulaciones 
+
+			previas las cuáles, incluso se superpondrán causado efectos interesantes para procesos de
+
+			motion graphycs, y producción y paso contínuo
+
+
+		_Amplitude:
+
+			_Este control determina la altura de la cresta ondulada. Valores más altos aumentan la Altura 
+
+			de la ondulación onda / distorsión. Los valores más bajos crean una ondulación más suave
+
+
+		_Render Bump Map (RGBA):
+
+			_Utilice esta casilla de verificación para especificar que la ondulación animada se vaya a
+
+			Bump mapa, que puede ser utilizado por cualquier otro plug-in que funciona con bump Mapas 
+
+			(como Glass). Con la configuración predeterminada, Render Bump Map está desactivado
+
+
+
+
+
+
+

@@ -1,0 +1,347 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos pemritirá crear efectos bases de lluvia, llovisnas, y similares de forma más acudada que 
+
+	la opción del efecto "CC Rain/CC Llovisna" más podremos configurarlo de diferentes maneras para crear incluso
+
+	un sistema de partículas y strands, abstracciones, mattes, mapas, otros
+
+
+	_para la creación de diferentes efectos de producción y paso contínuo de ésta manera, pdoremos crear efectos
+
+	de tipo hair, fur, transiciones, rios, torrentes de agua, otros
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Rainfall: (CC Rainfall)
+	____________
+
+
+		_Drops:
+
+			_ésta opción nos permitirá configurar la cantidad de gotas ó partículas generadas por el
+
+			sistema así, como la complejidad ó superposición de partículas ó gotas
+
+
+			_de ésta manera, podremos configurar las características y profusión del sistema generado
+
+			en relación a las necesidades de producción y paso contínuo
+
+
+		_Size:
+
+			_ésta opción nos permitirá indicar la longitud de cada partícula ha modo de strands, así, 
+
+			como también, éste parámetro influye en la cantidad de partículas generadas por el sistema
+
+
+			_de ésta manera, podremos crear un sistema más al estilo de partículas ó más al estilo de
+
+			strands, ó fibras ó hebras, otros
+
+
+		_Scene Depth:
+
+			_ésta opción nos permitirá hacer variaciones sobre la escala del sistema de partículas
+
+			generado de ésta manera, podremos crear un sistema más alejado y disperso ó un sistema más
+
+			proximo y detallado
+
+
+			_de ésta manera, un sistema más próximo representará un sistema de partículas ha modo de
+
+			strands, más tupido ó relleno y a su vez, con unas strands, más largas y gruesas lo que nos
+
+			permitirá a su vez, generar un sistema que se adapte a múltiples necesidades de producción
+
+
+			_a la hora de generar diferentes efectos como fibras, alfonbras, grama, terrenos, 
+
+			distorsiones, otros
+
+
+		_Speed:
+
+			_ésta opción nos permitirá controlar la velocidad de las partículas así, como también, de 
+
+			la longitud a su vez, de las partículas
+
+
+			_de ésta manera, podremos crear un sistema con apariencias más ha partículas ó ha strands,
+
+			alargadas en relación a nuestras necesidades de producción y paso contínuo
+
+
+		_Wind:
+
+			_ésta opción nos permitirá cambiar la dirección de todo el sistema de partículas ó strands,
+
+			generando así, fácilmente un cambio en la direción de todas las partículas generadas al
+
+			unísono en relación a nuestras necesidades de producción y paso contínuo
+
+
+		_Variation % (Wind):
+
+			_ésta opción agregará variaciones y aleatoriedad en todas las particulas del sistema, más en
+
+			éste caso de forma individual en unas partículas en relación a las demás partículas 
+
+			existnetes en el sistema de partículas generadas
+
+
+		_Spread:
+
+			_ésta opción nos permitirá dispersar ó separar las partículas generadas por el sistema en la
+
+			cordenada "x", u horizontal del viewport, del panel compositing, para que así, las partículas
+
+			puedan ser separadas entre si en relación a las necesidades de producción y paso contínuo
+
+
+		_Color:
+
+			_ésta opción a través, de un picker, ó un selector de color personalizado podremos indicar
+
+			un color característico a través, del cuál, podremos aplicar una dominante cromática al 
+
+			sistema, el color por defecto es el color blanco al cuál, no agregará por defecto una
+
+			domninante cromática de forma base
+
+
+		_Opacity:
+
+			_ésta opción nos permitirá controlar la opacidad del sistema en relación a la layer, base
+
+			sobre la cuál, hemos aplicado el efecto ó las demás layers, de la respectiva composición 
+
+			para que así, podamos lograr una mejor integración de entre la propia layer, base y las demás
+
+			layers, de la respectiva composición
+
+
+
+		Background Reflection:
+
+
+			_Influence %:
+
+				_ésta opción nos permitirá indicar la proporción de influencia que tendrá la imágen
+
+				base sobre la cuál, hemos aplicado el efecto para mapear con ésta imágen el sistema
+
+				de partículas ó strands, generado
+
+
+				_de ésta manera, podremos texturizar el sistema de partículas ó strands, con los
+
+				colores de la imágen base, para lo cuál, debemos de indicar valores cercanos ha "100"
+
+
+				_más si indicamos valores cernanos ha "0", prevalecerá el color indicado ó 
+
+				seleccionado en la opción de "Color", omitiendo así, la información de color obtenida
+
+				de la imágen base
+
+
+			_Spread Width:
+
+				_ésta opción nos permitirá dispersar el sistema de partículas ó strands, generadas ó
+
+				emulando éste esfecto, ya que el sistema teniña partículas ó strands, intermedias con
+
+				el color seleccionado en el parámetro "Color", para que así, se cree el efecto de
+
+				espaciado ó dispersión del sistema lo cuál, hará el efecto de aire ó separación 
+
+				entre las partículas ó strands, propiamente
+
+
+			_Spread Height:
+
+				_ésta opción es muy similar a la opción anterior de "Spread Width", más en éste caso,
+
+				el efecto serealizará en el sentido vertical haciendo que las partículas ó strands, 
+
+				se vean más largas y espaciadas lo cuál, a su vez, habrá una imágen resultante más 
+
+				abstracta e ilegible en relación a la imágen base
+
+
+
+			_Transfer Mode:
+
+
+				_Composite:
+
+					_ésta opción integrará de forma directa el sistema resultante con las demás
+
+					layer, de la respectiva composición para que así, el sistema se comporte como
+
+					una layer, normal dentro del sistema de layers
+
+
+				_Lighten:
+
+					_ésta opción hará que el sistema primeramente integre el sistema con el color
+
+					base selecciono en el parámetro de "color", para que así, posteriormente vía
+
+					modos de fusión entre otras posibilidades integremos la layer, del sistema
+
+					con las demás layers, de la respectiva composición
+
+
+
+			_Composite Width Original:
+
+				_si activamos ésta opción el sistema siempre mostrará como color base ó de fondo al 
+
+				color que hayamos seleccionado en el parámetro de "color", no agregando así, un canal
+
+				alpha, al sistema generado en las áreas vacías del sistema
+
+
+				_más si desactivamos ésta opción el sistema agregará un canal alpha, en el sistema
+
+				en las áreas vacías para que así, podamos ver e interactuar mejor con las demás l
+
+				ayers, de la respectiva composición
+
+
+
+		Extras:
+
+
+			_Appearance:
+
+
+				_Reflacting:
+
+					_ésta opción creará un sistema de partículas y strands, más homogénedo y
+
+					parejo con comportamientos reflectivos en las diferentes partículas y 
+
+					strands, generadas
+
+
+					_lo que nos pemritirá generar sistemas más predecibles ha modo de fractales,
+
+					cristales, otros
+
+
+				_Solid:
+
+					_más ésta opción nos permitirá crear un sistema de partículas y strands, más
+
+					libres y heterogeneos lo cuál, nos permitirá crear sistemas más orgánicos y
+
+					polivalentes, otros
+
+
+
+			_Offset:
+
+				_ésta opción nos permitirá mover todo el sistema ó animar éste de ésta manera, 
+
+				sangrada y poder así, mover el sistema en tiempo real en relación a las necesidades 
+
+				de producción y de procesos de paso contínuo
+
+
+				_para lo cuál, dispondremos de un handle, directamente en el viewport, del panel
+
+				"compositing", ó a través, del panel "effects controls"
+
+
+			_Ground Level %:
+
+				_ésta opción nos permitirá limitar la aplicación del sistema de forma interactiva 
+
+				de la parte media del sistema hacia abajo lo que nos permitirá realizar diferentes
+
+				efectos e integraciones sobre la imágen base ó las demás layers, de la respectiva
+
+				composición de trabajo
+
+
+				_de ésta manera, podremos crear efectos de tipo cortina, transiciones, gramas, rios,
+
+				torrentes de agua, fluido, magmas, otros
+
+
+			_Embed Depth %:
+
+				_ésta opción nos permitirá desvanecer gradualmente el sistema de partículas ó strands,
+
+				partícula ha partícula sobre la imágen base sobre la cuál, hemos aplicado el efecto
+
+
+				NOTA: ésta opción sólo estará disponible si la opción de "Composite With Original",
+
+				está activada
+
+
+			_Random Seed:
+
+				_ésta opción nos permitirá indicarle al sistema que éste tenga una animación base de
+
+				entrada del sistema para que así, éste se mantenga siempre activo ó no
+
+
+			
+
+
+
+
+
+
+
+
+

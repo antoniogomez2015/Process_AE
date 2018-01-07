@@ -1,0 +1,91 @@
+
+
+http://aescripts.com/quick-preview/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Quick Preview
+
+
+	Quick Preview:
+
+
+	-este nos permite hacer grupos de layers, efectos y masks, y mixtos a través, de contenedores con una 
+
+	capacidad para hacer cuatro, 4, de éstos contenedores
+
+
+	_ésto es especialmente útil para la optimización y edición de material en diferentes procesos de 
+
+	producción y aún con más capacidad que los plugins, "Layer Manager, rd_statesman", ya que éste nos 
+
+	permite hacer transversing, entre diferentes composiciones, ésto quiere decir que podemos agregar a un 
+
+	grupo diferentes layers, la cuales se encuentre en diferentes niveles de composiciones ó composiciones 
+
+	anidadas 
+
+
+	_así, como también, nos permite agregar no sólo todos los efectos de una layer, si no, que tenemos la 
+
+	posibilidad de agregar ha grupos efecto por efecto de forma específica, ésto nos permite ser selectivos 
+
+	y sólo desactivar los efectos pesados que nos limitan en el proceso de producción, otros
+
+
+	_como también, nos permite desactivar, máscaras en determinadas layers, colocando éstas en posición "none",
+
+	para que así, éstas nos tengan acción sobre la respectiva layer
+
+
+	_dichos grupos son dinámicos y podemos agregar ó eliminar layers, efectos y máscaras en cualquier momento a
+
+	través, de los íconos de "+/-", así, como actualizar éstos grupos en relación a las composición por medio del
+
+	ícono de "@", refresh
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener una composición de trabajo creada así, como también, las layers, que deseamos
+
+	organizar
+
+
+	_para luego, seleccionar las layers, efectos ó mascaras que deseamos agrupar y, con éstas seleccionadas
+
+	vamos al panel "Quick Preview", en el cuál, debemos seleccionar un grupo de trabajo, ej; podríamos seleccionar
+
+	el primero grupo, los grupos se diferencian por números (1.2.3.4), por medio de botones así, cuando un grupo
+
+	está seleccionado éste se identifica por medio de dos guiones, ej: "-1-", ésto indica que éste grupo está 
+
+	seleccionado
+
+
+	_para leugo, darle al ícono de "+", para que así, las layers, seleccionadas sean agregadas ha dicho grupo 
+
+	seleccionado, de ésta manera las respectivas layers, efectos ó masks, aparecerán en modo de lista en éste
+
+	respectivo grupo
+
+
+	_éstos pasos los podemos repetir hasta completar de llenas los otros 3, grupos si así, lo necesitamos en
+
+	nuestro flujo de edición y producción
+
+
+	_más luego, para hacer visible éstas layers, efectos ó máscaras, disponemos del botón de "Turn Off/On",
+
+	a través, del cuál, podremos hacer visibles éstos elementos ó no en un momento determinado
+
+
+

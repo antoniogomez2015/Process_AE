@@ -1,0 +1,41 @@
+
+
+http://aescripts.com/origami/
+
+	Referencias:
+
+		https://www.youtube.com/watch?v=pFL1_BZRP6g
+
+		https://www.youtube.com/watch?v=qfzC7EJc6wI
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Origami
+
+
+	Origami:
+
+
+	-este nos permite hacer segmentaciones de layers, de imágenes así, como de layers, de shape, ó de forma
+
+	permitiendo fragmentar éstas ha modo de vitral ó veronoi, y a su vez, de forma animada bajo diferentes
+
+	criterios
+
+
+	_éste efecto es especialmente útil para el motion graphycs, así, también, para diferentes procesos de
+
+	producción, otros
+
+
+	_en la versión de After Effects CC2014, hace la segmentación de forma correcta más ésta no es visible,
+
+	probar con otras versiones crackeadas ó otras versiones sea de after effects, ó del plugins
+
+
+
+

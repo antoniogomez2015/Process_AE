@@ -1,0 +1,261 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos pemritirá crear gotas ó una serie de ondulaciones y epicentros ha modo de impactos sobre
+
+	una layer, base
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Drizzle: (CC Llovizna)
+	___________
+
+
+		_Drip Rate:
+
+			_ésta opción nos pemritirá indicar la cantidad de gotas generadas por el sistema
+
+
+		_Longevity (Sec):
+
+			_ésta opción nos permitirá indicar la duración ó longevidad de las gotas ó partículas
+
+			generadas por el sistema
+
+
+		_Rippting:
+
+			_ésta opción nos pemritirá controlar la cantidad de ondulaciones existentes previamente
+
+			en cada gota ó partícula generada por el sistema
+
+
+			_de ésta manera, las ondulaciones podrán ser más gruesas y simples ó finas y más complejas
+
+			ó mucha más cantidad
+
+
+		_Displacement:
+
+			_ésta opción nos permitirá indicar la cantidad de desplazamiento entre las ondulaciones
+
+			generadas en las gotas ó partículas generadas por el sistema
+
+
+			_el desplazamiento puede ser positivo ó negativo
+
+
+		_Ripple Height:
+
+			_ésta opción es similar ó complementaria a la opción de "Displacement", para que así,
+
+			podamos aumentar el relieve de las ondulaciones generadas por la partículas del sistema
+
+
+		_Spreading:
+
+			_ésta opción nos pemritirá incrementar ó disminuir el tamaño de las dianas de ondulaciones
+
+			generadas por el sistema de partículas para que así, podamos crear un efecto más sutil ó más
+
+			acusado en relación a su vez, a la propiedad de "Drip Rate", ó cantidad de partículas
+
+			generadas por el sistema
+
+
+			_de ésta manera, podremos crear un efecto de más proximidad y escala relativa en relación
+
+			a las necesidades de producción y paso contínuo
+
+
+
+		Light:
+
+
+			_Using:
+
+
+				_Effect Light:
+
+					_ésta opción nos permitirá utilizar la iluminación base generada por el
+
+					propio sistema por defecto para la generación del efecto de ondulaciones
+
+					y partículas generadas
+
+
+				_AE Light:
+
+					_ésta opción nos permitirá utilizar la iluminación existente en la 
+
+					composición respectiva para la generación del efecto de ondulaciones
+
+					y partículas generadas
+
+
+					_de ésta manera, podremos controlar el tipo de luz, su posición y dirección
+
+					respectivamente
+
+
+
+			_Light Intensity:
+
+				_ésta opción nos permitirá controlar la intensidad de la iluminación generada sea
+
+				ésta la iluminación auto generada ó la personalizada por nosotros
+
+
+			_Light Color:
+
+				_así, como también, podremos controlar ó personalizar el color de la iluminación 
+
+				auto generada 
+
+
+
+			_Light Type:
+
+
+				_Distant Light:
+
+					_en la iluminación auto generada podremos configurar a su vez, su ésta será
+
+					de tipo luz direccional ó de tipo "Spot Light"
+
+
+				_Point Light:
+
+					_ó por el contrario si será de tipo de luz puntual ó "Point Light"
+
+
+			_Light Height:
+
+				_así, como también, podremos indicar la altura que ocupará la iluminación generada
+
+				en relación al formato ó canvas de la composición respectiva
+
+
+			_Light Position:
+
+				_como también, la posición en relación al plano horizontal del canvas ó formato de
+
+				respectiva composición
+
+
+				_ésta opción estará superditada a su la opción de "Point Light", está activada ó no
+
+
+			_Light Direction:
+
+				_más también, el sistema de iluminación auto generado nos permitirá variar el ángulo
+
+				de rotación del mismo en relación a su vez, a la posición del mismo
+
+
+
+		Shading:
+
+
+			_Ambient:
+
+				_ésta opción nos permitirá indicar la cantidad de iluminación global existente en
+
+				la imágen general ó cuál, hará directamente la imágen más oscura ó más clara 
+
+
+				_lo que a su vez, resaltará el tipo de iluminación auto generada de tipo 
+
+				"Point Light"
+
+
+			_Diffuse:
+
+				_ésta opción también, hará que la imágen base sea más receptiva a la cantidad de
+
+				iluminación generada por el sistema de ésta manera, la imágen base podrá recibir
+
+				más ó menos luz y efectos especulares y reflectivos
+
+
+			_Specular:
+
+				_ésta opción hará que el sistema de partículas y ondulaciones generados sea más
+
+				receptivo a efectos especilares de brillo por la iluminación lo cuál, hará que el 
+
+				sistema resalte más sobre la imágen base
+
+
+			_Roughtness:
+
+				_ésta opción combina las opciones del efecto especular y de la cantidad de 
+
+				iluminación existente en la imágen bese 
+
+
+				_lo que permitirá que haya más notoriedad del efecto de las partículas y las 
+
+				ondulaciones ó que éste sea más sutil
+
+
+			_Metal:
+
+				_ésta opción va de la mano con la opción de "Specular", ya que la opción "Metal",
+
+				también, auna esfuerzos en relación a la capacidad de recibir especularidad de parte
+
+				las partículas generadas y los efectos de ondulación y relives sobre imágen base
+
+
+
+
+
+
+
+
+
+
+
+
+

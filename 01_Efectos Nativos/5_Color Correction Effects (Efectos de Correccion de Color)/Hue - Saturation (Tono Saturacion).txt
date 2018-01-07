@@ -1,0 +1,223 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá hacer ajustes y correcciones en HLS, ó tono, saturación y brillo, de una layer,
+
+	de forma global y por canales independientes a través, de diferentes criterios
+
+
+	_una de las diferencias más notables en la edición y ajuste de color por canal es la aplicación del color
+
+	a través, de los canales "CMYK", y "RGB", lo que puede acelerar el proceso al trabajar con una 
+
+	configuración de canales sustractivos lo cuál, nos permtirá en ciertos casos atacar directamente un color 
+
+	en concreto
+
+
+
+	NOTE:
+
+	_éste efecto se siñe más a los efectos de virado de color al no dispones de un selector de color ó picker,
+
+	a través, del cuál, hacer una indicación ó referencia de un color en específico 
+
+
+	_si no que en vez de eso, el sistema dispone es de un wheel, ó rueda de color a través, de la cuál, nos 
+
+	podremos desplazar a través, del espectro de color ha modo de virado 
+
+	
+	_lo cuál, no es preciso por que no podremos hacer una correción ó ajuste exacto sino aproximado y de forma 
+
+	visual
+
+
+
+
+	Espectro de Color:
+
+	_con la diferencia en relación ha otros efectos, es que el efecto de hue/saturation, nos permite visualizar
+
+	el espectro cromático de forma lineal y gráficamente a todo color lo cuál, nos dará una gran ayuda de forma
+
+	visual y representativa de forma directa
+
+
+	_de ésta manera, el gráfico del espectro de color está conformado por dos barras horizontales en las cuáles:
+
+
+		_la barra superior será estática la cuál, representará la distribución de los colores originales de 
+
+		la layer, a la cuál, se le ha aplicado el efecto
+
+
+		_y la segunda barra representará el virado ó ajuste de color realizado sobre la imágen a través, del 
+
+		efecto, lo que nos permitirá visualizar y comparar entre ambas barras para poder así, ver la cantidad 
+
+		de desface, ajuste ó corrección de color entre la imágen original y la imágen resultante
+
+
+	_de ésta manera, podremos ver virado ó ajuste de color tanto de forma global como de forma específica en las
+
+	opciones de edición por canal
+
+
+	_en la cuál, es especialmente útil el espectro de color de forma lineal y visible, ya que en la edición por 
+
+	canal nos aparecerá unos manejadores de rangos a través, de los cuáles, podremos marginar el espectro en un 
+
+	segmento en específico para un canal determinado de forma gráfica para cada canal respectivo
+
+
+
+	Pedestal / Gamma / Gain:
+
+	_así, como también, tendremos un slider, para controlar la saturación y la luminocidad de forma global ó 
+
+	edición por canales independientes:
+
+
+		_de ésta manera, a través, del slider, de "saturation", podremos tanto aumentar la saturación de los
+
+		matices y tonos indicando valores positivos como también, podremos hacer desaturaciones indicando 
+
+		valores negativos
+
+
+		_y como también, a través, del slider, de "lightness", podremos tanto aumentar la luminocidad de los
+
+		matices y tonos logrando "claves altas", indicando valores positivos como también, podremos hacer 
+
+		"claves bajas" indicando valores negativos, de ésta manera, podremos hacer ajustes de gamma ó levels
+
+
+
+
+	Colorización:
+
+	_así, como también, el sistema dispone de una modalidad de colorización de una imágen ó layer, la cuál, es 
+
+	muy similar a las opciones que hemos visto hasta ahora
+
+
+	_la única diferencia de éste método es que tiene un enfoque de aplicación más como un teñido de la imágen más
+
+	los princípios de aplicación son lis mismos así, como los funcionalismos de la herramnienta
+
+
+
+
+
+	Edición Global:
+
+	_para la edición global ó general disponemos de sólo un wheel, ó rueda de color a través, de la cuál, podremos
+
+	hacer un virado ó ajuste de color ó tono
+
+
+	_así, como también, dispodremos de un cotrol máster ha modo de slider, para controlar la saturación y otro 
+
+	para controlar la luminocidad ó gamma
+
+
+
+	Edición por Canal:
+
+	_en la edición por canal tendremos los elementos de tipo handle, adicionales los cuáles, harán de rangos por 
+
+	medio de los cuáles, podremos marginar el espectro para una canal determinado, éstos rangos a partir de unos 
+
+	handles, están compuestos por los siguientes elementos:
+
+
+		_Rango de acción:
+
+			_el rango de acción se ubica de forma automática al seleccionar el canal de color de trabajo
+
+
+			_de ésta manera el rango de acción representa el color que hemos seleccionado dentro del 
+
+			espectro de color de forma lineal sobre el cuál, vamos ha trabajar
+
+
+			_así, como también, éste mostrará los cambios y variaciones en el espectro para sólo esa área
+
+			en concreto del especto que es el área de trabajo, a la hora de hacer virados ó correciones de 
+
+			color
+
+
+		_Handles Externos:
+
+			_los handles, externos nos permitirá ajustar el alcance de penetración del ajuste ó variaciones
+
+			de color en el respectivo canal seleccionado en relación a su vez, a los demás canales contiguos
+
+			de color
+
+
+			_de ésta manera, podremos ver que los handles, externos tienen la función de extender la 
+
+			influencia de un canal sobre otros canales contiguos
+
+
+	_y de igual modo que para la edición global ó general disponemos de sólo un wheel, ó rueda de color a través, de 
+
+	la cuál, podremos hacer un virado ó ajuste de color ó tono en sólo el canal de color seleccionado
+
+
+	_así, como también, dispodremos de un cotrol máster para sólo el canal seleccionado ha modo de slider, para 
+
+	controlar la saturación y otro ara controlar la luminocidad ó gamma
+
+		
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Hue / Saturation:  (Tono Saturacion)
+	_________________
+
+
+		_las funciones y workflow, del efecto están explicadas en la descriptción y características del 
+
+		efecto
+
+
+
+
+
+
+
+
+
+
+

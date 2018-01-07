@@ -1,0 +1,35 @@
+
+
+http://aescripts.com/save-comp-as-project/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+save-comp-as-project V2
+
+
+	Panel Proyecto/save-comp-as-project
+
+
+		-este nos pemrite crear nuevos proyectos a traves, de composiciones seleccionadas
+
+		y exportadas como proyectos individuales, esto nos permite exportar de forma individual
+
+		un composicion seleccionada en el panel proyecto, como automatizar un sin numero
+
+		de composiciones seleccionada, incluyendo en la exportacion como preferencias
+
+		la folder y sub-folder, que las conforman asi como 'autocrop', otros
+
+
+		tambien, nos permite colectar todos los archivos implicitos en la composicion
+
+		respectiva
+
+
+
+
+	

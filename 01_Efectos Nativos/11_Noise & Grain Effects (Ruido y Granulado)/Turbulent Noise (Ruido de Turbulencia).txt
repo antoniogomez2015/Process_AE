@@ -1,0 +1,597 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear diferentes efectos para producción y paso contínuo de ésta manera, podremos
+
+	diferentes bases para la generación de por ejemplo, fuego, magma, nubes, fluidos, texturas, mattes, otros
+
+
+	_éste efecto es práctivamente idéntico el efecto de "Fractal Noise", más la versión de éste efecto de
+
+	"Turbulent Noise", ofrece algunas variantes mínimas en sus controles 
+
+
+	_más también, ofrece variaciones en los comportamientos de los mapas generados lo cuál, nos permitirá crear 
+
+	efectos diferentes y con alcances diferentes
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Turbulent Noise: (Ruido de Turbulencia)
+	______________
+
+
+		Fractal Type:
+
+
+			_Basic:
+
+				_ésta opción nos permitirá crear efectos de tipo nubocidad en general para un tipo 
+
+				de "Noise Type: Soft Linear"
+
+
+			_Turbulent Smooth:
+
+				_ésta opción nos permitirá crear efectos de tipo nubocidad ha modo de patrones ó
+
+				patterns, para la generación de por ejemplo efectos más complejos de gelatinas y
+
+				glicerinas, otros, para un tipo de "Noise Type: Soft Linear"
+
+
+			_Trbulent Basic:
+
+				_ésta opción es prácticamente idéntica a la opción anterior más ésta es menos
+
+				contrastada lo cuál, nos permitirá hacer variantes en relación a la opción anterior
+
+				para un tipo de "Noise Type: Soft Linear"
+
+
+			_Turbulent Sharp:
+
+				_ésta opción sigue el comportamiento de las dos opciones anteriores de "Turbulent",
+
+				más ésta opción es más matizada y diffusa lo cuál, suprime el detalle permitiéndonos
+
+				crear efectos igualmente de tipo complejos comos gelatinas y clicerinas, otros más
+
+				con la diferencia de que éste caso también, podrían ser nubosos como escarchas de
+
+				hielos, helados, cremas, otros, para un tipo de "Noise Type: Soft Linear"
+
+
+			_Dynamic:
+
+				_las opciones de "Dynamics", son similares a la opción de "Basic", más las opciones
+
+				de dynamics, son más piroplásticas ó con acabados más envolventes especialmente útiles
+
+				para hacer efectos como margmas, explociones piroplásticas, humo, gases, atmósferas,
+
+				otros, para un tipo de "Noise Type: Soft Linear"
+
+
+			_Dynamic Professsive:
+
+				_ésta opción es prácticamente idéntica a la opción anterior más ésta es más dinámica
+
+				en el sentido del movimiento intríncico de las poluciones magmáticas las cuáles, se
+
+				comportarán fluídicamente internándose unas dentro de otras y viceversa, para un tipo 
+
+				de "Noise Type: Soft Linear"
+
+
+			_Dynamic Twist:
+
+				_ésta opción es prácticamente idéntica a la opción de "Dynamic", más ésta es más 
+
+				dinámica en el sentido del movimiento intríncico de las poluciones en éste caso serán
+
+				más de tipo vortex, ó tormentosas las cuáles, se comportarán igualmente fluídicas 
+
+				orbitando y arrastrándose unas alrededor de otras y viceversa, para un tipo de 
+
+				"Noise Type: Soft Linear"
+
+
+			_Max:
+
+				_ésta opción es una variante del comportamiento de la opción "Turbulent Smooth", más
+
+				ésta opción es más difusa y con menos detalles y a su vez, con más contraste lo cuál,
+
+				es especialmente útil para la realización de efectos de tipo metal líquido, agua, 
+
+				cemento entre otras muchas posibilidades, para un tipo de "Noise Type: Soft Linear"
+
+
+			_Smeary:
+
+				_ésta opción nos permnitirá realizar efectos de tipo fibras algodonadas, nuebocidades
+
+				gases aleatorios altamente difusa y con poco detalle y con un contraste medio para un 
+
+				gran número de sistemas de tipo entramados elásticos y compuestos, dulces, otros, para 
+
+				un tipo de "Noise Type: Soft Linear"
+
+
+			_Swirly:
+
+				_ésta opción es una variante de la anterior más ésta opción es mas difusa y 
+
+				reflectanten y con muhcísimo más detalle lo que nos permitirá crear efecto de metales
+
+				fundidos, caramelo, grasas, cabellos, y fibras (al invertir el sistema), otros, para 
+
+				un tipo de "Noise Type: Soft Linear"
+
+
+			_Rocky:
+
+				_ésta opción nos permitirá crear efecto de tipo texturas con volúmen como piedras,
+
+				losas, entre otros, de forma difusa pero con mucho detalle con relieves y depresiones
+
+				y a su vez, con un buen contraste para un sin número de posibilidades creativias, para
+
+				un tipo de "Noise Type: Soft Linear"
+
+
+			_Cloudy:
+
+				_ésta opción es un fusión entre las opciones de "Turbulent Sharp", y  "Max", lo cuál,
+
+				nos permitirá crear efectos de tipo nubocidad ha modo de patrones ó patterns, para la 
+
+				generación de por ejemplo efectos más complejos como patrones de hielo, pintura, otros,
+
+				para un tipo de "Noise Type: Soft Linear"
+
+
+			_Terrain:
+
+				_ésta opción es especialmente útil para la generación de texturas y patrones como 
+
+				muestras de módulos y supermódulo a su vez, con una alta aleatoriedad y constructivismo
+
+				entre otras muchas posibilidades para la generación de texturas y superficies y áreas,
+
+				para un tipo de "Noise Type: Soft Linear"
+
+
+			_SubScale:
+
+				_ésta opción es una variante de la opción "Basic", más ésta opción tratará de repetir
+
+				ó sostener patrones en el sistema de nubocidad generada para que así, se genere una
+
+				estructura ha nivel global lo cuál, es especialmente útil en efectos complejos y de 
+
+				paso contínuo y en producción, para un tipo de "Noise Type: Soft Linear"
+
+
+			_Small Bumps:
+
+				_ésta opción nos permitirá crear efectos de nubocidad integrados y a su vez, con una
+
+				estructura de patrones semi difusa con alto detalle y contraste super acentuado en las
+
+				estructuras moduladas lo cuál, es especialmente útil para la generación patrones 
+
+				rítmicos en animaciones y diferentes tipos de fluidos y procesos de paso contúnio y en
+
+				procesos de producción, para un tipo de "Noise Type: Soft Linear"
+
+
+			_Strings:
+
+				_ésta opción nos permitirá crear efectos eléctricos y voltáicos a través, de una 
+
+				superficie difusa y a su vez, con un buen detalle y con un alto contraste llegando al
+
+				límite de la posterización de los negros lo cuál, es especialmente útil para la 
+
+				generación de efectos compuestos y planos de densidad como también, reflexiones y 
+
+				efectos cáusticos y difractivos, para un tipo de "Noise Type: Soft Linear"
+
+
+			_Threads:
+
+				_ésta opción nos permitirá crear efecto nubosos al igual que la opción "Basic", más
+
+				ésta opción incorporar en cierto grado las características del efecto 
+
+				"Generate/CC Threads", lo cuál, es especialmente útil para generación de de sistemas
+
+				como placas, rejillas, como también, para la animación de procesos y procesos de paso
+				
+				contínuo y en producción, para un tipo de "Noise Type: Soft Linear"
+
+
+
+		Noise Type:
+
+
+			NOTA: las opciones de "Noise Type", estarán superditadas a las opciones de "Fractal Type", de
+
+			ésta manera, unas opciones podrán tener un comportamiento activo ó pasivo ó incluso diferente 
+
+			a lo esperado en relación a que opciones estén seleccionadas ó/y, relacionadas entre si
+
+
+
+			_Block:
+
+				_ésta opción en un modo de interpolación el cuál, es el más estable de todos los 
+
+				disponibles ya que éste mantendrá un comportamiento estable y similar prácticamente 
+
+				en todas las opciones posibles dentro de la opción de "Fractal Type", lo cuál, es 
+
+				especialmente útil para la generación de módulos fractales como cristales, losas de 
+
+				piedra graulada de alto detalle entre otras muchas posibilidades
+
+
+			_Linear:
+
+				_ésta opción en un modo de interpolación el cuál, es el más convencional y en relación
+			
+				al tipo de "Fractal Type", seleccionado generará diferentes efectos como en unos casos 
+
+				suvizará la generación del sistema en general más en otros casos ó tipo de 
+
+				"Fractal Type", seleccionado generará border más afiladas y con una mayor acutancia 
+
+				y contraste de ésta manera, la opción "Linear", ofrece resultados diversos para 
+
+				diferentes procesos de producción y paso contínuo y de producción
+
+
+			_Soft Linear:
+
+				_ésta opción es una variante de la opción anterior que en relación de la opción de
+
+				"Fractal Type", seleccionada bajará ó aumentará el contraste generado así, como 
+
+				también, aumentará ó disminuirá la acutancia y los bordes afiladas, otros
+
+
+				_de ésta manera, ésta es una opción alternativa la cuál, nos permitirá lograr los
+
+				resultados opustos de la opción "Linear", para que así, dispongamos de un sistema
+
+				complementario o antagónico a la opción anterior
+
+
+			_Spline:
+
+				_ésta opción en un modo de interpolación de tipo curva reforzada en relación a las
+
+				opciones anteriores ó lineales ó de bloque, de ésta manera, en relación al tipo de 
+
+				"Fractal Type", seleccionado podremos generará diferentes efectos más ó menos 
+
+				acentuados en relación a su vez, a los resultados deseados podremos utiliar éste tipo
+
+				de interpolación de tipo curva dinámica la cuál, por lo generál resaltará los efectos
+
+				bases generados por el sistema permitiéndonos así, generar efectos más complejos y con
+
+				menos profusión y micro densisdad, otros
+
+
+
+		_Invert:
+
+			_ésta opción nos permitirá invertir todo el sistema lo que ampliará las posibilidades de 
+
+			creación ya que el sistema cambiará no sólo de levels, si no que también, de densidad y sentido
+
+			de generación entre otras muchas posibilidades
+
+
+		_Contrast:
+
+			_ésta opción nos permitirá mover la gamma de del levels, lo cuál, nos permitirá correr la gamma
+
+			tonal del sistema lo que nos permitirá aumentar ó suprimir la densidad del sistema lo que nos
+
+			permitirá simplificar el sistema para lograr efectos más complejos y con un mayor impacto 
+
+			visual y menos profusión como por ejemplo; para la generación de cabello, humo, fuego, otros
+
+
+		_Brightness:
+
+			_ésta opción es muy similar a la opción anterior ya que ésta también, nos permitirá controlar
+
+			los niveles del sistema
+
+
+		Overflow:
+
+
+			_Clip:
+
+				_ésta opción permitirá suprimir los planos generados por el sistema lo que nos 
+
+				permitirá simplificar el sistema para lograr efectos más complejos y con un mayor 
+
+				impacto visual y menos profusión como por ejemplo; para la generación de cabello, 
+
+				humo, fuego, otros
+
+
+			_Soft Clamp:
+
+				_ésta opción no permitirá suprimir los planos generados por el sistema lo cuál, nos
+
+				permitirá por el contrario extender las posibilidades de los planos generados por el 
+
+				sistema pudiendo así, extender la gamma de opciones y posibilidades del sistema
+
+
+			_Wrap Back:
+
+				_ésta opción no permitirá suprimir los planos generados por el sistema lo cuál, nos
+
+				permitirá por el contrario extender las posibilidades de los planos generados por el 
+
+				sistema pudiendo así, extender la gamma de opciones y posibilidades del sistema, 
+
+				llengando el punto hasta de poder invertir el sistema de forma dinámica para la 
+
+				generación de efectos más complejos aún
+
+
+			_Allow HDR Resuts:
+
+				_ésta opción permitirá suprimir los planos generados por el sistema lo que nos 
+
+				permitirá simplificar el sistema para lograr efectos más complejos y con un mayor 
+
+				impacto visual y menos profusión como por ejemplo; para la generación de cabello, 
+
+				humo, fuego, otros
+
+
+
+		Transform:
+
+
+			_Rotation:
+
+				_ésta opción nos permitirá rotar todo el sistema como un todo a partir de un epicentro
+
+				el cuál, será el punto de anclaje del efecto y de la layer, el cuál, podremos cambiar
+
+				para cambiar así, el punto de rotación del sistema
+
+
+			_Uniform Scaling:
+
+				_ésta opción nos permitirá indicarle al sistema si deseamos que el sistema se escale
+
+				uniformente tanto a lo ancho como a lo alto a la vez, ó de forma independiente para
+
+				diferentes efectos de producción y paso contínuo
+
+
+			_Scale:
+
+				_ésta opción nos permitirá escalar el sistema al unísono la cuál, sólo estará 
+
+				disponible sólo cuando la opción "Uniform Scaling", esté activada lo que nos permitirá
+
+				cambiar el tamaño de todo el sistema lo que nos permitirá tener un mayor detalle del
+				
+				sistema ó una mayor área de acción y profusión del sistema
+
+
+			_Scale With | Height:
+
+				_ésta opción nos permitirá distorsionar la proporción del sistema lo que nos permitirá
+
+				lograr diferentes efectos como patrones, módulos y supermódulos para la generación de
+
+				diferentes efectos de producción y paso contínuo como patrones para llamas, magma,
+
+				lluvia, texturas, otros
+
+
+			_Offset Turbulence:
+
+				_ésta opción nos permitirá mover ó desplazar todo el sistema a través, de un handle,
+
+				directamente en el viewport, del panel "compositing", ó a través, de controles en el
+
+				panel "effects controls"
+
+
+			_Perspective Offset:
+
+				_ésta opción nos permitirá anclar el efecto a su posición original lo que nos permitirá
+
+				interactuar con el efecto fluídico a través, de la opción anterior de 
+
+				"Offset Turbulence", de ésta manera, podremos mover ó revolver todo el sistema a 
+
+				través, de éste handle, ó controles para lograr diferentes efectos y animaciones más
+
+				complejas que las automatizadas
+
+
+
+		_Complexity:
+
+			_ésta opción nos permitirá cambiar el comportamiento del sistema lo cuál, nos permitirá crear
+
+			efectos más sutiles ó sedosos ó por el contrario con más acutancia y densidad entre los planos 
+
+			del sistema
+
+
+			_de ésta manera, con valores cercanos cercanos ha "0", podremos crear efectos con menos  
+
+			acutancia y más suaves ó sedosos, y con valor cercanos ha "6", hasta "20", lograremos efectos
+
+			con más acutancia, más profusión, detalle y contraste
+
+
+
+		Sub Settings:
+
+
+			_Sub Influence (%):
+
+				_ésta opción nos permitirá aumentar ó disminuir la densidad y profusión ó complejidad
+
+				del sistema de ésta manera, podremos crear un sistema con mayor complejidad y riqueza
+
+				y textura como también, podremos hacer efectos más sutiles y simples
+
+
+			_Sub Scaling:
+
+				_ésta opción nos permitirá reescalar la complejidad ó conformación del sistema lo que
+
+				nos permitirá a su vez, animar el sistema y su evolución del cremiento de la 
+
+				complejidad y característica de éste
+
+
+			_Sub Rotation:
+
+				_ésta opción nos permitirá hacer rotaciones de la complejidad y conformación del
+
+				sistema de forma interactiva ó animada para que así, podamos cambiar el sentido de la
+
+				conformación y complejidad del sistema
+
+
+			_Sub Offset:
+
+				_ésta opción nos permitirá mover la complejidad y conformación del sistema para que
+
+				así, podamos animar dinámicamente la conformación del sistema a través, de un handle,
+
+				directamente en el viewport, del panel compositing, como también, en el panel 
+
+				effects controls, a través, controles independientes
+
+
+
+		_Evolution:
+
+			_ésta opción nos permitirá animar el comportamiento de la conformación y complejidad del 
+
+			sistema a través, de un wheel, ó rueda ó a través, de controles por medio de los cuáles, 
+
+			podremos hacer variaciones en la fluidéz del sistema
+
+
+
+		Evolution Options:
+
+			
+			_Cycle Evolution:
+
+				_ésta opción nos permitirá activar la opción de simulación por ciclo lo que permitirá
+
+				que podamos animar el comportamiento del sistema a través, de ciclos repetitivos ha
+
+				modo de intervalos definidos por nosotros
+
+
+			_Cycle (In Revolutions):
+
+				_ésta opción nos permitirá indicar la cantidad de ieraciones ó loops, ó ciclos 
+
+				permitirdos por el sistema 
+
+
+				_ésta opción estará superditada por si la opción "Cycle Evolution", está activada 
+
+				ó desactivada
+
+			
+
+			_Random Seed:
+
+				_ésta opción nos permitirá indicarle al sistema si éste tendrá una animación previa
+
+				del comportamienta y conformación del sistema de ésta manera, podremos hacer que el
+
+				sistema tenga un movimiento previo ó inicial por defecto
+
+
+			_Opacity:
+
+				_ésta opción nos permitirá hacer variaciones sobre la opacidad de todo el sistema lo
+
+				que permitirá que el sistema pueda incorporarse con la layer, base y por ende con las
+
+				demás layers, de la composición respectiva
+
+
+			_Blending Mode:
+
+				_ésta opción nos permitirá disponer de la mayoría de los modos de fusión a través, de
+
+				los cuáles, podremos integrar la layer, con efecto aplicado con las demás layers, de
+
+				la composición respectiva para lo cuál, dispondremos de la gran mayoría de modos de
+
+				fusión disponibles de forma nativa por la aplicación
+
+
+
+
+
+
+
+
+
+
+
+
+
+

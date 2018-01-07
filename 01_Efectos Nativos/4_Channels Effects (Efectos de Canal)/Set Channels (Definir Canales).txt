@@ -1,0 +1,175 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	General:
+
+	_éste nos permitirá hacer compuestos de canal, lo cuál, nos permite componen una imágen completar en una 
+
+	layer, de destino a partir de diferentes layers, de las cuáles, se tomará diferentes tipo de información
+
+	para a partir de ésta conformar canales específico
+
+
+	_lo cuál, tiene muchas ventajas al proceso convencional de otros efectos de la división efectos de 
+
+	"Channels", ya que ésta opción tomará la información general de una layer, determinada y no un canal de
+
+	ésta layer, respectiva
+
+
+
+
+	Compositions:
+
+	_lo que permite que previamente podamos hacer modificaciones sobre éstas layers, auxiliares así, como
+
+	precomponer éstas para hacer ediciones complejas y completas para un fin común entre las diferentes layers,
+
+	auxiliares que utilizará el sistema, específicamente el sistema utilizará cuatro layers, auxiliares
+
+
+	_lo cuál, nos brinda posibilidades en otros aspectos, características y posibilidades en relación a otros
+
+	efectos de la sección canales de after effects
+
+
+	_lo que quiere decir ésto es que tenemos la posibilidad de hacer un precomposición con información para 
+
+	cada canal deseado respectivamente, así, podremos crear un composición para el canal rojo, otra para el 
+
+	canal azul y por último una para el canal alpha
+
+
+	_así, como también, podremos limintar la cantidad de canales que tendrá la imágen resultante pudiendo así,
+
+	crear una imágen sin canal rojo ó sin canal alpha, otros
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Set Channels: (Definir Canales)
+	_____________
+
+	_Source Layer 1:
+
+		_ésta opción nos permitirá seleccionar la layer, ó composición que hará de canal rojo en éste caso
+
+
+	_Set Red To Source 1's:
+
+		_ésta opción nos permitirá filtrar el tipo de información ha obtener de la respectiva layer, 
+
+		seleccionada en el paso anterior
+
+		
+		_de ésta manera, podremos seleccionar información de tipo de canal y mapas de densidad como por ej:
+
+		"Red / Green / Blue / Alpha / Liminance / Hue / Lightness / Saturation / Full / Off"
+
+	_Source Layer 2:
+
+		_ésta opción nos permitirá seleccionar la layer, ó composición que hará de canal verde en éste caso
+
+
+	_Set Green To Source 2's:
+
+		_ésta opción nos permitirá filtrar el tipo de información ha obtener de la respectiva layer, 
+
+		seleccionada en el paso anterior
+
+		
+		_de ésta manera, podremos seleccionar información de tipo de canal y mapas de densidad como por ej:
+
+		"Red / Green / Blue / Alpha / Liminance / Hue / Lightness / Saturation / Full / Off"
+
+
+	_Source Layer 3:
+
+		_ésta opción nos permitirá seleccionar la layer, ó composición que hará de canal azul en éste caso 
+
+
+	_Set Blue To Source 3's:
+
+		_ésta opción tratará de generar un resultado de imágen de tipo HDRésta opción nos permitirá filtrar 
+
+		el tipo de información ha obtener de la respectiva layer, seleccionada en el paso anterior
+
+		
+		_de ésta manera, podremos seleccionar información de tipo de canal y mapas de densidad como por ej:
+
+		"Red / Green / Blue / Alpha / Liminance / Hue / Lightness / Saturation / Full / Off"
+
+
+
+	_Source Layer 1:
+
+		_ésta opción nos permitirá seleccionar la layer, ó composición que hará de canal alfa en éste caso
+
+
+	_Set Alpha To Source 4's:
+
+		_ésta opción nos permitirá filtrar el tipo de información ha obtener de la respectiva layer, 
+
+		seleccionada en el paso anterior
+
+		
+		_de ésta manera, podremos seleccionar información de tipo de canal y mapas de densidad como por ej:
+
+		"Red / Green / Blue / Alpha / Liminance / Hue / Lightness / Saturation / Full / Off"
+
+
+
+	_If Layer Sizes Differ:
+
+		_ésta opción tratará de ajustar todos los canales resultantes al tamaño de la layer, base u original
+
+		así, como también, al tamaño del canvas ó composición respectiva
+
+
+
+	_como podremos ver éste efecto nos brinda una serie de posibilidades las cuáles, nos permitirán llevar
+
+	nuestro trabajo ha otro nivel en lo que se refiere a composición e integración en diferentes flujos de
+
+	trabajo y producción y paso contínuo, otros
+
+
+
+
+
+
+
+
+
+
+
+	

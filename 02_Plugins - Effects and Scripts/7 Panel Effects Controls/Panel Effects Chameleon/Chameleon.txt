@@ -1,0 +1,175 @@
+
+
+http://aescripts.com/chameleon/
+
+	http://cgi.tutsplus.com/tutorials/making-your-color-scheme-a-whole-lot-kuler--ae-3397
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Chameleon
+
+
+	Chameleon:
+
+
+	-este nos permite cargar muestras de color a modo de swatches, ´muestras de color a modos del plugins,
+
+	"swatcher", y "Color Rules", al igual éste permite editar los valores así, como animarlos a través, del
+
+	tiempo lo que lo hacer totalmente útil para diferentes procesos de producción, animación y motion 
+
+	graphycs
+
+
+	NOTE: es recomendable trabajar con swatches, con muestras de 5, colores no más para trabajar en el modo 
+
+	de asignación personalizada ya que contamos sólo con 5, botones de asignación de color, podemos trabajar
+
+	con más de 5, colores por swatche, ó muestra sólo para el modo de asignación por "Random"
+
+
+	_éste nos permite trabajar con archivos ".ase", creados en otras aplicaciones, para ésto debemos darle al
+
+	botón "Load ase File(s)", de ésta manera se abrirá un explorar a través, del cuál, podremos navegar hasta 
+
+	encontrar al archivo con la extensión ".ase", el cuál, contendrá la información de color ha agregar
+
+	
+	_así, como también, nos permite indicar valores personalizados por nosotros en el mismo plugins, para 
+
+	cargar éstos como una swatche, ó muestras de colores, ésto es posible indicando sus valores exadecimales
+
+	separados por comas ",", ej:
+
+
+		_FF0000,FF2200,FF4800,FF6E00,FF9000,FFAE00
+
+
+	_eliminando las almohadillas ó "gatos", que acompañan ha cada valor exadecimal, de ésta manera, luego de 
+
+	indicar la serie de valores exadecimales deseados debemos darle ha "Add Swatch Value", de ésta manera, la 
+
+	muestra será agregada a la lista de swatches, inferior la cuál, nos mostrará las muestras de color cargada
+
+	a través, de una miniaturas de color
+
+
+	_éste, nos permite trabajar con selectores de color, en text layers, shape layers, effects, que tengan 
+
+	selectores de color, rango de color, otros
+
+
+
+	Workflow:
+	_________
+
+
+	Apply Comp Theme:
+	_________________
+
+
+	_primero debemos cargar un "theme", ó  swatche, de color base a la composición deseada ó respectiva los cuales
+
+	debimos cargar al plugins, ó sistema previamente en los pasos anteriores
+
+
+	_para luego, en la lista de swatches, buscar el swatche, deseado y dale a su botón de "play", ó 
+
+	"Apply Color Theme to the Current Composition", de ésta manera se agregará a la composición seleccionada ó
+
+	activa una nueva layers, de tipo "Null Object", la cuál, se creará apagada más tendrá aplicada ésta layers,
+
+	una serie de efectos los cuales corresponderán con la cantidad de colores de muestras cargados para la swatche,
+
+	cargada, de ésta manera, ésta layer, con éstos efectos permitirán el relacionamiento a través, de scripts, con
+
+	las propiedades de color relacionadas de las layers, y effects, posteriormente
+
+
+	_ésta layer, que se ha agregado con el nombre de "Color Theme", no debemos ni necesitamos tocarlo ó editarla ésta
+
+	tendrá una actualización y utilización automática en el sistema
+
+
+	_también, disponemos de otro modo de relacionamiento, éste permite un relacionamiento intercambiar en el original
+
+	y el nuevo que se está asignando, ésto quiere decir que podremos a través, de éste mismos acceso volver a los 
+
+	colores originales
+
+	_éste botón está justo al lado del play, y tiene dos flechas indicando el efecto shuffle, y dice lo siguiente
+
+	"Apply Color Theme to the Current Composition Witch Colors Shuffled in a Random order"
+
+
+
+	Link Propertires:
+	_________________
+
+
+	_ahora debemos relacionar la muestra cargada a la composición a través, de la layer, creada "Color Theme", con
+
+	las respectivas propiedades que reciban color de las diferentes layers, deseadas en la composición
+
+
+	_para ésto, debemos ir desplegando las diferentes propiedades que reciban color e ir seleccionando éstoas y con
+
+	éstas seleccionadas ir al panel "Chameleon/Link Selected Properties to Theme", y darle a los respectivos 
+
+	accesos directos que tenemos, en éste caso disponemos de "5", botónes numéricos para la asignación de color ha
+
+	propiedades distintas
+
+
+	_la asignación de color random, está disponible sólo cuando tenemos más de una propidad que reciva color 
+
+	seleccionada, la propiedad random, es especialmente útil para la asignación de colores para swatches, con colores
+
+	superiores ha 5, ó base que permite el sistema de forma nativa
+
+
+	_en ésta sección, también, contamos con una sección de filtros, los cuales tienen la función de mantener propiedades
+
+	tono, saturación, brillo y alpha, de la muestra ó swatche, original, ésto permite que sólo sea cambiado el color de
+
+	nuestras asignadas más no el tono, brillo, otros, si así, lo requerimos ó deseamos
+
+
+	_así, como también, cuenta con un slider, para controlar el brillo general ó "Brightness", el cuál, permite cambiar
+
+	todo los tonos ó densidad del color, ésto permite ampliar ha un sin número de posibilidades las muestras de color
+
+	permitiendo una flexibilidad infinida de edición y manejo del color
+
+
+	
+	UpDate:
+	_______
+
+
+	_pero ahora tenemos la posibilidad de cambiar el swatche, a las apropiedades que les hemos aplicados esos 
+
+	respectivos colores a través, del relacionamiento de propiedades del paso anterior
+
+
+	_para ésto, sólo debemos darle al "play", ó "Apply Color Theme to the Current Composition", de otra swatche,
+
+	en el panel de swatches, ó muestras del plugins, para que de ésta manera las muestras ó swatches, y sus 
+
+	respectivos colores sean actualizados por los nuevos colores de nueva swatche, que hemos agregado, ésto gracias
+
+	al relacionamiento a través, de la layer "Color Theme"
+
+
+	_y de ésta manera, si activamos los relojes, de los efects, de la layer, "Color Theme", podremos animar éstos
+
+	cambios de muestras y swatches, a través, del tiempo
+	
+
+
+
+

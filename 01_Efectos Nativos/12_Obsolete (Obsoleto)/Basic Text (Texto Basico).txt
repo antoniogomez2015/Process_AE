@@ -1,0 +1,216 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/utility-effects.html#grow_bounds_effect
+
+				https://helpx.adobe.com/es/after-effects/using/color-management.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+		Tutorial:
+
+			Extender limites de los objetos (Grow bounds) - After effects para principiantes
+				https://www.youtube.com/watch?v=qa8pdgAn-cY
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+	
+	NOTA: Los efectos de la categoría Obsoleto se conservan para permitir la compatibilidad con los proyectos 
+
+	creados con versiones anteriores de After Effects. Cuando se actualizan proyectos o se crean proyectos 
+
+	nuevos, debe usar efectos y técnicas alternativos en lugar de los efectos de la categoría Obsoleto.
+
+
+
+
+	_El efecto Texto básico, coloca el texto sobre una capa existente, a diferencia del texto creado en capas 
+
+	de texto o texto importado creado con Adobe Photoshop o Adobe Illustrator, que se convierten en su propia 
+
+	capa.
+
+
+	_Este efecto funciona con colores de 8 bpc.
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Basic Text: (Texto Basico)
+	___________
+
+
+		_Position:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el epicentro ó centro a partir 
+
+			del cuál, se generará el sistema de texto sobre layer 
+
+
+			_el cuál, a su vez, podremos indicar por por medio de una handle, directamente en el 
+
+			viewport, del panel compositing, así, como también, en el panel effects controls, por 
+
+			medio de parámetros más exactos
+
+
+		_Fill and Stroke:
+
+
+			_Display Options:
+
+
+				_Fill Only:
+
+					_ésta opción nos permitirá indicarle al sistema que éste se conforme de 
+
+					sólo un relleno de color sólido
+
+
+				_Stroke Only:
+
+					_ésta opción nos permitirá indicarle al sistema que esté se conforme de 
+
+					sólo un contorno perimetral como relleno de color sólido
+
+
+				_Fill Over Stroke:
+
+					_ésta opción nos permitirá indicarle al sistema que esté se conforme de 
+
+					tanto de un relleno de color sólido y de de un contorno también, de 
+
+					color sólido
+
+
+					_y que a su vez, el relleno de color sólido esté sobre el contorno de color
+
+					sólido
+
+
+				_Stroke Over Fill:
+
+					_ésta opción nos permitirá indicarle al sistema que esté se conforme de 
+
+					tanto de un relleno de color sólido y de de un contorno también, de 
+
+					color sólido
+
+
+					_y que a su vez, el contorno de color sólido esté sobre el relleno de color 
+
+					sólido
+
+					sólido
+
+
+			_Fill Color:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el color de relleno el
+
+				cuál, podremos indicar a través, de un picker, ó a través, de un selector de color
+
+
+			_Stroke Color:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el color del contorno el
+
+				cuál, podremos indicar a través, de un picker, ó a través, de un selector de color
+
+
+			_Stroke Width:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el ancho ó grosor del
+
+				contorno generado
+
+		_Size:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el tamaño ó escala del sistema
+
+			de texto sobre layer, generado
+
+
+		_Tracking:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el valor de tracking, ó separación
+
+			entre caracteres del texto sobre layer, generado
+
+
+		_Line Spacing:
+
+			ésta opción nos permitirá indicarle al sistema cuál, será el valor del interlineado entre
+
+			líneas, ésta opción estará disponible sólo en párrafos mayores ha una línea
+
+
+		_Composite On Original:
+
+			_ésta opción nos permitirá indicarle al sistema que éste cree una auto máscara ó alpha, sobre
+
+			el texto generado para que así, el sistema permita ver las layers, subyacentes de la 
+
+			composición respectiva y poder así, combinar las layers, de la composición
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

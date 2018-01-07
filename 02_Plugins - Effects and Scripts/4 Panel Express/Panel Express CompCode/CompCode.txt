@@ -1,0 +1,215 @@
+
+
+http://aescripts.com/compcode/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express/ CompCode
+
+
+	CompCode:
+
+
+	-este nos permite reciclar y reutilizar layers, y composiciones enteras de ser preciso, de ésta manera
+
+	podremos guardar layers, animadas y composiciones animadas que desiemos utilizar posteriormente ó 
+
+	reciclar
+
+
+	_ésto aumenta en gran manera el workflow, y las posibilidades de producción ya que favorece el 
+
+	intercambio de material como también, lo hace más accesible y diversificado
+
+
+	_de ésta manera, podremos guardar a través, de un empaquetado de código las layers, por tipos de layers,
+
+	así, como también, empaquetar vía javascript, composiciones enteras para luego, cargar éstas composiciones
+
+	ó layers, dentro de otras composiciones, otros
+
+
+	
+	Workflow:
+
+
+	Empaquetado de layers, ó composición:
+	_____________________________________
+
+	_ésta es la opción general la cuál, permite hacer empaquetados de layers, seleccionadas ó de una composición,
+
+	ésas layers, seleccionadas para éste proceso no requieren en éste proceso que se le agrege ningún metalenguale 
+
+	en su nombre
+
+
+	_luego, con las layers, ó composición activa vamos al panel "compCpde/", y hacemos "compCode", para que así,
+
+	se ejecute el proceso y se abra el panel contextual de "compCode", el cuál, nos mostrará un resumen del proceso
+
+	y script, ha empaquetar
+
+
+	_así, éste panel nos permitirá la opción de guardar éstas layers, ó composición activa, a través, del botón
+
+	"Save Code", de ésta manera se nos abrirá el explorador donde podremos guargar el archivo en la ruta de nuestro
+
+	proyecto ó donde desiemos
+
+
+	_éstos archivos se guardarán con la extensión ".jsx"
+
+
+
+	Recuperación de archivos empaquetados:
+	______________________________________
+
+	_si los archivos ha recuperar son una composición ésta se cargará en el panel proyecto y también, se abrirá en el
+
+	timeline, como una nueva composición
+
+
+	_más si los archivos son layers, éstos requerirán que haya una composición existente donde éstos será cargados
+
+
+	_y para cargar los archivo disponemos de dos opciones, la primera es a través, del panel contextual de "compCode",
+
+	a través, del botón "Run Code"
+
+
+	_ó a través, del panel principal de "compcode", a través, del ícono de "Reload", que es circular como de reciclaje
+
+	que se encuentra justo al lado derecho del botón "compCode", éste acceso directo equivale ha si fuesemos ha 
+
+	"File/Scripts/Run Script File/"
+
+
+	_de ésta manera se abrirá un explorados en el cuál, podremos navegar hasta la ubicación del archivo para ejecutar
+
+	éste, de ésta manera serán cargadas sean las layers, ó la composición respectiva que ha sido guardada previamente
+
+
+
+	Tokens Text:
+	____________
+
+	_las opciones de generación de archivos de tipo "Tokens", es una modalidad de hacer plantillas la cuál, es muy útil
+
+	y dinámica para su implementación dentro de composiciones, ya que por ejemplo podremos hacer una maquetación y ha
+
+	ésta ha ciertos archivos convertirlos de tipo token, en su empaquetación para luego cambiar éstos ha conveniencia de
+
+	la nueva composición en los cuales se les está abriendo ó solicitanto
+
+
+	_cuando se dice que los archivos de tipo token, serán cambiados en la nueva composición en la cuál, se estarán cargando
+
+	nos referimos a las rutas de sus archivos sources, así, se cargarán en esos respectivos luegares y maquetación que ocupan
+
+	esas repectivas layers, los nuevos sources, del nuevo proyecto de interés y no los viejos ó nativos con los cuales fueron
+
+	creados
+
+
+	_para habilitar ésta opción debe de haber al menos una layer, de texto en la composición respectiva
+
+
+	_a la cuál, le colocaremos el prefijo de "text:", el cuál, tendrá que anteceder al nombre de dicha layers
+
+	
+	_para luego, con ésta layer, de texto seleccionada ir al panel "compCode", y hacer "compCode", de ésta manera para
+
+	éste tipo de layers, "Tokens", se nos abrirá una ventana contextual de tipo "Script Prompt", la cuál, nos preguntará
+
+	un nombre para reemplazar la layer, de texto existente por la generada por el sisteme
+
+
+	_de ésta manera al llamar ó cargar éste archivo empaquetado de tipo layer, de texto, en éste ó en otro proyectonos 
+
+	aparecerá un prompt, pidiéndonos que le indiquemos el nuevo contenido para ésta layers, que será cargada en el luegar correcto
+
+
+
+
+	Tokens Files:
+	_____________
+
+	_para hacer takens, ó templates, de archivos de tipo .jpg, ó .png, debemos primero ubicar y seleccionar éstos en el panel project,
+
+	para luego proceder ha renombrar éstos anteponiéndoles el prefijo "file:", y a continuación el nombre dle arvhivo
+
+
+	_luego, dejamos el arvhivo seleccionado en el panel project, y luego seleccionamos la composición activa en la cuál, se encuentra
+
+	en uso el respectivo archivo para luego ir al panel "compCode", y hacer "compCode", de ésta manera se abrirá de forma directa el 
+
+	explorador para indiquemos la ruta del archivo que reemplazará el axitente ó orginal, de ésta debemos seleccionar el nuevo archivo
+
+	y darle ha "ok"
+
+
+	_para que así, luego se abrar el panel contextual "compCode", a través, del cuál, podremos cargar ó llamar ha éste archivos de tipo
+
+	token/file, que hemos guardado para utilizarlo en éste mismo proyecto
+
+
+	_como también, podremos utilizarlo en futuros proyecto a través, de del acceso directo que se encuentra en el panel principal del
+
+	panel "compCode", al lado derecho de éste mismo botón el cuál, es un "Run Script File", shortcut
+
+
+	_de ésta manera, para la implementación del archivo nos volverá ha apacerer el explorador para le indiquemos la ruta del archivo ha
+
+	utilizar en éste proyecto ha intercambiar por el archivo original ó nativo con el cuál, se creó este archivo token/file
+
+
+
+	Tokens Name:
+	____________
+
+	_ésta modalidad de empaquetamiento de archivos de tipo token/name, nos permnite la posibilidad de cambiar los nombres de archivos
+
+	y composiciones en el panel project, ésta opción es útil sobre todo para el uso de script, y programación, para que ciertos efectos 
+
+	y en modos de instancias, los archivos son tomados como uno sólo y los efectos se aplican como repetidos ó se reproducen en forma 
+
+	simétrica ó a modo de instancias también
+
+
+	_para éste proceso debemos renombrar el archivo en el timeline, anteponiéndole el prefijo de "name:", seguido el nombre del archivo
+
+
+	_para luego ir al panel "compCode", y hacer "compCode", para así, nos aparezca un ventana contextual de tipo "Script Prompt", 
+
+	indicandonos que debemos designas un nombre nuevo para la respectiva layer
+
+
+	_y a partir de éste punto nos aparecerá el panel contextual del plugins "compCode", en el cuál, podremos ejecutar el script, a través,
+
+	del botón "Run Script", así, como también, a trvés, del acceso del panel principal del plugins, y su shortcut, de "Run Script File"
+
+
+	_ésta modalidad también, nos extiende las posibilidades ha la aplicación de nombres personalizados que pueden cambiar entre los 
+
+	diferentes usos entre composiciones y archivos ahora también, para las "properties", y "efects", 
+
+
+	_de ésta manera, en las propieades que nos permite el after effects, editar su nombre, por ejemplo en nombre de un grupo de una layer,
+
+	de tipo shape, podríamos en éste caso agrgar el prefijo "name:", proseguido del nombre de éste respectivo grupo
+
+
+	_así, como también, podriamos renombre un efect, con el prefijo "name:", proseguido el nombre deseado, de ésta manera para ambos casos
+
+	cuando reutilicemos éstas propiedades en otras layers, se cargarán con los nuevos nombre indicados, ésto es especialmente útil para 
+
+	elementos que lleven sentencias de scripts, y que requieren diferenciación ó personalización al ser instanciados, otros
+	
+
+
+
+

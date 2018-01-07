@@ -1,0 +1,82 @@
+
+
+http://videohive.net/item/motion-mode/10117499
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express
+
+
+	Motion Mode
+
+
+	-este nos permite hacer interpolaciones ó transiciones entre diferentes animaciones entre si, para 
+
+	lograr una tercera animación resultante como media de las dos animaciones anteriores ó primarias
+
+	
+	_para ésto, perimero debemos tener dos composiciones creadas previamente las cuales estarán animadas
+
+	y contendrán la misma cantidad de elementos para que mantengan una paridad de elementos y de propiedades
+
+	animadas
+
+
+	_también, podríamos interpretar ésto como que hay que tener la misma animación pero con diferentes 
+
+	comportamientos y distribuciones espaciales animadas en el viewport, para luego fusionar éstas para obtener
+
+	una tercera animación ó comportamiento resultante
+
+
+
+	Workflow:
+
+
+	_primero debemos entrar a la primera composición y colapsar todas opciones y efectos de las layers
+
+
+	_posteriormente debemos seleccionar todas las layers, deseadas de ésta composición
+
+
+	_para luego con ésta composición activa ir al panel "Motion_Mode", y hacer "Motion Mode", de ésta manera
+
+	el sistema creará una precomposición de las layers, seleccionadas más una nueva composición llamada 
+
+	"Motion Mode", en cuál, se encontrará la precomposición realizada con las layers, seleccionadas
+
+
+	_ahora, debemos repetir éste proceso con la otra composición que tiene el otro comportamiento ha interpolar,
+
+	para ésto ponemos activa ésta composición y seleccionados las layers, deseadas las cuales deben de coincidir
+
+	con las layers, de la primera composición
+
+
+	_para luego con las layers, deseadas seleccionadas ir al panel "Motion_Mode", y hacer "Motion Mode", de esta
+
+	manera el sistema también, hará una precomposición de éstas layers, seleccionadas y la incluirá en la composición
+
+	que había creado previamente, ésta es "Motion Mode"
+
+
+	_de ésta manera ahora la composición generada "Motion Mode", presentará ambas precomposiciones con ambos 
+
+	comportamientos uno sobre el otro más con la diferencia que ahora ambos se representarán en el viewport, de forma
+
+	conjunta e interpolada
+
+
+	_y para jugar ó variar ésta interpolación podremos ajustar ó variar la superposición y duración de las layers, ó
+
+	precomposiciones de ambas
+
+
+	
+
+
+	

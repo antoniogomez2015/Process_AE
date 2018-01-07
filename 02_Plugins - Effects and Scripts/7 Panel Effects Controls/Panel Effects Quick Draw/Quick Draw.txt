@@ -1,0 +1,231 @@
+
+
+http://aescripts.com/quickdraw/
+
+	http://www.xvideos.com/video20901115/casting_a_argentina_termina_extorsionada
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Quick Draw
+
+
+	Quick Draw:
+
+
+	-este nos permite hacer el efecto de "write on", ó efecto de escritura, de una manera alternativa ha la
+
+	nativa
+
+
+	_aunque ésta opción es más controlada y más animable y totalmente configurable y permite varias 
+
+	configuraciones de acción posible
+
+
+
+
+	Workflow:
+	_________
+
+	_primero debemos de tener un composición de trabajo así, como una layer, de texto u otra layer, la cuál,
+
+	develar
+
+
+	_éste sistema utilizar las herramientas de edición de puntura de after effects, por ende, si deseamos 
+
+	revelar una layer, de texto, debemos precomponer ésta para que así, ésta layer, nos permite entrar al 
+
+	modo de edición de pintura y no al nodo de edición de texto, al darle doble click, a la respectiva layer
+
+
+	_de ésta manera, con la precomposición de la layer, de texto seleccionada debemos activar las opciones 
+
+	de edición de pintura, shortcut "Control + B"
+
+
+	_para leugo entrar al modo de edición de pintura, así, con el pincel de pintura activo debemos hacer 
+
+	doble click, sobre la layer, de precomposición para que así, entremos al modo de edición de pintura y 
+
+	se abra el panel de "Layer", en el cuál, podremos hacer edición de pintura sobre la respectiva layer
+
+
+
+	Quick Draw:
+	___________
+
+
+	Configuración:
+
+	_más si deseamos trabajar en el panel "Layer", con un fondo blanco para una mejor visualización tenemos
+
+	la posibilidad de cambiar el color de fondo de la composición activa, para ésto, vamos al panel 
+
+	"Quick Draw/Buttons", y le damos a la opción de "White Comp Bg", de ésta manera, el fondo de la composición
+
+	respectiva se colocará en blanco 
+
+	
+	_antes de empezar ha pintar sobre la layer, deseada debemos primero configurar las opcioens de pintura, para
+
+	eso debemos entras a las opciones del panel 
+
+		
+		Paint:
+
+			_Color:
+
+				_colocaremos un color diferenciado al del motivo, ej, un azul cielo
+
+
+			_Mode:
+
+				_Liminosity, ó Multiply
+
+
+			_Channels:
+
+				_RGBA
+
+
+			_Duration:
+
+				_Constant
+
+
+	_y el panel "Brushes", por lo general dejaremos las opciones por defecto
+
+
+	NOTE: para controlar el tamaño ó diámetro del pincel de forma práctiva, disponemos de los shortcut:
+
+	"Control + arrows left/right", así, como también, para graduar su dureza para cuál, dispodremos del
+
+	shortcut "control + left/right - control", ésto quiere decir, que debemos de soltar "control", para
+
+	que entremos en el modo de graduación de la dureza del pincel
+
+
+	Pintado:
+
+	_y así, procederemos ha pitar sobre el motivo de forma consecuente y con la lógica deseada ha animar
+
+	tratando de hacer la menor cantidad de trazados posibles entre pincelada y pincelada
+
+
+
+	Quick Draw Configuración:
+
+	_y al finalizar el proceso de pintura, debemos volver al panel composicióny luego ir al panel "Quick Draw",
+
+	y entras a las opciones de: "Quick Draw/Keyframes"
+
+
+	_ya que a través, de éstas opciones podremos configurar el comportamiento de la animación del motivo por 
+
+	medio de las opciones de "Number of frames for duration and offset", podremos indicar un valor de separación
+
+	ó de timming, de animación entre pincelada y pincelada, en el que podremos indicar un valor de por ej; de "10",
+
+	el cuál, se colocará automáticamente en ambos campos cuando lo coloquemos un sólo campo, para luego darle ha
+	
+	el botón de "Animate Stroke"
+
+
+	_éste valor de timming, que indiquemos éste representará ha keyframes, así, si colocamos un valor de "10", el
+
+	sistema interpretará que cada trazado durará exactamente "10f", ó diez fotogramas para luego continuar otra
+
+	pincelada ha reproducirse
+
+
+	_y a partir de éste punto podremos ver moviendo el cabezael del timeline, que se han secuenciado las pinceleadas 
+
+	de sorma consecutiva ha su orden en el timeline
+
+
+	_así, como también, a continuación dispondremos de unas opciones para hacer superponer la reproducción de forma
+
+	grada los distintos trazos a través, de los modos de "Overlap", y "Stagger", ó aleatoriedad, éstos valores los
+
+	podemos indicar en frames
+
+
+	_más previamente ha éstos pasos dispondremos de ciertos criterios para meter dinamismo a animaciones posibles
+
+	por el sistema, éstas opciones son:
+
+
+		Animate: All | Brushes | Erasers
+
+
+	de ésta manera, podremos animar todo, los trazados, ó los efectos de borrado
+
+	
+	_así, como también, tendremos disponibles para los mismos fines las opciones de:
+
+		
+		_First Keyframe at playhead
+
+			_ésta opción animará desde el primer keyframe, existente en el cabezal del timeline
+
+
+		_Slected strokes only
+
+			_ésta opción animará sólo a las pinceladas seleccionadas
+
+
+		_Reverse atroke order (top to bottom)
+
+			_ésta opción animará sólo a las pinceladas invertidas
+
+
+
+	Revelado:
+
+	_y para velegarel motivo original de forma animada para ésto, el sistema nos brinda dos posibilidades, 
+
+	éstas son a través, un efecto de mate y la otra a través, de un efecto tipo plugins
+
+
+	_para la implementación de la opción de revelado por mate, debemos primero seleccionar la layer, del 
+
+	motivo en el timeline, y luego ir al panel "Quick Draw/Buttons/", y darle al botón de "Layer Matte",
+
+	de ésta manera se generará un duplicado de la layer, motivo con la cuál, se creará un matte alpha,
+
+	permitiendo así causar el efecto de develado del motivo original
+
+
+	_más la implementación de la opción de revelado por "Effects Matte", es la más recomendada y automatizada
+
+	ésta permite controlar todo el sistema de forma agrupada a través, de una serie de controles como efectos
+
+	ajustables por medio del panel effects controls
+
+	
+	_para ésto, primero debemos seleccionar la layer, del motivo en el timeline, y luego ir al panel 
+
+	"Quick Draw/Buttons/", y darle al botón de "Effects Matte", de ésta manera se generarán nuevos efectos ha
+
+	la layer, motivo a través, de los cuales podremos manupular el sistema, permitiendo así causar el efecto 
+
+	de develado del motivo original
+
+
+	
+	Measured:
+
+	_ésta opciones permiten hacer animaciones más avanzadas a través, del desface de animación en layers, 
+
+	seleccionadas haciendo variaciones en las curvas de animaciones causando efectos de anomalías ó alteraciones
+
+	en las animaciones de ciertas layers, seleccionadas por nosotros, otros
+
+
+
+
+

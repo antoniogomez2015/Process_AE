@@ -1,0 +1,71 @@
+
+
+http://aescripts.com/timeremap-source/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/TimeRemap Source:
+
+
+
+	_éste permite que podamos secuenciar las layers, que tengamos dentro de una composición para que luego
+
+	éstas las podamos hacer aparecer una ha una de éstas layers, en una nueva composición a modo de 
+
+	"Hold Keys", ésto es especialmente útil para procesos de animaciones de cinemáticas y characters, ya 
+
+	con ésta técnica podemos hacer aparecer por ej, varias instancias de un rostro, como serio, riéndose, 
+
+	otros, y así, las demás extremidades del mismo, en éste caso ésto logra a través, del efecto timeremap,
+
+	más la configuración de efectos a través, de un slider, por medio del cuál, podremos hacer avanzar cada
+
+	una de las layers, secuenciadas a nuestro gusto
+
+
+	
+	Workflow:
+	_________
+
+
+	_primero debemos de tener creada una composición de trabajo
+
+
+	_en la cuál, tendremos todas las layers, deseadas de nuestro sistema ó personaje ha secuenciar, es aconsejable
+
+	colocarle ha cada una de éstas layers, una marca "marks", para así, poder identificar más rápidamente cada una
+
+	de éstas layers, y hace dentro de nuestro sistema
+
+
+	_para leugo seleccionar cada una de ésta layers, en el orden deseado ha secuenciar para luego, con éstas layers,
+
+	seleccionadas ir al panel "Timeremap-Source", en el cuál, podremos asignarle un nombre al sistema, en 
+
+	"name:", y para luego hacer "do it!"
+
+
+	_para que así, se haga una precomposición con las layers, seleccionadas en la cuál, se aplicará el efecto
+
+	de "Time Remap", como tambíen, el efecto de "ViewControl", que a través, de un slider, en el panel control de
+
+	efectos podremos controlar la imágen secuenciada de la composición original deseamos hacer visible
+
+
+	_tengase en cuenta que la secuencia de imágen que se crea se conforma de imágenes estáticas a través, del modo
+
+	de fotogramas sostenidos ó "hold key", y éstos sólo duran un fotograma "1frame"
+
+
+	_de ésta manera el slider, del efecto "ViewControl", tendrá actividad en relación a la cantidad de capas exitente
+
+	en la composición original, ej; si en la composición original hay 20, layers, entonces el slider, del efecto
+
+	"ViewControl", tendrá actividad de layers, desde "0-20", donde más allá de 20, números estará vacio ó disponible
+	
+	
+					

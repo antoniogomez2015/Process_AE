@@ -1,0 +1,200 @@
+
+
+
+
+AMatrix
+
+
+	Referencia:
+
+		http://aescripts.com/matrix/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite hacer el efecto "wall", a través, de una matriz, cuadriculada de enmascaramientos de una layers
+
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer rápidas animaciones matrices, de una layer, ó composición la cuál, ya quedará animada desde
+
+	su misma conformación en tre dimensiones
+
+
+	_ésta es altamente configurable a la hora de su creación permitiéndonos hacer animaciones avanzadas y rápidas
+
+	éstas opciones son altamente efectivas para motion graphycs, y producción, otros
+
+	
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_para ésto, debemos de tener una composición previamente creada, la cuál, tendrá por lo general una duración
+
+	muy corta ej; "10f", diez fotogramas ó similar
+
+
+	_entendiento de que el sistema "Matrix", animará la composición de módulos desde su conformación inicial,
+
+	luego la deformará desplazando los módulos para luego, organizarlos nuevamente hasta su posición original
+
+
+	_y para éste proceso contemplará toda la duración de la composición	
+
+
+	_y por ésta razón ésta composición sólo debe de tener una y sola una layer, creada
+
+
+
+
+	A continuación se presentan las caracteristicas del panel Matrix:
+	-----------------------------------------------------------------------------------------------------
+
+
+	Transition Type:
+
+		Animate In:
+
+			_ésta opción indica una animación en el sentido natural de atras hacia adelante
+
+
+		Animate Out:
+
+			_ésta opción indica una animación en sentido contrario al natural de atras hacia adelante
+
+
+	Order:
+
+		Random:
+
+			_ésta opción indica una animación de los módulos de forma aleatoria entre si
+
+
+		Directional:
+
+			_ésta opción indica una animación lineal entre los módulos entre si
+
+
+	Fragnebt Size X:
+
+		_ésta opción hace referencia "al tamaño de cada módulo", no a la cantidad de módulos en horizontal
+
+
+		_por ésto es recomendable colocar un valor alto para no tener excesivos módulos que limitarían el proceso
+
+
+		_por ej: para una composición de "1920x1080px", podríamos indicar una cantidad ó valor de "500"
+
+
+	Fragment Size Y:
+
+		_ésta opción hace referencia "al tamaño de cada módulo", no a la cantidad de módulos en vertical
+
+
+		_por ésto es recomendable colocar un valor alto para no tener excesivos módulos que limitarían el proceso
+
+
+		_por ej: para una composición de "1920x1080px", podríamos indicar una cantidad ó valor de "250"
+
+
+
+	Gap:
+
+		_ésta opción permite indicar un desface ó estiramiento de la animación en relación a los valores indicados
+
+
+	Target Z:
+
+		_ésta opción indica la proyección de los módulos animados en la cordenada axis "Z", el valor indicado de 
+
+		"-900", da buenos resultados para la mayoría de los casos
+
+
+	Rotation XYZ:
+
+		_ésta opción nos permite indicar agregar valores de rotación en cordenadas específicas como "X,Y,Z", de forma
+
+		individual para que así, los módulos puedan rotar si así, lo deseamos
+
+
+	Start Frame:
+
+		_éste valor indica en que tiempo deseamos que comienze la animación de los módulos
+
+
+	Start Variation:
+
+		_éste valor indica el fotograma ó keyframe, máximo ó clímax hasta el cuál, la animación podrá desplazar ó deformar
+
+		la animación a través, de los módulos
+
+
+		_y a partir de éste keyframe, indicado la animación comenzará a revertir el proceso de deformación ó desplazamiento
+
+		de los módulos hasta su ubicación original
+
+
+	Transition Length:
+
+		_éste valor indicar el fotograma ó keyframe, máximo que tendrá el sistema "Matrix", tanto para deformar ó desplazar
+
+		los módulos como para volver ordenar ó desplazar nuevamente los módulos hasta su posición original
+
+
+		_así, el tiempo sobrante lo utilizará para las transiciones e intervalores de animación, otros
+
+
+	Transition Min:
+
+		_éste valor nos permite indicar un valor mínimo para las transiciones ha realizar en el sistema de animación
+
+
+	Fade:
+
+		_éste valor nos permite activar el efecto de intercalado de imágenes para las animaciones ha realizar
+
+
+	Ease Keyframe:
+
+		_éste valor nos permite activar las opciones de desaceleración de keyframes a través, de curvas de animación
+
+
+	Motion Blur:
+
+		_éste valor nos permite activar las opciones de desenfoque de movimiento para las animaciones ha realizar
+
+
+	Build Matrix:
+
+		_éste botón nos permite construir el sistema matrix, previamente configurado
+
+
+	Edit:
+
+		_función indeterminada
+
+
+	
+
+
+
+
+

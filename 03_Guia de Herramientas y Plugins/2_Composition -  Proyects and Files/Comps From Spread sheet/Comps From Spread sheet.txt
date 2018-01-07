@@ -1,0 +1,54 @@
+
+
+
+
+Comps From Spread sheet
+
+
+	Referencia:
+
+		http://aescripts.com/compsfromspreadsheet/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste nos permite sincronizar layers, de composiciones para que éstas sean sincromizables con archivos de 
+
+	información externos los cuáles son totalmente editables
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite grandes operaciones de archivos bundles, para reliazar procesos en serie bajo actualizaciones del 
+
+	cliente y en producción
+
+
+	_ésto es especialmente útil para procesos integrales y colaborativos en producción
+
+
+	NOTA: debe de duscarse más información para la implementación y seteo de éstas opciones hasta lograr la operatividad
+
+	del plugins
+
+	
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+

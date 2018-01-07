@@ -1,0 +1,88 @@
+
+
+Cinema 4D to Pixel Cloud Workflow Tutorial
+	https://www.youtube.com/watch?v=U_qisVLPBwI&hd=1
+
+
+2D to 3D Suite: Depth Propagation Usage
+	https://www.youtube.com/watch?v=bm2I95WeLNo&hd=1
+
+
+Quick Tips - Creating Effective Depth Maps in Topaz Lens Effects
+	https://www.youtube.com/watch?v=vGigAEFKPz4&hd=1
+
+
+Tutorial Crear Cavity Map a partir de Normal Map en Photoshop
+	https://www.youtube.com/watch?v=MItPuQz3qLg&hd=1
+
+
+Adobe Photoshop + NVIDIA - Crear Bump Map / Normal Map con Plug-in de NVIDIA
+	https://www.youtube.com/watch?v=gvbyzN1nLO4&hd=1
+
+
+	NOTA: importar volumetrías 3d desde cinema 4d ha after effects
+
+
+	Proceso Cinema 4D:
+
+
+	1_tenemos nuestro modelo 3d realizado y con un material asignado
+
+	2_vamos a render setting y configuramos para salvar la imágen de render en formato "TARGA", y activamos la opción de "Alpha Channel"
+
+	3_activamos las opciones de multipass y cargamos el "Pass/Material Normal", luego indicamos la ruta de salida y elegimos el formato "OpenEXR", con una "Depth", de 32bits
+
+	4_en las opciones de "Save", activamos las opciones de "Compositing Proyect File", para exportar el proyecto para after effects, activamos las opciones "Save", y "Include 3D Data"
+
+	5_en las opciones de antialiassing, indicamos "none"
+
+	6_ahora procedemos a hacer el render
+
+	
+	(ahora vamos hacer la otra serie de renders)	
+
+
+	7_ahora en las opciones de render, desactivamos opciones "Compositing Proyect File", y las opciones de "multipass"
+
+	8_luego cargamos el efecto "Point Position"
+
+	9_indicamos la ruta de salida y elegimos el formato "OpenEXR", con un Depth de 32bits
+
+	10_renderizamos
+
+
+
+	Proceso After Effects:
+
+	
+	1_importamos el proyecto creado en cinema 4d con compatibilidad en after effects
+
+	2_al importar el proyecto y abrirlo veremos en el timeline una cámara y el beauty material
+
+	3_ahora importamos el mapa "Point Position"
+
+	4_ahora a cada mapa vamos a "Interpret Fotage/Main/Color Managment/Preserve RGB", debemos activar esta opción, shortcut: Control+Alt+G
+
+	5_ahora cargamos al timeline el "normal map" y el "point position map",
+
+	6_luego duplicamos la cámara existente y la renombramos "refCam"
+
+	7_ahora seleccionamos la layer, "beauty pass", y le asignamos el plugins Pixel Cloud, yendo a  "Effects/Berrypixel/Pixel Cloud"
+
+	8_en las opciones del plugins Pixel Cloud, en "Source Layer", indicamos el "Beuty pass"
+
+	9_en las opciones del plugins Pixel Cloud, "Position Pass", indicamos el "Point Position pass"
+
+	10_en las opciones del plugins Pixel Cloud, "Normal Pass", indicamos el "Normal Pass"
+
+
+	11_
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,61 @@
+
+
+
+
+	After Effects 190 Contador de tiempo con expresiones
+
+		https://www.youtube.com/watch?v=vmgMAK2eFaA
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Contador de Tiempo:
+___________________
+
+	_tenemos la posibilidad de crear un contactor automático y personalizado para un sin número de efectos y
+
+	procesos de producción y paso contínuo
+
+
+
+Activar Expresión:
+__________________
+
+	_primeramente debemos de crear una composición de trabajo
+
+	
+	_para a continuación crear una layer, de tipo texto, para lo cuál, debemos seleccionar la herramienta de
+
+	creación de texto shortcut, "Control + T", a través, de la cuál, podremos crear una layer, de tipo texto
+
+	vacia, es decir, que en la cuál, inicialmente no escribiremos ningún tipo de texto
+
+
+	_para a continuación ir a las opciones de la layer, de tipo texto que hemos creado en el panel timeline, y 
+
+	allí desplegar las opciones de "Text/Source Text", para a continuación hacer "Alt + Mouse Left Click", para
+
+	que así, se activen las opciones de expresiones sobre éste parámetro
+
+
+
+Algoritmo:
+__________
+
+	_para a continuación en el campo de crear script, pegar el siguiente código a través, del cuál, se generará
+
+	todo el contador numérico
+
+
+
+M=Math.floor(time/60);
+
+S=Math.floor(time)-M*60;
+
+if(S<10){B="0";}else{B="";};
+if(M<10){A="0";}else{A="";};
+
+A+M+":"+B+S;

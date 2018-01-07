@@ -1,0 +1,250 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá hacer correcciones gamma sobre la imágen, orientado a la estabilización de video
+
+	ya que éste nos permitirá mantener en un rango aceptable y contrlable los extremos de la gamma tonal
+
+
+	_como lo son "Gain | Pedestal", no consentrándose en la gamma, ó medios tonos de la escena lo cuáles, están 
+
+	más sujetos a las variaciones propias del cambio natural de la escena ó imágen en general de video
+
+
+	_las opciones de análisis contínuo ó "Temporal Smoothing (second)", estarán activadas sólo cuando activemos
+
+	las opciones de "Auto Amounts", para que así, sea el sistema quién gradue de forma automática a través, del
+
+	tiempo los valores de "Shadow Amount", y "Highlight Amound"
+
+
+	_lo cuál, quiere decir que si no activamos la opción de "Auto Amount", el sistema no hará auto análisis a 
+
+	través, del tiempo de ésta manera, el efecto funcionará de forma estática para realizar correcciones de 
+
+	forma manual
+
+
+	_de forma general éste efecto nos permitirá rescatar imágenes en las cuáles, hay poca información en las 
+
+	áreas de las sombras y a su vez, aumentar el contraste en las áreas de las luces
+
+		
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Shadow / Hightlight: (Sombra Iluminacion)
+	____________________
+
+
+		_Auto Amounts:
+
+			_ésta opción activará las opciones de auto análisis a través, del tiempo de las sombras 
+
+			y las altas luces de la escena del video
+
+
+		_Shadow Amount:
+
+			_ésta opción sólo estará disponible cuando la opción de "Auto Amount", esté desactivada
+
+
+			_éste nos permitirá ajustar los valores de gamma sólo en el rango de la saturación, sombras 
+
+			ó negros de la imágen ó "Gain"
+
+
+			_de ésta manera, debemos entender que éste sólo afectará las sombras de la imágen cuidando
+
+			no afectar a las áreas de los medio tonos y altas luces de la imágen
+
+
+		_Hightlight Amound:
+
+			_ésta opción sólo estará disponible cuando la opción de "Auto Amount", esté desactivada
+
+
+			_éste nos permitirá ajustar los valores de gamma sólo en el rango de los brillos, altas luces 
+
+			ó blancos de la imágen ó "Pedestal"
+
+
+			_de ésta manera, debemos entender que éste sólo afectará los brillos de la imágen y ha cierto 
+
+			rango de la gamma de los medio tonos cuidando no afectar a todos los medio tonos y sombras de 
+
+			la imágen
+
+
+
+		_Temporal Smoothing (Seconds):
+
+			_ésta opción sólo estará disponible cuando la opción de "Auto Amount", esté activada
+
+
+			_la cuál, nos pemritirá indicar el intervalo de acción del análisis sobre el video para que
+
+			así, el sistema pueda hacer muestreos sobre la imágen y así, hacer correcciones de sobrmas
+
+			y altas luces repectivamente en relación a los demás parámetros indicados previamente
+
+
+			_el cuál, se indicará en valores de fotogramas adyacentes por segundo para determinar el
+
+			grado de correccion necesario para cada fotograma
+
+
+		_Scene Detect:
+
+			_(indeterminado)
+
+
+		_Shadow Tonal Width:
+
+			_ésta nos permitirá indicar el umbral ó alcance del análisis para encontrar así, áreas 
+
+			en sombra dentro de la gamma general de tonos de la imágen ó video, por defecto biene 
+
+			con un valor del 50%, ó una ponderación de toda la imágen
+
+
+			_de ésta manera, aumentando ó bajando éste valor podremos influir en el umbral del 
+
+			análisis en relación al efecto deseado
+
+
+		_Shadow Radius:
+
+			_éste valor influenciará el resultado en la corrección ó ajuste de la intensidad en las 
+
+			sombras, especialmente cuando la opción de "Auto Amount", está desactivada y estamos
+
+			haciendo correcciones de forma manual, ya que en la forma automática es poco perceptible
+
+
+
+
+		_Highlight Tonal Width:
+
+			_ésta nos permitirá indicar el umbral ó alcance del análisis para encontrar así, áreas 
+
+			con altas luces dentro de la gamma general de tonos de la imágen ó video, por defecto biene 
+
+			con un valor del 50%, ó una ponderación de toda la imágen
+
+
+			_de ésta manera, aumentando ó bajando éste valor podremos influir en el umbral del 
+
+			análisis en relación al efecto deseado
+
+
+		_Highlight Radius:
+
+			_éste valor influenciará el resultado en la corrección ó ajuste de la intensidad en las 
+
+			altas luces, especialmente cuando la opción de "Auto Amount", está desactivada y estamos
+
+			haciendo correcciones de forma manual, ya que en la forma automática es poco perceptible
+
+
+
+		_Color Correction:
+
+			_ésta opción nos permitirá hacer una corrección de color balanceada y de forma automática
+
+			por defecto ésta biene con una valor de "20", donde "0", equivale a la imágen por defecto
+
+			y "100", ha una imágen ya con una saturación de color colores bastante apreciable sin 
+
+			nunca ser excesiva
+
+
+		_Midtone Contrast:
+	
+			_ésta opción nos permitirá contrastar la gama de los medio tonos ó la "Gamma", de la 
+
+			imágen lo cuál, puede ser deseado en algunos casos más éste efecto es bastante acusado y
+
+			en proporciones altas puede llegar ha posterizar la imágen creado así, un ennegresimiento
+
+			total de la imágen
+
+
+		_Black Clip:
+
+			_éste valor nos permitirá marginar el umbral de gamma, al igual que con el efecto de levels,
+
+			podremos marginar la gamma, tonal de la imágen ajustando así, la "Gain / 0", y el 
+
+			"Pedestal / 255"
+
+
+			_de ésta manera, el valor de "Black Clip", en "0", equivale a la imágen original y con 
+
+			valores superiores ha "0-1", equivaldrá ha ir marginando la gamma hacia los negros ó sombras
+
+			de la imágen
+
+
+		_White Clip:
+
+			_éste valor nos permitirá marginar el umbral de gamma, al igual que con el efecto de levels,
+
+			podremos marginar la gamma, tonal de la imágen ajustando así, la "Gain / 0", y el 
+
+			"Pedestal / 255"
+
+
+			_de ésta manera, el valor de "White Clip", en "0", equivale a la imágen original y con 
+
+			valores superiores ha "0-1", equivaldrá ha ir marginando la gamma hacia los blanco ó luces
+
+			de la imágen
+
+
+		_Blend With Original:
+
+			_ésta opción nos permnitirá integrar el efecto con la imágen ó video original permtiéndonos 
+
+			así, graduar la influencia global del efecto
+
+
+
+
+
+
+
+
+
+
+
+
+
+

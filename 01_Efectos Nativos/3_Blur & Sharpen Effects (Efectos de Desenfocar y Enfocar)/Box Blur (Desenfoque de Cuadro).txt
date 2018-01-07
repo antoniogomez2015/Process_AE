@@ -1,0 +1,82 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá hacer desenfoque de tipo general y homogeneamente
+
+
+	éste contempla el desenfoque rectangular, lo que significa que permite realizar un desenfoque tanto 
+
+	horizontal como vertical a la vez
+
+
+	_más también, éste nos permitirá poder hacer desenfoques en un sólo sentido, sea éste tanto vertical
+
+	como horizontal
+
+
+	_el desenfoque de cuadro es parecido a los efectos Desenfoque rápido y Desenfoque gaussiano, pero el 
+
+	de cuadro tiene la ventaja de contar con la propiedad Iteraciones, que permite controlar la calidad del 
+
+	desenfoque
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Box Blur: (Desenfoque de Cuadro)
+	_________
+
+	_Blur Raduis:
+
+		_éste valor nos permitirá indicar la cantidad de desenfoque deseado
+
+
+	_Iterations:
+
+		_éste valor nos permitirá indicar la iteración ó resolución del desenfoque resultante
+
+
+	_Blur Dimensions:
+
+		_Horizontal and Vertical
+
+			_éste valor nos permitirá crear  un desenfoque homogeneo en ambas direcciones
+
+
+		_Horizontal:
+
+			_éste valor nos permitirá crear un desenfoqe sólo de forma horizontal
+
+
+		_Vertical:
+
+			_éste valor nos permitirá crear un desenfoque sólo de forma vertical
+
+
+
+

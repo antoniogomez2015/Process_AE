@@ -1,0 +1,365 @@
+
+
+http://aescripts.com/autocircularmotion/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/Auto Circular Motion:
+
+
+
+	_éste permite hacer simulaciones de layers, emulando diferentes comportamientos como el circular,
+
+	elipse, ondulatorio, espectral, aleatorio, otros
+
+
+	_a partir de layers, 2d, podremos generar efectos de layers, en serie en configuraciones 2d, y 3d, 
+
+	para un sin número de animaciones para motion graphycs, y otras aplicaciones
+
+
+	_éste plugins, permite genera el sistema  partir de layers, de tipo shape, así, como también, de 
+
+	imágenes externas ó fotografías, otros
+
+
+	
+	Workflow:
+	_________
+
+
+	_primero debemos de tener creada una composición de trabajo
+
+
+	_así, como también, una serie de layer, ha controlar por el sistema las cuales tendrán que estar cargadas
+
+	dentro de la composición de trabajo
+
+
+
+	Generación del sistema:
+
+	_y para generar el sistema sólo tendremos que seleccionar las layers, deseadas en el timeline, éstas layers,
+
+	no deben estar en 3d, no es necesario
+
+
+	_y luego con todas las layers, deseadas seleccionadas vamos al panel "Auto Circular Motion", configuramos los
+
+	criterios y comportamientos que tendrá el sistema y le damos ha "Apply", para que así, sea generado el sistema
+
+
+	_de ésta manera, el sistema generará una nueva layer, en el timeline, ésta layer, tendrá el nombre de 
+
+	"Circular Control", a través, de la cuál, podremos controlar todo el sistema, más al resto de las layers, que
+
+	conforman el sistema les serán agregados un grupo de expresiones parte del sistema
+
+
+	_de ésta manera ésta layer, controladora nos ofrece los siguientes controles:
+
+
+
+	Circular Control:
+
+	_ACM
+
+
+		_pendulum:
+
+			_ésta opción activa las características de animación pendular sobre las layers, del sistema
+
+			más ésta opción desvirtúa la forma original de las layers, por el sistema, de ésta manera, 
+
+			tendremos un suciche a través, el cuál, activar ésta modalidad así, como también, un wheel,
+
+			para ajustar el parámetro pendular
+
+
+		Speed(X,Y,Z):
+
+			_ésta opción permite configurar la posición referencia del sistema, (dejar en 100)
+
+
+		Scale XY:
+
+			_éste punto de control permite ajustar el tamaño relativo y proporción del sistema
+
+			(handle, exterior)
+
+
+		Scale Z:
+
+			_ésta opción permite incrementar el efecto de acercamiento ó eberración óptica que da el efecto
+
+			de proximiadad del sistema
+
+		
+		Offset:
+
+			_ésta opción pemrite rotar el sistema ó hacer el efecto de cámara de "roll"
+
+
+		Decay(Scale):
+
+			_ésta opción permite configurar el decaimiento de la escala (trabaja sólo con ciertos parámetros)
+
+
+		Lag factor:
+
+			Shift:
+
+				_factor controlado por el sistema
+
+
+			Speed XY:
+
+				_velocidad para movimiento de animación de las cordenadas XY, la cuál, funciones para 
+
+				ciertas funciones
+
+
+			Speed Z:
+
+				_velocidad para movimiento de animación de las cordenadas Z, la cuál, funciones para 
+
+				ciertas funciones
+
+
+			Offset_XY:
+
+				_éste permite hacer desfaces del sistema permitiéndo desarticular éste y hacer movimientos
+
+				orbitales sobre el sistema
+
+
+			Offset_Z:
+
+				_éste permite hacer desfaces del sistema permitiéndo desarticular éste y hacer movimientos
+
+				distanciales de atra hacia adelante sobre el sistema
+
+		
+			Scale(XY):
+
+				_éste toma uno de los extremos del sistema para hacer con éste el efecto espiral ó curva
+
+				fibonachi, ó helix
+
+
+			Position XY:
+
+				_ésta opción permite controlar la distensión ó extremo en modifaciones especiales como la
+
+				del paso anterior para hacer hacer correcciones especiales ó un personalización del sistema
+
+
+			Position Z:
+
+				_ésta opción permite proyecto ó extender el sistema en la cordenada z, en operaciones especiales
+
+				como las dos opciones anteriores
+
+
+			Rotation XY:
+
+				_ésta opción permite rotas las layers, de forma independiente de forma consecutiva desde un extremo
+
+				especial hacia el otro extremo, tanto en la cordenada x, como la y, en relación a nuestra necesidad
+
+
+			Rotation Z:
+
+				_ésta opción permite rotas las layers, de forma independiente de forma consecutiva desde un extremo
+
+				especial hacia el otro extremo, tanto en la cordenada Z,
+
+		
+		Transform:
+
+			Position_XY:
+
+				_ésta opción nos permite desplazar ó mover todo el sistema en las cordenadas X, y Y, para que así, 
+
+				podamos colocar éste en el lugar deseado en el viewport
+
+
+			Position Z:
+
+				_ésta opción nos permite desplazar ó mover todo el sistema en las cordenadas Z,,para que así, 
+
+				podamos colocar éste en el lugar deseado en el viewport
+
+		
+		Rotation:
+
+
+			Flow Target:
+
+				Flow Target X,Y,Z:
+
+					_ésta opción permite relacionar el sistema con otras layers, externas al sistema (probar)
+
+
+			Auto Rotation X,Y,Z:
+
+				_ésta nos permite la auto orientación de las layers, a las cordenadas indicadas
+
+
+			Reverse Rotation:
+
+				_ésta opción permite invertir la dirección de toración del sistema
+
+
+			Rotation Y.Z:
+
+				_ésta opción permite la escala de cada una de las layers, de forma individual
+
+
+		Scale:
+
+			Scale_XY(%):
+
+				_ésta opciones nos permite rotar el sistema de forma consecutiva ha modo de cortinilla ó persiana
+
+				a modo de transición con todas las layers, del sistema en la cordenada X,Y
+
+
+			Scale_Z:
+
+				_ésta opciones nos permite rotar el sistema de forma consecutiva ha modo de cortinilla ó persiana
+
+				a modo de transición con todas las layers, del sistema en la cordenada Z
+
+
+
+		Opacity:
+
+			_ésta opción permite variar la opacidad de las layers, del sistema
+
+
+		Anchor point:
+
+			Anchor point_XY:
+
+				_ésta opción permite variar el punto del anclaje del sistema en las cordenadas X,Y
+
+
+			Anchor point_Z:
+
+				_ésta opción permite variar el punto del anclaje del sistema en las cordenadas Z
+
+
+		Bounce(CircularMotionOnly):
+
+			_Bounce_X,Y,Z:
+
+				_ésta opción permite activar las opciones auto revote automático para las layers
+
+
+	ACM_spe--elete prohibited]:
+
+		_factor automático controlado por el sistema		
+			
+
+
+
+	NOTA: dichas expresiones impedirán ó limitarán los efectos que les hayamos agregado ha éstas layers, previamente 
+
+	
+	_para luego configurar el sistema y sus criterios para la generación del sistema, los cuales son:
+
+
+	
+		Type:
+
+			Circular:
+
+				_ésta opción permite crear en una primera instancia un configuración circular de layer,
+
+				la cuál, posteriormente puede reconfigurarse en diferentes variaciones ó conjugaciones				
+
+
+			Pendulum:
+
+				_composición emulando un péndulo
+
+
+			Elipse:
+
+				_composición elíptica
+
+			
+			Cylinder:
+
+				_composición cilíndrica
+
+
+			Chaos:
+
+				_composición irregular
+
+
+			Wave:
+
+				_composición en forma de ondas
+
+
+			DNA:
+
+				_composición en forma de espiral de adn
+
+
+			Vortex:
+
+				_composición en forma de helix, ó vortice
+
+
+			Bound Ball:
+
+				_composición para hacer efecto de pelotas en malavares
+
+
+			Line:
+
+				_composición en línea
+
+
+
+		Place the layer in the center:
+
+			_colocación de la layer, en relación al sistema
+
+
+		Anchor point in the center:
+
+			_colocación del punto del anclaje, éste puede ser a la layer, ó al sistema
+
+
+		Delete:
+
+			_opción para borrar
+
+		
+		Copy tool:
+
+			_opción para copiar el sistema y parte de el
+
+
+		Options:
+
+			_opciones avanzadas de configuración del sistema
+
+
+		Aplly:
+
+			_botón para general el sistema con las layers, seleccionadas
+
+
+
+
+

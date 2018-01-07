@@ -1,0 +1,56 @@
+
+
+
+3_Visualizacion de Capas y Rendimiento para After Effects
+
+
+	Referencia
+
+		http://aescripts.com/
+
+
+			
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Layer Group 2:
+______________
+
+	
+	Descripción: (organizar layer, en carpetas en el timeline, ocultar, nostrar layers)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(C) / Toobar left superior / Referencia (al lado izquierdo del panel proyecto por fefault)
+
+
+	Referencia en la web: http://aescripts.com/layer-groups/
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Dugr: 
+_____
+
+	
+	Descripción: (éste permite hacer grupos de layers, para controlar si visualización en el viewport, y en el timeline)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(M) / Panel Toolbat Right Timeline / Referencia al lado derecho del Panel Timeline)
+
+
+	Referencia en la web: http://duduf.net/?page_id=163
+
+
+		
+

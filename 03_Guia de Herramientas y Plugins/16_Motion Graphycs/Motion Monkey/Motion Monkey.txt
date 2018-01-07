@@ -1,0 +1,215 @@
+
+
+
+Layer Monkey (Kinetic)
+
+
+	Referencia:
+
+		http://aescripts.com/motionmonkey/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar fácilmente efectos de animación, así, como modulaciones y maquetaciones práctivas y 
+
+	dinámicas eficientemente para proceso de animación de motion graphycs, otros
+
+
+	NOTE: éste plugins, a la hora de su implementación crea un encapsulado del sistema eliminando las layers, de la
+
+	composición y dejando sólo una layer, por ésta, ésta layer, resultando no tiene controladores y efectos u otros 
+
+	tipo de controlador del sistema, pudiendo sólo así, tener que hacer "Undo it", en el panel del plugins, para des
+
+	hacer el sistema
+
+
+	_para crear el sistema es altamente recomendable trabajar ésta en una composición a parte de las demás
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer complejas e impredecibles animaciones de un grupo de layers, dentro de una composición
+
+	para que así, poder lograr grandes efectos de animación con muy poco esfierzo y además ésta sea altamente
+
+	configurable e integrable con otros sistemas más avanzados de animación y producción, otros
+
+
+	_así, podremos hacer kinetic, con archivos y elementos "photos, video, eps files, pre-comps, shapes, solids,
+
+	psd, vectors, whatever"
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Bascs:
+______
+
+
+	Motion:
+
+		Descripción: éstas opciones nos permiten incluir comportamientos de movimiento a la animación a de las layers
+
+		_Slide / Scale / Spin X,Y,Z / None
+
+
+
+	_Direction:
+
+		Descripción: éstas opciones nos permiten incluir comportamientos de dirección a la animación de las layers
+
+		_Slide / Up/ Left / Back / Down / Right / Forth
+
+
+		_Scale / Up / Down / Spin / CW / CCW
+
+
+	_Anchor:
+
+		Descripción: éstas opciones nos permiten incluir comportamientos de anchor point, ó punto de anclaje de las layers
+
+		_Top / Left / Center / Bottom / Right
+
+
+
+	_Transition:
+
+		Descripción: éstas opciones nos permiten incluir comportamientos del tipo de transición disponible
+
+		_ Cut / Fade
+
+
+
+
+	_Interpolation:
+
+		Descripción: éstas opciones nos permiten incluir comportamientos del tipo de interpolación de las layers
+
+		_Linear / EZ Go / EZ Stop / Inertia / Bounce / Spring
+
+
+		_Speed:
+
+			_Medium..
+
+
+		_Intensity:
+
+			_Medium..
+
+
+	_Motion Mixer:
+
+		_ésta opción nos permite mezclar las layers, con los diferentes tipos de criterios disponibles
+
+
+
+	_Unto it:
+
+		_ésta opción nos permite deshacer el sistema para poder volverlo hacer con nuevas configuraciones del plugins
+
+
+	_Do it:
+
+		_ésta opción nos permite construir el sistema, para ésto no es necesario tener ninguna layer, seleccionada previamente
+
+
+	_Save:
+
+		_ésta opción nos permite guardar una configuración y crear nuestras propias librerias de animación
+
+
+	_Load:
+
+		_ésta opción nos permite cargar un configuración de animación previamente guardada en una libreria por nosotros ó por otros
+
+
+	_Layer
+
+		Order:
+
+			_ésta opción nos permite indicar el tipo de orden de las layers, entre "top/bottom/random"
+
+
+		_Triming Controls:
+
+
+			_In Point:
+
+				_ésta opción nos permite configurar un "trigger", ó disparador los cuáles pueden ser 
+
+				a través de "Markers", ó de tiempo, así podremos asignar marcas a las layers deseadas
+
+
+			_Out Point:
+
+				_ésta opción nos permite seleccioanr el tipo de criterio de animación de salida entre las 
+
+				cuales podremos eletir, "Freeze/Run Out/Loop/Pinp Ponp"
+
+
+		_Color Pallete:
+
+			_ésta opción permite cambiar el color de las layers, de shape, ó forma perferiblemente con la opción
+
+			de color kuller, de adobe
+
+
+		_Shy and Lock:
+
+			_(función indeterminada)
+
+
+		_Allow Intersection:
+
+			_ésta opción permite la intercepción de las layers, en la animación resultante
+
+
+		_Enable Motion Blur:
+
+			_ésta opción activa las opciones de motion blur, en las layers, de la animación resultante
+
+
+		_Markers:
+
+			_Time Span:
+
+				_ésta opción permite seleccionar la duracción del sistema, la cuál, será a traver, del
+
+				"work area, ó time select"
+
+
+			_Distributión:
+
+				_Every Spaced:
+
+					_éste es un criterio de distribución relativo al espaciado de las layers, 
+
+				_Marker Sync:
+
+					_éste es un criterio de distribución relativo a la sincronización de las marcas
+
+				_Play Full Clips:
+
+					_éste es un criterio de espaciado por el tamaño de la composición
+
+
+
+			
+
+
+

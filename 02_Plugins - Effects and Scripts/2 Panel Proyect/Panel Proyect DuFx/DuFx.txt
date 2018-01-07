@@ -1,0 +1,53 @@
+
+
+http://duduf.net/index.php/products/after-effects/dufx/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+DuFx
+
+
+	Panel Proyecto/DuFx
+
+
+		-especialmente util para procesos de edición y animación ya que permite desactivar temporalmente
+
+		un plugins ó efecto determinado para efectos de edición ó animación
+
+
+		_de ésta manera lograremos que la interface y aplicación vayan más rápido y nos permitan hacer 
+
+		ediciones más rápidas y precisas y trabajar ha mayores resoluciones en el viewport
+
+			
+		_Type:
+
+			_ésta opción es un filtro en la cuál, podremos seleccionar entre unos de los efectos 
+
+			escaneados ó existentes
+
+
+		_Emplacement:
+
+		_ésta herramienta actuará sobre el proyecto, la composición activa ó la composición seleccionada
+
+
+		_R:
+
+			_ésta "R", de review, nos permite hacer un escaneo del criterio seleccionado entre "proyecto
+
+			composición activa ó seleccionada", y mostrarnos una lista de plugins, aplicados ha layer, en
+
+			el timeline
+
+
+		_para que así, podamos seleccioanr los plugins que deseamos desactivar y activar en el "panel list",
+
+		y en la parte inferior disponemos de los botones de "Active/Desactive", de los plugins, ó efectos
+
+
+	

@@ -1,0 +1,133 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear distorsión de vórtice, algo así como un agujero negro tirando ó exxpulsando 
+
+	un objeto, también, para efectos de sumnidero entre otras posibilidades
+
+
+	_así, como también, para lograr efectos coalaterales dentro por ejemplo de vórtices y torbellinos logrados
+
+	con el efecto "twirl", y "CC Radial Blur", para acentuar así, un efecto de tunel del tiempo, otros
+
+
+
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Flo Motion: (Movimiento de flujo CC)
+	______________
+
+
+		_Finer Controls:
+
+			_ésta opción nos permitirá refinar y sincerar el efecto haciéndolo más tenue y concéntrico 
+
+			más a su vez, éste generará ondas concéntricas de forma colateral al efecto convencional lo
+
+			cuál, es especialmente útil para un sin número de efectos de producción y paso contínuo
+
+
+		_Knot 1:
+
+			_ésta opción nos permitirá controlar ubicación del primer handle, ó target, del sistema de
+
+			ésta manera, podremos controlar la apariencia e interación entre ambos handles, ó targets 
+
+			del sistema y sobre la imágen
+
+
+		_Amount 1:
+
+			_ésta opción nos permnitirá controlar la influencia ó cantidad de efecto sobre el primer 
+
+			handle, ó target, y a su vez, sobre la imágen
+
+
+		_Knot 2:
+
+			_ésta opción nos permitirá controlar ubicación del segundo handle, ó target, del sistema de
+
+			ésta manera, podremos controlar la apariencia e interación entre ambos handles, ó targets 
+
+			del sistema y sobre la imágen
+
+
+		_Amount 2:
+
+			_ésta opción nos permnitirá controlar la influencia ó cantidad de efecto sobre el segundo 
+
+			handle, ó target, y a su vez, sobre la imágen
+
+
+		_Tile Edges:
+
+			_ésta opción nos permitirá controlar la distorsion de los bordes de la imágen por el sistema 
+
+			ó acción de los handles, ó targets
+
+
+			_de ésta manera, podremos preservar lso bordes de la imágen en su lugar modificando ó 
+
+			distorsionando sólo los pixeles en el interior de la imágen
+
+
+			_más en determinados casos será conveniénte desactivar ésta opción para lograr así, la 
+
+			deformación perimetral de la imágen como un todo para lograr efectos determinados
+
+
+		_Antialiasing:
+
+			_ésta opción nos permitirá suavizar la imágen así, como tambíén, aumentar la resolución
+
+			del efecto a través, de dos modos, como los son "Low", por defecto y "High", para una mayor
+
+			resolución lo cuál, requerirá más recursos del sistema
+
+
+		_Falloff:
+
+			_ésta opción nos permitirá administrar la influencia del efecto sobre la imágen de ésta 
+
+			manera, podremos controlar el umbra de la acción ó aplicación del efecto sobre los handles,
+
+			ó targets, más al pasar en éste caso de un valor de "1.6", el efecto se tornará negativo ó
+
+			retrógrado
+
+	
+
+
+
+

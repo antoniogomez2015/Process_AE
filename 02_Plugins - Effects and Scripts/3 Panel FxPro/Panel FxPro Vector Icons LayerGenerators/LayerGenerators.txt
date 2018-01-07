@@ -1,0 +1,103 @@
+
+
+http://aescripts.com/layergenerators/
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+LayerGenerators
+
+
+	Panel FxPro/ LayerGenerators
+
+
+	-este nos permite crear contenido, crear nuevas layers, en serie a una composición a través, de diferentes
+
+	criterios para lo cuál, el plugins, dispone de tres diferentes panenes los cuales hacen como si fuesen 3 
+
+	diferentes plugins
+
+
+	_de ésta manera, podremos generar y administrar más contenido dentro de composiciones y proyectos
+
+
+
+	Vector Icons:
+	_____________
+
+	_ésta panel nos permite generar layers, de tipo shape, las cuales serán íconos de uso de general a través,
+
+	de diferentes empaquetados como "From Awesome", ó "Material Design", entre otros disponibles
+
+
+	_de ésta manera, pdoremos generar layers, de íconos útiles para diferentes procesos de animación, otros
+
+
+
+		_Icon Size:
+
+			_ésta opción nos permite indicar el tamño en pixeles que tendrán layers, generadas entre 
+
+			tamaños que van desde los "16px", hasta los "1024px", aunque ésto es relativo ya que las 
+
+			layers, generados son de tipo shape, las cuales podremos posteriormente escalar sin perdida
+
+			de resolución
+
+
+		_Icon Set:
+
+			_ésta opción nos permite seleccionar un set de íconos disponibles entre los cuales disponimos
+
+			de los siguientes:
+
+
+				_Font Awesome
+
+				_Foundation
+
+				_Google Material Design
+
+				_IcoMoom
+
+				_Ionicons
+
+				_Typicons
+
+
+		_Category:
+
+			_así, como también, podremos hacer filtrados de categorías dependiendo del icon set, seleccionado
+
+			en el paso anterior
+
+
+		_Search:
+
+			_e incluso más allá de haber seleccionado un icon set, y una categoría, podemos ahora hacer una
+
+			búsqueda más específicas, tipeando un keyword, específico de filtrado
+
+
+		_Icon List:
+
+			_ésta opción nos permite visualizar los iconos arrojados del icon set, y categorias así, como de
+
+			búsquedas personalizadas
+
+
+		_Icon Count:
+
+			_éste es un view, que nos permite ver un sumario de la cantidad de íconos ha generar por el sistema
+
+
+		_Create:
+
+			_éste botón nos permite generar el sistema de layers
+
+
+
+		

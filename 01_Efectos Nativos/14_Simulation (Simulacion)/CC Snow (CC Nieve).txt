@@ -1,0 +1,123 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos pemritirá crear sistemas de partículas capaces de representar tanto nieves sutiles ó
+
+	densas como también, sistema de átonos oscilantes, partículas microscópicas, otros
+
+
+	NOTA: éste sistma de partículas sólo funciona con gravedad aplicada positiva, osea con caida hacia abajo
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Snow: (CC Nieve)
+	________
+
+
+		_Amount:
+
+			_ésta opción nos permitirá controlar la cantidad de partículas emitidas por el sistema de
+
+			ésta manera, podremos indicar que el sistema emita más ó menos partículas en relación a
+
+			las necesidades de producción y paso contínuo
+
+
+		_Speed:
+
+			_ésta opción nos permitirá controlar la velocidad de emisión que tendrá el sistema generado
+
+			de partículas así, las partículas podrán caer ha mayor ó menor velocidad
+
+
+		_Amplitude:
+
+			_ésta opción nos permitirá controlar la grado ó rango de oscilación que tendrá cada
+
+			partícula de izquierda ha derecha y viceversa
+
+
+		_Frecuency:
+
+			_ésta opción nos permitirá controlar el intervalo ó repeticiones de oscilación que tendrá
+
+			cada partícula para que así, podamos crear sistemas de partículas con movimientos 
+
+			oscilantes más ó menos acusados ó sutiles para crear diferentes efectos
+
+
+		_Fake Size:
+
+			_ésta opción nos permitirá indicar el tamaño que tendrá cada partícula del sistema generada
+
+			para que así, podamos crear copos ó partículas más ó menos pequeñas en relación a las
+
+			necesidades de producción y paso contínuo
+
+
+		_Source Depth:
+
+			_ésta opción nos permitirá controlar el nivel de densidad de partículas en planos 
+
+			posteriores al primer plano, en los que las partículas son representadas más pequeñas para 
+
+			que así, éstas partículas en planos posteriores sean eliminadas lo cuál, simplificará la 
+
+			cantidad de partículas creadas por el sistema de ésta manera, ésta opción se complementa 
+
+			con la opción de "Amount"
+
+
+		_Opacity:
+
+			_ésta opción nos permitirá integrar el sistema de partículas con el resto de layers, de la
+
+			respectiva composición, al poder graduar la opacidad del sistema de partículas generado
+
+
+
+
+
+
+

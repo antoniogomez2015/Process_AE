@@ -1,0 +1,18 @@
+
+
+AEScripts Project Sync 3
+
+
+
+	-primero debemos importar un proyecto en el panel proyecto, para esto hacemos 'mouse left doble click',
+
+	en el panel proyecto, o hacemos 'Control + I', y buscamos el proyecto 'name.aep', e importamos la carpeta
+
+	de todo el proyecto al panel de proyectos de AfterEffects
+
+
+	-luego seleccionamos la carpeta que conforma el proyecto que hemos importado y con esta seleccionada
+
+	vamos ha, el panel 'ProyectSync', y hacemos 'Link Proyect', y buscamos el mismo proyecto que hemos
+
+	importado 'name.aep'

@@ -1,0 +1,45 @@
+
+
+http://aescripts.com/pt_cropprecomps/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview / Crop PreComps
+
+
+	Crop PreComps:
+
+
+	-este nos permite recortar todas las precomposiciones exitentes dentro de una composición, ésto es 
+
+	realmente práctico, ya que en un sólo paso nos permite recortar todas las composiciones que hayamos
+
+	agrupado por diferentes procesos de forma automática ó por defecto
+
+
+
+	Workflow:
+	_________
+
+
+	_primero debemos tener una composición de trabajo
+
+	
+	_así, como también, composiciones anidadas las cuales tengan por lo general el mismo tamaño de la 
+
+	composición que las contiene
+
+
+	_para luego, seleccionar una de ésta precomposiciones a las cuales deseamos reescalar al tamaño de su
+
+	contenido real y, luego con ésta seleccionada vamos al panel "Crop PreComps", y hacemos "Crop Precomps"
+
+
+	_y así, podremos ver que todas las pre composiciones habrán tomado el tamaño real de su contenido en 
+
+	un sólo paso
+

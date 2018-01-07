@@ -1,0 +1,417 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos permitirá texturizar layers, y a su vez, agregando ha éstas brillo y especularidad y sobre
+
+	todo volúmen al emular áreas con relieve y depresiones, ésta opción es similar a la opción de "CC Glass"
+
+
+	_más también, tendremos la posibilidad de crear efectos de relieves específicos a través, de una layer, la
+
+	cuál, hará de proxi, y de la cuál, se extraerá la información de color, alpha, ó luminancia para la 
+
+	generación de un bump map
+
+
+	_Aúnque la opción de "CC Plastic", está más orientada a la generación de efectos especiales y a los procesos
+
+	de producción y paso contínuo, ésta opcíon se muy utilizada con el efecto "CC Vector Blur", y el efecto
+
+	"CC Blobbylize", para la generación de efectos complejos como magmas, partículas acuaosas, otros
+
+
+	_y a diferencia del efecto "CC Glass", el efecto "CC Plastic", dispone de una propiedad extra, que es la
+
+	capacidad de hacer extracciones ó recotes sobre la layer, sobre la cuál, se aplicó el efecto por medio de
+
+	la layer, proxi, de ésta manera, podremos hacer mattes, ó enmascaramientos entre otras posibilidades de
+
+	producción y paso contínuo
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	CC Plastic: (CC Plastic)
+	___________
+
+
+		Surface Bump
+
+
+			_Bump Laye:
+
+				_ésta opción nos permitirá seleccionar una layer, la cuál, hará de proxi, y de la
+
+				cuál, se extraerá la información de color, alpha, ó luminancia para la generación
+
+				del efecto ha crear sobre la imágen base
+
+
+			_Property:
+
+
+				_R/G/B:
+
+					_ésta opción nos permitirá indicarle al sistema cuál, será el criterio ó
+
+					algoritmo de trabajo de ésta maenra, podremos indicarle que tome la 
+
+					información de cualquiera de los canales R/G/B, de forma independiente
+
+
+				_Alpha:
+
+					_ésta opción nos permitirá indicarle al sistema cuál, será el criterio ó
+
+					algoritmo de trabajo de ésta maenra, podremos indicarle que tome la 
+
+					información del canal alpha, de forma independiente a los demás valores
+
+
+				_Luminance/Lightness:
+
+					_ésta opción nos permitirá indicarle al sistema cuál, será el criterio ó
+
+					algoritmo de trabajo de ésta maenra, podremos indicarle que tome la 
+
+					información de brillo y luminancia de forma independiente a los demás 
+
+					valores
+
+
+	
+			_Softness:
+
+				_ésta opción nos permitirá indicarle al sistema cuanta información tomará de la
+
+				layer, base, en relación a su vez, del criterio seleccionado en el paso anterior
+
+
+				_de ésta manera, podremos indicarle al sistema que haga un esceneo más detallado 
+
+				de la imágen, ya que con valores cercanos ha "0", lo cuál, creará muchos detalles 
+
+				sobre la imagén, pero a su vez, éstos detalles serán más pequeños
+
+
+				_ó por el contrario, con valores cercanos ha "100", lograremos menos detalles pero
+
+				éstos a su vez, serán más grandes y con un valomen de relieve y depresiones mucho
+
+				mayor y más notable, con más brillo y especularidad visible
+
+
+				_los valores más recomendados para la mayoría de casos es de entre "20-50"
+
+	
+			_Height:
+
+				_ésta opción nos permitirá indicarle al sistema el umbral de penetración del efecto
+
+				sobre la información rastreada sobre la imágen base
+
+
+				_de ésta manera, podremos lograr efectos más abrasivos ó más sutiles, ésta opción
+
+				está intimamente relaciónada con la opción de "Softness", la cuál, también, afecta
+
+				ó influye en la cantidad de relieve ó depresiones visibles y en su tamaño ó escala
+	
+
+			_Cut Min:
+
+				_con valores superiores ha "0", por ejemplo: "25", podremos hacer que las áreas 
+
+				fuera del perímetro del cubierto por la layer, proxi, desaparezcan sobre la layer
+
+				base, de ésta manera, podremos generar mattes, ó máscaras sobre la layer, base lo
+
+				cuál, nos permitirá más funciones para producción y composición
+
+
+				_con la diferencia que el recorte generado tendrá incluido el desface por el efecto
+
+				de relieve y depresiones sobre la imágen base
+
+
+			_Cut Max:
+
+				_con valores inferiores ha "100", por ejemplo: "20", podremos hacer que las áreas 
+
+				dentro del perímetro del cubierto por la layer, proxi, desaparezcan sobre la layer
+
+				base, de ésta manera, podremos generar mattes, ó máscaras sobre la layer, base lo
+
+				cuál, nos permitirá más funciones para producción y composición
+
+
+				_con la diferencia que el recorte generado tendrá incluido el desface por el efecto
+
+				de relieve y depresiones sobre la imágen base
+
+
+		Light
+
+
+			_Using:
+
+
+				_Effect Light:
+
+					_ésta opción nos permitirá indicarle al sistema que utilize la iluminación
+
+					auto generada por el mismo efecto
+
+
+					_de ésta manera, dispondemos de dos tipos de luces, una luz direccional 
+
+					la cuál, emulará al sol, y otra luz de tipo puntual 
+
+
+				_AE Light:
+
+					_ésta opción nos permitirá indicarle al sistema que utilize las layers, de
+
+					tipo "light", existentes en la composición respectiva
+
+
+					_de ésta manera, tendremos más control sobre la iluminación ya que así, 
+
+					podremos ubicar las luces en lugares más específicos como también, 
+
+					dispondremos de todos los controles propios de las layers, de tipo "light"
+
+
+			_Light Intensity:
+
+				_ésta opción nos permitirá indicarle al sistema la intensidad ó dureza de la 
+
+				iluminación generada sobre el sistema sobre la layer, base
+
+
+				NOTA: ésta opción aplicará sólo cuando la opción de "Light/Using/Effect Light", 
+
+				esté seleccionada
+
+
+			_Light Color:
+
+				_ésta opción nos permitirá indicarle al sistema el color de la iluminación generada 
+
+				sobre el sistema sobre la layer, base
+
+
+				NOTA: ésta opción aplicará sólo cuando la opción de "Light/Using/Effect Light", 
+
+				esté seleccionada
+
+
+			_Light Type:
+
+
+				_Distant Light:
+
+					_ésta opción nos peritirá indicarle al sistema el tipo de luz auto generada
+
+					ha utilizar por el sistema, en éste caso el sistema creará una iluminación
+
+					de tipo direccional ó spot, la cuál, emulará al sol sobre la layer, bese
+
+
+					NOTA: ésta opción aplicará sólo cuando la opción de 
+
+					"Light/Using/Effect Light", esté seleccionada
+
+
+				_Point Light:
+
+					_ésta opción nos peritirá indicarle al sistema el tipo de luz auto generada
+
+					ha utilizar por el sistema, en éste caso el sistema creará una iluminación
+
+					de tipo puntual, la cuál, emulará una luz de punto convencioanl sobre la 
+
+					layer, bese
+
+
+					NOTA: ésta opción aplicará sólo cuando la opción de 
+
+					"Light/Using/Effect Light", esté seleccionada
+
+
+			_Light Height:
+
+				_ésta opción nos permitirá indicarle al sistema la profundidad del sistema de 
+
+				iluminación auto generado sobre la layer, base en la cordenada "Z"
+
+
+				NOTA: ésta opción aplicará sólo cuando la opción de "Light/Using/Effect Light", 
+
+				esté seleccionada
+
+
+			_Light Position:
+
+				_ésta opción nos permitirá indicarle al sistema la posición del sistema de 
+
+				iluminación auto generado sobre la layer, base en las cordenadas "X / Y"
+
+				
+				_ésta opción aplica sólo sobre la iluminación de tipo "Point Light"
+
+
+				NOTA: ésta opción aplicará sólo cuando la opción de "Light/Using/Effect Light", 
+
+				esté seleccionada
+
+
+			_Light Direction:
+
+				_ésta opción nos permitirá indicarle al sistema el ángulo con el que insidirá la 
+
+				iluminación generada sobre la layer, base
+
+				
+				_ésta opción aplica sólo sobre la iluminación de tipo "Distant Light"
+
+
+				NOTA: ésta opción aplicará sólo cuando la opción de "Light/Using/Effect Light", 
+
+				esté seleccionada
+
+
+
+			_Ambient Light Color:
+
+				_ésta opción nos permitirá indicarle al sistema el color de la iluminación auto 
+
+				generado sobre la layer
+
+
+				NOTA: ésta opción aplicará sólo cuando la opción de "Light/Using/Effect Light", 
+
+				esté seleccionada
+
+
+
+
+		Shading
+
+
+			_Ambient:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la iluminación ambiente
+
+				por defecto a parte de la iluminación auto generada en los pasos anteriores como de
+
+				las luces personalizadas en la composición respectiva
+
+
+				_de ésta manera, podreoms crear un ambiente más claro ó en penumbra, otros
+
+
+			_Diffuse:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el tono del material
+
+				difuso, de ésta manera, podremos hacer que éste tenga un tono normal el cuál, está 
+
+				definido en un valor de "50", más podemos hacer que éste sea más claro ó más oscuro 
+
+				al hacer que éste sea más ó menos receptivo a la iluminación existente en la escena
+
+
+				_de ésta manera, ésta opcíon estará intimamente relacionada con la opcíon anterior
+
+				de "Ambient", ya que ambas influenciarán el tono de la imágen resultante del proceso
+
+
+			_Dust:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el nivel "Roughtness",
+
+				ó esmerilado del material lo cuál, influencia directametne sobre la especularidad
+
+				del efecto lo cuál, permitirá que logremos brillos especulares sobre áreas más 
+
+				grandes y generales ó sobre áreas más pequeñas y específicas lo que a su vez, nos
+
+				permitirá crear diferentes efectos de producción y paso contínuo
+
+
+			_Specular:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el umbral de especularidad
+
+				aplicada sobre las áreas efectadas por el efecto, de ésta manera, podremos crear
+
+				un efecto más sutil ó más acusado y apreciables sobre la layer, base
+
+
+			_Roughtness:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el nivel esmerilado del 
+
+				material lo cuál, influencia directametne sobre la especularidad del efecto y a su 
+
+				vez, del brillo lo cuál, permitirá que logremos brillos especulares sobre áreas más
+
+				grandes y generales ó sobre áreas más pequeñas y específicas lo que a su vez, nos
+
+				permitirá crear diferentes efectos de producción y paso contínuo
+
+
+				_la opción anterior de es "Dust", es similar ha la opción de "Roughtness", más la 
+
+				opción de "Roughtness", afecta también, al brillo general de la imágen
+
+
+
+			_Metal:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el brillo general de la
+
+				imágen emulando las propiedades del metal sobre la layer, base, lo cuál, a su vez,
+
+				resaltará todas las propiedades del efecto aplicado
+
+
+
+
+
+

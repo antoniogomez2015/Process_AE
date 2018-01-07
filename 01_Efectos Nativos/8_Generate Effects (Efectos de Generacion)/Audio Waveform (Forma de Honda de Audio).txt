@@ -1,0 +1,202 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste es una variante más simplificada del efecto "Audio Spectrum", ya en éste efecto podremos lograr 
+
+	efectos similares aunque con acabados y manejos diferentes que nos permitirán ampliar las posibilidades de
+
+	producción y desarrollo
+
+
+	_de ésta manera, podremos lograr efectos eléctricos, de ondas, poluciones, partículas orbitales, otros
+
+
+	_entre otras muchas posibilidades de producción y paso contínuo
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Audio Waveform: (Forma de Honda de Audio)
+	______________
+
+
+		_Audio Layer:
+
+			_ésta opción nos permitirá indicar la layer, de la cuál, se tomará la información del 
+
+			espectro de audio
+
+
+		_Start Point:
+
+			_ésta opción nos permitirá indicar el punto de comienzo del path, ó trazado lineal 
+
+			del sistema sobre el cuál, se conformará el espectro de audio
+
+
+		_End Point:
+
+			_ésta opción nos permitirá indicar el punto de final del path, ó trazado lineal 
+
+			del sistema sobre el cuál, se conformará el espectro de audio
+
+
+		_Path:
+
+			_ésta opción nos permitirá indicar un path, ó trazado personalizado el cuál, podrá
+
+			tener una forma compleja como una forma circular, ó totalmente personalizada, otros
+
+
+		_Displayed Samples:
+
+			_ésta opción nos permitirá indicar la cantidad de barras, líneas ó points, los 
+
+			cuáles, conformarán el sistema lo cuál, determinará la densidad ó profusión del 
+
+			sistema
+
+
+		_Maximum Height:
+
+			_ésta opción determinará la altura ó longitud de la onda representada pòr el sistema
+
+			de ésta manera, podremos hacer que el efecto de espectro de onda sea más acudado y
+
+			violento ó rápido
+
+
+		_Audio Duration (milisecond):
+
+			_ésta opción nos permitirá indicar la capacidad de reacción del sistema en relación 
+
+			a tiempo de reacción así, éste podrá hacer una interpretación del espectro de audio
+
+			por ejemplo, cada 90, milisegundos ó de manera más rápida ó más lenta
+
+
+		_Audio Offset (milisecond):
+
+			_ésta opción nos permitirá hacer desfaces, de intervalos de la reacción del sistema
+
+			del valor anterior, de ésta manera, podremos animar la capacidad de reacción del 
+
+			sistema ó capacidad del mismo
+
+
+		_Thickness:
+
+			_ésta opción nos pemitirá indicar rl grosor ó volúmen del sistema lo cuál, hará que 
+
+			éste sea más grueso ó tosco ó próximo ó como más veloz, ó con más peso visual, otros
+
+
+		_Softness:
+
+			_ésta opción nos permitirá integrar mejor el sistema con las demás layers, lo cuál,
+
+			hará un efecto de lightness, otros
+
+
+		_Random: Seed (Analog):
+
+			_ésta opción nos permitirá hacer variaciones de desplazamiento del sistema pudiéndo 
+
+			así, colocar el sistema en un punto determinado de interés, así, como animar éste,
+
+			otros
+
+
+		_Inside Color:
+
+			_ésta opción nos pemitirá indicar un color de relleno ó fill, para el sistema, 
+
+			ésta opción será apreciable cuando el sistema tenga un grosor ó "thickness", 
+
+			apreciable ó bastante acusado
+
+
+		_Outside Color:
+
+			_ésta opción nos pemitirá indicar un color de contorno ó stroke, para el sistema, 
+
+			ésta opción será apreciable cuando el sistema tenga un grosor ó "thickness", 
+
+			apreciable ó bastante acusado
+
+
+		_Waveform Options:
+
+			_ésta opción nos permitirá filtrar el audio, de ésta manera, podremos utilizar el
+
+			audio por canal específico tanto el canal derecho como el izquierdo así, como 
+
+			también, una combinación de ambos ó canal mono
+
+
+		_Display Options:
+
+			_ésta opción nos permitirá indiar el tipo de visualización del sistema deseado 
+
+			así, podremos seleccionar entre: 
+
+
+				_digital:
+
+					_barras, ó segmentos
+
+
+				_Analog Lines:
+
+					_línea quebrada
+
+
+				_Analog Dots:
+
+					_puntos en crestas
+
+
+			_de ésta manera, podremos seleccionar cada modo de visualización en relación al
+
+			efecto deseado
+
+
+		_Composite On Original:
+
+			_esta opción nos permitirá integrar el sistema con la layer, sobre la cuál, hemos
+
+			aplicado el sistema
+
+
+
+

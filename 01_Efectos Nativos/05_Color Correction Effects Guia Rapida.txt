@@ -1,0 +1,409 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Color Correction:
+	_________________
+
+
+		AutoColor: (Color Automático)
+
+			_éste nos permitirá hacer correcciones automática del color en un video a través, del tiempo
+
+			para que así, de ésta manera, la corrección del color se haga de manera automática y no 
+			
+			tengamos que haerla de forma manual frame to frame
+
+
+
+		_Auto Contrast: (Contraste Automático)
+
+			_éste nos permitirá hacer correcciones automática del contraste en un video a través, del 
+
+			tiempo para que así, de ésta manera, la corrección del contraste se haga de manera automática 
+
+			y no tengamos que haerla de forma manual frame to frame
+
+
+
+		AutoLevels: (Blanco y Negro)
+
+			_éste nos permitirá hacer correcciones automática del de gamma en un video a través, del tiempo 
+
+			para que así, de ésta manera, la corrección de gama se haga de manera automática y no tengamos 
+
+			que haerla de forma manual frame to frame
+
+
+
+		Brightness & Contrast: (Brillo y Contraste)
+
+			_éste nos brida un control para las altas luces universal y otro control universal para las
+
+			sombras lo que nos permite un control rápido para la mayoría de correcciónes de gamma de una 
+
+			imágen
+
+
+
+		_Change Color: (Cambiar Color)
+
+			_éste nos permitirá seleccionar un color de la imágen para hacer virados de éste así, como 
+
+			también, de la luminocidad y saturación de éstas áreas en los espacios de color rgb, y  hsl
+
+
+
+		_Change To Color: (Cambiar de Color)
+
+			_éste nos permitirá prácticamente las mismas opciones que el efecto de change color, más el
+
+			el efecto change to color, nos permitirá aunado ha éste seleccionar el color por el cuál, 
+
+			se cambiará el color seleccionado inicialmente y no sólo un virado radial de colores
+
+
+			_y aunado a lo anterior éste también, nos permtirá hacer mattes, alphas, y mapas de densidad 
+
+			de manera colateral a través, de las opciones de "View/Color Correcion Mask"
+
+
+
+		_Channel Mixer: (Mezclador de Canales)
+
+			_éste nos permitirá hacer virado de color de forma específica donde podremos hacer que un
+
+			canal determinado pase a tomar la información de otro canal de forma gradual
+
+
+		
+		_Color Balance: (Equilibrio de Color)
+
+			_éste nos permitirá hacer ajustes de color por canal pudiendo así, podremos aumentar la 
+
+			influencia por canal ó aplicar su color complementario a través, de un valor negativo y a su 
+
+			vez, en los tangos de las altas luces, medio tonos y sombras
+
+
+		_Color Balance (HLS): (Equilibrio de Color HSL)
+
+			_éste efecto es una mezcla de varios filtros a través, del cuá, podremos haer ajustes de
+
+			tono, saturación y brillo como también. podremos hacer virado general de color a través, de 
+
+			una rueda de color y a su vez, ajustar ó aplicar éstos cambios tanto en las altas luces 
+
+			como en la saturación
+
+
+		
+		_Color Link: (Enlace de Colores)
+
+			_éste nos permtirá convertir la respectiva layer, en un sólido de un color promediado a paritr
+
+			de average de pixeles de la imágen a partir de diferentes algoritmos la cuál, podremos 
+
+			integrar a las demás layers, a través, de los modos de fusión nativos disponibles en el efecto
+
+
+
+		_Color Stabilizer: (Estabilizador de Color)
+
+			_éste nos permitirá hacer correcciones de Brillo ó luminanci,  gamma y saturación, de un video
+
+			para que así, podamos ir más allá de las opciones de los plugins, "AutoLevels, y AutoContrast",
+
+			ya que ahora a través, de targets, podremos animar las áreas de interés de la imagen lo que 
+
+			nos brindará más control que de la forma automática, para planos complicados
+
+
+
+
+		_Shadow / Hightlight: (Sombra Iluminacion)
+
+			_éste efecto nos permtirá hacer correcciones gamma sobre la imágen, orientado a la estabilización 
+
+			de video ya que éste nos permitirá mantener en un rango aceptable y contrlable los extremos de la 
+
+			gamma tonal, de ésta manera, éste efecto funciona de forma complementaria a los efectos de 
+
+			"Color Stabilizer", "AutoLevels", "AutoContrast"
+
+
+
+
+		_Colorama: (Colorama)
+
+			_éste nos permtirá convertir imágenes ha colores planos para crear mattes, alphas, fondos 
+
+			tramados, efectos de paso contínuo, elementos para motion graphycs, otros
+
+
+
+		_Broadcast Colors: (Colores de Emision)
+
+			_éste nos permitirá filtrar un video a través, de estándares como NTSC, y PAL, para que así,
+
+			a través, de éstos poder filtrar el video en relación a la luminancia, saturación otros, de 
+
+			ésta maenra, podremos limitar el espectro de la imágen ha un modo seguro dentro de los estándares 
+
+			deseados			
+
+
+			_así, como también, podremos crear efectos colaterales como mapas de densidad y transparencias
+
+			entre otras posibilidades
+
+
+
+		_Curve: (Curvas)
+
+			_ésta nos permitirá hacer correcciones y ajuste de tono, saturación y brillo de manera semu
+
+			compuesta a través, de hasta 256 valorse ó puntos posibles tanto en el espacio de color RGB, 
+
+			como por canales independientes, es recomendabla usar éste efecto en conjunto en "Levels"
+
+
+
+
+		_Equalize: (Equializar)
+
+			_éste nos permnitirá equilibrar el espectro de gamma de la imágen, dejando ésta con todos su 
+
+			valores al máximo para diferentes procesos de producción y de paso contínuo
+
+
+		
+		_Exposure: (Exposicion)
+
+			_éste efecto nos permtirá hacer ajustes de exposición ó gamma en una imágen a través, de 
+
+			valores libres ó a través, de valores fotográficos como 
+
+			"1 | 1.4 | 2 | 2.8 | 4 | 5.6 | 8 | 11 | 16 | 22"
+
+
+			_como también, efectos colaterales, por medio de la opción de "offset", ha 32bits
+
+
+
+		_Gamma / Pedestal / Gain: (Gama Pedestal y Ganancia)
+
+			_éste nos permtirá hacer ajustes y correcciones en el HSL, tono, saturación y brillos a
+
+			través, de los parámetros de Gamma / Pedestal / Gain, por canal y preservación de los 
+
+			detalles en las sombras
+
+
+		
+		_Hue / Saturation:  (Tono Saturacion)
+
+			_ése nos permitirá hacer ajustes de HLS, ó tono, saturación y brillo ha modo de virado
+
+			de color de forma global y por canal en los modo "RGB", y "CMYK", y de forma gráfica
+
+
+		
+		_Leave Color: (Conservar Color)
+
+			_éste efecto nos permtirá hacer un "isolate", ó aislamiento de color seleccionado en la 
+
+			imágen de la layer, respectiva
+
+
+
+
+		_Levels: (Niveles)
+
+			_éste efecto nos permtirá hacer ajustes y cambios de HSL, ó tono, saturación y brillo 
+
+			de una imágen ó layer, de forma global ó por canales a través, de handles, y un gráfico 
+
+			en una dimensión horizontal para la edición global y por canales de forma intuitiva y 
+
+			proporcional en relación al tono saturación y brillo ó "Gain / Pedestal / Gamma"
+
+
+		
+
+		_Levels Individual Controls: (Niveles Controles Indivisuales)
+
+			_ésta es una variante del efecto levels, más ésta versión dinpone de controles para la
+
+			edición por canal de forma visible directamente en la interface, lo cuál, permitirá la
+
+			edición múltiple tanto para la edición global y por canal de forma conjunta
+
+
+
+
+		_Photo Filter: (Filtro de Foto)
+
+			_éste efecto nos permtirá teñir ó agregar una dominante sobre una imágen ó layer, 
+
+			especialmente útil para la edición de color en fotografías 
+
+
+
+
+		_PS Arbitrary Map: (Mapa Albitrario de Photoshop)
+
+			_éste efecto nos permtirá cargar presets, personalizados del efecto "Curves", de la 
+
+			aplicación de "Photoshop", para que así, podamos aplicar dentro de after effects, 
+
+			éstas correcciones externas de gamma
+
+
+
+		Tint: (Tinta)
+
+			_éste efecto nos permitirá teñir una imágen  a través, de dos controles de color, 
+
+			uno para las negros oscuros y otro para los medios tonos y altas luces e integrable
+
+			con la layer, original a través, de un control
+
+			_así, como también, nos pemritirá hacer efectos por ejemplo de blanco y negro, sepia, 
+
+			solarización, otros
+
+
+
+		_Tritone: (Tritono)
+
+			_éste efecto nos permtirá teñir una imágen ó agregarle una dominante de color cambiando 
+
+			la información de los pixeles originales de la imágen, de igual manera que el efecto de tint,
+
+			más un valor de color adicional para los medio tonos
+
+			_así, como también, nos pemritirá hacer efectos por ejemplo de blanco y negro, sepia, 
+
+			solarización, otros
+
+
+		
+		_CC Toner: (Tonos CC)
+
+			_éste efecto nos permtirá teñir una imágen ó agregarle una dominante de color cambiando 
+
+			la información de los pixeles originales de la imágen, de igual manera que el efecto de tint,
+
+			y tritone, más dos valor de color adicional para los brillos y zonas oscuras, en la nueva 
+
+			modalidad de "Pantone"
+
+			_así, como también, nos pemritirá hacer efectos por ejemplo de blanco y negro, sepia, 
+
+			solarización, otros
+
+
+
+		_CC Color Neutralizer: (CC Color Neutralizer)
+
+			_éste efecto es una mezcla de los efectos de "Color Balance", y "Leave Color", a través, del 
+
+			cuál, podremos hacer neutralización de color tanto en las altas luces, medios tonos y sombras 
+
+			para poder así, eliminar dominantes de color y lograr estilos ó ajustes de color característicos 
+
+			y específicos
+
+
+
+		_Selective Color: (Color Selectivo)
+
+			_éste efecto nos permite una edición selectiva y avanzada de color, el cuál, nos permitirá 
+
+			trabajar tanto en el espacio de color e entrada: R/G/B, como C/M/Y/ Blacks / Whites / Neutrals
+
+			_para posteriormente hacer ajustes y modificaciones sobre éstos canales a través, del método de 
+
+			"C/M/Y/K"
+
+
+
+
+		_CC Color Offset: (Desplazamiento de color CC)
+
+			_éste efecto nos permitirá hacer virados de color por canal dentro del espacio de color R/G/B, 
+
+			a través, de wheels, ó ruedas de color de forma similar al efecto de "Hue/Saturation"
+
+
+		_CC Kernel: (CC Kernel)
+
+			_éste efecto nos permtirá ha modo de kernel ó núcleo poder a partir de éste crear diferentes efectos 
+
+			como una matriz compositiva en la cuál, podremos crear los siguientes tipos de efectos;
+
+			_gaussian blur, sharpen, emboss and find edges, endless
+
+
+
+
+		_Vibrance: (Intensidad)
+
+			_el efecto vibrance, resulta especialmente útil para aumentar la saturación en una imagen sin 
+
+			sobresaturar los tonos de aspecto. La saturación de colores con tonos en el rango de magenta 
+
+			a naranja se ve afectada en menor medida por los ajustes de intensidad.
+
+			_éste efecto tendrá influencia sobre los tonos cálidos y frios más saturados y oscuros, 
+
+			resaltándolos
+
+
+		
+		_Black & White: (Blanco y Negro)
+
+			_éste efecto nos permitirá convertir una imágen de color en una imágen blanco y negro de forma 
+
+			práctica y directa de ésta manera, dispondremos de controles a través, de los espacios de color 
+
+			R/G/B, y C/M/Y, para hacer ajustes de conversiones de toda la gamma tonal de la imágen
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

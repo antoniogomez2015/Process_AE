@@ -1,0 +1,84 @@
+
+
+http://aescripts.com/good-parents/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express
+
+
+	Good Parents
+
+
+	-este nos permite hacer emparentamientos de layers, de forma interactiva de ésta manera podremos
+
+	activar dichos emparentamientos mútiples en diferentes puntos del tiempo en relación a las necesidades
+
+	de nuestra animación
+
+
+	
+	Workflow Single:
+
+
+	_workflow, para relacionamiento de elemento por elemento, ésto es especialmente útil para hacer sistemas
+
+	de arrastre de elementos por otro elemento principal
+
+
+	_para ésto debemos seleccionar todos los elementos que serán arrastrados ó elementos child, ó hijos
+
+
+	_para luego con éstos seleccionados ir al panel "goodParents", y en cantidad dejas por defectos "1", para
+
+	luego hacer "Parents!"
+
+
+	_para que así, ha éstos elementos hijos les sea agregado el efecto "Good Parents", para que así, de ésta manera
+
+	en el campo de búsqueda podamos seleccionar la layer, principal ó motivo de arrastre a través, del cuál, éste
+
+	arrastrará a los demás con el efecto "Good Parents"
+
+
+	_ésto será posible a través, del tiempo a través, de la propiedad "Enable", dentro del plugins "Good Parents",
+
+	dentro de cada elemento child, ó hijo
+
+
+	_de ésta manera podremos hacer animaciones avanzadas de alta complejidad y de manera práctica
+
+	
+
+	Workflow Multiple:
+
+
+	_también, tenemos la posibilidad de un elemento sea esclavo no sólo de un elemento sino que también, puede ser
+
+	esclavo de varios elementos que podrán hacer arrastre de éste
+
+
+	_éste proceso lo podemos hacer al comenzar el proceso ó tambíen, podriamos seleccionar el elementos esclavos y 
+
+	actualizar la configuración del plugins, para ésto, primero vamos al panel "goodParents", y aumentamos la cantidad
+
+	de relacionamientos, ej: 2, ó 3, para luego seleccionar las respectivas y deseadas layers, que harán de esclavas para
+
+	luego hacer "Parents", en el panel "goodParents", para que así, dichos efectos sean actualizados
+
+
+	_de ésta manera a través, de una slider, "Current Parent", podremos seleccionar que elemento padre ó controlador de
+
+	los disponibles podrá hacer arrastre del elemento esclavo a través, de la propiedad animable "Enable", dentro del
+
+	plugins
+
+
+	_de ésta manera podremos hacer animaciones incluso más complejas y más prácticas
+
+
+

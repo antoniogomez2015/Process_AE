@@ -1,0 +1,195 @@
+
+
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+			http://revisionfx.com/products/rsmb/after-effects/
+
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+		
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	RE:VisionFx RSMB (Reel Smart Motion Blur):
+	__________________________________________
+
+
+	_éste efecto nos permitirá crear ó agregar "motion blur", realista ha elementos en movimiento de la escena ha nivel
+
+	global ó específico ha layers, determinadas de forma rápida y práctica y sobre todo ligera en comparación con las
+
+	opciones nativas de apliacación de motion blur
+
+
+	_la aplicación por defecto dispone de la activación de motion blur, por layer, específicamente así, como el forzado
+
+	de motion blur, a través, de un efecto nativo yendo ha "Effects/Time/CC Force Motion Blur"
+
+
+	_más éstas opciones requiere muchos recursos del sistema lo cuál, hace inviable ésta opción es proyectos medianamente
+
+	complejos para lo cuál, lo más recomendable es utilizar las opciones de "REVisionFx Rell Smart Motion Blur", a través,
+
+	de las cuáles, obtendremos mejores resultados y un menor costo para el sistema instalado
+
+
+
+
+
+	RSMB Pro:
+	_________
+
+
+		_Alt Motion Src:
+
+			_
+
+
+		_Track Frame:
+
+			_
+
+
+		_Display:
+
+			_
+
+
+		_Use GPU:
+
+			_
+
+
+		_Draw Geom:
+
+			_
+
+
+		_main_BG: Blur Amt:
+
+			_
+
+
+		_Main_BG Settings:
+
+			_
+
+
+			_Main_BG_ Sensitivity:
+
+				_
+
+
+			_Main_BG_ Image Track:
+
+				_
+
+
+			_Main:BG: First Mask:
+
+				_
+
+
+			_Main_BG_ Last Mask:
+
+				_
+
+
+		_FGI Settings:
+
+
+			_FGI: Blur Amt:
+
+				_
+
+
+			_FGI: Sensitivity:
+
+				_
+
+
+			_FGI: Image Track:
+
+				_
+
+
+			_DGI: Matte:
+
+				_
+
+
+			_FGI: Matte Chan:
+
+				_
+
+
+			_FGI: Inv Matte Shrink:
+
+				_
+
+
+			_FGI: First Mask:
+
+				_
+
+
+			_FGI: Last Mask:
+
+				_
+
+
+
+
+		_Track Point:
+
+
+			_Pt 1...: Use:
+
+				_
+
+
+			_Pt 1...: Pos:
+
+				_
+
+
+			
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

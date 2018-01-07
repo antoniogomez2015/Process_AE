@@ -1,0 +1,47 @@
+
+
+
+
+RD, serie de escripts, gratuitos http://www.redefinery.com/   http://www.redefinery.com/ae/view.php?item=rd_Approximate
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+RD GetSmart
+
+
+	este escript, tiene como objetivo de lograr la fijación de diversidad de "texto plano" puntuacion en sus 
+
+	representaciones tipográficas "inteligentes". Por ejemplo: comillas dobles / dobles rectas -> comillas dobles 
+
+	/ dobles rizadas acentos abiertos / apóstrofes -> izquierda / derecha comillas tipográficas
+
+
+
+WorkFlow
+---------
+
+
+	-primero seleccionamos una composicion en el panel proyecto
+
+
+	-luego vamos al panel rd - GetSmart, y seleccionamos uno o varios de los criterios disponibles
+
+	
+	-y para la operacion aplicamos 'Smarten Up'
+
+
+
+
+
+
+NOTA	he hecho pruebas y no he logrado resultados
+
+
+	
+	
+

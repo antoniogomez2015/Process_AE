@@ -1,0 +1,258 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/text-effects.html#numbers_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Código de tiempo crea un texto superpuesto que muestra información de código de tiempo o de 
+
+	número de fotograma en una capa. Este efecto no modifica un código de tiempo incrustado desde fuentes 
+
+	externas, como QuickTime.
+
+
+	_Use capas de texto para obtener un mayor control sobre el formato y la animación de texto. 
+
+	
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+	
+
+	Timecode: (Codigo de Tiempo)
+	_________
+
+
+		_Display Format:
+
+
+			_SEMTE HH:MM:SS:FF:
+
+				_ésta opción nos permitirá indicarle al sistema que utilize un sistema de código de
+
+				tiempo de tipo horario el cuál, llevará el control de tiempo en segundos, minutos y
+
+				horas
+
+
+			_Frame Numbers:
+
+				_ésta opción nos permitirá indicarle al sistema que utilize un sistema de código de
+
+				tiempo de tipo fotogramas, de ésta manera, el sistema renderizará en pantalla el
+
+				avance del cabezal del timeline, de la respectiva composición
+
+
+			_Feet + Frames (35mm):
+
+				_ésta opción nos permitirá indicarle al sistema que utilize un sistema de código de
+
+				tiempo de tipo intervalores de "15", segundos de ésta manera, el sistema irá creando
+
+				ciclos los cuáles, los irá contabilizando a través, del tiempo
+
+	
+				_éstos valores funcionan en la configuración por defecto de una layer, de tipo img,
+
+				con los valores de composición por defecto de "30fps.."
+
+
+			_Feet + Frames (16mm):
+
+				_ésta opción nos permitirá indicarle al sistema que utilize un sistema de código de
+
+				tiempo de tipo intervalores de "40", segundos de ésta manera, el sistema irá creando
+
+				ciclos los cuáles, los irá contabilizando a través, del tiempo
+
+
+				_éstos valores funcionan en la configuración por defecto de una layer, de tipo img,
+
+				con los valores de composición por defecto de "30fps.."
+
+
+
+		_Time Source:
+
+
+			_Layer Source:
+
+				_Origen de capa El código de tiempo se mostrará según el código de tiempo del 
+
+				material de archivo de origen de la capa.
+
+
+			_Composition:
+
+				_Composición El código de tiempo se muestra según el código de tiempo de la 
+
+				composición. 
+
+
+			_Custom:
+
+				_Personalizada Permite el acceso a los ajustes en la sección de personalizar, 
+
+				el comportamiento anterior del efecto. Las opciones son Unidades de tiempo, 
+
+				Fotograma eliminado y Fotograma de inicio.
+
+
+
+		_Custom:
+
+			Time Units:
+
+				_ésta opción nos permitirá indicar un intervalo de tiempo personalizado así, podremos
+
+				calcular directamente el intervalo de avance del sistema para que así, éste tenga una
+
+				relación y coherencia con cabezal del timeline, en relación a su vez, con la duración
+
+				y velocidad de reproducción de la animación respectiva
+
+
+				_de ésta manera, si indicamos un valor de "30", el contador marcará "30", al igual
+
+				que el cabezal del timeline, habrá avanzado "30", frames, de ésta manera, podremos
+
+				crear diferentes patrones de tiempo, faces y desfaces del mismo
+
+
+			_Drop Frame:
+
+				_ésta opción nos permitirá separar los valores representados por comas ",", entre 
+
+				éstos
+
+
+			_Starting Frame:
+
+				_ésta opción nos permitirá indicarle al sistema que empize la reproducción del 
+
+				contador en un número ó intervalo determinado, de ésta manera, podremos crear 
+
+				animaciones las cuáles, comiencen en un punto específico
+
+
+			_Text Position:
+
+				_ésta opción nos permitirá ubicar el sistema en un punto determinado de la 
+
+				composición para lo cuál, dispondremos de un handle, directamente en el viewport,
+
+				del panel compositing, como también, a través, de valores específicos en el panel
+
+				effects controls
+
+
+			_Text Size:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el tamaño de fuente ó 
+
+				tipografía del sistema, el cuál, nos ofrece tamaños entre "0-128", lo cuál, escalará 
+
+				todo el sistema generado
+
+
+			_Text Color:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el color del texto ó 
+
+				fuente tipográfica para lo cuál, dispondremos de un selector ó picker, a través, del
+
+				cuál, podremos indicar un color personalizado
+
+
+
+
+			_Show Box:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos activar un fondo de 
+
+				color para que así, el contador de tipo texto sea más visible en relación a las 
+
+				demás layers, de la respectiva composición
+
+
+			_Box Color:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el color del fondo 
+
+				activado para el sistema, para lo cuál, dispondremos de un picker, ó un selector de
+
+				color a través, del cuál, podremos indicar un color personalizado
+
+
+			_Opacity:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la opacidad general de
+
+				todo el sistema lo que nos permitirá integrar todo el sistema con las demás layers,
+
+				de la composición respectiva
+
+
+			_Composite On Original:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, si ésta tendrá un canal alpha,
+
+				asignado fuera del perímetro del sistema lo que nos permitirá integrar todo el 
+
+				sistema con las demás layers, de la composición respectiva
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

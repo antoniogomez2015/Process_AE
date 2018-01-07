@@ -1,0 +1,135 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear efectos de transiciones como también, efectos especiales de paso contínuo
+
+	y de producción, ya que éste nos permitirá crear distorsiones plásticas y con transparencias ha modo caustic,
+
+	entre otras muchas posibilidades
+
+
+	_e incluso tendremos la posibildiad de modelar el efecto a través, de la utilización de un mapa de densidad
+
+	a través, del cuál, podremos limitar el alcance del efecto a través, del tiempo
+
+
+	_El efecto Glass Wipe, crea una transición vistosa basada en los valores de otro capa. 
+
+
+	_El resultado final es que una capa de aspecto vítreo se derrite para revelar otra capa
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Glass Wipe: (Barrido de Cristal CC)
+	______________
+
+
+		_Completion:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste relize la complexión
+
+			ó avance de la transición ó animación de todo el sistema en general
+
+
+		_Layer to Reveral:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la layer, ha revelar por el 
+
+			sistema como layer, secundaria para la generación de la transición
+
+
+			_más si no indicamos ninguna layer, como layer, ha revelar, el efecto se aplicará sobre la
+
+			layer, base sobre a cuál, hemos aplicado efecto solamente, lo que nos permitirá crear efectos
+
+			para diferentes procesos de producción y paso contínuo
+
+
+		_Gradient Layer:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la layer, que hará de proxi de la
+
+			cuál, se tomará la información de luminancia de la imágen para que así, podamos modelar cuál,
+
+			será la acción ó alcance del efecto en general
+
+
+		_Softness:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el suavizado ó desenfoque aplicado
+
+			sobre el efecto para que así, el detalle representado sea más grueso y algado ó más fino y 
+
+			detallado, lo cuál, estará en relación al efecto deseado
+
+
+		_Displacement Amount:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, es la cantidad ó umbral del efecto ha
+
+			aplicar
+
+
+			_el resultado de éste control dependerá de la iluminación de la escena, de los patrones en la
+
+			imágen, del color entre otros aspectos, lo más recomendable es utilizar valores entre medios
+
+			y bajos, ej: "10-40"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

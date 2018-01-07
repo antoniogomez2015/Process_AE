@@ -1,0 +1,294 @@
+
+
+
+
+	http://www.digitalfilmtools.com/powermatte/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permite hacer keyging/chromakey, fácilmente y a su vez, de una imágen compleja ya 
+
+		que nos permitirá crear todo un sistema de key, ó chrome key, a través, del uso de máscaras ó 
+
+		"masks"
+
+
+		_lo cuál, nos permitirá tener el control y la flexibilidad de poder variar las áreas serán hechas 
+
+		transparentes y las áreas que permanecerán visibles en relación a nuestras necesidades de forma 
+
+		dinámica y animable
+
+
+		_más éste efecto también, es especialmente útil para el proceso de recorte de un área específica 
+
+		de una imágen como por ejemplo; para el proceso de "matte painting", entre otras posibilidades de 
+
+		producción y paso contínuo
+
+
+		NOTA: éste efecto es similar al efecto nativo de "Keying/Inner/Outer Key"
+
+
+
+
+	Workflow:
+	_________
+
+
+		_primero creamos una layer a la cuál, deseamos quitarle ó extraerle le fondo	
+
+
+		_luego seleccionamos la layer, a la cuál, deseamos quitarle el fondo y con esta seleccionada vamos 
+
+		ha "Effects/Digital Film Tool/", y aplicamos el efecto "Power Matte V2"
+
+
+		_luego seleccionamos la layer, a la cuál, deseamos quitarle el fondo y con esta seleccionada y 
+
+		procedemos a crear una máscara sobre esta 
+
+
+		_dicha máscara debe quedar en el contorno interno del área que deseamos aislar ó quitar el fondo, 
+
+		es decir, que la máscara quede dentro del área de interés de extraer
+
+	
+		_luego creamos otra máscara en la layer, que deseamos extrar un área ó quitar el fondo, esta nueva 
+
+		máscara debe quedar en el área ó contorno externo del área que deseamos aislar ó extraer, osea 
+
+		fuera del área perimetral del área ha aislar ó quitar el fondo
+	
+
+
+		_ahora vamos a las opciones del plugins, y en: 
+
+
+			_Mask/Foreground: seleccionamos la máscara interna del área de interés
+		
+			_Mask Background: seleccionamos la máscara externa del área de interés
+
+
+		_así, podremos ver como el fondo es eliminado
+
+
+
+
+
+	Power Matte V2:
+	_______________
+
+
+		_Force update:
+
+			_ésta opción forza la sistema ha actilizar la visualización de forma contínua
+
+
+		_View:
+
+			_Output:
+
+				_ésta opción nos permitirá visualizar el resultado final, así, podremos ver el 
+
+				keyging, resultante
+
+
+
+			_Matte:
+
+				_ésta opción nos permitirá visualizar el mate ó alpha, generado
+
+
+			_Trimap:
+
+				_ésta opción nos permitirá visualizar el diferencial en colores entre ambas 
+
+				máscaras
+
+
+
+			_Original:
+
+				_ésta opción nos permitirá visualizar la imágen original sin la aplicación del 
+
+				efecto a modo de bypass
+
+
+
+		Masks:
+
+
+			_Foreground:
+
+				_en ésta opción debemos seleccionar la máscará interna, dentro del área del motivo
+
+				ó área de interés
+
+
+			_Background:
+
+				_en ésta opción debemos seleccionar la máscará externa ó fuera del área del motivo
+
+				ha aislar
+
+
+
+			Holes:
+
+
+				_Foreground:
+
+					_ésta opción nos permitirá agregar una máscara con un área la cuál, 
+
+					deseamos que el sistema la ignore ó la agregue al área del fondo ó 
+
+					"background", ó el área que será ignorada por chrome, resultante
+
+
+				_Background:
+
+					_ésta opción nos permitirá agregar una área la cuál, deseamos que el 
+
+					sistema sume ó agregue a modo de "foreground", al área que será contemplada
+
+					por el chrome, resultante
+
+
+
+		Trimap:
+
+
+			_Layer:
+
+				_ésta opción nos permitirá seleccionar una layer, externa la cuál, podrá tener una 
+
+				ó más máscaras las cuáles, podrán hacer de "foreground", ó "background", para 
+
+				conformación del sistema
+
+
+				_de ésta manera, las respectivas layers, no tendrán que estar necesariamente en la 
+
+				propia layer, sobre la cuál, aplicamos el efecto
+
+
+			_Channel:
+
+				_ésta opción nos permitirá seleccionar el canal de trabajo, por lo general será el 
+
+				canal alpha, más también, podremos escoger entre R/G/B/A
+
+
+		_Edge Color Estimation:
+
+			_ésta opción tratará de hacer una mejor estimación del color resultante del proceso de 
+
+			chrome, con el color original en los bordes de la imágen original para lograr un resultado 
+
+			más realista
+
+
+
+		Spill Suppression:
+
+
+			_Screen Type:
+
+				_ésta opción nos permitirá distinguir y eliminar ó suprimir el spill, ó 
+
+				contaminación cromática del fondo, cuando éste ha sido tomando en pantalla verde 
+
+				"Green", ó azul "Blue"
+
+
+			_Amount:
+
+				_cantidad de verde ó azul minimizado ó eliminado del motivo resultante del proceso
+
+
+			_Range:
+
+				_rango ó alcance de verde ó azul minimizado ó eliminado del motivo resultante del 
+
+				proceso
+
+
+			_Edge:
+
+				_aplicación de sólo en los bordes de verde ó azul minimizado ó eliminado del motivo
+
+				resultante del proceso
+
+
+
+		Options:
+
+
+			_Link Masks:
+
+				_ésta opción nos permitirá distinguir entre máscadas renombradas con un prefijo 
+
+				característico ó a través, de un color asignado
+
+
+				_de ésta manera, el sistema podrá dintinguir entre grupos de máscaras que harán de 
+
+				reservas y grupos de máscaras que harán de máscaras sustractoras
+
+
+				_ésta opción es especialmente útil para procesos en los cuáles, los chromas son 
+
+				complejos
+
+
+			_Sensitivity:
+
+				_ésta opción nos permitirá graduar la cantidad de efecto ó capacidad de penetración
+
+				del chrome, resultante entre la máscara exterior y la máscara interior
+
+
+				_lo cuál, nos permitirá refinar el chrome, resultante
+
+
+			_Deartifact:
+
+				_ésta opción nos pemritirá minizar la cantidad de ruido e imperfecciones en el 
+
+				chrome, resultante
+
+
+			_Accurancy:
+
+				_ésta opción nos permitirá hacer variaciones en la calidad del chrome, resultante
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

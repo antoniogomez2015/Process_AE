@@ -1,0 +1,15 @@
+
+
+
+Adobe After Effects CC 2014
+
+
+	-para editar las targetas graficas 3d, disponibles en el sistema, podemos encontrar el archivo 
+
+	de referencia en la siguiente ubicacion
+
+
+		'C:\Program Files\Adobe\Adobe After Effects CC 2014\Support Files'
+
+
+			'raytracer_supported_cards.txt'

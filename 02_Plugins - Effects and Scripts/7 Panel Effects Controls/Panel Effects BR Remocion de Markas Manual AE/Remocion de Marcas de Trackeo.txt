@@ -1,0 +1,209 @@
+
+
+After Effects 148 Ocultar marcadores de tracking con alfa
+	https://www.youtube.com/watch?v=1X6QA7i4UpY
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Remoción de Marcas de Trackeo
+
+
+
+	Remoción de Marcas de Trackeo:
+
+
+	-este proceso nos permite eliminar las marcas de referencia de el proceso de trackeo para la captura de
+
+	movimiento y perspectiva a través, de las herramientas y opciones nativas de After Effects
+
+	
+
+	Workflow:
+	_________
+
+
+	_para lo cuál, primero, debemos de cargar el material de archivo al panel proyecto, éste puede ser una
+	
+	secuencia de imágenes ó un clip, de video en el cuál, se encuentren las marcas para el proceso de trackeo
+
+	sobre el motivo
+
+
+	
+	Master Comp:
+	____________
+
+	_para a continuación en el panel project, arrastrar éste material de archivo sobre el ícono de nueva 
+
+	composición para que así, el sistema genere una nueva composición con las dimensiones y characterísticas 
+
+	del respectivo clip, ó secuencia de imágenes y no hayan variaciones en sus características no deseadas
+
+
+
+	Matte Point:
+	____________
+
+	_más para cada punto de referencia de trackeo ha eliminar tendremos que crear una nueva composición con el
+
+	material de archivo para a través, de ésta crear el efecto de clonado a través de mates de seguimiento
+
+
+	_para lo cuál, en en el panel project, debemos arrastrar el material de archivo sobre el ícono de nueva 
+
+	composición para que así, el sistema genere una nueva composición con las dimensiones y characterísticas 
+
+	del respectivo clip, ó secuencia de imágenes y no hayan variaciones en sus características no deseadas
+
+
+	_ésta nueva composición la podremos llamar, ej; "Track Matte 1", o similar para llevar un orden
+
+
+
+	Tracking:
+	_________
+
+	_para a continuación proceder con el proceso de trackeo para cada punto de referencia ha eliminar sobre
+
+	el motivo dentro de cada composición que hagamos para cada punto de referencia de trackeo, en éste ejemplo:
+
+	para la composición "Track Matte 1", y así suscesivamente para cada punto ha trackear
+
+
+	_pero antes es recomendable colocar la visualización del viewport, del panel composition en la máxima 
+
+	calidad "Full", ya que el panel "Layer", hereda la resolución del panel composición; ya que es en el panel
+
+	layer, en donde se edita los rastreadores y aspas de seguimiento
+
+
+	_para lo cuál, debemos hacer mouse right click, sobre la layer, del motivo y selecciona la opción de 
+
+	"Track Motion", ó yendo ha "Animation/Track Motion", para que así, se abra el panel "Track", y a su vez,
+
+	se haya agregado a la respectiva layer, un efecto de tipo "Motion Trackers/Tracker 1"
+
+
+	_para que así, de ésta manera, procedamos ha ir agregando más "Tracker", sobre la layer, del motivo con los
+
+	diferentes trackeos en relación a la cantidad de puntos de referencia ha eliminar sobre la layer, del 
+
+	motivo
+
+
+
+	TrackMatte:
+	___________
+
+		
+		Circle:
+		_______
+
+		_y ahora dentro la composición "Track Matte 1", debemos de crear una nueva layer, de tipo "Shape", 
+
+		con una elipse, ó circulo, ésta layer, podremos renombrarla ej; "Matte"
+
+
+		_ésta nueva layer, "Matte", que hemos generado debemos de colocarla sobre la layer, del motivo para
+
+		que así, sea posible el modo de transferencia matte generado
+
+		
+		_éste circulo ó elipse, debemos de hacerlo un poco más grande que el tamaño del punto de referencia
+
+		de trackeo que estamos tratando de eliminar
+
+
+		_así, como también, no debemos de colocar éste circulo ó elipse, sobre la posición del punto de
+
+		referencia de trackeo si no, que debemos colocarlo por encima, por debajo ó a los cortados del 
+
+		punto de de referencia de trakeo para que así, el proceso de mate de seguimiento tome la 
+
+		información de alguna parte del área circundante al área del punto de referencia de trackeo y no la
+
+		información del mismo punto de referencia de trackeo
+
+
+		_más es recomendable entrar en las propiedades de color del Shape/Fill, y color éste en color 
+
+		blanco para que así, tenga un comportamiento para el proceso del matte de seguimiento
+
+
+
+	_y posteriormente con la información de "Feature Center", de el tracker, ó seguimiento del punto de 
+
+	referencia de trackeo que hemos realizado a través, del panel "Tracker"
+
+
+	_debemos de transpolarselo ha la nueva layer, que hemos creado y renombrado "Matte", en su propiedad de
+
+	"Position" para que así, ésta nueva layer, de tipo shape, llamada "Matte", tome la posición del trackeo 
+
+	que hemos realizado previamente
+
+
+	_y si al volcar la información de trackeo "Feature Center", sobre la propiedad "Shape/Position", ésta toma
+
+	la posición del punto de referencia, tendremos que seleccionar la propiedad pegada "Shape/Position", 
+
+	seleccionando todos sus keyframes, para que así, podamos moverlos al unísono y desplazar ó defazar ésta
+
+	layer, "Matte", a través, de las opciones de "Punto de anclaje", ó anchor point, y no a través, de las
+
+	opciones de "Position", para el proceso de emulación de "Clonado", y "Mate de seguimiento", generado
+
+
+	_para posteriormente desplegar las propiedades de modo de fusión de las layer, shortcut "F4", en la layer,
+
+	interior "motive", seleccionar la opción de "track matte" "Luma", ó "mate de luminancia", para que así, 
+
+	se haga un recorte en la forma del circulo ó elipse que hemos creado sobre la layer, del motivo generando 
+
+	para que así, éste circulo ó elipse con el efecto de clonado ahora se cuentre también animado
+
+
+	_de ésta manera, tendremos que repetir éste mismo proceso de creación de composiciones "Track 1.2...", 
+
+	para cada uno de los puntos de referencia de trackeo ha eliminar
+
+
+
+	Composite:
+	__________
+
+	_ahora tendremos que arrastrar todas las composiciones que hemos creado "Track..1..2..", dentro de la 
+
+	composición "Master Comp", para que así, podamos ahora ajustar la posición de cada uno de éstas sobre su
+
+	respectivo punto de trackeo ha eliminar
+
+
+	_de ésta manera, cada uno de éstas composiciones emulará un punto de clonado
+
+	
+	
+	Adjustment:
+	___________
+
+	_más éste proceso no es perfecto así, que éste proceso requerirá ajustes para corregir los cambios de 
+
+	luminancia producidos entre el motivo y la muestra que sustituirá el punto de referencia de trackeo
+
+
+	_y para ésto es recomendable los efectos de "Effects/Matte", así, como también, alguna de las opciones
+
+	de "Effects/Blur"
+
+
+	_así, como también, nos podría ayudar el efectos de "Effects/Color Correction/Hue-Saturation", de forma
+
+	animada a través, del tiempo
+
+
+
+
+

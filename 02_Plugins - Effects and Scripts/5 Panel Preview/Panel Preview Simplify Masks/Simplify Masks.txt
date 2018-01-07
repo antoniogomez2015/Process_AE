@@ -1,0 +1,62 @@
+
+
+http://aescripts.com/simplifymasks/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/Simplify Masks:
+
+
+
+	_éste permite que podamos simplicar una máscara que hayamos obtenido de un proceso por ej, de un
+
+	proceso de trazado sobre una layer, ó de un trazado importado de un programa como photoshop, ó
+
+	illustrator, y convertido en máscara, 
+
+
+	_los cuales hayan venido con una excesiva ó exagerada cantidad de vertices ó peor aún con una cantidad 
+
+	de ruido ó desface de la imágen que simplificando la máscara se podría eliminar ó simplificar su forma
+
+
+	_así, como también, es posible simplificar una máscara compleja para diferentes procesos de animación
+
+	que hacen uso de máscaras ó de producción en general como para muchos otros procesos
+
+
+	
+	Workflow:
+	_________
+
+
+	_primero debemos de tener creada una composición de trabajo
+
+	
+	_así, como también, una layer, con alguna máscara generada a la cuál, le desiemos bajar su densidad de
+
+	vertices
+
+
+	_para leugo seleccionar las respectiva máscara dentro de las propiedades de la capa y con ésta seleccionada
+
+	ir al panel "Simplify Mask"
+
+
+	_en el cuál, dispondremos de un slider, en el cuál, podremos indicar un valor de reducción el cuál, estará
+
+	superditado al tamaño y densidad de la máscara ha simplificar
+
+
+	_de ésta manera debemos indicar un valor, sea numericamente ó a través, del slider, para luego hacer "Simplify",
+
+	y así, de ésta manera la máscará será simplificada en su densidad y no en su forma original
+
+
+	
+
+				

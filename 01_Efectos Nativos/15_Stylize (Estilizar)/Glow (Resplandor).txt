@@ -1,0 +1,283 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Resplandor localiza las partes brillantes de una imagen y da brillo a los píxeles circundantes 
+
+	para crear un halo resplandeciente y difuso. El efecto Resplandor puede simular también un exceso de 
+
+	exposición de objetos iluminados brillantes. Puede basar el resplandor en cualquiera de los colores 
+
+	originales de la imagen o en su canal alfa. Los reflejos que se basan en canales alfa producen brillos 
+
+	difusos solo en los bordes de la imagen, entre las zonas opacas y las transparentes. También puede utilizar 
+
+	el efecto Resplandor para diseñar un resplandor degradado entre dos colores (colores A y B) y para crear 
+
+	efectos multicolor en bucle.
+
+
+
+	_Si procesa el efecto Resplandor en Calidad óptima puede cambiar la apariencia de la capa, Este cambio se 
+
+	hace especialmente patente si está utilizando mapas arbitrarios de Adobe Photoshop para colorear sus 
+
+	resplandores. Asegúrese de previsualizar en Calidad óptima antes de procesar el efecto
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Glow: (Resplandor)
+	_____
+
+
+		_Glow Based On:
+
+
+			_Color Channels:
+
+				_ésta opción nos permitirá indicarle al sistema que genere el sistema de resplandor
+
+				a partir de los canales de color de la imágen de ésta manera, el sistema tomará en
+
+				cuenta el contraste y luminancia de la imágen
+
+
+			_Alpha Channel:
+
+				_ésta opción nos permitirá indicarle al sistema que genere el sistema de resplandor
+
+				a partir de los valores de transparencia de la imágen y no a través, de los valores
+
+				de luminancia ó por color
+
+
+		_Glow Threshold:
+
+			_Define un umbral como brillo porcentual al que no se aplicará el resplandor. Un porcentaje 
+
+			inferior produce mayor resplandor en la imagen, un porcentaje mayor produce un resplandor 
+
+			menor en la imagen
+
+
+		_Glow Radius:
+
+			_Distancia en píxeles hasta la que el resplandor se extiende por fuera de las áreas 
+
+			brillantes de la imagen. Los valores mayores producen resplandores difusos, mientras que los
+
+			valores menores producen resplandores con los bordes nítidos.
+
+
+		_Glow Intensity:
+
+			_ésta opción nos permitirá controlar el brillo del resplandor resultante del sistema generado
+
+
+
+		_Composite Original:
+
+
+			_On Top:
+
+				_Especifica cómo componer los resultados del efecto con la capa. En la parte superior
+
+				coloca el resplandor encima de la imagen, mediante el método de fusión seleccionado 
+
+				para Operación de resplandor. 
+
+
+			_Behind:
+
+				_Detrás coloca el resplandor detrás de la imagen, lo que crea un efecto de 
+
+				iluminación a contraluz
+
+
+			_None:
+
+				_Ninguno separa el resplandor de la imagen
+
+
+				NOTA: Para reducir la capa al resplandor solamente, seleccione Ninguno en Original 
+
+				compuesto y también en Operación de resplandor. Para lograr un efecto de resplandor 
+
+				para texto que elimine (bloquee) todas las capas de detrás de él, seleccione Silueta 
+
+				alfa en Operación de resplandor. Estos efectos de resplandor son más apreciables 
+
+				cuando la imagen tiene un borde calado.
+
+
+		_Glow Operation:
+
+
+			_Mix:
+
+				_ésta opción nos pemritirá seleccionar todos los modos de funsión que nos ofrece el
+
+				sistema de forma nativa así, como también, podremos seleccionar las opciones de
+
+				track matte, y siluetas, ej: "luma, matte, alpha", como stencil, silueta y alfa
+
+
+				_de ésta manera, dispondremos también, de más herramientas para la producción y la
+
+				creación de efectos más avanzados
+			
+
+		_Glow Colors:
+
+
+			_Original Colors:
+
+				_ésta opción tomará los colores de la imágen y a partir de éstos el sistema 
+
+				interpretará los valores de luminancia para generar el efecto glow
+
+
+			A & B Colors:
+
+				_ésta opción el sistema tomará los colores indicados como colores "Color A", 
+
+				y "Color B", de ésta manera, el sistema interpretará los valores de luminancia 
+
+				para generar el efecto glow
+
+
+			_Albitrary Colors:
+
+				_ésta opción le permitirá al sistema hacer una ponderación albitraria de los colores
+
+				para que así, el sistema tome los valores de luminancia de forma aleatoria ó 
+
+				albitraria para generar el efecto glow
+
+
+		_Color Looping:
+
+			_Forma de la curva del degradado que se debe usar si se selecciona colores A y B, en las 
+
+			opciones de "Glow Colors"
+
+
+		_Color Loops:
+
+			_Crea anillos multicolor en el resplandor si se seleccionan dos o más bucles. Un solo bucle
+
+			circula por la degradación (o mapa arbitrario) especificada en Colores de resplandor
+
+
+
+			NOTA: Es posible crear un archivo de mapa arbitrario (.amp) aplicando el efecto Curvas, 
+
+			seleccionado el icono del lápiz y, a continuación, haciendo clic en el icono de 
+
+			almacenamiento (disquete). Utilice un archivo de mapa arbitrario en el efecto Resplandor, 
+
+			haciendo clic en el vínculo Opciones y seleccionado el archivo .amp.
+
+
+		_Color Phase:
+
+			_Punto en el ciclo de color en que se deben comenzar los bucles de color. De forma 
+
+			predeterminada, los bucles de color comienzan en el origen del primer bucle
+
+
+		_A & B Midpoint:
+
+			_El punto medio define el equilibrio entre los dos colores utilizados en la degradación. 
+
+			Los porcentajes más bajos utilizan menos del color A. Los porcentajes más altos utilizan 
+
+			menos del color B
+
+
+		_Color A:
+
+			_ésta opción nos permitirá indicar un primer color personalizado para la generación de arcos
+
+			degradados para la generación personalizada del efecto glow
+
+
+		_Color B:
+
+			_ésta opción nos permitirá indicar un segundo color personalizado para la generación de 
+
+			arcos degradados para la generación personalizada del efecto glow
+
+
+
+		_Glow Dimensions:
+
+
+			_Horizontal and Vertical:
+
+				_ésta opción nos permitirá indicarle al sistema que genere el efecto glow, tanto
+
+				en un sentido horizontal como en un sentido vertical
+
+
+			_Horizontal:
+
+				_ésta opción nos permitirá indicarle al sistema que genere el efecto glow, sólo
+
+				en un sentido horizontal
+
+
+			_Vertical:
+
+				_ésta opción nos permitirá indicarle al sistema que genere el efecto glow, sólo
+
+				en un sentido vertical
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+

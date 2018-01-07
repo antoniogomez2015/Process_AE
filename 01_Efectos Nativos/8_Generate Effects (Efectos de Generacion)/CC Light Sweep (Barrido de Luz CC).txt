@@ -1,0 +1,187 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria crear un banda luminicente para diferentes efectos de producción y paso contínuo
+
+	como también, para efectos de transición, realces compositivos, otros
+	
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Light Sweep: (Barrido de Luz CC)
+	______________
+
+
+		_Center:
+
+			_ésta opción nos permitirá indicar la posición general del sistema ó banda luminicente a través,
+
+			de una handle, el cuál, podremos personalizar su ubicación sobre la imágen
+
+
+		_Direction:
+
+			_ésta opción nos permitirá indicar una dirección para la banda luminicente
+
+
+
+		_Shape:
+
+
+			_Linear:
+
+				_ésta es la opción por defecto y la que nos permitirá generar una banda luminicente
+
+				más dispersa y amplia que la opción de "Sharp"
+
+
+			_Smooth:
+
+				_ésta es la opción por defecto y la que nos permitirá generar una banda luminicente
+
+				mucho más dispersa y amplia que la opción de "Linear"
+
+
+			_Sharp:
+
+				_ésta es la opción por defecto y la que nos permitirá generar una banda luminicente
+
+				concentrada y con un mayor contraste
+
+
+		_Width:
+
+			_ésta opcíon nos permitirá graduar el ancho ó amplitud de la banda luminicente lo cuál, ésta
+
+			banda más fina ó delgada y una mayor acutancia y contraste 
+
+
+			_lo cuál, permitirá crear diferentes tipos de efectos y procesos de paso contínuo
+
+
+		_Sweep Intensity:
+
+			_ésta opción nos permitirá aumentar ó disminuir la intensidad lumínica del sistema de ésta
+
+			manera, podremos crear un efecto más ó menos intenso en relación al resultado deseado
+
+
+		_Edge Intensity:
+
+			_(Indeterminado)
+
+
+		_Edge Thickness:
+
+			_(Indeterminado)
+
+
+		_Light Color:
+
+			_ésta opción nos pemritirá seleccionar un color personalizado para la generación del ssitema ó
+
+			banda luminicente, por defecto el color pre seleccionado es blanco
+
+
+		_Light Reception:
+
+
+			_Add:
+
+				_ésta es la opción por defecto la cuál, nos permitirá generar un banda luminicente
+
+				del color seleccionado sobre la imágen resultante
+
+
+			_Composite:
+
+				_ésta es la opción nos permitirá generar un banda luminicente del color seleccionado 
+
+				de una forma más integrada con la imágen resultante
+
+
+			_CutOut:
+
+				_ésta es la opción nos permitirá generar un banda luminicente como un matte, de luminacia
+
+				creando así, la banda luminicente con fondo transparene para su posterior uso en producción
+
+
+				como también, tendremos la posibilidad de utilizar ésta layers, como una matte de luminancia
+
+				descartando así, la imágen resultante del proceso convencional
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

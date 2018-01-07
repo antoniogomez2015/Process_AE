@@ -1,0 +1,45 @@
+
+
+
+
+RD, serie de escripts, gratuitos http://www.redefinery.com/
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+RD Movement
+
+
+	este escript, tiene como objetivo guardar intervalos de tiempo en las posiciones que consideremos mas importantes,
+
+	esto nos permite poder volver facilmente a esas posiciones marcadas a traves de un simple boton de acceso
+
+
+
+WorkFlow
+---------
+
+
+	-primero colocamos el cabezal del timeline, en el lugar deseado y luego vamos al panel rd-Movement, y hacemos
+
+	click, sobre ej. la primera (V), la cual se encuentra sobre el (1)
+
+
+	-asi, podremos repetir este paso hasta 7, veces avanzando el cabezal del tiemeline, hasta una nueva posicion
+
+	e ir marcando las (V), consecutivas
+
+
+	-luego de finalizar de haver las marcas deseadas (V), podemos recuperar o acceder a esas marcas, para esto
+
+	simplemente hacer mouse left click, sobre los numeros debajo de las marcas deseadas a las cuales deseamos
+
+	acceder, de esta manera accederemos como accesos rapidos a las posiciones del timeline que hemos guardado
+
+	previamete, esto es especialmente util para edicion de efectos y de composiciones muy complejas y que requieren
+
+	un alto detalle de definicion y de edicion

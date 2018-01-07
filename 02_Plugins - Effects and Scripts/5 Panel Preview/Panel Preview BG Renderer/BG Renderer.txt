@@ -1,0 +1,98 @@
+
+
+http://aescripts.com/bg-renderer/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/BG Renderer:
+
+
+
+	_éste permite hacer renders, en segundo plano y a una velocidad a menos de media máquina, ésto permite 
+
+	no consumir todos los recursos de la máquina y a su vez, renderizar a total resolución y tamaño de salida
+
+	entre otras configuraciones posibles
+
+
+	_ésto permite la posibilidad de hacer renders, en segundo plano mientras tenemos la posibilidad de seguir
+
+	trabajando de manera fluida y aceptable
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero debemos de tener creada una composición de trabajo
+
+
+	_así, como tambíen, las layers, animadas en relación a la lógica de la escena
+
+
+	_de ésta manera podremos seleccionar la composición activa deseada la cuál, deseamos renderizar, ésta
+
+	debemos enviarla a la cola de render, yendo ha "Composition/Add to Render Queve", ó shortcut "Control + M"
+
+
+	_luego debemos configurar las características del render en el render queve, como tamaño de salidad, calidad,
+
+	formato, ruta de salida, otros
+
+
+
+	BG Renderer:
+	____________
+
+
+	_BG Render Priority:
+
+		_ésta opción nos permite configurar el criterio de acción que tendrá la ejecución del render:
+
+
+			_Low | éste es el más recomendado
+
+			_Bellow normal
+
+			_Normal
+
+			_Avobe normal
+
+			_High
+
+	
+	_Max Mem Usage:
+
+		_máxima memoria usable, (dejar el valor por defecto "120")
+
+
+	_Max Ram Cache:
+
+		_máxima memoria caché, (dejar valor por defecto "60")
+
+
+	_Use Multiprocessing:
+
+		_ésta opción permite hacer uso del multiproceso del equipo si éste lo dispone
+
+
+	_Post Render Actions:
+
+		_ésta opción permite activar opciones pos proceso, como un mensaje de texto, un correo de
+
+		confirmación entre otras opciones disponibles
+
+
+	_Save BG Launcher file:
+
+		_indeterminado
+
+
+
+

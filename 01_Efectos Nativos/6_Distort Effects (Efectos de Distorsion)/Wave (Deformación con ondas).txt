@@ -1,0 +1,220 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear diferentes tipos de distorsión a través, de patrones de onda los
+
+	cuáles, tienen diferentes comportamientos por medios de los cuáles, podremos hacer diferentes efectos y 
+
+	procesos de producción y paso contínuo
+
+
+	_éste efecto podría perfectamente conjugarse con el efecto de "warp", ya que comparten ciertos tipo de
+
+	comportamientos y tipos de distorsión entre muchas otras posibilidades múltilples
+
+
+	_así, como también, procesos de constructuvismo visual y motion graphycs, como también, pantallas y 
+
+	transiciones entre otras posibilidades
+
+
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Wave: (Deformación con ondas)
+	_____
+
+
+		_Wave Type:
+
+			_Sine:
+
+				_éste método nos permtirá hacer distorsiones de tipo senoseidales u ondulatorias
+
+
+			_Square:
+
+				_éste método nos permtirá hacer distorsiones de tipo desface por líneas ó bandas
+
+				a través, de las cuáles, podremos hacer desplazamientos, abstracciones, desfaces,
+
+				barridos de imágen entre muchas otras posibilidades en conjunción con las demás 
+
+				opciones de animación de éste efecto
+
+
+			_Triangle:
+
+				_éste modo nos permitirá hacer distorsiones de tipo ondas angulares ó zip zap, de
+
+				forma contínua lo cuál, nos permitirá hacer mosaicos, abstracciones, modulaciones
+
+				constructivimos visual composición para elementos de motion graphycs, y producción
+
+				y paso contínuo, otros
+
+
+			_Sawtooth:
+
+				_éste modo nos permitirá hacer distorsiones de tipo banzas con desplamientos opuestos
+
+				de forma contínua lo cuál, nos permitirá hacer desplazamientos, abstracciones, desfaces,
+
+				barridosmosaicos, abstracciones, modulaciones constructivimos visual composición para 
+
+				elementos de motion graphycs, y producción y paso contínuo, otros
+
+
+			_Circle:
+
+				_a diferencia que el método "Sine", éste nos permitirá hacer ondas sinuosas ósenoseidales
+
+				más definidas y marcadas con menos profusiones ya éstas no se entremezclarán unas con
+
+				otras lo cuál, nos permitirá crear patrones, efectos olas, supermódulos, otros
+
+
+			_Semicircle:
+
+				_éste modo nos permitirá hacer distorsiones de tipo semiondas arqueadas de forma 
+
+				contínua lo cuál, nos permitirá hacer efectos de relieves agúdos y depresiones arqueadas
+
+				moduladas especialmente útil para el constructivimos visual composición para elementos de 
+
+				motion graphycs, y producción y paso contínuo, otros
+
+
+			_Uncircle:
+
+				_éste modo trabaja de forma muy similar al modo "circle", más éste trabaja de forma 
+
+				inversa en el sentido de la onsa, y a su vez, la onda respectiva es suave y angosta e 
+
+				igualmente es especialmente útil para emular ondas, oleajes, la creación de módulos y
+
+				constructivismo visual motion graphycs, efectos de paso continuo y producción, otros
+
+
+			_Noise:
+
+				_éste modo crea ruido aleatorio compiendo con caso la totalidad de toda estucta geométrica
+
+				que denote modulación y ritmo de distorsión
+
+
+			_Smooth Noise:
+
+				_éste modo es práctivamente idéntico ó similar al anterior "Noise", más éste si permite
+
+				conservar algunos patromes de ritmo y modulación de distorsión simados al efecto de ruido
+
+				lo cuál, es altenativo en el desarrollo y creación de efectos de paso contínuo y producción
+
+
+
+
+		_Wave Hight:
+
+			_ésta opción nos permitirá indiarle al sistema la cantidad de desplazamiento ó desface del efecto en
+
+			relación al criterio ó modo de distorsión  seleccionado en las opciones de "Wave Type", de ésta manera,
+
+			podremos controlar cuán acusado se verá ó aplicará el efecto
+
+
+		_Wave Width:
+
+			_ésta opción nos permitirá indicar la cantidad de ritmo ó dolucación que tendrá el efecto ó también,
+
+			podríamos decir que es la cantidad de veces que se repetitá el patron de distorsión del efecto sobre 
+
+			la imágen
+
+
+		_Direction:
+
+			_ésta opción nos permitirá indicarle al sistema dinamismo al poder cambiar la dirección y orientación
+
+			del efecto en relación al modo de distorsión seleccionado como también, del efecto buscado ó deseado
+
+
+		_Wave Speed:
+
+			_ésta opción nos permitirá indicar la cantidad de "envío", ó velocidad inicial del efecto entendiendo
+
+			así, que los efectos son auto animados automáticamente sin la necesidad de keyframes de forma requerida
+
+
+		_Pinning:
+
+			_éstas opciones nos permitirá poder reajustar la imágen resultante para que ésta no sufra deformaciones
+
+			en los perímetros de la imágen, de ésta manera, podremos limitar las distorsiones y deformaciones sólo
+
+			a los pixeles internos de la imágen, y no a los pixeles perimetrales de ésta
+
+
+		_Phase:
+
+			_ésta opción nos permnitirá hacer ajustes de la velocidad del sistema de ésta manera, podremos hacer
+
+			animaciones controladas de interacción de los patrones de distorsión y deformación en relación a la 
+
+			imágen original y las demás layers, de la composición, otros
+
+
+		_Antialiasing (Best Quality):
+
+			_así, como también, dispondremos de una a través, de la cuál, podremos varia la claidad del cálculo y
+			
+			resultado del sistema, de ésta manera, dispondremos de dos opciones; "Low", y "High", en relación de
+
+			resultado deseado y las características de nuestro equipo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

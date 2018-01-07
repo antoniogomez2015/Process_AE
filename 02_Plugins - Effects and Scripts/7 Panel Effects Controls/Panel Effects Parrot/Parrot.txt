@@ -1,0 +1,195 @@
+
+
+http://aescripts.com/parrot/
+
+http://allphotolenses.com/pdf/c_18.html
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Parrot
+
+
+	Parrot:
+
+
+	-este nos permite crear relacionamientos entre propiedades de "transforms, effects, layers styles, masks, 
+
+	shapes, fills, strokes"
+
+
+	_especialmente útil para hacer time offset, con marcadores y para el motion graphycs, más disferentes desfaces
+
+	a través, de diferentes afectos y propiedades en diferentes acciones alternadas para hacer nomalías alternadas,
+
+	progresivas y repetitivas, otros
+
+
+	
+	Workflow:
+	_________
+
+	_primero debemos de tener creada una composición de trabajo en la cuál, debemos de generar las layers, de 
+
+	trabajo ha animar
+
+
+
+	layer Animada:
+
+	_ésta layer, será la layer, a la cuál, le agregaremos todas las propiedades de animación e interpolación en el
+
+	espacio tiempo así, como también, los efectos y estilos de capas deseados
+
+	
+
+
+	Layers Replicadoras:
+
+	_éstas son las layers, que harán de instancias de la layer, animada, ésto no quiere decir que éstas layers, 
+
+	tengan que ser instancias absolutas ó duplicadas de la layer, animada
+
+	
+	_éstas layers, debemos de colocarlas en la ubicación en la que desiemos que éstas comiencen ha interactuar en 
+
+	relación a la animación de la layer, principal animada
+
+
+
+
+	Parrot:
+	_______
+
+
+	Refresh List:
+
+		_ésta opción nos permite refrescar la lista a del layers, existentes en el timeliline, en relación a la 
+
+		lista de layers, detectadas por el plugins
+
+
+	Select master layer:
+
+		_ésta opción nos permitirá indicarle al sistema cuál, de todas las layers, existentes es la layer, a la
+
+		cuál, le hemos aplicado animación, efectos y estilos de capa, lo cuál, es requerido para generar el 
+
+		sistema
+
+
+	Position Offset from
+
+
+		Master Start:
+
+			_ésta opción nos pemritirá indicarle al sistema que deseamos que éste cree un desplazamiento de 
+
+			las layers, replicadas en relación a la layer, principal ó animada ó en relación a los puntos de 
+
+			origen de cada layers, respectiva
+
+	
+		Orion:
+
+			_ésta opción nos permitirá indicarle al sistema que cree in desface mínimo sólo en relación a la
+
+			propia posición del punto de origen de cada layer, y no en relación a la layer, animada
+
+
+	Parrot all modifierd Keyable props
+
+		
+		Effects:
+
+			_ésta opción nos permitirá indicarle al sistema que contemple los efectos aplicados sobre la 
+
+			layer, animada para ser aplicados éstos también, sobre las layers, que harán de replicas de la
+
+			layer, animada previamente
+
+
+		Layer Styles:
+
+			_ésta opción nos permitirá indicarle al sistema que contemple los estilos de capa aplicados sobre
+
+			la layer, animada para ser aplicados éstos también, sobre las layers, que harán de replicas de la
+
+			layer, animada previamente
+
+
+
+	Marker Offset:
+
+		_ésta opción nos permitirá indicarle al sistema que no deseamos que todas las layers, que harán de 
+
+		replicas de la layer, animada no se muevan ó comporten ha modo de bloque ó al unísono si no que éstas se
+
+		comporten de forma progresiva ó consecutiva ó expresen un ritmo regular en el tiempo y espacio
+
+
+		_para lo cuál, debemos indicar un valor en segundos para el desface entre layer, y layer, así, el cuál, 
+
+		será expresado en segundos, así, si expresamos "15", estaremos indicado que cada layers, tendrá un desface
+
+		en relación a la layers, siguiente de "medio segundo", en una animación con un "frame rate", de "30", 
+
+		frames, por segundo
+
+
+	Create note layer?:
+
+		_ésta opción nos permitirá crear una layers, de texto post, el proceso la cuál, será util para otras 
+
+		personas parte de nuestro equipo las cuáles podrán ver a través, de ésta layer, de tipo texto con 
+
+		información del proceso de creación del sistema
+
+
+	Parrot:
+
+		_ésta opción nos permitirá generar el sistema para lo cuál, primeramente debemos de tener seleccionada
+
+		una layer, como layer, animada y con efectos en la sección de "Select master layer"
+
+	
+		_así, como también, luego tendremos que seleccionar en el timeline, las layers, que deseamos que hagan 
+
+		de instancias de la layers, animada
+
+
+		_y con todas éstas layers, seleccionadas ir al panel "Parrot", y hacer "Parrot"
+
+
+	UnParrot:
+
+		_ésta opción nos pemritirá desvincular el sistema para lo cuál, debemos de seleccionar todas las layers,
+
+		partes del sistema e ir al panel "Parrot", y allí hacer "UnParrot"
+
+
+		NOTA: las animaciones pegadas las todas las layers, seguirán existiendo
+
+
+	Marker Managerment
+
+
+		Name:
+
+			_ésta opción nos pemritirá personalizar las marcas ha crear sobre las layers
+
+
+		Set Markers:
+
+			_ésta opción nos pemritirá crear marcas personalizadas sobre layers, y partes del tiempo 
+
+			específicas las cuáles harán parte de proceso ha modo de "triggers", ó disparadores
+
+
+		Remove Named Markers:
+
+			_ésta opción nos permitirá eliminar marcas de las layers, seleccionadas
+
+

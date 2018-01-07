@@ -1,0 +1,78 @@
+
+
+Effects Controls, para After Effects
+
+
+	Referencia
+
+		http://aescripts.com/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Du-Fx: (Dufx – DuDuF FX Manager)
+______
+
+	
+	Descripción: (éste permite administrar la visualización de efectos de una composición)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(D) / Panel Proyecto / Referencia (Panel Proyecto por default)
+
+
+	Referencia en la web: http://duduf.net/?page_id=161  /  http://duduf.net/?page_id=2010
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Dj Render Hogs: 
+_______________
+
+	
+	Descripción: (éste permite administrar la visualización de layers, valores y efectos de layers de una composición
+
+			ó proyecto completo)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(F) / Panel FxPro / Referencia (al lado derecho del Panel Proyecto por default)
+
+
+	Referencia en la web: http://aescripts.com/renderhogs/
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+ft-Effect Instance: 
+___________________
+
+	
+	Descripción: (éste permite sincronizar un efecto diplicado y aplicado ha otras layers, de ésta manera al modificar
+
+	los valores del efecto original se sincronizarán los demás efectos aplicados relacionados ha éste original)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(F) / Panel FxPro / Referencia (al lado derecho del Panel Proyecto por default)
+
+
+	Referencia en la web: http://aescripts.com/ft-effect-instance/
+
+
+
+

@@ -1,0 +1,66 @@
+
+
+http://aescripts.com/3d-flip-book/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express
+
+
+	3D Flip Book
+
+
+	-este nos permite hacer el efecto de book, ó libro en el cuál, podremos ver la transición de páginas
+
+	sobre cara a modo en 3, dimensiones bajo un proceso automático	
+
+
+
+	Workflow:
+
+
+	_primero debemos de crear un forlder, ó carpeta la cuál, contendrá todas las imágenes que conformarán el
+
+	book, para que así, podamos seleccionar ésta carpeta para continuar con el siguiente paso
+
+
+	_primero debemos hacer activa la composición de trabajo
+
+
+	_para por último ir al panel "3D Flip Book", y hacer mouse left click, sobre el botón "3D Flip Book", para
+
+	que el sistema sea generado
+
+
+	_así, a partir de éste paso el sistema nos mostrará una ventana contextual con un resumen en indicandonos 
+
+	que activará las opciones de ray-traced, de la composición para los efectos del proceso de creación del book
+
+
+	_de ésta manera se generarán una serie de precomposiciones y una layer, controladores para el sistema
+
+
+	_para que así, al desplazar el cabezal del tiemeline, podamos ver la animación realizada con el efecto book,
+
+	con las imágenes que teníamos dentro del folder, seleccionado y ahora correctamente ubicadas y escaladas en 
+
+	relación al tamaño del book
+
+
+	_y a través, del layer, controlador de tipo null "Book_001", podremos a través, del efecto "3D Flip Book",
+
+	controlar todo el comportamiento y animación del sistema en general
+
+
+
+	
+
+
+
+	
+
+	

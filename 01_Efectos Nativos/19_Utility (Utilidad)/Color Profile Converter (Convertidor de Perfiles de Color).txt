@@ -1,0 +1,208 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/utility-effects.html#grow_bounds_effect
+
+				https://helpx.adobe.com/es/after-effects/using/color-management.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Convertidor de perfiles de color, convierte una capa de un espacio de color en otro especificando 
+
+	los perfiles de entrada y salida.
+
+
+	_En la mayoría de los casos, deberá utilizar las características de administración automática de color para 
+
+	convertir un espacio de color a otro, en vez de utilizar el Convertidor de perfiles de color para hacer las 
+
+	conversiones manualmente. (Consulte Administración de color.)
+
+
+	_Los perfiles que seleccione se incrustan en el proyecto, de modo que pueda usarlos si transfiere el proyecto
+
+	a un equipo que no tenga los mismos perfiles. Cuando realice conversiones de un espacio de color a otro, 
+
+	puede especificar la forma en que After Effects realiza la conversión de color seleccionando una calidad de 
+
+	representación. También tiene la posibilidad de elegir si alinear el perfil de entrada o salida.
+
+
+	_Este efecto funciona con color de 8 bpc, 16 bpc y 32 bpc.
+
+
+	_Para convertir el perfil de color de la capa, seleccione un perfil de color en el menú Perfil de entrada. 
+
+	
+	_Seleccione Espacio de trabajo del proyecto para utilizar el perfil especificado en los ajustes del proyecto 
+
+	(Archivo > Ajustes del proyecto). Para alinear el perfil de entrada, seleccione la opción Alinear perfil de 
+
+	entrada. 
+
+
+	_A continuación, seleccione un perfil de salida del menú Perfil de salida. Para alinear el perfil de salida, 
+
+	seleccione la opción Alinear perfil de salida. En el menú Calidad, seleccione una calidad de representación.
+
+
+	_Las opciones de calidades de representación determinan cómo se ajustan los colores de origen. Por ejemplo, 
+
+	los colores que estén comprendidos dentro de la gama de destino no se modifican y pueden ajustarse para 
+
+	conservar el margen original de las relaciones visuales cuando se trasladan a una gama de destino más pequeña.
+
+
+	_El resultado de elegir una calidad de representación depende del contenido gráfico de una imagen y de los 
+
+	perfiles utilizados para definir espacios de color. Algunos archivos producen resultados idénticos para 
+
+	calidades de representación distintas.
+
+
+	_Al especificar una calidad de representación, puede elegir el uso de la compresión de puntos negros. 
+
+
+	_La compresión de puntos negros garantiza que se mantenga el detalle de la sombra de la imagen simulando 
+
+	un rango dinámico completo del dispositivo de salida.
+
+
+	_Para el efecto Convertidor de perfiles de color existen las calidades de representación siguientes:
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Color Profile Converter: (Convertidor de Perfiles de Color)
+	________________________
+
+
+		_Input Profile:
+
+
+			_ésta opción nos permitirá seleccionar unos de los espacios de color disponibles ha modo 
+
+			de presets como perfil de entrada del sistema
+
+
+		_Linearize Input Profile:
+
+			_ésta opción nos permitirá indicarle al sistema que éste estandarize la curva ó gamma de 
+
+			los blancos para que así, se homogenizen para producción
+
+
+		_Output Profile:
+
+			_ésta opción nos permitirá seleccionar unos de los espacios de color disponibles ha modo 
+
+			de presets como perfil de salida del sistema
+
+
+		_Linearize Output Profile:
+
+			_ésta opción nos permitirá indicarle al sistema que éste estandarize la curva ó gamma de 
+
+			los negros para que así, se homogenizen para producción
+
+
+
+		_Intent:
+
+
+			_Porceptual:
+
+				_computo del color a través, de un algoritmo porcentual
+
+
+			_Saturation:
+
+				_computo del color a través, de un algoritmo por la saturación
+
+
+			_Relative Colorimetric:
+
+				_computo del color a través, de un algoritmo por una colorimetría relativa
+
+
+			_Absolute Colorimetric:
+
+				_computo del color a través, de un algoritmo por una colorimetría absoluta
+
+
+		_Use Black Point Compensation:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste use un algoritmo de
+
+			compensación del punto máximo de los negros de la imágen, para evitar así, el enplastamiento
+
+			de los tonos en la imágen resultante
+
+
+
+		_Scene-ref. Profile Compensation:
+
+
+			_Use Project Setting:
+
+				_ésta opción nos permitirá indicarle al sistema que utilize la configuración nativa
+
+				del proyecto para la generación de un perfil de compensación de color
+
+
+			_On:
+
+				_ésta opción nos permitirá indicarle al sistema que utilize una configuración propia
+
+				para la generación de un perfil de compensación de color
+
+
+			_Off:
+
+				_ésta opción nos permitirá indicarle al sistema que desactive la compensación de 
+
+				color para la generación del sistema
+
+
+
+
+
+
+
+
+
+
+
+

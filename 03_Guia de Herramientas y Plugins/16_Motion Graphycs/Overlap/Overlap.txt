@@ -1,0 +1,91 @@
+
+
+
+
+Overlap
+
+
+	Referencia:
+
+		http://aescripts.com/overlap/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar instancias de layers, animadas con comportamientos adicionales y especiales más 
+
+	controladores dinámicos altamente configurables
+
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite recrear animaciones complejas dentro del espectro del motion graphycs, así, como comportamientos
+
+	de physics, entre otras aplicaciones de animación residual complejas, otros
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_primero debemos crear una una composición base de trabajo
+
+
+	_luego debemos de crear las layers, a la cuáles les aplicaremos los comportamientos de overlap, ésta layers,
+
+	pueden duplicados de una principal ó layers, diferentes de la principal ó primera 
+
+
+	_luego debemos seleccionar una layer, a la cuál, le animaremos una de sus propiedades de animación ej, 
+
+	"translation", ésta será la layer, maestra ó "Driver", para el sistema overlap
+
+
+	_luego debemos seleccionar de forma secuencia todas las layers, ha interacturar en el sistema de overlap,
+
+	para ésto, primero debemos seleccionar la layer, la cuál tendrá propiedades de animación activas ó la que
+
+	hará de "Driver", para luego consecutivamente ir seleccionando el resto de layers, respectivas a integrar
+
+	en el sistema de overlap
+
+
+	_para luego con todas las respectivas layers, seleccionar ir al panel "Overlap", y aplicar "Overlap"
+
+
+	_así, se abrirá el panel de opciones de overlap, en el cuál aparecerán las propiedades animación animadas y
+
+	disponibles así, como también, a la derecha del panel encontraremos las opcioens de panel ha integrar en el
+
+	sistema de overlap, entre otras opciones, y para finalizar le damos ha ok
+
+
+	_de ésta manera se se cambiará el nombre a la cada orignal animada el nombre por "name - Driver", a menos que
+
+	indiquemos lo contrario en las opciones del panel Overlap
+
+
+	_así, a través, del panel de control de efectos podremos por medio de sliders, controlar los comportamientos
+
+	extras del sistema de overlap, otros
+
+
+	
+
+	

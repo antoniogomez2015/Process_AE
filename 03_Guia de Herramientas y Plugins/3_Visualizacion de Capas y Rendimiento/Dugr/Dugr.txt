@@ -1,0 +1,199 @@
+
+
+
+
+Dugr
+
+
+	Referencia:
+
+		http://duduf.net/?page_id=163
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite administrar la visualización de layers, así, como también, ayudar en el rendimiento y desempeño
+
+	de la interface, a la hora de grandes desarrollos al permitir un manejo de gran cantidad de layers, de forma
+
+	ligera y sencilla y sobre todo organizada a través, de grupos
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer grupos de layers, para que podamos controlar todo tipo de procesos especialmente útil en
+
+	procesos de producción entre otros
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_para ésto debemos tener creada una composición base de trabajo
+
+
+	_así, todas las layers, de trabajo ha controlar bajo el sistema de "Dugr"
+
+
+	
+
+	---------------------------------------------------------------------------------------------------------------
+
+
+
+Groups:
+_______
+
+	_para el funcionamiento del sistema es imprescindible la creación "grupos", con las layers, ha controlar como 
+
+	conjunto 
+
+
+	_para ésto, primero debemos seleccionar las respectivas layers, deseadas en timeline, y con éstas seleccionadas vamos
+
+	ha el panel "Dugr", 
+
+
+	_así, en el panel "Dugr", hay un campo de texto en el cuál, podremos asignar un nombre para el nuevo grupo ha crear
+
+	para de ésta manera cuando le hayamos asignado un nombre le damos ha "enter", y así, quedará el nuevo grupo creado y 
+
+	listo para usar
+
+
+
+Funciones Generales:
+____________________
+
+
+	_una de las formas más generales de utilizar los grupos de a través, de los controles básicos de layers, así, éstos 
+
+	afectarán a todas las layers, dentro del grupo al unísono, éstos son:
+
+
+
+		_Visible:
+
+			_ésta opción permite hacer invibles las layers, en el viewport (no en el timeline)
+
+
+		_Audio:
+
+			_ésta opción permte silenciar las layers, de audio
+
+		
+		_Solo:
+
+			_ésta opción permite hacer uno "Solo", de layer, en el viewport (no en el timeline)
+
+
+		_Blockeo:
+
+			_ésta opción permite hacer un bloqueo de layer, en el viewport, y en el timeline
+
+
+		_Hiden:
+
+			_ésta opción permite ocultar las layers en el timeline (de forma directa no funciona tan bien)
+
+
+
+		_Collapse:
+
+			_ésta opción permite colapsar las layers, de layers, vectoriales, otros
+
+
+		_Quality:
+
+			_ésta opción permite cambiarle la calidad ha todas las layers, dentro de un grupo
+
+		
+		_Effectos:
+
+			_ésta opción permite activar ó desactivar todos los efectos para todos las layers, de un grupo
+
+
+		_Frame Blending:
+
+			_ésta opción permite activar ó desactivar las opciones de "frame blending", para todas las layers, de un grupo
+
+
+		_Motion Blur:
+
+			_ésta opción permite activar ó desactivar las opciones de "motion blur", para todas las layers, de un grupo
+
+
+		_Adjust Layer:
+
+			_ésta opción permite activar ó desactivar las layers, de ajustes, para todas las layers, de un grupo
+
+
+		_3D Layer:
+
+			_ésta opción permite activar ó desactivar las opciones de "3D", para todas las layers, de un grupo
+
+
+
+
+Funciones de Isolate:
+_____________________
+
+
+	1_Isolate Select Group:
+
+		_ésta opción es la más completa por hace un isolate, del grupo tanto en el vieport, con en el timeline
+
+
+
+	2_Isolate Select Groups Only Timeline:
+
+		_ésta opción permite hacer sólo un isolate, en el timeline, del respectivo grupo
+
+
+
+	3_Isolate Select Group in the Composition Panel Only:
+
+		_ésta hace un isolate, total idéntico al primero "1_Isolate Select Group:"
+
+
+
+	4_Select Layer, from Group:
+
+		_ésta opción permite seleccionar todas las layers, dentro de un grupo de forma automática
+
+
+
+	5_Invert Group Selected:
+		
+		_ésta opción permite hacer una inversión del grupo seleccionado en el panel "Dugr", no en las layers,
+
+		de los respectivos grupos
+
+
+
+	6_Leave Isolation:
+
+		_éta opción permite liberar ó finalizar cualquiera de los procesos de isolate, devolviendo todas las layers,
+
+		a su estado original
+
+
+		_hacer éste paso anter de cerrar el proyecto es altamente recomendable para evitar conflictos
+
+

@@ -1,0 +1,293 @@
+
+
+
+Layer Monkey (Kinetic)
+
+
+	Referencia:
+
+		http://aescripts.com/layermonkey/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar fácilmente el efecto de kinetic, así, como modulaciones y maquetaciones práctivas y 
+
+	dinámicas eficientemente para proceso de animación de motion graphycs, otros
+
+
+	NOTE: éste plugins, a la hora de su implementación crea un encapsulado del sistema eliminando las layers, de la
+
+	composición y dejando sólo una layer, por ésta, ésta layer, resultando no tiene controladores y efectos u otros 
+
+	tipo de controlador del sistema, pudiendo sólo así, tener que hacer "Undo it", en el panel del plugins, para des
+
+	hacer el sistema
+
+
+	_para crear el sistema es altamente recomendable trabajar ésta en una composición a parte de las demás
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer complejas e impredecibles animaciones de un grupo de layers, dentro de una composición
+
+	para que así, poder lograr grandes efectos de animación con muy poco esfierzo y además ésta sea altamente
+
+	configurable e integrable con otros sistemas más avanzados de animación y producción, otros
+
+
+	_así, podremos hacer kinetic, con archivos y elementos "photos, video, eps files, pre-comps, shapes, solids,
+
+	psd, vectors, whatever"
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Bascs:
+______
+
+
+	Layout:
+
+		_Algoritm:
+
+			_éste permite seleccionar el tipo de algoritmo ó estilo de kinetic, por defecto y más recomendado 
+
+			es el tipo "TypeMonkey"
+
+
+		_Justify:
+
+			_ésta opción permite justificar el contenido, sólo está disponibles para el "algoritm/vertical"
+
+
+		_Scale Variable :
+
+			_éste permite indicar un valor de escala relativa para interacciones de los elementos en la animación
+
+
+		_Spacing:
+
+			_ésta opción permite indcar el espaciado entre los elementos en la animación y simulación de movimiento
+
+			a través, de los diferentes planos
+
+
+		_Rotation Probability:
+
+			_éste permite indicar un valor de probabilidad aleatoria de rotación para los elementos animados
+
+
+	
+	Animation:
+
+		
+		Transition In:
+
+			_ésta es una de las partes más importantes en la cuál, podemos seleccionar el criterio del comportamiento
+
+			general de animación entre los cuales nos ofrece una gran variedad ha seleccionar, entre los cules tenemos:
+
+			"randomize, bounce, slice...,..,.."
+
+
+		_Speed:
+
+			_éste nos permite indicar la velocidad relativa de la animación para los elementos animados la cuál, va desde
+
+			"ràpida, media, lenta...."
+
+
+		_Enable Motion Blur:
+
+			_ésta opción nos permite activar las opciones de motion blur, ó desenfoque de movimiento para la animación y 
+
+			los elementos animados
+
+
+
+	Layer:
+
+
+
+		_Order:
+
+			_ésta opción nos permite seleccionar el orden primarios de los elementos ha animar en la animación entre los cuales
+
+			podremos escoger, "Top, Bottom, Random"
+
+
+		_Timing Controls:
+
+
+			_In Point:
+
+				_ésta opción nos permite seleccionar cuáles serán los disparadores "triggers", de la animación para los momentos 
+
+				ó circustancias importantes de la animación sean sincronizada con algunos elementos de la animación para ésto,
+
+				podemos hacer "markers", en las layers, deseadas ó también, indicar tiempos para éstas
+
+
+			_Out Point:
+
+				_ésta opción nos permite indicar el comportamiento saliente para cada animación entre los cuales disponemos de los
+
+				siguientes: "Freeze, Run Out, Loop, Pinp Ponp"
+
+
+		_Color Palette:
+
+			_ésta opción nos permite agregar color ha algunos elementos como segmentos de la animación para layer, de forma ó shape, 
+
+			"ésta opción debe de ser revisada y explorada correctamente"
+
+
+	Action:
+
+
+		_undo it:
+
+			_ésta opción permite deshacer el sistema creado previamente de una forma controlada y estable, ésta es la única opción que
+
+			brinda el sistema para volver ha actualizar el sistema con nuevos cambios de configuración realizados
+
+
+		Do it:
+
+			_ésta opción nos permite hacer ó crear el sistema con las configuraciones seleccionadas en el panel del plugin
+
+
+		Save:
+
+			_ésta opción nos permite guardar una configuración realizada en el panel del plugin, para crear nuestras propias galerías de
+
+			comportamientos de efectos las cuales podremos reutilizar posteriormente
+
+
+		Load:
+
+			_ésta opción nos permite cargar una configuración guardada en el paso anterior para que así podamos hacer uso de librerías
+
+			personalizadas por nosotros ó por otros desarrolladores, otros
+
+
+		Shy and Lock:
+
+			_(fución indeterminada)
+
+
+
+	Markers:
+
+
+		_Time Span:
+
+			_ésta opción nos permite indicar si el sistema tomará como área de trabajo para las marcas, "Work Area, ó Comp", el área de 
+
+			trabajo ó el tiempo de la composición completo
+
+
+		_Distribution:
+
+			_éste nos permite seleccionar entre diferentes tipos de criterios para la distribución de las layers, en los puntos de interacción	
+
+			de la animación entre los cuales dispone; 
+
+		
+				_Every Spaced:
+
+					_éste es un criterio de distribución relativo al espaciado de las layers, 
+
+				_Marker Sync:
+
+					_éste es un criterio de distribución relativo a la sincronización de las marcas
+
+				_Play Full Clips:
+
+					_éste es un criterio de espaciado por el tamaño de la composición
+
+
+
+	Monkey Cam:
+
+
+		_Include Camara:
+
+			_ésta opción permite que el sistema cree una cámara la cuál, éste animada en conjunción con demás
+
+			parámetros de animación seleccionados
+
+
+			_hay otras opciones como deseleccionar ésta opción y nosotros crear nuestra propia cámara para luego
+
+			sincronizar ésta con el sistema (ésta opción debe de ser probada)
+
+
+		_Movement:
+
+			_ésta opción permite indicar un criterio general para la animación de la cámara entre los que dispone de:
+
+
+				_Smooth Stop & Go:
+
+					_ésta opción creará una cámara con suavizado de paradas entre layers y de flow
+
+
+				_Smooth Constant:
+
+					_ésta opción creará una cámara con suavizado de paradas entre layers constante
+
+
+				_Linear Stop & Go:
+
+					_ésta opción creará una cámara con suavizado lineal de paradas entre layers 
+
+
+				_Linear Constant:
+
+					_ésta opción creará una cámara con suavizado lineal entre layers y de flow
+
+
+		_Auto Rotate:
+
+			_ésta opción permite activar auto rotación para las layers, en relación al tipo de animación y
+
+			mejores funciones entre layers, de animación, otros
+
+
+		_Auto Frame:
+
+			_éste opción ofrece la posibilidad de indicar los criterios de done el sistema creará fotogramas
+
+			para tener un mejor control de la animación resultante
+
+
+		_Update Cam:
+
+			_ésta opción permite seleccionar un cámara personalizada y luego actulizar ésta dentro del sistema,
+
+			(ésta opción debe de ser revisada)
+
+
+		
+
+
+
+
+
+
+

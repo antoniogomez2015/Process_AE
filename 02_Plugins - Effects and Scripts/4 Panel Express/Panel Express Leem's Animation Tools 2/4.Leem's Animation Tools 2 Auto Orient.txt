@@ -1,0 +1,95 @@
+
+
+http://aescripts.com/leemsanimationtools/#/discussion/embed
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Express / Leem's Animation Tools 2
+
+
+	Leem's Animation Tools 2:
+
+
+	-este nos brinda una serie de herramientas para realizar diferentes procesos del rigging, de un character,
+
+	en sus diferentes facetas de producción
+
+
+	_éstas herramientas las tendremos divididas en paneles ó secciones las cuales cumplen diferentes funciones
+
+	en el tiempo y en diferentes procesos de workflow
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener una composición de trabajo creada así, como también, layers, animadas 
+
+
+	Auto Orient:
+	
+	_ésta modalidad nos permite crear sistemas de kinemática con rigs, realizados previamente así, como también,
+
+	para el uso general de layers, animadas
+
+
+	_para ésto, debemos seleccionar una layer, de tipo null object, de las generadas como punto de control ó
+
+	handle, y con ésta layer, seleccionada a la cuál, deseamos aplicarle el sistema de kinemática vamos al panel
+
+	"Leem's Animation Tools/", y vamos a la sección de "Auto Orient", y le damos al botón de 
+
+	"Constrain to Direction"
+
+
+	_para que así, ahora la propiedad de "Rotation", de ésta layer, que debe de corresponder ha una articulación 
+
+	quede controlada ahora por medio de expresiones
+
+
+	_de ésta manera, al mover la layer, de la articulación anterior según la lógica del character y su cinemática
+
+	para que así, podamos ver que el comportamiento de la articulación relacionada ahora tiene un comportamiento
+
+	que obedece a la kinemática natural del movimiento de un character
+
+
+	_por ejemplo, si le aplicamos el sistema de kinemática a la articulación de un antebrazo, específicamente a la
+
+	articulación correspondiente con la del codo ó elbow, así, podremos ver que el mover ó rotar la layer, de la
+
+	articulación anterior, en este caso sería la articulación del brazo ó shoulder, podremos ver que el brazo se
+
+	moverá en el sentido inverso sostenido, movimeinto natural de una kinemática
+	
+
+	_en el paso anterior creamos un control especial para la kinemática directa, más ahora tenemos la posibilidad
+
+	de crear un control adicional para el control de kinemática inversa para que así, tengamos un control total del
+
+	character
+
+
+	_de ésta manera, tendremos que seleccionar la layer, de tipo null object, la cuál, hace de punto de control ó
+
+	handle, en el sistema a la cuál, le aplicamos el proceso de kinemática directa en el paso anterior y, con ésta
+
+	layer, seleccionada vamos al panel "Leem's Animation Tools/", y vamos a la sección de "Auto Orient", y le damos 
+
+	al botón de "Constrain to Point", para que de ésta manera se genera en ese mismo punto una nueva layer, de tipo
+
+	null, la cuál, hará de punto de control especial ó handle, para la kinemática inversa
+
+
+	_de ésta manera, a través, de éste control podremos hacer correcciones de posición del proceso general de la
+
+	kinemática así, como tener el control de la animación principal del character
+
+

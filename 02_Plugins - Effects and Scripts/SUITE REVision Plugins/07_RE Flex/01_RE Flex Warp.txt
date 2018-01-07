@@ -1,0 +1,356 @@
+
+
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+		DEFlicker Tutorials/Playong List:
+
+			https://www.youtube.com/watch?v=ROG9Cx09xr4&list=PLJZE0COAfWUXTkWdhbkaO5GflW3hWJZ4h
+
+
+		RE:Flex (17 Videos)
+
+			https://www.youtube.com/playlist?list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v
+
+
+		RE:Flex Warper Basics - Part 1
+
+			https://www.youtube.com/watch?v=CEOEdeSPLqQ&index=12&list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE:VisionFx Flex Warp:
+______________________
+
+
+	_éste efecto nos permitirá crear deformaciones sobre imágenes y composiciones de forma específica y muy concreta
+
+	a través, del uso de máscaras por medio de las cuáles, podremos seleccionar un área concreta ha deformar ó corregir
+
+	así, como también, podremos seleccionar el área de acción de la deformación ó área que no queremos que sea deformada
+
+
+	_de ésta manera, éste efecto nos permitirá crear transformaciones para lograr cambios visuales para diferentes 
+
+	procesos de producción y edición avanzados
+
+
+
+
+
+	Workflow:
+	_________
+
+
+	1_Creamos una composición de trabajo con almenos una layer, la cuál, por lo general será una imágen ó una composición
+
+
+	2_a continuación debemos seleccionar la respectiva layer, e ir ha "Effects/RE:Vision Plugins/", y aplicar el efecto
+
+	de "RE:Flex Warp"
+
+
+	3_para a continuación ir a las opciones del efecto, específicamente "Display:", y seleccionar la opción 
+
+	de "UnWarped Image", en el "Effects Controls", para que así, podamos hacer ediciónes de máscaras sin influencia 
+
+	del efecto sobre la imágen ó composición
+
+
+	4_para a continuación con la respectiva layer, seleccionada comenzar ha realizar una máscara sobre el área que deseamos
+
+	deformar ó corregir por ejemplo; un "ojo", ésta máscara, debemos de realizar ésta máscara por el área perimetral ó 
+
+	señirnos al contorno del respectivo elemento ó motivo de la imágen
+
+
+	_ésta máscara que hemos creado debemos desplegar sus opciones en el timeline, en la respectiva layer, para que así, podamos
+
+	cambiar su color por un color "Rojo Puro", para que así, ésta sea reconocida por el sistema del efecto
+
+
+	5_para a cotinuación duplicar la máscara que hemos creado previamente en el paso anterior y que hemos cambiado su color
+
+	por un color rojo
+
+
+	_de ésta manera, ésta nueva copia que hemos creado a partir de la máscara anterior u original también, debemos de cambiar
+
+	su color más ésta vez, por un color "Verde Puro", para que así, ésta sea reconocida por el sistema del efecto
+
+
+	_como podremos ver ambas máscaras quedarán superpuestas ó en el mismo lugar de ésta manera, debemos de entender que las
+
+	transformaciones que realicemos en el "path", de la máscara de color "verde", serán pasados ó transpolados a la máscara 
+
+	de colo "rojo", la cuál, podrá ó no estar visible en el viewport
+
+
+
+	NOTE: también, tendremos la posibilidad de crear más de una máscara de color verde y más de una máscara de color roja, 
+
+	de ésta manera, podremos ver que podremos crear mútiples máscaras para que así, podamos deformar varias áreas de la imágen
+
+	a la vez, éstas máscaras pueden estar abiertas ó cerradas lo cuál, será transparente para el sistema
+
+
+
+	6_más también, tendremos la posibilidad de crear una máscara adicional a través, de la cuál, podremos controlar ó indicar
+
+	el alcance que tendrá la deformación realizada sobre la imágen para que así, podamos limitar el alcancel del efecto y no
+
+	deformas áreas que no desiemos deformar
+
+
+	_ésta máscara también, debemos de asignarle un color distintivo ha ésta tercera máscara que hemos creado fuera de los 
+
+	colores que ya hemos utilizado como los son el color "rojo", y "verde", de ésta manera, un color recomendado sería 
+
+	el color "amarillo", para ésta tercera máscara delimitadora del alcance del efecto
+
+
+	_así, por ejemplo podría deliminar el área perimetral de los ojos ó labios para que así, la deformación no alcance lo 
+
+	pómulos ó párpados respectivamente, otros
+
+
+	_para que así, podamos ir a las opciones del efecto de "Boundary", y allí, seleccionar la respectiva máscara que hemos
+
+	creado para tal fin delimitador
+
+
+	_de ésta manera, ahora al mover los vertexs, de la máscara de color verde podremos ver que la parte ó área de la imágen 
+
+	que circunscribe ésta máscara de color verde ahora es deformada en proporción de cuanto movamos los respectivos vértices
+
+	de ésta máscara y a su vez, podremos ver que dicha transformación es limitada por la tercera máscara delimitadora 
+
+	de color amarillo que hemos creado
+
+
+
+
+RE:VisionFx Flex Warp Options:
+______________________________
+
+
+	_Display:
+
+
+		_UnWarp Image:
+
+			_ésta opción nos permitirá visualizar la imágen con las respectivas máscaras sin acción del efecto ha 
+
+			modo de bypass, para que así, podamos edición sobre las máscaras sin la intervención del efecto
+
+
+		_Warp Image:
+
+			_ésta opción nos permitirá activar el efecto cuando ya tengamos editadas todas las máscras listas para
+
+			comenzar ha crear la deformaciones sobre la respectiva imágen
+
+
+		_Control Image:
+
+			_ésta opción nos permitirá visualizar de forma aislada ó isolate, las respectivas máscaras y en especial
+
+			la máscara de color verde la cuál, aparecerá resaltada y con un conforno más grueso de color ver y todo
+
+			el viewport, a su vez, aparecerá de color blanco
+
+
+	_Use GPU:
+
+		_ésta opción nos permitirá activar la aceración por GPU, ó memoria de la acelaradora 3d, para aumentar así, 
+
+		la flidés del sistema
+
+
+	_Auto Hide/Show Masks:
+
+		_ésta opción nos permitirá visualizar u ocultar la máscara de destino de la deformación ó la máscara de color
+
+		roja la cuál, es la máscara que deformará la imágen
+
+
+	_Use Global Warp%:
+
+		_ésta opción nos permitirá graduar la influencia del efecto aplicado, así, podremos atenuar ó exagerar el efecto
+
+		aplicado en un keyframe, determinado y hacer correcciones animadas de éste
+
+
+		_ésta opción es pecialmente útil para deformaciones ó transformaciones en imágenes en movimiento ó videos ó 
+
+		secuencias de imágenes ya que podremos activar ó desactivar el sistema gradualmente a través, del tiempo
+
+
+	_Quality:
+
+		_ésta opción nos pemritirá graduar la calidad del efecto, especialmente útil para procesos de edición y creación
+
+		del efecto de ésta manera, dispondremos de las opciones "Low, Medium, Best, Ultra"
+
+
+	_Temporal Smooth:
+
+		_ésta opción nos permitirá activar un suavizado para las animaciones de formaciones en videos ó secuencias 
+
+		de imágenes lo cuál, hará el efecto más flexible ó ductil en relación al movimiento natural del motivo a través,
+
+		del tiempo
+
+
+	_Boundary:
+
+		_ésta opción nos pemritirá seleccionar una máscara auxiliar la cuál, hará de delimitador del sistema para que éste
+
+		tenga una área perimetral de acción para que así, éste no efecte áreas que deseamos se mantengan en su estado
+
+		original ó estado de reposo
+
+
+	_Hold Edges:
+
+		_(opción de bloquear border indeterminada), por que no veo cambios ó acción de ésta opción
+
+
+	_Anti.Aliasing:
+
+		_ésta opción nos permitirá mejorar el aspecto de los pixeles deformados en el proceso mejorar su calado ó 
+
+		interpolación
+
+
+		_de ésta manera, podremos indicado un antialiasing, con valor entre "1x1, 2x2, 3x3, 4x4", para mejorar así, 
+
+		el aspecto de los pixeles e imágen en general resultante del proceso
+
+
+
+	_AA Method:
+
+
+		_Faster:
+
+			_así, como también, podmores seleccionar un método de acción para el antialiasing, el cuál, puede ser
+
+			rápido con buena calidad
+
+
+		_Less Memory:
+
+			_así, como también, podmores seleccionar un método de acción para el antialiasing, el cuál, puede ser
+
+			lento y con menor calidad pero éste consumirá menos memoria en el sistema general
+
+
+
+	_MipMap:
+
+
+		_Standard:
+
+			_(opción indeterminada), por que no veo cambios ó acción de ésta opción
+
+
+		_Medium:
+
+			_(opción indeterminada), por que no veo cambios ó acción de ésta opción
+
+
+		_Smoothet:
+
+			_(opción indeterminada), por que no veo cambios ó acción de ésta opción
+
+
+
+	_Accumulate Folds:
+
+		_ésta opción nos permitirá conmitar los alineamientos de los estiramientos de la imágen en un sólo control 
+
+		automático
+
+
+	_Strips:
+
+		_ésta opción nos permtirá indicar que sólo habrán estiramientos de la imágen sean éstos horizontales o verticales
+
+		a través, de las opciones de: "Horiz Strip", "Vert Strips", ha nivel general
+
+
+	_Horiz Render:
+
+		_ésta opción nos permitirá indicar específicamente si los estiramientos de la imágen se realizarán horizontalmente
+
+		tanto a la derecha ó a la izquierda a través, de las siguientes opciones: "Left to Right", "Right to Left"
+
+
+	_Vert Render:
+
+		_ésta opción nos permitirá indicar específicamente si los estiramientos de la imágen se realizarán verticalmente
+
+		tanto de arriba hacia abajo ó de abajo hacia arriba a través, de las siguientes opciones: "Top to Bottom", 
+
+		"Bottom to Top"
+
+
+	_Match Vertices?:
+
+		_ésta opción nos permitirá mantener alineada la imágen en sus ejes originales sin importar la deformación 
+
+		y orientación de los vértices deformados de la máscara de color verde
+
+
+		_de ésta manera, en la mayoría de los casos es recomendable mantener ésta opción activada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+

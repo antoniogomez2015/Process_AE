@@ -1,0 +1,110 @@
+
+
+
+TutifrutiTV
+
+	Hablando y Sincronización en After Effects
+		https://www.youtube.com/watch?v=r5dSE4RwzcU
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Character Souce:
+________________
+
+
+	_primero creamos la layers, de las diferentes poses ó estados de la boca ó lips, este proceso
+
+	lo podemos realizar en photoshop, illustrator, ó programas similares
+
+
+
+Proyect:
+________
+
+
+	_luego importamos este archivo como composición
+
+
+
+Secuences:
+__________
+
+
+	_luego secuenciamos la layers, deseadas por tipo ej: lips, eyes, tonge, otros, en composiciones
+
+	anidadas para tener así, un ordenamiento mayor
+
+
+	_para esto, entramos dentro de la pre composición deseada y seleccionamos las layers, dentro de ésta
+
+
+	_luego ajustamos su duración ha un estandar ej: "10, frames", para que así, éstas sean secuenciables
+
+	y quede espacio en la composición para este proceso de secuenciado
+
+
+	_luego aún con las layers, seleccionadas vamos ha "Animation/Keyframe Assistant/Secuence Layers.."
+
+
+	_así, nos aparecerá un menú "Secuence Layers", en el cuál, podremos secuenciar las layers, directamente
+
+	ó agregar un porcentaje de superposición de las layer, esto es especialmente útil para hacer transiciones
+
+	entre la layers
+
+
+	_así, si deseamos agregar superposición entre las layers, podremos indicar la duración de ésta superposición
+
+	
+	_así, como también, si deseamos agregar una transición:
+
+
+		_Dissolve From Layers:
+
+			_disolvencia con la capa siguiente
+
+
+		_Cros Dissolve From and Back Layers:
+
+			_disolvencia entre la capa siguiente y la anterior
+
+
+
+Time Remapping:
+_______________
+
+
+	_luego volvemos a la composición principal y seleccionamos la pre composición deseada y vamos ha
+
+	"Layer/Time/Enable Time Remapping", ó a través, de su shortcut "Control + Alt + T"
+
+
+	_así, nos aparecerá un keyframe, en la nueva propiedad agregada "Time Remap", de esta manera debemos
+
+	posarnos en éste keyframe y hacer "mouse right click", y seleccionar la opción de "Toggle Hold Keyframe",
+
+	para así, convertir éste en un keyframe, sostenido en el tiempo
+
+
+
+Blendshape Animation:
+_____________________
+
+
+	_así, sólo nos quedará avanzar el cabezal en el tiempo e ir cambiando el valor de la propiedad
+
+	"Time Remap", en relación a la duración de las layers, o intervalor de capas por ende, en este caso
+
+	le hemos colocado una duración de las layers, de de "10f", por ende, al aumentar ahora el valor de la
+
+	propiedad "Time Remap", cambiará ó avanzará a la siguiente layer
+
+
+	_de esta manera podremos ir animando en relación a la secuencia de audio de forma ordenada a través,
+
+	de todas las precomposiciones de elementos que hemos realizado previamente

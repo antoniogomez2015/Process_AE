@@ -1,0 +1,109 @@
+
+
+
+
+Animation Patterns
+
+
+	Referencia:
+
+		http://aescripts.com/easyrulers/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite esquemas de reglas configurables y animables en el viewport 
+
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite elementos gráficos de animación para motion graphycs, y otras aplicaciones en producción las
+
+	cuales son totalmente configurables y animables, para que así, podamos crear reglas tanto lineales como
+
+	circulares
+
+
+
+
+Performances:
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_primero debemos crear una una composición base de trabajo
+
+
+	_leugo sin la necesidad de tener ninguna layer, seleccionada vamos al panel "EasyRules", para así, configurar
+
+	las características deseadas el sistema "rules"
+
+	---------------------------------------------------------------------------------------------------------------
+
+
+	Ruler lines:
+
+		_éste nos permite indicar la cantidad de líneas centimetradas que tendrá la regla en su longitud
+
+
+	Grap:
+
+		_éste permite indicar la longitud que tendrá la regla ó su tamaño en relación a un todo
+
+
+	Linear ruler:
+
+		_éste permite indicar si la regla será lineal y horizontal
+
+
+	Arc/Circle ruler:
+
+		_éste permite indicar si la regla será arqueada ó totalmente circular
+
+
+	Create Mirror:
+
+		_éste permite indicar si la regla tendrá elementos duplicados como copias las cuales podrá ser
+
+		proyectadas en el espacio en la cordenada "Z"
+
+
+	Selector de diseño:
+
+		_éste nos permite seleccioanr entre una sere de diseños de reglas preconfiguradas
+
+
+	Colors:
+
+		_éste nos permite asignarle in determinado color a partes que conforman la regla respectiva
+
+
+	Create text numbers:
+
+		_éste nos permite indicar si deseamos asignarle números visibles a la regla centimetrada
+
+	
+	Add effects controls:
+
+		_éste nos permite indicar si deseamos agregarle una layer, con efectos controladores del sistema
+
+		a la regla a crearse
+	
+
+
+	

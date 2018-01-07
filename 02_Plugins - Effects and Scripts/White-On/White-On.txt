@@ -1,0 +1,44 @@
+
+
+White-On/modo escritura
+
+	el modo escritura nos permite develar un contenido de forma manual ó personalizada sin precindir de un path ó trazado para 
+
+	su desarrollo
+
+
+	1.para esto, seleccionamos la capa de deseada y le aplicamos el efecto; Effects/Generate/White-On
+
+		1.1.brush posiion: nos permite generar el trazo del recorrido, por ende debemos colocarlo en el punto inicial 
+
+		del recorrido
+
+		1.2.color: nos permite indicar color referencial que nos indicará el recorrido del trazado a develar
+
+		1.3.Brush Time Properties: nos permite seleccionar el modo de animación
+			
+			1.3.1. none: no hará animación de las variaciones del pincel
+
+			1.3.2.Size: permite animar el tramaño del pincel durante el recorrido
+
+			1.3.3.Hardness: permite animar la dureza del pincel durante el recorrido
+
+			1.3.4.Size and Hardness: nos permite animar el tamaño como la dureza del pincel durante el recorrido
+
+
+		1.4.Brush Size, nos permite indicar el tamaño del pincel, entre otras opciones
+
+		1.5.ahora para generar el recorrido hacemos doble click sobre la capara para entrar en modo de edición de capa 
+
+		y procedemos a animar la propiedad Brush position en el timeline, mientras movemos la posición del pincel sobre 
+
+		la capa
+
+		1.6.al final, para develar la capa con recorrido generado, cambiamos la opción "On Original Image", por la opción 
+
+		Reveal Original Imagen, en la opción: Paint Style; así, se develará sólo el trazado que generamos en la capa, 
+
+		oculatándose la demás parte de la capa
+
+
+

@@ -1,0 +1,190 @@
+
+
+http://aescripts.com/conform-studio/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Conform Studio
+
+
+	CS Conform:
+
+
+	-este nos permite hacer precomposiciones automaticamente a partir de un timeline, de tramos de videos,
+
+	layers, ó composiciones anidadas en en secuencia ha modo de "shots", ó cortos de diferentes tomas de video
+
+
+	_así, éste plugins, nos permitirá hacer precomposiciones individuales rápidamente de una serie de layer,
+
+	estén éstas en secuencia ó no en el timeline
+
+
+	_más también, nos permitirán reconfigurar la duración de las layers, para que así, éstas se solapen con 
+
+	y con la duración extra de las layers, que se ha agregado en el proceso poder hacer transiciones entre 
+
+	las respectivas layers, éstos es especialmente útil en layers, colocadas en modo de secuencias
+
+
+	
+
+	Workflow:
+	_________
+
+
+	_así, en las opciones del plugins podremos configurar las siguientes opciones:
+
+
+	Presset:
+
+		_ésta opción nos permite seleccionar entre presets, que tengamos creados previamente en el plugins
+
+
+	Prefix:
+
+		_ésta opción nos indica que debemos de indicarle un nombre de prefijo para la generación de archivos
+
+		entendiendo así, los prefijos como un short-name, que se le agregará antes de su nombre a los archivos 
+
+		generados en el sistema
+
+
+	Start:
+
+		_Indeterminado
+
+
+	Step:
+	
+		_Indeterminado
+
+
+	Padding:
+
+		_Indeterminado
+
+
+	Suffix:
+
+		_ésta opción nos indica que debemos de indicarle un nombre de prefijo para la generación de archivos
+
+		entendiendo así, los prefijos como un short-name, que se le agregará despues de su nombre a los archivos 
+
+		generados en el sistema
+
+
+	Name:
+
+		_ésta opción nos permite indicarle un nombre base a los archivos generados por el sistema
+
+
+	Inser new shorts into existing composition:
+
+		_ésta opción nos permite indicarle al sistema que deseamos que el sistema sea creado dentro de la
+
+		misma composición seleccionada donde se encuentran los clips, ó layers
+
+
+	Destination folder:
+
+		_ésta opción nos permite asignarle un nombre ha la carpeta generada por el sistema en el panel "project",
+
+		en la cuál, se volcarán todas las precomposiciones generadas a partir de los clips, ó layer, del timeline
+
+
+	Add handles:
+
+		_ésta es la opción más importante ya que permite indicarle al sistema que agrege ó amplie  la duración 
+
+		de cada clip, de la secuencia de video ó de layer, del timeline, de ésta manera, tendremos la posibilidad
+
+		de recomponer un duración de los clips, ó layers, de una secuencia en una composición en el timeline
+
+
+		_más ésta opción no amplía ni disminuye la duración previa que tenia la secuencia de composición de video
+
+		ó layers, lo que quiere decir, que lo se ha agregado ha cada layer, del timeline, se ha extendido ha modo
+
+		de clip, vacío superpuesto en una layer, sobre otra
+
+
+		_de ésta manera, podremos utilizar éste nueva espacio de clip, solapado disponible para hacer transiciones
+
+		entre otras posibilidades dentro de la producción
+
+
+	Duplicate original comp, add suffix:
+
+		_ésta opción nos indica si deseamos duplicar la composición original aplicandole el respectivo sufijo
+
+
+	PROCEED:
+
+		_ésta opción nos permite crear el sistema configurado previamente
+
+
+
+Advanced:
+_________
+
+	_en las opciones avanzadas del plugins, disponemos de los siguientes controles:
+
+
+
+	Group overlapping:
+
+		_ésta opción nos permite indicarle al sistema que agrupe las layers, que estén solapadas ó unas sobre
+
+		otras layers, ocupando el mismo "frame to frame"
+
+
+	Group consecutive layers with the same name:
+
+		_ésta opción nos permite indicarle al sistema que aplique el sistema sólo a las layers, seleccionadas
+
+		y en el orden que ésta fueron seleccionadas
+
+
+	Leave attribute when precomposing single layers:
+
+		_Indeterminado
+
+
+	Inherit labels:
+
+		_ésta opción permite aplicar el proceso a las layers, del timeline, en relación al color de sus lebels,
+
+		ó colores de layers, en el timeline
+
+
+	Inherit timecode from:
+
+		_
+
+
+	Enable Frame Blend for time-stretched layers:
+
+		_ésta opción nos permite configurar las opcioens de fusión de fotogramas para mejorar la viualización
+
+
+	Save as defaults:
+
+		_ésta opción nos permite guargar configuraciones por defecto de las opciones avanzadas
+
+
+	Import presset file:
+
+		_ésta opción nos permite importar presets, guardados previamente
+
+
+	Export presset file:
+
+		_ésta opción nos permite exportar configuraciones en nuestro equipo local
+
+
+

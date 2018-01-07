@@ -1,0 +1,144 @@
+
+
+
+Navegation and Workflow para After Effects
+
+
+	Referencia
+
+		http://aescripts.com/
+
+
+			https://forum.cgpersia.com/f68/ae-scripts-ae-2015-monter4-no-requests-only-new-117389/index7.html
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+FxPro: (ft-Toolbar 2)
+_____________________
+
+
+	(F) Panel FxPro / Referencia (al lado derecho del Panel Proyecto por default)
+
+	
+	Descripción: (panel de accesos directos)
+
+
+	Referencia en la web: http://aescripts.com/ft-toolbar/
+
+		
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+The Commander for After Effects:
+________________________________
+
+
+	(F) Panel FxPro / Referencia (al lado derecho del Panel Proyecto por default)
+
+	
+	Descripción: (navegador dinámicos de plugins y efectos instalados)
+
+
+	Referencia en la web: http://www.davejacobson.com/
+
+		https://vimeo.com/134916975
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Quick Menu:
+___________
+
+
+	(F) Panel FxPro / Referencia (al lado derecho del Panel Proyecto por default)
+
+	
+	Descripción: (navegador dinámicos de plugins y efectos instalados)
+
+
+	Referencia en la web: http://aescripts.com/quick-menu/
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+malty: Simple Camera Rig:
+_________________________
+
+
+	(F) Panel FxPro / Referencia (al lado derecho del Panel Proyecto por default)
+
+	
+	Descripción: (éste permite controlar la cámara a través, de unos controladores a modos de diales por medio de un plugins de cámara)
+
+
+	Referencia en la web: http://aescripts.com/malty-simple-camera-rig/
+
+		
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+BR_Widget_V1.02:
+________________
+
+
+
+	(F) Panel FxPro / Referencia (al lado derecho del Panel Proyecto por default)
+
+	
+	Descripción: (éste permite crear un "Axis", guía en el eltorno 3d, del viewport, de la composición)
+
+
+	Referencia en la web: http://aescripts.com/malty-simple-camera-rig/
+
+		
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+BR_Horizon_V1.05:
+________________
+
+
+
+	(F) Panel FxPro / Referencia (al lado derecho del Panel Proyecto por default)
+
+	
+	Descripción: (éste permite crear un "Horizonte", guía en el eltorno 3d, del viewport, de la composición)
+
+
+	Referencia en la web: http://aescripts.com/malty-simple-camera-rig/
+
+		
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+BR_Grid_V1.04:
+______________
+
+
+
+	(F) Panel FxPro / Referencia (al lado derecho del Panel Proyecto por default)
+
+	
+	Descripción: (éste permite crear un "Grid", guía en el eltorno 3d, del viewport, que se extiende más allá de la composición)
+
+
+	Referencia en la web: http://aescripts.com/malty-simple-camera-rig/
+
+		

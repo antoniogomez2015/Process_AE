@@ -1,0 +1,119 @@
+
+
+
+Vertex Tool
+
+
+	Referencia:
+
+		http://aescripts.com/speed-lines/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar efectos de "Strands", ó estelas a partir de las trayectorioas de animación de una 
+
+	determinada layer, lo cuál, es altamente configurable especial para motion graphycs, otros
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer estelas de animación las son altamente configurables e incluso actualizable dinámicamente
+
+	posteriormente de hacerlas creado e incluso animables, éstas opciones son muy útiles para los procesos de
+
+	motion graphycs, otros
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Bascs:
+______
+
+	
+	_para ésto, debemos de tener una composición previamente creada
+
+
+	_luego debemos crear una layer, de forma "shape", ó de imágen, por lo general es recomendable animar ésta layer
+
+	para que así, tengan funcionalidad la strands, ha generar
+	
+
+
+	----------------------------------------------------------------------------------------------------------------
+
+	Number of lines:
+
+		_ésta opción permite indicar la cantidad de líneas paralelas que tendrá el strands
+
+
+	_Separations:
+
+		_ésta opción indica la selaración que habrá entre las líneas que tendrá el strands, generado
+
+
+	Thickness:
+
+		_ésta opción indica el grosor que tendrán las líneas que tendrá el strands, ha generar
+
+	
+	Offset Angle:
+
+		_ésta opción indica el ángulo de acción para la interacción del strands, con la trayectoria de animación
+
+		del sistema de "Speed Lines"
+
+
+	Parenting / Expressions:
+
+		_(indeterminado)
+
+
+	Create Speed Lines:
+
+		_ésta opción permite finalizar la creación del sistema de "Speed Lines", para que así podamos ver el sistema
+
+		_a partir de ésta punto de crear el sistema de "Speed Lines", se agregará a la composición una nueva layer, 
+
+		de forma ó shape, la cuál, contendrá las líneas de strands
+
+
+		_para que ási, podramos controlar el comportamiento de las strands, a través, de efectos agregados ha ésta
+
+		layers, los cuales podremos controlar a través, del panel de control de efectos, por modio de los siguientes
+
+		controles:
+
+
+			_Speed Lines Length:
+
+				_éste permite controlar la longitud de las strands
+
+
+			_Speed Line Offset:
+
+				_éste permite controlar el "offset", de las strands, hacia adelante y hacia atras sobre la 
+
+				trayectoria de animación existente
+
+
+	Update Speed Lines:
+
+		_ésta opción permite hacer cambios y variaciones del sistema de strands, para luego actualizar al existente
+	
+
+
+

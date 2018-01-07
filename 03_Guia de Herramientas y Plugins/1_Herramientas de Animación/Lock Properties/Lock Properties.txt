@@ -1,0 +1,100 @@
+
+
+
+
+Lock Properties
+
+
+	Referencia:
+
+		http://aescripts.com/lockproperties/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste bloquear propedades animadas por ej: "Rotate", para que así, ésta propiedad quede desactivada temporalmente
+
+
+Aplicaciones:
+_____________
+
+
+	_éste permite desactivar propiedades y scripts, temporalmente para tener una rápida edición de otroas propiedades
+
+	relacionadas con ésta misma layer, y procesos que realiza ésta
+
+
+	_ésto es especialmente útil para procesos de edición y producción en los que deseamos desactivar ciertas propiedades
+
+	para que así, podamos acceder de forma más fácil a una layer, sin que las acciones ó propiedades animadas muevan ó
+
+	modifiquen la forma y posición de la layer, respectiva
+
+
+	_Note: éste plugins, nos funciona con todas las propiedades
+
+
+	
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_primero debemos tener un composición creada a la cuál, debemos crearle layers
+
+
+	_luego debemos animar las propiedades deseadas
+
+
+
+Selected Properties:
+____________________
+
+
+	Lock:
+
+		_primero debemos tener seleccionado una propidad ej "Rotate", de una layer, para luego ir al "LockProperties",
+
+		y hacer "Lock", así, ha ésta respectiva layer, se le agregará una expresión dejando desactiva temporalmente
+
+		ésta respectiva propiedad
+
+
+	UnLock:
+
+		_ésta opción permite una propiedad que previamente hemos desactivado a través, del paso anterior
+
+
+	Pre-Expression:
+
+		_ésta opción hace que el sistema contemple a las expresiones existentes en una layer
+
+
+Selected Expression:
+
+	
+	Enable:
+
+		_ésta opción permite activar expresiones existentes en una layer
+
+
+	Disable:
+
+		_ésta opción permite desactivar expresiones existentes en una layer
+
+
+
+
+

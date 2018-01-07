@@ -1,0 +1,138 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/utility-effects.html#grow_bounds_effect
+
+				https://helpx.adobe.com/es/after-effects/using/color-management.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+		Tutorial:
+
+			Extender limites de los objetos (Grow bounds) - After effects para principiantes
+				https://www.youtube.com/watch?v=qa8pdgAn-cY
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+	
+	NOTA: Los efectos de la categoría Obsoleto se conservan para permitir la compatibilidad con los proyectos 
+
+	creados con versiones anteriores de After Effects. Cuando se actualizan proyectos o se crean proyectos 
+
+	nuevos, debe usar efectos y técnicas alternativos en lugar de los efectos de la categoría Obsoleto.
+
+
+
+
+	_El efecto Incrustación por croma elimina todos los píxeles de una imagen que se parezcan a un color clave 
+
+	especificado. Este efecto modifica solo el canal alfa de una capa.
+
+
+	_Este efecto funciona con colores de 8 bpc y 16 bpc.
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Color Key: (Incrustacion por Croma)
+	__________
+
+
+		_Key Color:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el color que deseamos eliminar
+
+			de la imágen base a través, de un picker, ó a través, de un selector de color directamente
+
+			en el panel efectos controls
+
+
+		_Color Tolerance:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el nivel tolerancia ó umbral para
+
+			la eliminación del color indicado en el parámetro anterior
+
+
+		_Edge Thin:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la expansión ó contracción del
+
+			umbral de la iliminación del color indicado en el paso anterior, de ésta manera, podremos 
+
+			tanto expandir como traer el sistema generado
+
+
+			_de ésta manera, indicando valores negativos haremos contracciones del umbral e indicando 
+
+			valores positivos haremos expansiones del umbral
+
+
+		_Edge Feather:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el el umbral de suavizado ó 
+	
+			desenfoque de los bordes generado por el sistema lo cuál, nos permitirá crear un mejor 
+
+			calado entre el sistema generado y las demás layers, de la composición respectiva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

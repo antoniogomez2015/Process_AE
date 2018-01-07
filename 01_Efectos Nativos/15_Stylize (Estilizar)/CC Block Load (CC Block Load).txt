@@ -1,0 +1,115 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá emilar la progresiva carga de una layer, es algo similar a lo que ocurre
+
+	en web, cuando en navegador está renderizando una imágn jpge, y gif, otros
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	CC Block Load: (CC Block Load)
+	______________
+
+
+		_Completion:
+
+			_La complexión se refiere al número de bytes, ó pixeles, cargados para la conformación
+			
+			de la imágen resultante del proceso
+
+			
+			_de ésta manera, podremos desplazar éste control totalmente a la "derecha", hasta que
+
+			tenga un valor de "-100", para que así, esté listo para aplicar el efecto de barrido sobre
+
+			la imágen base
+
+
+			_para que así, posteriormente podamos ir disminuyendo éste valor ´hasta "0", para que así,
+
+			el sistema vaya analizando la imágen y pixelenado ésta a través, de diferentes "pases", los
+
+			cuáles, son definidos en el control "Scans"
+
+
+			NOTA: éste esfecto también, podríamos hacer de forma invertida, es decir, que podríamos 
+
+			hacerlo desde una imágen pixelada ha una imágen nítida
+
+
+		_Scans:
+
+			_El número de escaneos afecta cuántas veces se refinará la capa antes de que se cargue por 
+
+			completo, es decir, cuando la finalización alcance el 100%
+
+
+			_de ésta maenra, si indicamos un valor de "5", quiere decir que la imágen será cinco veces
+
+			escaneada ó barrida para lograr el efecto de pixelado
+
+	
+			_lo cuál, es especialmente útil para una serie de procesos de producción y paso contínuo
+
+
+		_Star Cleared:
+
+			_Con esta opción marcada, la carga del bloque comenzará con su capa fuente invisible. 
+
+			desmarque esta opción si desea comenzar con el primer escaneo completado
+
+
+			_de ésta manera, podremos hacer otros tipos de efectos como cortinas, transiciones, mattes, 
+
+			entre otras muchas posibilidades dentro del constructivismo visual al poder utilizar la 
+
+			forma dentada de los pixeles, otros
+
+
+		_Bilinear:
+
+			_Marque esta opción para usar el filtrado bilineal durante los escaneos de píxeles, esto 
+
+			le dará a las transiciones una apariencia más suave y menos compacta
+		
+
+
+
+
+
+

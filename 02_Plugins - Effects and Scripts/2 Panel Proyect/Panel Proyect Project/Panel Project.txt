@@ -1,0 +1,17 @@
+
+
+panel nativo de adter effects
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Project
+
+
+	Panel Proyecto/Project
+
+
+		-este nos permite administrar y gestionar todos los archivos del proyecto, entre otras funciones

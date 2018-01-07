@@ -1,0 +1,84 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	3D Channel:
+	___________
+
+
+		_3D Channel Extract: (Extraccion de Canal 3D)
+
+			_extracción de multi-maps, de un archivo con canales de mapas auxiliares a través, 
+
+			de un archivo de tipo ".prf | OpenEXR | RLA / RPF", entre otros los cuáles, será, creado en
+
+			las principales aplicaciones como blender, cinema 4d, maya, softimage, otros
+
+
+		_EXtractoR: (EXtractoR)
+
+			_éste nos permitirá extrar multi-maps, de un archivo de tipo "EXtractoR", en los cuáles,
+
+			se han codificado los canales base ha extrar posteriormente de forma pre cargada
+
+
+		_Depth Matte: (Mate de Profundidad)
+
+			_extracción de un mapa de profundidad a través, de un archivo de tipo ".prf | OpenEXR | RLA 
+
+			/ RPF", entre otros los cuáles, será, creado en las principales aplicaciones como blender, 
+
+			cinema 4d, maya, softimage, otros
+
+
+		_Depth of Field: (Profundidad de Campo)
+
+			_extracción de un mapa de desenfoque de cámara a través, de un archivo de tipo ".prf | OpenEXR 
+
+			| RLA / RPF", entre otros los cuáles, será, creado en las principales aplicaciones como blender, 
+
+			cinema 4d, maya, softimage, otros
+
+
+		_Fog 3D: (Niebla en 3D)
+
+			_extracción de un mapa de penumbra a través, de un archivo de tipo ".prf | OpenEXR | RLA 
+
+			/ RPF", entre otros los cuáles, será, creado en las principales aplicaciones como blender, 
+
+			cinema 4d, maya, softimage, otros
+
+
+		_ID Matte / IDentifier: (ID de Mate)
+
+			_extracción de un mapa de color a través, de un archivo de tipo ".prf | OpenEXR | RLA 
+
+			/ RPF", entre otros los cuáles, será, creado en las principales aplicaciones como blender, 
+
+			cinema 4d, maya, softimage, otros
+
+
+		
+
+
+
+

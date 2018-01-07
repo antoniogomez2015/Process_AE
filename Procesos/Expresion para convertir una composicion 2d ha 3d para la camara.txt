@@ -1,0 +1,95 @@
+
+
+
+	After Effects - Crear un ADN (Animación) Parte 2
+
+		https://www.youtube.com/watch?v=wTZjcarg76E&index=2&list=PLB43EA0CE90B9A554
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Descripción:
+____________
+
+
+	_éste script, es especialmente útil para cuando aplicamos un efecto ó plugins, con características 3d, y 
+
+	rotaciones en el espacio 3d, las cuales se perderían si precomponemos ésta dicha composición en otra composición
+
+	la cuál, tenga otra cámara a parte
+
+
+
+	General:
+	________
+
+	_primero debemos de aplicar el suiche 3d, de la composición anidada para que así, ésta sea reconocible por la 
+
+	cámara existente en la composición principal
+
+
+	_de ésta manera, podremos ahora aplicar éste script, a las propiedades de "Position", de la composición anidada
+
+	la cuál, tiene el efecto ó sistema 3d, así, debemos aplicar el efecto para
+
+
+
+	Script:
+	_______
+
+	_primero debemos desplegar las propiedades de rotación de la composición anidada, a través, del shortcut, "R"
+
+
+	_así, posteriormente debemos activar las propiedades de expresiones en propiedades:
+
+
+		_Rotation X:
+
+		_Rotation Y:
+
+		_Rotation Z:
+
+
+	haciendo mouse left click + alt, sobre los relojes de cada una de las propiedades respectivas
+
+
+	_para a continuación tipear el siguiente script, en cada una de éstas respectivamente:
+
+
+		_para la rotation X: "lookAt(thisComp.activeCamara.position,position)[0]"
+
+
+		_para la rotation Y: "lookAt(thisComp.activeCamara.position,position)[1]"
+
+
+		_para la rotation Z: "lookAt(thisComp.activeCamara.position,position)[2]"
+
+
+
+de ésta manera, ahora podremos ver que al orbitar con la cámara de la composición principal veremos que ahora podremos
+
+ver la composición animada como si si estuviesemos en su espacio 3d, pudiendo así, ver el elemento 3d, con todas sus
+
+propiedades orbitales 3d, otros
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

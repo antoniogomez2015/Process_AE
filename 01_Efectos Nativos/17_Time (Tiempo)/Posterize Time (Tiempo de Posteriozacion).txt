@@ -1,0 +1,110 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/time-effects.html#echo_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Tiempo de posterización, bloquea una capa para una velocidad de fotogramas específica. Resulta 
+
+	útil por sí solo como efecto especial, pero tiene además otros usos más sutiles. 
+
+
+	_Por ejemplo, puede bloquear el material de archivo de vídeo de 60 campos por segundo a 24 fotogramas 
+
+	por segundo (y, a continuación, procesar el campo a 60 campos por segundo) para dar un aspecto de película. 
+
+
+	_Asimismo, pueden bloquearse composiciones anidadas para una velocidad de fotogramas determinada. Este 
+
+	efecto se denomina a veces Luz estroboscópica en dispositivos de hardware.
+
+
+	_La animación del valor del control deslizante de Velocidad de fotogramas puede dar resultados inesperados. 
+
+	Por ello, el único método de interpolación admitido para la velocidad de fotogramas es Mantener.
+
+
+
+	_Este efecto funciona con color de 8 bpc, 16 bpc y 32 bpc
+
+	
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+	
+
+	Posterize Time: (Tiempo de Posteriozacion)
+	_______________
+
+
+		_Frame Rate:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la cadencia ó intervalo de frames,
+
+			ó fotogramas al cuál, ésta deberá interpretar la animación de la layer, respectiva
+
+
+			_también, es recomendable aplicar éste efecto sobre una layer, de tipo "Adjustment", para
+
+			así, éste efecto se aplique sobre toda la pila de layers, debajo de ésta
+
+
+			_de ésta manera, podremos crear diferentes efectos como el de star treck, así, como también,
+
+			el efecto contrario 
+
+
+			_al poder suavizar el movimiento de un material grabado ó animado con frame rate, inferior ó
+
+			más lento e igualar éste ha un frame rate, más rápido en otra composición ó secuencia de 
+
+			video ó animación
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1042 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/simulation-effects.html#shatter_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+		Custom Shatter Maps (avanzado)
+
+			https://www.youtube.com/watch?v=9awnjzzoKTI
+
+
+
+		After Effects 057 Fractura del suelo
+			https://www.youtube.com/watch?v=xO56_YQ7XUc&t=1014s
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos pemritirá realizar efectos de fragmentación de layers, y composiciones para diferentos y
+
+	procesos de paso contínuo y producción
+
+
+	_éste efecto nos permitirá una mayor control y características que el efecto base "CC Pixel Polly"
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Shatter: (Dispersion)
+	________
+
+
+		_View:
+
+
+			_Rendered:
+
+				_Muestra los fragmentos con las texturas y la iluminación, tal y como aparecerá en el 
+
+				resultado final. Utilice esta vista cuando procese la animación
+
+
+
+			_Wireframe Front View:
+
+				_Muestra la capa desde un ángulo de cámara recto de pantalla completa sin perspectiva 
+
+				Utilice esta vista para ajustar los puntos del efecto y otros parámetros que resulten 
+
+				difíciles de ver desde un ángulo. Además, se pueden ver los contornos del mapa de 
+
+				dispersión por lo que puede colocar, girar y escalar con precisión el patrón de 
+
+				dispersión. Es conveniente cambiar entre esta vista y vista de perspectiva que utilice 
+
+				para la escena.
+
+
+
+			_Wireframe:
+
+				_Muestra la perspectiva correcta de la escena, de manera que pueda configurar 
+
+				rápidamente la cámara de la forma que desee y ajustar la Profundidad de extrusión 
+
+				con precisión
+
+
+			_Wireframe Front View + Forces:
+
+				_Muestra la representación de la vista frontal de una estructura metálica de la capa,
+
+				además de una representación en azul de cada esfera de fuerza
+
+
+			_Wireframe + Forces:
+
+				_Muestra la vista de una estructura metálica, además de una representación en azul de 
+
+				las esferas de fuerza. Esta vista incluye controles de cámara para que pueda colocarlo 
+
+				todo con precisión en el espacio 3D
+
+
+
+			
+
+		Render:
+
+
+			_All:
+
+				_ésta es la opción por defecto la cuál, nos permnitirá visualizar todo el efecto con 
+
+				todas sus propiedades y características como los fragmentos, la layer, base de fondo
+
+				y demás componentes del sistema
+
+
+			_Layer:
+
+				_ésta opción sólo nos pemritirá visualizar las áreas de la layer, base que no han sido
+
+				afectadas por el sistema lo cuál, es especialmente útil en los casos en los que 
+
+				necesitemos una versión del sistema con sólo ésta reserva de las partes de la layer,
+
+				base en la cuál, no ha aplicado el sistema de dispersión
+
+
+				_a la cuál, por ejemplo podremos posteriormente aplicarle efectos por separado como por 
+
+				ejemplo; ajustes de imágen, otros
+
+
+			_Places:
+
+				_ésta opción sólo nos pemritirá visualizar las áreas de la layer, base que han sido
+
+				afectadas por el sistema y que ahora son sólo fragmentos lo cuál, es especialmente útil 
+
+				en los casos en los que necesitemos una versión del sistema con sólo ésta reserva de las 
+
+				partes de la layer, base en la cuál, se han creado fragmentos de dispersión
+
+
+				_a la cuál, por ejemplo podremos posteriormente aplicarle efectos por separado como por 
+
+				ejemplo; ajustes de imágen, otros
+
+
+
+
+
+		_Shape:
+
+				
+			_Pattern:
+
+
+				_Custom:
+
+					_ésta opción nos permitirá seleccionar una layer, de la respectiva composición
+
+					la cuál, hará de mapa de densidad a través, de la cuál, se generarán las 
+
+					fragmentaciones por medio de los valores de luminancia y colores en la 
+
+					respectiva layer, ó composición
+
+
+
+					NOTA: no debe llegar ha pensarse que ésta opción es para generar un módulo de
+
+					tamaño pequeño en una nueva composición el cuál, será modulado por el sistema,
+
+					lo cuál, seria un error ya que el sistema no funciona de esa manera, sino que
+
+					trabaja a través, de los valores de luminancia y de color de una imágen global
+
+
+
+					_ésta pre composición puede llevar una máscara para limitar el área de acción
+
+					para que así, ésta aplique en toda la respectiva compsición ó no
+
+
+					_ésta composición la podremos generar por ejemplo, a partir de la generación de
+
+					una layer, de tipo "solid", a la cuál, le podremos agregar un efecto de 
+
+					"fractal noise", y posteriormente un efecto de "colorama", para que así, 
+
+					generemos una aleatoriedad de formas fractales y a su vez, de colores sólidos,
+
+					planos y de colores aleatorios, entre otros muchos efectos posibles
+
+
+					_ésta composición también, permite crear elementos claves en la composición los
+
+					cuáles deseamos que éstos no se muevan y que no sean arrastrados ni convertidos
+
+					a fragmentos por el sistema de "shatter"
+
+
+						_para lo cuál, debemos de pintar ó rellenar éstos elementos de color
+
+						blanco ó "white", por ejemplo, a través, del efecto "fill, toner,"
+
+					
+						_para que así, podamos volver a la composición principal en la cuál,
+
+						tenemos aplicado el efecto "shatter", para que así, podamos seleccionar
+
+						la respectiva layer, del efecto e ir al panel "effects controls", y 
+
+						allí ir a las opciones de "Shape/White Tiles Fixed", y activar ésta
+
+						opción
+
+
+						_de ésta manera, los elementos de la composición "custom", quedarán 
+
+						intactos ó inalterados tras la aplicación del efecto "shatter"
+
+
+
+					_ésta composición también, nos permite la creación de gradientes ó degradados
+
+					a modo de mapa de luminancia por medio de gradiente de grises ó de tonos de 
+
+					colores
+
+
+
+						_así, por ejemplo podremos crear una layer, de tipo "solid", a la cuál,
+
+						podremos aplicarle un efecto por ejemplo, de tipo "ramp", para generar
+
+						degradados los cuáles, podremos personalizar para crear efectos varios
+
+
+						_de ésta manera, en los casos en los que usemos gradientes ó degradados
+
+						debemos de hacer uso de las opciones de "Gradient/Gradient Layer", en ves de las 
+
+						opciones de "shape/Custom Shatter Map"
+
+
+
+				_Bricks:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de ladrillos 
+
+					rectangulares
+
+
+				_Carpenter's Wheel:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de una estrella
+
+					gigante compuesta de cuadrados perfectos y distorsionados
+
+
+				_Chevrons:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de flechas ó arrows,
+
+					cortas hacia la derecha moduladas
+
+
+				_Crescents:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de media lunas ó
+
+					monedas super puestas y moduladas
+
+
+				_Eggs:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de huevos u óvalos
+
+					modulados u con sus contra formas ó negativos
+
+
+
+
+				_Glass:
+
+					_ésta opción es la por defecto y nos pemritirá generar fragmentos a modo de una
+
+					fractura concentrica de cristales partidos de forma aleatoria con formas 
+
+					irregulares dirigiras al centro y con un epicentro el cuál, podremos variar 
+
+					a través, de un handle, personalizable directamente en el viewport, ó en el 
+
+					panel "effects controls"
+
+
+				_Herringbone 1:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de ladrillos 
+
+					modulados a modo de ondas en zip zap, y a su vez, travados entre si
+
+
+				_Herringbone 2:
+
+					_ésta opción es idéntica a la anterior con con la diferencia de que en éste
+
+					caso los ladrillos son más grandes y tienen una distribución mucho más ámplia
+
+
+				_Hexagons:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de hexágonos 
+				
+					modulados
+
+
+				_Js:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de un super módulos
+
+					con las letras "JS", los cuáles, a su vez, estarán modulados por toda la 
+
+					composición respectiva
+
+
+				_Octagons & Squares:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de octágonos 
+
+					modulados y como contra formas cuadrados ha modo de negativos
+
+
+				_Overlaid Squares:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de un super módulo
+
+					en forma de "L", eles invertidas y en su parte interna se suscribe un cuadrado
+
+					y todo éste super módulo a su vez, estará modulado en toda la composición
+
+
+				_Planks:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de rectángulos largos
+
+					y hasta cierta medida super puestos y modulados horizontalmente
+
+
+				_Puzzle:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de piezas de un rompe
+	
+					cabezas las cuáles, estarán moduladas en toda la composición
+
+
+				_Rhombi:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de un super módulo
+
+					a partir de cuadrados deformados para conformar un cubo romboide el cuál, a su
+
+					vez, estará modulado por toda la composición respectiva
+
+
+				_Squares:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de cuadrados 
+
+					modulados en toda la composición respectiva
+
+
+				_Squares & Triangles:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de un super módulo
+
+					complejo de entre dos "L", y cuadrados en extremos y en el centro el cuál, a su
+
+					vez, estará modulado por toda la composición
+
+
+				_Stars & Triangles:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de estrellas bien
+
+					formadas y moduladas en toda la composición y a su vez, como contra formas ó
+
+					negativo triángulos para cerrar las formas residuales del patrón
+
+
+				_Tirangles 1:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de triángulos 
+
+					modulados perfectos en la composición
+
+
+				_Triangles 2:
+
+					_ésta opción nos pemritirá generar fragmentos con la forma de triángulos 
+
+					modulados perfectos en la composición
+
+
+
+			_Custom Shatter Map:
+
+				_ésta opción nos permitirá seleccionar una layer, ó composición de la respectiva 
+
+				composición la cuál, hará de mapa de densidad a través, del cuál, el sistema generará 
+
+				los fragmentos y reservas del sistema generado a través, del efecto "shatter"
+
+
+			_White Tiles Fixed: 
+
+				_(Mosaicos blancos fijados), Previene que se exploten mosaicos de blanco puro en un mapa
+
+				de dispersión personalizado. Puede utilizar este control para forzar que ciertas partes 
+
+				de la capa permanezcan intactas
+
+
+			_Repetitions:
+
+				_ésta opción nos permitirá controlar la escala del sistema de las fracturas generadas ó 
+
+				cuán complejas serán las fracturas, lo cuál, a su vez, cambiará el aspecto del sistema así,
+
+				como su comportamiento general
+
+
+				NOTA: ésta opción aplicará solo a las formas ó módulos "Patterns", prestablecidos y no 
+
+				a los personalizados por el usuario
+
+
+			_Direction:
+
+				_ésta opción nos permitirá rotar el sistema de fracturas a partir de su epicentro lo cuál,
+
+				nos permitirá configurar la orientación de rotación ó de "roll", del sistema en general
+
+
+				NOTA: ésta opción aplicará solo a las formas ó módulos "Patterns", prestablecidos y no 
+
+				a los personalizados por el usuario
+
+
+			_Origin:
+
+				_ésta opción a través, de un handle, directamente en el viewport, del panel "compositing",
+
+				ó a través, del panel "effects controls", podremos hacer modificaciones sobre la ubicación
+
+				del epicentro del sistema de forma estática ó animada a través, del tiempo
+
+
+				NOTA: ésta opción aplicará solo a las formas ó módulos "Patterns", prestablecidos y no 
+
+				a los personalizados por el usuario
+
+
+			_Extrusion Depth:
+
+				_ésta opción nos permitirá ajustar el efecto de profundidad ó extrusión sobre los fragmentos
+
+				generados por el sistema, tanto en su versiones de "Patterns", por defecto como a través,
+
+				de los patrones personalizados por el usuario
+
+
+				_la  extrusión por defecto es de "0.20", la cuál, podremos modificar en relación a nuestras
+
+				necesidades
+
+
+
+			Force 1 | 2:
+
+
+				_Position:
+
+					_ésta opción a través, de un handle, directamente en el viewport, del panel 
+
+					"compositing", ó a través, del panel "effects controls", podremos hacer 
+
+					modificaciones sobre la ubicación del punto de fuerza aplicado por el sistema
+
+					a los patrones ó fragmentos generados por el mismo
+
+
+					_de ésta manera, el sistema podrá modificar y aplicar físicas a los respectivos
+
+					fragmentos, otros
+
+
+				_Depth:
+
+					_Especifica el punto central actual en el espacio z, o a qué distancia por delante 
+
+					o por detrás de la capa está el punto de la sacudida. Ajuste la Profundidad para 
+
+					determinar qué cantidad del radio de la sacudida se aplica a la capa. El radio 
+
+					de la sacudida define una esfera, y la capa es básicamente un plano; por lo tanto, 
+
+					solo un corte circular de la esfera intercepta el plano. Cuanto más alejada esté 
+
+					la capa del centro de la sacudida, menor será el corte circular. Cuando los 
+
+					fragmentos explotan, vuelan alejándose del centro de la fuerza. Profundidad 
+
+					determina en qué dirección vuelan los fragmentos
+
+
+				_Radius:
+
+					_ésta opcíon está directamente relacionada con la opción anterior de "Depth", ya
+
+					ésta opción también, controlará el radio ó alcance de las fuerzas físicas aplicadas
+
+					sobre los fragmentos generados por el sistema
+
+
+					_de ésta manera, una valor cercano ha "0", no aplicará a ningún fragmento a partir
+
+					del "Position", del sistema
+
+
+					_más un valor superior ha "0.1", comenzará éste a afectar e influir sobre los 
+
+					fragmentos en un radio proporcional al valor indicado
+
+
+				_Strength:
+
+					_ésta opción nos permitirá controlar el umbral de la fuerza bruta aplicada de
+
+					físicas sobre el sistema, de ésta manera, podremos lograr efectos más suaves y 
+
+					sutiles ó abructos y rápidos
+
+
+		
+			Gradient:
+
+				_Shatter Threshold:
+
+					_Define qué fragmentos de la esfera de fuerza se dispersan en función de la 
+
+					luminancia correspondiente de la capa de degradado especificada
+
+
+				_Gradient Layer:
+
+					_ésta opción nos pemritirá seleccionar una layer, la cuál, hará de mapa de 
+
+					degradado ó gradiente la cuál, actuará a través, de sus valores de luminancia
+
+
+				_Invert Gradient:
+
+					_ésta opción nos permitirá invertir el mapa de luminancia generado en la layer,
+	
+					que hará de degradado ó gradiente
+
+
+
+			Physics:
+
+
+				_Rotation Speed:
+
+					_ésta opción nos permitirá hacer rotaciones de los fragmentos generados por el
+
+					sistema lo cuál, nos permitirá tener un mayor control de los fragmentos generados
+
+					y su interacción con la layer, base y con el punto de vista de la cámara
+
+
+					_Especifica la velocidad con la que giran los fragmentos alrededor del eje definido
+
+					en el control Eje de caída, lo que le permite simular diferentes velocidades de giro
+
+					para distintos materiales. En la naturaleza, objetos de formas similares giran 
+
+					a velocidades diferentes según su masa y el rozamiento del aire. Por ejemplo, 
+
+					un ladrillo gira más rápido que la espuma de poliestireno
+
+
+
+				_Tumble Axis:
+
+
+					_Free:
+
+						_ésta es la opción más recomendada ya que los fragmentos generados girarán
+
+						de forma aleatoria, es decir, girarán en todas direcciones  lo cuál, nos
+
+						permitirá lograr efectos más naturales
+
+
+					_None:
+
+						_ésta opción no permitirá que los fragmentos giren en ninguna dirección
+
+						de ésta manera, los fragmentos mantendrán la misma orientación mientras
+
+						éstos son influenciados por las diferentes fuerzas de la física
+
+
+					_X | Y | Z:
+
+						_ésta opción nos permitirá indicarle al sistema que los fragmentos giren
+
+						en una cordenada en específico, como pueden ser las cordenadas X,y, ó Z,
+
+						lo cuál, dependerá del efectos deseado y de las necesidades de producción
+
+						específicas
+
+
+					_XY | XZ | YZ:
+
+						_ésta opción nos permitirá indicarle al sistema que los fragmentos giren
+
+						en pares de cordenadas concretas lo cuál, ya nos permitirá crear efectos y
+
+						movimientos más complejos, lo cuál, dependerá del efectos deseado y de las 
+
+						necesidades de producción específicas
+
+
+
+
+				_Randomness:
+
+					_ésta opción nos permitirá agregar aleatoriedad y animación a los fragmentos 
+
+					generados por el sistema tanto en su rotación como en su posición de una manera
+
+					armónica y a su vez, en profusión
+
+
+				_Viscocity:
+
+					_ésta valor es muy importante, por que nos permitirá cambiar el comportamiento del
+
+					sistema de fragmentos generados, es decir, a través, de éste valor podremos hacer
+
+					un sistema de fragmentos más explosivo ó más "viscoso", ó con un efecto de retardo
+
+					ó suspensión de los fragmentos los cuáles, se resistirán ha camibar de posición y 
+
+					de rotación a su vez
+
+
+					_incluso éste efecto nos permitirá crear efectos de vacio al indicar valores
+
+					negativos para hacer por ejemplo, efectos implosiones, otros
+
+
+				_Mass Variance:
+
+					_ésta opción es similar a la opción de "Randomness", más la opción de 
+
+					"Mass Varience", tomará como criterio no la cantidad de elementos si no la masa 
+
+					individual que éstos componen para lograr así, variaciones en la posición y rotación
+
+					de los repectivos fragmentos
+
+
+					_más con la diferencia de que éste valor con valores mayores ha ej, "10", se
+
+					crearán efectos de distorsión pululenta de los fragmentos los cuáles, tendrán
+
+					movimientos enervados ó exagerados ha modo también, como de vibraciones
+
+
+					_también, éste valor especifica el peso teórico de los fragmentos cuando explotan. 
+
+					Por ejemplo, un fragmento grande es más pesado que uno pequeño y, por lo tanto, no 
+
+					vuela tan lejos cuando se encuentra con la sacudida. El valor predeterminado de 30%
+
+					para el ajuste 	Varianza de la masa ofrece una aproximación a esta ley física
+
+
+				_Gravity:
+
+					_ésta opción nos pemritirá controlar la dirección en la cuál, se moverán los 
+
+					fragmentos como un todo, por defecto la gravedad aplicada es de "3", lo cuál, hará
+
+					que los fragmentos vayan siempre hacia abajo
+
+
+					_más también, podremos indicar el valor de "0", para que así, los fragmentos vayan
+
+					en éste caso hacia arriba
+
+
+					_de ésta manera, los fragmentos generados orbitarán relativamente en la misma 
+
+					posición en la cuál, son despedidos por el sistema para que así, demos la sensación
+
+					de un vista cenital ó en contra picada, otros
+
+
+				_Gravity Direction:
+
+					_ésta opción nos permitirá controlar la dirección en la cuál, son atraidos los
+
+					fragmentos generados por el sistema
+
+
+					_de ésta manera, la gravedad por defecto biene definida en un valor de "-180", lo
+
+					cuál, hará que siempre los fragmentos vayan hacia abajo
+
+
+					_más también, tendremos la posibilidad de hacer que los fragmentos vayan hacia
+
+					arriba para lo cuál, debemos de indicar un valor de "0"
+
+
+					_por otra parte también, podremos indicar que los fragmentos vayan a una dirección
+
+					en concreto, por ejemplo, podríamos indicar que los fragmentos vayan hacia la
+
+					derecha para lo cuál, debemos de indicar un valor de "90"
+
+
+					_y más para que los fragmentos vayan hacia la izquierda debemos de indicar un valor
+
+					de "-90", y a´si, sucesivamente
+
+
+				_Gravity Inclination:
+
+					_ésta opción nos permitirá indicar un fuerza ó intensidad de la gravedad inicial
+
+					a la animación ó simulación generada lo cuál, evitará la curva de aceleración 
+
+					inicial del sistema de simulación lo cuál, nos ayudará ha desarrollar efectos en
+
+					concreto, otros
+
+
+					NOTA: ésta aceleración inicial de los fragmentos estará superditada a la 
+
+					configuración previa de la opción de "Gravity Direction"
+
+
+
+			Textures:
+
+
+				_Color:
+
+					_ésta opción nos permitirá indicar un color personalizado el cuál, se podrá 
+
+					posteriormente seleccionar en las opciones de textura de los fragmentos generados
+
+					en sus lados "from, side, back"
+
+
+				_Opacity:
+
+					_ésta opción nos permitirá indicar una opacidad personalizada el cuál, se podrá 
+
+					posteriormente seleccionar en las opciones de textura de los fragmentos generados
+
+					en sus lados "from, side, back"
+
+
+
+
+				_Front/side/back Mode:
+
+
+					NOTA: ésta opción nos permitirá indicar el criterio de muestreo y el source, para
+
+					ser aplicados sobre los bordes de los fragmentos generados
+
+
+					_Color:
+
+						_Color aplica el color seleccionado al lado correspondiente del fragmento. 
+
+						Capa toma la capa seleccionada en el menú Capa correspondiente y la mapea 
+
+						en el lado aplicable del fragmento
+
+
+					_Layer:
+
+						_Capa toma la capa seleccionada en el menú Capa correspondiente y la mapea 
+
+						en el lado aplicable del fragmento
+
+
+					_Tinted Layer:
+
+						_Capa tintada fusiona la capa seleccionada con el color elegido; el efecto 
+
+						es parecido a visualizar la capa a través de un filtro coloreado
+
+
+					_Color + Opacity:
+
+						_Color + Opacidad combina los niveles de color y de opacidad seleccionados. 
+
+						Con Opacidad a 1, se aplicará el color seleccionado en el lado 
+
+						correspondiente. Con Opacidad a 0, el lado correspondiente será transparente
+
+						Capa + Opacidad combina los niveles de Capa y de Opacidad seleccionados. 
+
+						Con Opacidad a 1, se asignará la capa seleccionada para el lado 
+
+						correspondiente. Con Opacidad a 0, el lado correspondiente será transparente
+
+
+					_Layer + Opacity:
+
+						_Capa tintada + Opacidad combina los niveles de la capa tintada y de 
+
+						Opacidad seleccionados. Con Opacidad a 1, se asignará la capa tintada 
+
+						seleccionada para el lado correspondiente. Con Opacidad a 0, el lado 
+
+						correspondiente será transparente.
+
+
+					_Tinted Layer + Opacity:
+
+						_ésta opción fusiona la layer, elegida más el color seleccionado previamente
+
+						y a su vez, cotempla la opacidad indicada previamente
+
+
+
+				_Front/side/back Layer:
+
+					_ésta opción nos permitirá seleccionar una layer, de la cuál, se muestreará el valor
+
+					indicado en el paso anterior de criterio de muestreo del paso anterior "Front Mode",
+
+					en éste caso
+
+
+
+				_Camara System:
+
+
+					_Camara Position:
+
+						_ésta opción nos permitirá posicionar y rotar el sistema entero a través,
+
+						de una cámara sintetizada directamente en el panel "effects controls"
+
+
+						_de ésta manera, en ésta opción dispondremos de los controles:
+
+
+							_X/Y/Z Rotation
+
+								_para controlar la rotación por cordenadas específicas
+
+							_X,Y / Z Position
+
+								_para controlar la posición por cordenadas específicas
+
+							_Focal Length
+
+								_para controlar la longitud de la cámara
+
+							_Transform Order
+
+								_para controlar ó indicar el grupo y sentido de cordenadas
+
+								del sistema en general
+
+
+					_Corner Pins:
+
+						_ésta opción nos permitirá distorsionar el sistema a través, del pseudo 
+
+						efecto incrustado de "corner pins"
+
+
+						_de ésta manera, en éste caso dispondremos de controles como:
+
+
+							_Upper Left/Right Corner
+
+							_Lower Left/Right Corner
+
+
+					_Comp Camara:
+
+						_así, como también, podremos indicar controlar el sistema a través, de una
+
+						cámara personalizada creada en la composición respectiva por nosotros
+
+
+
+
+			Lighting:
+
+
+				_Light Type:
+
+
+					_Point Source:
+
+						_ésta opción nos permitirá emular una luz de tipo point, ó puntual sobre el
+
+						sistema de fragmentos generado
+
+				
+					_Distant Source:
+
+						_ésta opción nos permitirá emular una luz de tipo spot, ó direccional sobre el
+
+						sistema de fragmentos generado
+
+
+					_First Comp Light:
+
+						_ésta opción nos permitirá indicar que el sistema tome la primera layer, de 
+
+						tipo "light", en la composición respectiva a través, de la cuál, se iluminará
+
+						el sistema de fragmentos generado
+
+
+						NOTA: para ésta opción no aplican las opciones siguientes de "light intensity,
+
+						light color, light position, otros", para que la propia layer, de tipo "light",
+
+						en la composición respectiva ya posee éstos controles de edición internamente
+
+
+
+				_Light Intensity:
+
+					_ésta opción nos permitirá graduar la intensidad de la iluminación sobre el sistema 
+
+					de fragmentos generados
+
+
+				_Light Color:
+
+					_ésta opción nos permitirá indicar el color de la iluminación sobre el sistema de 
+
+					fragmentos generados
+
+
+				_Light Position:
+
+					_ésta opción nos permitirá graduar la posición de la iluminación sobre el sistema de 
+
+					fragmentos generados
+
+
+				_Light Depth:
+
+					_ésta opción nos permitirá graduar la distancia ó proximidad de la iluminación sobre 
+
+					el sistema e fragmentos generados lo cuál, afectará al aspecto e intensidad a la vez
+
+					de la iluminación generada
+
+
+				_Ambient Light:
+
+					_ésta opcíon nos pemritirá adicionalmente indicar una luz ambiental ó plana sobre el
+
+					sistema de fragmentos generados
+
+
+
+
+			Material:
+
+
+				_Diffuse Reflection:
+
+					_ésta opción nos permitirá indicar el grado de reflexión difusa sobre el material del 
+
+					sistema de fragmentos generados de forma general ó global sobre el sistema
+
+
+				_Specular Reflection:
+
+					_ésta opción nos permitirá indicar el grado especular de la reflexión sobre el 
+
+					material del sistema de fragmentos generados de forma general ó global sobre el 
+
+					sistema
+
+
+				_Highlight Sharpness:
+
+					_ésta opción nos permitirá indicar el grado de las altas luces sobre las áreas con 
+
+					más detalle ó enfoque sobre el material del sistema de fragmentos generados de forma 
+
+					general ó global sobre el sistema
+
+
+
+
+
+
+
+

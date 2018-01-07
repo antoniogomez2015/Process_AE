@@ -1,0 +1,103 @@
+
+
+DigiEffects/Buena Deep Cue Suite  /  http://www.digieffects.com/  /  http://www.rowbyte.com/buena-depth-cue/
+
+
+Referencia: DigiEffects Buena Depth Cue v2 - 03.Análisis de Rack Focus
+
+		https://www.youtube.com/watch?v=s2dum2HXNVM
+
+
+
+
+
+
+NOTE:	también, disponemos de todas las opciones de ésta suite directamente en la sección de effects, yendo ha
+
+	"Effects/DigiEffects BDC v2.5/", aunque ésta opciones no éstan automatizadas y son recomendables para
+
+	realizar un proceso manual ó más avanzado que las automatizadas las cuales están en la sección de
+
+	"Composition/"
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Rackfocus: (Depth of Field)
+
+
+NOTE:   éste es práctivamente una variante el plugins "Depth Mpa", de ésta misma casa de plugins, más con la diferencia
+
+	de éste no utiliza plugins externos ó nativos de after effects, como el desenfoque de lente si no, que éste 
+
+	utiliza sus propios plugins en las layers, más una layer, maestra ó "[Master Rack Focus Control]", con la cuál,
+
+	podremos controlar todo el sistema
+
+
+	_ojo, el sistema parece que no funciona, lo que sucede es que hay que mover el cabezal del timeline, para que se
+
+	actualize el sistema y podamos así, ver reflejados los cambios en la escena
+
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
+Criterios y Requerimientos del plugins:
+_______________________________________
+
+
+
+	_éste trata de emular un mapa de "Depth map", creado en una aplicación 3d
+
+
+	_para ésto, debemos de tener separadas en capas ó máscaras la escena que deseamos emular en una depth map,
+
+ 	con sus respectivas profundidades ó planos en 3d
+
+
+	_lo más recomendado es partir de una escena a la cuál, le hemos aplicado el proceso de "Camara Mappers",
+
+	vayamos ha utilizar el sistema de cámaras de proyección de cámara mapper, ó no, por que de ésta manera
+
+	ya dispondremos de la distribución de layers, de la escena
+
+
+	_así, podremos tener una composición ó escena ya con una cámara proyección y una cámara animada a nuestras
+
+	necesidades de acción, otros
+
+
+
+Precompose Depth:
+_________________
+
+
+	_luego, para crear el sistema de "depth map", debemos seleccionar todas las layers, respectiva en la 
+
+	respectiva composición
+
+
+	_luego, con las respectivas layers, seleccionadas en la composición vamos ha: 
+
+	"Composition/Apply Rack Focus To All Layer"
+
+
+	_y así, podremos ver que a partir de éste punto se agregará a la composición una nueva layer, ésta es:
+
+	"[Master Rack Focus Control]", con la cuál, podremos manejar todo el sistema de depth field
+
+
+
+DE_RackFocus Control:
+_____________________
+
+
+	_deben estudiarse al detallo cada una de las funciones del sistema de depth field
+
+
+	

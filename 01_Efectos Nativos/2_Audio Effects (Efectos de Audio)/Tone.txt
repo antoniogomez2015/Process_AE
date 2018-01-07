@@ -1,0 +1,87 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+		https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá crear no tanto crear correcciones sobre audio si no más bien, crear directamente
+
+	efectos como tonos telefónicos, digitos, pulsos electrónicos, efectos especiales varios, otros
+
+
+	_de ésta manera, a través, de los diferentes parámetros podremos lograr efectos complejos por medio de los
+
+	cuáles, podremos lograr efectos avanzados para los diferentes elementos de la escena, otros
+
+
+	NOTE: y para lograr éstos efectos debemos de animar los parámetros para que así, podamos lograr decaimientos
+
+	y curvas a traves, del tiempo
+
+
+
+	Formatos:
+	_________
+
+	_los formatos más comúnes para el trabajo con audio son los siguientes en after effects:
+
+
+		_Mp3:
+
+			_éste es el formato más común y generalizado para la edición e intercambio de archivos de
+
+			audio
+
+
+		_Wav:
+
+			_éste es uno de los formatos más comúnes en el procesado e intercambio de archivos de audio
+
+
+
+	Tone:
+	_____
+
+	_Wavefrom options:
+
+		_Sine/Triangle/Saw/Square:
+
+			_éstas son diferentes tipos de ondas como senoseidales, triangulares, mixta, y cuadrática
+			
+
+	_Frecuency 1:
+
+		_canal de modulación disponible
+
+	_Frecuency 2:
+
+		_canal de modulación disponible
+
+	_Frecuency 3:
+
+		_canal de modulación disponible
+
+	_Frecuency 4:
+
+		_canal de modulación disponible
+
+	_Frecuency 5:
+
+		_canal de modulación disponible
+
+
+
+
+

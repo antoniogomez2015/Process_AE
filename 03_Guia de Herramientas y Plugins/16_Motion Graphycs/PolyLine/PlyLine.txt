@@ -1,0 +1,104 @@
+
+
+
+PolyLine
+
+
+	Referencia:
+
+		http://aescripts.com/polyline/
+
+
+	Actualmente se dispone sólo de una versión Beta
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar ajustes estáticos y animables de los vertex, que conforman los "paths", de shapes, 
+
+	y masks, de layers
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer formar complejas y hasta animables de paths, tanto de layers, de forma "shapes", como 
+
+	también, de máscadas de capas, ésta es un función especialmente útil para motion graphycs, así, como crear
+
+	formas residuales complejas
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Bascs:
+______
+
+
+	NOTE:	1/11/2016, en éste momento el plugins, está en estado "BETA", osea no esta completo y no funciona del 
+
+		todo
+
+	
+	_para ésto, debemos de tener una composición previamente creadas
+
+
+	_luego debemos tener creados al menos una layers, ó más layers, éstas pueden estar animadas y en 3d
+
+
+	_luego debemos seleccionar las layers, ha intervenir en el proceso de Polyline, para luego ha "File/Scripts
+
+	/PolyLine", ó a través, de "FxPro/16_Motion Graphycs Phycis and Cinematics/PolyLine"
+
+	
+
+
+	----------------------------------------------------------------------------------------------------------------
+
+	Basics:
+	_______
+
+
+		_podemos partir en ésta versión beta a pertir de dos manera, la primera es la creación de layers, ej:
+
+		layers, null object, las cuales pueden estar en 2d ó 3d, "recomendado 3d"
+
+
+		_ó a partir de una ó varias layers, animadas así, incluso si es una sola capa, "Polyline", tomará la
+
+		la trayectoria de animación de ésta respectiva layer, para crear el sistema de bandas de colores de formas
+
+		shape, de "PolyLine"
+
+
+		_de ésta manera polyline, creará un nuevo "null object", en la posición espacial de cada keyframe, en el
+
+		viewport, de la composición los cuales servirán de conectores para las bandas de las layers, shapes, que
+
+		serán agregadas
+
+
+		_como también, se crearán una serie de composiciones respectivas a la cantidad bandas de colores creadas
+
+		ya que cada una de estas composiciones representan a cada una de éstas bandas
+
+
+		_el plugins, de configuración y del sistema de colores de demás controles no está disponibles para ésta 
+
+		versión beta aún no crackeada del todo
+
+
+
+

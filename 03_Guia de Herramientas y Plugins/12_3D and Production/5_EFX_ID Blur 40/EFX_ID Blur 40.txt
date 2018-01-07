@@ -1,0 +1,118 @@
+
+
+
+EFX ID BLur 10
+
+
+	Referencia:
+
+		http://aescripts.com/efx-render-elements-z-depth-tools/   https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+NOTE:	la diferencia entre "ID Blur 10/20/40", es la densidad de desenfoque tracero, lo más recomendable es utilizar
+
+	la opción de ID Blur 10/20
+
+	
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite desenfocar planos a través, un "ID Map", especialmente útil para desenfocar planos y objectos de
+
+	diferentes mapas como "diffuse, reflexion, refraction, otros"
+
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer desenfoques selectivos y es una opción práctiva ante la ausencia de un "depth map", lo cuál,
+
+	simplifica el proceso ya que hacer un "id map", es más fácil que hacer un depth map
+
+
+	_ésta opción es muy útil y sirve para diferentes procesos en producción ya que permite hacer desenfoques selectivos
+
+	a través, de la realización de "id maps", personalizados por nosotros ó por aplicaciones 3d, como lo son las reservas
+
+	de sólidos a través, de render id map
+
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+
+	_primero debemos tener una composición de trabajo previamente creada
+
+
+
+ID Blur:
+________
+
+	_luego debemos incorporar los maps, respectivos en la composición de trabajo, en éste caso en "diffuse map",
+
+	como mapa base al cuál, se agregaremos el plugins "Effects EFX RE/EFX_ID Blur 10"
+
+
+	_así, se entiende que al render map, al cuál, le apliquemos el filtro "ID Blur 10", será el mapa corregido
+
+
+
+ID Pass:
+________
+
+
+	_para luego en las opciones del plugins ir a las opciones de "ID Pass:", y seleccionar el "ID Map", de 
+
+	la composición de render que tendremos que tener previamente en la respectiva composición
+
+
+
+Options:
+________
+
+
+	_así, podremos ir variando los valores de tolerancia para ir ajustando el pass, de acuerdo con los valores
+
+	en el sistema de ID Blur, éstos son:
+
+
+	_Blur:
+
+		_éste permite indicar la cantidad de desenfoque general
+
+
+	_Blur Gamma:
+
+		_éste permite indicar la cantidad relativa en proporción a las características del pass, seleccionado
+
+	
+	_ID Color Tolerance:
+
+		_éste permite ajustar la tolerancia de desenfoque aplicada por la selecciones de color dentro del ID Pass
+
+
+
+Resultado:
+__________
+
+
+	_de ésta manera al final tendremos un desenfoque relativo y selectivo a través de planos seleccionados en relación
+
+	a la configuración interna del id pass, aplicados al respectivo pass, seleccionado
+	
+
+

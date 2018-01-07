@@ -1,0 +1,140 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear un incrustamiento de color ó keygin, a través, de otra layer, plano ó
+
+	pre composición, en si, de una layer, con un color del mismo tonos y saturación aproximado del color ha
+
+	eliminar
+
+
+	_para que así, de ésta manera, a través, de la información de la layer, auxiliar poder tomar la información
+
+	de color ha eliminar
+
+
+	_la ventaja que tiene éste método es que nos pemritirá la utilizacaicón de una toma de "background", ó chrome,
+
+	sin el motivo ó producto ó persona delante de éste
+
+
+	_para que así, podamos capturar las diferencia de iluminación, tono, saturación y arrugas en el plano del fondo
+
+	ó chrome, respectivamente
+
+
+	_para que así, podamos translar éstas características ó defectos al umbral del color ha eliminar, aunque éste 
+
+	efecto ño resultado tiene un límite por lo cuál, no se recomienda para chromes, con muchos defectos ó con muchas
+
+	variaciones en la iluminación, otros
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Difference Matte: (Mate de Diferencia)
+	_________________
+
+
+		_View:
+
+
+			_Final Output:
+
+				_ésta opción nos pemritirá visualizar la layer, base con el color seleccionado eliminado
+
+
+			_Source Only:
+
+				_ésta opción nos pemritirá visualizar la layer, sabe sin la aplicación del efecto
+
+
+			_Matte Only:
+
+				_ésta opción nos pemritirá visualizar el matte, generado para la eliminación del color
+
+				seleccionado de la layer, base
+
+
+
+		_Difference Layer:
+
+			_ésta opción nos pemritirá seleccionar una layer, la cuál, hará de proxi, ó chrome, alternativo
+
+			a través, del cuál, el sistema realizará la eliminación del color seleccionado
+
+
+		_If Layer Sizes Differ:
+
+			_ésta opción le indicará el sistema si sólo debe de concentrarse en el centro de la layer, ó en
+
+			toda la imágen en general para la generación del efecto
+
+
+		_Matching Tolerance:
+
+			_ésta opción nos permitirá controlar el umbral ó capacidad de penetración del efecto lo que nos
+
+			permitirá expander ó contraer el efecto ó eliminación del color en relación a la complejidad ó
+
+			disparidad del color ha eliminar y a su vez, en relación a la complejidad disparidad de la layer,
+
+			proxi, que hacer de chrome, de referencia
+
+
+		_Matching Softness:
+
+			_ésta opción hará el efecto de retracción de matte, como también, de calado del matte, resultante
+
+			ó del color eliminado por el proceso de ésta manera, podremos refinar el resultado del proceso
+
+			como también, permetar el matte, resultante del proceso lo cuál, creará un color más integrado
+
+			pero con tramados indeseados en la imágen resultante
+
+
+		_Blur Before Difference:
+
+			_ésta opción nos permitirá agregar un pre desenfoque en matte, resultante al homogenizar el color
+
+			seleccionado a través, del efecto de desenfoque lo que mejorará el matte, resultante mejorando
+
+			así, los resultados de la opción anterior de "Matching Softness"
+
+
+
+
+
+

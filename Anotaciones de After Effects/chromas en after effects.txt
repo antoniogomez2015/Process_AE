@@ -1,0 +1,232 @@
+Performance de chromas en after effects:
+
+Suites y fabricantes relacionados con el proceso de chroma key:
+
+	1.DFT Composite Suite Pro
+	2.Composite Wizard
+	3.DFT zMatte v3
+	4.Digieffects Delirium v2.5
+		DE Channel Composite
+	5.Digital Film Tools
+		Pwer Matte v2
+	6.EFX Keying/alpha
+	7.Key Correct
+	8.Keying
+	9.Matte
+	10.NewBlue Video Essential II
+		Chroma Key
+	11.NewBlue Video Essential V
+		Alpha Processor
+	12.NewBlue Video Essential VI
+		Chroma Key Pro
+	13.BCC8 Key & Blend
+	14.Primatte Keyer
+
+
+
+efectos que no debemos usar para haycer croma key:
+
+	effects/keying/Color Key ó Croma Lineal
+		este efecto con fuerza bruta hace coincidir y convertir todos los pixeles que coinciden con el color indicado en los canales rgb y los hace transparentes
+		a través de un rango de tolerancias sin tomas en cuenta el motivo de interés que deseamos aislar, usar sólo para casos con keys estándares
+
+
+
+
+chromas fáciles utilizando los recursos de after effects:
+
+
+
+	para eliminar chromas por defecto o generados (colores planos)
+
+	4.effects/keying/luma key 
+
+	5.effects/matte/refine matte ó perfeccionar mate	
+
+
+
+
+	Chromas faciles:
+
+	para quitar color de fondo:
+
+	1.effects/keying/color range ó gama de colores
+		este efecto permite seleccionar el color de muestra del key y no solo eso, si no, agregar más muestras ampliando el rango de acción del cromado respetando
+		nuestro motivo que es lo más importante, llegando más allá que el efecto "Color Key", estos mos permite tomar varias muestras de nuestro key en relación a sus variaciones de iluminación e imperfecciones
+
+		podemos cambiar los calor de  "Fuzziness ó tolerancia:"
+		Color Space ó espacio de color: Lab, en la mayoría de los casos a menos que se indique lo contrario
+
+
+
+	para mejorar los bordes del croma resultante:
+
+	2.matte/simple choker ó retractor simple
+		este efecto nos permite retraer ó contraer los bordes en relación a nuestro motivo cromado, así, minimizaremos ó eliminaremos los bordes indeseados
+		de nuestro motivo de cara al nuevo fondo de la composición 
+
+		para debemos mover los valores de Choker Matte ó Retraer Mate: en un rando bajo entre 0.5-2
+
+
+	para una mayor integracion, podemos suaviazar el borde para que este no sea tan duro si no suave e integrado:
+	
+	3.effects/blur and sharpen/channel blur (desenfocar el canal alpha)
+		este efecto nos permite desenfocar el canal alfa artificial que hemos creado en el proceso de chromakey
+		permitiendo así, desenfocar ese canal alpha  para suavisar así, los bordes mejorando el calado con el fondo
+		evitando una fuerte acutancia y bordes duros y rugosos ó dentados
+
+		para esto movemos los valores de Alpha Blurriness ó Difuminación del Alfa:
+
+	
+
+chromas dificiles utilizando los recursos de after effects:
+cristal, lentes, pelo rizado o fino, humo, reflejos, ropa semitransparentes
+
+
+
+	Chromas dificiles:
+
+	para neutralizar la veladuras ó contaminaciones de color del chroma en el motivo
+
+	4.effects/keying/spill Suppresosr ó Supresor de Rebase
+		este efecto permite eliminar un color que nosotros indiquemos, esto es posible a través de los colores complementarios,
+		para esto, indicamos el color del fondo ó chroma, y el efecto colocará el color complementario, para eso es conveniente apagar el filtro Color Range, temporalmente para tomar la muestra del color del fondo
+
+
+
+	para neutralizar halos y bordes del color del fondo del chroma que contaminan la imagen, 
+	convirtiendolos en color gris para un mejor calado (esta opcion es mas precisa)
+	
+	5.effects/color correction/hue/saturation ó tono y saturacion
+
+	(seleccionar el el canal del color del chroma "Channel Control: Green/Blues" en el efecto de tono y saturacion y bajar "Green/Blues Saturation" a gusto,
+	si es necesario tendremos que cambiar el rango de color haciendo uso de los rectágulos y triángulos del efecto de "hue/saturation"
+	hasta neutralizar el color al gris deseado)
+	
+	
+	opcion compuesta de los valores vistos anteriormente (para chromas dificiles)
+	
+	7.effects/keygin/keylight
+
+		7.1.Screen Colour: este control nos permite seleccionar el color key del chroma a eliminar
+
+		7.2.Screen Gain: ganancia ó fuerza de la aplicación del chromado (tolerancia en los efectos anteriores)
+
+		7.3.Screen Matte; opciones de edición el mate ó alpha resultante al margen del motivo resultante
+	
+			7.3.1.Clip Black: esta opción permite ampliar ó forzar el color negro en el apha generado
+
+			7.3.2.Clip White: esta opción permite ampliar ó forzar el color blanco en alpha generado
+
+			7.3.3.Clip Rollback: esta opción permite mejorar el borde del motivo resultante pero amplía el borde en el motivo
+
+			7.3.4.Screen Shrink/Glow: esta opción permite retraer ó expander el borde en el motivo resultante (Simple Choker ó Retrator Simple)
+
+			7.3.5.Screen Softness: esta opción no permite desenfocar el canal alpha para suavizar los bordes del notivo resultante (Channel Blur ó desenfoque de canal alfa)
+
+			7.3.6.Screen Despot Black: esta opción permite mejorar el borde y control de transparencias del motivo resultante
+
+			7.3.7.Screen Despot White: esta opción permite mejorar el borde y control de transparencias del motivo resultante
+
+		7.4.Replace method: este control permite la neutralización de color (Spill Suppressor ó Supresor de Rebase)
+
+			7.4.1.Source: esta opción por defecto permite hacer una corrección neutra casi nula			
+
+			7.4.2.Hard Colour: esta opción permite un corrección total
+
+			7.4.3.Soft Colour: esta opción permite un corección parcial, selectiva y suavizada
+
+			7.4.4.Reflace Colour: en esta opción podemos indicar un color a neutralizar, el fabricante recomienda indicar el color de la piel del motivo ó modelo
+
+			7.4.5.Despill Bias/ Alpha Bias: en estas opciones podemos indicar un color a neutralizar respectivamente, el fabricante recomienda indicar el color de la piel del motivo ó modelo
+
+
+		7.5.Inside Mask
+
+			7.5.1.Inside Mask: esta opción nos permite indicar la máscara que utilizaremos para eliminar partes que no se han podido quitar con el proceso de chromakey, con la cual podremos hacer seguimiento y animación,
+				esta máscara por lo general la colocaremos en modo de "Subtract", ó sustraer
+
+
+		7.6.Foreground Colour Corrrection: esta opción nos permite editar ó corregir el aspecto del motivo resultante, en los siguientes parámetros;
+			
+			Saturation/ Contrast/ Brightness
+
+			como también "Colour Suppression", esta opción nos permite suprimir una dominante de color (Spill Suppressor ó Supresión de Rebase)
+				Suppression Balance/ Suppression Amount; balance y alcance
+
+				Colour Balancing; esta opción nos permite indicar el valor de la corrección en tono y saturación
+
+					Hue/ Sat
+
+				Colour Balance Wheel ó balance de color personalizado; esta opción nos permite manejar e indicar un color complementario a la dominante cromática
+					haciendo ajustes en una diana de color donde podremos aplicar colores complementarios que nos permitirán corregir la dominante cromática a corregir
+
+
+		7.7.Edge Colour Correction; esta opción nos permite hacer los mismos cambios que "Foreground Colour Correction", pero con los bordes de nuestro motivo
+
+
+		
+
+	una opcion avanzada ó compuesta es utilizar capas de ajustes con máscaras:
+
+	8.aplicar una capa de ajuste, y a esta aplicarle una marcara en la zona a del color del chroma o zona a quitar,
+	
+	luego aplicar un effects/keygin/keylight, el cual solo se aplicara a la mascara al maximo sin inteversión del
+	del resto de la capa (esto es ideal para imagenes fijas, para animaciones requieres de animar la mascara)
+	(estos chromas con capas de ajustes y mascaras requieren de una precomposicion para luego integrar un fondo
+	en una nueva composicion maestra)
+
+	una opcion dinamica es utilizar pinceles en su canal alpha para crear alphas personalizados, aplicamos a la capa
+
+	effects/keyging/keylight, luego, dentro de la capa podemos editar la capa pintando con pinceles en su canal alpha
+	para asi coregir las areas donde no ha llegado el keylight de forma facil (esto es recomendable en imagenes fijas)
+
+
+
+	9.alphas avanzados, corregir ó generar alphas personalizados, para mejorar los alphas generados por los procesos del chromakey
+
+		9.1.para eliminar partes bg y chroma key al margen del motivo resultante (White Colour), que no se hayan eliminado en el proceso naturalmente, esto lo podemos realizar a través
+			de máscaras con la propiedad "subtract"
+
+		9.2.para eliminar partes bg y chroma key al margen del motivo resultante (White Colour), que no se hayan eliminado en el proceso naturalmente, esto lo podemos realizar a través
+			effects/Sapphire Composite/S_MathOps
+
+				SourceB: indicamos la capa de forma que usaremosa como alpha, el cuál agregaremos a alpha generado
+
+				Operation: colocamos "Sustract"
+
+		
+		9.3.para corregir ó agregar parte "dentro", del motivo que ha sido marginada ó eliminada en el proceso del chroma (White Colour), esto lo podemos realizar creando capas de forma
+			y colocándolas sobre las áreas "rotas ó agujereadas (Black Colour)", luego, debemos agregar ó sumar estas liminancias/lumas ó alfas/alphas, al canal alpha, generado
+			en el proceso de chroma key, esto lo conseguimos agregando el efecto: effects/EFX Keying/alpha /EFX Alpha Math; en el cuál colocaremos en la propiedad src2 (source2), 
+			la "capa de forma deseada", si hay más de una capa de forma debemos repetir el proceso ó fusionar las capas de forma en una sola, así, habremos sumado y perfeccionado el alpha
+			generado eliminando las imperfecciones ó perforaciones en el mismo, complementando así, el proceso de chroma key
+
+		
+	
+	
+	
+PROCESOS
+
+BBC Key & Blend
+	1.BCC Chroma Key
+		especial para hacer el proceso de chroma key a través de los valores de density/balance/lightness/color
+
+	2.BCC Matte Cleanup
+		especialmente recomendado para aumentar el contraste del black/white entre sí, aplicado al alpha generado en el procedo de chroma key 
+
+	3.BCC Composite Choker
+		especialmente recomendado para posterizar el alpha generado, aliminando así, la bruma e inperfecciones del alto contraste existentes, sellando ó matizando así al mate en un black and white adsoluto
+
+	4.BCC Composite
+		especialmente recomendado para sellar huecos ó en el alpha generado en el motivo en el proceso de chroma key
+			
+			3.1.Mix layer: colocamos la capa de forma con relleno black, que utilizaremos para rellenar el alpha generado en el motivo por el proceso de chroma key
+
+			3.2.Apply Mode: colocamos "modo de fusión screen", para que así, la capa de forma no sea visible en la composición resultante
+
+			3.3.Mix From: colocamos "Normal"
+			
+			3.4.Alpha: colocamos "composite", para que se vea como resultado final la composición resultante
+
+

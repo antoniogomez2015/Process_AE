@@ -1,0 +1,23 @@
+
+
+panel nativo de after effects
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+panel FxPro / character
+
+
+	Character
+
+		_éste nos permite editar todas las propiedades y características del texto cuando creamos nuevo
+
+		texto ó deseamos editar algún texto existente
+
+
+
+
+

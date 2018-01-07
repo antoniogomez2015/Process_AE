@@ -1,0 +1,134 @@
+
+
+http://aescripts.com/lipsyncr/#/discussion/embed
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / lipsyncr
+
+
+	lipsyncr:
+
+
+	-este nos permite crear simulaciones de cinemática facial específicamente de lips, ó lo que son los 
+
+	labios ó la boca en general
+
+
+	_de ésta manera, podremos generar un sistema el cuál, podremos sincronizar con un audio en off, con el
+
+	sistema e incluso animarlo a través, de éste sistema
+
+
+	_para lo cuál, lo primero que tenemos que crear son nuestros artes para las diferentes posiciones 
+
+	faciales, las cuales se resumen en las siguientes coincidencias fonéticas de la conjunción albética
+
+	de la "A", a la "Z":
+
+
+		NRL
+
+		G-K
+
+		B-M-P
+
+		A-H
+
+		S-H
+
+		OH-R
+
+		F-V
+
+		TH
+
+		S-Z
+
+		D-N-T-L
+
+
+	NOTE: el siguiente workflow, se realizará para la versión "v1.1", ya que para las siguientes versiones hay 
+
+	que hacer algunas instalaciones previas con "java", las cuales se hicieron mal desde un principio y ahora
+
+	no dan opciones para volverlas ha realizar, por ésta razón la interface, de las versiones superiores no 
+
+	pueden ser cargadas ha after effects, por ende, la sección de sincronización de audio no está disponible
+
+	en las primeras versiones
+
+
+
+
+	Workflow:
+	_________
+
+	
+	Sistema:
+
+	_para generar el sistema no es necesario que previamente hayamos creado una composición de trabajo ó 
+
+	algunas layers, preliminares
+
+
+	_de ésta manera, vamos al panel "lipsyncr 1.1/", y vamos ha la sección "Create", y en las opciones de 
+
+	"Mouth Shapes", la mejor opción ha seleccionar es la de "10", ya que ésta contiene todas las formas posibles
+
+	por los labios en la fonética según el esquema superior expresado anteriormente
+
+
+	_y para crear el sistema debemos darle al botón "Create", de ésta manera se generará una nueva composición
+
+	con el nombre de "MouthComp 1", la cuál, estará compuesta de las siguientes layers, que corresponderán al
+
+	sistema fonético que vimos en los pasos anteriores de forma relativa, éstas layers, que crea el sistema son
+
+	layers, de ejemplo para que las podamos identificar y sustituir posteriormente, éstas layers, son:
+
+		"SH|TH|G|S|F|M|O|D|AH|ntrl|"
+
+	así, como también, contiene dos nulls, para los controles de marcas y demás elementos del sistema
+
+
+
+	Personalización:
+	
+	_en éste punto, cuando el sistema se ha generado es que tendremos que sustituir las layers, de ejemplo del
+
+	sistema por nuestras layers, personalizadas que corresponderán ha nuestro character
+
+
+	_para ésto, sólo debemos de arrastrar las respectivas layers, del panel project, hasta el timeline, sobre
+
+	las respectivas layers, ha sustituir con "alt", previamente de ésta manera, las layers, se sustituirán en las
+
+	mismas posiciones que las layers, originales
+
+
+
+	Sincronizar Audio:
+
+	_ya en éste punto podremos traer al panel proyecto nuestro audio en off, de nuestro character, y sus respectivos
+
+	diálogos el cuál, podremos sincronizar con nuestro sistema
+
+
+	_para ésto, vamos al panel "lipsyncr/", y vamos ha la sección de "Animate", y en la sección de "Mouth Source", ya
+
+	se encontrará seleccionada la composición generada por el sistema en pasos anteriores "MouthComp 1", más tendremos
+
+	que indicar en "Audio Footage", el audio en off, ha sincronizar, para por último darle ha "Animate", para que así,
+
+	el sistema busque la coincidencias ha sincronizar entre el sistema base que generamos anteriormente y la fonética 
+
+	del audio suministrado ha sincronizar
+ 
+
+
+
+

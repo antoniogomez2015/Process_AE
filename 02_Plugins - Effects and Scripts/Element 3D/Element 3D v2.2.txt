@@ -1,0 +1,61 @@
+
+
+Element 3D v2.2
+
+
+
+este permite crear y cargar elementos 3d, dentro de after effects, para hacer animaciones y modulaciones 
+
+de los elementos entre otras funciones avanzadas
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Generación 3D, a partir de Text/Mask:  
+_____________________________________
+
+
+
+NOTE: (es es compatible con todo tipo de fuentes)
+
+
+
+
+	_primero debemos generar una layer, de texto (control + T)
+
+
+	_luego debemos generar una layer/solid (control + Y), a la cuál, le agregaremos el plugins
+
+	Plugins/Video Copilot/Element
+
+
+	_y las opciones del plugins element/Custom Layers/Custom Text and Mask/, en el primer
+
+	Path Layer 1.., escogemos la layer, de texto ó máscara deseada ha extruir
+
+
+	_luego vamos a las opciones de "element/Scene Setup", y le damos ha "Extrude", automáticamente
+
+	podremos ver el elemento extruido así, como también, estarán disponibles las opciones de 
+
+	"Group Folder/Extrusion Model", así, en estas opciones debemos ir ha:
+
+
+	_Extrusion/Custom Path, y escogemos al "Path", que previamente hemos asignado en pasos anteriores
+
+	entre otras opciones como bavel copias, objetos separados, escala de bavel, otros
+
+
+	_en Extrusion Model/Extrusion, en contraremos la opción de "Real World Scale", y
+
+	_en Extrusion Model/Transform. encontraremos Normalize Size
+
+	ambas opciones nos ayudarán a reubicar y reescalar el objecto al centro del canvas así, como
+
+	también, asjustar una escala relativa al tamaño de la escena, estas opciones son especialmente
+
+	útiles cuando importamos elementos generados en otras aplicaciones
+
+	

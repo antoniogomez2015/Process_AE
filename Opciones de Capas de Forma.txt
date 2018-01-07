@@ -1,0 +1,88 @@
+
+
+Principios: el sistema de agrupación de las capas de forma tiene como principio, que los atributos que están más abajo en el orden 
+
+de apilamientos de atributos de la capa de forma, afectarán a los atributos que estén más arriba en el orden de atributos hasta que 
+
+este encuentre un atributo igual ha este ej: un atributo "Stroke", se comportará ó se aplicará a todos los atributos 
+
+que se encuentren por encima de este, hasta que el atributo "Stroke", se encuentre con otro atributo por encima de tipo "Stroke"
+
+
+
+_Content:
+
+	
+	Shapes:
+
+		_Ordenamiento automático del contenido que conforma una capa de forma al crear una capa de forma
+		
+		_Los contenidos posibles son: paths, fills, strokes, atributos agregados
+
+
+	Groups:
+
+		_Podemos crear grupos aún más complejos que los ya posibles con "Shapes", permitiendo crear grupos de formas, paths, 
+
+		fill, strokes, effects
+
+		_Trandform Groups: podemos editar su; punto de ancla, posición, escala, inclinación, inclinación referencia, rotación, 
+
+		opacidad
+
+
+
+	Atributos básicos:
+
+		_Path: podemos editar los nodos del trazado así, como animar su posición y forma
+
+		-Fill: esta propiedad permite asignar un relleno a una propiedad de un "Path", ó mñultiples "Paths"
+
+		_Stroke: podemos editar el color,opacidad, grosor redondeo de los extremos de las líneas así, como el suavizado
+
+			Composite: si deseamos que el stroke se encuentre por encima ó por debajo de la forma al interactuar 
+
+			con otras formas y con otros strokes
+
+
+			Line Cap: si deseamos rendondez en el inicio, cortes y fin de las lineas que conforman el stroke
+
+			Line Join: si deseamos un suavizado en los ángulos pronunciados de las  splines que conforman el stroke
+
+			Dashes:nos da la opción que si queremos el trazado de forma de manera punteada
+
+
+_Opciones adicionales
+
+		_Group (emty): especial mente útil para agrupar formas y hacer que estas interactúen con otras	
+
+		-rectangle: forma predeterminada que nos sirve para interactuar y conplementar formas ya existentes ó creadas 
+
+		por nosotros
+
+		_Ellipse: forma predeterminada que nos sirve para interactuar y conplementar formas ya existentes ó creadas
+
+		por nosotros
+
+		_Polystar: forma predeterminada que nos sirve para interactuar y conplementar formas ya existentes ó creadas 
+
+		por nosotros
+
+		_Path: especialmente útil ya que al crear un "Path vacio", en el podemos pegar un "Path", tanto de illustrator 
+
+		como de Photoshop, u otros programas
+
+		_Fill:
+
+		_Stroke:
+
+		_Gradient Fill:
+
+		_Gradient Stroke:
+
+
+
+		_Trim Paths: esta opción permite animar los paths, ó trazados, desde un principio a fin e inversamente
+
+
+

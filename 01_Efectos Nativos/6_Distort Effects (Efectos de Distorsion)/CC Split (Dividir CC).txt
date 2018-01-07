@@ -1,0 +1,84 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer una distorsión de tipo agujero ó grieta ha modo de corte sobre la layer,
+
+	base, de ésta manera, podremos emular un corte, boca, sonrisa, otros
+
+
+	_así, como también, podremos crear un matte, de luminancia el cuál, dejará debelar la layer, de abajo 
+
+
+
+
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Split: (Dividir CC)
+	________
+
+
+		_Point A:
+
+			_éste es el handle, ó target, a través, del cuál, podremos indicarle al sistema la ubicación 
+
+			a partir de que punto comenzará la distorsión ó deformació de la capa, en éste caso la
+
+			"abertura" de la layer
+
+
+		_Point B:
+
+			_éste es el handle, ó target, a través, del cuál, podremos indicarle al sistema la ubicación 
+
+			a partir de que punto terminará la distorsión ó deformació de la capa, en éste caso la
+
+			"abertura" de la layer
+
+
+		_Spit:
+
+			_ésta opción nos permitirá indicar la cantidad e apertura de la layer, en relación a la 
+
+			distancia de los dos puntos de referencia ó handles, ó targets, sobre la layer, base
+
+
+
+
+
+
+
+
+
+
+

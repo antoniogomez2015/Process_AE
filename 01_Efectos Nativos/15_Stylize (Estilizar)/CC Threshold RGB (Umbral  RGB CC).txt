@@ -1,0 +1,136 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos permitirá configurar cuál, será el umbral de cada canal de color a través, del cuál, 
+
+	podremos hacer virados de color en relación a las necesidades de producción, de ésta manera, podremos hacer
+
+	reservas de color, mattes, mapas de densidad y demás elementos al poder convertir éstos en colores plenos 
+
+	y planos
+
+
+	_de ésta manera, cuando los brillos de un canal de color en específico superan el umbran indicado por canal
+
+	entonces éstos serán convertidos al máximo color rojo, verde, ó azul respectivamente para cada canal
+
+
+	_de ésta manera, podremos crear efectos ponderados en relación al proceso de producción y paso contínuo 
+
+	deseado sobre una imágen compleja la cuál, podrá ser simplificada para diferentes procesos
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	CC Threshold RGB: (Umbral  RGB CC)
+	_________________
+
+
+		_Red Threshold:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el umbral de análisis para el
+
+			canal de los rojos, por defecto es un valor de "127,5", en una escala tonal de "0-255"
+
+
+			_de ésta manera, los valores inferiores al valor indicado en éste ejemplo es de "127,5",
+
+			serán convertidos a rojo puro
+
+
+		_Green threshold:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el umbral de análisis para el
+
+			canal de los verdes, por defecto es un valor de "127,5", en una escala tonal de "0-255"
+
+
+			_de ésta manera, los valores inferiores al valor indicado en éste ejemplo es de "127,5",
+
+			serán convertidos a verde puro
+
+
+		_Blue Threshold:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el umbral de análisis para el
+
+			canal de los azules, por defecto es un valor de "127,5", en una escala tonal de "0-255"
+
+
+			_de ésta manera, los valores inferiores al valor indicado en éste ejemplo es de "127,5",
+
+			serán convertidos a azul puro
+
+
+		_Invert Red Channel:
+
+			_ésta opción nos permitirá indicarle al sistema que invierta un canal de color en específico
+
+			en éste caso el canal de los rojos para que así, podamos obtener los colores complementarios
+
+			ha éstos respectivamente
+
+
+		_Invert Green Channel:
+
+			_ésta opción nos permitirá indicarle al sistema que invierta un canal de color en específico
+
+			en éste caso el canal de los verdes para que así, podamos obtener los colores complementarios
+
+			ha éstos respectivamente
+
+
+		_Invert BLue Channel:
+
+			_ésta opción nos permitirá indicarle al sistema que invierta un canal de color en específico
+
+			en éste caso el canal de los azules para que así, podamos obtener los colores 
+
+			complementarios ha éstos respectivamente
+
+
+		_Blend w. Original:
+
+			_ésta opción nos permitirá indicarle al sistema que mezcle el resultado del efecto con la
+
+			layer, base para que así, podamos tener una mayor integración del sistema con la layer,
+
+			base
+
+
+
+

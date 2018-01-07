@@ -1,0 +1,141 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá hacer fusiones de layers, y canales a través, de difernetes algoritmos para lograr así,
+
+	diferentes efectos para diferentes procesos en producción y en paso contínuo
+
+
+	_éste efecto es una especie de combinación de el efecto de "Aritmetic", y el efecto de "Channel Combiner",
+
+	hasta cierto grado
+
+
+
+
+	Aritmetic:
+
+	_con la diferencia destacada que éste efecto de "Compund Aritmetic", no disponemos de los modos de fusión
+
+	especiales ni básicos de la aplicación
+
+
+	_más si dispondremos de los criterios ó algoritmos del efecto de "Aritmetic", más otros valores simples de
+
+	integración, otros
+
+
+
+	
+	Utilidades:
+
+	_de ésta manera, podremos ver que podremos llevar más allá las opciones naturales del efecto aritmetic,
+
+	convencional ya que en éste efecto de compound aritmetic, podremos disponer de diferentes canales de más de
+
+	una layer, los cuáles, podremos configurar previamente en precomposiciones de éstas respetivas layer, a
+
+	través, de otros efectos de canal, como el propio aritmetic, channel combiner, blend, calculation, otros
+
+
+	_lo cuál, amplía las posibilidades de acción y resultados en una acción directa entre una layer, base y una
+
+	layer, auxiliar ó complementaria de acción resultante
+
+
+	_de ésta manera, podremos ver que éste es un efecto de paso contínuo en toda la regla y nos permnite llevar
+
+	el proceso de producción ha otro nivel exponencial a que nos permitirá unir ó complementar todos los efectos
+
+	de canal y producción del sistema
+
+
+
+	
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Compound Aritmetic: (Aritmetica Compuesta)
+	___________________
+
+	_Second Souece Layer:
+
+		_ésta opción nos permitirá seleccionar la layer, complementaria de la cuál, se extraerá la 
+
+		información ó mezcla de canal para la conformación del canal resultante de la fusión entre
+
+		ambas layers, respectivas, tanto de la layer, base como de la layer, complementaria
+
+
+	_Operator:
+
+		_ésta opción nos pemitirá seleccionar el tipo de criterio de acción ó algoritmo de las opciones
+
+		de aritmetic, convencionales las cuáles, harán de criterios y modo de acción ó modo de fusión 
+
+		entre ambas layers
+
+
+	_Operator on Channels:
+
+		_y aunado ó alternativa a la opción del algoritmo seleccionado en las opciones de "Operator", ó
+
+		de aritmetic, dispondremos también, de la copión de escoger un espacio de color de destino el
+
+		cuál, será rgb, argb, ó directamente un canal alpha
+
+
+	_Overflow Behavios:
+
+		_ésta opción nos permitirá sober escribir un comportamiento (Indeterminado), el cuál, dispone de
+
+		las siguientes opciones:
+
+			_Clip / Warp / Scale
+
+
+	_Stretch Second Source:
+
+		_ésta opción nos permitirá indicarle al sistema que trate de ajustar el efecto a toda el área de la
+
+		composición ó canvas y no al centro de éste
+
+
+	_Blend Width Original:
+
+		_ésta opción nos permitirá indicar la influencia del efecto ó de la fusión entre ambas layers, 
+
+		generando así, la layer, ó canal resultante como efecto compuesto
+
+
+
+
+

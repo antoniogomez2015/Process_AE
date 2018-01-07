@@ -1,0 +1,116 @@
+
+
+http://aescripts.com/easyrulers/
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Easy Rulers
+
+
+	Easy Rulers:
+
+
+	-este nos permite crear rules, ó reglas a través, de las cuáles, podremos crear contenido ó incluso podremos
+
+	animar éstas reglas a través, de una serie de controles y parámetro
+
+
+	_éstas reglas las podremos generar de forma circular ó arqueada así, como también, de forma lineal
+
+
+
+	
+	Workflow:
+	_________
+
+	_primero debemos de tener creada una composición de trabajo en la cuál, el sistema generar las rules, creadas
+
+
+	_para luego, proceder ha configurar las características de como deseamos crear la regla ha generar
+
+
+
+
+	EasyRulers:
+	___________
+
+	_de ésta manera, a través, de diferentes controles por medios de sliders, podremos ajustar y condigurar las
+
+	características y parámetros de la reglas generadas, éstos parámetros son:
+
+
+
+	_gap:
+
+		_extensión, longitud ó radio del sistema de reglas
+
+
+	_width:
+
+		_grosor de las líneas
+
+	
+	_height:
+
+		_altura de las líneas
+
+
+	_offset:
+
+		_desplazamiento ó desface desde su punto de origen
+
+
+	_text scale:
+
+		_tamaño de la numeración en texto
+
+
+	_text distance:
+
+		_distancia ó separación de la numeración de texto de la regla ó segmentos
+
+
+	_text tracking:
+
+		_(indeterminado)
+
+
+	_text rotation:
+
+		_rotación de la numeración de texto
+
+
+	_text rotation flow:
+
+		_ésta opción rota la numeración en texto ha 90, grados
+
+
+	_text color:
+
+		_ésta opción nos permite cambiarle el color a la numeración de texto
+
+
+	_ruler main liner color:
+
+		_ésta opción permite colorear los segmentos primarios
+
+
+	_rig subdivision color:
+
+		_ésta opción permite colorear los segmentos secundarios
+
+	
+	_half subdivision color:
+
+		_ésta opción permite colorear los segmentos terciarios
+
+	
+
+
+
+
+
+

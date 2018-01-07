@@ -1,0 +1,432 @@
+
+
+
+
+	Zaxwerks 3D Flags
+
+		Tutorial After Effects Plugins Zaxwerks
+			
+			https://www.youtube.com/watch?v=zWIn_mpk2NI
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	3D Flags V4:
+	____________
+
+	_éste nos permite crear literalmente banderas ó elementos 3d, como telas u elementos organicos del mismos 
+
+	tipo ó similares 
+
+
+	_el cuál, lo podemos aplicar para obtener elementos unicolor así, como también, elementos texturizados a 
+
+	través, de imágenes personalizadas para obtener los efectos más diversos
+
+
+
+	Workflow:
+	_________
+
+	_para controlar el sistema dentro del espacio 3d, es recomendable crear una cámara dentro de la composición
+
+	para que así, a través, de ésta podamos orbitar en la escena
+
+
+	_primero debemos de tener una composición de trabajo creada así, como también, debemos de crear una nueva
+
+	layer, de tipo "solid", en la cuál, vamos ha aplicar el efecto del plugins "3D Flag"
+
+
+	_para lo cuál, debemos seleccionar la layer, que hemos creado y con ésta seleccionada debemos ir ha 
+
+	"Effects/Zaxwerks/3D Flag", para que así, el sistema cargue una bandera en vez del sólido existente 
+
+	previamente el cuál, podremos personalizar
+
+
+
+	3D Flag:
+	________
+
+	_Set Flag Image:
+
+		_ésta opción nos permite cargar una imágen personalizada al sistema para así, éste suplante el 
+
+		color de la capa del sólido de fondo y en vez de éste color la imágen que le estamos indicando
+
+
+		_a partir de éste punto es aconsejable si la imágen no es visible luego de haberla asignado, 
+
+		darle al "Cleck", de "Lock Flag Image", para que así, el sistema actualize los cambios para que
+
+		así, la imágen que hemos asignado sea visible en el viewport
+
+
+	_Lock Flag Image:
+
+		_ésta opción nos permite actiar la opción de auto orientación, especialmente útil para cuando 
+
+		cargamos una imágen personalizada para el sistema
+
+
+	_Set Flag Size:
+
+		_ésta opción nos permite seleccionar en una lista de opciónes de tamaños preconfigurados de los
+
+		posibles tamaños para el sistema, de ésta manera, podremos escoger un tamaño de que más se aproxime
+
+		a nuestras necesidades
+
+
+	_Set Flag Pole:
+
+		_ésta opción nos permite seleccionar si deseamos "Pole", ó asta para la bandera 
+
+
+		_más también, podremos elegir la opción de "Background", lo cuál, nos permitirá utilizar el sistema
+
+		para otros procesos ó simulaciones como telas entre otros comportamientos posibles
+
+
+		_de ésta manera, podremos escoger entre diferentes posibilidades entre las que dispondremos:
+
+
+			_Single Pole:
+
+				_ésta opción nos permite indicarle al sistema que cree una sóla asta ó pole la cuál,
+
+				simulará el efecto clásico de bandera
+
+
+				_la cuál, estará disponible en diferentes tamaños como "Short, Medium, Lerge, otros" 
+
+
+			_Double Pole:
+
+				_ésta opción nos permite indicarle al sistema que cree dos astas ó poles la cuál,
+
+				simulará el efecto de pancarta ó baya publicitaria
+
+				
+				_la cuál, estará disponible en diferentes tamaños como "Short, Medium, Lerge, otros" 
+
+
+			_Hanging Banner:
+
+				_ésta opción nos permite indicarle al sistema que cree una banderilla con un asta 
+
+				superior ha modo horizontal
+
+
+			_Doble Pole Banner:
+
+				_ésta opción es idéntica a la anterior más ésta contempla la implementación de dos
+
+				astas, una superior y una inferior ha modo horizontal
+
+
+			_Curtain:
+
+				_ésta opción nos permite indicarle al sistema que cree una cortina con un asta 
+
+				superior ha modo horizontal
+
+
+				_más el comportamiento de la simulación sobre el asta estará superditado ha 
+
+				pliegues sobre pliegues ha modo de continilla
+
+
+			_Flame:
+
+				_ésta opción nos permite indicarle al sistema cree un bastidor publicitario tensado
+
+				el cuál, tendrá un marco ó astas por los cuatro lados
+
+
+				_y en su interior tendrá un bastidos con una simulación de tela semi tensado
+
+
+			_Background:
+
+				_ésta opción es muy similar a la anterior más ésta nos contempla la creación de un
+
+				más ó asta por los cuatro lados
+
+
+				_de ésta manera, tendremos un simulación limpia para una gran variedad de efectos
+
+
+			_none:
+
+				_ésta opción es prácticamente idéntica a la anterior eliminando cualquier marco ó
+
+				asta del sistema de simulación
+
+
+	_Set Flag Dynamics:
+
+		_ésta opción nos permite escoger entre una serie de presets, el tipo de comportamiento dinámico que
+
+		adoptará la "Flag", así, podremos indicarle al sistema la intensidad ó dimensión de las 
+
+		ondulaciones y demás deformaciones sobre la superficie
+
+
+	_FlagPole:
+
+		_en ésta sección podremos indicarle al sistema que tipo "Pole", deseados por el asta de la bandera
+
+		ó sistema
+
+
+	_Flag Pole Style:
+
+		_así, podremos elegir entre un palo ó asta redonda, cuadrado, ó incluso una imágen flat
+
+
+	_FlagPole Length:
+
+		_ésta opción nos permite graduar cuanto se everá el asta ó pole, de la bandera
+
+
+	_FlagPole adius:
+
+		_ésta opción nos permite graduar el grosor del asta ó pole del sistema
+
+
+	_Top Cap Style:
+
+		_ésta opción nos permite esciger entre una serie de elementos con diferentes acabados ó remates 
+
+		para que suplanten a la bola de la parte superior del asta ó pole, así, podremos agregar diferentes
+
+		estilos para la parte superior de la bandera
+
+
+	_Top Cap Scale:
+
+		_ésta opción nos permite graduar la escala de los acabados que podemos asignar en el paso anterior
+
+		para que así, podamos balancear las proporciones entre el tamaño del asta ó pole y el acabado
+
+		superior que seleccionemos
+
+
+	_Buttom Cap Style:
+
+		_ésta opción nos permite agregarle al sistema del asta ó pole, en su parte inferior tanto un remate
+
+		simple ó básico así, como también, podremos agregarle bases, soportes con diferentes acabados para
+
+		lograr diferentes efectos
+
+
+	_Buttom Cap Scale:
+
+		_ésta opción nos permite graduar la escala de los acabados que podemos asignar en el asta ó pole, 
+
+		en su parte inferior para que así, podamos hacer un balance entre el tamaño del asta ó pole, y el
+
+		remate asignado en su parte inferior
+
+
+	_Flag Position On Pole X:
+
+		_(Indeterminado)
+
+
+	_Flag Position On Pole Y:
+
+		_(Indeterminado)
+
+
+	_Flag Position On Pole Z:
+
+		_(Indeterminado)
+
+
+	_Layers Maps:
+
+		_(Indeterminado)
+
+
+	_Transform:
+
+		_éstas opciones nos permite mover el sistema, así, podremos mover el asta ó la bandera de forma
+
+		relativa, así, como también, podremos cambiar la ubicación del pibote del sistema, el cuál estará
+
+		de forma inicial en la base del asta ó pole
+
+
+	_Attach to Layer:
+
+		_ésta opción nos permite emparentar el sistema ha una layer, determinada, (revisas funcionamiento
+
+		inesperado)
+
+
+	_Starting Position:
+
+		_ésta opcíon nos permite seleccionar entre una serie de comportamientos que podrá optar el sistema
+
+		entre los que dispondremos "Pre-Roll, Banner, Cortain", y de los cuales podremos controlar el flujo
+
+		inicial y final, pudiendo así, planificar y animar éstos parámetros a través, del tiempo
+
+
+		_Amount:
+
+			_ésta opción nos permite indicarle al sistema la cantidad de energía ó físicar implícitas
+
+			sobre el sistema en el punto inicial en un momento ó frame, determinado
+
+
+		_Tightness:
+
+			_ésta opción nos permite indicar al sistema la cantidad de presión ó flujo aplicado sobre
+
+			el sistema en un punto ó frame, determinado
+
+
+	_Pre-Roll(Sec):
+
+		_ésta opcíón nos permite indicarle al sistema que deseamos que el sistema comience con un flujo
+
+		constante de físicas sobre el sistema para que así, el sistema no comience desde cero
+
+
+	_Looping:
+
+		_éstas opciones nos permiten indicarle al sistema que deseamos hacer loops, ó repeticiones de la
+
+		simulación sobre el sistema, de ésta manera, podremos indicar en que frame, comenzará ha realizarse
+
+		el loops, y en que frame, terminará de realizarse el loops, indicando así, a su vez, donde volverá
+
+		ha comenzar el loops
+
+
+		_como también, tendremos una acción para indicarle al sistema que realice un fusionado de 
+
+		fotogramas en los puntos medios del loops
+
+
+	_Slo-Mo %:
+
+		_ésta opción nos permite indicarle al sistema la cantidad de suavizado que deseamos aplicarle al
+
+		sistema sobre el comportamiento de simulación indicado así, podremos lograr una simulación y 
+
+		movimientos suaves
+
+
+	_Flatten %:
+
+		_ésta opción nos permite indicarle al sistema la cantidad de aplanado ó estiramiento de la 
+
+		superficie sobre el tipo de comportamiento de simulación escogido para el sistema
+
+
+	_Shadow Catcher Plane:
+
+		_ésta opción nos permite indicar una layer, al sistema sobre la cuál, hacer un volcado de la sombra
+
+		del sistema sobre ésta layer, determinada por nosotros (revisar el funcionamiento)
+
+
+	_Forces:
+
+		_ésta opción nos permite controlar las fuerzas físicas aplicadas al sistema de forma avanzada y
+
+		personalizadas		
+
+
+		_Wind Speed Pressets:
+
+			_ésta opción nos permite seleccionar entre una serie de presets, de los diferentes tipos
+
+			de fuerzas de tipo viento ó flujo aplicables sobre el sistema las tendrán diferentes 
+
+			influjos en relación a sus características propias
+
+
+		_Wind Speed:
+
+			_y a partir de la opción elegida en el paso anterior podemos aumentar ó dinminuir ésta 
+
+			fuerza de forma gradual y personalizable y animable
+
+
+		_Wind Dir Angle:
+
+			_así, como también, cambiar ó graduar el ángulo de acción ó proyección de la misma sobre la
+
+			simulación
+
+
+		_Wind Dir Elevation:
+
+			_así, como también, podremos graduar la elevación ó densidad de ésta respectiva fuerza 
+
+			sobre el sistema
+
+
+		_Gravity:
+
+			_como también, podremos variar la intensidad ó sentido de la gravedad así, podremos hacer
+
+			que ésta sea más leve a la veal "9.8", ó incluso invertir ésta para que así, el sistema
+
+			fluya hacia arriba en vez de hacia abajo ó también, hacer neutra ésta fuerza "0", para que
+
+			así, haya ausencia de la gravedad lo cuál, es muy útil para diferentes procesos
+
+
+	_Camara & Lights:
+
+		_ésta opción nos permite activar las cámaras y luces existentes en la composición para que así, 
+
+		éstas camaras y luces sean contempladas por el sistema
+
+
+		_de ésta manera, también, contaremos con controles para lo luces del propio sistema las cuales 
+
+		podremos ajustar y configurar
+
+
+	_Online Documentation:
+
+		_ésta opción nos birnda un enlace directo a la documentación online, del plugins
+
+
+
+	Interface:
+	__________
+
+	_y como opciones avanzadas tendremos la posibilidad de configurar todo el sistema de modo "extended", a 
+
+	través, de una interface, personalizada del plugins, en la cuál, podremos configurar las opciones vistas
+
+	hasta éste punto más otras avanzadas como la incorporación ó aplicación de diferentes materiales a la 
+
+	superficie del sistema como también, la incorporación de diferentes mapas de textura como diffuse, bump,
+
+	specular, otros, así, como también, otras opciones de configuraciones y visualización como también, las de
+
+	simulación, otros
+
+
+	_para lo cuál, contaremos en el panel effects controls, en la parte superior del plugins, "3D Flag", las
+
+	opciones de "Reset - Options.. - About", siendo la opción de "Options..", la que nos permitirá acceder a
+
+	la interface, de configuración avanzada del plugins
+
+
+

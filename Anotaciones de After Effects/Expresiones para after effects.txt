@@ -1,0 +1,59 @@
+EXPRESIONES REGULARES EN AFTER EFFECTS
+
+accion para hacer una modulacion de una propiedad de cada
+
+	time
+	(time nos devuelve el valor en segundo de donde esta situado el cursor o cabezal)
+	se aplica asi:
+
+	time*100
+
+	
+	Slider control
+	(este permite crear una manejador en el cual se pueden asignar diferentes valores de diferentes objetos y capas de la composicion
+permitiendo ser controlados por un solo manejador asi los valores y propiedades sean diferentes entre si)
+	(se debe crear un objeto nulo (Null), y asignarle un effects/expression controls/slider controls)
+	(debemos activar las opciones de expresiones para la propiedad accionando el reloj con (alt), precionado)
+	(luego deben selecionarse las propiedades una por una y vincular las con el slider control)
+	se asignara a la propiedad esta expresion:
+	
+	temp = thisComp.layer("slider_control").effect("Slider Control")("Slider");
+[temp, temp, temp]
+
+	(ahora debemos configurar las propiedades que vamos y las que no usaremos, ejemplo:)
+
+	Position 0.0,0.0,517,0
+
+	(en este caso debemos vincular los valores que estan en cero de la propiedad posicion que no vamo a usar en la expresion ya creada)
+	(esto lo hacemos seleccionado cada "temp", del final de la expresion correspondiente a cada valor de la propiedad, luego de seleccionado
+debemos vuncularlo con el valor numerico de la propiedad en "0.0," que no usaremos)
+
+	(y la propiedad que si usaremos le colocaremos el valor respectivo que tiene esa cordenada de la propiedad quedando
+"temp +517" ó "-temp -517", respectivamente al valor original de la propiedad)
+
+	temp = thisComp.layer("slider_control").effect("Slider Control")("Slider");
+[transform.position[0], transform.position[1], temp +517]
+
+
+	Angle control
+	(este permite crear una manejador en el cual se pueden asignar diferentes valores de diferentes objetos y capas de la composicion
+permitiendo ser controlados por un solo manejador asi los valores y propiedades sean diferentes entre si)
+	(se debe crear un objeto nulo (Null), y asignarle un effects/expression controls/angle controls)
+	(debemos activar las opciones de expresiones para la propiedad accionando el reloj con (alt), precionado)
+	(luego deben selecionarse las propiedades una por una y vincular las con el slider control)
+	se asignara a la propiedad esta expresion:
+
+	thisComp.layer("slider_control").effect("Angle Control")("Angle")
+
+	(si queremos que esta contemple un valor inicial debemos coloar la expresion expuesta asi)
+
+	-thisComp.layer("slider_control").effect("Angle Control")("Angle")-55
+
+	(con un menos al inicio y con un meno y el valor al final de la presion, en caso de ser el valor positivo, solo
+colocar el valor positivo al final)
+
+
+
+	crear un loops de una animacion
+	(luego de haber creado un ciclo de lo que queremos se repita indefinidamente debemos activas las propiedades de expresion de la propiedad)
+	(luego en el menu de lenguaje de empresiones seleccionamos las propiedades "Property/loopOut(type = "cycle", numKeyframes = 0)")

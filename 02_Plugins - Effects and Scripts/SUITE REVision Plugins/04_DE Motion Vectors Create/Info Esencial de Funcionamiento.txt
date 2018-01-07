@@ -1,0 +1,351 @@
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+
+	Referencia:
+
+		http://help.revisionfx.com/task/21/
+
+
+	Tutorial Avanzado:
+
+		http://www.klemenlozar.com/frame-blending-with-motion-vectors/
+
+
+	Tutorial Dedicado:
+
+		Twixtor, Particular and RE:Fill create a unique motion-based particle effect
+
+			https://www.youtube.com/watch?v=mjdeE6w4iCg
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE: Motion Vectors Create:
+__________________________
+
+
+	Info Esencial de Funcionamiento:
+
+
+	Referencia: http://help.revisionfx.com/task/21/
+
+
+
+	Motion Vectors:
+	_______________
+
+	_Utilizamos el movimiento espacial de píxeles y no las coordenadas 3D o 3D normalizadas. Es decir, cada valor de píxel 
+
+	de la imagen de vector de movimiento debe representar el movimiento de un píxel dentro de un tiempo de trama, en el 
+
+	espacio de imagen.
+
+
+	_En nuestro sistema de coordenadas, el píxel inferior izquierdo representa el origen del sistema de coordenadas, (0,0), 
+
+	con el eje Y positivo apuntando hacia arriba. Esto significa que un valor vectorial de movimiento de (1,0,1,0) 
+
+	representa un movimiento de 1,0 píxeles en cada uno de X e Y hacia la esquina superior derecha de la imagen.
+
+
+	_Trabajar directamente con el movimiento de píxeles en el espacio de la pantalla elimina la necesidad de los productos 
+
+	de RE: Vision para necesitar la cámara 3D (perspectiva transformada). Esto evita la necesidad de reconstruir los 
+
+	detalles de cualquier sistema 3D particular. Por supuesto, significa que los productos RE: Vision actualmente están 
+
+	limitados al procesamiento en el espacio de píxeles (pantalla).
+
+
+	En cualquier trama particular en el tiempo hay dos conjuntos de vectores de movimiento a considerar: vectores de 
+
+	movimiento de la trama actual a la trama previa y vectores de movimiento de la trama actual a la trama siguiente. 
+
+	La mayoría de los sistemas 3D sólo le permiten exportar movimiento hacia atrás (a la trama anterior), por lo tanto 
+
+	no tienen capacidad para hacer movimiento para el primer fotograma de su secuencia.
+
+
+	Esperamos que los vectores de movimiento sean renderizados sin antialising; Al igual que zbuffers de un sistema 3D 
+
+	se prestan normalmente. Por ejemplo, si una sola esfera está siendo animada sobre un fondo negro, la imagen renderizada 
+
+	de COLOR en la silueta de la esfera va hacia el negro cuando el antialiasing está activado (así que obtendrá una bonita 
+
+	forma redondeada). ¿Deberían los vectores de movimiento ir hacia cero (el vector de movimiento equivalente de negro) 
+
+	en la silueta? Definitivamente no. Como tal, los renderizadores de vectores de movimiento de los sistemas 3D deben 
+
+	realizarse con antialiasing desactivado.
+
+
+
+
+	The Math: (los cálculos)
+	_________
+
+	_Presumimos en cada píxel que el vector de movimiento está representado por (dx, dy). ('D' para el desplazamiento). 
+
+	En una imagen vectorial de movimiento suponemos que el movimiento x se almacena en el canal rojo y el valor y se 
+
+	almacena en el canal verde. Cada uno de nuestros productos que se ocupan de los vectores de movimiento tiene un factor 
+
+	de escala, llamado MaxDisplace, que indica al producto cómo asignar el rango de valores de píxeles a los valores del 
+
+	vector de movimiento.
+
+
+	Por ejemplo, en 8pc trazamos el rango de valores de píxel (0, 254) a (-MaxDisplace, + MaxDisplace). Para imágenes 
+
+	de 16bpc, mapeamos el rango de valores de píxeles (0,65534) a (-MaxDisplace, MaxDisplace). Y para las imágenes en coma 
+
+	flotante (donde a menudo los canales de color están en el rango (0,1)), trazamos (-1,1) a (-MaxDisplace, + MaxDisplace).
+
+
+
+
+
+	Complement:
+	___________
+
+
+	¿Cuál debe ser el valor de MaxDisplace?
+
+
+	_Para imágenes vectoriales de movimiento de 8 bpc (bits por canal): Obsérvese que las imágenes de 8 bits por canal 
+
+	no deben usarse para vectores de movimiento a menos que haya movimiento pequeño (no más de +/- 32 píxeles de movimiento 
+
+	en x o y). Como tal, puede establecer el valor MaxDisplace en 32 para 8 imágenes bpc.
+
+
+	_16 bpc vector imágenes de movimiento: Por otro lado, 16 bpc imágenes pueden representar plenamente el movimiento 
+
+	con suficiente resolución de subpixel para la mayoría de los fines prácticos. Por ejemplo, puede representar vectores 
+
+	de movimiento que tienen 1024 píxeles en movimiento x o y con precisión de 1/32 de subpixel. Una regla de oro para 
+
+	16 archivos de movimiento bpc vector: casi siempre puede establecer con seguridad "MaxDisplace" a 2048. Hay 
+
+	la siguiente excepción: Para las imágenes con más de 2048 píxeles en un lado, y con el movimiento en la escena 
+
+	de más de 2048 Píxeles, debe utilizar la siguiente regla general: utilice la mayor dimensión de píxel de ancho o altura.
+
+
+	_Para imágenes en coma flotante: fije MaxDisplace a 2048 (aunque cualquier valor positivo lo hará).
+
+
+
+	¿Cómo se utiliza el canal alfa de las imágenes vectoriales de movimiento?
+
+
+
+	_El canal alfa representa la cobertura del movimiento; Es decir, el canal alfa designa el área de imagen que tiene 
+
+	vectores de movimiento válidos. En los píxeles en los que alfa es menor que full-on (255 para 8 bpc, 65535 para 16pbc, 
+
+	1,0 para float), los complementos RE: Vision Effects suponen que los vectores de movimiento no están definidos.
+
+
+
+	_Observe que hay una diferencia significativa entre los siguientes casos:
+
+
+	_1. No conocer la cantidad de movimiento de un píxel en particular (es decir, no hay ningún objeto representado 
+
+	en un píxel en particular); y,
+
+
+	_2. ajustar el vector de movimiento a (0,0) (es decir, sin movimiento) en un píxel determinado. Por ejemplo, 
+
+	ReelSmart Motion Blur se aprovecha de saber qué píxeles contienen vectores de movimiento válidos. Al saber qué píxeles 
+
+	contienen el movimiento de un objeto, nuestro proceso de desenfoque de movimiento en ReelSmart Motion Blur borra 
+
+	correctamente el movimiento fuera de un límite de objeto. El canal azul es más a menudo ignorado por los productos 
+
+	RE: Vision Effects (consulte cada producto para más detalles).
+
+
+	
+
+
+	Lo que debes saber de los cálculos detras de Motion Vectors:
+	____________________________________________________________
+
+
+	Referencia Online: http://revisionfx.com/faq/motion_vector_math/
+
+
+	_Asumimos que X es positivo que va de izquierda a derecha. Y el positivo Y designa el movimiento subiendo.
+
+
+	_Suponemos que la información vectorial X, Y está codificada en los canales rojo y verde de la imagen. Además, asumimos 
+
+	que la información vectorial ha sido normalizada de modo que tanto X como Y varían de -1 a 1, presumiblemente usando 
+
+	algún valor constante para dividir los valores de componente X e Y. Llamaremos a este valor de normalización el valor 
+
+	de desplazamiento máximo. El canal azul es a menudo ignorado.
+
+
+
+		8 bits per Channel:
+		___________________
+
+		_En 8 bits por canal, suponemos que -1 corresponde al valor de píxel de 0 y que +1 corresponde a 254. Hemos 
+
+		elegido asignar (-1, + 1) a (0,254) porque con este esquema podemos representar un 0 Desplazamiento con un valor 
+
+		de píxel de 127 (en un esquema que asigna (-1, + 1) a (0, 255), un valor de desplazamiento 0 corresponde 
+
+		al valor de píxel de 127,5, que no puede representarse exactamente).
+
+
+		_Por lo tanto, puede convertir vectores de movimiento de punto flotante X, Y a 8 bits rojo, valores verdes 
+
+		con el siguiente pseudo-código:
+
+
+
+			// We wish to map (-MaxDisplace, +MaxDisplace) to (0,254)
+
+			//First, map (-MaxDisplace to +MaxDisplace) to (0, 1)
+			float fred = ((x/MaxDisplace)+1)*0.5;
+
+			/* clamp values if needed */
+			if (fred<0) fred = 0;
+	                 if (fred>1) fred = 1;
+
+			* assign pixel value *
+			unsigned char red = fred*254.0 + 0.5; 
+			/* rounding is preferred to truncation, but this is your choice */
+	
+			* float fgreen = ((y/MaxDisplace)+1)*0.5;
+			if (fgreen<0) fgreen = 0;
+			if (fgreen>1) fgreen = 1;
+			unsigned char green = fgreen*254.0 + 0.5; 
+			/* rounding is preferred to truncation, but that's your choice */ 
+
+
+
+
+		16 bits per Channel:
+		____________________
+
+		_En 16 bpc, mapeamos (-MaxDisplace, + MaxDispalce) a (0, 65534) (nota: el máximo es 64434 y no 65535). 
+
+		Al guardar 16 bits por canal, las fórmulas se convierten en:
+
+
+
+			* // First, map -MaxDisplace to MaxDisplace to 0 to 1
+			float fred = ((x/MaxDisplace)+1)*0.5;
+
+			/* clamp values if needed */
+			if (fred<0) fred = 0;
+			if (fred>1) fred = 1;
+
+			/* assign pixel value */
+			unsigned short red = fred*65534.0 + 0.5;
+			/* rounding is preferred to truncation, but that's your choice */
+
+			* float fgreen = ((y/MaxDisplace)+1)*0.5;
+			if (fgreen<0) fgreen = 0;
+			if (fgreen>1) fgreen = 1;
+			unsigned short green = fgreen*65534.0+0.5. 
+
+
+
+
+		Floating Point:
+		_______________
+
+		_Para las imágenes en coma flotante, mapeamos (-MaxDisplace, + MaxDisplace) a (0,1). Al guardar imágenes 
+
+		en coma flotante las fórmulas se convierten en:
+
+
+
+			* // First, map -MaxDisplace to MaxDisplace to 0 to 1
+			float fred = ((x/MaxDisplace)+1)*0.5;
+			/* clamp values if needed */
+			if (fred<0) fred = 0;
+			if (fred>1) fred = 1;
+
+			* float fgreen = ((y/MaxDisplace)+1)*0.5;
+			if (fgreen<0) fgreen = 0;
+			if (fgreen>1) fgreen = 1 
+
+
+
+
+
+	Cómo se usa alfa en vectores de movimiento:
+	___________________________________________
+
+
+	Referencia Online: http://revisionfx.com/faq/motion_vector_alpha/
+
+
+
+	_RSMB Vectors asume que la información vectorial en un píxel particular no es válida si el canal alfa en la imagen 
+
+	de vector de movimiento es menor que full-on en un píxel particular. Tenga en cuenta que las imágenes de fuentes 
+
+	transparentes (no las imágenes de vectores de movimiento) se borrarán correctamente, porque el alfa para la fuente 
+
+	de color es independiente del alfa para la secuencia de imágenes vectoriales de movimiento.
+
+
+	_Es importante establecer los valores de alfa a full-on para las imágenes vectoriales de movimiento en las que se sabe 
+
+	que los vectores de movimiento son válidos. Las áreas de la imagen vectorial de movimiento en la que los vectores 
+
+	de movimiento no se conocen (o se sabe que son malas) deberían tener el valor alfabético cero o cualquier otro valor 
+
+	que no sea full-on. Es importante clasificar cada píxel en el archivo vectorial de movimiento como bueno o malo para 
+
+	que los vectores RSMB funcionen correctamente. Por ejemplo, al renderizar vectores de un sistema de animación 3D 
+
+	es útil establecer el canal alfa para el mismo canal alfa que se utiliza para componer el elemento.
+
+
+	_Por ejemplo, digamos que tenemos la siguiente imagen creada a partir de un sistema de animación. Digamos que tenemos 
+
+	la siguiente imagen creada a partir de un sistema de animación.
+
+
+	_Incorrect Motion Creación de vectores: Áreas de movimiento desconocido de datos vectoriales establecidas 
+
+	en desplazamiento (0,0).
+
+
+	_Correct Motion Creación de vectores: Alfa de áreas de datos vectoriales desconocidos establecidos en 0.
+
+	
+	_Animación borrosa con la imagen de vector de movimiento por encima en ReelSmart Motion Blur. Las áreas con 
+
+	desplazamiento (0,0) no se borran. Como tal, observe los bordes ásperos alrededor de la mano y del pie derecho.
+
+
+	_Animación borrosa con el archivo vectorial. Las áreas donde la información vectorial no conocida se borran ahora 
+
+	de manera apropiada.
+
+
+

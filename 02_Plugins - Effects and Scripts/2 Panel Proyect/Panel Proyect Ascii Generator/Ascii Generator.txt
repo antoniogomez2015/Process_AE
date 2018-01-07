@@ -1,0 +1,33 @@
+
+
+http://aescripts.com/ascii-generator/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Ascii
+
+
+	Panel Proyecto/Ascii
+
+
+		-éste nos permite generar diferentes tipos de estilos especiales para tipografías
+
+
+		_para ésto, debemos crear una layer, de texto la cuál, debemos seleccionar e ir al panel
+
+		AsciiGenerator
+
+
+		_en el cuál, tendremos que seleccionar un estilo en las opción de "Font", para leugo darle
+
+		ha "Generate", de ésta manera se aplicará el estilo respectivo al texto la layer, de texto
+
+		seleccionada
+
+
+		_éste efecto ó estilo no es animable a través, de las opciones de éste plugins
+	

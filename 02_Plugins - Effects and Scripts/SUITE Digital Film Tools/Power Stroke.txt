@@ -1,0 +1,276 @@
+
+
+
+
+	http://www.digitalfilmtools.com/powerstroke/
+
+
+	
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá hacer correcciones selectivas tanto de color, tono, saturación, gama, 
+
+		RGB, temperatura, desenfoques, efectos, otros, de elementos y layers, complejas
+
+
+		_a través, de la selección de áreas a través, de la utilización de máscaras nativas de after effects
+
+
+		NOTA: es recomendable llevar un orden en las máscaras creadas a través, de un esquema de colores, 
+
+		por ejemplo; las máscaras del área interna podrían ser azules, mientras que las máscaras del área
+
+		externa podrían ser verdes, así, como también, éstas máscaras podrían llevar un nombre descriptivo
+
+
+
+
+
+
+	Workflow:
+	_________
+
+
+		-primero seleccionamos la layer, a la cuál, deseamos aislar un área determinada y con esta layer,
+
+		seleccionada vamos ha "Effects/Digital Film Tools/", y aplicamos el efecto "Power Stroke"
+
+
+		_luego seleccionamos la layer, a la cuál, deseamos ailar un área determinada y con esta layer,
+
+		seleccionada procedemos a crear una máscara sobre ésta, dicha máscara debe quedar por dentro del 
+
+		contorno interno del área que deseamos aislar, es decir, que la máscara quede dentro del área
+	
+		de interés de extraer
+
+
+		_luego creamos otra máscara en la layer, que deseamos aislar un área determinada, esta nueva máscara
+
+		debe quedar más allá de el área ó contorno externo del área que deseamos aislar ó extraer		
+
+
+		_ahora vamos a las opciones del plugins, y en: 
+
+
+			Adjust 1:
+
+				_Mask:
+
+					_y allí, seleccionamos la máscara interna del área de interés
+		
+			
+
+
+		_luego vamos a las opciones de "Ajust", y seleccionamos la "Mask", que corresponda al área
+
+		interna ha aislar ó extraer
+
+
+		_luego procedemos a hacer los ajustes deseados, sean éstos de color, brillo, gama, otros
+
+		así, como de efects, blur, otros
+
+
+		de esta manera, podremos ver que los ajustes y efectos sólo se aplican al área que hemos extraido
+
+		ó aislado de la demás área de la imágen
+
+
+
+
+
+	Power Stroke:
+	_____________
+
+
+		Force Update:
+
+			_ésta opción forzará la actualización del efecto mientras vayamos realizando cambios
+
+
+
+		_Adjust 1,...10:
+
+
+			_Mask:
+
+				_ésta opción nos pemritirá seleccionar una máscara la cuál, de área de reserva para
+
+				la aplicación del efecto
+
+
+				NOTA: ésta máscara deberá estar dentro del área perimetral del área de interés
+
+
+			_Hue:
+
+				_ésta opción nos permitirá hacer virados de color del área de interés seleccionada
+
+
+			_Saturation:
+
+				_ésta opción nos permitirá hacer ajustes en la saturación en el área interés 
+
+				seleccionada
+
+	
+			_Brightness:
+
+				_ésta opción nos permitirá hacer ajustes en el brillo en el área interés seleccionada
+
+
+			_Contrast:
+
+				_ésta opción nos permitirá hacer ajustes en la saturación en el área interés 
+
+				seleccionada
+
+
+			_Gamma:
+
+				_ésta opción nos permitirá hacer ajustes en la gama ó tonos medios del área interés 
+
+				seleccionada
+
+			_Red:
+
+				_ésta opción nos permitirá hacer ajustes ó virados en canal de los rojos en el área 
+
+				interés seleccionada
+
+
+			_Green:
+
+				_ésta opción nos permitirá hacer ajustes ó virados en canal de los verdes en el área 
+
+				interés seleccionada
+
+
+			_Blue:
+
+				_ésta opción nos permitirá hacer ajustes ó virados en canal de los azules en el área 
+
+				interés seleccionada
+
+
+			_Temperature:
+
+				_ésta opción nos permitirá hacer ajustes en el color general ó temperatura del color
+
+				en el área interés seleccionada
+
+
+			_Cyan/Magenta:
+
+				_ésta opción nos permitirá hacer ajustes ó virados en los tonos ó matizes de los 
+
+				cyanm y magenta, en el área interés seleccionada
+
+
+			_Effects:
+
+				_(Indeterminado)
+
+
+
+		Colorize:
+
+
+			_Mask 1,..20:
+
+
+				_Color:
+
+					_ésta poción nos permitirá colorizar rápidamente y mucho más fácilmente el 
+
+					área seleccionada ó el área inversa de la segunda máscara perimetral
+
+
+				_Opacity:
+
+					_ésta opción nos permitirá controlar la opacidad ó influencia del efecto de
+
+					colorización sobre un área determinada seleccionada
+
+
+		_Blur:
+
+			_Amount:
+
+				_(Indeterminado)
+
+
+
+		_Fill Light:
+
+
+			_Brightness:
+
+				_(Indeterminado)
+
+
+			_Position:
+
+				_(Indeterminado)
+
+
+			_Range:
+
+				_(Indeterminado)
+
+
+
+		_Diffusion/Glow:
+
+
+			_Amount:
+
+				_(Indeterminado)
+
+
+			_Color:
+
+				_(Indeterminado)
+
+
+			_Blend:
+
+				_(Indeterminado)
+
+
+			_Position:
+
+				_(Indeterminado)
+
+
+			_Range:
+
+				_(Indeterminado)
+
+
+
+		_Options:
+
+
+			_Link Masks:
+
+
+				_Mask Color:
+
+					_(Indeterminado)
+
+
+				_Mask Name:
+
+					_(Indeterminado)
+

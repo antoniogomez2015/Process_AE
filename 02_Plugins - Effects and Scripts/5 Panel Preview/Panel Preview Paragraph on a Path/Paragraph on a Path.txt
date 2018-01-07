@@ -1,0 +1,53 @@
+
+
+http://aescripts.com/paragraph-on-a-path/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/Paragraph on a Path:
+
+
+
+	_éste permite crearle un path, de animación así, como también, propiedades especiales de animación
+
+	y loops, entres otras opciones controladas por una serie de controles ha modos de efectos, y expresiones
+
+
+	
+	Workflow:
+	_________
+
+
+	_primero debemos de tener creada una composición de trabajo
+
+
+	_luego debemos de tener creado un párrafo de texto
+
+
+	_para luego con el párrafo deseado seleccionado ir al panel "Paragraph on a Path", y hacer 
+
+	"Paragraph on a Path", para que así, los controles de animación sean agregados a la misma layer, de párafo
+
+	de texto
+
+
+	_ahora debemos ubicar las propiedades de "position", de nuestro párrafo de texto y animar ésta propiedad a 
+
+	través, del tiempo en nuestro timeline, para generar así, un path, de animación ya que ahora el párrafo de 
+
+	texto será tomado como una capa normal
+
+
+	_y así, luego de que tengamos ya la capa animada podremos ahora hacer manos de las opciones del panel de 
+
+	control de efectos para controlar el comportamiento de animación del párrafo sobre el trazado de animación
+
+	entre otras opciones de animación
+
+
+
+	

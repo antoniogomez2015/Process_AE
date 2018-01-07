@@ -1,0 +1,135 @@
+
+
+
+
+	FT UV Pass
+		The Power of UV Passes in After Effects
+			https://www.youtube.com/watch?v=5s6Hf68TE34
+
+
+	Official Site:
+
+		http://revisionfx.com/
+
+			http://revisionfx.com/products/
+
+	
+		YouTube Channel:
+
+			https://www.youtube.com/user/revisionfx/playlists
+	
+		
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+DE:Flicker:
+__________
+
+	_la serie de plugins, "DE:Flickers", nos permitirá eliminar el efecto estroboscópicos en videos el cuál, puede 
+
+	producirse por deferentes causas en un video	
+
+
+	_así, disponemos de tres variantes de éste plugins, las cuales son;
+
+
+		DE:Flicker High Speed:
+		______________________
+
+			_la versión del plugins, "DE: Flicker High Speed", especialmente útil para el flicker, ocacionado 
+			
+			por la cámara y ruido de fondo de alta velocidad
+
+
+		DE:Flicker Auto Levels:
+		_______________________
+
+			_la versión de plugins, "DE: Flicker Auto Levels", especialmente útil para flicker, producido por 
+
+			flashes, e intermitencias de iluminación general en la escena, entre otras posibilidades similares
+
+
+		DE:Flicker TimeLapse:
+		_____________________
+
+			_la versión de plugins, "DE: Flicker TimeLapse", especialmente útil para flicker, producido por sombras 
+
+			en la escena, elementos inesperados, cambios de ambiente, secuencias grabadas en "TimeLapse", cambios 
+
+			de iluminación, lluevia inesperada, y similares
+
+
+
+	
+--------------------------------------------------------------------------------------------------------------------------
+
+DE:Noise:
+________
+
+	_el plugins, de noise, nos permitirá eliminar el riudo producido en videos antiguos como los grabados en 
+
+	situaciones extremas y de poca iluminación ó en cámaras con resoluciones muy bajas, otros
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+DE: Fieldskit Deinterlacer:
+___________________________
+
+	_la serie de plugins, de "DE: Fieldskit", nos permitirá modificar los campos de un material archivos, gestionar,
+
+	crear, ó eliminar éstos entre otras posibilidades, de ésta manera, podremos obtener material progresivo ó entrelazado
+
+
+
+		DE: Fieldskit Deinterlacer:
+		___________________________
+
+			_el plugins, "DE Fieldskit Deinterlacer", nos permitirá desentrelazar material entrelazado a material 
+
+			progresivo de alta calidad que otros sistemas estandars
+
+
+		DE: Fieldskit Reinterlacer:
+		___________________________
+
+			_el plugins, "DE Fieldskit Reinterlacer", nos permitirá crear material de archivo entrelazado a partir
+
+			de material progresivo a través, de diferentes técnicas como por ejemplo la estimación de movimiento
+
+
+		DE: Fieldskit Pulldown:
+		_______________________
+
+			_el plugins, "DE Fieldskit Pulldown", nos permitirá hacer variaciones en la cadencia de fotogramas del
+
+			material de archivo de ésta manera, podremos acoplar el material de archivos a nuestras necesidades
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+		
+
+RE: Motion Vectors Create:
+__________________________
+
+
+	_éste efecto nos permitirá generar un mapa especial a través, del cuál, podremos aumentar el realismo, profundidas ó
+
+	tridimensionalidad de los elementos en una escena por medio de éste mapa que podremos generar para diferentes procesos
+
+	de producción avanzada
+	
+	
+
+
+

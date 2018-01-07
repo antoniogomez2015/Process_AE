@@ -1,0 +1,130 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/utility-effects.html#grow_bounds_effect
+
+				https://helpx.adobe.com/es/after-effects/using/color-management.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+		Tutorial:
+
+			Extender limites de los objetos (Grow bounds) - After effects para principiantes
+				https://www.youtube.com/watch?v=qa8pdgAn-cY
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_éste efecto de forma práctica nos permitirá restringir ó extander los niveles ó rango dinámico de una imágen
+
+	sea ésta imágen HDR, ó no
+
+
+	_El efecto HDR Compander (compresor/expansor) le proporciona un modo de trabajar con herramientas que no 
+
+	admitan color de alto rango dinámico, como efectos de 8 bpc y 16 bpc, sin sacrificar el alto rango dinámico 
+
+	del material de archivo.
+
+
+	_El efecto HDR Compander funciona comprimiendo en primer lugar los valores de resaltado de la imagen HDR 
+
+	para que entren en el rango de una imagen de 8 bpc o 16 bpc (rango dinámico bajo) y, a continuación, 
+
+	expandiendo de nuevo los valores al rango de 32 bpc.
+
+
+	_Aplique el efecto HDR Compander a una capa una vez en la lista de efectos sobre los efectos de rango 
+
+	dinámico bajo y una vez bajo de los efectos de rango dinámico bajo.
+
+
+	_Puesto que la primera instancia del efecto HDR Compander, comprime el rango de valores a través de muestreos,
+
+	se pierde algo de precisión. Por ello, utilice el efecto HDR Compander únicamente si desea equilibrar algo 
+
+	de precisión en los valores para garantizar un rango dinámico alto.
+
+
+	_Este efecto funciona con color de 8 bpc, 16 bpc y 32 bpc.
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	HDR Compander: (HDR Compander)
+	______________
+
+
+		_Mode:
+
+
+			_Compress Range:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos comprimir los niveles
+
+				de la imágen ó su rango dinámico, comprimiendo así, los tonos negros
+
+			
+			_Expand Range:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos expandir los niveles
+
+				de la imágen ó su rango dinámico, comprimiendo así, los tonos blancos
+
+
+
+		_Gain:
+
+			_ésta opción nos permitirá indicarle al sistema que comprima los niveles sea los negros ó 
+
+			los blancos de la imágen para que así, ésta se adapte a las necesidades de producción
+
+
+		_Gamma:
+
+			_ésta opción nos permitirá indicarle al sistema que comprima la gamma tonal sea los negros ó 
+
+			los blancos de la imágen para que así, ésta se adapte a las necesidades de producción
+
+
+
+
+
+
+
+
+
+
+
+
+
+

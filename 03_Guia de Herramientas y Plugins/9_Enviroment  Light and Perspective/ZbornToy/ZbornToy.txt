@@ -1,0 +1,63 @@
+
+
+
+
+ZbornToy
+
+
+	Referencia:
+
+		ZbornToy - Treemare
+
+			https://www.youtube.com/watch?v=HOWiuLl5aeY
+
+			http://www.frischluft.com/zborntoy/index.php
+
+
+
+Detalles: los siguientes plugins son de la casa "http://www.frischluft.com/", éstos se encuentran dentro del sistema en:
+
+
+	_"Effects/frischluft/.."
+
+	_"Effects/minning.de Normality/Normality"
+
+	_"Effects/Taronites/NormaliZe, y ZbornToy"
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste nos permite hacer sistemas de volumetrías avanzadas a través, de una "depth map", más éste no puede ser
+
+	generado artificialmente por ej proceso, por ejemplo de; "Buena Depth Cue/Depth", si no que debe de tener 
+
+	información de "depth map", generado en una aplicación 3d, como zbrush, 3d max, cinamd 4d, otros
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer 
+
+	
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+	_(todo aparenta que hay incompatibilidad con la tarjeta de video)
+
+

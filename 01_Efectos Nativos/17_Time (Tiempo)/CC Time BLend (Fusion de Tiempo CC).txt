@@ -1,0 +1,208 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/text-effects.html#numbers_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_¡Precaución! El principio de este efecto contradice el diseño de After Effects y varios tipos de problemas 
+
+	pueden ocurrir al usarlo. Lea las instrucciones cuidadosamente para prevenir los problemas más comunes.
+
+	Time Blend, es un efecto de eco que acumula cada cuadro renderizado en un buffer. 
+
+
+	_La capa fuente, incluido cualquier efecto aplicado antes de Time Blend, dejará un desvanecimiento sendero 
+
+	en la salida. La capa fuente debe tener algún tipo de conjunto de animación, para ejemplo de escala, posición 
+
+	o rotación pre-compuesta. 
+
+
+	_La capa fuente también puede ser una película o un efecto animado en la capa fuente, por ejemplo, un sistema
+
+	de partículas. de ésta manera, podremos controlar cuánto acumular así como si el camino debe ser mezclado o 
+
+	compuesto, dispondremos de varias opciones de composición para elegir.
+
+
+	Notas: Como Time Blend, acumula cada fotograma procesado, no es posible dar un paso en la línea de tiempo para
+
+	obtener una vista previa del resultado en ese momento. 
+
+
+	_La representación debe tomar colocar de una manera secuencial. Como AE guarda en caché los fotogramas para 
+
+	ahorrar tiempo de renderizado,
+
+
+	_Es posible que Time Blend, no obtenga toda la información requerida, incluso cuando se renderiza secuencial. 
+
+	Para asegurarse de que el almacenamiento en caché no codifica la secuencia de entrada, debe siempre borre 
+
+	manualmente todo el caché antes de renderizar las vistas previas o el resultado final. 
+
+
+	_El buffer, de acumulación no puede cambiar de tamaño sin borrar su contenido. Para evitar perder el 
+
+	camino acumulado es necesario restringir el uso de efectos que dinámicamente cambiar el tamaño de la capa 
+
+	fuente, desenfoque rápido, o en ese caso aplique Time Blend, a un ajuste capa en su lugar.
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+	
+
+	CC Time BLend: (Fusion de Tiempo CC)
+	______________
+
+
+		_CLear:
+
+			_No hay cuadro de diálogo Opciones para "Time Blend/Clear", en la parte superior de la 
+
+			interface, En cambio, hacer clic aquí simplemente borrar el buffer de acumulación Time Blend.
+
+			_Hay dos opciones para borrar el budffer, y a parte de ésta dispondemos de las opciones de
+
+			Clear To.
+
+
+
+		_Transfer:
+
+
+			_Intro: utilice este menú emergente para seleccionar cómo se compone el búfer de acumulación 
+
+			con el frame, actual. Estas son las opciones disponibles:
+
+
+
+			_Blend:
+
+				_Este frame, se mezcla con el buffer de acumulación.
+
+
+			_Composite Over:
+
+				_Este frame está compuesto sobre el buffer de acumulación.
+
+
+
+			_Composite Under:
+
+				_Este frame, está compuesto bajo el buffer de acumulación
+
+
+
+			_Mix:
+
+				_ésta opción nos permitirá seleccionar la gran mayoría de modos de fusión disponibles
+
+				de forma nativa por el sistema de la aplicación, ej: add, screen, overlay, softlight
+
+
+			_Luminocity:
+
+				_ésta opción nos permitirá indicarle al sistema que utilize la luminocidad para la
+
+				conformación del buffer
+
+
+			_Blend Classic:
+
+				_Este frame, se mezcla con el buffer de acumulación, de una forma más estable y
+
+				predecible así, como también, activa las opciones de "Clear To"
+
+
+			_Composite Over Classic:
+
+				_Este frame está compuesto sobre el buffer de acumulación, de una forma más estable 
+
+				y predecible
+
+
+			_Composite Under CLassic:
+
+				_Este frame, está compuesto bajo el buffer de acumulación, de una forma más estable 
+
+				y predecible
+
+
+		_Accumulation:
+
+			_Use este control para determinar cuánto debe retener el buffer de acumulación cada frame, 
+
+			Los valores más altos crean recorridos más largos
+
+
+
+		_Clear To:
+
+			_Intro: Este control solo tiene efecto cuando se selecciona la opción de "Transfer/Blend",
+
+			en el control de Transferencia
+			
+
+			_Transparent:
+
+				_Borra el buffer de acumulación a transparente.
+
+
+
+			_Curent Frame:
+
+				_Carga el buffer de acumulación con el frame actual			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

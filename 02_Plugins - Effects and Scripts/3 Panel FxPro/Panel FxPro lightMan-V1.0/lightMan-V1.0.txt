@@ -1,0 +1,30 @@
+
+
+http://aescripts.com/lightman/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+panel FxPro / lightMan-V1.0
+
+
+	lightMan-V1.0
+
+
+	-este nos permite crear crear Lights, de forma controlada dentro de la escena, especialmente
+
+	para iluminar elementos 3d, aunque sirven para la iluminacion general de todo tipo de capas
+
+
+	-es altamente recomendable utilizar este workflow, para crear lights, a nivel general por que
+
+	al crear lights, podemos podemos posicionarlas a traves, de una vista a traves, de la luz, 
+
+	que vamos ha crear asi, como configurar su intensidad, vista en off, solo, casts shadows, 
+
+	cone angle
+
+	

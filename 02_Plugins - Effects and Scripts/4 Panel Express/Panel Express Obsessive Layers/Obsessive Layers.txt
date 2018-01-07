@@ -1,0 +1,84 @@
+
+
+http://aescripts.com/obsessive-layers/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express/ Obsessive Layers
+
+
+	Obsessive Layers:
+
+
+	-este nos permite editar la longitud de las layers, a través, de diferentes parámetros ó criterios lo
+
+	cuál, es especialmente útil para diferentes procesos de edición y ajuste de las layers
+
+
+
+	Trim Layers to Keyframes:
+	_________________________
+
+	_ésta opción nos permite ajustar la longitud de una layer, a través, de la longitud tomada por los keyframes,
+
+	existentes en ésta sin importar la propiedad animada
+
+
+	_ésto quiere decir que si una layer, tiene keyframes, desde el frame, 30, hasta el frame, 60, entonces la 
+
+	layer, tomará la duración de entre los frames 30-60
+
+
+	_para ésto, debemos seleccionar la layer, ó las layers, ha ajustar y con éstas seleccionadas vamos al panel 
+
+	"Obsessive Layers", y hacemos "Trim Layers to Keyframe", para que así, la longitud de las layers, seleccionadas
+
+	sean ajustadas
+
+
+
+
+
+	Trim Layers to Matte:
+	_____________________
+
+	_de ésta manera, podremos variar ó ajustar la longitud de una layer, a través, de una layer, que haga de matte,
+
+	ó mate de luminancia de ésta
+
+
+	_así, si la layer, que hacer  de matte, tiene un longitud limitada la layer, original ó a la cuál, se le ha realizado
+
+	el mate tomará ahora la longitud de la layer, que hacer de mate la cuál, está limitada en su longitud
+
+
+	_para ésto, debemos seleccionar la layer, ó las layers, ha ajustar y con éstas seleccionadas vamos al panel 
+
+	"Obsessive Layers", y hacemos "Trim Layers to Matte", para que así, la longitud de las layers, seleccionadas sean 
+
+	ajustadas
+
+
+
+	Trim Layers to Parent:
+	______________________
+
+	_así, como también, podremos ajustar ó variar la longitud de una ó más layers, la cuales estén emparentadas ha otra
+
+	layer, la cuál, tenga su longitud limitada
+
+
+	_para ésto, debemos seleccionar la layer, ó las layers, ha ajustar y con éstas seleccionadas vamos al panel 
+
+	"Obsessive Layers", y hacemos "Trim Layers to Parent", para que así, la longitud de las layers, seleccionadas sean 
+
+	ajustadas
+
+
+
+
+

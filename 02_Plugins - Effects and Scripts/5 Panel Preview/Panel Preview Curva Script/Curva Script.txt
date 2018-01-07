@@ -1,0 +1,50 @@
+
+
+http://videohive.net/item/curva-script-premium-after-effects-script/8694469?s_rank=52
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/Curva Script:
+
+
+
+	_éste permite hacer el efecto de "write on", ó efecto de escritura a través, de layers, de shape, ó forma
+
+	permitiendo así, una fácil transición y animación de éstas para hacer que éstas aparezcan de forma 
+
+	progresiva en el entorno, ésto especialmente útil para todo tipo de formas como también, para textos que
+
+	han sido convertidos ha capas de forma previamente
+
+
+
+	
+	Workflow:
+	_________
+
+
+	_primero debemos de tener creada una composición de trabajo
+
+	
+	_así, como también, una respectiva layer, de shape, personalizada
+
+
+	_para luego entras a las opciones de contenido de ésta respectiva layer, de forma y seleccionar el "Path",
+
+	de ésta para luego, con éste seleccionado ir al panel "Curve Script", y darle a la opción de "Animate!"
+
+
+	_de ésta manera nos aparecerá un panel en el cuál, podremos ajustar los criterios de la animación e indicar
+
+	los puntos donde comenzará la animación entre otros factores
+
+
+	_de ésta manera se generará la animación la cuál, podremos ver y ajustar en el timeline
+
+	
+
+	

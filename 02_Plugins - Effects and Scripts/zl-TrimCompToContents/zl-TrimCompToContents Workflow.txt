@@ -1,0 +1,14 @@
+
+
+AEScrips zl-TrimCompToContents
+
+
+
+	-este escrip realiza reconfiguraciones de la duracion del proyecto en relacion a las layers
+
+	seleccionadas en el timeline
+
+
+	-esto permite disminuir o incrementar la duracion de la composicion bajo diferentes criterios
+
+	tanto de seleccion como de especificacion en el panel 'zl-TrimCompToContents'

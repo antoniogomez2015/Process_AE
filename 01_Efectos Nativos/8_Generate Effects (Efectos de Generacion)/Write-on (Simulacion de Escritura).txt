@@ -1,0 +1,177 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria crear simulaciones de recorridos de trazados a través, de la generación de un
+
+	contorno ó stroke, ó línea la cuál, se irá generando a través, del tiempo en relación a la posición y forma
+
+	del path, ó trazado respectivo
+
+
+	_lo cuál, es especialmente útil para un sin número de procesos de paso contínuo y de producción
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Write-on: (Simulacion de Escritura)
+	_________
+
+
+		_Brush Position:
+
+			_ésta opción nos permitirá a través, de un target, poder animar directa ó indirectamente la
+
+			posición del trazado ha animar el cuál, está conformado de un color sólido para diferentes
+
+			acciones y procesos como revelado ha modo de mates, motion graphycs, constructivismo visual
+
+			otros
+
+
+		_Color:
+
+			_ésta opción nos permitirá indicar un color para el sistema el cuál, será un color sólido
+
+
+		_Brush Size:
+
+			_ésta opción nos permitirá variar el grosor del trazado pudiéndo así, aumentar ó disminuir
+
+			el grosor ó espesor de éste
+
+
+		_Brush Hardness:
+
+			_ésta opción nos permitirá variar la acutancia ó definición en los bordes de los trazados
+
+			generados de ésta manera, podremos crear efectos más integrados con las demás layers,
+
+			existentes en la escena y con la propia layer, sobre la cuál, se ha aplicado el sistema
+
+			como también, la creación de efectos luminicentes entre otros procesos de producción y
+
+			paso contínuo
+
+
+		_Brush Opacity:
+
+			_ésta opción nos permitirá graduar la opacidad del sistema pudiendo así, integrar mejor
+
+			el sistema con el resto de layers, existente en la respectiva composición
+
+
+		_Stroke Length (Sec):
+
+			_duración en segundos de cada marca de pincel, si este valor es 0, la marca de pincel tiene 
+
+			una duración ilimitada. Use un valor único, constante y distinto de cero para que el trazo 
+
+			tenga un movimiento serpenteante. Anime este valor para que el trazo se expanda y se contraiga
+
+
+		_Brush Spacing (Sec):
+
+			_intervalo de tiempo, en segundos, entre las marcas del pincel. Los valores pequeños producen 
+
+			trazos de pintura más suaves, pero tardan más tiempo en procesarse
+
+
+		_Paint Time Properties:
+
+			_determina si las propiedades de la pintura y de los pinceles se aplican a cada marca del pincel 
+
+			o a todo el trazo. Seleccione Ninguna para aplicar los valores cada vez a todas las marcas de 
+
+			pincel del trazo. Seleccione un nombre de propiedad para que cada marca de pincel conserve el 
+
+			valor que tenía dicha propiedad cuando se dibujó la marca de pincel. Por ejemplo, si elige Color, 
+
+			cada marca de pincel conserva el color especificado mediante el valor de color en el momento en 
+
+			que se dibujó la marca
+
+
+		_Brush Time Properties:
+
+			_ésta opciones nos permitirá hacer variaciones automáticas a través, del tiempo de ciertas 
+
+			propiedades que podremos activar en relación a la brush, ó brocha de pintura las cuáles son:
+
+
+				_Color, Opacity, None
+
+
+			_de ésta manera, configurar los parámetros que deseamos incluir en las variaciones automáticas
+
+			del sistema
+
+
+		_Paint Style:
+
+			_éstas opciones nos permitirán seleccionar el tipo de criterio de renderización del sistema el
+
+			cuál, le permitirá integrarse a las demás layers, de respectiva composición de una manera ó de
+
+			otra en relación al tipo de proceso ó producción deseada
+
+
+			_de ésta manera, dispondremos de los siguientes métodos de salida del sistema:
+
+
+				_On Original Image:
+
+					_ésta opción creará el sistema a través, de su color de relleno asignado sobre
+
+					la layer, base sobre la cuál, fué aplicado el sistema
+
+
+				_On Transparent:
+
+					_ésta opción creará el sistema en modo mate, ocualtando así, la layer, base 
+
+					dejando visible el sistema a través, de su color asignado
+
+
+				_Reveal Original Image:
+
+					_ésta opción creará el sistema ha modo de máscara ó mate, revelando así, la 
+
+					imágen base, a través, de la generación del sistema 
+
+					
+
+		
+
+
+

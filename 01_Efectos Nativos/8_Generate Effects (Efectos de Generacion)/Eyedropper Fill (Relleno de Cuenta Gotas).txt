@@ -1,0 +1,90 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiriá muestrear un color del viewport,  de ésta manera, podremos obtener para diferentes
+
+	procesos de producción y animación así, como para la consecución de efectos especiales, otros
+
+
+	_así, podremos muestrear colores de imágenes y composiciones determinadas y animar éstos valores ó utilizarlos
+
+	para el sampleo de color de otros elementos y selectores y sistemas de color
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Eyedropper Fill (Relleno de Cuenta Gotas)
+	________________
+
+
+		_Sample Point:
+
+			_ésta opción nos permitirá indicar el punto exacto a muestrear de ésta manera, podremos 
+
+			muestrear áreas concretas de una imágen a través, del tiempo de ser necesario
+
+
+		_Sample Radius:
+
+			_ésta opción nos permitirá indicar la cantidad de área a la vez muestreada, de ésta manera, 
+
+			podremos muestrear un área mínima de pixeles, para tener más exactitud ó un área más grande
+
+			para un resultado de color más ponderado de una área más grande de pixeles muestreados a la 
+
+			vez
+
+
+		_Average Pixel Colors:
+
+			_ésta opción nos permitirá indiar el tipo de criterio que utilizará el sistema para el muesrteo 
+
+			de color de ésta manera, podremos indicar diferentes criterios de acción los cuáles, son similares
+
+_
+
+		_Maintain Original Alpha:
+
+			_ésta opción mantendrá y respetará el canal alpha, existente en la layer, original
+
+
+		_Blend Width Original:
+
+			_ésta opción nos permnitirá integrar el sistema con la layer, base sobre la cuál, se ha aplicado el 
+
+			efecto
+
+
+
+

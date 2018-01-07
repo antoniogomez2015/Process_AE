@@ -1,0 +1,407 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá hacer tanto virados de color como ajustes y cambios de color y a diferencia de
+
+	los efectos de "Color Balance", y "Change Color"
+
+
+	_en el efecto de "Colorama", podremos hacer virados y efectos de color como ajustes a través, de la 
+
+	conversión de la respectiva imágen en una escala de grises como un canal entrante 
+
+
+	la cuál, servirá de información para el canal de salida, por medio de una conversión ó interpolación ha una
+
+	diana de colores ó sub-canales 
+
+
+	_la cuál, podremos personalizar, tanto en la cantidad de canales que ésta dispone así, como también, del 
+
+	color y la gama de colores en general que tendrá ésta diana de colores resultantes
+
+
+	_y ésta diana de colores obedece a los criterios de conversión siguientes:
+
+
+		_primeramente ésta codificará la conversión de escala de grises del canal ó phase, de entrada ha 
+
+		colores a partir de la rotación de las agujas del reloj, a través, del siguiente orden:
+
+
+			_donde el punto inicial será el color base el cuál, se encuentra en la parte de más arriba y 
+
+			central de la diana de color
+
+
+			_y que a su vez, éste punto, ó sub-canal de la diana representará las áreas con menor 
+
+			luminancia de la escena ó imágen y los tonos más oscuros del canal ó phase, de entrada ya 
+
+			que esta representación en escala de grises obedece a un mapa de densidad por inversión en 
+
+			escala de grises ó negros y blancos
+
+
+			_y los demás tonos de la escala de grises del canal ó phase, de entrada serán convertidos a
+
+			colores en relación a cantidad de sub-canales ó colores que haya en la diana de color
+
+
+			_donde los respectivos colores se crearán tomando información de la escala de grises del canal
+
+			ó phase, de entrada a partir de los colores más negros de ésta hasta lo colores más claros de 
+
+			forma gradual ó gradada 
+
+
+			_siguiendo la dirección de las agujas del reloj, en la diana de colores de salida
+
+
+
+	_de ésta manera, podremos asignar cuantos colores necesitemos en la diana de color de salida ó de colores 
+
+	resultantes sobre la imánge final
+
+
+	_así, como ampliar la gamma, alcance ó influencia de cada cada color desplazando el punto de represnetación de
+
+	ésta en la diana de colores lo que hará que los colores se presenten con más gradación ó acutancia entre éstos
+
+
+	_variando ó virando así, los colores como también, podremos cambiar los colores de cada sub-canal directamente
+
+	y animar todos éstos parámetros al unísono lo cuál, nos permite un sin número de posibilidades
+
+
+	_de ésta manera, podremos ver que éste efecto nos permitirá hacer ciertos ajustes y dominantes de color sobre
+
+	una imágen 
+
+
+	_pero sobre todo es especialmente útil para el virado y desface ó desplazamiento de colores animados e incluso 
+
+	es hasta más efectivo que el efecto de simulación "Style/Mr Smoothie"
+
+
+	_como también, es especialmente útil para el contructivismo visual para la creación de fondos degradados y 
+
+	fondos "sin fin", otros
+
+
+	_como también, para la creación de motion graphycs, y contextos abstractos entre otras muchas posibilidades
+
+	dentro del proceso de producción y efectos de paso contínuo
+
+
+	_otra de las funciones más útiles que presenta éste efecto es la creación de mattes, y alphas, personalizados
+
+	al tener la posibilidad de filtrar colores de salida ha blancos y negros y jugando con la acutancia y 
+
+	desplazamiento de éstos
+
+
+	_como también, en el mismo ámbito para la creación de depth map, al poder así, variar la densidad de blancos y
+
+	negros en relación a los planos y la escala de grises del canal ó phase, de entrada
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Colorama: (Colorama)
+	_________
+
+	_Get Phase From:
+
+		_ésta opción nos permitirá seleccionar al criterio ó algoritmo de trabajo ó acción a través, del cuál,
+
+		se extraerá la información que será convertida a escala de grises ó mapa de densidad
+
+
+		_de ésta manera, disponemos de los siguientes criterios, parámetros ó algoritmos:
+
+
+			_Intensity:
+
+				_ésta opción tomará la información de densidad a través, de la gamma y contraste 
+
+				de la imágen
+
+	
+			_Red:
+
+				_ésta opción tomará la información de densidad a través, del canal de los rojos
+
+
+			_Green:
+
+				_ésta opción tomará la información de densidad a través, del canal de los verdes
+
+
+			_Blue:
+
+
+				_ésta opción tomará la información de densidad a través, del canal de los azules
+
+		
+			_Lightness:
+
+				_ésta opción tomará la información de densidad a través, de la luminocidad de la imágen
+
+
+
+			_Saturation:
+
+				_ésta opción tomará la información de densidad a través, de la gamma y saturación de
+
+				la imágen
+
+
+			_Value:
+
+				_(Indeterminado)
+
+
+			_Alpha:
+
+				_ésta opción tomará la información de densidad a través, del canal alpha, de la imágen
+
+
+			_Zero:
+
+				_(Indeterminado)
+
+
+	_Add Phase:
+
+		_ésta opción nos permitirá indicar una layer, auxiliar de la cuál, se tomará la información la cuál,
+
+		será utilizada como la información del canal de densidad ó escala de grises
+
+
+	_Add Phase From:
+
+		_ésta opción nos permitirá seleccionar la layer, la cuál, será la layer, que hará de layer, auxiliar
+
+		para generar a través, de ésta el mapa de densidad ó escala de grises
+
+	_Add Mode:
+
+		_ésta opción nos permitirá seleccionar al criterio ó algoritmo de trabajo ó acción a través, del cuál,
+
+		se extraerá la información que será convertida a escala de grises ó mapa de densidad
+
+
+		_y dichos criterios ó parámetro de acción ó trabajo son los mismos que los de la sección de arriba
+
+
+	_Phase Shift:
+
+		_ésta opción nos permitirá hacer desfaces de color ó virados de los mismos lo cuál, nos permitirá hacer
+
+		ciertas colecciones así, como también, diferentes efectos y animaciones para múltiples efectos de
+
+		paso contínuo y de producción para depth maps, mattes, chromes, otros
+
+
+	_Use Preset Palette:
+
+		_ésta opción nos permitirá seleccionar una serie de presets, los cuáles, son muy útiles para realizar
+
+		la mayoría de trabajos y requerimientos
+
+
+	_Output Cycle:
+
+		_ésta ocpión nos permtirá a través, de una diana de colores, poder seleccionar, mover y personalizar
+
+		los colores del sistema de salida de color
+
+
+	_Cycle Repetitions:
+
+		_ésta opción nos permitirá hacer rotaciones de tipo loop, de todos los colores indicados en la diana
+
+		de colores de salida
+
+
+		_de ésta manera, podremos utilizar ésta opción en conjunción con la opción de "Phase Shift", para hacer
+
+		virados y desfaces de colores animados y estáticos
+
+
+	_Inerpolate Palette:
+
+		_ésta opción nos permitirá interpolar ó no, los colores seleccionados en la diana de colores de salida
+
+		del sistema
+
+
+		_de ésta manera, podremos crear colores de salida con gradación ó suavizado y poca acutancia, como 
+
+		también, podremos crear colores con una total acutancia ó totalmente planos para diferentes procesos
+
+
+	_Modify:
+
+		_ésta opción nos permite aplicar filtros sobre la imágen de la cuál, se tomará la información de la 
+
+		cuál, se generará el sistema del mapa de densidad ó escala de grises
+
+
+		_de ésta manera, no sólo podremos tomar toda la información de la imágen a través, de los diferentes
+
+		criterios de acción algoritmos 
+
+
+		_si no que también, hora podremos filtrar a través, de los canales de color de la imágen, como por 
+
+		ejemplo; "All / Red / Green / Blue / Alpha / RG / GB /, otros"
+
+
+
+	_Modigy Alpha:
+
+		_ésta opción nos permitirá indicar que el resultado afecte y se aplique al canal alpha, existente en 
+
+		la imágen resultate ó layer, sobre la cuál, se ha aplicado el efecto de colorama
+
+
+	_Change Empty Pixels:
+
+		_ésta opción nos permtirá indicar que el virado y ajuste de color resultante afecte también, a los 
+
+		pixeles vacíos ó en transparencia lo cuál, nos permtirá hacer efectos alternativos a la imágen original
+
+
+	_Matching Color:		
+
+		_ésta opción nos permtirá hacer un "pareo", ó igualación entre el efecto resultante y la imágen orignal
+
+		para lo cuál, el sistema utilizará los valores de luminancia de la imágen a través, de un selector de
+
+		color/HSL, ó un picker
+
+
+		_ésto permitirá que se produzca un "develado", de la imágen original en relación a la imágen resultante 
+
+		despues de realizar el proceso
+
+
+
+	_Matching Tolerance:		
+
+		_ésta opción nos permtirá indicar la tolerancia, umbral ó capacidad de penetración del efecto en 
+
+		relación a la imágen original y a su vez, color de igualación ó valor de luminancia seleccionado para 
+
+		el proceso de pareo del paso anterior
+
+
+	_Matching Softness:
+
+		_ésta opción nos permtirá indicar la tolerancia, umbral ó suavizado del efecto en relación a la imágen 
+
+		original y a su vez, color de igualación ó valor de luminancia seleccionado para el proceso de pareo 
+
+		del paso anterior
+
+
+
+	_Matching Mode:
+
+		_ésta opción nos permtirá indicar el espacio de color de trabajo entre los cuáles, dispondremos de los
+
+		siguientes:
+
+			_Off / RGB / HUE / CHROME
+
+
+	_Mask Layer:
+
+		_ésta opción nos permitirá seleccionar una layer, la cuál, hará de máscara, ya sea que ésta layer, tenga
+
+		un canal alpha, ó si es una layer, con transparencias ó si es una layer, con máscaras y precompuesta
+
+
+		_la cuál, será utilizada para limitar el alcance de la aplicación del efecto sobre la cuál, se ha 
+
+		aplicado el respectivo efecto
+
+	
+	_Masking Mode:
+
+		_ésta opción nos permitirá indicar el criterio de acción de la aplicación de la máscara sobre el sistema
+
+
+		_de ésta manera, dispondremos de los siguientes criterios:
+
+
+			_Intensity / Alpha / Inverted Intensity / Inverted Alpha 
+
+
+	_Composite Over Layer:
+
+		_ésta opción nos permitirá hacer composición con el resto de layers, en la compisición, integrando el
+
+		efecto resultante, otros
+
+
+	_Belnd Width Original:
+
+		_ésta opción nos permitiá integrar el efecto con las layers, inferiores en la composición permitiendo
+
+		graduar la opacidad del efecto ó sistema
+
+
+		_lo cuál, es muy útil para hacer correcciones sutiles e integradas, otros
+
+
+
+	Options:
+
+	_con "Control", pulsado y haciendo "mouse left click and drag", podemos duplicar sub-canales, seleccionado 
+
+	en la diana de colores de salida
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,97 @@
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+	
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE: Fill Alpha:
+_______________
+
+
+	_éste efecto nos permitirá expandir ó contraer un canal alpha, de una layer, éste canal alpha, puede ser generado por
+
+	una máscara, otra layer, a través, de otro efecto ó plugins, ó directamente ser un canal incrustado dentro de la 
+
+	respectiva layer
+
+
+
+	_Grow Shrink:
+
+		_ésta opción nos permitirá expandir ó contraer el área general del canal alpha, respectivo
+
+
+	_Process:
+
+
+		_None:
+
+			_ésta opción no realizará cambios en el canal alpha
+
+
+		_PreMult-UnMlt(Clean Color):
+
+			_ésta es la opción más utilizada la cuál, cuida los border y crear un alpha, pre multiplicado 
+
+			de forma más suavizada y preservando el color
+
+
+		_Unmult (Drive):
+
+			_ésta opción crea alphas, no pre multiplicados y con bordes más definidos y menos suavizados
+
+
+		_Premult:
+
+			_ésta opción crea alphas, pre multiplicados más con un borde exterior extra de color negro el 
+
+			cuál, puede servir para ciertas integraciones con otras layers, dentro del proceso de producción
+
+
+		_Fill ALpha:
+
+			_ésta opción nos permitirá rellenas el área del canal alpha, de la respectiva layer, con los colores 
+
+			de la layers, de ésta manera, por ejemplo; podremos aplicar ha una layer, de tipo imágen, una máscara 
+
+			para que así, la imágen sea proyectada a partir del área perimetral de la máscara de forma disfuminada
+
+
+			_ésta opción es especialmente útil para procesos creativos y de producción ya que podremos crear
+
+			fondos integrados con la imágen original
+
+
+		_Fill Non Zero Alpha:
+
+			_ésta opción crear bordes más difunidados que la opción "PreMult-UnMlt(Clean Color)", aunque con un menor
+
+			calado con el negro ó demás layers, de la respectiva composición
+
+
+		_Demult (Screen):
+
+			_ésta opción es similar a la opción "PreMult-UnMlt(Clean Color)", más ésta opción le agregará a la 
+
+			respectiva layer, un modo de fisión de tipo trama ó "screen"
+
+
+		_Full Alpha:
+
+			_ésta opción rellenará toda la layer, del color del canal alpha, desapareciendo así, la máscara existente
+
+			de una máscara u otros
+
+

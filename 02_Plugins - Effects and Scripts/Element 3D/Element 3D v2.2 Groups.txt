@@ -1,0 +1,458 @@
+
+
+Element 3D v2.2
+
+
+
+este permite crear y cargar elementos 3d, dentro de after effects, para hacer animaciones y modulaciones 
+
+de los elementos entre otras funciones avanzadas
+
+
+los groups ó grupos nos permiten organizar en grupos los elementos, esto nos permite hacer modificaciones
+
+a grupos específicos de elementos aislando estas modificaciones de los elementos que estén fuera de este
+
+grupo ó que permanezcan fuera de este grupo respectivo
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Groups:  
+_______
+
+
+
+
+
+
+	_primero debemos generar un elemento 3s a partir de una máscara, texto, elemento de geometría básica
+
+	ó un elemento importado de programas externos
+
+
+	_al crear un elemento 3d, en el panel del plugins, se crea por defecto un folder "Group Folder 1",
+
+	en el cuál, se agregarán todos los elementos que generemos de forma consecutiva
+
+
+	_así, si deseamos crear más grupos debemos darle ha "Add Group", para agregar nuevos grupos
+
+	en los cuales agregamos las contenido consecutivos
+
+
+
+de esta manera los grupos nos brindan las siguientes prestaciones ó características:
+
+---------------------------------------------------------------------------------------------------------
+
+Enable:
+_______
+
+
+	_así, podemos activar ó desactivar los grupos que hemos reado en relación de nuestras necesidades
+
+	yendo ha "Element/Group 1/1.Enable"
+
+
+---------------------------------------------------------------------------------------------------------
+
+Paticle Replicator:
+___________________
+
+
+	_Paticle Count:
+
+		_esta opción nos permite indicar la cantidad de instancias de los objetos de grupo
+
+
+	_Replicator Shape:
+
+		_Point:
+
+			_esta opción nos indica que la del replicador será de punto
+
+
+		_3D Grid:
+
+			_esta opción nos indica que la del replicador será una grilla
+
+		_Plane:
+
+			_esta opción nos indica que la del replicador será un plano
+
+
+		_Sphere_
+
+			_esta opción nos indica que la del replicador será una esfera
+		
+		_Ring:
+
+			_esta opción nos indica que la del replicador será un anillo
+
+
+		_Layer:
+
+			_esta opción nos indica que la del replicador será una capa
+
+
+		_3D object:
+
+			_esta opción nos indica que la del replicador será un objeto 3d
+
+
+
+		_Layer Grid:
+
+			_esta opción nos indica que la del replicador será una la capa grilla
+
+	
+	_Position X,Y,Z:
+
+		_esta opción nos permite mover el grupo en cordenadas x,yx,z
+
+
+	_Shape Scale:
+
+		_esta opción nos permite escalar la forma/shape, que hace de modulador
+
+
+	_Scale X,Y,Z:
+
+		_esta opción nosp ermite escalar el grupo en cordenadas independientes X,Y,Z
+
+
+	_Rotation x,y,z:
+
+		_esta opción nos permite rotar el grupo en cordenadas independientes X,Y,Z
+
+
+	_Shape Options
+
+		_Particle Order:
+
+			_esta opción nos permite escoger el tipo de orden que tendrán los elementos
+
+			del grupo, entre los cuales tenemos:
+
+
+				_Forward
+
+					_
+
+				_Backwards:
+
+					_
+
+				_Mirrow:
+
+					_
+
+				_Random:
+					_
+
+		_Particle Repeat:
+
+			_
+
+		_Particle Offset:
+
+			_
+
+		_Layers:
+
+			_
+
+
+		_Layers Offset:
+
+			_
+
+
+		_Layers Distribut:
+
+			_
+
+
+	_Replicator Effects:
+
+		_Surface Offset
+
+
+			_Surface Off:
+
+				_
+
+
+		_Scatter:
+
+			_Scatter/ X,y,z:
+
+				_
+
+
+		_Position Noise:
+
+			_Noise Evolut:
+
+				_
+
+
+			_Noise Amou:
+
+				_
+
+			_Noise Amount X,y,z:
+
+				_
+
+			_Noise Scale:
+
+				_
+
+	_Random Seed:
+
+		_
+
+
+
+
+---------------------------------------------------------------------------------------------------------
+
+Paticle Look:
+_____________
+
+
+	_Particle Size:
+
+		_
+	
+	_Particle Size Rando:
+
+		_
+
+
+	_Particle Size x,y,z:
+
+		_
+
+	
+	_Particle Rotation:
+
+		_Orientation:
+
+			_
+
+		_Rotation Parti X,Y,Z:
+
+			_
+
+		_Rotation Random X,Y,Z:
+
+			_
+
+
+		_Randomize Angle X,Y,Z:
+
+			_
+
+
+		_Rotation Noise:
+
+			_Noise Evolut:
+
+				_
+
+
+			_Noise Amou:
+
+				_
+
+			_Noise Scale:
+
+				_
+
+		_Color Tint:
+
+			_
+
+
+	_Force Opacity:
+
+		_
+
+
+	_Baked Animation:
+
+		_Loop Mode:
+
+			_Loop:
+
+				_
+
+			_Random Loop
+
+				_
+
+
+			_Freeze at End:
+
+				_
+
+
+			_Mirrow:
+
+				_
+
+		_Playback Speed:
+
+			_
+
+
+		_Frame Offset:
+
+			_
+
+
+		_Frame Offset R:
+
+			_
+
+
+		_Random Seed:
+
+			_
+
+
+	_Multi-Object:
+
+
+		Descripción: esta opción nos permite poder tratar de forma independiente los 
+
+		sub-elementos que conforman los objectos de un grupo, ej_ de un objecto 
+
+		segmentado ó texto, así se tratarán los caracteres de forma independiente pudiendo 
+
+		así, poder agregarle aleatoriedad ruido, deformación, transformaciones 
+
+		por caracteres, otros
+
+
+
+		_Enable Multi-Ob:
+
+			_
+
+
+		_Size:
+
+			_
+
+
+		_Size Random:
+
+			_
+
+
+		_Rotation:
+
+			_Rotation Or:
+
+				_xyz (Standard):
+
+					_
+
+
+				_xzy......:
+
+					_
+
+			_Rotation xyz:
+
+				_
+
+			
+			_Rotation Ra:
+
+				_
+
+
+		_Displace:
+
+			_
+
+
+		_Displace Rando:
+
+			_
+
+		
+		_Displace XYZ:
+
+			_
+
+
+		_Scatter XYZ:
+
+			_
+
+
+		_Position Noise:
+
+			_Noise Evolut:
+
+				_
+
+
+			_Noise Amou:
+
+				_
+
+
+			_Noise Amount Multi xyz:
+
+				_
+
+
+			_Noise Scale:
+
+				_
+
+
+			_Random Seed:
+
+				_
+
+
+	_Deform:
+
+		_Enable:
+
+			_
+
+
+		_Taper/Twist/Bend/Noise/Deform Offset/Reset
+
+			_
+
+
+	
+
+---------------------------------------------------------------------------------------------------------
+
+Aux Channels:
+_____________
+
+
+	_
+
+
+---------------------------------------------------------------------------------------------------------
+
+Group Utilities:
+________________
+
+
+	_

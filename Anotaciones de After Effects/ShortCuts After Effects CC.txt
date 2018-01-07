@@ -1,0 +1,345 @@
+
+Comandos Shortcuts en After Effects cc, "lenguaje del sistema seleccionado en español
+
+..............................................................................................
+
+				AJUSTES EN LA LÍNEA DE TIEMPO
+
+show layer control_ Control+Shift+H (handles ó manejadores y paths, de animación)
+
+avanzar entre fotogramas: J/K
+
+rango inicial y final de la previsuaización en relación al cabezal de la composición: B/N
+
+ir al inicio y final de la composición: I/O, Inicio/Fin
+
+avance entre fotogramas clave en la composición: J/K
+
+avance de "1" fotograma en una composición: Control+Right/left Arrow
+
+avance de "10" fotogramas en una composición: Control+Shift+Right/left Arrow
+
+avance al pricipio ó final de una composición: Control+Alt+Right/Left Arrow
+
+avanzar y retrocedes cacheando en memoria de previsuzalización: Re Pag/Av Pag
+
+seleccionar capas en una composición en un orden de superior a inferior: 1/2/3/4/5/6/7/8/9.......
+
+seleccionar capas de forma selectiva y sin orden: Shift+1/2/3/4/5/6/7/8/9...
+
+indicar el inicio de una capa en relación al cabezal de la composición: Control+Shift+(",")
+
+indicar el final e una capa en relación al cabezal de la composición: COntrol+Alt+(",")
+
+enviar un capa al nivel inferior de la composición: Control+Shift+("-")
+
+seleccionar todas las capas en la composición: Control+A
+
+deseleccionar todas las capas en la composición: Control+Shift+A
+
+bloquear una capa en la composición: Control+L
+
+desbloquear una capar en la composición: COntrol+Shift+L
+
+ocultar capa: Control+Shift+Alt+V
+
+hacer solo de capa: Control+Shift+V
+
+agregar Marker/marcas, en la línea de tiempo: "*"
+
+agregar Marker/marcas, con numeración en el lugar del cabezal en la línea de tiempo: Shift+1/2/3/4/5/6/7/8/9/....
+
+agregar Marker/marcas, con propiedades de configuración al crearse: Alt+"*"
+
+purgar el cache empleado en la línea de tiempo: Control+Alt+"/"
+
+desplazar el bloque de tiempo de duración de una capa en la línea de tiempo "1", fotograma: Alt+Re Pag/ Av Pag
+
+desplazar el bloque de tiempo de duración de una capa en la línea de tiempo "10", fotograma: Alt+Shift+Re Pag/ Av Pag
+
+
+............................................................................................
+
+			   VISUALIZACIÓN Y EDICIÓN EN EL PANEL DE COMPOSICIÓN
+
+zoom in y zoom out de la composición: ,/.
+
+zona de seguridad de una composición: tecla ("?")
+
+guía proporcional en una composición: Alt+?
+
+grid ó grilla en una composición: Control+?
+
+reglas en una composición: COntrol+R
+
+snap ó alineamiento a objetos en una composición: Drag+Control (ó activar la opción de Anapping en la parte superior del panel de composición)
+
+mostrar u ocualtar máscaras: Control+H
+
+ampliación y disminución de la escala en la línea de tiempo: Alt+Scroll sobre la línea de tiempo
+
+paneo y desplazamiento sobre las escalas en segmentos en la línea de tiempo: Scroll+Drag+Left/Rignt sobre la línea de tiempo
+
+avance ó desplazamiento fotograma a fotograma con el cabezal: Scroll+Drag+Left/Rignt sobre el cabezal en la composición
+
+............................................................................................
+
+				   PREVISUALIZACIÓN Y RESOLUCIÓN
+
+maximizar panel seleccionado: ("^") en incles (ª\)
+
+
+previsualización del panel composición y capa en resolución "Custom": Control+Alt+J
+
+previsualización del panel composición y capa en resolución "Half": Control+Shift+J
+
+previsualización del panel composición y capa en resolución "Quater": Control+Shift+Alt+J
+
+previsualización del panel composición y capa en resolución "Full": Control+J
+
+
+avance y visualización entre composiciones: Shift+Alt+,/.
+
+
+calidad de capa "Best", en una composición: Control+U
+
+calidad de capa "Draft", en una composición: Control+Shift+U
+
+calidad de capa "Wareframe", en una composición: Control+Shift+Alt+U
+
+calidad de visualización "Bilinear", de una capa en una composición: Alt+B
+
+calidad de visualización "Bicubic", de una capa en una composición: Alt+Shift+B
+
+
+ver composición en su canal con la opción "Colorize", en "Red": Shift+Alt+1
+
+ver composición en su canal con la opción "Colorize", en "Green": Shift+Alt+2
+
+ver composición en su canal con la opción "Colorize", en "Blue": Shift+Alt+3
+
+ver composición en su canal "RGB Straight": Shift+Alt+4
+
+ver composición en su canal "RGB": Shift+Alt+("1/2/3/4","pulsado dos veces")
+
+ver composición en su canal con la opción no "Colorize", en "Red": Alt+1/ Alt2+1
+
+ver composición en su canal con la opción no "Colorize", en "Green": Alt+2/ Alt2+2
+
+ver composición en su canal con la opción no "Colorize", en "Blue": Alt+3/ Alt2+3
+
+ver composición en su canal "Alpha": Alt+4
+
+
+tomar una snapshop de la composición: Shift+F5/F6/F7F8
+
+
+activar fast preview "off(Final Quality)": Control+Alt+1
+
+activar fast preview "Adaptative Resolution": Control+Alt+2
+
+activar fast preview "Fast Draft": Control+Alt+4
+
+activar fast preview "Wareframe": Control+Alt+~5
+
+
+
+............................................................................................
+
+				   MODIFICAR PROPIEDADES DE CAPAS
+
+modificar la propiedad "Position", en intérvalos de "1", punto: Arrows Left/Right
+
+modificar la propiedad "Position", en intérvalos de "20", puntos: Shift+Arrows Left/Right  
+
+modificar la propiedad "Scale", en intérvalos de "1", punto: Control+("+/-")
+
+modificar la propiedad "Scale", en intérvalos de "10", puntos: Control+Shift+("+/-")
+
+escalar capa al tamaño de la composición proporcionalmente: Control+Shift+Alt+G
+
+escalar capa al tamaño de la composición en la porporción de la composición: COntrol+Shift+Alt+F
+
+modificar la propiedad de "Rotate", en intérvalos de "1", punto: ("+/-")
+
+modificar la propiedad de "Rotate", en intérvalos de "10", puntos: Shift+("+/-")
+
+modificar la propiedad de "Opacity", en intérvalos de "10", puntos: Control+Shift+Alt("+/-")
+
+
+............................................................................................ 
+
+			     MOSTRAR Ó DESPLEGAR PROPIEDADES DE UNA CAPA
+
+desplegar todas las propiedades de una capa en una composición: Control+("^")/ UU
+
+desplegar bloque de propiedades de una composición: Control+("^")
+
+desplegar punto de anclaje: A
+
+desplegar: position: P
+
+desplegar scale: S
+
+desplegar Rotarion: R
+
+desplegar opacity: T
+
+desplegar propiedades animadas: U
+
+............................................................................................
+
+
+					     MÁSCARAS
+
+crear máscaras del tamaño de la capa: Control+Shift+N
+
+crear máscaras personalizadas: G+Draft
+
+editar dimensiones de máscara: Control+Shift+M
+
+editar feather de máscara: Control+Shift+F
+
+mover máscara completa: Alt+Draft
+
+transformación libre de máscara: doble click/ COntrol+T
+
+............................................................................................
+
+				  COMANDO DE EDICIÓN Y PROPIEDADES
+
+comando Go to/ir a tiempo: Shift+Alt+J
+
+orientación de capas y cámaras: Control+Alt+O
+
+propiedades de fución de capas: F4
+
+propiedades de anidamiento de capas: Shift+F4
+
+timeline/graph editor: Shift+F3
+
+enviar composición a render queve ó cola de procesamiento: Control+M
+
+enviar composición a Media Encoder: Control+M
+
+time reverse laver: Control+Alt+R
+
+precomponer capas en nuevas composiciones anidadas: Control+Shift+C
+
+
+
+............................................................................................
+
+			  CREACIÓN Y EDICIÓN DE ELEMENTOS EN UNA COMPOSICIÓN
+
+nuevo sólido: Control+Y / edición de las propiedades del sólido: Control+Shift+Y
+
+nueva cámara: Control+Shift+Alt+C / edición de las propiedades de la cámara: doble click sobre la cámara
+
+nueva luz: Control+Shift+Alt+L / edición de las propiedades de la luz: doble click sobre la luz
+
+nuevo objeto nulo: Control+Shift+Alt+Y
+
+nueva capa de texto: Control+Shift+Alt+T / Control+T
+
+nueva capa de ajuste: Control+Alt+Y
+
+
+............................................................................................
+
+			       CONFIGURACIÓN DEL PROYECTO Y APLICACIÓN
+
+proyecto setting/ configuración del proyecto: COntrol+Shift+Alt+K
+
+............................................................................................
+
+					     ANIMACIÓN
+
+interpolación de fotograma clave: Control+Alt+K
+
+velocidad de interpolación: Control+Shift+K
+
+convertir a bloque interpolación de fotograma clave: Control+Alt+H
+
+asistente de fotogramas clave; desaceleración de entrada y de salida: F9
+
+asistente de fotogramas clave; desaceleración de entrada: Shift+F9
+
+asistente de fotogramas clave; desaceleración de salida: Control+Shift+F9
+
+
+contraer todas los  modos y propiedades de una capa en la composición: ("\")+F4
+
+expander las propiedades y modos de blendding mode y switches: F4
+
+expander las propiedades de anidamiento mode entre capas: Shift+F4
+
+
+.............................................................................................
+
+					      EFECTOS
+
+acceso directo para aplicar plugins de effectos a capas: Alt+T
+
+aplicar el último plugins aplicado: Control+Shift+Alt+E
+
+............................................................................................
+
+				       SHORTCUPS INTERFACES
+
+interface Standart: Shift+F10
+
+interface Animation: Shift+F11
+
+interface Effects: Shift+F12
+
+.............................................................................................
+
+					INTERFACE Y PANELES
+
+mostrar u ocualtar barra de herramientas de la interface: Control+1
+
+panel de proyecto: Control+0
+
+panel render queve: Control+Alt+0
+
+panel info: Control+2
+
+panel preview: Control+3
+
+panle audio: Control+4
+
+panel effects: Control+5
+
+panel character: Control+6
+
+panel paragraph: Control+7
+
+panel paint: Control+8
+
+panel brush: Control+9
+
+intercalador de paneles en un grupo de paneles: Shift+Alt+(",/.")
+
+view option/opciones de panel: Control+Alt+U
+
+composición Flowchart panel preview: Control+F11
+
+view y acceso directo al panel Console: Control+F12
+
+panel layer de capa seleccionada: ("intro" ó igual, del path numérico)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

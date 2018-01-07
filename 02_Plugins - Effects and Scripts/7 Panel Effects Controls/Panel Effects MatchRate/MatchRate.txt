@@ -1,0 +1,139 @@
+
+
+http://aescripts.com/matchrate/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / MatchRate
+
+
+	MatchRate:
+
+
+	-este nos permite calcular el frame rate, entre keyframes, y transpolar los valores de éstos con otros
+
+	keyframes, de otras propiedades de la misma layer, ó de otras layers
+
+
+	_ésto es especialmente útil para diferentes procesos de animación y sincronización de movimientos entre
+
+	otras posibilidades alternativas
+
+	
+	_éste puede aplicar en animaciones existentes así, como extender las posibilidades de animaciones en 
+
+	ambas direcciones
+
+
+	_también, tenemos la posibilidad de aplicar éstas transpolaciones ha efectos con targes, u otros
+
+
+	_así, como también, puede invertir interpolaciones de animación, estilos, físicas, otros
+
+
+	_por ej, podríams utilizar el intervalo ó "timing", de animación entre dos keyframes, de "translation", 
+
+	para controlar con el mismo intervalo de animación la propiedad de "rotation", ó un valor promediado, 
+
+	ó factorizado como por ej, de un "50%", u otro
+
+
+	_en las cordenadas de entrada debemos de dejar activo sólo la cordenada "X", si sabemos que el objecto 
+
+	está animado sólo en la translación horizontal "X"
+
+	
+	_y en las cordenadas de salida debemos dejar activa sólo la cordenada "Z", ya que la layer, es 2d, y sólo 
+
+	permitirá una rotación en la cordenada "Z"
+
+
+	_de ésta manera tenemos un asistente flexible y potente para hacer aquivalencias y potencias de animación 
+
+	entre diferentes elementos y propiedades, otros
+
+
+	NOTE: las propiedades para rotación de layers, en 2d, debe la cordenada "Z"
+
+
+	_un ejemplo clásico es sincronizar la rotación de dos engranajes de diferentes tamaños ó hacer la ilución 
+
+	de una rueda que se deplaza sobre un suelo y que a su vez, ésta rota coherentemente, otros
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener un composición de trabajo así, como al menos una layer, animada con un propiedad
+
+	deseada a transpolar con otra
+
+
+	_para luego, seleccionar "dos keyframes", de la propiedad que deseamos transpolar ha otra
+
+
+	_luego, con éstos keyframes, respectivos seleccionados ir al panel "MatchRate", y hacer "Get Rate",
+
+	para que así, éstas propiedades sean cargadas al plugins
+
+
+	_en el cuál, podremos editar sus características:
+
+
+		_Cordenadas: X,Y,Z:
+
+			_ésta opción nos permite limitar las cordenadas de entrada a las cordenadas de acción
+
+			de salida, ésto dependerá de la lógica de lo que necesitemos en relación a la propiedad
+
+			de destino como de si tipo
+
+
+		_Porcentaje ó factorización:
+
+			_ésta propiedad nos permite disminuir ó aumentar su timming, ó intervalo de animación
+
+			lo cuál, dependerá de nuestras necesidades específicas
+
+
+		_Invert:
+
+			_ésta opción nos permite invertir todo el sistema de animación
+
+
+		_Clear:
+
+			_ésta opción nos permite limpiar ó resetear el sistema
+
+
+		_Target:
+
+			_ésta opción nos permite configurar las cordenadas de acción de salida para que éstas
+
+			se correlacionen con las de entrada
+
+
+	_para luego, crear un keyframe, inicial en la propiedad en la cuál, deseamos pegar ó transferir éstas
+
+	transpolaciones de animación, ej, en una propiedad de "rotation"
+
+
+	_para posteriormente mover el cabezal del timeline, hasta una nueva posición donde deseamos termine 
+
+	ésta animación transpolada, en éste caso de "rotation", por ej, del segundo "0", al segundo "1"
+
+
+	_y por último, para terminar el proceso debemos darle ha "Apply Rate", en el panel del plugins, de ésta
+
+	manera se realizará la animación con la interpolación y transpolación indicada
+	
+
+
+

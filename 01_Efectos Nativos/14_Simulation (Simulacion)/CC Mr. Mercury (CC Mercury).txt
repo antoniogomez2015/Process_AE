@@ -1,0 +1,587 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos pemritirá crear efectos de simulación de fluidos líquidos y acuosos como también, 
+
+	magmáticos entre otras muchas posibilidades como, yogurt, batidos, helados, cirocs, otros
+
+
+	_éste efecto como muchos otros de simulación enmascaran la layer, base la cuál, a su vez, puede ser una 
+
+	layer, de tipo solid, ó imágen compleja lo cuál, nos permitirá crear efectos complejos uncluso pre animados
+
+	a través, de una pre composición
+
+
+	_incluso prodremos utilizar el sistema generado para crear transiciones ha modo de tracks mattes, mattes, de
+
+	luminancia, otros
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Mr. Mercury: (CC Mercury)
+	_______________
+
+
+		_Radius X | Y:
+
+			_ésta opción nos permitirá indicar el ancho y el alto que tendrá el sistema generado de 
+
+			fluido de ésta manera, podremos limitar ó delimitar el área que ocupará el sistema generado
+
+
+		_Producer:
+
+			_ésta opción nos permitirá ubicar ó cambiar de posición el sistema generado y a su vez, 
+				
+			indicar cuál, será el epicentro de generación del sistema
+
+
+			_de ésta manera, podremos animar y reubicar el sistema en general logrando así, diferentes
+
+			comportamientos del fluido entre otras muchas posibilidades
+
+
+		_Direction:
+
+			_ésta opción nos pemritirá orbitar el sistema de fluidos generados en su propio eje lo que
+
+			nos permitirá crear diferentes efectos y perspectiva dinámica permitiéndonos expresar la
+
+			tridimensionalidad del sistema en general y del sistema de fluido en su máxima expresión
+
+
+		_Velocity:
+
+			_ésta opción nos pemritirá controlar la fuerza de dispersión del fluido en relación a su
+
+			epicentro ó punto de generación del mismo, de ésta manera, podremos variar lo valátil ó lo
+
+			apacible de la generación del fluido así, como también, el alcence del fluido en el espacio
+
+			circundante al epicentro en la respectiva composición
+
+
+		_Birth Rate:
+
+			_ésta opción nos permitirá controlar la cantidad de fluido emitido por el sistema de ésta
+
+			manera, podremos en una primera instancia emitir más ó menos cantidad de fluido a la vez y
+
+			a través del tiempo
+
+
+		_Longevity (Sec):
+
+			_ésta opción nos permitirá indicarle al sistema cuanto durará ó por cuanto tiempo será 
+
+			visible el fluido a través, del tiempo, de ésta manera, podremos hacer que el fluido sea 
+
+			visible sólo hasta una cierta área determinada lo cuál, nos permitirá realizar diferentes 
+
+			efectos
+
+
+			_como también, nos permitirá aligerar el proceso de cómputo del sistema lo cuál, hará más
+
+			rápido el proceso
+
+
+		_Gravity:
+
+			_ésta opción nos permitirá reailizar diferentes efectos con cambios de perspectivas al poder
+
+			así, hacer variaciones sobre la perspectiva del fluido generado, de ésta manera, podremos
+
+			hacer fluidos en ingradidez, para emular en perspectiva paralela a la toma de la cámara
+
+
+			_como también, podremos realizar efectos con una gravedad negativa para la creación de 
+
+			efecto de dispersión de café, ó helado por ejemplo, otros
+
+
+			_como también, podremos crear efectos con una gravedad positiva para la creación de magmas,
+
+			chocolate cayendo, otros
+
+
+		_Resistence:
+´
+			_ésta opción nos permitirá controlar ó cambiar el comportamiento de sistema de fluidos de
+
+			ésta manera, podremos hacer un sistema de fluidos más ligero como por ejemplo; la leche, 
+
+			otros
+
+
+			_como también, podremos crear un sistema más denso y gelatinoso como por ejemplo; un gel
+
+			para el cabello, jarabe, otros
+
+
+			_de ésta manera, el fluido podrá cobrar más ó menos dispersión antes desvanecerse ó no. 
+
+			Para que así, en conjunción con los demás parámetros podamos lograr diferentes compuestos 
+
+			y prestaciones en relación a nuestras necesidades de producción y paso contínuo
+
+
+		_Extra:
+
+			_ésta opción nos permitirá indicarle al sistema que fluya más rápidamente en la misma 
+
+			dirección de emisión y de la fuerza de gravedad aplicada, a diferencia de la opción de
+
+			"Velocity", que hará que el fluido se disperse en todas direcciones en relación al 
+
+			epicentro del sistema
+
+
+
+		_Animation:
+
+
+			_Explosive:
+
+				_ésta opción nos pemritirá controlar directamente el comportamiento del sistema de
+
+				fluidos en relación al tipo de emisor en relación a su vez, a su epicentro y al 
+
+				"Radius", para todos las las opciones de "Animation"
+
+
+				_ésta opción específicamente nos permitirá hacer dispersiones horizontales  sutiles
+
+				en relación al epicentro y radio de acción especialmente útil para la generación de
+
+				fluidos de tipo lluvias ó glaseados como también, cascadas
+
+
+			_Fractal Explosive:
+
+				_ésta opción es idéntica a la opción anterior más ésta opción es más emulsionada
+
+				y trepidante lo cuál, es especialmente útil para productos más espumosos y con más
+
+				energía ó impacto
+
+
+			_Twirl:
+
+				_ésta opción nos permitirá crear torsiones de simulación de fluidos de tipo radial
+
+				a partir del epicentro de la emisión del fluido, éste tipo de emisión funciona 
+
+				mejor bajo una gravedad "0", para que así, la gravedad no influya en la forma y 
+
+				dirección de torsión que distorsionará el fluido generado y ahora modelado
+
+
+				_de ésta manera, ésta opción nos permitirá crear tornados ó liquados vistos desde
+
+				una perspectiva cenital ó desde arriba por ejemplo; para la elaboración de batidos,
+
+				mezclas de pinturas, otros
+
+
+			_Twirly:
+
+				_ésta opción es una variante de la opción anterior de ésta manera, podremos utilizar
+
+				ésta opción de forma alternativa ó como una variante de torsión para el sistema de
+
+				fluidos generados
+
+
+			_Vortex:
+
+				_ésta opción nos permitirá crear sistema de fluidos de tipo tornados bidimensionales
+
+				en una perspectiva frontal para la generación de por ejemplo; tornados, fuentes,
+
+				entre otras posibilidades
+
+
+				_ésta opción requiere por lo general de la aplicación de "Gravity", sea ésta 
+
+				positiva ó negativa, de aplicar un gravedad "0", el sistema se creará como una llama
+
+				ó flama piloto y no como un tornado desplegado respectivamente
+
+
+				_y para la animación de la torsión de fluidos podremos utilizar el parámetro de
+
+				"Extra"
+
+
+			_Fire:
+
+				_ésta opción nos permitirá crear un efecto similar al conseguido con la opción de
+
+				"Vortex", más ésta opción será más sutil ó suave y sinuosa especialmente útil para
+
+				la generación de flamas, cadenas de adn, entre otros fluidos
+
+
+			_Direction:
+
+				_ésta opción nos permitirá crear simulaciones de fluidos de tipo explosión ó volcado
+
+				de fluido hacia el espectador de forma rítmica y sostenida, ésta es la forma más
+
+				genérica de emisión de fluido para la mayoría de fluidos posibles de forma base
+
+
+			_Direction Normalized:
+
+				_ésta opción específicamente nos permitirá hacer dispersiones horizontales en 
+
+				relación al apicentro y radio de acción especialmente útil para la generación de
+
+				fluidos de tipo ciroc, shampu, entre otros productos
+
+
+
+			_Bi-Directional:
+
+				_ésta opción es idéntica a la opción de "Direction", más ésta opción también, nos
+
+				permitirá a su vez, emitir fluido tanto hacia arriba como hacia abajo de ésta 
+
+				manera, podremos crear efectos diferentes como soldaduras donde la escorea cae 
+
+				hacia abajo ó cascadas, impactos de fluidos, otros
+
+
+			_Bi-Directional Normalized:
+
+				_ésta opción es idéntica a la opción de "Bi-Directional", más la opción "Normalized",
+
+				nos permitirá crear un reserva de emisión de fluido en el área perimetral inmediata
+
+				al epicentro de la generación del sistema de fluido, de ésta manera, podremos 
+
+				integrar mejor el sistema de fluidos con otras layers, ó motivos los cuáles, 
+
+				podremos colocar en ésta área de reserva central del sistema de fluidos, otros
+
+			
+			_Jet:
+
+				_ésta opción nos permitirá crear emisiones de fluidos lineales con un comportamiento
+
+				básico el cuál, no ofrecerá ninguna resistencia a la fuerza de gravedad aplicada lo
+
+				cuál, nos permitirá crear sistemas de fluidos de tipo chorros de agua, aceites, 
+
+				otros
+
+
+			_Jet Sideways:
+
+				_ésta opción es una variante muy similar a la opción anterior de "Jet"
+
+
+
+		_Blob Influence:
+
+			_ésta opción nos permitirá controlar el tamaño de las gotas ó aglutinamiento del fluido
+
+			generado de ésta manera, el fluido generado podrá ser más abundante ó escaso y ligero
+
+
+
+		_Influence Map:
+
+
+			_Blob Out:
+
+				_ésta opción nos permitirá controlar la curva de generación del sistema de fluidos
+
+				de ésta manera, podremos controlar cuando serán más grandes ó más pequeñas las gotas
+
+				ó aglutinamientos del sistema de fluidos a través, del tiempo para todos los presets,
+
+				de curvas de generación
+
+
+				_en el caso de "Blob Out", las gotas ó aglutinamiento será más grande al inicio de
+
+				la vida del sistema fluidos lo cuál, es especialmente útil para la emulación de
+
+				agua, jugos, otros
+
+
+			_Blob In:
+
+				_en el caso de "Blob In", las gotas ó aglutinamiento será más grande al final de
+
+				la vida del sistema fluidos lo cuál, es especialmente útil para la emulación de
+
+				cirocs, leches, otros, lo cuál, también, brinda el efecto de proximidad
+
+
+			_Blob In & out:
+
+				_ésta es la opción por defecto, y en donde las gotas ó aglutinamiento serán más 
+
+				grandes de igual manera, tanto al inicio como al final de la vida del sistema 
+
+				de fluidos lo cuál, es especialmente útil para la mayoría de los casos ha nivel
+
+				genérico
+
+
+			_Blob Out Sharp:
+
+				_ésta opción tratará de homogenizar ó aplanar aún más la curva de creación ó
+
+				generación del sistema de fluidos, igualando más aún el tamaño de las gotas ó
+
+				aglutinamiento tanto al inicio como al final de la vida del sistema de fluidos
+
+				al igual que la opción de "Blob In & out", aunque de forma mejorada en éste 
+
+				sentido
+
+
+			_Cnstant Blobs:
+
+				_ésta opción aplana totalmente la curva de generación del sistema de fluidos 
+
+				teniendo mejores resultado que las opciones anteriores de "Blob In & out", y 
+
+				"Blob Out Sharp", en éste sentido
+
+
+
+		_Blob Birth Size:
+
+			_más también, tendremos la posibilidad de editar el tamaño de fluido emitido a través, del
+
+			tiempo a través, de "Curves", por medio de los métodos de "Influence Map"
+
+
+			_para que así, de ésta manera, podamos editar de forma independiente y de forma detalallada 
+
+			el cremiento y evolución del fluido de forma dinámica a través, del tiempo y controlada por 
+
+			nosotros éste caso el punto inicial del sistema de fluidos
+
+
+		_Blob Death Size:
+
+			_más también, tendremos la posibilidad de editar el tamaño de fluido emitido a través, del
+
+			tiempo a través, de "Curves", por medio de los métodos de "Influence Map"
+
+
+			_para que así, de ésta manera, podamos editar de forma independiente y de forma detalallada 
+
+			el cremiento y evolución del fluido de forma dinámica a través, del tiempo y controlada por 
+
+			nosotros éste caso el punto final del sistema de fluidos
+
+
+		
+		Light:
+
+
+			_Using:
+
+
+				_Effect Light:
+
+					_ésta opción nos permitirá utilizar la iluminación base generada por el
+
+					propio sistema por defecto para la generación del efecto de ondulaciones
+
+					y partículas generadas
+
+
+				_AE Light:
+
+					_ésta opción nos permitirá utilizar la iluminación existente en la 
+
+					composición respectiva para la generación del efecto de ondulaciones
+
+					y partículas generadas
+
+
+					_de ésta manera, podremos controlar el tipo de luz, su posición y dirección
+
+					respectivamente
+
+
+
+			_Light Intensity:
+
+				_ésta opción nos permitirá controlar la intensidad de la iluminación generada sea
+
+				ésta la iluminación auto generada ó la personalizada por nosotros
+
+
+			_Light Color:
+
+				_así, como también, podremos controlar ó personalizar el color de la iluminación 
+
+				auto generada 
+
+
+
+			_Light Type:
+
+
+				_Distant Light:
+
+					_en la iluminación auto generada podremos configurar a su vez, su ésta será
+
+					de tipo luz direccional ó de tipo "Spot Light"
+
+
+				_Point Light:
+
+					_ó por el contrario si será de tipo de luz puntual ó "Point Light"
+
+
+			_Light Height:
+
+				_así, como también, podremos indicar la altura que ocupará la iluminación generada
+
+				en relación al formato ó canvas de la composición respectiva
+
+
+			_Light Position:
+
+				_como también, la posición en relación al plano horizontal del canvas ó formato de
+
+				respectiva composición
+
+
+				_ésta opción estará superditada a su la opción de "Point Light", está activada ó no
+
+
+			_Light Direction:
+
+				_más también, el sistema de iluminación auto generado nos permitirá variar el ángulo
+
+				de rotación del mismo en relación a su vez, a la posición del mismo
+
+
+
+		Shading:
+
+
+			_Ambient:
+
+				_ésta opción nos permitirá indicar la cantidad de iluminación global existente en
+
+				la imágen general ó cuál, hará directamente la imágen más oscura ó más clara 
+
+
+				_lo que a su vez, resaltará el tipo de iluminación auto generada de tipo 
+
+				"Point Light"
+
+
+			_Diffuse:
+
+				_ésta opción también, hará que la imágen base sea más receptiva a la cantidad de
+
+				iluminación generada por el sistema de ésta manera, la imágen base podrá recibir
+
+				más ó menos luz y efectos especulares y reflectivos
+
+
+			_Specular:
+
+				_ésta opción hará que el sistema de partículas y ondulaciones generados sea más
+
+				receptivo a efectos especilares de brillo por la iluminación lo cuál, hará que el 
+
+				sistema resalte más sobre la imágen base
+
+
+			_Roughtness:
+
+				_ésta opción combina las opciones del efecto especular y de la cantidad de 
+
+				iluminación existente en la imágen bese 
+
+
+				_lo que permitirá que haya más notoriedad del efecto de las partículas y las 
+
+				ondulaciones ó que éste sea más sutil
+
+
+			_Metal:
+
+				_ésta opción va de la mano con la opción de "Specular", ya que la opción "Metal",
+
+				también, auna esfuerzos en relación a la capacidad de recibir especularidad de parte
+
+				las partículas generadas y los efectos de ondulación y relives sobre imágen base
+
+
+1 architecture in good idea
+
+2 canvas
+
+3 articulations
+
+4 little arts talks
+
+5 the art assignment
+
+6 the AA
+
+7 moma (museo de new york)
+
+8 tate 
+
+9 art 21
+
+10 the creators project
+
+11 the watching art
+

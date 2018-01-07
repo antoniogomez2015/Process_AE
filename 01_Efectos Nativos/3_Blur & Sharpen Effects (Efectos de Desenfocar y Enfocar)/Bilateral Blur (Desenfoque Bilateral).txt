@@ -1,0 +1,76 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá hacer desenfoque de tipo selectivo en relación a las áreas de mayor y de menor
+
+	contraste así, como también, de las áreas con mayor detalle y menor detalle tanto de forma, color y 
+
+	luminancia
+
+
+	_de ésta manera, con éste efecto podremos lograr desenfoques más hacia las superficies que comparten 
+
+	similitudes como color, forma, valores de luminancia, otros
+
+
+	_como techos, pisos, piel, otros
+
+
+	_lo cuál, nos permitirá disimular imperfecciones y detalles sin emborronar la imágen en general lo cuál,
+
+	es especialmente para diferentes procesos de paso contínuo y producción en general
+
+
+	_éste nos brinda resultados de desenfoques más fonos y detallados aunque consume mucho más recursos y para
+
+	ciertos procesos no es muy recomendable por lo demandante que es para el equipo
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Bilateral Blur: (Desenfoque Bilateral)
+	_______________
+
+	_Raduis:
+
+		_éste valor nos permitirá indicar la cantidad de desenfoque deseado
+
+
+	_Threshold:
+
+		_éste valor nos permitirá indicar el umbral, alcance ó dispersión del efecto
+
+
+	_Colorize:
+
+		_éste nos permitirá colorizar ó dejar la imágen en su color por defecto ó por el contrario dejar
+
+		en escala de grises lo cuál, es útil para diferentes procesos
+
+
+

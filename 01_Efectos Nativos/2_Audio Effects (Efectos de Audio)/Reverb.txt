@@ -1,0 +1,89 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+		https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá crear efectos de reververancia más avanzados los cuáles, nos permitirán hacer efectos
+
+	en el audio así, como también, acentuar la voz, y demás sinidos dentro del audio
+
+
+	_como también, lograr efectos de amplitud, espacio y pronfundidad, otros
+
+
+
+	Formatos:
+	_________
+
+	_los formatos más comúnes para el trabajo con audio son los siguientes en after effects:
+
+
+		_Mp3:
+
+			_éste es el formato más común y generalizado para la edición e intercambio de archivos de
+
+			audio
+
+
+		_Wav:
+
+			_éste es uno de los formatos más comúnes en el procesado e intercambio de archivos de audio
+
+
+
+	Reverb:
+	_______
+
+	_Reverb Times (ms):
+
+		_éste valor nos permitirá indicar el intervalo de la frecuencia de audio ha utilizar
+
+
+	_Diffusion:
+
+		_ste valor nos permitirá indicar la difusión ó alcance ó penetración del efecto de reververancia
+
+		en el audio
+
+
+	_Decay:
+
+		_ste valor nos permitirá indicar el decaimiento ó acentuación del efecto de delay, ó retardo y 
+
+		modulación del audio
+
+
+	_Brightness:
+
+		_ste valor nos permitirá indicarla cantidad de brillo ó agudos permitidos dentro del efecto de
+
+		reververancia
+
+
+	_Dray Out:
+
+		_(Indeterminado), Seco
+
+
+	_Wet out:
+
+		_(Indeterminado), húmedo
+
+
+
+
+
+

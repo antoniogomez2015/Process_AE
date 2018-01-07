@@ -1,0 +1,64 @@
+
+
+http://aescripts.com/obj-vertex-export/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/Obj Vertex Export:
+
+
+
+	_éste permite exportar estructuras de layers, 3d, que conformen formas especiales que desiemos utilizar
+
+	tanto para otros efectos y plugins, dentro de after effects, como plexus, ó red giand, que puedan utilizar
+
+	archivos "OBJ", como también, para aplicaciones de producción externas como blender, maya, softimage, otros
+
+
+	_éste plugins, se compajina perfectamente con el plugins "obj vertex secuence", de plexus, para cinema 4d,
+
+	que permite exportar una secuencia de obj, desde una aplicación 3d, ha after effects, más en éste caso es 
+
+	al contrario, se trata de exportar un secuencia de obj, desde after effects, ha otras aplicaciones 3d
+
+
+
+	Workflow:
+	_________
+
+
+	_primero debemos de tener creada una composición de trabajo
+
+
+	_así, como tambíen, debemos tener generada una serie de layers, en el entorno 3d, en una configuración deseada
+
+	como por ejemplo: un helix, éste podría estar animado ó no, entre otras posibilidades de acción de generar formas
+
+	compuestas con layers, 3d, dentro de after effects
+
+	
+	_para luego, seleccionar todas las layer, 3d, que conforman la composición menos la cámara ó luces, y otras layers,
+
+	de referencia que no hacer parte de la forma compuesta de layers, 3d
+
+
+	_para luego, por último ir al panel de "Preview/Obj Vertex Export", y primero seleccionar si deseamos exportar la
+
+	secuencia de obj, animada ó no, haciendo "checked", en la opción de ser afirmativo, para luego hacer "Export", y 
+
+	elegir la ruta de destino y esperar el proceso de exportación de un frame, ó todos los frames, animados y sus
+
+	respectivos elementos ó layers, 3d
+
+
+	_de ésta manera se generará un archivo con extensión ".obj", ó una secuencia de éstos en la carpeta de destino,
+
+	los cuales podremos utilizar dentro del mismo after effects, u otras aplicaciones 3d, y de producción
+
+
+
+			

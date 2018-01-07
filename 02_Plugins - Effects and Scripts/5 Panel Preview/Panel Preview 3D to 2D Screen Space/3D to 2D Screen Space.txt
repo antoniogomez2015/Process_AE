@@ -1,0 +1,75 @@
+
+
+http://aescripts.com/3d-to-2d-screenspace/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview / 3D to 2D Screen Space
+
+
+	3D to 2D Screen Space:
+
+
+	-este nos permite hacer un seguimiento de una elemento 3d, en la escena dentro de lo que es el esquema 
+
+	2d, del screen, del viewport, a través, de una nueva layer, de tipo null object, la cuál, se encontrará
+
+	siempre en 2d 
+
+
+	_y ésta nueva layer, de tipo null object, a través, de un script, seguirá a la layer, 3d, respectiva que 
+
+	hayamos seleccionado a partir de su esquina superior derecha pero en 2d, dimensiones
+
+
+	_más ahora si deseamos tener un mayor dominio de ese rastreo podremos hacer un volcado ha keyframes, para
+
+	que así, podamos prescindir del script, que une ha éste con la layer, 3d, y limitas ciertas acciones de 
+
+	edición, otros
+
+
+	_ésto especialmente útil para hacer efectos y procesos complejos pero de forma simplificada que podremos 
+
+	tener la ubicación de la layer, 3d, a través, de una layer, 2d, y de forma simplificado, ésto es especialmente
+
+	útil cuando deseamos apagar ó ocualtar la layer, 3d, que quizás tiene efectos complejos y pesados y quedarnos
+
+	sólo con la layer, 2d, que ya tendrá el siguimiento y hará de elemento proxi
+
+
+
+	Workflow:
+	_________
+
+
+	_primero debemos tener una composición de trabajo
+
+	
+	_así, como también, debemos tener creada una layer, la cuál, tendrá que estar animada en 3d, tres dimensiones
+
+
+	_para que así, podamos seleccionar ésta e ir al panel "3D to 2D Screen Space", y hacer "Link", 
+
+
+	_de ésta manera se creará una nueva layer, en 2d, a la composición de tipo null object, dicha layer, tendrá 
+
+	un script, asignado a través, del cuál, dicho null object, podrá seguir la layer, 3d
+
+
+	_más si deseamos volcar el movimiento de animación de ésta nueva layer, 2d, de tipo null objecto ha keyfrmaes,
+
+	debemos seleccionar ésta nueva layer, de tipo null object, e ir nuevamente al panel "3D to 2D Screen Space",
+
+
+	_y hacer "Bake", para que así, se genere una nueva layer, con los respectivos keyframes, correcpondientes a la
+
+	animación respectiva, de ésta manera ahora dispondremos de ambas layers, de tipo null, disponibles
+
+
+
+

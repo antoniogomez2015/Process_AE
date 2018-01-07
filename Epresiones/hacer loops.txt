@@ -1,0 +1,28 @@
+
+hacer loops de animaciones
+
+
+	1_anidar una composición a la cuál deseamos convertir en loops
+
+
+	2_ha dicha composición debemos aplicar la opción de "TimeRemapping", para esto con la composición 
+
+	seleccionada vamos ha "Layers/Time/Enable Time Remapping", ó su shortcut (Control+Alt+T)
+
+
+	3_luego colocamos el cabezal del timeline al final de la duración de la composición seleccionada
+
+
+	4_luego activamos las opciones de expresiones en la propiedad de "Time Remap", haciendo "Alt+Click", 
+	
+	en ésta propiedad
+
+
+	5_posteriormente pegamos en el campo de expresiones la siguiente expresión: "loop_out("cycle",0)", 
+
+	también podríamos probar las opciones en plug de expresiones desplegado/Property/Loops..
+
+
+	6_por últimos extendemos la barra de duración de la composición seleccionada hasta el tiempo deseado 
+
+	en el timeline, para así extender las veces necesarias que se repetirá el loops

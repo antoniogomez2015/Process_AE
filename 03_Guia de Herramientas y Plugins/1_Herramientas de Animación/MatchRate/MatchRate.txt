@@ -1,0 +1,157 @@
+
+
+
+
+MatchRate
+
+
+	Referencia:
+
+		http://aescripts.com/matchrate/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste puede calcular el intervalor de animación "Rate", entre dos fotogramas
+
+
+	_así, como también, a partir del cálculo "Rate", crear nuevos fotogramas
+
+
+
+Aplicaciones:
+_____________
+
+
+	_éste permite extender la animación de una capa en ambas direcciones del timeline
+
+
+	_éste permite extender una ó todas las "Rates", a otras propiedades
+
+
+	_éste transfiere "Rates", a otras capas/layers, y sus propiedades
+
+
+	_éste invierte "Rates", "stylish/Physically-Accurate", animaciones
+
+
+	_éste factoriza porcentajes de "Rates"
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Extending Animations:
+_____________________
+
+	
+	_primero debemos tener una layer, la cuál, debe de tener keyframes en una propiedad deseada
+
+
+	_luego debemos seleccionar al menos dos keyframes, para luego ir al panel "MatchRate", y darle ha "Get Rate"
+
+
+	_y luego debemos mover el cabezal del timeline, hacia adelante ó hacia atras donde desiemos ampliar la animación
+
+	para luego volver al panel "MatchRate", y aplicar "Apply Rate", para así, ampliemos la animación existente en esa
+
+	respectiva propiedad
+
+
+	_de ésta manera la animación continuará en el sentido deseado tanto hacia adelante ó hacia atras en el timeline,
+
+	más ésta mantendrá el intervalo "Rate", de animación sin importar lo separado ó distantes de los keyframes, asignados
+
+	ésto es especialmente útil para mantener ciclos de animación
+
+
+
+Applying Rates to Different Properties:
+_______________________________________
+
+
+	_para éste necesitamos una layer,  con una propiedad animada 3d, ej; la rotation de una rueda, para que así, podamos
+
+	transpolar la propidad de desplazamiento "Translate", a la propidad de rotación "Rotation", para que así, la rueda
+
+	se mueva el unísono miestras que éste también, rota en el espacio y tenga un movimiento real
+
+
+	_así, podremos seleccionar al menos dos keyframes, de ésta propiedad animada "Translation" e ir al panel "MatchRate", 
+
+	y darle ha "Get Rate"
+
+
+	_para luego seleccionar la propidad "Rotate", ésta propiedad también, debe de estar animada, así, debe de tener al 
+
+	menos un keyframe
+
+
+	_así, luego podremos entonces desplazar el cabezal del timeline, hasta el tiempo deseado y la propieddad de éste ej;
+
+	"Rotation", seleccionada vamos al panel "MatchRate", y aplicamos "Apply Rate" 
+
+
+	_así el mismos intervalo de "Rate", de la propiedad "Translation", será aplicado ó pegado en la propidad "Rotatión",
+
+	de ésta manera ahora la capa rotará, con el mismos invervalo de animación "Rate", de translación ó movimiento
+
+
+
+	NOTE:	para layers, en 3d, podemos seleccionar las cordenadas de acción a transferir en el panel de "MatchRate",
+
+		así, para éste ejemplo, podemos tomar las propiedades de Translation X", iniciales y transferirlas ó
+
+		transpolarlas a la propidad de "Rotation Z", éstas opciones nos permiten un mayor marco de acción.
+
+		éstas opcines son especialmente útiles para transpolar propiedades ha parámetros de plugins, y efectos 
+
+		especiales de elementos ó motivos en movimientos, otros
+
+
+
+Animating Ratios:
+_________________
+
+
+	_ésta opción es especialmente útil para sincronizar el movimiento en ratios, de animación de elementos de diferentes
+
+	tamaños y que deseamos sincronizar, ej; engranajes dentados, otros
+
+
+	_así, podriamos seleccionar a una layer, de un tamaño de 100%, con una propidad de animación "Rotation", animada, para
+
+	de ésta manera ir al panel "MatchRate", y hacer "Get Rate"
+
+
+	_para luego seleccionar una layer, de ej; de tamaño de 150%, y con una propidad de animación "Rotación", animada en un
+
+	keyframe, inicial
+
+
+	_para luego ir al panel "MatchRate", y en éste caso darle a la opción "Invert", para que así, el segundo engranaje más
+
+	grande rote en sentido contrario
+
+
+	_más también, variar el grado del intervalor para hacer una ponderación de la deferencia de tamaño entre ambos engranajes,
+
+	para ésto, variamos el porcentaje del intervalor de "Rate", en éste ejemplo ha un "50%", de ésta manera ambos engranajes
+
+	rotarán a la misma velocidad y en sentido contrario, así, lograremos ó emularemos la interacción natural de dos engranajes
+
+	funcionando al unísono
+
+
+
+
+

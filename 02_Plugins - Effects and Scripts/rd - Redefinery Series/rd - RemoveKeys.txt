@@ -1,0 +1,77 @@
+
+
+
+
+RD, serie de escripts, gratuitos http://www.redefinery.com/   http://www.redefinery.com/ae/view.php?item=rd_Approximate
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+RD RemoveKeys
+
+
+	este escript, tiene como objetivo eliminar keysframes a traves, de diferentes criterios los cuales van desde
+
+	lo mas amplico hasta lo mas especifico lo cual, permite una gran flexibilidad y rapidez en los procesos
+
+
+
+WorkFlow
+---------
+
+
+	-primero seleccionamos las capas o work area, deseados
+
+
+	-luego vamos al panel rd - RemoveKeys, y seleccionamos uno de los criterios disponibles, los cuales son
+
+
+	Keyframe to Remove
+	------------------
+
+
+		-All
+
+			-borrara todos los fotogramas de todo el tiemeline y de todas las capas de las composicion activa
+
+
+		-Inside Work Area
+
+			-borrara todos los fotogramas del timeline y de todas las capas en el margen del work area indicada
+
+
+		-Inside Layer In/Out
+
+			-borrara todos los fotogramas dentro de la duracion de las capas seleccionadas
+
+		
+		-Outside Layer in/Out
+
+			-borrara todos los fotogramas 'fuera', de los puntos de entrada y salida de las capas seleccionadas
+
+
+		-Before/Alt Current Time
+
+			-borrara todos los fotogramas antes del tiempo actual visible en el timeline
+
+
+		-At/After Current Time
+
+			-borrara todos los fotogramas despues del tiempo actual visible en el timeline
+
+
+		-Odd-Numbered
+
+			-borrara todos los fotogramas en las capas impares seleccionadas
+
+
+		-Even-Nmbered
+
+			-borrara todos los fotogramas en las capas pares seleccionadas
+	
+	
+

@@ -1,0 +1,128 @@
+
+
+http://aescripts.com/easy-slide-show/
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Easy Slide Show
+
+
+	Easy Slide Show:
+
+
+	-este nos permite hacer slideshows, de imágenes de forma ordenada a través, de un patrón con diferentes
+
+	comportamientos los cuales son totalmente configurables y adaptables
+
+
+
+	
+	Workflow:
+	_________
+
+	_primero es aconsejable crear un carpeta de imagenes para éste proceso en la estructura de archivos donde
+
+	tener guardado el proyecto de after effects (OJO; la carpeta no la debemos de crear en el panel proyectos),
+
+	si no en la estructura de archivos de after effects, es dicir, en la estructura de archivos de nuestro
+
+	disco duro y en donde hemos por lo general guardado nuestro proyecto para que así, podamos acceder ha ésta
+
+	a través, del explorador del plugins, en éste caso
+
+
+	_de ésta manera, en ésta nueva carpeta agregaremos la cantidad de layer, que deseamos animar a través, del
+
+	sistema de slideshow
+
+
+	_es aconsejable que las imagenes tengan el mismo tamaño aunque no es prelativo para generar el sistema ya
+
+	que éste puede adaptarlas ha un tamaño determinado
+
+
+
+
+	Width and Height:
+
+		_ésta opción nos permitirá indicarle al sistema un ancho y un alto para las imagenes en pixeles
+
+
+
+	Horizontally:
+
+		_ésta opción nos permite indicarle al sistema que deseamos que las imagenes sean representadas de
+
+		forma horizontal
+
+
+
+	Vertically:
+
+		_ésta opción nos permite indicarle al sistema que deseamos que las imagenes sean representadas de
+
+		forma vertical
+
+
+
+	Left_
+
+		_ésta opción nos permite indicarle al sistema que deseamos que las imagenes sean representadas de
+
+		con alineación a la izquierda
+
+
+	Right:
+
+		_ésta opción nos permite indicarle al sistema que deseamos que las imagenes sean representadas de
+
+		con alineación a la derecha
+
+
+
+	Speed:
+
+		_ésta opción nos permite indicar una velocidad inicial de intervalo entre imagenes
+
+
+
+	Show images name:
+
+
+		In front:
+
+			_ésta opción nos permite indicar un nombre global para el sistema el cuál, se expresará
+
+			en la slideshow
+
+
+
+		On each:
+
+			_ésta opción nos permite indicar un nombre para cada imagen del sistema el cuál, se expresará
+
+			en la slideshow
+
+
+
+	Add reflection:
+
+		_ésta opción nos permite agregar reflexión para las imagenes del sistema
+
+
+
+
+	Create:
+
+		_y al darle ha create se nos abrirá un panel en el cuál, debemos navegar hasta la carpeta que previamente
+
+		hemos creado y cargado las imagenes deseadas, para luego darle ha "Aceptar", para que así,
+
+		el sistema sea generado
+
+	
+
+

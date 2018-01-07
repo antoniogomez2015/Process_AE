@@ -1,0 +1,166 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer distorciones de áreas restringidas
+
+
+	_para lo cuál, el sistema hace uso de máscaras específicamente dos máscaras así, a través, de una máscara
+
+	perimetral indicará el área de trabajo ó alcance de la posible distorción
+
+
+	_y a través, de otra máscara podremos indicar el área exacta ha distorcionar la cuál, será tomada por el 
+
+	sistema para generar una área proxi extra generada por el sistema a través, de la cuál, podremos realizar
+
+	la distorsión sobre el área especificada
+
+
+	_de ésta manera, debemos de crear ó cargar éstos dos máscaras dentro de la layer, sobre la cuál, deseamos
+
+	aplicar el efecto smear
+
+
+
+
+	
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Smear: (Alargar)
+	______
+
+
+		_Source Mask:
+
+			_a través, de ésta opción podremos seleccionar la máscara que hará de área 
+
+			de deformación directa del sistema de deformación
+
+
+		_Boundary Mask:
+
+			_a través, de ésta opción podremos seleccionar la máscara que hará de área 
+
+			perímetral del sistema de deformación
+
+
+		_Mask Offset:
+
+			_a través, de ésta opción dispondremos de un targer con la forma de "Source Mask", 
+
+			través, del cuál, podremos mover ésta y hacer deformaciones sobre la imágen en 
+
+			relación a su vez, a la máscara de "Boundary Mask"
+
+
+		_Mask Rotation:
+
+			_a través, de ésta opción podremos hacer deformaciones de tipo torsión ó vertex, sobre
+
+			la imágen a través, de "Source Mask", y en relación a su vez, a la máscara de 
+
+			"Boundary Mask"
+
+
+		_Mask Scale:
+
+			_a través, de ésta opción podremos hacer deformaciones de tipo escalado ó inflado sobre
+
+			la imágen a través, de "_Source Mask", y en relación a su vez, a la máscara de 
+
+			"Boundary Mask"
+
+
+
+		_Percent:
+
+			_ésta opción nos permitirá asignar una fuerza ó influencia del efecto sobre la imágen
+
+
+		_Elasticity:
+
+			_ésta opción nos permitirá elegir el tipo de criterio de deformación los cuáles, van
+
+			desde los que emulan goma dura ha goma elásticas
+
+
+		_Interpolation Method:
+
+			_ésta opción nos permite seleccionar el tipo de criterio de interpolación donde el más
+
+			recomendado es "Discrete", el cuál, no requiere keyframes, ni animación de deformación
+
+
+				_Discrete:
+
+					_Diferenciado, produce animaciones en las que las distorsiones cambian 
+
+					en los fotogramas clave
+
+
+				_Linear:
+
+					_Lineal, requiere dos o más fotogramas clave y realiza una interpolación 
+
+					en línea recta entre fotogramas clave
+
+
+				_Smooth:
+
+					_Suave, requiere tres o más fotogramas clave y aproxima la distorsión 
+
+					mediante curvas cúbicas, lo que produce distorsiones con un movimiento 
+
+					grácil. Si necesita una mayor precisión en la animación entre fotogramas 
+
+					clave, agregue más fotogramas de este tipo. Por ejemplo, una distorsión 
+
+					que representa un giro de 90 grados entre dos fotogramas clave aparece 
+
+					como un pliegue de la imagen. Para que esta distorsión sea más fluida, 
+
+					agregue un fotograma clave por cada 10°
+
+
+
+
+
+
+
+
+
+
+
+
+

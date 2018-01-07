@@ -1,0 +1,276 @@
+
+
+
+
+	Tracker ó Rastreo en After Effects
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	ESTABILIZADO DE DEFORMACIÓN VFX/WARP STABILIZER VFX:
+	____________________________________________________
+
+
+	(síntesis: estabilizador de movimiento de cámara con la opción de que contempla ó corrige "perspectiva", 
+
+	(lo que no hace Track/Motion), más que trabaja sin perdidas de sangrado de imágen entre otras opciones avanzadas)
+
+
+
+
+	1.Result/resultado:
+	___________________
+
+
+		1.1.Smooth Motion/suavizar movimiento: esta opción es ideal para planos con movimientos de cámara en 
+
+		travelling, roll, pan.., permitiendo suavizar imperfecciones y logrando una suavidad continua en el 
+
+		movimiento resultante
+
+
+
+			1.1.1.Smoothness: este valor permite indicar el rango de suavizado y estabilizado del plano en una 
+
+			escala de 0-100
+
+
+
+		1.2.No Motion/sin movimiento: esta opción peremite eliminar ó estabilizar el movimiento (similar al 
+
+		estabilizado ó "track", convencional)
+
+
+
+
+	2.Method/método:
+	________________
+
+
+		2.1.Position/posición: permite estabilizar la posición ó estabilizado de un plano
+
+
+
+		2.2.Position-Scale-Rotation/posición,escala,rotación: permite estabilizar la posición, escala y rotación 
+
+		de un plano
+
+
+
+		2.3.Perspectiva/perspectiva: permite estabilizar la perspectiva de una plano
+
+
+
+		2.4.Subspace Warp/deformación de subespacio: permite corregir el defecto de rolling shatter 
+
+		(efecto gelatina), sensación del plano que se dobla
+
+
+
+
+	3.Framing/encuadre:
+	___________________
+
+
+		3.1.Stabilized Only/sólo estabilizar: esta opción permite sólo estabilizar el plano, sin cortarlo ó 
+
+		escalarlo (método tradicional del "track stabilized")
+
+
+
+		3.2.Stabilized, Crop/cortar y estabilizar: esta opción permite estabilizar y cortar el plano colocando un 
+
+		marco netro en los excedentes relativos
+
+
+
+		3.3.Stabilized, Crop, Auto-scale/cortar, estabilizar, escala automática: esta opción permite estabilizar, 
+
+		cortar y auto escalar el plano automaticamente, cortando excedentes relativos
+
+
+
+		3.1.Stabilized, Synthesize Edges/estabilizar, sintetizar bordes: esta opción busca información en los 
+
+		fotogramas por delante y por detras de los pixeles perdidos en el plano para, esto permite reinventar los 
+
+		pixeles perdidos en el escalado del estabilizado, así, no el plano real no se escala ni pierde calidad
+
+
+
+			3.1.1.Synthesis Imput Range (segundo)/rango de entrada de síntesis: este es el criterio del rango 
+
+			en segundo con el cual va a mirar por delante y por detras de cada fotograma para hacer el muestredo
+
+			del rango perdido en la estabilización y perdida en los bordes
+
+
+
+			3.3.2.Synthesis Edge Feather/síntesis de calado de bordes: esta opción permite hacer un calado de 
+
+			borde en relación a la cadencia elegidad en el criterio seleccionado
+
+
+
+
+	4.Show Track Point/mostrar puntos de seguimiento:
+	_________________________________________________
+
+
+		4.1.esta opción permite mostrar los puntos de seguimiento (los criterios que toma la herramienta)
+
+
+
+		4.2.ahora podremos seleccionar y eliminar parcialmente los puntos de seguimiento, permitiendo así, indicar 
+
+		nuestro propio criterio de seguimiento a la herramienta
+
+
+
+		4.3.haciendo left+click+draw en la ventana composición podremos seleccionar los puntos de seguimiento que 
+
+		deseamos eliminar ó borrar por que afectan en las áreas que no que queremos que la herramienta tenga en 
+
+		cuenta como criterio de estabilizado
+
+
+
+		4.4.luego aplicamos la tecla Suprimir para eliminar los bordes seleccionados, luego avanzamos en la línea 
+
+		de tiempo y repetimos la operación hasta cubrir el tiempo deseado
+
+
+
+		4.5.así, el estabilizado se realizará solo tomando los criterios que dejamos ó permitimos en el plano 
+
+		resultante
+
+
+
+		4.6.Track Point Size/tamaño de puntos de seguimiento: esta opción permite configurar el tamaño de 
+
+		visualización de los puntos de seguimiento
+
+
+
+		4.7.Auto-Delete points Across/eliminar puntos automaticamente en el tiempo: esta opción permite borrar 
+
+		relativamente los puntos que hemos borrados en los fotogramas siguientes
+
+
+
+		4.8.Hiden Warning Banner/ocultar advertencias: esta opción permite ocultar advertencias y avisos por la 
+
+		herramienta
+
+
+
+
+	5.Objetive/objetivo:
+	____________________
+
+		
+		Reversible Stabilization/estabilización reversible (estas funciones solo aplican ó funcionan con efectos)
+
+
+
+		5.1.seleccionar los puntos de seguimiento en el área desea y con los criterios deseados como 
+
+		posición-escala-rotacion-perspectiva
+
+
+
+		5.2.en la capa donde aplicamos el efecto de warp stabilizer, ("creamos máscaras y formas y efecto que 
+
+		deseamos generar y aplica")
+
+
+
+		5.3.duplicamos la capa y la capa de abajo ó base, le quitamos los efectos creados ó generamos una nueva capa
+
+		de origen ó base ó de fondo ó composición
+
+
+
+		5.4.en las opciones de Objetive/objetivo; seleccionamos la opción "Reversible Stabilization/estabilización 
+
+		reversible"
+
+
+
+		5.5.ahora duplicamos el efecto de Warp Stabilized VFX/estabilización de deformación VFX
+
+
+
+		5.6.luego colocamos el filtro ó los filtros de efectos creados entre ambos filtros de 
+
+		"Warp Stabilized VFX/estabilización de deformación VFX" (efecto sandwis)
+
+
+
+		5.7.al primer filtro ó superior "Warp Stabilized VFX/estabilización de deformación VFX", le colocaremos 
+
+		en las opciones de Objetive/objetivo: "Reversible Stabilization/estabilización reversible"
+
+
+
+		5.8.al segundo filtro ó inferior "Warp Stabilized VFX/estabilización de deformación VFX", le colocaremos 
+
+		en las opciones de Objetive/objetivo: "Reverse Stabilization/estabilización inversa"
+
+
+
+		5.9.de esta manera los filtro de efectos dentro del (sandwis), heredan la estabilización invertida, adaptada
+
+		a las propiedades de los efectos y filtros, así los efectos se moverán igual que el estabilizado 
+
+		Apply Motion To Target/aplicar movimiento al destino
+
+
+
+		6.1.esta opción permite asignarle los datos de destino a una capa seleccionada determinada
+
+
+
+		6.2.Target Layer/capa de destino: esta opción permite seleccionar la capa de destino del efecto de 
+
+		estabilizado
+
+
+	
+		6.3.la opción de Apply To Target, permite asignarle los datos de estabilizado a la capa de destino 
+
+		eliminando la del estabilizado, permitiendo así los datos idependiente entre la capa del estabilizado 
+
+		y la capa de destino Apply Motion To Target Over Original/aplicar movimiento al destino por encima 
+
+		del original
+
+
+
+		7.1.esta opción permite asignarle los datos de destino a una capa seleccionada determinada
+
+
+
+		7.2.Target Layer/capa de destino: esta opción permite seleccionar la capa de destino del efecto de 
+
+		estabilizado
+
+
+
+		7.3.la opción de Apply To Target Over Original, permite asignarle los datos de estabilizado a la capa de 
+
+		destino eliminando la del estabilizado a la vez
+
+
+
+
+
+
+
+
+	

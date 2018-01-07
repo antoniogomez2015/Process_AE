@@ -1,0 +1,107 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá extender ó retraer los bordes de entre la imágen visible y la imágen eliminada
+
+	u oculta lo cuál, nos permitirá eliminar bordes indeseados en el pos poceso de keygin
+
+
+	_más adicionalmente éste efecto nos permitirá corregir ó mejorar el matte, resultante del proceso de keygin,
+
+	entre otros mattes, posibles de ésta manera, podremos eliminar el ruido e imperfecciones ó agujeros entre
+
+	otras posibles irregularidades en el matte, resultante
+
+
+	_de ésta manera, podremos utilizar éste efecto para diferentes funciones y no sólo para la retracción ó 
+
+	extensión del matte, generalmente
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Matte Chocker: (Retractorde Mate)
+	______________
+
+
+		_Geometric Softness 1:
+
+			_ésta opción contribuye con el valor de "Gray Level Softness 1", ayudando ha eliminar el resto
+
+			de imperfecciones que aún puedan existir en el matte, resultante del proceso de keygin, otros
+
+
+			_así, como también ayudará a suavizar y disfuminar el matte, resultante para que así, éste se
+
+			integre mejor a la hora de su implementación en el resto de las layers, de la composición
+
+
+		_Choke 1:
+
+			_ésta opción nos permitirá extender y retraer el matte, resultante del proceso de keygin, otros
+
+
+		_Gray Level Softness 1:
+
+			_bajar éste valor ha "0", nos permitirá eliminar todo el ruido bajar definición del matte,
+
+			resultante del proceso de keygin, otros
+
+
+		_Geometric Softness 2:
+
+			_(ésta opción nos pemritirá agregar otro pase del proceso expresado anteriormente "1")
+
+
+		_Choke 2:
+
+			_(ésta opción nos pemritirá agregar otro pase del proceso expresado anteriormente "1")
+
+
+		_Gray Level Softness 2:
+
+			_(ésta opción nos pemritirá agregar otro pase del proceso expresado anteriormente "1")
+
+
+		_Iterations:
+
+			_ésta opción nos pemritirá aumentar las iteraciones ó pases del proceso lo cuál, aumentará
+			
+			la calidad del proceso aunque ha costa de más recursos por parte del sistema general de
+
+			nuestro equipo instalado
+
+
+
+

@@ -1,0 +1,150 @@
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+		DEFlicker Tutorials/Playong List:
+
+			https://www.youtube.com/watch?v=p3t3Q1AgJiA&list=PLJZE0COAfWUXEl3TCPGL7qy3dmMO30oaP
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+DE:Noise:
+_________
+
+	_el plugins, de noise, nos permitir0'a eliminar el riudo producido en videos antiguos como los grabados en 
+
+	situaciones extremas y de poca iluminación ó en cámaras con resoluciones muy bajas, otros
+
+
+	NOTE: la versión del plugins, "DE:NOise Frame Average", ésta es una versión simplificada y directa del plugins, 
+
+	la cuál, nos permitirá lograr resultados similares y de forma práctiva y deductiva y variable a través, del tiempo
+
+
+	
+	Settings:
+	_________
+
+	_así, lo primero que hay que hacer es cargar el material de archivo ó source, ha after effects, para lo cuál debemos
+
+	hacer doble click, sobre el panel "Project", para que así, se abra el explorador a través, del cuál, podremos navegar
+
+	hasta la ubicación del archivo
+
+
+	_luego de haber importado el arvhivo de video, debemos de seleccionarlo en el panel project, para que así, éste nos 
+
+	muestre las información de éste video en el panel project, en la parte superior de éste
+
+
+	_de ésta manera, podremos ver por ejemplo que dimensiones en pixeles tiene el video así, como frame rate, si es un vodeo
+
+	de 24f, 30f, ó frames, por segundo
+
+
+	_de ésta manera, podremos verificar si hay algún problema de interpretación ó campatibilidad en la composición actual y 
+
+	el material de archivo, para lo cuál, contamos con el panel "Interpret Footage", y para acceder ha éste panel tendremos
+
+	que seleccionar el footage, ó video en el panel project, y con éste seleccionado aplicar el suiente shortcut; 
+
+	"Control + Alt + G"
+
+
+	_de ésta manera en éste panel podremos ajustar el frame rate, del video así, como también, los campos para videos 
+
+	entrelazados, el aspecto del pixel, como también, el perfil del color
+
+
+	_y leugo de haber configurado las propiedades del video es altamente recomendable crear un nueva composición a través, de
+
+	las propiedades del video para lo cuál, la opción más fácil es arrastrar el footage, ó material de archivo el ícono de 
+
+	"composition", en la parte inferior del panel project, para que el sistema cree una nueva composición a partir de los 
+
+	parámetros del video
+
+
+
+De: Noise:
+__________
+
+	_Pre Processing Controls:
+
+		_
+
+
+	_Spatial Noise Reduction:
+
+		_
+
+
+	_Spatial Threshold %:
+
+		_
+
+
+	_Temporal Precess Mode:
+
+		_
+
+
+	_Temporal Quality:
+
+		_
+
+
+	_Temporal Threshold %:
+
+		_
+
+	
+	_Temporal Threshold Mode:
+
+		_
+
+
+	_Fields:
+
+		_
+
+
+	_ALT Track Source:
+
+		_
+
+
+	_Mark Segments:
+
+		_
+
+
+	_Post Processing Controls:
+
+		_
+
+
+	_Suppress Salt and Papper:
+
+		_
+
+
+
+
+

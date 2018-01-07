@@ -1,0 +1,133 @@
+
+Re:Map UV https://www.youtube.com/watch?v=FenSc6HgFPc    C4D/AE Tutorial: Revision Effects Re:Map UVW Multipass
+
+Export Position Pass and Normal Pass from Cinema 4D for Pixel Cloud  https://www.youtube.com/watch?v=WNn5pJDKPCg
+
+	Referencia Oficial:
+
+		http://aescripts.com/ft-uvpass/
+
+
+
+	Tutorial:
+
+		The Power of UV Passes in After Effects
+
+			https://www.youtube.com/watch?v=5s6Hf68TE34&t=400s
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	ft-UVPass:
+	__________
+
+
+
+	Composición:
+	____________
+
+	_luego en after effects, debemos de cargar el material de archivo importando las respectivas secuencias de imágenes
+
+	que hemos obtenido a partir del proceso de render
+
+
+	_para a continuación arrastrar la secuencias correspondiente al "diffuse map", hasta el ícono de nueva composición para
+
+	que así, una composición nueva sea creada a partir de las dimensiones y características del material de archivo
+
+
+	_para leugo repetir el proceso con las demás secuencias de imágenes en la misma composición que hemos generado en el
+
+	paso anterior
+
+
+	
+
+	ft-UVPass:
+	__________
+
+	_para a continuación seleccionar la layer, correspondiente a la secuencia de imágenes de "UVMAP", ó "Material UVW",
+
+	y con ésta seleccionada ejecutar ó abrir el script, ó plugin 
+
+
+		_"PBA Launches"
+
+
+	_y en éste plugins, navegar hasta la carpeta ó folder "test_pbk", en éste caso y allí, seleccionar el efecto:
+
+
+		_"PBA FTUVPass"
+
+
+	_en la lista de opciones ó pluins, disponibles y luego darle al botón de "Apply", para que así, éste plugins, sea
+
+	aplicado a la respectiva layers, de la secuencia del uvmap
+
+
+	_para posteriormente ir al panel "effects controls", shortcut, "F3", para que así, podamos configurar el respectivo
+
+	efecto ó script
+
+
+
+	ft-UVPass Settings:
+	___________________
+
+	_así, luego de haber aplicar el plugin, de "ft-UVPass", a la secuencia de imágenes correspondiente al uvpass, debemos
+
+	de ir a las opciones del plugins, específicamente ha
+
+
+		_"textureImage"
+
+
+	_y allí, seleccionar el motivo ó textura, imágen ó composición la cual, deseamos mapear sobre la secuencia del 
+
+	diffuse map, ó beauty pass, posteriormente
+
+
+	_la layer, que hará como motivo ó imágen ó textura ha proyectar, es recomendable ocultar ésta en la composición para
+
+	que así, ésta no haga estorbo y no dificulte la configuración ó visualización del sistema
+
+
+	_así, como también, es recomendable precomponer ésta layer, ó motivo para que así, podamos tener acceso y control
+
+	individual de ésta layer, y poder así, por ejemplo; poder rotar y escalar ésta layer, ha voluntad en caso de que las
+
+	cordenadas no coincidan con las cordenadas del mapa uvmap, respectivo
+
+
+	_para posteriormente y por último seleccionar la layer, del uvmap, pass, con el efecto aplicado de "ft-uvpass",
+
+	aplicado e ir a sus opciones de modo de fusión shortcut, "F4"
+
+
+	_y seleccionar un modo de fusión adecuado el cuál, permita fusionar ésta layer, con la layer, del diffuse map, ó
+
+	beauty pass, el cuál, deberá estar por debajo de la layer, correspondiente al uvmap, ó material uvw
+
+
+	_para que así, pueda generar el efecto de mapeo 3d, correctamente
+
+
+	_también, es pòsible agregar una secuencia de imágenes correspondiente al "id object", para poder hacer una extracción
+
+	del motivo por medio de track matte, ó de la creación de un matte, personalizado
+
+
+
+
+
+
+
+
+
+
+
+
+

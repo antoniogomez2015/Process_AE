@@ -1,0 +1,135 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá ~hacer deformaciones de tipo drops, ó hondas de agua lo cuál es muy útil
+
+	para un sin número de fectos de distorsión 2d, para crear ondulaciones, ondas senoseidales entre otros
+
+
+	_de ésta manera, a través, de un epicentro personalizable podremos crear ondas concéntricas las cuáles se
+
+	desplazarán desde el epicentro hasta el área perimetral del sistema
+
+
+	_como podremos ver podremos crear efectos como por ejemplo de gotas callendo en un lago, granos de café 
+
+	calléndo en una taza de café entre otras muchas otras posibilidades
+
+
+	_otras opciones de creación también, nos permitirán crear efectos de tipo impacto concéntrico, procesos
+
+	para la representación de fracturas, otros
+
+
+
+	
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Ripple: (Ondulación)
+	_______
+
+
+		_Radius:
+
+			_ésta opción nos permitirá indicar la cantidad del efecto sobre la imágen
+
+
+		_Center of Ripple:
+
+			_ésta opción nos permitirá indicar el epicentro del sistema a partir del cuál,
+
+			se comenzarán ha generar las ondas hacia la periferia
+
+
+		_Type of Conversion:
+
+			_ésta opción nos permitirá indicar el tipo de distorsión de onda, entre las cuáles,
+
+			dispondremos de las siguientes:
+
+
+				_Symetric:
+
+					_ésta permite crear ondas más estables y predecirs, especialmente 
+
+					útil para denotar comporamientos concéntrico ó sónicos, otros
+
+
+				_Asymetric:
+
+					_ésta opción nos permitirá crear ondas más orgánicas e impredecibles
+
+					especialmente útil para emular ondas de agua, fluidos, otros
+
+
+		_Wave Speed:
+
+			_ésta opción nos permitirá animar el sistema de ondas concéntricas ha modo de "rate",
+
+			ó frecuencia e interpolación entre onda y onda creada
+
+
+		_Wave Width:
+
+			_ésta opción nos permitirá indicar el ancho de cada en relación a la anterior y a la 
+
+			siguientes, en un plano bidimensional
+
+
+		_Wave Height:
+
+			_ésta opción nos permitirá indicar el alto de cada en relación a la anterior y a la 
+
+			siguientes, en un plano bidimensional
+
+
+		_Ripple Phase:
+
+			_ésta opción nos permitirá hacer fluctuaciones del sistema, ésta opcón trabaja al 
+
+			unísono que la opción de "Wave Speed"
+
+
+
+
+
+
+
+
+
+
+
+
+
+

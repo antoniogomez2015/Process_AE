@@ -1,0 +1,114 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria primeramente rellenar una layer, de un color sólidos y plano más también, tendremos
+
+	la posibilidad de interactuar con máscaras aplicadas ha ésta respecta layer, sobre la cuál, se ha aplicado el
+
+	efecto
+
+
+	_de ésta manera, podremos utilizar diferentes criterios de acción ó trabajo, en los cuáles, podremos utilizar 
+
+	una máscara en específico ó todas las máscaras existentes
+
+
+	_más también, dispondremos de la opción de rellenado de máscara en la cuál, podremos hacer recervas sobre un 
+
+	área determinada por la respectiva máscara indicada, así, el rellenado de color ocurrirá sólo dentro ó fuera de
+
+	ésta respectiva máscara
+
+
+	_lo cuál, es especialmente útil para hacer reservas de áreas para diferentes procesos de paso contínuo y de 
+
+	producción así, como para mates entre otros procesos, otros
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Fill: (Relleno)
+	_____
+
+
+		_Fill Mask:
+
+			_ésta opción nos permitirá indicar una máscara sobre la cuál, en una primera instancia no se 
+
+			aplicará el efecto de rellenado con un color sólido
+
+
+		_Color:
+
+			_ésta opción nos permnitirá indicar el color el cuál, se utilizará para rellenar la layer,
+
+
+		_Invert:
+
+			_ésta opción nos permitirá invertir las áreas que están rellenas y las áreas que no están 
+
+			rellenas del color indicado
+
+
+		_Horizontal Feather:
+
+			_ésta opción nos permitirá disfunimar el área perimetral determinada por las respectivas 
+
+			máscaras indicadas ó que conforman el sistema de ésta manera, en el sentido horizontal 
+
+			podremos controlar la acutancia, resolución ó integración del sistema con las demás layers, 
+
+			de la composición respectiva
+
+
+		_Vertical Feather:
+
+			_ésta opción nos permitirá disfunimar el área perimetral determinada por las respectivas 
+
+			máscaras indicadas ó que conforman el sistema de ésta manera, en el sentido vertical
+
+			podremos controlar la acutancia, resolución ó integración del sistema con las demás layers, 
+
+			de la composición respectiva
+
+
+		_Opacity:
+
+			_ésta opción nos permitirá variar la opacidad general del sistema lo que permitirá integrar 
+
+			ésta layer, del sistema con las demás layers, de la composición
+
+
+
+

@@ -1,0 +1,64 @@
+
+
+http://videohive.net/item/layer-manager-3/11506618?s_rank=40
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Layer Manager 3
+
+
+	Layer Manager 3:
+
+
+	-este nos permite organizar layers, por medio de grupos, las cuales estarán relacionadas por un tipo
+
+	de acción determinada ó por otro tipo de procesos en producción
+
+
+	_en la versión del plugins v2.03, podemos sólo controlar las opciones y suiches de: visibility, solo, 
+
+	y lock, más en la versión 3, podremos controlar practicamente todos los suiches así, como otras opciones
+
+	más avanzadas
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener una composición de trabajo creada así, como también, las layers, que deseamos
+
+	organizar
+
+
+	_para luego seleccionar las layers, que deseamos que conformen un grupo y con éstas seleccionadas vamos al
+
+	panel "Layer Manager", y le damos al ícono de "+", para que así, nos aparesca una ventana contextual la
+
+	cuál, nos pedirá un nombre para el grupo ha crear
+
+
+	_luego debemos de darle al ícono de las flechas encontradas inferior para desplegar el panel el cuál, por
+
+	defecto biene colapsado
+
+
+	_y ya en las opciones del panel podremos asignarle un color personalizado el grupo como también, agregar ó
+
+	eliminar nuevas layers, ha éste grupo a través, de los íconos "+, o"
+
+
+	_así, como también, tendremos a nuestra disposición los íconos de los suiches disponibles para ésta versión
+
+
+	_de ésta manera a través, de un sólo click, podremos controlar el estado de los suiches para mútilples layers,
+
+	relacionadas a la vez
+
+

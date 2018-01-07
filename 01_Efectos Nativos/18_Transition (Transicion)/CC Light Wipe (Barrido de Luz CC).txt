@@ -1,0 +1,161 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El complemento Light Wipe, crea una transición que utiliza una fuente de luz para limpiar la capa fuente 
+
+	Esta luz puede ser de un color sólido o puede ser muestreada desde capa fuente mientras se borra. 
+
+
+	_La forma de la luz, así como la fuente y rotación, es completamente definible por el usuario.
+
+
+	_éste efecto nos permitirá realizar diferentes procesos de producción y paso contínuo así, como también,
+
+	como parte del constructivismo visual
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Light Wipe: (Barrido de Luz CC)
+	______________
+
+
+		_Completion:
+
+			_ésta opción nos permitirá indicarle al sistema que realize la complexión ó transición del
+
+			sistema generado lo que a su vez, nos permitirá animar el sistema
+
+
+		_Center:
+
+			_ésta opción nos permitirá indicar el centro ó epicentro a partir del cuál, se generará el
+
+			sistema en relación a las necesidades de producción
+
+
+		_Intensity:
+
+			_ésta opción nos permitirá indicarle al sistema la intensidad de la luz auto generada por el
+
+			sistema en relación a las necesidades de producción
+
+
+
+		_Shape:
+
+
+			_Round:
+
+				_ésta opción nos permitirá indicarle al sistema una forma gométrica a través, de la
+
+				cuál, se comenzará ha generar el sistema, en éste caso, el sistema se generará a 
+
+				partir de un círculo
+
+
+			_Square:
+
+				_ésta opción nos permitirá indicarle al sistema una forma gométrica a través, de la
+
+				cuál, se comenzará ha generar el sistema, en éste caso, el sistema se generará a 
+
+				partir de un cuadrado
+
+
+			_Doors:
+
+				_ésta opción nos permitirá indicarle al sistema una forma gométrica a través, de la
+
+				cuál, se comenzará ha generar el sistema, en éste caso, el sistema se generará a 
+
+				partir de una línea reacta
+
+
+		
+		_Direction:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la dirección ó rotación del 
+
+			sistema, de ésta manera, podremos ajustar el a nuestras necesisades de producción así, como
+
+			también, animar éste
+
+
+		_Color from Source:
+
+			_ésta opción nos permitirá indicarle al sistema que tome el color de la layer, base 
+
+			muestreando los colores de la misma
+
+		_Color:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el color empleado para la 
+
+			generación del sistema, de ésta manera, dispondremos de un picker, ó un selector de color
+
+			a través, del cuál, podremos indicar un color personalizado
+
+
+
+		_Reverse Transition:
+
+			_ésta opción nos permitirá indicarle al sistema que invierta el sentido del canal alpha,
+
+			auto generado para la creación del sistema, de ésta manera, lograremos que el sistema 
+
+			invirta su sentido de aplicación
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,127 @@
+
+
+http://www.creativedojo.net/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Dojo ToolKit
+
+
+	Set Render Dojo ToolKit:
+
+
+	-este es un paquete de opciones rápidas para una serie de acciones express, de general, expresiones, y
+
+	utilidades generales
+
+	
+	_de éste plugins, se poseen las dos versiones la "v1.2", y la versión "v2.1", las cuales tienen diferentes
+
+	opciones y formas de configuración
+
+
+
+	Workflow:
+	_________
+
+
+	Dojo ToolKit v1.2:
+
+		Setup:
+		______
+
+		_Letterbox:
+
+			_éste es el efecto de recorte horizontal de cine de proporciones anamórficas
+
+
+		_Camara Rig:
+
+			_éste permite crear un sistema de control completo de cámara cinematográfico a modo
+
+			comparativo del plugins "Simple camara rig", aunque éste de Dojo, es más completo
+
+			_para aplicar éste no debemos tener nada seleccionado en la composición que debe de
+
+			estar activa
+
+			_así, como tampoco es necesario haber creado una cámara previamente en la composición
+
+
+		_Color Grade:
+
+			_éste es un preset, para la gradación de color en el cuál, tendremos disponibles para
+
+			la edición de color de los siguientes controles:
+
+				_red Giant Magic Bullet looks
+
+				_Curves
+
+				_Levels
+
+				_Tint
+
+
+		_Grain:
+
+			_éste es un acceso directo para agregar el efecto de "Add Grain", para los efectos de ruido
+
+			de película en nuestras composiciones
+
+
+
+		Expressions:
+		____________
+
+		_Bounce:
+
+			_éste nos permite agregar el comportamiento de animación de rebote ha una animación ej, de
+
+			"transition"
+
+		
+		_Autoface:
+
+			_éste nos permite agregar el comportamiento de animación de desaceleración ha una animación 
+
+			ej, de "transition"
+
+
+		_Expor, Quart, Quad:
+
+			_éstos ofrecen también, comportamientos de desaceleración con sus respectivas variantes
+
+
+
+	Dojo ToolKit v2.1:
+
+		_esta agrega la opción de agregar una layer, con "optical fleres"
+
+		_así, como también, otra layer, de "soft Blur", ésta es una layer, con el efecto de "fast Blur"
+
+
+		_como también, dispone de unos accesos directos para creación ó ajuste de los siguientes criterios:
+
+			_CEN: centrar elementos
+
+			_FTC: ajustar el tamaño del elemento al tamaño de la composición 
+
+			_TRIM: recortar composición al tamaño de un elemento seleccionado
+
+			_CTL: mostrar controles de layers, ocultas
+
+			_ADJ: crear una nueva capa de ajuste
+
+			_PUR: purgar el cache de las imágenes
+
+			_SRT: agrupar elementos de panel proyecto de una carpeta
+
+			_CLN: remover material de arhivo no usado dentro del project panel
+
+
+	

@@ -1,0 +1,109 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear un incrustamiento de color ó keygin, de forma simple a través, de una selección 
+
+	de color por medio de la tolerancia del color podremos aumentar ó disminuir el efecto de keying, a través, de un 
+
+	umbral el cuál, indicará cuanta área de color igual y similar será borrada a través, de éste proceso.
+
+
+	_éste efecto es la opción más práctica para la eliminación directa de pixeles seleccionados a través, de un color 
+
+	determinado, para que así, podamos refinar ésta selección de pixeles ha eliminar
+
+
+
+	NOTA: en versiones modernas de after effects, éste efectos ha pasado de la categoría "Keyging", a categoría ó
+
+	sección de "Obsolete"
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+	
+
+	Color Key: (Incrustacion por Chrome)
+	__________
+
+
+		_Key Color:
+
+			_ésta opción nos permitirá seleccionar el color ha eliminar a través, de un picker, ó un
+
+			seleccionador de color
+
+
+		_Color Tolerance:
+
+			_ésta opción nos permitirá indicar un umbral de color seleccionado a eliminar de ésta
+
+			manera, entre mayor sea el umbral indicado mayor será el área de color elimninado, ya que
+
+			de ésta manera, el sistema irá eliminando colores contiguos más similares al color 
+
+			seleccionado
+
+
+		_Edge Thin:
+
+			_ésta opción nos permitirá retraer ó expander las áreas seleccionadas ó eliminadas del
+
+			respectivo color indicado sobre la imágen resultante del proceso, de ésta manera, podremos
+
+			ajustar la imágen para que así, el área eliminada pueda ser señida más ó menos al motivo
+
+			deseado
+
+
+		_Edge Feather:
+
+			_ésta opción nos pemritirá suavizar los bordes entre las áreas eliminadas y las áreas 
+
+			visibles de la imágen resultante lo que nos permitirá refinar los bordes de la imágen
+
+			resultante
+
+
+
+
+
+
+
+
+
+
+
+
+
+

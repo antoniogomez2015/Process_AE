@@ -1,0 +1,44 @@
+
+
+http://aescripts.com/extendscript-developer-utility/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Extend Script Developer Utility
+
+
+	Extend Script Developer Utility:
+
+
+	-este nos permite tener a disposición una verdadera interface de desarrollo javascript, dedicada ha
+
+	after effects, el cuál, nos brinda un filtro de elementos permitidos así, como también, métodos y 
+
+	sentencias asimilables por el sistema de forma rápida y precargada a la disposición así, como las 
+
+	operaciones más comúnes entre otras opciones disponibles
+
+
+	_también, dispondremos de un depurador e incluso un probador en el cuál, podremos correr ó ejecutar
+
+	los scripts, realizados
+
+
+	_ésto nos permite una gran versatilidad de desarrollo para un sin número de posibilidades en el 
+
+	desarrollo de scripts, dentro de after effects
+
+
+
+
+	Workflow:
+	_________
+
+
+	_darle caña!, ver tutorial para más información y documentación
+
+ 

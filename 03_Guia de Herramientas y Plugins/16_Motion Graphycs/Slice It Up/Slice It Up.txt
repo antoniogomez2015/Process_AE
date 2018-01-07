@@ -1,0 +1,140 @@
+
+
+
+
+Slice Ip Up
+
+
+	Referencia:
+
+		http://aescripts.com/slice-it-up/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite hacer una segmentación de una layer, a modo de slices, las cuales son altamente configurables a
+
+	través, de efectos que se agregan a la layers, respectiva los cuales nos permitirán animar ésta fragmentación
+
+	lo cuál, es muy útil para motion graphycs
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer rápidas animaciones de slices, de fragmentaciones para motion graphycs, y para otros procesos
+
+	avanzados de animación
+
+
+	_ésta fragmentación de imágen se conforma de auto enmascaramientos lo cuál, permite hacer movimiento de animación
+
+	de las slices, sin que éstas se solapen entre si así, como imágenes duplicadas como también, siempre se desplacen 
+
+	las slices, sobre la conformación de la imágen ha modo de "offset mask", ésto es especialmente útil para motion 
+
+	graphycs, y animación en producción para productos, otros
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_para ésto, debemos de tener una composición previamente creada
+
+
+	_luego debemos crear una layer, luego con ésta layer, seleccionada vamos al panel "Slice It Up1.5.1"
+
+
+	_éste plugins, se divide en tres partes bien diferenciadas, éstas son:
+
+
+	-----------------------------------------------------------------------------------------------------
+
+
+
+	Number of Slices:
+
+
+		_ésta permite indicar la cantidad de slices, ó segmentos de la imágen, éstos se harán en vertical
+
+
+	Z-Space distribution:
+
+		_ésta opción permite activar si deseamos un desface de los fragmentos en profundidad en la cordenada 
+
+		"Z", en 3d
+
+
+	Container Mode:
+
+
+		_ésta opción permite deliminar una forma contenedora del sistema general entre las que disponemos de;
+
+			_Square
+
+			_Circle
+
+			_Rectangle
+
+
+	Slice Ip Up:
+
+		_ésta opción permite crear el sistema de "Slice It Up", para ésto sólo tenemos que tener la layer, 
+
+		seleccionada que deseamos en el panel timeline
+
+
+	Random Y:
+
+		_ésta opción nos permite activar la opción de movimiento aleatorio para el sistema en la cordenada "Y",
+
+		el cuál, aplicará pos-creación, del sistema "Slice It Up", a modo de actualización dinámica e interactiva
+
+
+	Random With:
+
+		_ésta opción permite la graduación del "ancho", del sistema en la cordenada "Y", y ésta modalidad estará 
+
+		disponible a partir del paso anterior "Random Y"
+
+
+	Random X:
+
+		_ésta paso es una variante del paso anterior "Random Y", pero en la cordenada "X"
+
+
+	Equalise With:
+
+		_éste paso es una variante de paso anteiror "Random with", pero la estabilización
+
+
+	Random Z:
+
+		_ésta paso es una variante del paso anterior "Random Y", pero en la cordenada "Z"
+
+
+	Duplicate Comp:
+
+		_ésta opción permite hace un diplicado del sistema
+
+			
+
+
+		-
+
+
+

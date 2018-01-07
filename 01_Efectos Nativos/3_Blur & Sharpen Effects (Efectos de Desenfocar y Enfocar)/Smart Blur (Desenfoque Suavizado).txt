@@ -1,0 +1,114 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permitirá crear desenfoque y efectos de pasos contínuo para efectos más complejos, éste
+
+	efecto da resultados similares al efecto de "Bilateral Blur", aunque el efecto de "Smart Blur", es más
+	
+	completo y avanzado
+
+
+	
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Smart Blur: (Desenfoque Suavizado)
+	___________
+
+	_Radius:
+
+		_éste valor nos permitirá indicar la definición que tendrá el efecto de posterizado y cantidad de
+
+		áreas de desenfoque creadas ó contempladas por el sistema
+
+
+		_lo que quiere de decir es que con valores muy bajos las áreas de posteriozado tendrán un tamaño
+
+		mucho mayor ha modo de "cartoon" 
+
+
+		_mientras que cuando indicamos valores mucho más altos las áreas de posterizados de desenfoque 
+
+		serán más pequeñas y por ende habrán más áreas y, a su vez, se logrará un efecto de mayor 
+
+		definición ó profundidad al haber más áreas pequeñas de posterización de desenfoque
+
+
+	_Threslshold:
+
+		_éste valor permite indicar la cantidad ó umbral del efecto posterizado de desenfoque sobre áreas 
+
+		ó superficies con valores similares a través, de valores, tanto de color, luminancia, acutancia,
+
+		otros
+
+
+		_de ésta manera, éste efecto hace un efecto similar al efecto de "Bilateral Blur"
+
+
+		_así, entre mayor sea el valor asignado de éste valor, mayor será el desenfoque ó posterizado de
+
+		las áreas comtempladas hasta llegar ha dar la sensación de "cartoon"
+
+
+	_Mode:
+
+		_Mormal:
+
+			_ésta es la opción por defecto y nos permitirá ver el efecto de enfoque y posteriozado y 
+
+			demás características naturales del efectos sobre la imágen original
+
+
+		_Edge Only:
+
+			_éste nos permitirá ver la imágen en blanco y negro posterizado donde las áreas donde hay
+
+			más luminancia estarán representadas en blanco y las áreas con menos luminancia estarán
+
+			representadas en negro
+
+		
+			_lo cuál, nos permitirá para efectos colaterales entre otros efectos
+
+
+		_Overlay Edge:
+
+			_éste nos permitirá ver las áreas de mayor liminancia tomada por el efecto de color blanco
+
+			sobre la imágen original y las áreas con menos luminancia estarán representadas a través,
+
+			de la imágen original
+
+
+			_lo cuál, nos permitirá para efectos colaterales entre otros efectos
+
+	
+
+

@@ -1,0 +1,118 @@
+
+
+
+
+Centrum
+
+
+	Referencia:
+
+		http://aescripts.com/centrum/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite crear diferentes layers, y tipos de layers, para diferentes tipos de procesos útiles para una gran
+
+	serie de procesos avanzados en producción
+
+
+	_así, como también, permite organizar las layers, creadas ó existentes para que así, éstas layers, tomen en general
+
+	la forma geométrica de unas formas geométricas predeterminadas las cuáles podremos escoger
+
+
+	_más con la característica que se crea una layer, controladora con la cuál, podremos controlar el sistema y reajustar
+
+	y deformar la forma general creada por todas las layers, implicadas en el sistema
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite distribuir laryes, para diferentes procesos como motion graphycs, y otros procesos de constructivismo
+
+	visual a través, de la intervención de propieades concreatas de animación como "rotación, posición, escala, opacidad.."
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_para ésto debemos tener creada una composición base de trabajo a la cuál, debemos de crearle las layers, a las
+
+	cuáles deseamos hacerles transformaciones
+
+
+	_ó también podemos partir de una composición vacía
+
+
+
+Generate Layers (optional):
+
+	_ésta opción nos permite generar nuevas layers, en la composición activa para que las podamos utilizar en éste
+
+	proceso u otros, los tipos de layers, que podemos crear son:
+
+
+	_Nulls, Solids, Lights, Texts
+		
+
+
+Number of Layers:
+
+	_ésta opción nos permite indicar el número de layers, ha crear a partir del paso anterior
+
+
+Generate:
+
+	_ésta opción permite generar el sistema de layers, configurado en los dos pasos anteriores
+
+
+Choose path:
+
+	_ésta opción nos permite seleccionar entre una serie de figuras ó formas geométricas predeterminadas para
+
+	crear el sistema, entre las cuáles disponemos:
+
+
+	_Circle, Spiral, Helix, Cone
+
+
+Apply:
+
+	_ésta opción permite crear el sistema completo, para ésto, primero debemos seleccionar las layers, que conformarán
+
+	el sistema, éstas layers, pueden ser layers, existentes ó layers, que hayamos creado con el mismo sistema a través,
+
+	de los pasos anteriores
+
+
+	_y así, con las respectivas layers, deseadas seleccionas hacemos "Apply", para crear el sistema y para que así, las
+
+	respectivas layers, tomen la respectiva forma seleccionada en el paso anterior
+
+
+	_más en el momento de crear el sistema también, se agregará al timeline, una nueva layer, ésta es una layer, de tipo
+
+	"null object", llamada "Centrum Control", la contendrá una serie de efecto con los cuáles controlaremos el sistema
+
+	permidiéndonos deformar y ajustar la forma geométrica respectiva, otros
+
+
+
+

@@ -1,0 +1,155 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear efecto de una hoja doble cara tridimensional la cuál, tiene la propiedad
+
+	de poder hacerse reversible de forma global a través, de handles, ó targets, a través, de los cuáles, 
+
+	podremos virar la hoja respectivamente
+
+
+	_éste efecto es especialmente útil para diferentes efectos de producción y paso contínuo a través, de 
+
+	precomposiciones dentro del sistema, otros
+
+
+	_como por ejemplo para la creación de mattes, de luminancia, mapas de densidad interactivos, otros
+
+
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC PAGE TURN: (Paso de página CC)
+	_____________
+
+
+		_Controls:
+
+			_ésta opción nos permitirá seleccioanr el tipo de criterio de virado del sistema de ésta
+
+			manera, podremos indicar a partir de que ángulo ó extremo se realizará el virado de la 
+
+			hoja ó layer, tridimensional
+
+				
+
+
+		_Fold Position:
+
+			_éste es el elemento handle, ó target, a través, del cuál, se ejecerá el virado sobre la
+
+			imágen a través, del efecto
+
+
+			_de ésta manera, podremos virar ó invertir la imágen a través, de una de sus esquinas 
+
+			tirando a su vez, de las otras esquinas de la imágen
+
+
+			_y a través, de éste método podremos animar e interactuar con el resto del sistema ó imagen
+
+
+		_Fold Direction:
+
+			_ésta opción sólo estará disponible para el modo de virado de "Classic UI"
+
+
+			_y ésta opción nos permitirá camviar la dirección del sistema hasta en 360 grados en
+
+			relación al handle, ó target, del sistema
+
+
+		_Fold Radius:
+
+			_ésta opción nos permitirá indicar el suavizado de la curva de interpolación en el virado 
+
+			entre el área visible de la layer, delantera "from", y la tracera "back", y en relación a su 
+
+			vez, a la dirección de la luz del sistema
+
+
+			_de ésta menera, a través, de éste control podremos variar la cantidad de reflejo y volúmen
+
+			que presentará el sistema el cuál, dará la sensación de profundidad y tridimensionalidad
+
+
+		_Light Direction:
+
+			_ésta opción nos permitirá indicar la dirección simulada del sistema lo que permitirá a su vez,
+
+			atenuar ó acentuar el efecto de volúmen y profundidad del sistema en relación al virado entre
+
+			ambas layers, ó imágenes
+
+
+		_Render:
+
+			_ésta opción nos permtirá indicar el modo de trabajo del sistema de ésta manera, el sistema 
+
+			podrá trabajar sólo con un layer, delantera "From", sólo con la una layer, tracera "BACK", ó
+
+			tanto con la tracera como con la delantera "Front & Back Page"
+
+
+			_de ésta manera, podremos utilizar éstos modos para lograr diferentes efectos en producción y
+
+			paso contínuo
+
+
+		_Back Opacity:
+
+			_ésta opción nos permtirá indicar la transparencia u opacidad de la layer, complementaria ó la
+
+			cuál hará de layer, posterior del sistema de virado
+
+
+		_Paper Color:
+
+			_ésta opción será aplicación cuando en las opciones de "Back Page", seleccionemos la opción de
+
+			"None"
+
+
+			_de ésta manena, ésta opción nos permitirá indiar un color base de fondo para el sistema en los 
+
+			casos en que éste no tenga una imágen para la layer, del reverso ó "Back"
+
+
+
+
+	
+
+
+
+
+

@@ -1,0 +1,237 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permitirá crear desenfoques configurables y animables a través, de mapas de profundidad
+
+	por valores de luminancia lo cuál, va más allá de las posibilidades aunque similares del efecto 
+
+	"Compound Blur"
+
+
+	_de ésta manera, podremos utilizar para éste fin desde una layer, creada en Photoshop, con áreas de de 
+
+	desenfoque más claras y degradas con diferentes valores de acutancia
+
+
+	_así, como también, podremos utilizar layers, editadas y compuestas directamente en after effects, las
+
+	cuáles, deben de ser precompuestas para su correcta implementación
+
+
+	_más también, podremos utilizar mapas de depth map, y depth field, creados en aplicaciones 3d, otros
+
+
+	_ó cincluso podremos utilizar mapa de ambient occlusion, creados de forma bastante pronunciada, otros
+
+
+	_y una modalidad que nos ofrece excelentes resultados es a través, del kit de efectos de 
+
+	"Rowbyte/Buena Depth Cue", específicamente "Depth"
+
+
+		_para lo cuál, debemos de seleccionar la respectiva composición y aplicar 
+
+		"Composition/Apply Depth All Layer", para que así, se cree el sistema de depth map, el cuál,
+
+		utilizaremos posteriormente como mapa de desenfoque en el efecto de "Cama Lens Blur"
+
+
+	_ó incluso podríamos emular éste efecto crear una composición por a parte en la cuál, a través, de
+
+	layers, de tipo shape, crear formas en el sentido del desenfoque y a las cuáles, debemos aplicarles
+
+	el "Grdient Ramp", para así, emular el efecto de depth map
+
+	
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Camara Lens Blur: (Desenfoque de Lente de Camara)
+	_________________
+
+	_Blur Radius:
+
+		_éste valor nos permitirá indicar la cantidad de desenfoque ha aplicar
+
+
+	_Iris Properties:
+
+		_Shape:
+
+			_en ésta opción podremos escoger el tipo de desenfoque ha generar entre una serie de
+
+			modos precargados los cuáles, podremos escoger en relación al tipo de desenfoque ha 
+
+			conseguir
+
+
+		_Roundness:
+
+			_ésta opción puede conseguir un desenfoque más suave ó más cremoso
+
+
+		_Aspect Ratio:
+
+			_ésta opción nos permitirá conseguir un efecto de pseudo-directionamiento del 
+
+			desenfoque conseguido, siendo "1", un desenfoque porporcionado y, un valor menor que
+
+			"1", lograremos un desenfoque vertical y, un valor mayor ha "1", lograremos un 
+
+			desenfoque horizontal aunque más emborronado
+
+		_Rotation:
+
+			_ésta opción nos permite indicarle ángulo de rotación al desenfoque y por énde éste
+
+			efecto aplica sólo cuando cambiamos el aspecto del desenfoque en el paso anterior
+
+
+		_Difraction Fringe:
+
+			_(Indeterminado)
+
+
+	_Blur Map:
+
+		_Layer:
+
+			_en ésta opción podremos escoger la layer, la cuál, hará de depth map, por lo general
+
+			ésta layer, será de tipo composición
+
+
+		_Channel:
+
+			_ésta opción nos permitirá escoger el criterio de acción de la layer, que hará de 
+
+			depth map, entre los cuáles, disponemos de los siguientes:
+
+				_luminance/red/gren/blue/alpha, diendo liminance y alpha, los más importantes
+
+				para éste tipo de trabajos
+
+
+		_Placement:
+
+			_ésta opción nos permite estigmatizar el tipo de desenfoque conseguido ya que en ésta
+
+			opción podremos prestablecer que el desenfoque se concentrará e irá direccionado hacia
+
+			el centro de la composición ó irá distribuido en todo el área de la escena
+
+
+			_para lo cuál, ésta opción cuenta con dos opciones las cuáles, son:
+
+
+				_Center Map:
+
+					_distribución al centro
+
+
+				_Stretch Map to Fit:
+
+					_distribución homogénea
+
+
+		_Blur Focal Distance:
+
+			_ésta opción nos permitirá recorrer la imágen a través, del desenfoque a través, de la 
+
+			información del mapa degradado del depth map, todo el área posible de desenfoque, 
+
+			pasando así, por el área desenfocada inicial hasta el área de desenfoque final ó área 
+
+			enfocada
+
+
+			_hasta llegar el punto de caso la inversión del desenfoque
+
+
+		_Invert Blur Map:
+
+			_ésta opción es muy útil ya que nos permite de forma práctiva invertir la información 
+
+			del mapa de profundidad ó depth map
+
+
+	_Hightlight:
+
+		_éstas opciones nos permiten ajustar las características del mapa de profundidad ó depth map,
+
+		pudiéndo así, intensificar éste ó hacerlo más suave y sutíl
+
+
+		_Gain:
+
+			_ésta opción aumentará la intensidad del mapa variando su gamma tonal
+
+
+		_Threshold:
+
+			_ésta opción nos permitirá comprimir ó expandir la gamma tonal haciendo así, más 
+
+			agresivo ó sutíl el efecto de desenfoque resultante
+
+
+		_Saturation:
+
+			_ésta opción multiplica de forma exponencial los efectos logrados por los controles
+
+			anteriores de hightlight
+
+
+		_Edge Behavios:
+
+			_ésta opción activa la opción del control del comportamiento de los bordes en el 
+
+			desenfoque resultante
+
+
+		_Repeater Edge Pixels:
+
+			_ésta opción permite repetir los bordes en los extremos de la composición, otros lo
+
+			cuál, no bueno resultado en algunos casos
+
+
+		_Use Linear Working Spa:
+
+			_ésta opción aumenta u homogeniza el desenfoque en los bordes de la imágen
+
+
+		
+	
+
+
+
+
+
+
+

@@ -1,0 +1,56 @@
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+
+	Referencia:
+
+		http://help.revisionfx.com/task/21/
+
+
+	Tutorial Avanzado:
+
+		http://www.klemenlozar.com/frame-blending-with-motion-vectors/
+
+
+	Tutorial Dedicado:
+
+		Twixtor, Particular and RE:Fill create a unique motion-based particle effect
+
+			https://www.youtube.com/watch?v=mjdeE6w4iCg
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE: Motion Vectors Create:
+__________________________
+
+
+	_éste efecto nos permitirá generar un mapa especial a través, del cuál, podremos aumentar el realismo, profundidas ó
+
+	tridimensionalidad de los elementos en una escena por medio de éste mapa que podremos generar para diferentes procesos
+
+	de producción avanzada
+
+
+
+	NOTE: el efecto de "RE: Motion Vectors Create," biene por defecto con el plugins, "Twixtor", ó con la suite, completa 
+
+	de RE:VisionFx
+
+
+
+
+

@@ -1,0 +1,333 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Generate Effects:
+	_________________
+
+
+	_4-Color Gradient: (Degradado de 4 Colores)
+
+		_éste efecto nos permitirá generar rellenos de color a partir de cuatro focos de color, uno a cada 
+
+		esquina del canvas, los cuáles, son controlables y animables a través, de una handle, ó target, cada 
+
+		uno de éstos, como también, posteriozados de color, nos	permitirá crear looks, y embientes dinámicos 
+
+		de color para lograr igualaciones de color como correcciones a través, de la utilización de colores 
+
+		complementarios de la layer, base, otros
+
+
+
+	_Advanced Lightning: (Relampago Avanzado)
+
+		_éste nos permitirá realizar efectos eléctricos, fisuras, rayos, perímetros vibrantes, otros
+
+
+		_de ésta manera, podremos crear múltiples efectos de producción y paso contínuo entre otras 
+
+		posibilidades
+
+
+
+	_Audio Spectrum: (Espectro de Audio)
+
+
+		_éste efecto nos permitirá mostrar el espectro de audio y la magnitud de los niveles de audio este 
+
+		efecto puede mostrar el espectro de audio de diferentes maneras de ésta manera, podremos crear efectos
+
+		de sincronizacíón de audio así, como también, material de bandas, líneas en zipzap, puntos de creas, 
+
+		otros, para procesos de paso contínuo y producción
+
+
+
+	_Audio Waveform: (Forma de Honda de Audio)
+
+		_éste efecto es prácticamente idéntico al anterior aunque más simplificado pero permite incluso hasta
+
+		más posibilidades que el anteriores para ciertos propósitos
+
+
+
+	_Beam: (Haz)
+
+
+		_éste efecto nos pertmiria´la realización de lasers, pulsos luminosos, otros, en línea reacta y de forma
+
+		animada entre dos puntos determinables y animables
+
+
+
+	_Circle: (Circulo)
+
+		
+		_éste efecto nos pertmiria´crear un círculo geométrico de forma procedural el cuál, padrá estar totalmente
+
+		relleno ó estar hueco en su interior el cuál, a su vez, será totalmente configurable y animable	para la 
+
+		generación de mattes, mapas, otros
+
+
+
+	_Elipse: (Elipse)
+
+	
+		_éste efecto nos pertmiria´crear una elipse, de forma procedural totalmente configurable y animablbe, de
+
+		ésta maenra, podremos personalizar un círculo imperpecto ó elipse, ésta elipse, no podrá ser sólida sino que 
+
+		solamente en forma de anillo
+
+
+
+	_Checkerboard: (Tablero de Ajedréz)
+
+
+		_éste efecto nos pertmiria´matrices ó modulaciones de formas cuadradas ó rectangulares las cuáles, podrán
+
+		servir para diferentes procesos de mattes, mapas de deformación, otros así, como también, para la generación
+
+		de texturas proxis, otros, como también, para creación de cuadrantes, degradados múltiples así, como también, 
+
+		para generación dinámica de efectos en producción y paso contínuo entre otroas posibilidades
+
+
+	
+	_Cell Pattern: (Patron de Celdas)
+
+
+		_éste efecto nos pertmiria´crear patrones de celdas para genera patrones celulares basándose en el ruido celular. 
+
+		_para crear patrones estáticos o en movimiento. Los patrones pueden utilizarse a su vez como mates texturizados, 
+
+		como mapas de transición o como origen para mapas de desplazamiento. así, como también, efectosde paso contínuo y 
+
+		de producción entre otras posibilidades de mapas, patrones, modulaciones en módulos y super módulos, otros éstos 
+
+		patrones de módulos y super módulos podrán estar representados de forma ordenada ó desordenada y mixta, lo cuál, 
+
+		nos permitirá una gran versatilidad de producción y animación, otros
+
+
+
+	_Eyedropper Fill (Relleno de Cuenta Gotas)
+
+
+		_éste efecto nos pertmiria´muestrear un color del viewport,  de ésta manera, podremos obtener para diferentes
+
+		procesos de producción y animación así, como para la consecución de efectos especiales, otros así, podremos 
+
+		muestrear colores de imágenes y composiciones determinadas y animar éstos valores ó utilizarlos	para el sampleo 
+
+		de color de otros elementos y selectores y sistemas de color
+
+
+
+	_Fill: (Relleno)
+
+
+		_éste efecto nos pertmiria primeramente rellenar una layer, de un color sólidos y plano más también, tendremos
+
+		la posibilidad de interactuar con máscaras aplicadas ha ésta respecta layer, sobre la cuál, se ha aplicado el
+
+		efecto, para creación de reservas de relleno para múltiples procesos de mapas y producción, otros
+
+
+
+	_Fractal: (Fractal)
+
+		_éste efecto nos pertmiria crear efectos fractales paramétricos y procedurales, de ésta manera, podremos 
+
+		modificar y animar éstos de forma infinita así, como hacer acercamientos y distorsiones sin ningún limitante
+
+		de resolución ó alcance del mismo
+
+
+
+	_Gradient Ramp: (Gradacion de Degradado)
+
+		_éste efecto nos permtirá crear degradados sobre una layer, éstas pendientes de degradado las podremos 
+
+		personalizar tanto en posición y forma así, podremos crear pendientes lineales y radiales
+
+
+
+	_Grid: (Cuadricula)
+
+		_éste efecto nos pertmiria crear grillas y diferetnes efectos de producción y paso contínuo para la creación
+
+		de mattes, mapa, módulos, super módulos entre otras posibilidades dentro del constructivismo visual
+
+
+
+	_Lens Flare: (Destello de Lente)
+
+		_éste efecto nos pertmiria crear ó representar destellos de lente ó el efecto "llamarado", ó luz parásita 
+
+		dentro del objetivo de la cámara lo cuál, es especialmente útil para la generación de realismo y atmósferas, 
+
+		otros
+
+
+
+	_Paint Bucket: (Bote de Pintura)
+
+		_éste efecto nos pertmiria rellenar áreas de color seleccionada por coincidencia a través, de un picker, podremos 
+
+		seleccionar un área por el color de sus pixeles y rellenar ésta	área ó coincidencias de corlor con un color determinado
+
+		así, como también, podremos utilizar las opciones de "Paint Bucket/View Threshold", para obtener así, una matte, del 
+
+		color seleccionado de ésta manera, podremos obtener un matte, dinámico a través, del cuál, el cuál, incluso podremos 
+
+		variar con los demás colores contíguos de la imágen, escena ó composición respectiva, también, tendremos la posibilidad 
+
+		de crear mates directos
+
+
+
+
+	_Radio Waves: (Ondas de Radio)
+
+
+		_éste efecto nos pertmiria crear ondulaciones concéntricas con ritmo ó patrones regulares así, como también, para la 
+
+		generación mapas, mates, y demás procesos de producción y paso contínuo como también, podremos crear sistemas con forma 
+
+		circular ó con formas personalizadas a partir de una máscara ó incluso por valores de una layer, como luminancia, otros 
+
+
+
+	_Scribble: (Garabato)
+
+		_éste efecto nos pertmiria generar un sistema el cuál, nos permitirá crear ondulaciones en zip zap, hasta en modo de 
+
+		escritura en diferentes resoluciones lo cuál, nos pemritirá generar diferentes efecto aninados así, como efectos de 
+
+		paso contínuo y de producción
+
+
+
+	_Stroke: (Trazo)
+
+		_éste efecto nos pertmiria generar el efectos de rellenado de contornos así, como recorridos y animación de éstos así, 
+
+		como también, diferentes efectos de producción y paso contínuo
+
+
+
+	_Vegas: (Vegas)
+
+		_éste efecto nos pertmiria crear líneas segmentadas de color sobre una layer, ó área perimetral de una máscara de ésta 
+
+		maenra, podremos generar múltiples efectos para producción y paso contínuo las cuáles, podrán ser animadas como también, 
+
+		podremos crear efectos espectrales, especulares y causticos entre otras posibilidades de creación
+
+
+		
+	_Write-on: (Simulacion de Escritura)
+
+		_éste efecto nos pertmiria crear simulaciones de recorridos de trazados a través, de la generación de un contorno ó stroke, 
+
+		ó línea la cuál, se irá generando a través, del tiempo en relación a la posición y forma del path, ó trazado respectivo
+
+		lo cuál, es especialmente útil para un sin número de procesos de paso contínuo y de producción
+
+
+
+	_CC Glue Gum (Pistola de Pegamento CC)
+
+		_éste efecto nos pertmiria representar fluidos en forma de puntos ó trayectorias de fluidos anamadas de ésta manera, 
+
+		podremos emular ó simular fluidos ó efectos plásticos con diferentes comportamiento
+
+
+
+	_CC Light Burst 2.5: (Estallido de Liz 2.5 CC)
+
+		_éste efecto nos pertmiria el efecto "Zoom", concéntrico a partir de un punto y a su vez, con un desenfoque direccional 
+
+		al centro, éste efecto no permitirá realizar diferentes tipos de efectos a su vez como el de "star treck", transiciones,
+
+		otros
+
+
+
+	_CC Light Rays: (Rayos de Luz CC)
+
+		_éste efecto nos pertmiria crear en efecto de destello de luz concentrica en un punto de luz y a su vez, acompañado 
+
+		de un espectro de la imágen a la cuál, le hemos apliado el efecto, éste efecto es similar ó trabajaría perfecto con 
+
+		el efecto "CC Light Burst 2.5: (Estallido de Liz 2.5 CC)", lo cuál, ayudaría a la generación del efecto zoom, y luz 
+
+		espectral
+
+
+
+	_CC Light Sweep: (Barrido de Luz CC)
+
+		_éste efecto nos pertmiria crear un banda luminicente para diferentes efectos de producción y paso contínuo como 
+
+		también, para efectos de transición, realces compositivos, otros
+
+
+
+	_CC Threads: (Threads CC)
+
+		_éste efecto nos pertmiria crear texturización para diferentes tipos de procesos de paso contínuo ó producción así, 
+
+		como también, podremos hacer ó crear mattes, altamente personalizables para otros pos procesos de ésta manera, 
+
+		podremos crear diferentes procesos creativos para el constructivismo visual, otros
+
+
+
+
+	
+
+
+	
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

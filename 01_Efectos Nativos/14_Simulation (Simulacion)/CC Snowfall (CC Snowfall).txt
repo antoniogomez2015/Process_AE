@@ -1,0 +1,307 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos pemritirá crear partículas para generación de simulación de nieve, tormentas, fibras, 
+
+	poluciones, y diferentes procesos bases para producción y procesos de paso contínuo, otros
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Snowfall: (CC Snowfall)
+	____________
+
+
+		_Flakes:
+
+			_ésta opción nos permitirá indicar la cantidad de partículas generadas por el sistema
+
+
+		_Size:
+
+			_ésta opción nos permitirá indicar el tamaño aparente de las partículas generadas por el
+
+			sistema
+
+
+		_Variation % (Size):
+
+			_ésta opción nos permitirá indicar una proporción de oscilación en el tamaño de las 
+
+			partículas generadas por el sistema para que así, éstas tengan un tamaño aleatorio
+
+
+		_Scene Depth:
+
+			_ésta opción nos permitirá hacer variaciones en la densidad de las partículas así, con 
+
+			valores cercanos ha "0", habrá una densidad ó cnatidad de partículas superior y con valores
+
+			cercanos ha "5000", habrá una cantidad ó densidad de partículas menor
+
+
+		_Speed:
+
+			_ésta opción nos permitirá controlar ó indicar la velocidad que tendrán las partículas 
+
+			generadas y en caida hacia abajo en relación del efecto deseado y a las necesidades de 
+
+			producción y paso contínuo
+
+
+			_así, como también, éste parámetro controlará la apariencia de las partículas generadas así,
+
+			éstas podrán tener una apariencia más ha partículas circulares con un valor cercano ha "0", 
+
+			y una apariencia más ha "strands", con valores cercanos ha "5000"
+
+
+		_Variation % (Speed):
+
+			_así, como también, podremos indicar un valor ó proporción de generación aleatorio para
+
+			las partículas en relación a nuestras necesidades
+
+
+		_Wind:
+
+			_ésta opción nos permitirá cambiar la dirección del sistema de partículas generada así, 
+
+			podremos emulas la aplicación de viento sobre el sistema de partículas generado como 
+
+			también, cambiar la dirección de éste en relación a nuestras necesidades
+
+
+		_Variation % (Wind):
+
+			_como también, podremos agregar aleatoriedad a la dirección aplicada sobre el sistema de
+
+			partículas generado para que así, éste cobre más naturalidad
+
+
+		_Spread:
+
+			_ésta opción nos permitirá separar y mover las partículas entre si para cambiar así, su 
+
+			aspecto relativo como también, para realizar animaciones de transiciones horizontales de las
+
+			partículas generadas por el sistema
+
+
+
+		_Wiggle:
+
+			_Amount:
+
+				_ésta opción nos permitirá indicar la cantidad de oscilación horizontal de las 
+
+				partículas generadas por el sistema
+
+
+			_Variation % (Amount):
+
+				_así, como también, podremos indicar un valor de variación para la oscilación de las
+
+				partículas generadas para que así, ésta opción cobre las realismo
+
+
+			_Frecuency:
+
+				_así, como también, podremos indicar una fracuencia ó intervalo de osculación el 
+
+				cuál, podrá ser más sutíl ó acusado en relación a las necesidades de producción y
+
+				paso conínuo
+
+
+			_Variation % (Frecuency):
+
+				_y así, la frecuencia ó intervalo de osculación de las partículas que indiquemos
+
+				también, le podremos inidcar un valor de aleatoriedad para que así, ésta variación
+
+				sea más natural y realista
+
+
+			_Stochastic Wiggle:
+
+				_desactivar ésta opción cambia totalmente el comportamiento de las partículas para
+
+				que así, podamos crear otros efectos más algodonados ó de tipo fibras, otros
+
+
+			_Flake Flatness %:
+
+				_ésta opción nos permitirá controlar el definición ó resolución de las partículas
+
+				generadas por el sistema en relación a las necesidades de producción ó paso contínuo
+
+
+
+		_Color:
+
+			_ésta opción nos permitirá controlar el color de las partículas generadas de ésta manera,
+
+			podremos indicar un color personalizado a través, de un picker, de color a través, de un
+
+			selector personalizado
+
+
+		_Opacity:
+
+			_como también, podremos controlar la opacidad del sistema de partículas generadas para que
+
+			así, podamos integrar el sistema de partículas generadas con las demás layers, de la
+
+			respectiva composición de forma más fácil
+
+
+
+		Background Illumination:
+
+
+			_Influence %:
+
+				_ésta opción nos peritirá hacer más visible ó nó el sistema de partículas generadas
+
+				afectando así, la iluminación por defecto aplicada el sistema de partículas
+
+
+			_Spread Width:
+
+				_(Indeterminado)
+
+
+			_Spread Height:
+
+				_(Indeterminado)
+
+
+
+			_Transfer Mode:
+
+
+				_Lighten:
+
+					_en ésta opción prevalecerá los valores de luminancia del propio sistema de
+
+					partículas generados por el sistema y no los de las demás layers, de la
+
+					composición respectiva
+
+
+					_ésta opción funcionará sólo si la opción de "Composite Width Original", 
+
+					está activada
+
+
+				_Composite:
+
+					_en ésta opción prevalecerá los valores de luminancia de las demás layers,
+
+					de la respectiva composición y no los del sistema de partículas generados 
+
+					por el sistema 
+
+
+					_ésta opción funcionará sólo si la opción de "Composite Width Original", 
+
+					está activada
+
+
+			_Composite Width Original:
+
+				_ésta opción nos permitirá integrar el sistema de partículas generados por el 
+
+				sistema de forma total con las demás layers, de la respectiva composición dejando
+
+				así, el fondo en transparence sobre la layer, sobre la cuál, se ha aplicado el 
+
+				efecto
+
+
+
+
+
+			Extras:
+
+
+				_Offset:
+
+					_ésta opción nos permitirá mover ó desplazar todo el sistema pudiendo así,
+
+					animar la posición del sistema a través, de handle, directamente en el 
+
+					viewport, del panel composition ó a través, del panel effects controls, a 
+
+					través, de parámetros específicos
+
+
+				_Ground Level %:
+
+					_ésta opción nos permitirá enmascarar el sistema de partículas desde la 
+
+					mitad hacia abajo del viewport, en el panel compositing, en el sentido 
+
+					horizontal para que así, podamos hacer diferentes efectos e integraciones 
+
+					como también, transiciones, cortinas otros
+
+
+				_Embed Depth %:
+
+					_ésta opción nos permitirá descartar las partículas que se encuentren en 
+
+					planos posteriores al primer plano lo cuál, simplificará el sistema de 
+
+					partículas para que así, podamos generar diferentes efectos
+
+
+				_Random Seed:
+
+					_ésta opción nos permitirá agregar animación inicial aleatorio sobre el 
+
+					sistema de partículas generado
+
+
+
+

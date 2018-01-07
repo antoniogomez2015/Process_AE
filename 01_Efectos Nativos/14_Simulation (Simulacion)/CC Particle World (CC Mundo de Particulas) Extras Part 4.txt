@@ -1,0 +1,154 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		Tutorial After Effects 046 Cielo y nubes con Particle World
+			https://www.youtube.com/watch?v=Gx5Wc60FnqQ
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_Extras:
+
+
+			_Effect Camara:
+
+				_Estos ajustes se utilizan sólo cuando no hay ninguna cámara AE, presente. Cualquier valor establecido, ó animado, 
+
+				será ignorado cuando una cámara AE, esté presente. La cámara de efectos Puede ser controlado en la interfaz de usuario 
+
+				de la Composición con la caja Axis. Gire la Caja del Eje para gire la cámara en X, Y y Z. Cmd-arrastre para especificar FOV.
+
+
+				_Distance:
+
+					_Utilice este control para determinar la distancia desde la cámara al centro de la Particle Entorno Global
+
+
+				_Rotation X | Y | Z:
+
+					_Utilice estos controles para girar la cámara en sus propios ejes X, Y y Z. Cambiando el La rotación de la cámara 
+
+					X, gira a izquierda y derecha, cambiando su rotación Y Abajo, y cambiando su rotación de Z, gira la cámara izquierda 
+
+					o derecha
+
+
+				_FOV:
+
+					_El FOV, describe el tipo de "lente virtual" utilizado para la representación, similar a la AE, Ángulo de visión de la 
+
+					cámara. Bajar este valor hace un zoom, en el productor (O lo que la cámara está haciendo en el frente). Aumentar este 
+
+					valor produce un "gran angular", La cámara ajusta automáticamente su distancia al valor FOV. Esto puede Causar un efecto 
+
+					de "vértigo" cuando se anima FOV. Si esto no es adecuado para su animación Se recomienda utilizar una cámara AE, en su 
+
+					lugar
+
+
+			_Depth Cue:
+
+				_Type:
+
+					_Utilice este menú emergente para determinar cómo afectará la profundidad ó "Depth", en relación a la densidad de a las 
+
+					partículas en la animación ó a través, del tiempo
+
+
+						_None:
+
+							_La indicación de profundidad está desactivada
+
+
+						_Fade:
+
+							_Las partículas se desvanecen a medida que se alejan de la cámara
+
+
+						_Fog:
+
+							_Las partículas cambian al color de niebla a medida que se alejan de la cámara
+
+
+				_Distance:
+
+					_Utilice este control para determinar a qué intensidad de velocidad aumenta. Ajustes más altos Aumente el efecto Cue de 
+
+					Profundidad. La distancia se mide en Particle World Coordenadas (1.0 = ancho de la capa fuente). Supervisado: Este 
+
+					control se desactiva si no se selecciona None en la profundidad cue Type.
+
+
+				_Fog Color:
+
+					_ésta opción nos permite a través, de un selector ó picker, poder seleccionar un color el cuál, se utilizará para 
+
+					generar el efecto de fog, ó niebla
+
+
+
+			_Light Direction:
+
+				_Utilice los controles de este grupo para establecer la posición de la fuente de luz direccional, La luz iluminará las partículas 
+
+				desde este ángulo. Esta dirección también se utiliza cuando project on Floor, se selecciona en el control de animación de render
+
+
+
+				_Light X | Y | Z:
+
+					_a través, de éstas opciones podremos indicar las cordenadas correspondiéntes a la dirección que tendrá la iluminación
+
+					del sistema de partículas en general
+
+
+				_Hold Particle Release:
+
+					_Esta característica controla cuánto tiempo (en relación con su duración) una partícula permanecerá en su Lugar de 
+
+					nacimiento, antes de comenzar su movimiento asignado (basado en el Sistema de Animación seleccionado)
+
+
+				_Composite With Original:
+
+					_Cuando se selecciona, la capa fuente se integrará en el mundo de partículas esto se puede utilizar para que las 
+
+					animaciones de partículas giren alrededor de un objeto
+
+
+					_en otras palabras ésta opción fusionará el sistema de partículas con el color base de la layer, a la cuál, se le ha
+
+					aplicado el efecto y hará ésta layer, base visible también
+
+
+
+
+
+
+
+
+
+
+
+
+

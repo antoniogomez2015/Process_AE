@@ -1,0 +1,107 @@
+
+
+http://aescripts.com/autosway/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express
+
+
+	AutoSways
+
+
+	-este nos permite hacer uno de los efectos ó posibilidades de IK, ó inversa kinemática de forma fluida
+
+	para lograr efectos de telas, elementos blandos que están suspendidos por un punto determinado, otros
+
+	efectos físicos y de cinemática directa e inversa
+
+
+
+	Workflow:
+
+
+	PuppetPinTool Mode:
+	___________________
+
+		_primero debemos de crear nuestra composición de trabajo
+
+
+		_así, como también, la layer, que hará de elemento blando, por lo general una shape, ó solid, el
+
+		cuál, escalamos y hacemos de la forma deseada
+
+
+		_para luego, ir a la barra de herramientas y seleccionar la herramienta de "puppet pin", shortcut:
+
+		"Control + P", y proceder hacer pines, de forma descendente en relación a la lógica del movimiento
+
+		ó kinemática del motivo ó elemento blando
+
+
+		_para que así, cuando hayamos terminado de generar los pines, deseados volvemos al panel "AutoSway",
+
+		y aún con la herramienta "puppet pin", activa ó seleccionada hacemos "PuppetPinTool Mode:/Apply", 
+
+		con la respectiva layer, seleccionada para que así, sea aplicado el sistema 
+
+
+		_de ésta manera se agregarán a la composición dos nuevas layers, éstas serán dos layers, guía, las cuales
+
+		representarán cada unos de pines, que hemos creado sobre la layer, motive, y así éstos contendrán el 
+
+		sistema así, como los efectos controladores del sistema
+
+
+		_ahoraa través, de los controles, de la layer, gride, "Ppin", podremos animar el comportamiento y flujo de 
+
+		la layer, con cinemática y kinemática a través, del tiempo en el timeline
+
+
+
+	Layer Mode:
+	___________
+
+		_ésta opción nos permte crear un motivo a través, de matrices ó super módulos obtenidos de una layer por
+
+		medio de una interface la cuál, nos permite poder configurar como deseamos ésta motivo especial
+
+
+		_para ésto, debemos de crear una layer, en nuestra composición de trabajo, ej; un solid, para luego con éste
+
+		seleccionado ir al panel "AutoSway/Layer Mode", y hacer ">Tool", para que así, se abra la interface de edición
+
+
+		_en  ésta interface, podremos indicar en cuantos segmentos deseamos dividir la imágen así, ó hacer instancias ó 
+
+		copias de ésta como también,  su orientación, punto de anclaje, esala, posición, opacidad, otros, más la posibilidad
+
+		de la distribución de éstas en el espacio para lograr efectos avanzados de cinemática
+
+
+		_ésta modalidad no requiere que previamente hayamos aplicados puppet pins, sobre la imágen, y así, de ésta 
+
+		manera el sistema crear precomposición con las respectivas partes ó segmentos indicados por nosotros más una layer,
+
+		guide, con los controladores del sistema
+
+	
+		_así, como también, nos permite la posibilidad de aplicar el primer proceso de puppet pin, en una layer, para aplicar
+
+		aplicar el segundo proceso de replicación, otros
+
+
+
+	
+
+	
+
+
+
+	
+
+	

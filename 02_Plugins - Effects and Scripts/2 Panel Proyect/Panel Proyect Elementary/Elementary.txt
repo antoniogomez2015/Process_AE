@@ -1,0 +1,27 @@
+
+
+http://aescripts.com/elementary/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Elementary
+
+
+	Panel Proyecto/elementary
+
+
+		-éste plugins, sirve de forma complementaria ó extendida al opciones y efectos del plugins,
+
+		"element 3d", de la casa "VideoCopilot"
+
+
+		_a través, del cuál, podremos crear puntos de anclas, sombras, frflexiones, mates, entre otros
+
+		efectos posibles a los elementos generados a través, del plugins element 3d, como también, para
+
+		otros plugins, compatibles con estos efectos ó plugins "Elementary"
+	

@@ -1,0 +1,193 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá diferentes tipos de efectos y resultados para diferentes procesos de paso contínio y
+
+	efectos más complejos dentro den flujo de producción, otros
+
+
+
+	Criterio:
+
+	_la opción de "Maximum", agrega un pixel a las áreas de determinadas en una imágen en relación ha 
+
+	"Raius: 1", de ésta manera, al indicar un valor mayor, podremos entonces extender áreas de forma práctica
+
+	dentro de una imágen y sección de ésta
+
+
+	_por el contrario la opción de "Minimu", resta un pixel a las áreas determinadas en una imágen en relación
+
+	ha "Radius: 1", de ésta manera, al indicar un valor mayor podremos entonces contraer ó retraer áreas de
+
+	forma práctica dentro de una oimágen y selección de ésta
+
+
+
+	Aplicaciones:
+
+	_como por ejemplo, nos permitirá extender y contraer ó retraer los bordes en una imágen con alpha, nativo 
+
+	ó cmpuesto así, como también, en una layer, con áreas recordas como layers, de tipo shape, ó con máscaras 
+
+	y precompuestas
+
+
+	_lo cuál, es especialmente útil para un sin número de procesos de matte, chrome key, otros así, como 
+
+	también, para la creación de efectos especiales
+
+
+	_ésto nos permitirá crear efecto muy específicos al poder por ejemplo, extender el área perimetral de un
+
+	canal alpha, ó cualquier otro canal
+
+
+	
+	Innovación
+
+	_a través de lo cuál, podremos hacer animaciones avanzadas y motion graphycs, ya que éste método nos 
+
+	permitirá hacer ajustes a través, de áreas las cuáles, compartan valores de luminancia, tono, saturación,
+
+	luminancia, otros
+
+
+	_así, como también, efectos colaterales como efectos de lienzo y espatulado, pseudo puntillismo, acuarelados
+
+	entre otros
+	
+	
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Minimax: (Minimo Maximo)
+	_______
+
+	_Operation:
+
+		_ésta opción nos permitirá indicar el tipo de criterio ó algoritmo de trabajo ó acción los cuáles,
+
+		disponemos de los siguientes:
+
+
+			_Maximum:
+
+				_ésta opción permitirá en general, extender áreas determinadas de una imagen en 
+
+				relación al criterio ó canal seleccionado en las opciones de "channel"
+
+
+			_Minimum:
+
+				_ésta opción permitirá en general, contraer áreas determinadas de una imagen en 
+
+				relación al criterio ó canal seleccionado en las opciones de "channel"
+
+
+			_Mix:
+
+				_ésta opción permitirá en general, extender y contraer áreas determinadas de forma
+
+				relativa de una imagen en relación al criterio ó canal seleccionado en las 
+
+				opciones de "channel"
+
+		
+
+
+	_Radius:
+
+		_ésta opción nos pemritirá indicar la influencia ó acción del efecto sobre la layer, a la cuál, le
+
+		hemos aplicado el efecto
+
+
+	_Channel:
+
+		_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmos de acción ó trabajo como
+
+		por ejemplo:
+
+
+			_Color
+
+			_Color and Alpha
+
+			_Red / Green / Blue
+
+			_Alpha
+
+
+	_Direction:
+
+		_ésta opción nos permitirá indicar el la dirección de trabajo del sistema lo cuál, nos permitirá 
+
+		agregar dimensión al efecto resultante, por defecto está determinada la opción de 
+
+		"Horizontal & Vertical", 
+
+
+		_para así, obtener un efecto con distorción ó aplicacion homogéneas, tanto en su cordenada vertical
+
+		como horizontal a la vez, más también, podremos limitar éste ha una distorción ó aplicación del 
+
+		efecto sólo en el sentido vertical u horizontal 
+
+
+		_lo cuál, emulará una direccionalidad y movimiento en el efecto resultante entre muchas otras 
+
+		posibilidades entre los efectos compuestos y de paso contínuo, otros
+
+
+	_Dont Shring Edges:
+
+		_ésta opción nos permitirá en muchos casos limitar la acción del efecto para éste no extienda los
+
+		bordes de una área perimetral determinada
+
+
+		_especialmente útil para procesos con canales alpha, otros
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

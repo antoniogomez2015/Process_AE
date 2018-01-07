@@ -1,0 +1,256 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear el efecto de kaleidoscópio ó efecto fractal en el cuál, una layer, puede
+
+	ser modulada para lograr diferentes efectos dentro del constructivismo visual
+
+
+	_de ésta manera, podremos crear módulos y super módulos de forma procedural, es decir, de las partes de una
+
+	imágen que al repetirse se hacen rítmicas creando patrones y comportamientos visibles que son afectados 
+
+	entre si
+
+	
+	_ó a través, de la combinación con otros efectos para la modulación como los son la serie de efectos "Tiler", 
+
+	de ésta manera, podremos crear nuestros propios módulos los cuáles, podremos posteriormente aplicarle el 
+	
+	efecto de "Kaleida", para que podamos tener un máximo control ya que incluso podremos animanar los módulos 
+
+	creados con los efectos "Tiler", posteriormente
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	CC Kaleida: (Caleidoscopio CC)
+	___________
+
+
+		_Center:
+
+			_ésta opción nos permitirá indicar cuál, será el epicentro del sistema lo cuál, a su vez,
+
+			cambiará el comportamiento de la modulación de la imágen ya también, cambiará el punto de
+
+			referencia del algoritmo del cálculo para la generación del efecto
+
+
+			_de ésta manera, a través, de éste control podremos manipular las estructuras generadas por
+
+			el sistema en relación a nuestras áreas ó módulos de interés
+
+
+		_Size:
+
+			_ésta opción nos permitirá indicarle al sistema la escala global del sistema generado lo que
+
+			quiere decir, que a través, de éste contol podemos controlar el tamaño de cada módulo 
+
+			generado y del patrón de interacciones a gran escala ó de forma global
+
+
+		_Mirroring:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el algoritmo ha utilizar para
+
+			la generación del sistema, de ésta manera, dispondremos de los siguientes:
+
+
+
+				_Unfõld:
+
+					_ésta opción despliega la imágen haciendola reversible en relación al valor
+
+					de "Rotation", desplazando la imágen y distorsionando ésta generando así, 
+
+					diferentes comportamientos y patrones en la imágen resultante
+
+
+				_Wheel:
+
+					_ésta opción es idéntica ha "Unfold", más con la diferencia que el sistema
+
+					en éste caso, genera módulos de la imágen base en relación a la escala del 
+
+					sistema de ésta manera, podremos crear estructuras más complejas ya que 
+
+					éstos módulos tienen un perimetro propio y bien definido y una 
+
+					escalabilidad propia
+
+
+				_Fish Head:
+
+					_ésta opción es idéntica ha "Unfold", más con la diferencia que el sistema
+
+					en éste caso, genera módulos aún más pequeños que la opción de "Wheel", y
+
+					también, con la diferencia que en éste caso, los módulos generados estarán 
+
+					invertidos en zipzap, generados de la imágen base en relación a la escala 
+
+					del sistema de ésta manera, podremos crear estructuras más complejas ya que 
+
+					éstos módulos tienen un perimetro propio y bien definido y una 
+
+					escalabilidad propia
+
+
+
+				_Can Meas:
+
+					_ésta opción es idéntica ha "Fish Head", más con la diferencia que en éste
+
+					caso lo módulos estarán girados u orientados hacia el lado opuesto
+
+
+					_de ésta manera, podremos realizar efectos a medida en relación a las
+
+					necesidades requeridas por el proyecto
+
+
+				_Flip Flop:
+
+					_ésta opción dividirá la layer, base en segmentos ó bandas horizontales
+			
+					las cuáles, tendrán todo el ancho de la layer, base
+
+
+					_y sobre éstos segmentos a través, de la propiedad de "Rotation", podremos
+
+					hacer el efecto de "Unfold", distorsionando así, la imágen en cada banda
+
+					respectivamente
+
+
+				_Flower:
+
+					_ésta opción crea módulos concéntricos lo que quiere decir, es que los
+
+					módulos generados estarán a su vez reflejados unos contra otros lo cuál,
+
+					hará que éstos no tengan bordes definidos ya que en éste caso, la imágen
+
+					estará reflejada y por ende compartirán los mismos pixeles en los bordes
+
+					contiguos al ser éstos reflejados
+
+
+					_lo cuál, generará efectos modulares concéntricos tipo flores entre otros
+
+					muchos otros comportamientos e interacciones armónicas y fuerzas entre las
+
+					diferentes formas de la imágen base
+
+
+				_Dia Cross:
+
+					_ésta opción es idéntica ha "Unfold", más con la diferencia que el sistema
+
+					en éste caso, genera módulos aún más pequeños que la opción de "Wheel", y
+
+					también, con la diferencia que en éste caso, los módulos generados estarán 
+
+					invertidos en zipzap, y virados a la vez, generados de la imágen base en 
+
+					relación a la escala del sistema de ésta manera, podremos crear estructuras 
+
+					más complejas ya que éstos módulos tienen un perimetro propio y bien 
+
+					definido y una escalabilidad propia
+
+
+				_Flipper:
+
+					_ésta opción es idéntica ha "Unfold", más con la diferencia que el sistema
+
+					en éste caso, genera módulos aún más pequeños que la opción de "Dia Cross", 
+
+					y también, con la diferencia que en éste caso, los módulos generados estarán 
+
+					invertidos en zipzap, generados de la imágen base en relación a la escala 
+
+					del sistema de ésta manera, podremos crear estructuras más complejas ya que 
+
+					éstos módulos tienen un perimetro propio y bien definido y una 
+
+					escalabilidad propia
+
+
+				_Starlish:
+
+					_ésta opción es una variación más elaborada ó alternativa a la opción de
+
+					"Flower", lo cuál, nos permitirá igualmente crear efectos más armoniosos
+
+					entre patrones y comportamientos característicos
+
+
+
+		_Rotation:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el ángulo de rotación para la
+
+			generación de módulos y super módulos
+
+
+			_de ésta manera, podremos hacer variaciones sobre los patrones y comportamientos rítmicos
+
+			generados por el sistema para que así, podamos lograr los efectos deseados
+
+
+		_Floating Center:
+
+			_ésta opción nos permitirá indicarle al sistema que force el centrado de todo el sistema
+
+			de módulos generados con el centro de la imágen base, lo que permitirá hacer un centro del
+
+			sistema de manera global
+
+
+
+
+
+
+
+
+
+
+
+

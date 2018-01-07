@@ -1,0 +1,135 @@
+
+
+
+EFX ID Select
+
+
+	Referencia:
+
+		http://aescripts.com/efx-render-elements-z-depth-tools/   https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+	
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite configurar y utilizar las reservas dentro de un "ID Map", de forma selecta y personalizada
+
+
+	_ésta opciones son muy ´útiles para diferentes procesos en producción avanzado, otros
+
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer mattes, avanzados en producción de forma personalizada y con una mayor perfección que con
+
+	el proceso "EFX Velocity Select", y "EFX Z_Depth Cut"
+
+
+	_éstas opciones tienen mútiples aplicaciones en diferentes procesos tanto básicos como avanzados de producción
+
+
+	_más éste proceso por ahora no da los resultados esperados con un mapa id, generado por nosotros dentro del mismo
+
+	after effects
+
+
+	
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+
+	_primero debemos tener una composición de trabajo previamente creada
+
+
+
+ID Blur:
+________
+
+	_luego debemos incorporar los maps, respectivos en la composición de trabajo, en éste caso en "diffuse map",
+
+	como mapa base al cuál, se agregaremos el plugins "Effects EFX RE/EFX_ID Blur 10"
+
+
+	_así, se entiende que al render map, al cuál, le apliquemos el filtro "ID Blur 10", será el mapa corregido
+
+
+
+ID Pass:
+________
+
+
+	_para luego en las opciones del plugins ir a las opciones de "ID Pass:", y seleccionar el "ID Map", de 
+
+	la composición de render que tendremos que tener previamente en la respectiva composición
+
+
+
+Options:
+________
+
+
+	_así, podremos ir variando los valores de tolerancia para ir ajustando el pass, de acuerdo con los valores
+
+	en el sistema de EFX ID Select, éstos son:
+
+
+
+	_Show:
+
+		_éste permite seleccionar si mostrar el "ID Map", "ID seleccionado", ó la imágen original
+
+
+	_0 Selection Tolerance:
+
+		_éste permite indicar el valor de la tolerancia para seleccionar un respectivo "ID"
+
+	
+	_Full Selection Tolerance:
+
+		_éste permite indicar el valor de la tolerancia general para todo el sistema
+
+
+	_ID 1/2/3/4/5:
+
+		_éste permite seleccionar el "ID Map", los respectivos colores de los respectivos "IDs", deseados
+
+
+	_Invert:
+
+		_ésta opción permite invertir el sistema en general
+
+
+	_Original Alpha:
+
+		_ésta opción permite indicar el criterio de alpha, ó matte, generado en el sistema, los más recomendados
+
+		son las opciones de "Replace, y Average"
+
+
+
+Resultado:
+__________
+
+
+	_de ésta manera al final tendremos un sistema de seleccionar de reservas de mattes, a través, de selecciones
+
+	personalizas dentro de un id map, respectivo para la escena ó composición en general
+	
+
+

@@ -1,0 +1,84 @@
+
+
+http://aescripts.com/vertex-tool/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+panel FxPro / vertex tool
+
+
+	vertex tool
+
+
+	-éste nos permite modificar los vertex, de una path, de un shape para lograr distorciones y deformaciones
+
+	especiales entre otras posibilidades de animación
+
+
+	workflow:
+	_________
+
+	_primero debemos seleccionar un path, ó el trazado de la forma deseada a modificar
+
+
+	_para luego ir al panel "FxPro/Vertex Tool"
+
+
+	_Tarteg:
+
+		_en éstas opciones podemos elegir si seleccionar todos los vertex, "All", ó uno en específico "one" 
+
+		y, en ésta opción nos aparecerá un target, ó mira la cuál podremos posicionar en el vertex, deseado
+
+		respectivo ha modificar, más también, para controlar ésta opción dispondremos de unas arrows, para 
+
+		navegar entre los diferentes vertex, existentes en la shape/path
+
+
+	_value:
+
+		_ésta opción permite indicar la cantidad de deformación de los handles, de los vertex, modificados
+
+	
+	_method:
+
+		_ésta opción nos permite indicar el criterio de acción, si éste será por radios ó por porcentajes
+
+
+	_animate:
+
+		_ésta opción permite que hacer mouse left click, sobre una de iconos de deformación se creen sobre
+
+		timeline, del path, respectivo unos keyframes, de animación los cuales ejecutarán la animación desde 
+
+		un punto cero hasta un punto de conformación de un 100%
+
+
+	_store shape sata:
+
+		_esta opción es funcional cuando estamos trabajando no con todos los vertex, del path, sino con uno ó
+
+		unos en específico
+
+		_permitiéndonos hacer deformaciones sobre el vertex, seleccionado para luego hacer "store shape data", 
+
+		para luego, hacer mouse left click, sobre el icono de deformación deseado y lugo pasar al siguiente vertex, 
+
+		y repetir el proceso, éste proceso nos permitirá poder aplicar diferentes deformaciones para cada de los 
+
+		vertex, que desiemos editar de forma independiente
+
+
+	_restore shape:
+
+		_ésta opción nos permite restablecer los vertex, y sus respectivos handles, ha su posición original ó inicial
+
+
+
+
+
+

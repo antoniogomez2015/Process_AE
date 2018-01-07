@@ -1,0 +1,79 @@
+
+
+
+
+Animation Patterns
+
+
+	Referencia:
+
+		http://aescripts.com/trigger/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar disparadores de animación 
+
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite tener una animación previamente animada a la cuál, podremos acceder a través, de disparadores
+
+	configurables
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_primero debemos crear una una composición base de trabajo
+
+
+	_así, primero debemos crear una precomposición dentro de nuestra composición principal de trabajo a la cuál, le 
+
+	aplicaremos el "Trigger"
+
+
+	_luego debemos seleccionar la precomposición respectiva deseada dentro de nuestra composición de trabajo y con 
+
+	ésta seleccionada ir al panel "Trigger", para aplicar "Retime", para que así, se le aplique un "Time Remap", a 
+
+	nuestra precomposición respectiva seleccionada
+
+
+	_para a continuación entrar dentro de la precomposición a la cuál, le aplicamos "Trigger/Retime", y ya dentro
+
+	de la precomposición respectiva en la cuál, se habrá agregado una nueva "null layer", en la cuál, tendremos que 
+
+	ir agregando "Markers", shorcuts "Number Path (*)", en las áreas de interés deseadas
+
+
+	_por ultimo debemos volver a la composición principal y seleccionar la precomposición respectiva la cuál le
+
+	aplicamos "Trigger/Retime", para que así, procedamos ha aplicar ha la precomposición nuevos "Markers", los cuales
+
+	por general deberán estar ubicados en el mismo tiempo y nombre que le colocamos y ubicamos dentro de la 
+
+	precomposición para que así, haya correspondencia axcepto para efectos especiales
+
+
+	_de ésta manera habremos logrado disparadores personalizadas de una animación previamente realizado
+
+
+	

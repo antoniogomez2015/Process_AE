@@ -1,0 +1,74 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Umbral convierte las imágenes en color y en escala de grises en imágenes en blanco y negro con 
+
+	un contraste muy alto. Especifique un determinado nivel como umbral; todos los píxeles más claros que ese 
+
+	umbral se convierten en blancos y todos los píxeles más oscuros, en negro. 
+
+
+	_Este efecto funciona con colores de 8 bpc y 16 bpc.
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Threshold: (Umbral)
+	__________
+
+
+		_Level:
+
+			_ésta opción nos permitirá indicarle al sistema el umbral a partir del cuál, el sistema
+
+			sintetizará la imágen en su gama tonal hasta reducir ésta hasta un estencil, en el rango
+
+			deseado
+
+
+			_de ésta manera, podremos crear efectos de posteriozados absolutos para diferentes procesos
+
+			de producción y paso contínuo como por ejemplo, para la creación de mattes, alphas, proxis,
+
+			entre otras muchas otras posibilidades
+
+
+
+
+
+
+

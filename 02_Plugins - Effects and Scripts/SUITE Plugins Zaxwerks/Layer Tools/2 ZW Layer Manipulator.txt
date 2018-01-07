@@ -1,0 +1,102 @@
+
+~
+
+Video2Brain, Cinema 4D y After Effects: Extensión de decorados
+	http://binbox.io/kCWVX#61obyGkN
+
+
+Digital Vision Nucoda v2016.1.046 Win x64
+	http://cgpersia.com/2016/11/digital-vision-nucoda-v2016-1-046-win-x64-129149.html
+
+
+https://mega.nz/#!K5dXWRba!MbFBWNjtfm3yhcibKdtHbfHhhMwlyNzPMkoGzgYIZEk
+
+
+	Zaxwerks 3D Flags
+
+		Tutorial After Effects Plugins Zaxwerks
+			
+			https://www.youtube.com/watch?v=zWIn_mpk2NI
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Zaxwerks Layer Toold / ZW Layer Manipulator:
+	____________________________________________
+
+
+	_éste plugings, ó ayuda nos permitirá rotar, escalar ó mover varias layers, de una composición como un todo
+
+	y al unísonos sin la necesidad de realizar un emparentamiento entre layers, directamente si no que el 
+
+	sistema internamente se encagará de todo temporalmente
+
+
+
+	Workflow:
+	_________
+
+	_para lo cuál, lo primero será tener creada una composición de trabajo así, como al menos al menos
+
+	dos layers,  ó más layers, éstas deben de tener la propiedad "3D", activada
+
+
+	_para a continuación ir al menú "Animation/keyframe Assistant/ZW Layer Manipulator"
+
+
+	_para luego, proceder ha seleccionar las layers, ha transformar en el panel composition e ir con
+
+	éstas layers, seleccionadas al panel "ZW Layer Manipulator"
+
+
+	
+
+
+	ZW Layer Manipulator:
+	______________________
+
+
+	_pivot:
+
+		_ésta opción es la más importante para el sistema ya que ésta opción nos pemitirá 
+
+		indicarle al sistema a través, de cuál, layer, éste tomará la referencia para hacer la
+
+		transformación como "translate,rotate,scale,..", sobre las demás layers, de la respectiva 
+
+		composición
+
+	
+
+
+	_translate:
+
+		_ésta opción nos permitirá indicarle al sistema la cordenada ha transformar en valores
+
+		positivos ó negativos
+
+
+	_rotation - orientation:
+
+		_ésta opción nos permitirá indicarle al sistema la cordenada ha rotación u orientación 
+
+		en valores positivos ó negativos
+
+
+	_reset:
+
+		_éstas opciones nos permitirán resetear propiedades de animación como position, scale, 
+
+		rotation, anchor point
+
+
+	_scale:
+
+
+		_ésta opción nos permitirá indicarle al sistema una forma de escala
+
+
+

@@ -1,0 +1,644 @@
+
+
+
+
+
+	Distribución de Plugins, y Efectos en la Interface
+
+	
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	_a continuación se enuncia un esquema ó estructura de como están ordenados los plugins, y efectos dentro de
+
+	la interface, de la configuración "conf9"
+
+
+	_los paneles tienen como nombre el plugins, que tienen cargado ó seleccionado por defecto
+
+
+
+
+	1_Panel Layer_Groups2:
+
+		*_Layer_Groups2
+
+		*_Locations
+
+		*_EvilTwinStereo3D-v1.0.2
+
+		*_aw_Triangulator v1.3 ScriptUI
+
+		_Speed Lines v1.2
+
+		*_Slice it Up v1.5.1
+
+		*_Sliced Box v2.51
+
+		*_pt_ContactSheet
+
+		*_exportForClient v1.01
+
+		*_EvilTwinStereo3D
+
+
+
+	2_Panel Project:
+
+		_Info
+
+		_Dufx
+
+		_LockProperties
+
+		_Audio
+
+		_AsciiGenerator_1.3
+
+		_Elementary
+
+		_Align
+
+		_Align3D_220
+
+		_Randomizer
+
+		_Perspective_changer
+
+		_FindAndReplaceKeyframes
+
+		_copymask2Layer_2_1
+
+		_SaveCompAsProject_v2
+
+		_Dynamic Comp
+
+		_Paragraph
+
+		_Brushes
+
+		_Project
+
+
+
+	3_FxPro:
+
+		_FxPro
+
+		_Effects
+
+		_Dugr
+
+		_Motion 2
+
+		_Layer Storage 1-0
+
+		_djRenderHogs v1.00
+
+		_pt_Panorama
+
+		_Holomatrix
+
+		_Align to Path v1-6
+
+		_ft-Effects Instance
+
+		_Centrum_v1_03
+
+		_pt_FrameRestorer
+
+		_Vertex Tool v1.0.1
+
+		_LightMan_v1.0
+
+		_BendLayers 1.2
+
+		_Effects & Presets
+
+		_Paint
+
+		_Centrum
+
+		_Conform_Studio
+
+		_Power Stroke
+
+		_Character
+
+
+
+	4_Composition:
+
+		_ProjectCleaner_v1.2
+
+		_Media Browser
+
+		_Bat Search-n-Replace Paths
+
+		_Previewer
+
+		_Composition
+
+		_Layer flower
+
+		_Footage flower
+
+		_AE Global Renamer 2
+
+		_Set Render Queve Time Spans
+
+		_sb_autoRender
+
+		_BatchPreocessor
+		
+		_Animation Composer
+
+		_Dojo Toolkit v1.2
+
+		_Dojo Toolkit v2.1
+
+		_ExpressionUniversalizer2_01
+
+		_ExpressionTimeline2
+
+		_iExpressions_1_18
+
+		_CINEWAREproxy__m
+
+		_ExtendScriptDeveloperUtility_v1_00
+
+		_MochaImportPlus5
+
+		_MochaImportPlus
+
+		_Automate to Sequence_v1.1
+
+		_MaskVertexExpression
+
+		_Create3DMengerSponge
+
+		_rd_GimmePropInfo
+
+		_Flowchart (none)
+
+		_Metadata
+
+		_CopyPasteMarkers_v2.0
+
+		_Scribe v1.0
+
+		_IsoMatic FX
+
+		_E3D Mografter FX_monter
+
+		_Dojo Text Generator v1.3
+
+		_ScriptsManager
+
+		_rd_ScriptLauncher2
+
+		_Textor 1.1
+
+
+
+
+	5_Effects Controls:
+
+		_Effects Controls
+
+		_FontList+
+
+		_Effect manager
+
+		_Stardust
+
+		_Bingov1.0
+
+		_rd_Statesman
+
+		_quick_preview_v1.0
+
+		_Layer Manager v2.03
+
+		_MatchRate
+
+		_ProjectSync
+
+		_Immigration
+
+		_rd_CompSetter
+
+		_Chameleon
+
+		_Ray Dynamic Color
+
+		_Ray Dynamic Color_v1.5
+
+		_QuickDraw 1_0_1
+
+		_pt_SSAKaraokeAnimator
+
+		_lipsyncr_1_1
+
+		_textsyncr_1-0
+
+		_bq_HeadRig
+
+		_Duik
+
+		_PuppetTools v3.6
+
+		_BVH Importer
+
+		_AEInfoGraphics
+
+		_EasyPieChart
+
+		_Automated_Video_Editing_v1.07
+
+		_BeatAssistant_v1_04
+
+		_MaskTrackerPlus
+
+		_Tracker2Mask
+
+		_OrientWorld
+	
+		_AudioTOMarkers
+
+		_AED_AwkwardPause_v1.1
+
+		_EasySlideShow_v1.0
+
+		_Templater
+
+		_Mask Interpolation
+
+		_BR_Paint_Out_1.0
+
+		_BR_ProjectionCC_1.01x76
+
+		_AlignLayers
+
+		_Mirrow & Offset
+
+		_M_LinesCreator v1.01
+
+		_Stereo COnverter
+
+		_Stereo Viewer
+
+		_Stereo Footage
+
+		_easyRulers
+
+		_parrot
+
+		_Vigoro v1.0
+
+		_voronoi shatter v2.0
+
+		_Divide & Corner v1.0
+
+		_RigFast_Web_Browsers
+
+		_PBA_Launcher
+
+		_FX_Particle Builder
+
+		_Pro FX Presets [Particular]
+
+		_Cloners+Effectors
+
+		_ClonersShapeSplit
+
+		_ClonersTextSplit
+
+		_PixelateIt
+
+		_Transformer v1.0
+
+		_Scripts
+
+		
+
+
+	6_Labels:
+
+		_Labels
+
+
+
+
+	7_AE_Mercury
+
+		_AE_Mercuty
+
+		_autosway_v1.73
+
+		_leems Animation Tools v2.5
+
+		_3D Fli Book
+
+		_3D Paper Jam
+
+		_animationPATTERNS
+
+		_Tiny Tools 1.1
+
+		_goodParents
+
+		_Motion_Mode
+
+		_AutoCircularMotion
+
+		_Easy Bake
+
+
+
+
+	_8_VersionUp
+
+		_VersionUp
+
+		_Stereo3DToolkit_v2.03
+
+		_FX Console
+
+		_Roll_it
+
+		_Prism
+
+		_LayerSlayer 1.0
+
+		_compCode
+
+		_Preview
+
+		_Overlap
+
+		_Link v1_5
+
+		_Cluster_v2.03
+
+		_ExplodeShape
+
+		_Curva_scriptUI
+
+		_HeadsNTails_v.1
+
+		_Paragraph on a Path
+
+		_DescomposeText
+
+		_SimplifyMasks
+
+		_timeremap-source
+
+		_CenterMasks
+
+		_Auto Crop
+
+		_zl_TrimCompToContents
+
+		_TranslateExpressions
+
+		_pt_Multiplane-v2.5
+
+		_Distortion_Selector_v2.0
+
+		_KeyTweak (son dos versiones diferentes)
+
+		_obj-vertex-export
+
+		_BG Renderer
+
+		_ProjectInfoListExporter_v1
+
+		_pt_ImportSubtittles_v1.41
+
+		_3DtoScreenSpace0_2b
+
+		_Markers Sync
+
+		_pt_CropPrecomps
+
+		_KeyTweak (son dos versiones diferentes)
+
+		_pt_importSubtittles
+
+		_PropertyEffector v1.0.1
+
+
+
+
+	9_CI Layer Strippers:
+
+		_CI Layer Stripper
+
+		_Shape Motion v1-1
+
+		_Easy Arrows v1.2
+
+		_ActivateDisabledExpressions
+
+		_swissd
+
+		_3D Splitter
+
+		_AutoSway_CS5-CS6_eng_v1.72
+
+		_Tracker
+
+		_Smoother
+
+		_Universal Audio
+
+		_Motion Sketch
+
+		_Wiggler
+
+		_Stereo 3D Toolkit
+
+		_QuickLensFlare
+
+		_Trigger
+
+		_LayerStalker
+
+
+
+	10_Comp/Timeline:
+
+		_comp
+
+		_StoryBoarding_v1.5
+
+		_aed_rendertemplates_v1_0
+
+		_Shortcut_Key_Reference_v2_3
+
+		_pt_EffectSearch
+
+		_TextEvo
+
+		_Magnum3
+
+		_QueveMaster 1.00_CG_Persia
+
+		_pt_ExpressEdit2_1
+
+		_pointers_1_23
+
+		_Obsessive Layers
+
+		_rd_Scooter
+
+		_DistributeLayers
+
+		_pt_TextEdit
+
+		_rd_EditText
+
+		_rd_Movement
+
+		_rd_SimpleConsole
+
+		_rd_Notation
+	
+
+
+
+	11_GOB Latest_Version:
+
+		_GOB_Latest_Version
+
+		_BR_3D_Widgets_v1.01
+
+		_ConnectLayer_1.1
+
+		_Dojo Renamer v1.1
+
+		_Dojo Extruder v2.0
+
+		_DojoGlitch v2.1
+
+		_Dojo Orbit v1.1
+
+		_Dojo Shifter v1.2
+
+		_Dojo Sharpener v1.2
+
+		_Dojo Screenshot v1.2
+
+		_gp_version_snapshot_v1.1
+
+		_BR_3D_Bevel_v1.1
+
+		_Two Soded Layer v1-1
+
+		_jdSmartBaker
+
+		_aw_Autosaver
+
+		_Ease and wizz
+
+
+
+
+	12_qp_proxyman:
+
+		_pq_proxyman v1.5
+
+		_CreateProxies
+
+		_rd_Approximate
+
+		_rd_Partial
+
+		_AE Global Renamer
+
+		_Ducop
+
+		_True Comp Duplicator
+
+		_rd_CompSheet
+
+		_rd_Preservation
+
+		_rd_RemoveKeys
+
+		_rd_KeyMarkers
+
+		_rd_MarkerNavigator
+
+		_Marker COnductor
+
+		_Bookmarker v1.1
+
+		_rd_RemoveMarkers
+
+		_Layer Marker Batch Editor
+
+		_rd_Commentron
+
+		_rd_GetSmart
+
+		_rd_ExprTweaker
+
+		_rd_BatchLayerConverter
+
+		_rd_DivvyUp
+
+		_rd_KindaSorta
+
+		_rd_SolidRenamer
+
+		_rd_SnapDecisions
+
+		_rd_Slicer
+
+		_rd_Shifter
+
+		_rd_GuessWhat
+
+		_rd_GimmePropPath
+
+		_AEMap utilities
+
+		_AEMap
+
+		_GEOLayers_v_1_076
+
+		_Text_Split_and_Animate_v1.0
+
+		_TranShape
+
+		_Dojo Scripting Utility v1.1
+
+		_Dojo Task List v1.1
+
+		_BR_Illumination_v1.024
+
+		_COB_SSD
+
+		_ButtCapper
+
+		_matrix
+
+		_RubberHose
+
+		_Array v1.53
+
+		_cal_TimeOffsetAnimation
+
+		_SkinRetouch
+
+
+
+
+
+
+

@@ -1,0 +1,111 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá no tanto hacer correcciones ó ajustes de color, luminocidad y saturación que no 
+
+	que más bién, éste nos permnitirá equilibrar el espectro de gammal de la imágen, dejando ésta con todos su 
+
+	valores al máximo para diferentes procesos de producción y de paso contínuo
+
+
+	_de ésta manera, a través, de diferentes algoritmos podremos homogenizar el especto de la gamma de valores 
+
+	de la imágen donde se verán potencializados los valores de tono, saturación y brillos al máximo
+
+
+	así, podremos entender que éste efecto cambia los valores de los pixeles de la imágen para producir una 
+
+	distribución de componente de color o brillo más uniforme
+
+
+
+	NOTE: éste efecto es imprescindible utilizarlo mínimo a compañado por el efecto "Levels", apilado 
+
+	posteriormente al efecto de "Equalize"
+
+
+	_así, como también, podremos utilizar los plugins, externos de:
+
+
+		_qp Grade Assitant2
+
+		_BCC Videoscope
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Equalize: (Equializar)
+	_________
+
+
+		_Equalize:
+
+			_RGB:
+
+
+				_éste modo creará un espectro de la gamma con mayor información en la zona de los 
+
+				medios tonos llevando al máximo posible la gamma del HLS, (tono, saturación y 
+
+				brillo), en éste criterios de maximización de los tonos medios
+
+
+
+			_Brightness:
+
+				_éste modo creará un espectro con mayor información homogénea en todo el HLS, 
+
+				llevando al máximo posible la gamma del HLS, (tono, saturación y brillo), en éste 
+
+				criterios de maximización hacia las altas luces
+
+
+				_de ésta manera, éste es el modo que da mayores resultado de ganancia ya que lleva
+
+				la gamma tanto de las luces, sobras y medios tonos al espectro más alto de las altas
+
+				luces, lo cuál, enriquece al máximo el espectro de la gamma en general
+
+
+				_lo cuál es especialmente útil y necesario para la mayoría de procesos
+
+
+
+			_Photoshop Style:
+
+				_éste ofrece una curva de gamma similar a la ofrecida por el modo "RGB"
+		
+
+
+
+
+
+

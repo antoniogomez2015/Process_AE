@@ -1,0 +1,4 @@
+Look At Expression:
+value+lookAt(thisComp.activeCamera.toWor­ld([0,0,0]),position)[0]
+value+lookAt(thisComp.activeCamera.toWor­ld([0,0,0]),position)[1]
+value+lookAt(thisComp.activeCamera.toWor­ld([0,0,0]),position)[2]

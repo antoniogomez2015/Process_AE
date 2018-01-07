@@ -1,0 +1,251 @@
+
+
+http://aescripts.com/conform-studio/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Conform Studio
+
+
+	CS Extract:
+
+
+	-este nos permite exportar composiciones como nuevos proyectos en un directorio determinado dentro de
+
+	nuetro equipo, éste plugins, es similar ha "Save Comp Ass Project", y similares
+
+
+	_así, como también, nos permite compilar los arvhivos de las respectivas composiciones exportadas como
+
+	proyectos
+
+
+	_como también, nos permitirá reajustar ó cortar el material de archivo que conforma las respectivas
+
+	composiciones exportadas
+
+	
+
+	Workflow:
+	_________
+
+
+	_así, en las opciones del plugins podremos configurar las siguientes opciones:
+
+
+	Destination directory:
+
+		_ésta opción es fundamental ya que ésta nos permite indicar la ruta del directorio donde
+
+		serán volcados los nuesvos proyectos respectivos por cada composición exportada como un 
+
+		nuevo proyecto
+
+
+	Search selection recursivity:
+
+		_ésta opción nos permite indicarle al sistema que busque dentro de carpetas dentro de 
+
+		carpetas dentro del panel "project", así, el sistema podra buscar todas las composiciones
+
+		en sub-directorio dentro del panel proyecto
+
+
+	Extract comps into separate directories:
+
+		_ésta opción nos permite indicarle al sistema que extraiga las composiciones como nuevos 
+
+		proyectos en diferentes sub-directorios, del directorio principal seleccionado
+
+
+	Enable advanced processing:
+
+		_ésta opción nos permite indicarle al sistema que deseamos activar las opciones avanzadas de
+
+		procesamiento
+
+
+	Media management:
+
+
+		_Do nothing:
+
+			_ésta opción le indicará al sistema que sólo exporte las composiciones seleccionadas
+
+			ó dentro de folders, como nuevos projects, dentro del directorio especificado pero 
+
+			no haga más nada como compilar los archivos de proyectos y demás opciones posibles
+
+
+		_Collect files:
+
+			_sta opción le indicará al sistema que no sólo exporte las composiciones seleccionadas
+
+			ó dentro de folders, como nuevos projects, dentro del directorio especificado si no que 
+
+			también, haga la compilación de los archivos de proyectos y demás opciones posibles
+
+
+		_Trim footage:
+
+			_ésta opción permite indicarle al sistema que activa las opcioens de recorte y 
+
+			reconfiguración del material de archivo de conforma las composiciones exportadas como 
+
+			nuevos proyectos
+
+
+	PROCED:
+
+		_(NO FUNCIONA, no se por que?)
+
+
+
+Trim Settings:
+______________
+
+
+	_éstas opciones estarán disponibles sólo cuando activemos las opciones de: 
+
+		
+		"Media management/Trim footage"
+
+
+
+
+	Encoding templates Render Settings:
+
+		_ésta opción nos permite seleccionar un preset, de render para renderzar nuestro material
+
+		de archivo ha recompilar y post editar
+
+
+	Files without alpha channel:
+
+		_ésta opción nos permite indicar el formato de archivo de salida para archivos con canal 
+
+		alfa de dalida
+
+
+	Files with alpha channel:
+
+		_ésta opción nos permite indicar el formato de archivo de salida para archivos con canal 
+
+		alfa
+
+
+	Leave original media un trimmed project:
+
+		_ésta opción permite utilizar los archivos originales del panel proyecto para la recomposición
+
+	 	que a su vez, están relacionados a la composición exportada como un nuevo proyecto, para así,
+
+		no tener que hacer duplicados de éstos
+
+
+	Add handles:
+
+		_ésta es la opción más importante ya que permite ampliar la duración de las composiciones 
+
+		seleccionadas de ésta manera, podremos solapar composiciones en el timeline y hacer ajustes
+
+		avanzados como transiciones entre otras posibilidades
+
+
+	Consolidate gaps shorter than:
+
+		_ésta opción es un filtro configurables el cuál, nos permitirá filtrar que archivos con un rango
+
+		de duración específico serán compilados en el proceso, así, podremos asignarle un valor en segundos
+
+		ej: los clips, ó composiciones con una duración de entre 5 segundos
+
+
+	Sa ass defaults:
+
+		_también, tenemos la posibilidad de guardar configuraciones previas como configuraciones por defecto
+
+
+Processing:
+___________
+
+	
+	_éstas opciones estarán disponibles sólo con la opción "Enable advanced processing", activada
+
+
+
+	Move comps to folder:
+
+		_ésta opción activa la posibilidad de mover las composiciones exportadas como proyectos ha una
+
+		estructura de carpetas emulada del proyecto original de donde fueron exportadas
+
+
+	Comps:
+
+		_ésta opción nos permite seleccionar un folder en el panel project, y luego hacer "click", en
+
+		las flechas del campo "COMPS", en el panel "CS Extract", para que así, el sistema tome ó emule
+
+		la estructura de carpetas así, como también, podremos manualmente estribir la ruta de archivos
+
+		deseada ha generar
+
+
+	Move footage to folder:
+
+		_ésta opción activa la posibilidad de mover el material de archivo ha exportar como parte del
+
+		proyecto  exportado
+
+
+	FOOTAGE:
+
+		_ésta opción nos permite seleccionar un folder en el panel project, y luego hacer "click", en
+
+		las flechas del campo "FOOTAGE", en el panel "CS Extract", para que así, el sistema tome ó emule
+
+		la estructura de carpetas así, como también, podremos manualmente estribir la ruta de archivos
+
+		deseada ha generar
+
+
+	Project scripts:
+
+		_ésta opción nos permite compilar una serie de scripts, dentro del sistema de nuestro equipo y
+
+		agregarlos ha la exportación para así, éstos scripts, sean exportas también, y estén disponibles
+
+		en la estructura de archivos exportados
+
+
+		_de ésta manera, podremos posteriormente instalar éstos scripts, en la computadora donde abramos
+
+		el proyecto posteriormente
+
+
+	Composition scripts:
+
+		_ésta opción nos permite compilar una serie de scripts, dentro del sistema de nuestro equipo y
+
+		agregarlos ha la exportación para así, éstos scripts, sean exportas también, y estén disponibles
+
+		en la estructura de archivos exportados
+
+
+		_de ésta manera, podremos posteriormente instalar éstos scripts, en la computadora donde abramos
+
+		el proyecto posteriormente
+
+
+	Save as defaults:
+
+		_también, tenemos la posibilidad de guardar configuraciones previas como configuraciones por defecto
+
+
+
+

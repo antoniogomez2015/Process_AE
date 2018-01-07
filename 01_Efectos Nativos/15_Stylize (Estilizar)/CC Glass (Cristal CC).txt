@@ -1,0 +1,327 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear efectos de relieves y depresiones para la generación de volúmen de rellenos
+
+	y translúcidos
+
+
+	_así, como también, nos permitirá la generación de efectos especiales en diferentes procesos de producción
+
+	y paso contínuo, éste efecto para esos casos también, en combinado con los efectos de "CC Plastic", como
+
+	también, del efecto "CC Blobbylize", y el efecto "CC Bector Blur", para creación de efectos especiales
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	CC Glass: (Cristal CC)
+	_________
+
+
+		_Surface
+
+
+			_Bump Map:
+
+				_ésta opcíon nos permitirá seleccionar una layer, la cuál, hará de proxi y de la
+
+				cuál, se extraerá información de sus valores de contraste y luminancia para la
+
+				generación del efecto "Bump Map", sobre la layer, sobre la cuál, se aplicó el
+
+				efecto
+
+
+				_de ésta manera, a través, de ésta información obtenida de la layer, que hará de
+
+				proxi, se generará el efecto de "Glass", ó relieves y depreciones los cuáles,
+
+				emularán el efecto de volúmenes tanslucidos
+
+
+			_Property:
+
+				_R/G/B/Alpha/Lightness/Luminance:
+
+					_ésta opcíon nos permitirá indicarle al sistema cuál, será el criterio de
+
+					muestreo de la layer, proxi, por lo general el valor por defecto es de
+
+					"Lightness", más también, podremos indicar cualquier otro valores ó 
+
+					criterio como un color r,g,b, ó un canal alpha, por ejemplo
+
+
+			_Softness:
+
+				_ésta opción tiene diferente implicaciones sobre la generación del sistema así, con
+
+				valores cercanos ha "0", el sistema practicamente será inapreciable y los bordes se
+
+				volverán rugosos
+
+
+				_más con valores cercanos ha "100", el efecto también, se desvanecerá siendo así,
+
+				casi inapreciable
+
+
+				_de ésta manera, podremos ver que los mejores valores se encuentran en una curva de
+
+				entre "20-50", de ésta manera, dentro de éste rango el efecto se verá resaltado y 
+
+				con bordes más suavizados ó menos suavizados
+
+
+			_Height:
+
+				_ésta opción nos permitirá indicar el umbral de la magnitud del efecto generado así,
+
+				si indicamos valores cercanos ha "0", el efecto será muy sutil ó leve
+
+
+				_más si indicamos valores cercanos ha "100", el efecto estará resaltado y en su 
+
+				máxima expresión en relación a las necesidades requeridas
+
+
+			_Displacement:
+
+				_ésta opción es complementaria a la opción de "Height", del paso anterior, ya que la
+
+				opción de "Displacement", en relación a la altura indicada para la generación del
+
+				sistema 
+
+
+				_es a partir de la cuál, que el sistema realizará el desplazamiento para emular la 
+
+				difracción de la luz y las formas en relación al volúmen simulado de las áreas en 
+
+				relieve y de las áreas en depresión
+
+
+
+		_Light
+
+
+			_Using
+
+
+				_Effect Light:
+
+
+					_ésta opción es la por defecto en la cuál, dentro del mismos efecto se
+
+					tratará de emular dos tipos de luces posibles, una luz direccional y una
+
+					puntural, las cuáles, podremos controlar directamente en las opciones del
+
+					efecto de "CC Glass"
+
+
+				_AE Light:
+
+					_ésta opción nos permitirá utilizar las layers, de tipo "Light", que hayamos
+
+					creado previamente en la respectiva composición
+
+
+					_de ésta manera, podremos controlar de una manera más ámplia todas las 
+
+					carasterísticas de la luces a través, de los controles de cada luz 
+
+					respectivamente
+
+
+			_Light Intensity:
+
+				_ésta opción nos permitirá indicar la intensidad de la luz generada por el sistema
+
+				para modelar los relieves y depresiones del sistema de simulación creado
+
+
+				_ésta opción aplicará sólo para las opciones de "Using/Effect Light"
+
+
+			_Light Color:
+
+				_ésta opción nos permitirá indicar un color personalizado para la generación de la
+
+				iluminación del sistema para la emulación de los relieves y depresiones	del sistema
+
+
+				_éste color lo podemos especificar a través, de un picker, ó un selector de color
+
+
+				_ésta opción aplicará sólo para las opciones de "Using/Effect Light"
+
+
+
+			_Light Type:
+
+
+				_Distant Light:
+
+					_ésta opción nos permitirá indicarle al sistema que desemos que éste genere
+
+					un tipo de luz direccional la cuál, simulará la sol sobre el sistema ha 
+
+					generar
+
+
+				_Point Light:
+
+					_ésta opción nos permitirá indicarle al sistema que desemos que éste genere
+
+					un tipo de luz puntual sobre el sistema ha generar
+
+
+
+			_Light Height:
+
+				_ésta opción determinará la distación de la iluminación generada del motivo en 
+
+				relación a la cordenada "Z", ésta opción aplica especialmente para el tipo de 
+
+				iluminación de tipo "distant light"
+
+
+			_Light Position:
+
+				_ésta opción nos permitirá indicarle al sistema la ubicación de la liluminación de
+
+				tipo puntual en las cordenadas "X", y "Y"
+
+
+				_las cuáles, las podremos indicar con valores específicos ó a través, de un handle,
+
+				directamente en el viewport, del panel compositing, ó directamente en el panel
+
+				effects controls
+
+
+			_Light Direction:
+
+				_ésta opción nos permitirá indicarle al sistema el ángulo con el cuál, influirá la 
+
+				iluminación generada sobre el motivo para la generación de los relieves y 
+
+				depresiones, ésta opción aplica  sólo para el tipo de iluminación de tipo 
+
+				"Distant Light "
+
+
+
+		_Shading
+
+
+			_Ambient:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la iluminación ambiente 
+
+				sobre la generación del sistema de relieves y depresiones generadas sober la layer, 
+
+				base
+
+
+			_Diffuse:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el tono del material
+
+				difuso ó visiblesobre la generación del sistema de relieves y depresiones generadas sober la layer, 
+
+				base
+
+
+				_el valor por defecto es de "50", lo cuál, es un punto medio en el cuál, se proyecta
+
+				la realidad en general
+
+
+				_de ésta manera, si movemos éste valor la layer, se volverá más oscura ó más clara
+
+
+			_Specular:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la cantidad de 
+
+				especularidad sobre la generación del sistema de relieves y depresiones generadas 
+
+				sober la layer, base
+
+
+				_ésta opción es muy importante por que es a través, de los brillos y la 
+
+				especularidad que el efecto será visible 
+
+
+				_de ésta manera, con valores cercanos ha "0", el efecto será casi inapreciable más
+
+				con valores cercanos ha "100", el efecto será super apreciable y impactante
+
+
+			_Roughness:
+
+				_ésta opción nos permitirá indicarle al sistema la capacidad del material de ser
+			
+				reflectivo ó esmerilado de ésta manera, podremos lograr una especilaridad más
+
+				másplia ó puntual en relación a las necesidades de producción
+
+
+			_Metal:
+
+				_ésta opción nos permitirá indicarle al sistema el brillo ó altas luces de la
+
+				especularidad generada de ésta manera, controlaremos la reflectividad global del
+
+				sistema de relieves y depresiones deneradas
+
+
+
+
+
+
+
+
+
+
+
+
+

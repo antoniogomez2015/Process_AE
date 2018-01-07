@@ -1,0 +1,63 @@
+
+
+
+AEScrips ColorLibrary-v1-11
+
+
+
+	1-Get colors > podemos leer los colores de la composicion activa, para esto hacemos click, sobre 'Get colors'
+
+	
+	2-SEL> esta opcion permite obtener colores de solidos creados en el timeline
+
+	
+	3-PKR> esta opcion permite agregar colores a traves, del sistema de color picker (ventana contextual 
+
+	de seleccion de color)
+
+
+	4-EYE> esta opcion permite crear colores a traves del panel de crear solidos/solids
+
+
+
+
+	5-CLEAR> esta opcion permite borrar todas las muestras de color creadas previamente
+
+	
+	6-LOAD.CSV> esta opcion permite agregar colores contenido en archivos 'CSV'
+
+
+	7-SAVE.CSV> esta opcion permite guardar colores en formato 'CSV'
+
+
+	8-LOAD.ASE> esta opcion permite agregar colores contenidos en archivos 'ASE'
+
+
+	9-SAVE.ASE> esta opcion permite guardar colores en en formato 'ASE'
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Elimianr un muestra de color>
+
+		-para eliminar un color o muestra de color, hacemos 'mouse left click + control', sobre la muestra
+
+		la cual deseamos eleminar en el panel
+
+
+
+	-Renombrar muestras de color creadas>
+
+		-para esto hacemos 'mouse left click + shift', sobre la muestra deseada en el panel
+
+
+	-Crear Solidos>
+
+
+		-para crear un solido a traves, de una muestra de color previamente creada, para esto, 
+
+		hacemos 'mouse left click + alt', sobre el color de una muestra deseada en el panel
+

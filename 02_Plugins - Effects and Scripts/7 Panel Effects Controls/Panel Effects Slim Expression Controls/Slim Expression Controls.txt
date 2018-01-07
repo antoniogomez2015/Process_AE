@@ -1,0 +1,33 @@
+
+
+http://aescripts.com/slim-expression-controls/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Slim Expression Controls
+
+
+	Slim Expression Controls:
+
+
+	-este nos permite crear interfaces, de scripts, y controls de scripts, programados a través, de presets,
+
+	y controladores personalizados por nosotros e incluso crear pseudo script, los cuales podremos guardar
+
+	y llamar por cualquier otro script, de terceros
+
+
+	_lamentable por ahora ésta versión nos tiene más compatibilidad de After Effects CC
+
+
+
+
+	Workflow:
+	_________
+
+
+	_

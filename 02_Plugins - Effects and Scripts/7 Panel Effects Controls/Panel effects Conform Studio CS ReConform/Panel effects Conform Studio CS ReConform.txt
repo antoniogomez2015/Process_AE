@@ -1,0 +1,159 @@
+
+
+http://aescripts.com/conform-studio/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Conform Studio
+
+
+	CS ReConform:
+
+
+	-este nos permite hacer varias funciones relacionadas como por ejemplo exportar composiciones dentro de
+
+	una secuencia anidadas dentro de un timeline, renderizar éstas y volverlas ha importar ya como clips, de 
+
+	video ó de secuencia de imágenes y volverlas ha cargar en la misma posición que ocupavan en la secuencia
+
+	de composiciones orignal, lo cuál, es muy importante y útil en producción y procesos complejos y pesados
+
+
+	_así, como también, contempla un sistema de versiones a través, del cuál, podremos actualizar material de
+
+	archivo ó clips, de video los cuales hayamos actualizado a través, de modificaciones y nuevos renders
+
+
+	_también, tendremos la posibilidad de reemplazar clips, a partir de material de incluso de otros directorios
+
+	como posibilidades alternativas entre otras opciones
+
+
+
+	
+
+	Workflow:
+	_________
+
+
+	_así, en las opciones del plugins podremos configurar las siguientes opciones:
+
+
+	Destination directory:
+
+		_ésta opción es fundamental ya que ésta nos permite indicar la ruta del directorio donde
+
+		serán volcados los nuesvos renders respectivos por cada composición renderizada como un 
+
+		clips, de video ó secuencia de imágen
+
+
+	Action:
+
+		_Replace with rendered files:
+
+			_ésta opción reemplazará la composición original respectiva por el resultado del 
+
+			render, así, ésta composición será reemplazada por un clip, de video ó una secuencia 
+
+			de imágen
+
+	
+		_Updare renders to the lastest version:
+
+			_ésta opción hará una revisión en la ruta de destina de las composiciones renderizadas
+
+			como clips, de video y secuencias de imágenes y las comporará con las existentes en el
+
+			timeline, de la secuencia principal del timeline, así, si el sistema encuentra diferencia
+
+			entra las versiones de ésta entonces el sistema actualizará los respectivos clips, ó
+
+			secuencias de imágenes por las más nuevas
+
+
+			_ésta opción requiere que estén activas las opciones de "Look for..", que se encuentras más
+
+			abajo del panel
+
+
+		_Replace renders from another directory:
+
+			_ésta opción nos permite reemplazar material de archivo como clips, de video y secuencias de 
+
+			imagenes del timeline, original por otras que se encuentren en otro directorio al orignal
+
+
+
+	Target:
+
+
+		_Active composition:
+
+			_ésta opción le indicará al sistema que éste podrá aplicar los cambios sobre la composición
+
+			activa en ese momento determinado
+
+		
+		_New composition:
+
+			_ésta opción le indicará al sistema que aplique los cambios generados por el sistema en otra
+
+			composición nueva
+
+
+		_Add siffix:
+
+			_ésta opción nos permitirá agregar un sufijo ó pre-nombre, ha la composición generada para volcar
+
+			el proceso, ésta opción estará superditada por la opción del paso anterior
+
+
+	Import folder:
+
+		_ésta opción nos permite asignar una carpeta ó folder, donde se cargarán los clips, generados de los render,
+
+		en el panel project, así, podremos darle a las flechas ó arrows, para que el sistema cree la esctructura de
+
+		de archivos de forma automáticas ó podremos hacerlo de forma manual escribiendo la ruta de archivos
+
+
+	Name core:
+
+		_
+
+
+	_Look for the highest version number:
+
+		_ésta opción le indica al sistema que debe de buscar entre la ruta de archivos renderizados las versiones más
+
+		altas entre los archivos generados
+
+	
+		_(ésta opción es útil cuando en la sección de "Action", seleccionamos la opción de "Update renders to the lastest version")
+
+
+	_Look for image sequences:
+
+		_ésta opción le indica al sistema que debe de buscar entre la ruta de archivos renderizados las secuencias de imágenes
+
+		generadas entre los archivos generados para así, contemple éstas en el proceso
+
+
+	_Ignore prefixes in the filename:
+
+		_ésta opción le indica al sistema que ignore los prefijos en los nombres de los archivos generados, ésto es especialmente 
+
+		útil para el manejo de versiones
+
+
+	PROXED:
+
+		_(NO  FUNCIONA no se por que)
+
+		
+

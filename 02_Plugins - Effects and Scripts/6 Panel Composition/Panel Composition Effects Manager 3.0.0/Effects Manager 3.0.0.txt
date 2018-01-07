@@ -1,0 +1,52 @@
+
+
+http://sunrisemoon.net/program/ae/script/EffectManager/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Effects Manager 3.0.0
+
+
+	Effects Manager 3.0.0:
+
+
+	-este nos permite navegar y acceder a los efectos y plugins, de efectos, dentro de after effects,
+
+	efectos de primeros y terceros en la aplicación, ésto es especialmente útil para un mejor workflow,
+
+	con una mayor dinamismo y efectividad en el trabajo diario
+
+
+	_éste plugins, es mucho más práctico de la versión del panel de efectos y presets, nativa de la
+
+	aplicación, ya que a través, de un panel más ámplio podemos tener acceso a todos los efectos instalados
+
+	entre otras posibilidades
+
+
+	_éste plugins, es un simil al plugins, de búsqueda "The Commander", ó "Quick Menu", para acceder a los
+
+	scripts, y plugins, complejos de terceros, pero en éste caso para los efectos nativos y externos instalados
+
+	en la aplicación
+
+
+	_y se requiere también, podría instalarse como acceso directo a través, de un shortcut, para que quede
+
+	como el script, the commander, otros
+
+
+
+	Workflow:
+	_________
+
+
+	_para ésto, sólo debemos ubicar el efectos deseado bajo la misma estructura de plugins con "Control + T",
+
+	para luego seleccionar el efectos deseado y hacer "enter", sobre éste ó doble click, para que éste sea
+
+	aplicado a la layer, seleccionada en el timeline

@@ -1,0 +1,505 @@
+
+
+
+
+The Foundry Camara Tracker
+
+
+	Fabricante:
+
+		http://www.thefoundry.co.uk/
+
+			http://www.thefoundry.co.uk/products/plugins/cameratracker/
+
+
+	Referencia:
+
+		AE + C4D + Foundry 3D Camera Tracker Tut!
+
+			https://www.youtube.com/watch?v=cjNYY86di2E
+
+
+		AE + C4D + Foundry 3D Camera Tracker Tut! Part 2
+
+			https://www.youtube.com/watch?v=X4VeOoKGmEc
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+Descripción:
+____________
+
+	_éste nos permite capturar la cámara de la toma del video en un entorno 3d, virtual para obtener así, la
+
+	misma vista y perspectiva de la toma así, como mismos movimientos y trepidaciones de la toma
+
+	_ésto es espacialmente útil para diferentes tipos de procesos en producción 2d, 2.5d, y 3d, en general
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+Camara Tracker:
+_______________
+
+
+	_para aplicar el plugins, camara tracker, primero debemos haber importado el material ó source, de trabajo
+
+	al panel proyecto, es recomendable que éste material sea una secuencia de imágenes para obtener mejores 
+
+	resultados
+
+
+	_y para cargar el material y que éste mantenga las mismas características es recomendable arrastrar éste
+
+	sobre el ícono de nueva ocmposición para que así, se cree una nueva composiciónes con las características
+
+	exactas del material de archivo como tamaño, frame rate, entrelazado, progreasivo, otros
+
+
+	_ahora para agregar el plugins, al material debemos seleccioanr éste en el timeline y ir ha:
+
+	"Effects/The Foundry/CamaraTracker(1)", así, el plugins, se agregará al material ó source
+
+
+	_y por último para ver las caracteristicas y configuración del plugins, debemos ir al panel 
+
+	"Effects Controls"
+
+
+	_en éste punto, al tener seleccionado ó activo el plugins, CamaraTracker(1.0), en el panel 
+
+	"Effects Controls", podremos ver en el panel composición como se ha agregado un nuevo menú contextual
+
+	en la parte inferior izquierda el cuál, contiene todas las opciones del plugins
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+Tracking Visualización:
+_______________________
+
+	_tenemos la posibilidad al comenzar el proceso de visualizar los puntos de trackeo
+
+	
+	_para ésto debemos ir ha "CamaraTracker(1.0)/", y activar las opciones de "Preview Features", para que 
+
+	así, se hagan visibles los puntos de trackeo en el viewport, de la composición
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
+Tracking Configuración:
+_______________________
+
+	_de ésta manera podremos ver la cantidad de puntos existentes para trackeo y su posición, de ésta manera
+
+	podremos ver si nos parece bien la cantidad y disposición de éstos más si desemos más ó menos puntos así,
+ 
+	como sus características y criterios podemos ha las opciones más abajos de "Tracking", en la cuál, 
+
+	disponemos de las siguientes características ha configurar:
+
+	
+	Tracking:
+
+
+		_Number of Features:
+
+			_aqui podemos incrementar ó disminuir la cantidad de puntos de trackeo
+
+	
+		_Detection Threshold:
+
+			_éste es el umbral de detección de punto para su seguimiento
+
+
+		_Feature Separation:
+
+			_éste indica la separación relativa mínima entre los puntos de trackeo
+
+
+		_Track Threshold:
+
+			_éste indica el umbral de trackeo general para la cámara
+
+
+		_Track Smothness:
+
+			_éste indica el nivel de suavizado general para la cámara y su trayectoria
+
+
+		_Track Consistency:
+
+			_éste indica el nivel de consistencia ó interpolación entre la continuidad de la cámara y
+ 
+			su trayectoria
+
+
+		_Track Validation:
+
+
+			_None:
+
+				_éste indica un comportamiento de la cámara ninguno
+
+
+			_Free Camara:
+
+				_éste indica un comportamiento de la cámara libre ó cámara en mano
+
+
+			_Rotating Camara:
+
+				_éste indica un comportamiento de la cámara con rotación
+
+
+
+---------------------------------------------------------------------------------------------------------------
+
+Realización de trackeo:
+_______________________
+
+
+	_así, luego de haber visualizado los puntos trackeo existentes previamente y luego de haber configuraro 
+
+	éstos y sus características podemos comenzar el proceso de trackeo
+
+
+	_para ésto vamos a las opciones de "CamaraTracker(1.0)/Track Features/", y hacemos click en 
+
+	"Track Features", para que comience el proceso el cuál, se compone de dos pasadas una hacia adelante y 
+
+	otra hacia atras "forward/backward"
+
+
+	_de ésta manera nos aparecerá una cinta de color marrón en la parte superior en el viewport, de la 
+
+	composición indicandonos el proceso, de ésta manera tendremos que esperar que el proceso finalize
+
+		_el mensaje dirá lo siguiente: 
+
+
+			_"Camaratracker Tracking Forward Frame: 00"
+
+			_"Camaratracker Tracking Backward Frame: 00"
+
+
+	_para que así, al finalizar el proceso de trackeo, nos podremos percatar que la banda de color marrón con
+
+	la información en la parte superior del viewport, de la composición habrá desaparecido así, como también,
+
+	podremos ver que al mover el cabezal del timeline, nos percataremos que ya los puntos se mueven en 
+
+	relación al movimiento de la camara de la toma del video
+
+
+	
+---------------------------------------------------------------------------------------------------------------
+
+Solver Camara:
+______________
+
+
+	_de ésta manera cuando ya tenemos el trackeo de la cámara realizado a partir del paso anterior, podremos
+
+	resolver ó crear la cámara virtual en el entorno 3d, la cuál, emulará los movimientos y trepidaciones de
+
+	la cámara de la toma del video "aunque en éste proceso aún no se creará la cámara virtual"
+
+
+	_para ésto, vamos ha "CamaraTracker(1.0)/Solve Camara/", y hacemos click, en "Solve cámara", para que así,
+
+	nos aparzca una ventana contextual con las opciones y proceso de la cámara
+
+
+	_de ésta manera al finalizar de crear la solver camara nos arrojará una ventana con el resultado y la 
+
+	calidad del sistema creado con la siguiente información, ej:
+
+
+		_Soved:
+
+			_Reference frame = 0. Keyframe = 8.
+
+			_Total RMS reprojection error = 2.08 pixels.
+
+
+	_y luego debemos darle ha "ok", para que así, se formen los puntos definitivos del sistema generado los 
+
+	cuales son fijados en la sección de "CamaraTracker(1.0)/Refine/", en la cuál, también, podremos hacer
+
+	ajustes relativos a su comportamientos y creterios
+
+
+
+---------------------------------------------------------------------------------------------------------------
+
+Refine Track:
+_____________
+
+
+	_luego de haber creado el trackeo y fijado en el paso anterior tenemos la posibilidad de hacer un 
+
+	refinamiento de éste para eliminar así, los puntos en los cuales no se logran fijar correctamente en la
+ 	
+	posición deseada
+
+
+	_para ésto, vamos a las opciones de "CamaraTracker(1.0)/Display/", y seleccionamos la opción de 
+
+	"Point Quality", de ésta manera se mostrarán en el viewport, de la composición en color "rojo" los puntos
+
+	que no se han fijado correctamente los cuales debemos eliminar para que no hagan una mala lectura en el
+ 
+	sistema, de ésta manera nos quedaremos sólo con los puntos que se han fijado correctamente, éstos son de
+
+	color "verde"
+
+	
+	_así, para eliminar puntos de color "rojo", disponemos de varias formas de hacerlo, éstas son:
+
+
+		_podermos posarnos sobre un punto de color rojo con el mouse, en el viewport, hasta que nos salga
+
+		una indicación de color amarillo que dice: "Track Livetime, Track Distance...", el cuál, 
+
+		convertirá también el punto ó linea de color también amarillo para luego, en éste punto hacer 
+
+		"mouse left click", sobre éste para seleccionarlo, luego de estar seleccionado genemos las 
+
+		siguientes opciones:
+
+		
+			_podemos aplicar directamente la tecla "suprimir", para borrar así, el punto
+
+		
+			_como también, podremos "Control + mouse right click", para que así, se abra el menú 
+
+			contextual con las opciones del plugins, en la cuá,l podremos escoger la opción de
+
+			"Tracks/Delete Selected (del)", así, el punto respectivo será borrado
+
+
+			_como también acceder ha éste mismo panel en la parte interior izquierda del panel y 
+
+			escoger la misma opción anterior "Tracks/Delete Selected (del)"
+
+
+
+	_pero en procesos largos éste puede ser muy tedioso, más para éste tipo de casos contamos con opciones más 
+
+	generales que harán correcciones generales en todo el sistema cambiando los creterios del mismo sistema
+
+
+	_para ésto vamos a las opciones de "CamaraTracker(1.0)/Refine/" en las cuales dispondremos de las 
+
+	siguientes opciones configurables:
+
+
+		_Track-Points:
+
+			_éste indica la cantidad de puntos existentes en el sistema
+
+
+		_Track-Lifetime-Min:
+
+			_éste indica la vida mínida que tiene cada punto de rastreo
+
+
+		_Track-Lifetime-Avg:
+
+			_éste indica la el tiempo de vida en average que tendrán los puntos de rastreo
+
+
+		_Track-Distance-Avg:
+
+			_éste indica la distancia relativa entre los puntos de rastreo del sistema
+
+
+		_Track-Distance-Max:
+
+			_éste indica la distancia máxima entre puntos que conforman el sistema de puntos
+
+
+		_Solve-Keyframe:
+
+			_éste indica los fotogramas claves que conforman el sistema de puntos fijados
+
+
+		_Solve-Keyframe:
+
+			_ste indica los fotogramas claves que conforman el sistema de puntos fijados
+
+
+		_Solve-Overall Error:
+
+			_éste indica los errores de rastreo en general
+
+
+		_Solve-Margin of Error:
+
+			_éste indica el margen de error de fijación de los puntos
+
+
+		_Solve-Per- Frame Error:
+
+			_éste indica el valor de error por fijación de los puntos por fotograma
+
+
+		_Solve-Per Frame Error:
+
+			__éste indica el valor de error por fijación de los puntos por fotograma
+
+
+		_Solve-Per Track Error:
+
+			_éste indica el valor de error por fijación de los cara rastreo
+
+
+		_Threshold-Track-Liftim:
+
+			_éste indica el umbral de vida por rastreo de puntos
+
+
+		_Threshold-Track-Distan:
+
+			_éste indica el umbral de la distancia relativa de trackeo
+
+
+		_Threshold-Solve-Frame: (bajar éste valor eliminará los puntos rojos)
+
+			_éste indica el umbral de fijación por fotograma
+
+
+		_Threshold-Solve-Track:
+
+			_éste indica el umbral defijación por trackeo relativo
+
+
+	_así, para ver el umbral del comportamientos de los tracks, realizados vamos al panel de curvas del 
+
+	timeline, shortcut: "Shift + F3", para ver los gráficos respectivos de los frames, en el cuál, podremos 
+
+	ver los picos y demás comportamientos
+
+
+	_para ésto, seleccionamos el layer, "source/Effects/camaraTracker (1.0)/", y desplegamos las opciones de
+
+	"Refine", y buscamos el atributo de "Solve-Per Frma Error-Max"
+
+
+	_y luego para éste atributo se quede seleccionado debemos activar el ícono de "grafico", justo al lado del
+
+	ícono de "Relojito", de animación, hasta que éste esté de color cyan
+
+
+	_para luego ir ha editar el atributo "Refine", y buscamos el atributo de: 
+
+		"Threshold-Solve-Frame Error-Max"
+
+
+	_de ésta manera podremos desplazar la barra horizontal que aparece éste respectivo valor del umbral mínimo
+
+	así, podremos limitar el alcance del umbral de error
+
+
+
+---------------------------------------------------------------------------------------------------------------
+
+Track Rectificación:
+____________________
+
+
+
+	_más ahora partiendo del paso anterior debemos borrar los defaces que sobresalen de las crestas de los 
+
+	picos establecidos en paso anterior
+
+
+	_para ésto debmos ir ha "CamaraTracker (1.0)/Delete Rejected/", y hacemos click sobre "Delete Rejected",
+
+	de ésta manera los picos de las crestas ó curvas se limitarán a la altura permitira por el 
+
+	"umbral máximo de error", indica por nosotros en el paso anterior
+
+
+	_para luego volver hacer ó repetir el proceso de "Solve Camara/Solve Camara", para que así, el sistema
+
+	registre los cambios sobre los puntos ahora sin los errores previos a la corrección
+
+
+
+---------------------------------------------------------------------------------------------------------------
+
+Create Scene:
+_____________
+
+
+	_ya éste punto podemos proceder ha crear la escena y cámara respectiva
+
+
+	_para ésto vamos ha "CamaraTracker (1.0)/Create Scene/", y hacemos click, en "Create Scene", para que así,
+
+	se creen tanto una núeva cámara como un null object, en el timeline, respectivo
+
+
+	_de ésta manera si ocultamos la layer, del source, del video y entramos al modo de edición de cámara,
+
+	shortcut: "F11", podremos ver la cámara y su trayectoria relativa a la de la toma del video original así,
+
+	como también, entre la trayectoria encontraremos al null object, generado 
+
+
+
+---------------------------------------------------------------------------------------------------------------
+
+Proxis:
+_______
+
+
+	_también, disponemos de un menú contextual para la creación de elementos proxis de referencia para el 
+
+	proceso de producción en otras aplicaciones, así, podremos crear en la escena, null objects, solids, otros
+
+
+	_para ésto disponemos de dos opciones, podemos posarnos sobre un punto en el cuál, deseamos crear un 
+
+	elementos hasta que éste se ponga de color amarillo para luego hacer sobre éste 
+
+		"control + mouse right click", para que así, se abra el menú contextual del plugins y poder elegir
+
+		la opción de: 
+
+
+			_"Create/"
+
+
+	_así, como también seleccionar un punto en el viewport, hasta que éste se coloque de color amarillo y 
+
+	luego ir al menú contextual de la parte inferior izquierda y buscar la opción de "Create"
+
+
+
+---------------------------------------------------------------------------------------------------------------
+
+Export:
+_______
+
+
+	_y por últimos debemos exportar el sistema ha cinema 4d, que es el programa con el cuál sistema tiene 	
+	integración
+
+
+	_para ésto vamos ha "File/Export/Cinema 4D Eport"
+
+
+

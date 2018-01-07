@@ -1,0 +1,58 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permitirá emular un efecto de reenfouqe a costa de aumentar el contraste en la imagen y
+
+	la acutancia entre los colores y las diferentes área a costa de las posterización del color
+
+	
+	_más ésto traerá como consecuencia en una aplicación bastante grande de una sensación colatral de pérdida
+
+	de resolución de la imágen y de la aparición del llamado "diente de león"
+
+
+	_ésto sucede cuando alteramos la interpolación natural entre pixeles en una imágen, por ende es recomendable
+
+	utilizar éste efecto con mesura y criterio para no lograr efectos colaterales no deseados
+
+	
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps	
+
+
+
+
+	Sharpen: (Enfocar)
+	________
+
+	_Sharpen Amount:
+
+		_éste valor nos permitirá indicar la cantidad de reenfoque ha aplicar
+
+
+	
+
+

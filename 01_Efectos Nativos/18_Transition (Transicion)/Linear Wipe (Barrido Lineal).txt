@@ -1,0 +1,100 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Barrido lineal, realiza un barrido lineal sencillo de una capa en una dirección específica. 
+
+
+	_En calidad de Borrador, el borde del barrido no aparece suavizado; en Calidad óptima, el borde el barrido 
+
+	sí aparece suavizado y el calado es uniforme.
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Linear Wipe: (Barrido Lineal)
+	____________
+
+
+		_Transition Completion:
+
+			_ésta opción nos permitirá indicarle al sistema que éste devele las demás layers, de la
+
+			composición respectiva, lo que nos permitirá a su vez, animar el efecto de transición lineal
+
+			
+
+		
+		_Wipe Angle:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el ángulo de la transición lo
+
+			cuál, nos permitirá a su vez, animar la dirección del sistema generado
+
+
+		_Feather:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos suavizar los bordes del alpha,
+
+			generado para la creación del sistema, de ésta manera, podremos generar un alpha, más ó
+
+			menos definido con una mayor ó menor acutancia en los bordes
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

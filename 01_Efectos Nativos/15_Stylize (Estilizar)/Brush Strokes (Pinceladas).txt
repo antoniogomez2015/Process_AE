@@ -1,0 +1,131 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Pinceladas da a una imagen un aspecto de estar pintada a trazos. También puede utilizar este 
+
+	efecto para lograr un estilo puntillista ajustando la longitud de la pincelada a 0 y aumentando la densidad 
+
+	de los trazos. Aunque defina la dirección de los trazos, estos se dispersarán un poco aleatoriamente para 
+
+	ofrecer un resultado más natural. Este efecto altera el canal alfa, así como los canales de color; si aplicó 
+
+	una máscara a una parte de la imagen, los trazos de pincel pintan sobre los bordes de esa máscara.
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Brush Strokes: (Pinceladas)
+	________
+
+
+		_Stroke Angle:
+
+			_ésta opción nos permitirá indicar la dirección de los trazados ha generar del efecto
+
+
+		_Brush Size:
+
+			_ésta opción nos permitirá indicar el tamaño de los trazados ha generar por el efecto
+
+
+		_Stroke Length:
+
+			_ésta opción nos permitirá indicar la longitud de los trazados ha generar por el efecto
+
+
+		_Stroke Density:
+
+			_ésta opción nos permitirá indicar la densidad y trazados superpuestos generados por el 
+
+			efecto
+
+
+			NOTA: entre menos densidad de trazados el sistema podrá crear trazados más largos y olgados
+
+
+		_Stroke Randomness:
+
+			_ésta opción permitirá la creación de trazados no uniformes lo que creará a su vez, una
+
+			mayor aleatoriedad en el efecto resultante
+
+
+
+		_Paint Surface:
+
+
+			_Paint On Original Image:
+
+				_itúa los trazos encima de la capa sin modificar. Este ajuste es el predeterminado.
+
+
+			_Paint On Transparent:
+
+				_Hace que solamente aparezcan los trazos, dejando la capa transparente entre 
+
+				los mismos.
+
+
+			_Paint On White:
+
+				_Aplica trazos sobre un fondo blanco.
+
+
+			_Paint On Black:
+
+				_Aplica trazos sobre un fondo negro.
+
+
+
+		_Blend With Original:
+
+			_ésta opción nos permite fusionar el efecto rsultante con la layer, original lo cuál, nos
+
+			permitirá disponer de una fusión controlada
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+
+
+ventana por defecto en after effects
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Effects Controls
+
+
+	Effects Controls:
+
+
+	-este nos permite configurar y editar los efectos que agregemos a las respectivas layers, del timeline,
+
+	de las composiciones
+
+
+
+
+	Workflow:
+	_________
+
+
+	_

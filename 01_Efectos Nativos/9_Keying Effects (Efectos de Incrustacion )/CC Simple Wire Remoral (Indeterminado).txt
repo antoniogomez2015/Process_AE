@@ -1,0 +1,152 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear un incrustamiento de color ó keygin, de un cable ó de un elemento lineal y
+
+	delgado ha modo de cable de un color determinado ó seleccionado
+
+
+	_para que así, éste sea eliminado ó muestreado con el color ó datos contiguos ha éste para que así, podamos
+
+	posteriormente eliminar éste ó integrarlo ha otros procesos de producción y paso contínuo
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	CC Simple Wire Remoral: (Indeterminado)
+	_______________________
+
+
+		_Point A:
+
+			_ésta opción nos pemritirá indicar la posición de uno de los handles, a través, de los cuáles,
+
+			podremos indicar la posición exacta del cable ha eliminar directamente en el viewport, del
+
+			panel "Compositing", ó en las opciones del efecto en el panel "effects controls"
+
+
+		_Point B:
+
+			_ésta opción nos pemritirá indicar la posición de uno de los handles, a través, de los cuáles,
+
+			podremos indicar la posición exacta del cable ha eliminar directamente en el viewport, del
+
+			panel "Compositing", ó en las opciones del efecto en el panel "effects controls"
+
+
+		_Remoral Style:
+
+
+			_Fade:
+
+				_Borra un camino a través de la capa. El fondo aparece a través de la zona
+
+
+			_Frame Offset:
+
+				_Brinda datos de píxeles de un conjunto de fotogramas anterior o posterior con el 
+
+				fotograma Deslizante deslizante
+
+
+			_Displace:
+
+				_Trae datos de píxeles desde fuera del removedor. Estos datos de píxeles interpolados
+
+				Sustituye el cable
+
+
+			_Displace Horizontal:
+
+				_Utiliza la técnica Displace, pero limita su muestreo a la horizontal
+
+
+
+		_Thickness:
+
+			_ésta opción nos permitirá indicar el grosor ó diámetro del cable ha eliminar
+
+
+		_Slope:
+
+			_Utilice este control para determinar la suavidad del borde de la ruta de eliminación. el
+
+			Uso de valores graduales, la transición a la trayectoria de eliminación es gradual. Usando 
+
+			una pendiente más alta, ell borde se vuelve abrupto.
+
+
+		_Mirror Blend:
+
+			_Utilice este control para ajustar el método de reemplazo de píxeles utilizado por los dos
+
+			(Estilo de eliminación). El valor predeterminado de 25 es bueno en la mayoría de los casos. 
+
+			Si la eliminación deja los artefactos es conveniente tratar de desplazar ha modo de espejo 
+
+			mezclando de una manera u  otra. Este control no está en uso cuando se selecciona Fade y 
+
+			Offset de frame, en el control de estilo
+			
+
+
+		_Frame Offset:
+
+			_Utilice este control para especificar un frame, que se utilizará con el parámetro 
+
+			de compensación de desplazamiento de fotogramas (Estilo de eliminación). Este control no está 
+
+			en uso cuando Fade, Displace Y Desplazar horizontal se seleccionan en el control Estilo 
+
+			de eliminación
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

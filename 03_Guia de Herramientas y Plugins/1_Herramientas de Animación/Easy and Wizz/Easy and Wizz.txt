@@ -1,0 +1,155 @@
+
+
+
+
+Easy and Wizz
+
+
+	Referencia:
+
+		http://aescripts.com/ease-and-wizz/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste controlar el comportamiento de los keyframes, a través, de diferentes criterios extendiendo las
+
+	posibilidades por defecto del programa
+
+
+	
+
+
+
+Aplicaciones:
+_____________
+
+
+	_éste permite controlar los intervalos y curvas de animación de los diferentes keyframes, para así, poder
+
+	lograr los diferentes efectos más sofisticados de animación de forma individual y en grupo en diferentes 
+
+	layers
+
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_primero debemos tener una ó varias layers, la cuál, debe de tener keyframes en una propiedad deseada
+
+
+	_luego debemos seleccionar al menos dos keyframes, para luego ir al panel "Easy ans Wizz", en el cuál,
+
+	debemos configurar las opciones deseadas:
+
+
+	--------------------------------------------------------------------------------------------------------------
+
+
+	Easing:
+
+		_Expo:
+
+			_desaceleración exponencial normal ó por defecto
+
+
+		_Circ:
+
+			_ésta es una variante de desaceleración
+
+
+		_Quint:
+
+			_ésta es una variante de desaceleración
+
+
+		_Quart:
+
+			_ésta es una variante de desaceleración
+
+
+		_Quad:
+
+			_ésta es una variante de desaceleración
+
+
+		_Sine:
+
+			_ésta es una variante de desaceleración
+
+
+		_Back:
+
+			_efecto de anticiapación de animación (muy efectivo)
+
+
+		_Bounce:
+
+			_efecto de rebote múltiple, (muy efectivo)
+
+
+		_Elastic:
+
+			_efecto de elástico (muy efectivo)
+
+
+	Type:
+
+		_In + Out:
+
+			_aplica como aceleración de entrada y de salida en los handles, respectivos de los keyframes
+
+
+		_In:
+
+			_aplica como aceleración de entrada en los handles, respectivos de los keyframes
+
+
+		_Out:
+
+			_aplica como aceleración de salida en los handles, respectivos de los keyframes
+
+
+	Keys:
+
+		_All:
+
+			_aplica para todos los keyframes, de las layers, seleccioandas
+
+
+		_Start and End:
+
+			_aplica para los keyframes, iniciales y finales
+
+
+		_Start Only:
+
+			_aplica sólo a los keyframes, inicales ó de entrada
+
+
+	Curvaceous:
+
+		_indeterminado
+
+
+	Apply:
+
+		_ésta finaliza con el proceso de creación ó aplicación de "Easy and Wizz"
+
+
+
+

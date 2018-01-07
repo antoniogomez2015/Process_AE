@@ -1,0 +1,136 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Barrido de degradación hace que los píxeles de la capa se hagan transparentes en función de los 
+
+	valores de luminancia de los píxeles correspondientes de otra capa, denominada capa de degradación. 
+
+
+	_Los píxeles oscuros de la capa de degradación hacen que los píxeles correspondientes se conviertan en 
+
+	transparentes en un valor bajo de Finalización de transición. Por ejemplo, una capa de degradación de escala
+
+	de grises que pasa del negro de la izquierda al blanco de la derecha, hace que la capa subyacente se muestre
+
+	de derecha a izquierda al ir aumentando el valor de Finalización de transición.
+
+
+	_Este efecto funciona con colores de 8 bpc y 16 bpc.
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Gradient Wipe: (Barrido de Degradacion)
+	______________
+
+
+		_Transition Completion:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que el sistema comience ha
+
+			realizar la transición de punto determinado en el tiempo ha otro punto, para deverlar así, 
+
+			las demás layers, de la respectiva composición
+
+
+		_Transition Softness:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste suavize los bordes 
+
+			de la imágen del matte, ó mapa generado como efecto resultante lo cuál, nos permitirá crear
+
+			transiciones más suavizadas y con una menor acutancia entre los bordes
+
+
+
+		_Gradient Layer:
+
+
+			_TileGradient:
+
+				_Usa muchas copias en mosaico de la capa de degradación.
+
+
+			_Center Gradient:
+
+				_Usa una sola instancia de la capa de degradación en el centro de la capa.
+
+
+			_Stretch Gradient to Fit:
+
+				_Redimensiona la capa de degradación en horizontal y en vertical para ajustar todo 
+
+				el área de la capa.
+		
+
+
+		_Invert Gradient:
+
+			_Invierte la influencia de la capa de degradación. Los píxeles de la capa de degradación 
+
+			crean la transparencia a un valor más bajo de Finalización de transición que los píxeles 
+
+			oscuros.
+			
+
+
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,408 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Distort:
+	________
+
+
+	_Beizer Warp: (Deformación Bézier)
+
+		_éste efecto nos permitirá hacer distorción sobre la layer, a través, de cuatro puntos, uno a cada 
+
+		esquina de la imágen y a su vez, cada uno de éstos puntos de control dispone de dos handles, cada 
+
+		uno a través, de los cuáles, podremos hacer deformación gradual y controlada sobre la imágen
+
+
+
+	_Bulge: (Abombar)
+
+		_éste efecto nos permitirá hacer deformaciones de inflado localizadas en una área ó perímetro 
+
+		determinado de ésta manera, podremos utilizar éste tipo de deformación para diferentes efectos y 
+
+		animaciones
+
+
+
+	_Displacement Map: (Mapa de desplazamiento)
+
+		_éste efecto nos permitirá hacer deformaciones a través, de desplazamientos tanto horizontales 
+
+		como verticales de ésta manera, podremos hacer diferentes efectos tanto para la generación de 
+
+		volúmen como para efectos especiales de paso contínuo y producción
+
+
+
+	_Corner Pin: (Posicionar borde)
+
+		_éste efecto nos permitirá hacer deformaciones de perspectiva y deformación espacial, éste efecto es 
+
+		utilizado para diferentes procesos de producción y de paso contínuo, por ejemplo para procesos de 
+
+		volcado de tracker, entre otros
+
+
+
+
+	_Liquify: (Licuar)
+
+		_éste efecto nos permitirá hacer deformaciones a través, de diferentes herramientas de deformación 
+
+		libre por medio de las cuáles, podremos crear estados de transformación libre la cuál, podremos 
+
+		animar a través, del tiempo
+
+
+
+
+	_Magnify: (Aumentar)
+
+		_éste efecto nos permitirá ampliar áreas de una imágen por medio de figuras geométricas definida 
+
+		báses lo cuál, es especialmente útil para hacer procesos de resaltado, estilismo en composición de 
+
+		planos, otros, también, para hacer reservas ó aislamientos a través, de la opción de 
+
+		"Blending Mode/Node"
+
+
+
+	_Mesh Warp: (Deformación de malla)
+
+		_éste efecto nos permitirá hacer distorciones de superficie a través, de un grilla configurable a 
+
+		través, de la cuál, podremos modificar la superficie por medio de las intercepciones de la grilla y
+
+		sus respectivos handles
+
+
+
+	_Mirrow: (Reflejar)
+
+		_éste efecto nos permitirá hacer reflejados para lograr efecto de simetría y animaciones abstractas 
+
+		entre otras posibilidades así, como también, es especialmente para producción y paso contínuo como 
+
+		para el motion graphycs, como enmascaramiento en rotaciones mayores ha 360, grados
+
+
+
+	_Offset: (Desplazamiento)
+
+		_éste efecto nos permitirá hacer efectos de modulación ó sangrado de elementos de imágenes ó layer, 
+
+		lo cuál, nos permitirá extender las posibilidades de composición y desarrollo de efectos complejos 
+
+		y animados
+
+
+
+	_Optics Compensation: (Compensación óptica)
+
+		_éste efecto nos permitirá hacer correcciones ópticas como la de barrel, ó barrillete, como también, 
+
+		la distorción opuesta de pincushion ó de cojín ó moustacle ó mostacho, pero más allá de tratar tanto 
+
+		de corregir como de crear ditorsión de lente, éste efecto nos permitirá crear deformaciones especiales 
+
+		para simulaciones esféricas y volumetrías con una perspertivas exageradas
+
+
+
+	_Polar Coordinates: (Coordenadas polares)
+
+		_éste efecto nos permitirá distorsiona una capa transponiendo cada píxel del sistema de coordenadas 
+
+		(x,y) de la capa a la posición correspondiente en el sistema de coordenadas polares, o a la inversa
+
+		así, como también, efectos nos permitirá hacer deformaciones circulares en 360, grados para procesos
+
+		de producción y paso contínuo entre otras muchas posibilidades
+
+
+
+	_Reshape: (Dar nueva forma)
+
+		_éste efecto nos permitirá transformar una forma en otra de la misma capa, a través, de máscaras 
+
+		referenciales ó auxiliares sobre la layer, sobre la cuál, se ha aplicado el efecto, así, por ejemplo, 
+
+		podremos transformar la pose una modelo en una foto en la pose de otra modelo en otra imágen lo cuál,
+
+		nos permitirá crear ó generar el efecto morph
+
+
+
+	_Ripple: (Ondulación)
+
+		éste efecto nos permitirá ~hacer deformaciones de tipo drops, ó hondas de agua lo cuál es muy útil
+
+		para un sin número de fectos de distorsión 2d, para crear ondulaciones, ondas senoseidales entre otros
+
+
+
+	_Smear: (Alargar)
+
+		_éste efecto nos permitirá hacer distorciones de áreas restringidas para lo cuál, el sistema hace uso de 
+
+		máscaras específicamente dos máscaras así, a través, de una máscara perimetral indicará el área de trabajo 
+
+		ó alcance de la posible distorción y a través, de otra máscara podremos indicar el área exacta ha distorcionar 
+
+		la cuál, será tomada por el sistema para generar una área proxi de deformación
+
+
+
+	_Spherize: (Esferizar)
+
+		_éste efecto nos permitirá hacer distorciones de tipo pseudo esféricas ó de inflado en una área determinada
+
+		de una imágen y de forma circular de ésta manera, podremos crear la sensación de aumento ó abombado en una 
+
+		área determinada de la imágen
+
+
+
+	_Transform: (Transformar)
+
+		_éste efecto nos permitirá hacer controlar las transformaciones básicas de una layer, ó composición de ésta
+
+		manera, podremos controlar las transformaciones de una layer, ó composición entera en relación a los 
+
+		requerimientos tanto de la layer, respectiva como a la coposición actual ó activa así, como también, en relación 
+
+		al apilado de efectos en el panel effects controls, de la respectiva layer, en la cuál, se ha aplicado el efecto 
+
+		de transofrm
+
+
+	
+	_Turbulent Displace: (Desplazamiento turbulento)
+
+		_éste efecto nos permitirá emplear ruido fractal para crear distorsiones turbulentas en una imagen. Por ejemplo, 
+
+		utilícelo para crear agua en movimiento, espejos de ferias y banderas ondeantes de ésta manera, éste efecto nos 
+
+		permitirá hacer distorsión fractal sobre una imágen a través, de diferentes algoritmos los cuáles, nos 
+
+		permitirán hacer múltiples tipos de distorsión en general
+
+
+
+	_Twirl: (Molinete)
+
+		_éste efecto nos permitirá distorsiona la imagen haciendo rotar una capa en torno a su centro. La imagen se 
+
+		distorsiona más en el centro que en los bordes, éste efecto es especialmente útil para hacer torsiones como por 
+
+		ejemplo para emular un tornado en movimiento en dos dimensiones gracias ha que podemos ver el epicentro del sistema
+
+
+
+	_Warp: (Deformación)
+
+		_éste efecto nos permitirá hacer distorsiones mútilples de diferentes modos y métodos ha modo bundle, de sistemas 
+
+		distorsión lo cuál, nos permitirá realizar la mayoría de distorsiones generales sobre layers e imágenes
+
+
+	
+	_Wave Warp: (Deformación con ondas)
+
+		_éste efecto nos permitirá crear diferentes tipos de distorsión a través, de patrones de onda los cuáles, tienen 
+
+		diferentes comportamientos por medios de los cuáles, podremos hacer diferentes efectos y procesos de producción y 
+
+		paso contínuo así, como también, procesos de constructuvismo visual y motion graphycs, como también, pantallas y 
+
+		transiciones entre otras posibilidades
+
+
+
+	_CC Bent It: (Doblarlo CC)
+
+		_éste efecto nos permitirá hacer distorsiones de tipo curva doblada para lo cual, el efecto hará una intervensión 
+
+		en la layer, limitando ésta ha sólo utilizar una pequeña área de forma rectangular en el centro de la imágen y 
+
+		canvas por lo cuál, se recomienda previamente hacer una precomposición de la respectiva layer
+
+
+
+	_CC Bender: (Deformador CC):
+
+		_éste efecto nos permitirá hacer distorsiones de tipo similar al efecto "Wave Warp", aunque de forma especializada ó 
+
+		totalmente controlable aunque no modulable de ésta manera, podremos en éste caso controlar de distorsión, ángulo y 
+
+		avance de ésta a través, de dos handles, ó target, por medios de los cuáles, podremos controlar todo el sistema
+
+
+
+	_CC Blobbylize:
+
+		_éste es uno de los efectos más importantes en relación a la producción y efectos directos y de paso contínuo de ésta 
+
+		manera, podremos controlar y crear efectos a través, de diferentes procesos con éste mismo efecto de ésta manera, poremos 
+
+		utilizar éste efecto para lograr efecto pseudo líquidos y metálicos como también, para crear otros procesos en conjunción 
+
+		con otros efectos como "vector blur", "CC Plastic", "CC Glass", otros
+
+
+
+	_CC Flo Motion: (Movimiento de flujo CC):
+
+		_éste efecto nos permitirá crear distorsión de vórtice, algo así como un agujero negro tirando ó exxpulsando un objeto, 
+
+		también, para efectos de sumnidero entre otras posibilidades así, como también, para lograr efectos coalaterales dentro 
+
+		por ejemplo de vórtices y torbellinos logrados con el efecto "twirl", y "CC Radial Blur", para acentuar así, un efecto 
+
+		de tunel del tiempo, otros
+
+
+
+	_CC Griddler: (Parrilla CC):
+
+		_éste efecto nos permitirá cortar y animar una capa en cuadrados. Griddler, Crea una versión de mosaico de la capa de 
+
+		origen, mientras escala y gira los mosaicos. Cuanto más pequeño sea el tamaño, más "Tiles", hay. Ajustes de mayor tamaño 
+
+		producen menos "Tiles", éste efecto es similar a las posibilidades dentro de los efectos de "CC Wave Warp", y "Warp", ya 
+
+		que éste también, nos permnitirá a través, de la modulación de figuras geométricas compuesta y procedurales podremos crear 
+
+		contenido para producción y paso contínuo 
+
+
+
+	_CC Lens: (CC Lente)
+
+		_éste efecto nos permitirá crear deformaciones las cuáles, nos permitirán emular distorsiones ópticas de tipo "Barril", y 
+
+		"Cojín", para crear y emular diferentes efectos en composición, producción y paso contínuo en relación si indicamos valores 
+
+		positivos ó negativos podremos crear un tipo de efecto u otro
+
+
+
+	_CC Power Pin: (Posicionar CC):
+
+		_éste efecto nos permitirá llevar más allá las posibilidades del efecto "Corner Pin", ya que en éste efecto tendremos control 
+
+		de la perspectiva y de la deformación así, como también, podremos hacer desplazamientos u offsets, de la imágen en cada una 
+
+		de las cordenadas generadas en la imágen, de ésta manera, podremos extender la imágen tanto en "top,buttom,left,right", para 
+
+		poder crear así, constructivismo visual y compositing, otros 
+
+
+
+	CC Page Turn (Paso de página CC):
+
+		_ste efecto nos permitirá crear efecto de una hoja doble cara tridimensional la cuál, tiene la propiedad de poder hacerse 
+
+		reversible de forma global a través, de handles, ó targets, a través, de los cuáles, podremos virar la hoja respectivamente		
+
+
+
+	CC Slant: (Inclinación CC)
+
+		_éste efecto nos permitirá crear un deformación a través, de la inclinación una capa, o un color mate del contenido de la 
+
+		capa, horizontalmente y la verticalidad de la escala de la capa de la fuente que se puede controlar, así como la base "piso" 
+
+		de la inclinación.
+
+
+
+	CC Smear: (Alargar CC)
+
+		_de ésta manera, podremos crear deformación por pixeles en un área deternimada ha modo de pellisco a través, de dos handles, 
+
+		ó targets
+
+
+
+	CC Split: (Dividir CC):
+
+
+		_éste efecto nos permitirá hacer una distorsión de tipo agujero ó grieta ha modo de corte sobre la layer, base, de ésta 
+
+		manera, podremos emular un corte, boca, sonrisa, otros
+
+
+
+	CC Split 2: (Dividir 2 CC):
+
+
+		_éste efecto nos permitirá hacer una distorsión de tipo agujero ó grieta ha modo de corte sobre la layer, base, de ésta 
+
+		manera, podremos emular un corte, boca, sonrisa, otros, más a diferencia del efecto "CC Split", en el efecto "CC Split 2", 
+
+		podremos tener un control más específico del sistema al poder así, controlar la deformación de cada uno de los lados de la 
+
+		deformación ó distorsión
+
+
+
+	CC Tiler: (Mosaico CC)
+
+		_éste efecto nos permitirá hacer modulaciones de la layer, base, para que así, hagamos distorsión de tipo fractal simétrico 
+
+		de ésta manera, podremos dividir la layer, original en un sin número de instancias a partir de un punto central determinado
+
+
+		_lo cuál, es especialmente útil para el motion graphycs, procesos de producción y paso contínuo entre otras muchas 
+
+		posibilidades de animación y constructivismo visual
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

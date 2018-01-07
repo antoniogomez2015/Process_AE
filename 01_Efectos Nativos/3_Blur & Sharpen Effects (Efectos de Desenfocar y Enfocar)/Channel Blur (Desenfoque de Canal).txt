@@ -1,0 +1,159 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto es especialmente útil para diferentes procesos de producción ya que éste nos permite hacer
+
+	desenfoques de forma selectiva por canal
+
+
+	_así, por ejemplo podremos hacer correcciones sobre el canal rojo para videos con ruido; pudiendo así, 
+
+	hacer correcciones desenfocando sólo en canal en el cuál, inside el ruido
+
+
+	_como también, en imperfecciones en el canal azul de imágenes en muy baja resolución, otros
+
+
+	_y una de las funciones más importantes dentro de diferentes procesos de producción es la posibilidad de
+
+	poder desenfocar el canal alpha, lo cuál, nos permitirá crear efectos de paso contínuo como para otros
+
+	procesos como también, para procesos específicos
+
+
+	_como también, para mejorar el aspecto y calado de un green screen, para que así, éste tenga un mejor 
+
+	calado en un material de baja resolución en el que éste presenta colores más claros con más acutancia como
+
+	por ejemplo bordes blancos, otros, lo cuál, desenfocando sólo el canal verde haremos los bordes suavizados
+
+	y más manejables para el proceso posterior
+
+
+	_como por ejemplo, para desenfocar el canal alpha, de un track matter, ó un screen matte, y demás procesos
+
+	similares en los que es conveniente desenfocar el canal alpha, para lograr un mejor calado e integración
+
+	entre el motivo ó el background
+
+
+	_así, como también, entre otras posibilidades de efectos de posterizados y umbral dentro de efectos 
+
+	específicos internos y externos de la aplicación
+
+
+
+	Display:
+
+	_auxiliarmente disponemos en el viewport, la posibilidad de visualizar los canales del contenido así, 
+
+	podremos marginar por ejemplo sólo el canal verde, rojo, azul, ó alfa, 
+
+
+	_lo cuál, nos permitirá apreciar sólo el canal de interés y no sólo en su conjunto lo cuál, nos impediría 
+
+	ver los detalles y comportamiento de cada canal por separado
+
+
+	_para lo cuál, dispondremos de los siguientes shortcuts;
+
+
+		_Channel Red: ALt + 1
+
+		_Channel Green: Alt + 2
+
+		_Channel Blue: ALt + 3
+
+		_Channel Alpha: Alt + 4
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Channel Blur: (Desenfoque de Canal)
+	_____________
+
+	_Red Blurriness:
+
+		_éste valor nos permitirá desenfocar en proporción sólo el canal rojo
+
+
+	_Green Blurriness:
+
+		_éste valor nos permitirá desenfocar en proporción sólo el canal verde
+
+
+	_Blue Blurriness:
+
+		_éste valor nos permitirá desenfocar en proporción sólo el canal azul
+
+
+	¨_Alpha Blurriness:
+
+		_éste valor nos permitirá desenfocar en proporción sólo el canal alfa
+
+
+	_Edge Behavior:
+
+		_ésta opción nos permitirá hacer predecible el comportamiento en los bordes
+
+
+	_Repeat Edge Pixels:
+
+		_ésta opción nos permitirá repetir los pixeles en los bordes lo cuál, es especialmente útil para
+
+		cierto tipo de ocaciones en los que los elementos de interés se encuentrar en los bordes cercanos
+
+		a los bordes del camvas lo cuál, hará que éste se repitan y sangren
+
+
+	_Blur Dimensions:
+
+		_Horizontal and Vertical
+
+			_ésta opción nos permitirá hacer desenfoque en ambas direcciones, tanto en la vertical como
+
+			en la horizontal
+
+
+		_Horizontal:
+
+			_ésta opción nos permitirá hacer desenfoque sólo en la dirección horizontal
+
+
+		_Vertical:
+
+			_ésta opción nos permitirá hacer desenfoque sólo en la dirección vertical
+
+
+	
+
+
+	
+
+
+

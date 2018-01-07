@@ -1,0 +1,139 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/utility-effects.html#grow_bounds_effect
+
+				https://helpx.adobe.com/es/after-effects/using/color-management.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+		Tutorial:
+
+			Extender limites de los objetos (Grow bounds) - After effects para principiantes
+				https://www.youtube.com/watch?v=qa8pdgAn-cY
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá poder extender los pixeles una layer, la cuál, disponga de un menor tamaño en la
+
+	composición respectiva
+
+	
+	_para que así, podamos aplicarle ha ésta layer, efectos que requieran extenderse más allá de los límites de
+
+	layer, sobre la cuál, se ha aplicado dicho efecto, como por ejemplo; efecto de resplandor, zoom light, otros	
+
+
+
+	NOTA: éste efecto no aplica ha layers, de forma de tipo shape, ya que éstas son vectores y reconocen toda el
+
+	área del canvas como propia para la aplicación de efectos sobre ésta
+
+
+
+
+
+	Definición Oficial:
+	___________________
+
+	_El efecto Extender límites, aumenta el tamaño de la capa para el efecto que directamente siga a este efecto. 
+
+
+	_Este efecto resulta más útil con capas que tengan habilitado Contraer transformaciones/Rasterizar 
+
+	continuamente, ya que se procesan mediante un búfer que tiene el tamaño de la composición. Por ejemplo, si 
+
+	aplica Sombra paralela a una capa de Texto que esté parcialmente fuera del fotograma de la composición, 
+
+	la sombra se recortará, ya que solo proyectará sombra la parte del texto que se encuentre dentro de la 
+
+	composición. 
+
+
+	_La aplicación del efecto Extender límites antes del efecto Sombra paralela evita que la sombra se recorte. 
+
+
+	_El número de píxeles que especifique aumenta la altura y la anchura del búfer de la capa.
+
+
+
+	NOTA: No necesitará utilizar este efecto cuando trabaje con efectos que funcionen con colores 32-bpc, porque 
+
+	estos efectos han sido actualizados para compensar automáticamente el tamaño de la capa.
+
+
+	_Este efecto funciona con color de 8 bpc, 16 bpc y 32 bpc.
+
+
+
+
+	Workflow:
+	_________
+
+	_primero debemos de tener una composición de trabajo en la cuál, a su vez, debemos de tener una layer, sobre
+
+	la cuál, deseamos aplicar el efecto, ésta layer, podrá estar pre compuesta ó no
+
+
+	_para a continuación aplicar el efecto extender bordes yendo ha  "Effects/Utility/Grow Bounds", entendiendo
+
+	así, que éste efecto lo tendremos que aplicar antes de cualquier otro efecto para que así, éste aplique y 
+
+	tenga sentido sobre los demás efectos ha aplicar posteriormente ha éste
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Grow Bounds: (Extender Limites)
+	____________
+
+
+		_Pixels:
+
+			_ésta opcíon nos permitirá indicarle al sistema la cantidad de pixeles ha extender el 
+
+			perímetro de la layer, respectiva de forma virtual para los demás efectos seguidos en la 
+
+			pila de efectos del panel effects controls
+
+
+
+
+
+
+
+
+
+
+

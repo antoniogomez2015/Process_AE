@@ -1,0 +1,117 @@
+
+
+DigiEffects/Buena Deep Cue Suite  /  http://www.digieffects.com/  /  http://www.rowbyte.com/buena-depth-cue/
+
+
+Referencia: DigiEffects Buena Depth Cue v2 - 06.Análisis de Falloff Lighting
+
+		https://www.youtube.com/watch?v=J_WUHpWKa4A
+
+	
+
+
+NOTE:	también, disponemos de todas las opciones de ésta suite directamente en la sección de effects, yendo ha
+
+	"Effects/DigiEffects BDC v2.5/", aunque ésta opciones no éstan automatizadas y son recomendables para
+
+	realizar un proceso manual ó más avanzado que las automatizadas las cuales están en la sección de
+
+	"Composition/"
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Falloff Lighting: (Depth of Field)
+
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
+Criterios y Requerimientos del plugins:
+_______________________________________
+
+
+
+	_éste trata de emular un mapa de "luz ambiental inversa realista", creado en una aplicación 3d
+
+
+	_para ésto, debemos de tener separadas en capas ó máscaras la escena que deseamos emular en una depth map,
+
+ 	con sus respectivas profundidades ó planos en 3d
+
+
+	_lo más recomendado es partir de una escena a la cuál, le hemos aplicado el proceso de "Camara Mappers",
+
+	vayamos ha utilizar el sistema de cámaras de proyección de cámara mapper, ó no, por que de ésta manera
+
+	ya dispondremos de la distribución de layers, de la escena
+
+
+	_así, podremos tener una composición ó escena ya con una cámara proyección y una cámara animada a nuestras
+
+	necesidades de acción, otros
+
+
+Lights:
+_______
+
+
+	_luego de haber creado el sistema de layers, con toda la lógica de la escena es hora de crear el sistema 
+
+	de luces ó iluminación
+
+
+	_para ésto, debemos crear cuantas luces necesitemos y su tipo según la lógica de la escena, éstas luces no
+
+	requieren ningún tipo de proceso especial ó efecto ó plugins, sobre éstas, shortcut: 
+
+	"Control + Alt + Shift + L"
+
+
+	NOTE: "el sistema de luces es impresindible para éste proceso"
+
+
+
+
+Apply Falloff Lighting To All Layers:
+_____________________________________
+
+
+	_luego, para crear el sistema de "depth map", de layers en los pasos anteriores así, el sistema de luces, 
+
+	procedemos entonces ha seleccionar las layers, deseadas y respectivas en la composición respectiva
+
+
+	_luego, con la respectiva layers seleccionadas en la composición vamos ha:
+
+	
+		 "Composition/Apply Falloff Lighting To All Layers"
+
+
+	_y así, podremos ver que a partir de éste punto se crearán la siguiente nueva layer, en la respectiva 
+
+	composición: "[Master Falloff Lighting Control]", a través, de la cuál, podremos manejar el sistema de
+
+	ilumación por medio del panel de control de efectos
+
+
+Distance Scale:
+
+	_así, a través, de éste control podemos controlar la intensidad de luz, y su capacidad de penetración entre
+
+	las respectivas layers, logrando así un sistema luz más envolvente y realista
+
+
+	_tambén podremos ver que ahora el sistema de iluminación tiene un comportamiento "disminución de luz natural", 
+
+	el cuál, es más realista de acuerdo con la distancia de las layers, en relación a la posición del punto de luz 
+
+	así, mismo será la intensidad de la luz, y su repercución de las layers
+
+
+
+	

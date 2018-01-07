@@ -1,0 +1,48 @@
+
+
+http://aescripts.com/exportforclient/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Toolbar Left / Export For Cliente
+
+
+	Export For Client:
+	__________________
+
+
+	_este nos permite hacer hacer informes para nuestros clientes sean éstos informes de guías de tiempo
+
+	en archivos de texto como también, tenemos la posibilidad de exportar imágenes a modo de los frames
+
+	más importantes los cuales deseamos mostrárselos a nuestros clientes
+
+
+	_Export Text Layers:
+
+		_éste apartado nos permite dos opciones una es exportar un texto plano con el texto plano y la
+
+		otra incorpora el timecode "TC",
+
+
+		_éste apartado tiene como objetivo el exportar todas las layers, de texto en su respectiva 
+
+		ubicación en el tiempo para ser discutida por el cliente
+
+
+	_más el apartado de "export images", nos permite agregar marcas "Add Marker", con las cuales podremos indicar
+
+	los frames, importantes que deseamos exportar para nuestros clientes
+
+
+	_para luego seleccionar un formato de exportación "Export Using", el más recomendado es "Photoshop"
+
+
+	_para por último hacer la exportación "Export images files"
+
+	
+

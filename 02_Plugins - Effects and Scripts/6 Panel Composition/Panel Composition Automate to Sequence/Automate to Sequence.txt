@@ -1,0 +1,106 @@
+
+
+http://aescripts.com/automate-to-sequence/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Automate to Sequence
+
+
+	Automate to Sequence:
+
+
+	-este nos permite secuencias layers, de una composición con la duración determinada ´especificada a
+
+	través, de marks, ó marcas, las cuales debemos indicar nosotros
+
+
+	_también, nos permite determinar el orden de la secuencia, de ésta manera podemos personalizar el orden
+
+	de que layers, se secuenciarán primero que otroas y bajo que criterios
+
+
+	_éstos es especialmente útil para diferentes procesos en series y en producción
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener creada una composición de trabajo así, como también, las layers, ha secuenciar
+
+	dentro de la respectiva composición
+
+
+	_aunado ha éstas layers, debemos de crear un nueva layers, de tupo "null object", en la cuál, crearemos las
+
+	respectivas marcas que tomará el sistema para secuenciar las layers
+
+
+	_para crear las marcas, primero debemos seleccionar la layer, de tipo null e ir desplazando el cabezal del 
+
+	tiemeline, hasta una ubicación deseada y aplicar una marca, para ésto utilizaremos el shortcut: "*", del
+
+	path, numérico del keyword, ó teclado, de ésta manera se irán creando las marcas en las ubicaciones deseadas
+
+	en el timeliene, de la respectiva composición
+
+
+	_luego, debemos seleccionar la layers, ha secuenciar dentro de la respectiva composición y con éstas layers,
+
+	seleccionadas ir al panel "Automate to Sequence", en el cuál, debemos darle a la opción de "Marker layer: Refresh",
+
+	para que así, el sistema reconozca la layer, con marcas dentro de la respectiva composición 
+
+
+	_para que así, a continuación el sistema nos muestra las opciones de configuración del secuenciador
+
+
+	Ordering:
+		
+		_ésta opción nos permite seleccionar el tipo de criterio para organizar las layers, el cuál, nos
+
+		brinda dos opciones:
+
+	
+			_Selection Order:
+
+				_éste tomará como orden de layer, el modo que fueron éstas seleccionadas y en que orden
+
+
+			_Layer Index Order:
+
+				_éste tomará el orden descendente de las layers, tomando su índice ó posición dentro de la
+
+				composición, ej, layer 1,2,3,4....
+
+
+	Overlap:
+
+		_ésta opción nos permite indicar en frames, ó segundos si deseamos agregar una superposición entre las layers,
+
+		que será secuenciadas, así, podremos indicar un valor el cuál, podría ser una cantidad de fotogramas ó segundos
+
+		como también, si deseamos agregar un fundido por opacidad entre las layers, solapadas entre si
+
+
+		_así, como también, nos permite indicar un método para éste proceso, como in intercalado entre las layers, 
+
+		"Shidt Layer", ó un fundido de entrada y de salida de las layers, "Set InPoint", "Set OutPoint"
+
+
+	_de ésta manera, leugo de haber indicado todos los criterios de acción, por último debemos de darle a la opción de:
+
+	"Secuence Layers", para que así, el sistema secuencia las respectivas layers, bajos los criterios indicados
+	
+
+
+
+
+

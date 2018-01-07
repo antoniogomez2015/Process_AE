@@ -1,0 +1,139 @@
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+		Reference:
+
+			http://help.revisionfx.com/tutorial/80/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+		
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+DE: Fieldskit Pulldown:
+_______________________
+
+
+	_el plugins, "DE Fieldskit Pulldown", nos permitirá cambiar ó variar la cadencia de un material de archivo determinado
+
+	
+
+
+
+	Field Order:
+
+
+		_Lower First:
+
+			_
+
+
+		_Upper First:
+
+			_
+
+
+	_3:2 Pulldown:
+
+
+		_> Create:
+
+			_
+
+
+		_< Remote:
+
+			_
+
+
+		_> Create (24 to 30)fps:
+
+			_
+
+
+		_< Remove (30 to 24)fps:
+
+			_
+
+
+	_Pulldown Phase:
+
+
+		_WWSSW:
+
+			_
+
+
+		_WSSWW:
+
+			_
+
+
+		_SSWWW:
+
+			_
+
+
+		_SWWWS:
+
+			_
+
+
+		_WWWSS:
+
+			_
+
+
+		_WWSWW (24 Pa):
+
+			_
+
+
+		_WSWWW (24 Pa):
+
+			_
+
+
+		_SWWWW (24 Pa):
+
+			_
+
+
+		_WWWWS (24 Pa):
+
+			_
+
+
+		_WWWSW (24 Pa):
+
+			_
+
+
+
+	_Source Layer:
+
+		_
+
+
+
+
+	
+
+
+

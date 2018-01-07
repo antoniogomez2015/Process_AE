@@ -1,0 +1,170 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá hacer ajustes y modificaciones de HSL, tono, saturación y brillo sobre layers, a
+
+	partir de 256, puntos de acción lo cuál, permite un control mayor que por ejemplo el efecto de "Levels", 
+
+
+	_el cuál, es basntante completo más sólo cuenta con sliders, de control más si cuenta con un histograma lo 
+
+	cuál, a su vez, es una desventaja del efecto curves, ya que éste no dispone de un histograma por
+
+
+	
+	Recomendaciones:
+
+	_lo cuál, es recomendable utilizar ambos efectos; tanto curves, como levels, de forma conjunta de ésta menera, 
+
+	podremos colocar el efecto levels, debajo del efecto curves en el orden de aplilados de efectos para tener 
+
+	así, una visulización gráfica de la gamma de la imágen resultante
+
+
+	_más tamibién, diponemos de otra opción más completa de visualización a través, de los plugins, de:
+
+
+		_TestGear:
+
+			_éste nos ofrece una serie de páneles dedicados a la visulización de información como 
+
+			histogramas, escopes, otros
+
+
+		_BCC Videoscope:
+
+			_el plugins, de BOris Continium Complete, nos ofrece éste efecto en el cuál, sobre la misma
+
+			layer, podremos tener diferentes tipos de scopes e histogramas diferentes para el la 
+
+			visualización, ajusta y control de la imágen resultante
+
+
+		_qp Grade Assistant 2
+
+			_el plugins, de "Quaterlight Picture/qp Grade Assitant 2", nos ofrece éste efecto en el cuál, 
+
+			sobre la misma 	layer, podremos tener diferentes tipos de scopes e histogramas diferentes 
+
+			para el la visualización, ajusta y control de la imágen resultante
+
+
+
+	
+	Interpretación de la Curva:
+
+	_de ésta manera, debemos interpretar el efecto curvas a través, de los siguientes criterios:
+
+
+		_en el gráfico de curva, los valores de tono saturación y brillo están representados de la siguiente 
+
+		manera:
+
+
+			_en la base ó linea horizontal inferior está representada la saturación, sombras ó negros
+
+
+			_en la base ó linea horizontal superior está representada la luminocidad, brillos ó blancos
+
+
+			_y en la línea verical y diagonal están representados los medio tonos ó la gamma tonal entre
+
+			los blancos y negros
+
+
+	_de ésta manera, podremos entender que el punto ó extremos izquierdo inferior de la curva representa el punto
+
+	más negro de la imágen "0", y el punto ó extremo derecho superior de la curva representa el punto más blanco
+
+	de la imágen "255"
+
+
+	_y a su vez, podremiamos segmentar todo el área cuadrada de la curva en tercios; los cuáles representan los
+
+	siguientes esquemas de la imágen:
+
+
+		_el primer tercio de izquierda ha derecha, represenda la saturación, sombras ó negros de la imágen
+
+
+		_el segundo cuadrante de izquierda ha derecha, representa los medio tonos de la imágen
+
+
+		_el tercer cuadrante de izquierda ha derecha, representa los brillos, altas luces ó blancos de la 
+
+		imñagen
+
+
+		_y a su vez, éstos cuadrantes los podremos dividir con una línea horizontal donde a partir de la cuál,
+
+
+			_se proyectarán hacia abajo partiendo de los medio tonos hasta la saturación, sombra ó negros
+
+			de la imágen
+
+
+			_se proyectarán hacia arriba partiendo de los medio tonos hasta los brillos, altas luces ó 
+
+			blancos de la imágen
+
+
+
+	Modos:
+
+	_más tambén, la curva tiene diferentes modos de trabajo, de ésta manera, podremos trabajar en modo "RGB", ó
+
+	en canales independientes para hacer así, correccciones específicas por canales como "R/G/B/A"
+
+
+
+	Automatismos:
+
+	_así. como también, dispondremos de automatismos como curvas automáticas, suavizados, salvar y cargar curvas,
+
+	otros
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Curves: (Curvas)
+	_______
+
+	_la curva dispone de un gráfico el cuál, podremos controlar a través, de nodos y handles, podremos agregar
+
+	más handles, en el canal global ó rgb, así, como también, por canales
+
+		
+
+
+
+
+
+

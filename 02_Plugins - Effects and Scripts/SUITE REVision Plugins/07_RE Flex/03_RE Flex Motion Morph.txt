@@ -1,0 +1,603 @@
+
+
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+		DEFlicker Tutorials/Playong List:
+
+			https://www.youtube.com/watch?v=ROG9Cx09xr4&list=PLJZE0COAfWUXTkWdhbkaO5GflW3hWJZ4h
+
+
+		RE:Flex (17 Videos)
+
+			https://www.youtube.com/playlist?list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v
+
+
+		RE:Flex Morph - Morphing between moving images
+
+			https://www.youtube.com/watch?v=t0lcSHYiOJg&list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v&index=2
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE:VisionFx Flex Motion Morph:
+______________________________
+
+
+	_éste efecto nos permitirá transformar ó transfigurar un rosto ó imágen en otra a través, de dos videos ó secuencia
+
+	de imágenes ó composiciones logrando una interpolación de las formas entre ambas de forma realista 
+
+
+	_haciendo uso de máscaras podremos indicar las áreas relevantes las cuáles, el sistema tomará en cuenta para
+
+	tenerlas como reservas y puntos de referencia y comparativas entre ambas imágenes
+
+
+	_de ésta manera, éste efecto nos permitirá hacer transformaciones y fusiones entre elementos y objecto complejos
+
+	para múltiples efectos de producción avanzados entre muchas otras posibilidades
+
+
+	_más éste efecto ó plugins, nos permitirá corregir ó igual material de archivo como secuencias de imágenes ó video
+
+	a las cuáles, les falta frames, ó fotogramas; de ésta manera, podremos hacer interpolaciones para corregir lo más
+
+	posible tratando de emular los frames, faltantes
+
+
+	_más también, éste efecto ó plugins, nos servirá para la creación de loops, pudiendo lograr ciclos con material 
+
+	de archivo el cuál, nunca fué consevido para tal fin a través, de la interpolación de frames
+
+
+
+
+	Workflow:
+	_________
+
+
+	1_primero debemos de tener y cargar las secuencias de imágenes, video ó composiciones a las cuáles, deseamos hacer 
+
+	"morph", de las cuáles, es recomendable crear un composición con cada una de éstas para que así, podamos hacer una
+
+	pre edición individual de cada una de éstas
+
+
+		NOTA: las composiciones que hagamos del ambas secuencias deben de tener el mismo tamaño de composición para
+
+		que así, no hayan problemas en el proceso posterior
+
+
+	2_para luego, hacer una pre edición de cada una de éstas secuencias, videos ó composiciones como por ejemplo; un 
+
+	chromekey, ó rotoscopia del área de interés a través, de las herramientas de "PV Feather", ó las opciones nativas
+
+	de rotoscopia de la aplicación ó las opciones de trackeo de máscara nativas ó la del plugin, "Tracker 2 Mask", otros
+
+
+	_para que así, el material que vaya el proceso de morph, esté lo más optimizado posible así, como también, es altamente
+
+	recomendable que el material de archivo tenga una misma diración en todas sus secuencias de imágenes ó videos
+
+
+	3_para posteriormente crear una nueva composición con ambas pre composiciones del material de archivo ó secuencias
+
+	de imágenes ó videos, ésta nueva composición la cuál, podremos llamar por ejemplo; morph, tendrá que tener las mismas
+
+	dimensiones y propiedades que las composiciones del material de archivo que hemos creado previamente
+
+
+	_para lo cuál, lo más recomendable es seleccionar ambas pre composiciones y arrastras ambas hasta el ícono de nueva
+
+	composición en la parte inferior del panel "Project", para que asi´, el sistema genera un nueva composición a partir
+
+	de las características del material de archivo
+
+
+	4_y ahora en la nueva composición que hemos creado y que hemos llamado "morph", debemos organizar el material de archivo
+
+	en ésta colocando por lo general la primera secuencia ó composición que deseamos que aparezca en el proceso de morph, 
+
+	como capa superior y la segunda secuencia que deseamos que aparezcan en el proceso de morph, la colocaremos como última 
+
+	capa
+
+
+	_más ésta última layer, ó secuencia de imágenes ó video debemos de desactivarle su ícono de visualización "ícono del ojo", 
+
+	para que así, ésta layer, no esté visible ya que sólo la utilizaremos de forma colateral ó de referencia para el proceso 
+
+	ó por el sistema del efecto ó plugin
+
+
+	5_para posteriormente seleccionar la composición ó secuencia de imágenes ó video superior y con ésta seleccionada ir ha
+
+	"Effects/RE:Vision Plugins/", y allí, aplicar el efecto "RE:Flex Motion Morph"	
+
+
+	6_para luego con el primera secuencia seleccionada a la cuál, hemos aplicado el efecto, vamos ahora a las opciones del
+
+	plugin, ó efecto específicamente a las opciones de "Warp "To Layer:", en la cuál, debemos de seleccionar la segunda
+
+	secuencia de imágenes ó video ó composición que hemos creado y que previamente le hemos desactivado su visualización
+
+
+
+	7_para luego seleccionar la primera secuencia a la cuál, le hemos aplicado el efecto y en ésta procedemos a crear máscaras 
+
+	sobre los elementos a los cuales deseamos crearles transformación morph, ha modo de referencia para el sistema como ojos,
+
+	labios, frente, mentón, naris, otros
+
+
+		7.1_estas máscaras las renombraremos ej: motivo_1_from, lo cuál, es opcional y a continuación le asignamos un color 
+
+		"Verde puro", para que así, éstas sean reconocidas por el sistema (color requerido por el plugins para las máscaras 
+
+		handles)
+
+			
+		7.2_luego, estas máscaras creadas las duplicamos (control+D), y las renombramos ej: motivo_1_to, y a continuación 
+
+		le asignamos un color "Rojo puro" a las mismas (color requerido por el plugins para las máscaras deformadoras)
+
+
+	8_de ésta manera, ya tendremos ambos juegos ahora de máscaras, tanto el juego de color verde como el juego de color rojo
+
+	
+	_más ahora debemos hacer que cada jeugo de máscaras se siña a las formas, facciones y características de cada una de las
+
+	secuencias para lo cuál, debemos de ir a las opciones del efecto específicamente ha las opciones de "Display:", y allí,
+
+	seleccionar la opción de:
+
+
+	_UNwarped "From", para que así, el sistema nos muestre la primera secuencia sólamente en ausencia de la segunda secuencia
+
+	así, como también, sólo las máscaras de color verde para que así, podamos hacer una edición de las máscaras sin el
+
+	inconveniente de tener que ver la segunda secuencia de las máscaras de color rojo todo a la vez, pudiendo así, señir las
+
+	máscaras a las facciones, rasgos y características del motivo fácilmente
+
+
+	_UNwarped "To", para que así, el sistema nos muestre la segunda secuencia sólamente en ausencia de la primera secuencia
+
+	así, como también, sólo las máscaras de color rojo para que así, podamos hacer una edición de las máscaras sin el
+
+	inconveniente de tener que ver la primera secuencia de las máscaras de color verde todo a la vez, pudiendo así, señir las
+
+	máscaras a las facciones, rasgos y características del motivo fácilmente
+
+
+	9_y ya en éste punto en el que tenemos colocadas las máscaras correctamente sobre cada uno de los motivos ó secuencias ha
+
+	interpolar ó transpolar es hora de animar cada juego ó set, de máscaras tanto las máscaras verde como las máscaras rojas
+
+
+	_éste proceso de animación de las máscaras a través, de la duración de las secuencias ó videos respectivamente lo podemos
+
+	hacer con las opciones nativas de trackeo de máscara ó de forma manual moviendo y rotando las máscaras así, como también,
+
+	nos podremos ayudar del plugin, "Tracker2Mask", de mamoword, el cuál, nos ayudará ha rastrear todos los mivimientos 
+
+	de las máscaras dejándonos sólo ajustes por hacer
+
+
+	10_y cuando ya hayamos terminado el proceso de rastreo ó trackeo de todas las máscaras debemos de seleccionar la primera
+
+	secuencia ó composición a la cuál, le hemos aplicado el efecto ó plugin, para que así, podamos ir a las opciones del efecto
+
+	específicamente a las opciones de "Display:", y allí, seleccionar la opción de "Warped and Blended"
+
+
+	_para que así, el sistema nos muestre el resultado final el cuál, hasta ahora sólo nos mostrará la primera secuencia sólo
+
+	con algunas modificaciones
+
+
+	11_para posteriormente colocar el cabezal del timeline, en el frame, ó segundo "0", e ir a las opciones del efecto 
+
+	"Global Warp %:", y "Global Blend %:", y acticar el reloj de animación de cada una de éstas propiedades colocando cada uno
+
+	de sus respectivos valores en "0"
+
+
+	_para luego llevar el cabezal del timeline, al último frame, ó segundo para leugo ir a las opciones del efecto 
+
+	específicamente "Global Warp %:", y "Global Blend %:", y colocar cada una de sus respectivos valores en "100"
+
+
+	_para que así, el sistema nos muestre ahora si, cada una de las secuencias, transiciones, transformaciones e 
+
+	interpolaciones entre ambas secuencias
+
+
+	_de ésta manera, podremos ver que éstos valores de "Global Warp %:", y "Global Blend %:", los podremos variar en relación
+
+	a la cantidad de interpolación gradual ó lineal que desiemos de ésta manera, podremos crear transpolaciones más abructas
+
+	que otras ó más suaves en relación a los resultados deseados
+
+
+
+
+	NOTA: a continuación algunas opciones que son recomendable activar en las opciones del efecto ó plugins, las cuáles, 
+
+	mejoran los resultados generales
+
+
+
+
+	12_Temporal Smooth, esta opción activada suavisa considerablemente la interpolación de la deformación 
+
+
+	13_Hold Edges, activar esta opción permite que los bordes se mantengan en su sitio evitando así, que éstos no se desborden 
+
+	y abran huecos indeseados
+
+	
+
+	14_Auto Align, permite auto alinear por similitud la representación visual del contenido de ambas capas ó layers, 
+
+	que conforman la interpolación, buscando un punto medio entre las mismas fusionando y auto alineando ambas capas
+
+		
+	15_Smart Blend, esta opción activada ayuda a una interpretación de la escena mejorada recostruyendo los bordes, mejorando 
+
+	las transiciones entre las formas y aumentando la calidad en general
+
+
+
+
+
+
+RE:VisionFx Flex Morph Options:
+_______________________________
+
+
+	_Warp "To" Layer:
+
+		_ésta opción nos permnitirá seleccionar una layer, la cuál, hará de segunda secuencia la cuál, hemos pre compuesto
+
+		y colocado como layer, inferior de ésta composición "morph", y que ha su vez, hemos desactivado su ícono 
+
+		de visualización
+
+
+	_Display:
+
+
+		_Warped and Blended:
+
+			_ésta opción nos permitirá ver la interpolación anter ambas imágenes con las deformación controladas
+
+			a través, del uso de las máscaras de deformación
+
+
+		_UNwarped "From":
+
+			_ésta opción nos permitirá ver y actuar sobre las layers, y máscaras sin la acción del efecto lo cuál,
+
+			es especialmente útil para proceso de edición y creación y ajuste de las respectivas máscaras
+
+
+		_Warped "From":
+
+			_ésta opción nos permitirá ver la deformación por las respectivas máscaras sobre la primera layer, ó 
+
+			la layer, inicial ó superior de ésta manera, podremos ver la deformación parcial ó inicial del sistema
+
+
+		_UNwarped "To":
+
+			_ésta opción nos permitirá visualizar la segundo layer, ó la última layer, del sistema sin la aplicación
+
+			del efecto lo que nos permitirá ver el desplazamiento de las máscaras sobre ésta layer, para poder
+
+			apreciar así, el alcance de las máscaras deformadoras
+
+
+		_Warped "To":
+
+			_ésta opción nos permitirá visualizar la segundo layer, ó la última layer, del sistema con la aplicación
+
+			del efecto lo que nos permitirá ver el grado de desplazamiento entre ambas layer, para poder apreciar así, 
+
+			el alcance de la transformación ó interpolación
+
+
+		_Control Image:
+
+			_ésta opción nos permitirá visualizar el sistema de máscaras resaltado por contornos gruesos de colores
+
+			verde y rojo respectivamente y 	con un fondo de un color gris neutro para poder visualizar así, 
+
+			el comportamiento sólo de las máscaras  en ausencia de la visualización de ambas layers
+
+
+			_éste fondo gris neutro podrá cambiar ha áreas más blancas u oscuras en relación a la influencia de las
+
+			máscaras en relación a la deformación ó transpolación entre ambas imágenes respectivamente
+
+
+	_Use GPU:
+
+		_ésta opción nos permitirá visualizar el sistema de interpolación entre ambas imágenes a través, de la aceleración
+
+		de GPU, 3d, opción recomendada sólo si disponemos de una aceleradora 3d de alta gama instalada
+
+
+	_Auto Hide Show Splines:
+
+		_ésta opción nos permitirá ocultar ó visualizar las máscaras en relación a que opción tengamos seleccionada 
+
+		en las opciones de "Display", ésta opción es recomendable dejarla activada
+
+
+	_Use Global Warp %:
+
+		_ésta opción nos permitirá indicar que deseamos una interpolación lineal entre ambas secuencias
+
+
+	_Global Warp %:
+
+		_ésta opción nos permitirá animar y ver la transición ó interpolación entre ambas secuencias de imágenes a través,
+
+		del trabajo que hemos realizado previamente animando los juegos de máscaras previamente
+
+
+	_Use Global Blend %:
+
+		_ésta opción nos permitirá animar y ver la transición ó interpolación entre ambas secuencias de imágenes a través,
+
+		del trabajo que hemos realizado previamente animando los juegos de máscaras previamente
+
+
+	_Quality:
+
+		_tenemos la posibilidad de mejorar la fidelidad con la que es representado el sistema para lo cuál, disponemos
+
+		de diferentes modo de calidad entre los que disponemos de "Low, Medium, Best, Ultra"
+
+
+	_Temporal Smooth:
+
+		_ésta opción nos permitirá obtener una mejor visualización de las áreas interpoladas en movimiento logrando más
+
+		fidelidad ó resolución en las áreas interpoladas en movimiento
+
+
+	_"From/To" Boundary:
+
+		_ésta opción nos pemritirá seleccionar una máscara auxiliar respectivamente la cuál, hará de delimitador 
+
+		del sistema para que éste tenga una área perimetral de acción para que así, éste no efecte áreas que deseamos 
+
+		se mantengan en su estado original ó estado de reposo
+
+
+	_Hold Edges:
+
+		_activar esta opción permite que los bordes se mantengan en su sitio evitando así, que éstos no se desborden 
+
+	y abran huecos indeseados
+
+
+	_Anti.Aliasing:
+
+		_ésta opción nos permitirá mejorar el aspecto de los pixeles deformados en el proceso mejorar su calado ó 
+
+		interpolación
+
+
+		_de ésta manera, podremos indicado un antialiasing, con valor entre "1x1, 2x2, 3x3, 4x4", para mejorar así, 
+
+		el aspecto de los pixeles e imágen en general resultante del proceso
+
+
+
+	_AA Method:
+
+
+		_Faster:
+
+			_así, como también, podmores seleccionar un método de acción para el antialiasing, el cuál, puede ser
+
+			rápido con buena calidad
+
+
+		_Less Memory:
+
+			_así, como también, podmores seleccionar un método de acción para el antialiasing, el cuál, puede ser
+
+			lento y con menor calidad pero éste consumirá menos memoria en el sistema general
+
+
+
+	_MipMap:
+
+
+		_Standard:
+
+			_(opción indeterminada), por que no veo cambios ó acción de ésta opción
+
+
+		_Medium:
+
+			_(opción indeterminada), por que no veo cambios ó acción de ésta opción
+
+
+		_Smoothet:
+
+			_(opción indeterminada), por que no veo cambios ó acción de ésta opción
+
+
+
+	_Accumulate Folds:
+
+		_ésta opción nos permitirá conmitar los alineamientos de los estiramientos de la imágen en un sólo control 
+
+		automático
+
+
+	_Strips:
+
+		_ésta opción nos permtirá indicar que sólo habrán estiramientos de la imágen sean éstos horizontales o verticales
+
+		a través, de las opciones de: "Horiz Strip", "Vert Strips", ha nivel general
+
+
+	_Horiz Render:
+
+		_ésta opción nos permitirá indicar específicamente si los estiramientos de la imágen se realizarán horizontalmente
+
+		tanto a la derecha ó a la izquierda a través, de las siguientes opciones: "Left to Right", "Right to Left"
+
+
+	_Vert Render:
+
+		_ésta opción nos permitirá indicar específicamente si los estiramientos de la imágen se realizarán verticalmente
+
+		tanto de arriba hacia abajo ó de abajo hacia arriba a través, de las siguientes opciones: "Top to Bottom", 
+
+		"Bottom to Top"
+
+
+	_Match Vertices?:
+
+		_ésta opción nos permitirá mantener alineada la imágen en sus ejes originales sin importar la deformación 
+
+		y orientación de los vértices deformados de la máscara de color verde
+
+
+		_de ésta manera, en la mayoría de los casos es recomendable mantener ésta opción activada
+
+
+
+	_Use Auto Blend %:
+
+		_ésta opción nos permnitirá activar ó desactivar la interpolación automática a través, del tiempo de interpolación
+
+		lineal del sistema
+
+
+		_de ésta manera, podremos también, realizar el proceso de interpolación ó transpolación entre ambas imágenes
+
+		de forma manual a través, de las opciones de "Per-Mask Blend % Comes"
+
+
+		NOTE: más en éste caso sea a través, de las opciones de "Mask Opacity", ó "Mask Expansion", en ambos casos 
+
+		tendremos que hacer ajustes sobre la opacidad de las máscaras por igual; tanto para las máscaras de color "verde",
+
+		como para las máscaras de color "rojo", para que así, el sistema funcione correctamente con la excepción de que
+
+		ahora la interpolación ahora será personalizada en relación a la opacidad de cada máscara respectiva y a su par
+
+		"verde/roja"
+
+
+	_Per-Mask Blend % Comes:
+
+		_ésta opción nos permitirá indicar ó seleccionar el criterio de interpolación entre las layers, respectivas 
+
+		a través, de las máscaras
+
+
+		_ésta opción aplicará sólo cuando la opción de "Use Auto Blend %:", esté desactivada de ésta manera, dispondremos
+
+		de los siguientes modos de interpolación:
+
+
+			_Mask Opacity:
+
+				_los cambios entre las respectivas layers, ó interpolación no será tan gradual ó lineal más en éste
+
+				caso podremos controlar la influencia de cada máscara a través, de la opacidad de la misma
+
+				
+				_para lo cuál, debemos de seleccionar la respectiva máscara de color verde y aplicar el shortcut,
+
+				"TT", para que así, podamos graduar la opacidad de cada respectiva máscara del sistema y poder así,
+
+				graduar la influencia de ésta máscara sobre el sistema y ambas layers, interpoladas
+
+
+				_de ésta manera, podremos graduar ó ajustar el timming, de interpolación así, como también, podremos
+
+				ajustar ó variar la cantidad de influencia de cada máscara respectivamente
+
+		
+
+
+			_Mask Expansion:
+
+				_ésta opción es similar a la opción anterior más ésta opción contempla la separación ó expansión
+
+				entre las máscaras de color verde para la aplicación de la deformación ó interpolación entre ambas 
+
+				layers
+
+
+				_de ésta manera, a parte de animar la propiedad "opacidad", de las máscaras en éste caso también, 
+
+				tendremos que animar las opciones de "Mask Expansión", de cada máscara, tanto para las máscaras 
+
+				de color "verde", como para las máscaras de color "rojo"
+
+
+	_Match Vertices:
+
+		_ésta opción permite que las ambas imágenes deformadas conserven su orientación sin importar la orientación de los
+
+		vertices de cada máscara que conforma el sistema lo cuál, es recomendable en la mayoría de los casos
+
+
+	_Auto Align:
+
+		_Auto Align, permite auto alinear por similitud la representación visual del contenido de ambas capas ó layers, 
+
+		que conforman la interpolación, buscando un punto medio entre las mismas fusionando y auto alineando ambas capas
+
+
+	_Auto Align Method:
+
+		_ésta opción nos permitirá seleccionar el criterio de acción del auto alineado, así, podremos seleccionar entre
+
+		los modos "Basic (Smoother)", ó suavizado general y "Multiple Objects (more discontinuos)", múltiples objetos
+
+		auto más discontínuos
+
+
+	_Smart Blend:
+
+		_esta opción activada ayuda a una interpretación de la escena mejorada recostruyendo los bordes, mejorando 
+
+		las transiciones entre las formas y aumentando la calidad en general
+
+
+
+
+
+
+
+
+

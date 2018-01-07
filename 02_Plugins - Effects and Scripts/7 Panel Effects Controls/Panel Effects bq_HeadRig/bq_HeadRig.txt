@@ -1,0 +1,210 @@
+
+
+http://aescripts.com/head-rig/#/discussion/embed
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / bq_HeadRig
+
+
+	bq_HeadRig:
+
+
+	-este nos permite hacer rig, y cinemática de todo el rostro de un character, de una forma fácil y 
+
+	totalmente animable y con la interpolación gráfica mínima
+
+
+	_
+
+
+
+	Workflow:
+	_________
+
+
+	General:
+
+	_para ésto, debemos de tener una composición de trabajo especialmente dedicada para éste rig, de head,
+
+	el cuál, es recomendado que tenga una duración de "20f", de veinte fotogramas solamente, ó 
+
+	alternativamente podrías seleccionar esa longitud de tiempo a través, del workarea
+
+
+	_así, como también, las layers, iniciales que conforman el rostro ó face, de nuestro character, la cuál,
+
+	por lo general está conformada de las siguientes layers:
+
+
+		_rostro
+
+		_cabello 
+
+		_ojo izquierdo
+
+		_ojo derecho 
+
+		_boca
+
+		_y alternativamente orejas
+
+
+	Marks:
+
+	_ahora, debemos crear las marcas de animación en 3, tres puntos específicos, una al inicio, otra a la mitad
+
+	y otra final
+
+	
+	_éste paso se refiere sólo hacer ó crear marcas en el nivel principal de la composición no en ninguna layers,
+
+	específica así, como tampoco se refiere hacer ningún tipo de animación sobre ninguna layer
+
+
+
+	1.HEAD NULL:
+	
+	_ahora, en éste paso ya con la composición de trabajo creada así, como con las layers, que conforman el character,
+
+	dentro de ésta así, como también, después de haber creado las tres marcas
+
+
+	_sólo en entonces iremos al panel "bq_HeadRig", hasta el paso "1.HEAD NULL/", donde le daremos al botón 
+
+	"Create Head Null", para que así, se agrege una nueva layer, de tipo "Null Object", ésta nueva layer, de tipo null,
+
+	la podemos reubicar por ejemplo a la altura del mentón del character
+
+
+	_leugo, procederemos ha seleccionar todas las layers, excepto la layer, base del head, ó layer, del rostro en la 
+
+	composición, tanto las que conforman el character, como la layer, del null, que se ha agregado y con todas éstas 
+
+	layers, seleccionadas vamos nuevamente al panel "bq_HeadRig/", "1:HEAD NULL", y le damos ha "Parent to Head Null", 
+
+	para que así, todas las layers, que conforman el character, ahora queden relacionadas con el null, que se ha creado 
+
+	ó agregado a la escena, de ésta manera al movel el null object, también, se moverá todo el character
+
+
+	_ahora para seleccionar todas las layers, del sistema basta con hacer "bq_HeadRig/1.HeadRig/", y "Select Head Null", de 
+
+	ésta manera se seleccionarán todas las layers, del sistema de forma automática
+
+
+
+	2.LEFT / RIGHT:
+
+	_ahora debemos animar los diferentes estados que tendrá el character, en su animación, en éste caso el sistema soporta
+
+	hasta tres estados, donde el central ó punto medio será el estado natural ó estado de reposo
+
+
+	_para ésto, debemos seleccionar las layers, del character, menos la laber base del character, osea la layer, "head", y 
+
+	así, con todas las layers, móbiles del character, como lo son las layers, de "los ojos, narís, boca, orejas", con éstas
+
+	seleccionadas
+
+	
+	_procedemos ha hacer la animación en los tres pasos corespondientes a las tres marcas que realizamos inicialmente según 
+
+	la lógica del character, para ésto iremos el frame, 1, procederemos ha animar la propiedad de "Position", moviendo el 
+
+	conjundo de layer, hacia la izquierda del character, para luego repetir éstos pasos para el frame, 20, dejando como punto
+
+	intermedio el frame, 10
+
+
+	_ahora, debemos relacionar las layers, animadas con el sistema, para ésto, debemos seleccionar todos los keyframes, que 
+
+	hemos animado en todas las layers, respectivas para ésto es conveniente desplegar todos los keyframes, animados a través, 
+
+	del shortcut "uu"
+
+
+	_de ésta manera, procedemos ha seleccionar todos los keyframes, animados y con todos éstos seleccionados vamos ha el panel
+
+	"bq_HeadRig/2LEFT/RIGHT", y hacemos "Set Left/Right KFs", para que así, expresiones sean agregadas a las layers, para que 
+
+	así, las layers, queden sin animación y ésta sea pasada al sistema para ser controlada por éste a través, del slider, 
+
+	seguido a ocntinuación en el panel  
+
+
+	_de ésta manera podremos ver que ahora al mover el cabezal del timeline, no hay animación más si movemos ahora el slider,
+
+	de la sección del panel "bq_HeadRig/2LEFT/RIGHT", veremos que el sistema se mueve controlando la animación de las layers,
+
+	a voluntad
+
+
+	3.UP/DOWN:
+
+	_ésta operación consisten en repetir las acciones del proceso anterior "2.LEFT/RIGHT", más en éste caso será sólo con la 
+
+	layer, null, a la cuál, están relacionadas todas las layers, del character, excepto la layer, base del head
+
+
+	_así, animaremos el null object, en una posición intermedia otro inicial y otro final para leugo seleccionar éstas propiedades
+
+	de "position", animadas e ir al panel "bq_HeadRig/3.UP/DOWN", y hacer "Set Up/Doen KFs", para que así, a través, de éste paso
+
+	podamos controlar el sistema de arriba hacia abajo y viceversa
+
+
+
+	4.HEAD CONTROLLER:
+	
+	_ahora vamos ha hacer "Twaking Rigs", para obtener un control maestro con las limitaciones del character, necesarias para aumentar
+
+	la potencia del sistema y rig, en general
+
+	
+	_ahora para crear el controlador principal, debemos ir al panel "bq_HeadRig/4.HEAD CONTROLLER/", y hacer "Create Head Controller", 
+
+	para que así, sea agregado a la composición respectiva una nueva layer, de tipo null object, con el nombre de "HEAD CONTROL", la 
+
+	cuál, podremos ajustar de tamaño cambiando éste al tamaño del rostro por ejemplo
+
+
+	_ahora debemos configurar éste controlador principal para que éste se corresponda con las layers, existente del character, y a las
+
+	dimensiones de ésta
+
+
+	_para ésto, debemos de tener la layer, "HEAD CONTROL", del controlador principal seleccionada para leugo ir al panel "bq_HeadRig/",
+
+	"HEAD CONTROLLLER", y hacer "SET MID", para que así, quede asentado el estado medio ó de reposo del mismo y nos envíe a la nueva 
+
+	posición ha determinar que será la posición del lado derecho del rostro "SET Right", para lo cuál, tendremos que mover el null object,
+
+	"HEAD CONTROL", hacia el lado derecho del character, para que así, ésta posición quede asentada y nos envíe hacia la nueva posición
+
+	ha determinar que será la posición superior ó "SET UP", para la cuál, tendremos que mover el null object "HEAD CONTROL", hacia arriba,
+
+	
+	_de ésta manera el sistema detectará ó definirá las demás posiciones por defecto en relación a las demás posiciones elegidas anteriormente
+
+
+	_y por último justo a continuación darle al botón "RIG HEAD CONTROLLER", para que así, el rig, máster quede totalmente configurado y listo
+
+	para usar
+
+
+	_el cuál, respetará el área estática del rostro con área de acción para que así, los elementos no se salgan del rostro ha animar lo cuál,
+
+	es especialmente útil y práctico
+
+
+
+
+
+
+
+
+

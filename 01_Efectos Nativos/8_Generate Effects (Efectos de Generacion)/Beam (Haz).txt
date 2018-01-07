@@ -1,0 +1,134 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria´la realización de lasers, pulsos luminosos, otros, en línea reacta y de forma
+
+	animada entre dos puntos determinables y animables
+
+
+	_con la ilusión de perspectiva ó profundidad 3d, de forma alternativa
+
+
+	_también, podremos utilizar éste efecto para la creación de procesos compositivos como líneas luminosas para
+
+	crear resaltados, efectos de paso contínuo y de producción, otros
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Beam: (Haz)
+	_____
+
+
+		_Starting Point:
+
+			_ésta opción nos permitirá indicar el punto inicial a partir del cuál, se generar el 
+
+			sistema ó efecto
+
+
+		_Ending Point:
+
+			_ésta opción nos permitirá indicar el punto final a partir del cuál, se terminará el 
+
+			sistema ó efecto
+
+
+		_Length:
+
+			_ésta opción nos permitirá indicar al largo ó longitud, del haz luminicente, en relación 
+
+			al punto inicial y al punto final del sistema de ésta manera, podremos graduar ó animar 
+
+			éste comportamiento en relación al efecto deseado
+
+
+		_Time:
+
+			_ésta opción nos permitirá animar a través, del tiempo el sistema ó desplazar el 
+
+			respectivo haz entre los puntos de inicio y finalización del sistema
+
+
+		_Starting Thickness:
+
+			_ésta opción nos permitirá variar el grosor del sistema que tendrá el haz de luz
+
+			en el inicio ó punto inicial del sistema así, éste aparentará estar más próximo 
+
+			ó tener un perspectiva oblícua
+
+
+		_Ending Thickness:
+
+			_ésta opción nos permitirá variar el grosor del sistema que tendrá el haz de luz
+
+			en el final ó punto final del sistema así, éste aparentará estar más próximo 
+
+			ó tener un perspectiva oblícua
+
+
+		_Softness:
+
+			_ésta opción nos permitirá indicar la acutancia ó difuminación del sistema lo que 
+
+			nos permitirá integrar mejor el sistema con el fondo ó no, así, como también, dar
+
+			la sensación de un efecto más luminicente ó sintético respectivamente, otros
+
+
+		_Inside Color:
+
+			_ésta opción nos permitirá indicar el color de relleno ó "fill", del sistema
+
+
+		_Outside Color:
+
+			_ésta opción nos permitirá indicar el color de contorno ó "stroke", del sistema
+
+
+		_3D Perspective:
+
+			_ésta opción nos permitirá crear una sensación 3d, más acusada lo cuál, en la 
+
+			mayoría de los casos en recomendable
+
+
+		_Composite On Original:
+
+			_ésta opción nos permitirá integrar el sistema con la layer, sobre la cuál, hemos 
+
+			aplicado el respectivo efecto "Beam"
+
+
+

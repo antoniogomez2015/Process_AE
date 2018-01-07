@@ -1,0 +1,91 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_Scale Wipe, extiende una capa fuera de la pantalla (o sobre ella) moviendo el centro de escala
+
+	
+	_éste efecto también, nos permitirá crear diferentes efectos de distorsión y procesos de producción y paso
+
+	contínuo así, como también, para el constructivismo visual
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Scale Wipe: (Barrido de Escala CC)
+	______________
+
+
+		_Stretch:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste estire la imágen en
+
+			la proporción deseada en relación a nuestras necesidades de producción
+
+
+		_Center:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el epicentro a partir del cuál,
+	
+			se comenzará ha generar el sistema, teniéndo en cuenta que el sistem crear una deformación
+
+			lineal y no radial
+
+
+		_Direction:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la dirección u orientación a 
+
+			partir de la cuál, se comenzará ha generar el sistema en relación a su vez, a nuestras 
+
+			necesidades de producción
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,56 @@
+
+
+http://aescripts.com/auto-crop/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/Auto Crop:
+
+
+
+	_éste permite recortar las composiciones cuando éstas son creadas a partir de precomposiciones de
+
+	layers, seleccionadas en otra composición
+
+
+	_de ésta manera podremos recortar éstas composiciónes en relación al valor de luminancia de su contenido
+
+	es decir, de las layers, que lo contienen
+
+
+	_pero también, podemos hacer ésto con composiciones animadas, de ésta manera el sistema calculará el área 
+
+	total ocupada por los elementos en movimiento en el viewport, y en relación ha ésta hará el recorte de la 
+
+	composición
+
+
+	NOTA: la opción de recorte de layers, estáticas y animadas da error ó no hace nada en la versión de 
+
+	after effects cc 2014
+
+
+	_más también, tenemos la posibilidad de hacer recortes ha una composición ó precomposición a la cuál, le 
+
+	hayamos creado una máscara sobre ésta, de ésta manera la composición será recortada en relación al tamaño
+
+	y ubicación de la respectiva máscara
+
+	
+	Workflow:
+	_________
+
+
+	_primero debemos de tener creada una composición de trabajo
+
+
+	_para ésto debemos seleccionar la respectiva composición ó máscara y aplicar la respectiva acción en el panel
+
+	"Auto Crop"
+
+
+						

@@ -1,0 +1,173 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá crear efectos de fusión de layers, de una forma más avanzada aún que el efecto de 
+
+	"blend", de la misma sección de channels
+
+
+	_al mismo modo que el efecto de calculation, de Photoshop, en el cuál, podemos combiar diferentes canales
+
+	de diferentes layers, y a su vez, con diferentes modos de fusión, de ésta manera, podemos hacer lo miamo
+
+	en after effects
+
+
+	_lo cuál, es especialmente útil para diferentes procesos compuestos en producción y efectos avanzados ya
+
+	que de ésta  manera, podremos combinar diferentes layers, y composiciones de forma específica por canales
+
+
+	_como también, para procesos en los cuáles, por ejemplo; podamos crear canales alphas, específicos e 
+
+	incluso animados para otras layers, y poder así, a través, del efecto de "Calculation", poder asignarle 
+
+	ésta canal alpha, editado a la respectiva layers, ó composición deseada
+
+
+	_así, como también, podremos hacer diferentes tipos de efectos complejos a través, de los modos de fusión
+
+	y la selección de canales entre las diferentes layers, lo cuál, nos permnitirá un sin número de combinaciones
+
+	posibles en el proceso de creación de efectos compuestos y en producción
+
+	
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Calculations: (Calculos)
+	_____________
+
+	_Input Channel:
+
+		_ésta sección nos permitirá seleccionar el tipo de canal disponible de la layer, a la cuál, le hemos
+
+		aplicado el efecto y la cuál, utilizaremos como layer, base para el efecto
+
+
+		_la cuál, dispone de los canales "RGBA", "Grey / Red / Green / Blue / Alpha", los cuáles, 
+
+		utilizaremos para la mezcla con otra layer, y otros canales respectivamente
+
+
+	_Invert Input:
+
+		_éste valor nos permitirá invertir el canal seleccionado así, podremos inveritr los valores de gama
+
+		y de luminancia de un canal seleccionado en el paso anteiror
+
+
+	_Second Layer:
+
+		_éste valor nos permitirá seleccionar la layer, la cuál, hará de layer, complementaria para generar
+
+		el efecto de fusión múltiple de canales
+
+
+		_ésta puede ser cualquier tipo e layer, aunque combiene más que ésta sea una layer, de tipo 
+
+		composition, ya que las composiciones nos permitirán extender las posibilidades de composición para
+
+		efectos como mattes, alphas, intervensiones de color, mapas de densidad para animación, otros
+
+
+	_Second Layer Channel:
+
+		_éste valor nos permitirá seleccionar el canal de interés ha utilizar de la layer, complementaria
+
+		que hemos indicado ó asignado en el paso anterior
+
+
+		_la cuál, dispone de los canales "RGBA", "Grey / Red / Green / Blue / Alpha", los cuáles, 
+
+		utilizaremos para la mezcla con otra layer, y otros canales respectivamente
+
+
+
+	_Second Layer Opacity:
+
+		_ésta opción nos permitirá seleccionar la influencia del canal seleccionado de la layer, secundaria
+
+		ó complementaria, dicha influencia puede ir de "0-100%"	
+
+		
+		_y dicha influencia del canal seleccionado de la layer, complementaria se proyectará sobre el canal
+
+		de la layer, inicial ó base
+
+
+		_y en relación a su vez, al modo de fusión seleccionado en los pasos siguientes	
+
+
+
+	_Invert Second Layer:
+
+		_ésta opción nos permitirá invertir el canal de la layer, complementaria lo cuál, a su vez,nos 
+
+		permitirá poder invertir el canal seleccionado de ésta layer, lo cuál, invertirá su valor de 
+
+		luminancia y de gamma
+
+
+	_Stretch Second Layer:
+
+		_ésta opción nos permitirá estirar el canal seleccionado de la layer complementaria en relación a la
+
+		composición y la layer, base
+
+
+		_ésta opción no siempre da buenos resultados para la mayoría de los cosos
+
+
+	_Blend Mode:
+
+		_ésta opción es muy importante y nos permitirá seleccionar el modo de fusión a través, del cuál, se
+
+		inegrarán ambos canales seleccionados en ambas layers, ha fusionar
+
+
+		_éstos modos de fusión serán los mismos que los modos de fusión por dfectos de la aplicación los
+
+		cuáles, son bastantes ámplidos y versátiles
+
+
+	_Preserve Transparency:
+
+		_ésta opción nos permite determinar que los canales seleccionados en ambas layers, preserven ó
+
+		conserven las transparencias en éstos
+	
+
+
+
+
+
+

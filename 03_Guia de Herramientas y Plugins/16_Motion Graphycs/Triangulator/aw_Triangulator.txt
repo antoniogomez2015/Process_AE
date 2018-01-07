@@ -1,0 +1,83 @@
+
+
+
+aw_Triangulator
+
+
+	Referencia:
+
+		http://videohive.net/item/aw_triangulator/6977783?s_phrase=&s_rank=49
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar efectos de posterizado, vitral ó posterización a través, de un proceso por medio de 
+
+	layers, shape, éste sistema es interactivo y permite hacer emlaciones de seguimiento de posición de áreas
+
+	determinadas de un video
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite motion gráphycs, sobre videos, ej, el enmascaramiento del rostro de una persona en un video
+
+	para integrar éste dentro del proceso de motion graphycs, otros, para ésto debemos hacer máscaras y trackeo,
+
+	entre otros procesos de producción
+
+
+	_ésto también, permite implementarse en varios procesos de producción, otros
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Bascs:
+______
+
+	
+	_para ésto, debemos de tener una composición previamente creada
+
+
+	_luego debemos importar un material de video a la composición el cuál, deseamos aplicar el efecto Triangulator,
+
+	por lo general es un rostro ó un motivo en primer plano
+
+
+	
+
+
+	----------------------------------------------------------------------------------------------------------------
+
+	Mask:
+	_____
+
+
+	_primero seleccionamos la layer, de video del motive, que hemos introducido en el timeliene, y procedemos ha crear
+
+	un máscara sobre ésta con la herramienta de "Mask", shortcut "G", para que así, con ésta herramienta seleccionada
+
+	comenzar hacer sipsa haciendo triángulos hasta conformar la forma y tamaño del rostro por ejemplo
+
+
+	Mask Tracker:
+	_____________
+
+
+	_para luego seleccionar el "Path", de la máscara que hemos creado e ir al panel de "Triangulator/Mask-Tracker"
+
+
+

@@ -1,0 +1,89 @@
+
+
+http://aescripts.com/pt_panorama/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview / pt_panorama
+
+
+
+
+General:
+_______
+
+
+	-este nos permite hacer el efecto de panorámica 3d, permitiéndonos hacer un entorno 3d, en grados, los cuáles van desde
+
+	0 ha 360, grados, especialmente útil para hacer entornos avanzados y envolventes para producción
+
+
+
+Basics:
+_______
+
+	-primero debemos tener una composición base de trabajo con una layer, ó composición dentro para 
+
+	hacer el proceso sobre ésta
+
+
+
+Mode:
+
+	_ésta nos permite seleccionar el tipo de modo, el más recomendable es "Normal mode"
+
+
+Panorama Angle:
+
+	_ésta opción nos permite indicar los grados que tendrá el sistema, lo normal son de 180 ha 270, grados
+
+
+Number of sides:
+
+	_éste valor estará relacionado con la resolución ó la acutancia marcada entre los corter generados en las 
+
+	imágenes proxis, generadas para proyectar y representar el panorama
+
+
+	_más también afectará el rendimiento de visualización en el equipo y sistema
+
+
+Side Overlap:
+
+	_ésta opción indica el zolapado entre si de los elementos proxis, generados para evitar así vacíos en la proyección
+
+	
+	_es recomendable dejar la opción por defecto
+
+
+Make Panorama:
+
+	_ésta opción permite crear el sistema
+
+
+	_en éste punto se crearán dos precomposiciones, una con el mapeto del sistema y otra con la composición que contiene el 
+	
+	sistema
+
+
+	_también, se agregará una cámara a la composición principal con la que podremos controlar el sistema
+
+
+
+NOTE:	para lo poder visualizar el sistema no debemos estar en modo de visualización del viewport, de "Fast", por ender debemos
+
+	pasarnos a modo de visualización adaptativa "Control + Alt + 2", ó completa "Control + Alt + 1"
+
+
+
+
+
+
+
+
+
+		

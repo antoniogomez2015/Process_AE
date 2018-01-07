@@ -1,0 +1,91 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá aplicarle scripts, y sentencias a determinadas propiedades de una layer, para que
+
+	así, podamos posteriormente cambiar ésta layer, por otra rápidamente y de forma animada, de ésta manera, los
+
+	atributos con expresiones y script, se aplicarán a los rsepectivos atributos de la nueva layer, asignada
+
+
+	_éstos valores pueden ser propiedad ó nativos de las layers, más también, pueden ser valores de efectos, 
+
+	más en ambas layers, tendrán que tener los mismos efectos para que así, haya coincidencias entre los efectos
+
+	y valores respectivos 
+
+	
+	_a travé, de un selector de layers, existentes en la composición actual por medio del cuál, se podrá manejar, 
+
+	la aplicación de los con expresiones ó scripts, ha otras layers, disponibles en la composición actual
+
+
+	_de ésta manera, podremos controlar las propiedades con expresiones ó scripts, de una layer, los cuáles podrán
+
+	ser aplicados a otra layers, de forma conveniente en relación al resultado deseado 	
+
+
+	_para lo cuál, [NO], hará falta la utilización de expresiones por lo general automáticas, ya que bastará con
+
+	aplicarle las expresiones ó script, a las respectivas propiedades de la layer, base para que así, éstos se 
+
+	puedan transpolar ha otras layers, disponibles en la composición respectiva
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Control Control: (Control de Color)
+	_________________
+
+
+		_Layer:
+
+			_ésta opción es un selector por medio del cuál, podremos seleccionar una de las layers,
+
+			disponibles en la composición actual a la cuál, se le aplicarán las expresiones aplicadas
+
+			en los respectivos atributos
+
+
+			_de ésta manera, podremos también, duplicar éste efecto las veces que sea necesario para
+
+			poder así, aplicar éstas propiedades animadas a más de una layer, a la vez
+
+
+
+
+
+
+

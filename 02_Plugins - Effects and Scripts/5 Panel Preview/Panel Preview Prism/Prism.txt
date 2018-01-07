@@ -1,0 +1,31 @@
+
+
+http://aescripts.com/prism/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/Prism:
+
+
+
+	_éste permite organizar el orden de las layers, en el timeline, a través, de una estructura de color
+
+	bajo diferentes criterios como los siguientes
+
+
+		_asignación de color de forma aleatoria y diferente para cada layer, contigua ha otra
+
+		
+		_asignación de color por layers, emparentadas, así, las layers, emparentadas tomarán un mismo color
+
+
+		_asignación de color por tipo de layers, así, ej, los solids, tomarán un mismo color, otros
+
+
+		_asignación por un prefijo el cuál, podemos determinar nosotros ej; guiones, underscope, otros
+
+

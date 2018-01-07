@@ -1,0 +1,98 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_Aplique el efecto de aplicación de tabla de búsqueda de color a una capa para transformar los colores 
+
+	de la capa en función de una tabla de búsqueda de color (LUT). Las tablas de búsqueda de color se suelen 
+
+	utilizar para realizar correcciones de color manuales o tareas de administración de color
+
+
+	_Este efecto funciona con color de 8 bpc, 16 bpc y 32 bpc.
+
+
+	_Cuando se aplica el efecto, se le indica que seleccione un archivo LUT .3dl o .cube. También puede modificar
+
+	la tabla de búsqueda cargada en una instancia del efecto Aplicar tabla de búsqueda de color, haciendo clic 
+
+	en Seleccionar tabla de busq. en los controles del efecto.
+
+
+	_El efecto Aplicar tabla de búsqueda de color ahora puede utilizar archivos .3dl con valores de punto 
+
+	flotante o palabras clave 3DMESH/Mesh o los archivos guardados de un sistema ASSIMILATE SCRATCH 
+
+	(es decir, que tienen SCRATCH en los comentarios del principio del archivo). También se admiten los archivos 
+
+	Overrange IRIDAS .cube, IRIDAS .look y cineSpace .csp.
+
+
+	_UNA TABLA DE BÚSQUEDAse puede visualizar como sistema de coordenadas tridimensional (cubo 3D), en el que 
+
+	cada eje representa las transformaciones de color para el rango de todos los valores para un canal de color. 
+
+	
+	_Los puntos de cada eje definen las transformaciones de color para cada canal de color. After Effects puede 
+
+	leer y utilizar las tablas de búsqueda 3D que tienen tres ejes de la misma longitud (mismo número de puntos) 
+
+	y cada eje contiene 64 puntos o menos. Por ejemplo, After Effects puede leer y utilizar una tabla de búsqueda
+
+	3D de 17x17x17.
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Apply Colro LUT: (Aplicar Tablas de Busqueda de Color)
+	________________
+
+
+		_
+
+
+
+
+
+
+
+
+
+
+
+

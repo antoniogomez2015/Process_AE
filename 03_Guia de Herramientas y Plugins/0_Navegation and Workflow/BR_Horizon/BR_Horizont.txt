@@ -1,0 +1,61 @@
+
+
+
+
+BR_Horizont
+
+
+	Referencia:
+
+		http://aescripts.com/3d-widgets/
+
+
+	
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste hace que un horizonte artificial a modo de ayuda al constructivismo visual y todo tipo de desarrollos en
+
+	producción	
+
+
+	
+Aplicaciones:
+_____________
+
+
+	_éste es totalmente configurable y permite determinar guías de desarrollo movibles entre otros
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+	
+	
+	_para ésto sólo necesitamos tener una escena ó composición de trabajo creada
+
+
+
+BR_Grid:
+________
+
+
+	_para ésto, primero debemos tener seleccionar la composición respectiva de trabajo a través, de su pestaña en el
+
+	panel timeline
+
+
+	_para luego ir ha "FxPro/0_Navegation and Workflow/BR_Horizont"
+
+
+	_ó buscar el script, en el "File/Scrtips/BR_Horizont"
+
+	
+	_ó ir al panel "(M) Panel Toolbat Right Timeline / Referencia al lado derecho del Panel Timeline/BR_3D_Widgets_V1.01)"

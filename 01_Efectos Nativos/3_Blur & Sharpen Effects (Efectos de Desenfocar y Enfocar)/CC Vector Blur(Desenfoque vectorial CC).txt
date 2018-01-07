@@ -1,0 +1,120 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permitirá crear desenfoques magmáticos y de distorción a través, de diferentes algorítmos
+
+	y parámetros 
+
+
+	_lo cuáles, son especialmente útiles más allá de crear desenfoques es más recomendado para crear efectos
+
+	especiales y efectos compuestosespecíficos y efectos de paso contínuo
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps	
+
+
+
+
+
+	Vector Blur: (Desenfoque vectorial CC)
+	____________
+
+	_Type:
+
+		_éste valor nos permitirá seleccionar el tipo de algorítmo para la creación del efecto ha generar
+
+
+	_Amount:
+
+		_éste valor nos permitirá indicar la cantidad de efecto ha generar
+
+
+	_Angle Offset:
+
+		_éste valor nos permitirá el ángulo de acción de desplazamiento del efecto ha generar
+
+
+	_Ridgle Smoothness:
+		
+		_éste valor hace de umbral el cuál, al aumentar éste valor mayor ha "0", éste tratará de emular
+
+		ó igualar el estado de la imágen original neutralizando el efecto generado
+
+
+	_Vecotr Map:
+
+		_ésta opción nos permnite seleccionar una layer, ó composición en la cual, servirá como un mapa
+
+		para la generación del efecto el cuál, puedra funcionar a través, de diferentes criterios
+
+	
+		_más el mapa de generación trabajará a partir de las áreas del mapa en las cuáles, haya más 
+
+		acutancia ó diferencias de valores de liminancia y oscuridad para la generación del efecto y el
+
+		desenfoque, otros
+
+
+	_Property:
+
+		_ésa opción nos permitirá seleccionar el tipo de criterio ó parámetro de trabajo del mapa de 
+
+		generación del efecto generado los cuáles, pueden ser los siguientes:
+
+
+			_R/G/B
+
+			_Alpha
+
+			_Luminance
+
+			_Lightness:
+
+			_Hue
+
+			_Saturation
+
+
+			_donde los criterios más utilizados e importantes son "Luminance, lightness, alpha"
+
+
+	_Map Softness:
+
+		_éste valor nos permitirá indicar un valor de acción para el mapa de generación asignado al sistema
+
+
+
+
+
+
+
+
+
+
+		_

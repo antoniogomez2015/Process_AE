@@ -1,0 +1,73 @@
+
+
+http://aescripts.com/iexpressions/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / iExpression
+
+
+	iExpression:
+
+
+	-este nos permite cargar de forma automática scripts, útiles a través, de una librería la cuál, ya biene
+
+	precargado en el plugins
+
+
+	_ésto es especialmente útil para las funciones de animación más comúnes e incluso hasta para las más avanzadas
+
+	como rigs, de animaciones de characters, ó personajes 2d, entres otras muchas funciones
+
+
+	Workflow:
+	_________
+
+
+	_para ésto, debemos de tener un composición de trabajo así, como también, al menos una layer, a la cuál, deseamos
+
+	aplicarle expresiones
+
+
+	_luego, desplegamos la propiedad ha relacionar con una expresión, ej: "position", y con ésta propiedad seleccionada
+
+	vamos al panel "iExpressions"
+
+
+	_y allí, desplegamos "Library", para que así, se desplieguen las opciones de cargar de expresiones varias
+
+
+	_de ésta manera el menú contextual de la interface, del plugins, cambiará en relación la expresión seleccionada
+
+
+	_así, a través, de éste menú tendremos la posibilidad de personalizar la expresión que se aplicará sobre la layer,
+
+	respectiva
+
+
+	_y cuando hayamos editado ó personalizado la expresión debemos darle ha "Apply", de ésta manera la expresión será
+
+	aplicada a la respectiva propiedad de la layer, seleccionada
+
+
+	_más tendremos la posibilidad de cambiar los valores de la expresión y luego actualizarlos a través, del botón de 
+
+	actualización el cuál, está justo al lado ó contiguo del botón "apply", así, éste botón se colocará de color verde
+
+	indicadonos que se ha soncronizado con la propiedad y que cada vez que cambiemos una característica en el panel ésta 
+
+	se actualizará de forma automática
+
+
+	_y alternativamente también, podremos sincronizar otras propiedades a las propiedades del panel para que así, éstas
+
+	propiedades controlen parte de las características del panel relacionadas con la respectiva expresión cargada, para 
+
+	más información ver el tutorial
+
+
+

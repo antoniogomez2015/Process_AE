@@ -1,0 +1,175 @@
+
+
+
+
+	http://www.digitalfilmtools.com/photocopy/
+
+
+	
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá 
+
+
+		
+
+
+	PhotoCopy:
+	_____
+
+
+		View:
+
+			_Output:
+
+				_ésta opción nos permitirá visualizar el resultado final con el efecto aplicado 
+
+				sobre la imágen base
+
+
+			_Target:
+
+				_ésta opción nos permitirá visualizar sólo la imágen base
+
+
+			_Source:
+
+				_ésta opción nos permitirá visualizar la imágen que hemos indicada de la cuál, 
+
+				deseamos extraer la información de color demás detalles
+
+
+
+
+		Preset:
+
+			_ésta opción nos permitirá seleccionar presets, prestablecidos por el usurio ó por el
+
+			fabricante del plugins, los cuáles, deberán estar instalados en el sistema previamente
+
+
+
+		Color:
+
+
+			_Brightness:
+
+				_ésta opción nos permitirá agregar más ó menos brillo en la imágen resultante a 
+
+  				partir de la imágen ó layer, seleccionada en la opción de "Match/Source", lo cuál, 
+
+				a su vez, hará variaciones sobre el contraste de la imágen resultante
+
+
+			_Color:
+
+				_ésta opción agregará más ó menos color de la imágen de referencia ó la imágen ó
+
+				layer, seleccionada en la opción de "Match/Source"
+
+
+			_Tone:
+
+				_ésta opción nos permitirá agregar más ó menos dominante cromática en la imágen 
+
+				resultante a partir de la imágen ó layer, seleccionada en la opción de 
+
+				"Match/Source", lo cuál, a su vez, hará variaciones sobre el contraste de la imágen 
+
+				resultante
+
+
+
+		Texture:
+
+
+			_Detail:
+
+				_ésta opción nos permitirá agregar más ó menos textura en la imágen resultante a 
+
+  				partir de la imágen ó layer, seleccionada en la opción de "Match/Source", lo cuál, 
+
+				a su vez, hará variaciones sobre el aspecto de la imágen resultante
+
+			_Grain:
+
+				_ésta opción nos permitirá agregar más ó menos grano en la imágen resultante a 
+
+  				partir de la imágen ó layer, seleccionada en la opción de "Match/Source", lo cuál, 
+
+				a su vez, hará variaciones sobre el contraste de la imágen resultante
+
+
+			_Texture:
+
+				_(Opción desactivada e Indeterminada)
+
+
+
+		Vignette:
+
+
+			_Amount:
+
+				_ésta opción nos permitirá agregar un viñeteo sobre la imágen resultante por medio
+
+				de uan configuración interna del propio efecto sin la necesidad de la imágen de
+
+				la sección "Match/Source"
+
+
+			_Size:
+
+				_ésta opción nos permitirá agregar un tamaño del viñeteo de a dentro hacia afuerta
+
+
+			_Softness:
+
+				_ésta opcíon nos permitirá agregar una interpolación, calado ó suavidad entre el
+
+				viñeteo resultante y la imágen base original
+
+
+
+		Match:
+
+
+			_Source:
+
+				_ésta opción nos permitirá seleccionar la layer, de la cuál, el sistema tomará la
+
+				información tanto de color, tono, textura, otros
+
+	
+			_Match:
+
+				_ésta opción nos permitirá hacer que el sistema haga el cálculo ó computo entre las
+
+				dos imágenes, tanto de la imágen base como de la imágen resultante a partir de las
+
+				configuraciones seleccionadas en todas las opciones anteriores del efecto
+			
+
+
+
+
+		
+
+			
+		
+
+
+
+
+
+
+

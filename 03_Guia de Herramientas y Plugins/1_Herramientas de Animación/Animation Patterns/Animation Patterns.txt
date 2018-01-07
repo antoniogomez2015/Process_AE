@@ -1,0 +1,66 @@
+
+
+
+
+Animation Patterns
+
+
+	Referencia:
+
+		http://aescripts.com/animationpatterns/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite cargar presets, de animación a determinadas propiedades de animación de una layer
+
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_permite hacer rápidos comportamientos de animación
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_primero debemos seleccionar una layer, en la composición deseada y activa
+
+
+	_leugo debemos ir al panel "Animation Patterns", para leugo darle a la opción de "Create Animation Patterns Layer",
+
+	así, se agregará un nueva layer, de animación al timeline, ésta layer, es "AnimationPatterns", la cuál, contendrá
+
+	todos los slider, controladores adicionales de los efectos editables
+
+
+	_luego debemos seleccionar una layer, con algún parámetro animado para luego seleccionar éste parámetro ó sus keyframes
+
+
+	_luego debemos seleccionar en el panel "animationPATTERNS", unos de los comportamientos de animación disponibles de 
+
+	la lista de opciones
+
+
+	_y por último, debemos darle ha "Apply Pattern", para que así, la propiedad animada tome dicho comportamiento de 
+
+	animación
+
+
+

@@ -1,0 +1,162 @@
+
+
+-no hay web actual para éste plugins-
+
+
+	éste parece una versión inicial del plugins "Evil Twin Stereo 3D"
+
+		http://aescripts.com/evil-twin-stereo-3d/
+
+
+	Tutorial:
+
+		Stereoscopic 3D Workflow in After Effects - Tutorial Part 1
+
+			https://www.youtube.com/watch?v=fJUMy4fvHOY&t=128s
+
+
+		Stereoscopic 3D Workflow in After Effects - Tutorial Part 2
+
+			https://www.youtube.com/watch?v=-b9GMtTlOxg
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Stereo Footage:
+
+
+	Stereo Footage:
+
+
+	-este nos permite hacer el proceso preparación de archivos para el proceso de stereoscópico
+
+	_de ésta manera, podremos crear tanto la composición left, como right, a través, de diferentes layer
+
+	_para posteriormente a través, del plugins "stereo footage", hacer renderizado de éstas para obtener así,
+
+	un material renderizado más liviano y unidado, listo para el proceso de stereoscopia
+
+	
+	_y sobre todo, podremos obtener imágenes de referencia para el proceso de alineado manual entre ambas
+
+	imágenes para lograr así, el efecto de paralaje
+
+
+	NOTA: ver el tutorial la parte 2, en la cuál, se muestra un proceso con éste plugins, en el cuál, se trata de
+
+	la creación de todo el proceso de stereoscophyc, de forma manual, (en ésta versión del plugin, no funciona así)
+
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener creadas dos composiciones creadas de trabajo, una para cada lado del efecto de
+
+	estereoscopia 3d, así, de ésta manera, tendremos que crear un composición para el lado "Left", ó izquierdo
+
+	ó duplicar la composición left, y renombrarla como "Right", ó derecha
+
+
+	_así, como también, tendremos que crear las layers, que tendrán éstas respectivas composiciones 
+
+	"Left-Right", las cuales por lo general deberán ser las mismas layers, con desfaces de posición espacial
+
+	sea ésta en las cordenadas "X,Y,Z"
+
+
+	_para luego, proceder ha seleccionar ambas composiciones "left-right", en el panel composición para luego
+
+	ir a las opciones del panel "Stereo Footage", y allí, hacer "Convert To Stereo Footage"
+
+
+
+	Stereo  Footage:
+	________________
+
+	
+		_Automatic Naming:
+
+			_ésta opción permite que el sistema renombre los archivos resultantes de forma automática
+
+		
+		_Keep Resolution:
+
+			_ésta opción permite que el sistema respete la resolución de las composiciones seleccionadas
+
+
+		_Create Folder:
+
+			_ésta opción permite que el sistema genere una estructura de carpetas para los archivos resultantes
+
+
+		_Auto Advance Items:
+
+			_(indeterminado)
+
+
+		_Work In Existing Comps:
+
+			_ésta opción hará que el sistema trabajo sobre composiciones existentes previamente
+
+
+		_Swap Left + Right:
+
+			_ésta opción le permitirá al sistema poder intercambiar la composición derecha por la izquierda
+
+
+		_Temporal Alignment:
+
+			_ésta opción permite que el sistema haga alineación de los elementos en su movimiento a través, del tiempo
+
+
+		_Geometrical Alignment:
+
+			_ésta opción permite que el sistema haga alineación de los elementos de forma espacial y morfológica
+
+
+		_Color Alignment:
+
+			_ésta opción permite que el sistema haga alineación entre los colores de los elementos
+
+
+		_Floating Window Adjustments:
+
+			_ésta opción permite que el sistema haga alineaciones avanzadas sobre los elementos
+
+
+		_Export Frames For Alignment:
+
+			_ésta opción permite exportar screenshop, para hacer alineamientos externos
+
+
+		_TIFF Secuence:
+
+			_ésta opción permite escoger e indicar una exportación de secuencia de tipo tiff
+
+
+		_Load StereoPhoto Maker Alignment Data:
+
+			_ésta opción permite cargar una imágen de referencia externa para el proceso de alineación
+
+
+		_All Values:
+
+			_ésta opcíón permite actuvar todos los valores
+
+
+		_Convert To Stereo Footage:
+
+			_éste botón permite ejecutar todo el sistema el cuál, abrirá una ventana contextual en la
+
+			cuál, tendremos que escoger una ruta de destinos para renders, resultantes de cada composición
+
+
+
+

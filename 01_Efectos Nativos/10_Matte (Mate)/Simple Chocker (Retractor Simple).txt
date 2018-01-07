@@ -1,0 +1,80 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá extender ó retraer los bordes de entre la imágen visible y la imágen eliminada
+
+	u oculta lo cuál, nos permitirá eliminar bordes indeseados en el pos poceso de keygin
+
+
+	_más también, nos permnitirá crear bordes para adicionales para diferentes procesos de paso contínuo y
+
+	producción
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Simple Chocker (Retractor Simple)
+	________________
+
+
+		_View:
+
+
+			_Final Output:
+
+				_ésta opción nos permitirá visualizar la imágen resultante con el matte, resultante
+
+				del proceso aplicado mostrando así, los bordes retraidos ó extendidso de la imágen
+
+
+			_Matte:
+
+				_ésta opción nos permitirá visualizar directamente en el viewport, del panel 
+
+				"compositing", el matte, resultante del proceso de keygin y de chocker
+
+
+
+		_Choke Matte:
+
+			_ésta opción nos permitirá extender ó retraer el matte, de la layer, entre el área de la 
+
+			imágen visible y el área de la imágen oculta ó eliminada
+
+
+
+
+
+
+

@@ -1,0 +1,82 @@
+
+
+
+
+RD, serie de escripts, gratuitos http://www.redefinery.com/   http://www.redefinery.com/ae/view.php?item=rd_Approximate
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+RD Expression Tweaker
+
+
+	este escript, tiene como objetivo modifica expresiones basadas en configuraciones específicas. Por ejemplo, 
+
+	puede convertir las expresiones que utilizan referencias thisComp o this_comp referencias al borrador 
+
+	específico ("...") de modo que antes de componer las capas que contienen esas expresiones, que se refieren 
+
+	a las capas que no están pre-compuestas, todavía funcionará . También puede procesar expresiones 
+
+	discapacitados habilitando o quitar fácilmente.
+
+
+	Usted puede optar por actualizar las expresiones en la composición actual, composiciones seleccionadas 
+
+	o todas las composiciones en el panel Proyecto.
+
+
+	en general este plugins, permite activar o desactivar los script, aplicados a todas las capas a traves,
+
+	de diferentes metodos o criterios
+
+
+
+WorkFlow
+---------
+
+
+	-primero vamos ha el panel rd ExprTwaker, a las opciones de 'Disabled Expressions'
+
+
+		-Don't Change Disable State
+
+			-no cambiar los estados actuales de los script, aplicados en las layers, de la composicion
+
+
+		-Remove
+
+			-remover o desactivar los scripts, aplicados a las capas o layers
+
+
+		-Enable
+
+			-activar los script, aplicados a las capas o layers
+
+
+	Proces
+	------
+
+		-Current Comp
+
+			-aplicar los criterios a la composicion activada
+
+
+		-Selected Comps
+
+			-aplicar los criterios a las composiciones seleccionadas
+
+
+		-All Comps
+
+			-aplicar los criterios a todas las composiciones
+
+
+
+	
+	
+

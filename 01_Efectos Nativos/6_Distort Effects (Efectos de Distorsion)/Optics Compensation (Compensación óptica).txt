@@ -1,0 +1,121 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer correcciones ópticas como la de barrel, ó barrillete, como también, la 
+
+	distorción opuesta de pincushion ó de cojín ó moustacle ó mostacho
+
+
+	_de ésta manera, a través, de éste efecto podremos crear tanto éste tipo de distorciones como eliminar ó
+
+	disminuir ó disimular éstas tipos de distorciones
+	
+
+
+	
+	
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Optics Compensation: (Compensación óptica)
+	____________________
+
+
+		_Field Of View (FOV):
+
+			_ésta opción del "Campo Visual", determinará la cantidad de distorsión de lente, en 
+
+			relación el objetivo ó lente utilizado en la toma de la imágen ó video
+
+
+		_Reserve Lens Distortion:
+
+			_ésta opción nos permitirá invertir el sistema de "FOV", configurado en el paso 
+
+			anterior para que de ésta manera, elimninar las distorsión existente según el valor
+
+			de FOV
+
+
+		_FOV Orientation:
+
+			_a través, de ésta opción podremos indicarle al sistema el sentido de la toma ó por
+
+			ende distorsión de ésta manera, dispondremos de "Horizontal", y "Vertical"
+
+
+			_la opción de vertical, está mas ajustada ha deformaciones por preprocesados digitales
+
+			entre otros
+
+
+		_View Center:
+
+			_Determina un punto de vista central alternativo. Este ajuste resulta útil al utilizar 
+
+			lentes personalizadas no centradas. Sin embargo, por lo general, este control no debe 
+
+			tocarse
+
+
+			_también, nos permitirá crear efectos de perspectiva 3d, interesantes
+
+
+		_Optimal Pixels (Invalidate):
+
+			_Mantiene la mayor cantidad de información posible sobre los píxeles a través de la 
+
+			distorsión. Cuando está seleccionado, los valores de Campo visual no pueden invertirse
+
+
+		_Resize:
+
+			_ésta opción estará disponible sólo cuando la opción de "Reverse Lens Distortion", esté
+
+			activada, así, ésta opción nos permitirá tratar de reajustar la imágen para que así,
+
+			ésta trate de tomar su tamaño original
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

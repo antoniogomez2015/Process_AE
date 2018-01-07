@@ -1,0 +1,112 @@
+
+
+http://aescripts.com/evil-twin-stereo-3d/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Toolbar Left / evil-twin-stereo-3d
+
+
+	Evil-twin-stereo-3d:
+	____________________
+
+
+	_este nos permite crear composiciones 3d, bajo el efecto de 3d anagraphic, de ésta manera, 
+
+	podremos crear un sistema completo el cuál, tendrá todos los comportamientos de perspectiva y
+
+	movimientos que generen el efecto 3d
+
+
+
+	Workflow:
+	_________
+
+
+	_primero creamos una composicion, esta la renombramos y el final debemos colocarle le sufijo
+
+	(_L) al final, ej: 'name_L' 
+
+	
+	_dentro de la composicion que hemos creado 'name_L', colocaremos todas las layer, que deseamos
+
+	que conformen la escena
+
+
+	_luego seleccionamos la escena deseada 'name_L', en el panel proyecto y con esta seleccionada
+
+	vamos al panel 'EvilTwinStereo3D', y le damos ha (L>R), asi, este duplicara la escena 'name_L',
+
+	convirtiéndola en la escena 'name_R', de esta manera contendremos las escena L/R, del sistema 3D
+
+
+	_a su vez, dentro de la escena 'name_L', se habrán creado las siguientes capas guía, estas son:
+
+	'Evil Twin - Right', y 'Evil Twin - S3D'
+
+	
+	_mas la escena 'name_R', creada o generada no serán agreados los elementos o la capas
+
+	'Evil Twin - Right', y 'Evil Twin - S3D', tenniendo ésta sólo la layers que creamos nosotros
+
+	en la escena 'name_L', original
+
+
+
+
+
+	_luego procedemos a modificar en el tiempo el estado o apariencia de la capa, ej> a traves,
+
+	de la aplicacion de un efecto el cual, cambiamos sus trarametros en el tiempo s/1, s/2, s/3...
+
+
+	_luego en las secciones que consideremos de importancia entre esos cambios que hemos generado
+
+	la layer, deseada a traves, del tiempo debemos agregar marcas o markers, en esos luegares que
+
+	hemos determinado importantes los cuales se convertiran en una 'tumbnail', de la hoja de contactos
+
+
+	_luego seleccionamos la layer, deseado y abrimos sus propiedades de escala/scale, asi tendremos
+
+	que escalar la layer, en relacion al tama#o de la composicion en relacion a la cantidad de tumbs,
+
+	o miniaturas que deseamos incluir en el area de la composicion y a su vez, a la cantidad de markers,
+
+	que hemos indicado en la leyer, en el tiemeline, asi tendremos que indicar una 'Scale', de la layer,
+
+	original que se adapte a la cantidad de 'Markers', que hemos indicado en el timeline, de la layer,
+
+	deseada
+
+
+	_luego seleccionamos la layer, deseada y con esta seleccionada vamos al panel 'pt_contactsheet',
+
+	y hacemos 'choose Source Layer', asi, este nos arrojara un analisis de la cantidad y distribucion
+
+	de tumbs, que caben en el espacio determinado por las dimensiones de la composicion
+
+
+	_asi, nos indicara la escala escogida, las dimensiones de la composicion, el 'Spacing', que deseamos
+
+	agregar entre tumbs, asi, como el tipo de alineamiento, como tambien, nos indicara la cantidad
+
+	de columnas que aplican o caben en el area de la composicion
+
+	
+	_y para finalizar el proceso le damos ha 'Make Contact Sheet'
+
+	
+	_asi podremos ver que la layer, original se ha ocultado mas se han creado nuevas capas de la capa
+
+	original a modo de instancia mas estas representaran a cada una las tumbs, con su respectiva escala
+
+	determinada en las configuraciones previas
+
+
+
+

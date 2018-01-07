@@ -1,0 +1,74 @@
+
+
+
+
+
+	http://aescripts.com/locations/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Toolbar Left / locations
+
+
+	Locations:
+	__________
+
+
+	_este nos permite hacer geolocalizaciones y escenas 3D, a través, de mapas y cordenadas
+
+	realaces tanto en planos 2d como en 3d
+
+
+
+
+
+	Workflow:
+
+	_________
+
+
+	_primero realizamos la búsqueda de geolocalización en sitio:
+
+
+		http://getlatlon.yohman.com/
+
+
+	_así, luego de ubicar el área deseada debemos tomar la "Latitude, Longitude:", ej:
+
+	
+		9.08164700946292, -69.83706699999999
+
+
+	_luego con este valor vamos al sitio
+
+	
+		http://geocommons.com/
+
+
+	_escribimos la ubicación general del sitio deseado, ej: venezuela, así. nos aparecerán
+
+	varios opciones de mapas, debemos seleccionar una y, entrando a las opciones le damos ha
+
+	"SpreadSheet", así, nos descargará un archivo .csv, el cuál estará la información del mapa
+
+	que hemos elegido
+
+
+	_luego vamos el siguiente sitio:
+
+
+		http://www.gpsvisualizer.com/
+
+
+	_en el cuál, podremos pegar las ubicaciones de las ciudades ó lugares deseados obtenidos del
+
+	archivo .csv, del paso anterior ó hacerlo de forma manual
+
+
+
+	
+

@@ -1,0 +1,154 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear ruido a través, de los valores de tono, saturación y liminancia para 
+
+	diferentes procesos de producción y paso contínuo como también, para la generación de texturas y partículas
+
+	auxiliares entre otros muchos procesos de relives y depresiones entre otras posibilidades
+
+
+	_de ésta manera, podremos crear ruido de alto detalle y agrandamiento para la realización de difernetes
+
+	sistemas complejos por medio de valores de creación por liminancia y contraste, tono y color y saturación
+
+
+	_ésta opción del efecto es una variación del efecto "Noise HLS", más ésta opción nos permitirá controlar la
+
+	ecolución del sistema no a través, de una "Phase", de evolución si no que en vez de eso podremos controlar
+
+	el sistema a través, de un parámetri de animación directamente
+
+	
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Noise HLS Auto: (Ruido HLS Automatico)
+	_______________
+
+
+		_Noise:
+
+
+			_Uniform:
+
+				_ésta opción nos permitirá crear ruido de tipo uniforme e igualmente distribuido
+
+				para crear así, el tipo de ruido más común para la mayoría de los casos
+
+
+			_Squared:
+
+				_ésta opción nos permitirá crear ruido de tipo más estructurado y pixelado y con
+
+				un espaciado superior entre pixeles generado por el sistema para diferentes procesos
+
+				de producción y paso contínuo
+
+
+			_Grain:
+
+				_ésta opción nos permitirá crear un tipo de ruido más aglomerado con una separación
+	
+				aún mayor entre los pixeles generados y, el efecto entre las partículas de ruido
+
+				creadas de forma aleatoria emulando así, la apariencia al efecto de granulado
+
+			
+
+		_Hue:
+
+			_ésta opción nos permitirá virar el color del sistema para que así, el sistema generado sea
+
+			creado a través, de un rango y umbral del espectro de color más ámplio RGB
+
+
+		_Lightness:
+
+			_ésta opción nos permitirá indicar los valores de luminancia y contraste extras los cuál,
+
+			indicarán la presencia, fuerza y acutancia de un sistema paralelo de ruido monocromático
+
+			generado sobre la layer, base sobre la cuál, aplicamos el efecto 
+
+
+			_la cuál, a su vez, permitirá que el nuevo sistema de ruido monocromático de gran tamaño que 
+
+			hemos generado alternativamente se superponga el sistema de ruido de color generado 
+
+			previamente
+
+
+			_de ésta manera, si indicamos un valor muy bajo el sistema de ruido alternativo no será casi 
+
+			perceptible más si indicamos valores medios ha valores altos el sistema será imponente sobre 
+
+			la layer, base
+
+
+		_Saturation:
+
+			_éste nos permitirá imprimirle color al sistema de ruido alternativo que hemos creado en el
+
+			paso anterior de ésta manera, al incrementar el valor de "Saturation", con un valor superior
+
+			ha "0", iremos agregando "RGB", al nuevo sistema de ruido que hemos creado previamente
+
+
+		_Grain Size:
+
+			_ésta opción nos permitirá incrementar deliberadamente el tamaño del nuevo ruido generado a
+
+			a través, del nuevo sistema de ruido alternativo que previamente hemos creado
+
+
+			_ésta opción sólo estará disponible cuando la opción de "Noise/Grain", esté seleccionada lo
+
+			cuál, nos permitirá crear diferentes efectos de procesos de paso contínuo y producción
+
+
+		_Noise Animation Speed:
+
+			_ésta opcíon nos permitirá animar la velocidad de generación del sistema de ruido alternativo
+
+			a diferencia de controlar la evolución del efecto ya generado previemente en la opcón de 
+
+			control de "Phase", del efecto "Noise HLS"
+
+
+
+
+
+

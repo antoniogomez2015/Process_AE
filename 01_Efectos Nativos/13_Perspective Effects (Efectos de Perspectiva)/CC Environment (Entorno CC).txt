@@ -1,0 +1,110 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear un entorno 3d, ó estage a través, del cuál, podremos mapear una textura,
+
+	imágen ó layer, ha modo de mapa esférico para que así, podamos orbitar horizontalmente en un entorno 3d, a
+
+	partir de ésta imágen, textura, ó layer
+
+
+	_de ésta manera, podremos penear dentro de éste entorno 3d, emulado a través, de diferentes criterior ó 
+
+	formas de mapeos disponibles
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	CC Environment: (Entorno CC)
+	_______________
+
+
+		_Environment:
+
+			_ésta opción nos pemritirá seleccionar la layer, cuál, hará de mapa 3d, para que así, a 
+
+			través, de éste poder generar el entorno 3d, emulado
+
+
+
+		_Mapping:
+
+
+			_Spherical:
+
+				_ésta opción nos pemritirá generar un mapeo 3d, de modo esférico con sus epicentros
+
+				en los polos superior e inferior respectivamente
+
+
+				_ésta opción es especialmente útil para mapa de textura 3d, con uvs, esféricos
+
+
+			_Probe:
+
+				_ésta opción nos pemritirá generar un mapeo 3d, de modo esférico con sus epicentros
+
+				en los extremos del horizonte del mapa 3d, respectivamente
+
+
+
+			_Vertical Cross:
+
+				_ésta opción nos pemritirá genera un mapeo 3d, de modo esférico con sus epicentros
+
+				igualmente en los polos superior e inferior más éstos estarán interconectados
+
+
+				_lo cuál, quiere decir un extremo de la imágen de un polo estará unida al otro 
+
+				extremos de la imágen en el otro polo, logrando así, una imágen en infinito
+
+
+
+		_Horizontal Pan:
+
+			_ésta opción nos permitirá paneas ó hacer desplazamientos de la imágen ha modo horizontal
+
+			lo cuál, nos pemritirá orbitar dentro del entorno 3d, manteniéndonos en el epicentro
+
+
+		_Filter Environment:
+
+			_ésta opción nos permitirá aumentar la calidad del mapeo de la imágen resultante
+
+
+
+

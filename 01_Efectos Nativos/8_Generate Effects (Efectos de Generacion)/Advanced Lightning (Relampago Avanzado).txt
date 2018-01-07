@@ -1,0 +1,338 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá recrear rayos, grietas, fisuras, perímetros eléctricos, anomalías, poluciones
+
+	eléctricas, otros,
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Advanced Lightning: (Relampago Avanzado)
+	___________________
+
+
+		_Lightning Type:
+
+			_éste selector nos permitirá seleccionar el tipo de comportamineto ó presets, el cuál, 
+
+			determinará las características y comportamiento de los rayos, de ´ésta manera, dispondremos
+
+			de lossiguientes tipos de rayos:
+
+
+				_Directional:
+
+					_éste es el más predecible y estable el cuál, mantiene la dirección y uniformnidad
+
+					de los rayos hacia el sentido de la dirección de los mismos
+
+
+				_Strike:
+
+					_éste es una variante un poco más dinámica que la opción anterior de "Directional"
+
+
+				_Braking:
+
+					_éste es una variante un poco más dinámica que la opción anterior de "Directional"
+
+
+				_Bouncey:
+				
+					_éste obedece más a energía libre sobre el handle, ó target, de ésta manena, los
+
+					rayos fluctuarán como chispas al rededor del handle, ó target
+
+	
+				_Omni:
+
+					_éste es similar ha "directional", más éste fluctuará la dirección de los rayos
+
+					en relación a la posición ó animación del handle, ó target, de forma automática
+
+					ó a través, del valor de "Conductivity State"
+
+
+				_Anywhere:
+
+					_ésta opción es idéntica a la anterior de "Omni", más éste tipo de rayos es más
+
+					disperso y aleatorio que el anterior
+
+
+				_Vertical:
+
+					_ésta opción es una combinación de varias, tanto la forma dirección pero en un 
+
+					sólo sentido en éste caso hacia abajo y a su vez, los rayos que emiten son
+
+					dispersos
+
+
+				_Two-Way Strike:
+
+					_ésta opción nos permitirá crear rayos cruzados entre el handle, ó target, de
+
+					origen y destino lo cuál, es especialmente útil para muchos procesos de 
+
+					producción y paso contínuo, otros
+
+
+		_Origin:
+
+			_ésta opción nos permitirá indicar donde comenzará el sistema a través, de una handle, ó target,
+
+			el cuál, podremos animar y controlar
+
+
+		_Direction:
+
+			_ésta opción nos permitirá indicar donde terminará el sistema a través, de una handle, ó target,
+
+			el cuál, podremos animar y controlar
+
+
+		_Conductivity State:
+
+			_ésta opción nos permitirá animar el comportamiento del sistema en relación a las opciones y 
+
+			configuraciones establecidas por nosotros en relación a los parámetros seleccionados
+
+
+		Core Settings:
+
+			_éstas opciones nos permintirá configurar el grosor ó presencia del sistema independiéntemente
+
+			de las opciones de glow
+
+
+			_Core Radius:
+
+				_ésta opción nos permnitirá indicar el grosor ó ancho de los rayos de todo el ssitema
+
+
+			_Core Opacity:
+
+				_ésta opción nos permnitira graduar la opacidad de los rayos independiéntemente de 
+
+				efecto glow, del sistema
+
+
+			_Core Color:
+
+				_ésta opción nos permnitira graduar el color de los rayos independiéntemente de 
+
+				efecto glow, del sistema
+
+
+				_de ésta manera, podremos crear diferentes efectos como grietas fisuras, otros yendo más
+
+				allá, de la premisa base de crear rayos
+
+
+		_Glow Setting:
+
+			_éstas opciones nos permintirá configurar el glow ó luminicencia del sistema independiéntemente
+
+			de las opciones de core
+
+
+			_Glow Radius:
+
+				_ésta opción nos permnitira graduar el glow ó destello de los rayos independiéntemente 
+
+				del efecto core, del sistema
+
+
+			_Glow Opacity:
+
+				_ésta opción nos permnitira graduar la opacidad del glow ó destello de los rayos 
+
+				independiéntemente del efecto core, del sistema
+
+
+
+			_Glow Color:
+
+				_ésta opción nos permnitira graduar el color del glow ó destello de los rayos 
+
+				independiéntemente del efecto core, del sistema
+
+
+				_de ésta manera, podremos crear diferentes efectos como grietas fisuras, otros yendo más
+
+				allá, de la premisa base de crear rayos
+
+
+
+
+		_Alpha Obstable:
+
+			_"Obstáculo alfa", especifica la influencia del canal alfa de la capa original en la 
+
+			trayectoria del relámpago. Si el obstáculo alfa es superior a cero, el relámpago intenta 
+
+			ajustarse alrededor de las zonas opacas de la capa, al considerarlas como un obstáculo. 
+
+			Si un obstáculo alfa es inferior a cero, el relámpago intenta permanecer dentro de las 
+
+			zonas opacas, evitando las áreas transparentes. El relámpago puede cruzar los límites 
+
+			entre las áreas opacas y transparentes, pero los valores del obstáculo alfa superiores 
+
+			a cero hacen que el cruce se produzca con menos frecuencia.Nota: Si Obstáculo alfa se 
+
+			establece en un valor diferente a 0, no será siempre posible previsualizar el resultado 
+
+			correcto en una resolución menor a la completa
+
+
+			_de ésta manera, podremos agregarle un canal alpha, a la respectiva layer, base a través,
+
+			del efecto "DE Alpha Tool"
+
+
+		_Turbulence:
+
+			_éste valor nos permitirá agregar turbulencia ó aleatoriedad al sistema cuando éste éste
+
+			animado a través, de la opción de "Conductivity State"
+
+
+		_Forking:
+
+			_ésta opción nos permitirá agregar al sistema de rayos másbifurcaciones ó complejidad al
+
+			sistema de rayos generados
+
+
+		_Decay:
+
+			_éste valor nos permnitirá extender el sistema ó contraer éste, de ésta manera, ha modo de
+
+			umbral podremos controlar el alcance del sistema
+
+
+		_Decay Main Core:
+
+			_ésta es una opción de decaimiento ó umbral similar a la opción anterior de "Decay", más 
+
+			ésta opción principal de decaiminento no es graduable
+
+
+		_Composite on Original:
+
+			_ésta opción nos permitirá ver el sistema sobre la layer, original ya que de nos tener 
+
+			ésta opción activada sólo veremos el efecto sobre fondo transparente sobre la layer, 
+	
+			original
+
+
+		_Expert Setting:
+
+			_éstas opciones nos permiten consolidad la mayoría de opciones vistas hasta ahora pero 
+
+			ahora de forma más simplificadas pero efectivas
+
+
+
+			_Complexity:
+
+				_ésta opción aumentará ó disminuirá la complejidad de los rayos y de todo el 
+		
+				sistema en general
+
+
+			_Min. Forkdistance:
+
+				_ésta opción controlará la cantidad de bifurcación del sistema en general
+
+
+			_Termination Threslhold:
+
+				_ésta opción determinará la propiedad, capacidad ó umbral de los rayos en 
+
+				colisionar entre si
+
+
+			_Min Core Collision Only:
+
+				_ésta opción es muy similar a la anterior más ésta sólo se refiere a umbral 
+
+				de acercamiento por el grosor ó presencia de los respectivos rayos
+
+
+			_Fractal Type:
+
+				_ésta opción nos permnite seleccionar entre dos tipos de fractales ó 
+
+				distribución de los rayos en relación al resultado deseado
+
+
+			_Core Drain:
+
+				_ésta opción nos permitirá indicar el umbral ó alcance que tendrá el sistema
+
+				en relación a la ubicación del handle, ó target, final ó "Direction"
+
+
+				_lo cuál, permnitirá replegar el sistema y crear animaciones complementarias
+
+
+			_Fork Strengh:
+
+				_éste valor indica la profusión ó cantidad de bifurzación que tendrán lo rayos
+
+				así, entre mayor fuerza indiquemos mas presencia tendrán la bifurcaciones en 
+
+				relación a los rayos principales lo cuál, generará una mayor densidad de rayos
+
+
+			_Fork Variation:
+
+				_ésta opción agregará variación ó aleatoriedad a la propiedad anterior de 
+
+				"Fork Strengh"
+
+
+
+
+
+
+
+
+
+

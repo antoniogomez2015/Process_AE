@@ -1,0 +1,20 @@
+
+
+Adobe After Effects CC 2014 WorkSpaces
+
+
+	-aftereffects, guarda sus workspaces, generados en la siguiente ruta
+
+
+		'C:\Users\mono\AppData\Roaming\Adobe\After Effects\13.1\ModifiedWorkspaces'
+
+			'UserWorkspace1.xml',....
+
+
+	
+	-los orignales workspaces, se alamacenan en la siguiente ruta
+
+		
+		'C:\Users\mono\AppData\Roaming\Adobe\After Effects\13.1'
+
+			'Workspaces.xml'

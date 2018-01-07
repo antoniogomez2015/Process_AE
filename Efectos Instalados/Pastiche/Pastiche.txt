@@ -1,0 +1,492 @@
+
+
+http://aescripts.com/pastiche/
+
+	Referencias:
+
+		https://www.youtube.com/watch?v=8I924WhYrw0
+
+		
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Pastiche
+
+
+	Pastiche:
+
+
+	-este nos permite modular layers, a través, de una layer, que hace de proxi la cuál, proporciona su forma 
+
+	a modo de estencil, canvas ó patrón sobre el cuál, se van señir ó distribuir las layers, dentro de ésta
+
+
+	_de ésta manera, las mayers, se comportarán como módulos dentro de un super módulo el cuál, también, hará
+
+	el efecto máscara de recorte de éste
+
+
+	_és altamente recomendable crear una composición exclusiva para el sistema, ya que éste utilizará todas 
+
+	layers, existentes en la composición para generar el sistema
+
+
+
+	Workflow:
+	_________
+
+
+	Generales:
+
+	_primero, debemos crear ó cargar una layer, la cuál, tendrá que estar precompuesta en una composición a 
+
+	parte de la cuál, se utilizará su valor de luminancia para obtener la forma en positivo de ésta para 
+
+	contener el sistema dentro de ésta forma
+
+
+	_así, como también, debemos tener creadas una gran cantidad de layers, las cuales puden ser de tipo text,
+
+	shape, image
+
+	
+	_para tales fines de generación genérica de layers, es recomendable la utilización del plugins, 
+
+	"LayerGenerator", ubicados en "FxPro/5_Distribute Layers/", "Alphabet", "Solidity", y "Vector Icons", 
+
+	los cuales nos permitirán la generación de layers, automáticas de forma secuencial ó genérica 
+
+
+	_así, como también, podríamos traer éstos archivos de forma externa de nuestro disco duro
+
+
+	_también, tenemos la posibilidad de utilizar composiciones animadas para usarlas como layers, para el 
+
+	sistema, de ésta manera, podremos aumentar la capacidad y complejidad de animación ya que de ésta 
+
+	manera el motive, ha modular la tendrá por ejemplo; un loop, de animación, otros
+
+
+
+	Plugins:
+
+	_y para aplicar el plugins, ó sistema, podemos hacerlo en la misma layer, que utilizaremos de proxi,
+
+	en éste ej, será en la layer, precompuesta llamada "iso"
+
+
+	_para lo cuál, con ésta respectiva layer, seleccionada iremos ha "Effects/Motion Boutique/", y 
+
+	aplicaremos el efecto de "Pastiche (Pro)"
+
+
+	Pastiche (Pro):
+
+	_de ésta manera ya el plugins, reconocerá como "Source Layer", su layer, portadora en éste caso la
+
+	layer, "iso"
+
+
+	_y para crear el sistema ahora sólo basta con ir al panel "Pastiche (Pro)", y hacer "Create", no 
+
+	hace falta para éste paso tener que haber previamente seleccionado todas las layers, ha aplicar el
+
+	sistema previamente
+
+
+	_así, podremos ver a partir de éste paso, de todas las layers, en la composición ahora an adoptado la
+
+	forma de la layer, proxi, de forma automática
+
+
+	_El plugins, nos brinda un serie de opciones de configuración tanto para la conformación del sistema
+
+	así, como también, para la animación del mismo, éstas son:
+
+
+	
+	Transform:
+	__________
+
+
+	Position:
+
+		_ésta opción nos permitirá indicar el tipo de criterio de la organización de las layer, y su 
+
+		relación con las layers, contiguas ha éstas así, como ha la forma proxi, en los cuales disponemos:
+
+
+		Grid:
+
+			_ésta opción nos permite indicar una distribución de las layers, de forma ordenada en su 
+
+			forma y orientación en relación a sus layers, contiguas y ha la forma proxi
+
+
+		Organic:
+
+			_ésta opción nos permite indicar un distribución orgámica la cuál, no respetará de forma 
+
+			exacta el área ocupada por las layers, contiguas ha ésta así, como también, habrá variación
+
+			en la escala de las layers, de forma aleatoria así, como también en su posición y organización
+
+			de las layers, en relación de la layer, proxi
+
+
+		Radial:
+
+			_ésta opción nos permite indicar que el sistema haga una distrubición lo más radial posible
+
+			tratando de girar las layers, en relación a la forma de la layer, proxi
+
+
+		Random:
+
+			_ésta opción nos permitirá indicar que el sistema haga un distribución más bien aleatoria 
+
+			en relación a la layer, proxi
+
+
+		Use Previous Value:
+
+			_ésta opción utilizará siempre el criterio que se haya elegido previamente en el sistema, 
+
+			ésta es una forma aleatoria de crear el sistema
+
+
+		Ignore:
+
+			_ésta opción nos tomará en cuenta este criterio para la generación del sistema
+
+
+
+
+	Scale/Rotation/Opacity:
+
+		_ésta opción nos permitirá indicar el tipo de criterio de la organización de las layer, y su 
+
+		relación con las layers, contiguas ha éstas así, como ha la forma proxi, en los cuales disponemos:
+
+
+		From Alpha:
+
+			_ésta opción nos permite tomar el canal alpha, como criterio de acicón para la generación 
+
+			del sistema
+
+
+		From Liminance:
+
+			_ésta opción nos permite tomar el valor de luminancia, como criterio de acicón para la 
+
+			generación del sistema
+
+
+		From Neighborhood:
+
+			_ésta opción nos pertemite tomar un valor general ó relativo como criterio para la generación
+
+			del sistema
+
+
+		From Random:
+
+			_ésta opción nos permite tomar un valor aleatorio del existente como criterio para la 
+
+			generación del sistema
+
+
+		Use Previous:
+
+			_ésta opción nos permite tomar un previo al seleccionado como criterio para la generación 
+
+			del sistema
+
+
+		Ignore:
+
+			_ésta opción nos permite no tomar éste valor como un criterio válido para la generación 
+
+			del sistema
+
+
+	options:
+
+		Min Size:
+
+			_ésta opción nos permite ajustar el mínimo tamaño relativo que tendrán las layers, dentro 
+
+			de la layer, proxi
+
+
+		Max Size:
+
+			_ésta opción nos permite ajustar el mánimo tamaño relativo que tendrán las layers, dentro 
+
+			de la layer, proxi
+
+
+		Prevent Overlap:
+
+			_ésta opción nos permite ajustar el solapamiento relativo que tendrán las layers, dentro 
+
+			de la layer, proxi
+
+
+		Rescale Factor:
+
+			_ésta opción nos permite ajustar la escala relativa que tendrán las layers, dentro 
+
+			de la layer, proxi, ésto permitirá la posibilidad de que pueda haber especio entre 
+
+			layers, dentro del sistema ó por lo contrario que éstas aparezcan amontonadas
+
+
+		Min Rotation:
+
+			_ésta opción nos permite ajustar la mínima rotación relativa que tendrán las layers, dentro 
+
+			de la layer, proxi
+
+
+		Max Rotation:
+
+			_ésta opción nos permite ajustar la mánima rotación relativa que tendrán las layers, dentro 
+
+			de la layer, proxi
+
+
+		Min Opacity:
+
+			_ésta opción nos permite ajustar la mínima opacidad relativa que tendrán las layers, dentro 
+
+			de la layer, proxi
+
+
+		Max Opacity:
+
+			_ésta opción nos permite ajustar la mánima opacidad relativa que tendrán las layers, dentro 
+
+			de la layer, proxi
+
+
+		Layer Order:
+
+			_ésta opción nos permite ajustar el orden relativo que tendrán las layers, dentro de la layer, 
+
+			proxi, entre los cuales disponemos varios ha seleccionar bajos diferentes criterios, 
+
+			por defecto tendremos la opción de "Minimun Assignment", es la más recomendada para la mayoría
+
+			de las acciones, uno de los estados más útiles para las layers, es el "random"
+
+
+
+	Animation:
+	__________
+
+
+	Source:
+
+	_como principio fundamental ha animar como primera instancia, es animar las layers, que conforman la composición
+
+	proxi, de ésta manera las layers, que conforman el sistema de layers, sobre la layer, proxi, tendrán que ajustarse
+
+	a la nueva forma proxi ahora animada
+
+
+	_así, como también, podremos hacer variaciones en la duración y posición de las layers, ha modular en el sistema,
+
+	de ésta manera podremos colocar de forma aleatoria las layers, y colocar éstas de forma secuenciada para aumentar el
+
+	dinamismo y efecto de animación en el resultado final
+
+
+
+	Frames to Render:
+
+	_ésta opción nos permite indicar el criterio de animación para las secuencias de acciones del sistema a través, del 
+
+	tiempo, entre los cuales disponemos de los siguiente métodos ó criterios de acción:
+
+
+		_Current Frame:
+
+			_ésta es la opción por defecto la cuál, no realiza una animación de forma inicial ó nativa, más hay 
+
+			una posibilidad en éste método para realizar animación el cuál, podríamos denominar manual
+
+			
+			_para el cuál, hay que activar la opción de "Force Keyframing", para que así, cada vez, que se cree
+
+			el sistema en un punto determinado en el timeline, se cree en dicho punto un keyframe, para cada
+
+			layer, del sistema, 
+
+
+			_para lo cuál, tendremos que ir avanzando el cabezal del timeliene, e ir haciendo variaciones en las
+
+			opciones de configuración del sistema e ir generando varias veces el sistema en el tiempo, de ésta
+
+			manera iremos realizando una animación de forma residual al proceso
+
+
+
+		_Every X Frames (Within With Work Area)
+
+			_ésta opción nos permite hacer una animación del sistema de forma indefinida la cuál, sólo estará 
+
+			limitada en su duración por la longitud del work area, ó área de trabajo delimitadora
+
+
+			_más ésta modalidad requerirá que le indiquemos un intervalo de interpolación entre las formas ó
+
+			series generadas por el sistema a través, del tiempo
+
+
+			_para lo cuál, tendremos que graduar la opción de "Interval (frames)", e indicar un valor de 
+
+			de generación de keyframes, entre los cuales se generará la interpolación
+
+
+			_ésto quiere decir, que si en "Interval (frames)", colocamos un valor, por ej, de "25", entonces
+
+			en cada 25, frames, se agregará un keyframes, para todas las layers, del sistema, y el sistema 
+
+			hará una interpolación entre una forma ó otra del sistema a través, del tiempo
+
+
+		_From Layer Markers:
+
+			_ésta opción es muy similar a la anterior más éste indicamos el intervalo de animación agregando
+
+			marks, ó marcas a la misma layer, donde está el sistema de "Pastiche (Pro)", de ésta manera el
+
+			sistema generará un keyframe, en cada respectiva marca
+
+
+
+		Inverval (frames):
+
+			_ésta opción nos permite indicar el intervalo de keyframes, ha generar bajo el sistema de animación
+
+			de "Every X Frames (Withn With Work Area)"
+
+
+		Force Keyframing:
+
+			_ésta opción nos permite activar el modo de animación manual para el sistema de "Current Frame"
+
+
+		Temporal Interpolation:
+
+
+			_ésta opción nos permite indicar el tipo ó criterio de animación entre los diferentes estados
+		
+			generados por el sistema
+
+			
+			_de ésta manera, dispondremos de diferentes modos de interpolación de animación ha seleccionar
+
+
+		Speed In:
+
+			_ésta opción permite configurar la velocidad de envío en el modo de "Temporal Interpolation/Random"
+
+
+		Influence In:
+
+			_ésta opción permite configurar la influencia de entrada de las layers, en el modo de 
+
+			"Temporal Interpolation/Random"
+
+
+		Speed Out;
+		
+			_ésta opción permite configurar la velocidad de envío en el modo de "Temporal Interpolation/Random"
+
+
+		Influence Out:
+
+			_ésta opción permite configurar la influencia de salida de las layers, en el modo de 
+
+			"Temporal Interpolation/Random"
+
+
+		Spatial interpolation:´
+
+			_ésta opción nos permite indicar el tipo ó criterio de interpolación de animación espacial entre los 
+
+			diferentes estados generados por el sistema en el viewport, ó composition panel
+
+
+		In Tangent:
+
+			_ésta opción nos permite definir el comportamiento de la entrada de la tangente de la interpolación
+
+			espacial de animación en el viewport, ó composition panel
+
+
+		Out Tangent:
+
+			_ésta opción nos permite definir el comportamiento de la salida de la tangente de la interpolación
+
+			espacial de animación en el viewport, ó composition panel
+
+
+		Offset (frames):
+
+			_ésta opción nos permite indicar un desface de animación a través, de una delimitación de frames,
+
+			para realizar dicha acción
+
+
+		Offset Method:
+
+			_ésta opción mos permite seleccionar el método de acción del desface de animación
+
+
+		Motion Blur:
+
+			_ésta opción nos permite activar las opciones de motion blur, ó desenfoque para las layers, del
+
+			sistema
+
+
+	Advanced
+
+
+		Random Seed:
+
+			_ésta opción nos permite activar las opciones aleatorias para el sistema y su conformación
+
+
+		Create:
+
+			_éste botón nos permite crear ó general el sistema
+
+
+	Remove Existing Keys:
+
+		_ésta opción nos permite eliminar keyframes, existentes en generaciones previas sobre las layers, que
+
+		conforman el sistema
+
+			
+
+
+
+
+
+
+
+
+
+		
+
+

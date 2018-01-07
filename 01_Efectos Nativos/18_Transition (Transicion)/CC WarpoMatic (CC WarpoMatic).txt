@@ -1,0 +1,199 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_WarpoMatic, es un filtro para crear transiciones deformadas entre dos capas basadas en el canal seleccionado, 
+
+	o "Reactor". También se puede usar para agregar el warping efecto a la capa de origen de los efectos, 
+
+	seleccionando esa capa en "Layer To Reveal", controlar. Incluye controles para determinar la cantidad de 
+
+	deformación, dirección, suavidad y Blend Span.
+
+	
+	_éste efecto también, nos permitirá crear diferentes efectos de distorsión y procesos de producción y paso
+
+	contínuo así, como también, para el constructivismo visual
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC WarpoMatic: (CC WarpoMatic)
+	______________
+
+
+		_Completion:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste realize la complexión
+
+			ó la transición para que así, éste devela las layers, sybyacenes en la composición respectiva
+
+
+		_Layer to Reveral:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la layer, ha revelar de ésta 
+
+			manera, podremos seleccionar de las respectivas layers, de la composición respectiva
+
+
+
+		_Reactor:
+
+
+			_Brightness:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el criterio ó algoritmo ha
+
+				utilizar para la generación de la transición ó efecto entre las dos imágenes, en éste
+
+				casó será el brillo ó luminancia de las imágenes
+
+			
+			_Contrast Differences:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el criterio ó algoritmo ha
+
+				utilizar para la generación de la transición ó efecto entre las dos imágenes, en éste
+
+				casó será la diferencia de contraste entre las imágenes
+
+
+			_Brightness Differences:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el criterio ó algoritmo ha
+
+				utilizar para la generación de la transición ó efecto entre las dos imágenes, en éste
+
+				casó será la diferencai de brillo ó luminancia entre la imágenes
+
+
+			_Local Dofferences:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el criterio ó algoritmo ha
+
+				utilizar para la generación de la transición ó efecto entre las dos imágenes, en éste
+
+				casó será las diferencias entre los valores tonales entre las imágenes
+
+
+
+		_Smoothness:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el suavizado ó interpolado entre
+
+			la distorsión entre ambas imágenes 
+
+
+			_así, con un valor cercano ha "0", la distorsión será muy fuerte y acusada, la cuál, a su vez,
+
+			mostrará todos los detalles de las imágenes de manera resaltada
+
+
+			_más con valores cercanos ha "100, 200", la distorsión será más leve y con menos detalle 
+
+			finos, lo cuál, creará distorsiones más ámplias tomando áreas completas y uniformes para 
+
+			generar el efecto
+
+
+		_Warp Amount:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la cantidad de distorsión para la
+
+			generación del sistema, lo cuál, afectará al comportamiento y fusión entre ambas imágenes
+
+
+
+		_Warp Direction:
+
+
+			_Joint:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la dirección y el 
+
+				comportamientode la distorsión, en éste caso será la implícita en el volúmen de ambas
+
+				imágenes
+
+
+				_Teje las capas en la misma dirección. Tanto la capa fuente de los efectos como la 
+
+				capa para revelar parece estar tirada y distorsionada en la misma dirección.
+
+
+			_Opposing:
+
+				_Teje las capas en direcciones opuestas. La capa fuente de los efectos y la capa para 
+
+				revelar parece estar tirada y distorsionada en direcciones opuestas.
+
+
+			_Twisting:
+
+				_Teje las capas girándolas en la misma dirección. Mientras que una capa se retuerce 
+
+				fuera de lugar, el otro se retuerce en su lugar.
+
+
+
+
+		_Blend Spain:
+
+
+			_Use este control para determinar el porcentaje de la transición durante la cual dos capas se
+
+			mezclan. 
+
+
+			_Al acortar el Span de mezcla, se mantendrá nítida cada capa para un período de tiempo más 
+
+			largo, pero la transición también se volverá más abructa
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,171 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer distorsiones de tipo similar al efecto "Wave Warp", aunque de forma 
+
+	especializada ó totalmente controlable aunque no modulable
+
+
+	_de ésta manera, podremos en éste caso controlar de distorsión, ángulo y avance de ésta a través, de dos
+
+	handles, ó target, por medios de los cuáles, podremos controlar todo el sistema
+
+
+	_a través, de diferentes criterios de acción ó de distorsión los cuáles, nos permitirán hacer diferentes
+
+	efectos para producción, paso contínuo, motion graphycs, módulos para el constructivismo visual, otros
+
+
+
+
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Bender: (Deformador CC)
+	__________
+
+
+		_Amount:
+
+			_ésta opción nos permnitirá indicar al sistema la cantidad de efecto ha aplicar ó 
+
+			alcance que tendrá éste en relación a la imágen original
+
+
+		_Style:
+
+			_Bend:
+
+				_ésta opción nos permitirá hacer deformaciones de tipo desplazamientos 
+
+				laterales suvizados ó interpolados con una curva de inpersolación de la 
+
+				forma de "lineal" al acercar un handle, hacia el otro de forma lineal
+
+
+			_Marilyn:
+
+				_ésta opción nos permitirá hacer deformaciones de tipo semionda ó arco de
+
+				forma suavizada ó interpolada al acercar un handle, hacia el otro de 
+
+				forma lineal
+
+
+			_Sharp:
+
+				_ésta opción nos permitirá hacer deformaciones de tipo angulo recto de
+
+				forma no suavizada ó interpolada al acercar un handle, hacia el otro de 
+
+				forma lineal
+
+
+			_Boxer:
+
+				_ésta opción nos permitirá hacer deformaciones de tipo desplazamientos 
+
+				laterales suvizados ó interpolados con una curva de inpersolación de la 
+
+				forma de "Smooth", ó en "S" al acercar un handle, hacia el otro de forma 
+
+				lineal
+
+
+		_Adjust Distance:
+
+			_ésta opción tratará de mejor la forma resultante del sistema tratando de devolver
+
+			la imágen a su posición original sin la perdida del respectivo efecto logrado
+
+
+		_Top:
+
+			_handle, ó controlador superior el cuál, tiene los siguientes efectos sobre la imágen:
+
+
+				_Movimiento de Acercamiento:
+
+					_en la separación máxima de ambos handles, se aplicará el efectos en 
+
+					esa gama de pixeles
+
+
+					_de ésta manera, cuando los handles, se acerca; los pixeles que dejan 
+
+					atras éstos quedarán sin deformación ó aplicación de efecto
+
+
+				_Movimiento Paralelo:
+
+					_éste causará un pseudo efecto de skew, ó deformación libre en relación
+
+					a la ubicación de los handles, donde uno hará fuerza sobre el otro y por
+
+					ende sobre la imágen original deformándola
+
+
+		_Base:
+
+			_handle, ó controlador inferior el cuál, tiene los siguientes efectos sobre la imágen:
+
+
+				_Movimiento de Acercamiento:
+
+					_en la separación máxima de ambos handles, se aplicará el efectos en 
+
+					esa gama de pixeles
+
+
+					_de ésta manera, cuando los handles, se acerca; los pixeles que dejan 
+
+					atras éstos quedarán sin deformación ó aplicación de efecto
+
+
+				_Movimiento Paralelo:
+
+					_éste causará un pseudo efecto de skew, ó deformación libre en relación
+
+					a la ubicación de los handles, donde uno hará fuerza sobre el otro y por
+
+					ende sobre la imágen original deformándola
+
+
+
+
+
+
+
+
+
+

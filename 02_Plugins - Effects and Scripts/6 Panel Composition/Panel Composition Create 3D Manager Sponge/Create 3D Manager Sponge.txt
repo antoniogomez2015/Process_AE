@@ -1,0 +1,49 @@
+
+
+http://aescripts.com/extendscript-developer-utility/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Create 3D Manager Sponge
+
+
+	Create 3D Manager Sponge:
+
+
+	-este nos permite generar un cubo 3d, especial al cuál, estará hueco ó tendrá una perforación cuadrada
+
+	en cada una de sus caras proyectada hacia adentro
+
+
+
+	Workflow:
+	_________
+
+
+	_para ésto, no tendremos que tener creada previamente una composición de trabajo, ésto quiere decir
+
+	que podremos crear el cubo desde cero, sin la necesidad de crear composiciones previas ó layers, previas
+
+
+	_así, sólo tndremos que indicar la extrusión interna "Depth Of Recursion", ej: 1
+
+
+	_como también, el tamaño general: ej: "Size: 400"
+
+
+	_a´si, como también, agregar un layer, que haga de controlador y agregar también, una luz, a la escena
+
+
+	_y para finalizar el proceso debemos darle ha "Create", de ésta manera se creará una nueva composición con
+
+	el nombre "Manager Comp", el cuál, contendrá el cubo ocnstruido
+
+
+	_como también, una carpeta llamada "Cube"
+
+
+

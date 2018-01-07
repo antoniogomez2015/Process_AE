@@ -1,0 +1,124 @@
+
+
+http://aescripts.com/mirror-and-offset
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Mirrow & Offset
+
+
+	Mirrow & Offset:
+
+
+	-este nos permite secuenciar e invertir propiedades, por ejemplo, la propiedad de "Position", entre otras 
+
+	así, como tmabién, nos permite secuenciar layers, en el timeline
+
+
+	_de ésta manera, podremos tener soporte para animación y producción
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener un composición de trabajo así, como también, tendremos que tener creados al 
+
+	menos más de una layer
+
+
+	_para a continuación seleccionar las layers, que deseamos secuenciar de forma ordenada en relación a la
+
+	lógica del motivo ha lograr 
+
+
+	_más si lo que desemos secuenciar son propiedades de animación, entonces tendremos que seleccionar éstas 
+
+	propiedades en el orden deseado
+
+	
+
+	Offset Keyframes:
+	_________________
+
+
+		_Offset:
+
+			_ésta opción nos permite indicar la cantidad de desplazamiento ha aplicar sobre las layers,
+
+			seleccionadas previamente
+
+
+			_el máximo valor por defecto del slider de "Offset", es de un valor de "10", más éste valor
+
+			lo podemos personalizar al escribir un valor personalizado superior ha "10", en el campo
+
+			de texto del slider
+
+
+		_Upwards:
+
+			_ésta opción nos permite secuenciar layer, ó propiedades hacia adelante ó de izquierda
+
+			ha derecha
+
+
+		_Downwards:
+
+			_ésta opción nos permite secuenciar layer, ó propiedades hacia atras ó de derecha ha
+
+			izquierda
+
+
+		_Layer:
+
+			_ésta opción nos permite indicarle al sistema que lo que queremos secuenciar son layers,
+
+			y no propiedades
+
+
+		_Property:
+
+			_ésta opción nos permite indicarle al sistema que lo que queremos secuenciar son 
+
+			propiedades y no layers
+		
+
+		_Dont´s copy, just mirrow:
+
+			_
+
+
+		_Mirrow:
+
+			_ésta opción nos permite invertir propiedades seleccionadas así, por ejemplo; si hemos
+
+			secuenciado una serie de keyframes, previamente seleccionados podemos ahora invertir el
+
+			entido en el que éstos han sido secuenciados
+
+
+			_de ésta manera, si éstos keyframes, se prolongaban hacia la derecha de las layers, en el
+
+			timeline, ahora podremos hacer que éstos se proyecten ó prolongen hacia la izquierda,
+
+			conservando su misma estructura y distancia equidistante entre cada keyfreme, y en general
+
+
+		_Offset Button:
+
+			_éste botón nos permnite generar el sistema a partir de los criterios seleccionados sobre
+
+			las layers, seleccionadas
+
+
+
+
+
+
+

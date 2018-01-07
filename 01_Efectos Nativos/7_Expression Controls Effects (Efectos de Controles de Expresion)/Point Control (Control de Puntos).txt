@@ -1,0 +1,81 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá controlar un atirbuto de una layer, como por ejemplo, translation, rotation, 
+
+	scale, otros, así, como también, valores de efectos
+
+	
+	_tanto en sus respectivas características ó propiedades 2d, en las cordenadas "X,Y", a través, de un handle,
+
+	ó target, el cuál, se podrá manejar, a través, de la layer, auxiliar sobre la cuál, se ha aplicado el efecto
+
+
+	_de ésta manera, podremos controlar las propiedades de una layer, a través, de otra layer, por medio de éste
+
+	controlador personalizable ó configurable
+
+
+	_para lo cuál, hará falta la utilización de expresiones por lo general automáticas, ya que bastará con hacer 
+
+	"Alt + Mouse Left Click", sobre el ícono de reloj, de la propiedada deseada ha relacionar con el sistema 
+
+
+	_para que así, aparezcan los controles de expresiones y podamos así, halar el picker, hasta la layer, que tiene 
+
+	el efecto de "3D Point Control", para que así, ambos elementos queden relacionados
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	3D Point Control: (Control de Puntos)
+	_________________
+
+
+		_3D Point:
+
+			_éste es un target, ó handle, a través, del cuál, podremos relacionar propiedades 3d,
+
+			para posteriormente animar la ubicación de éste target, controlando así, la respectiva 
+
+			propiedad relacionada
+
+
+
+
+
+
+

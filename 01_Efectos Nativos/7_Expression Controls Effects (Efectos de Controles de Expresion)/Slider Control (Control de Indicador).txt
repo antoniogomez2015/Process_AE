@@ -1,0 +1,91 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá controlar un atirbuto de una layer, a través, de expresiones y scripts, más 
+
+	compelejos y automatizados los cuáles, no requiran una animación a pulso sobre el viewport, a través, de un
+
+	target, ó handle, a diferencia de las opciones de "Point Controls"
+
+
+	_de ésta manera, podremos controlar la acción ó ejecución de un script, expresiones de forma gradual por
+
+	medio de un slider, ó barra deslizadora a través, de la cuál, podremos hacer graduaciones del efecto deseado
+
+
+	_de las diferentes propiedades con expresiones ó scropts, como por ejemplo, translation, rotation, scale, otros, 
+
+	así, como también, valores de efectos
+
+	
+	_tanto en sus respectivas características ó propiedades 2d, en las cordenadas "X,Y", sin la necesidad de un handle,
+
+	ó target, sobre la layer, auxiliar sobre la cuál, se ha aplicado el efecto
+
+
+	_de ésta manera, podremos controlar las propiedades de una layer, a través, de otra layer, por medio de éste
+
+	controlador personalizable ó configurable
+
+
+	_para lo cuál, hará falta la utilización de expresiones por lo general automáticas, ya que bastará con hacer 
+
+	"Alt + Mouse Left Click", sobre el ícono de reloj, de la propiedada deseada ha relacionar con el sistema 
+
+
+	_para que así, aparezcan los controles de expresiones y podamos así, halar el picker, hasta la layer, que tiene 
+
+	el efecto de "3D Point Control", para que así, ambos elementos queden relacionados
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Slider Control: (Control de Indicador)
+	_______________
+
+
+		_Slider:
+
+			_éste es un deslizador de barra a través, del cuál, se podrá graduar la intensidad del 
+
+			efecto expresiones aplicadas sobre los determinados atributos
+
+
+
+
+
+
+

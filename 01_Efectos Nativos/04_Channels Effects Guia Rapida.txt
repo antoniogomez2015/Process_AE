@@ -1,0 +1,134 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Channels:
+	_________
+
+
+		Blend: (Fusionar)
+
+			_éste nos permtirá fusionar dos layers, a través, de filtros de modos de fusión lo 
+
+			cuál, nos brindará posibilidades alternativas y para la creación de efectos de paso contínuo
+
+
+		_Aritmetic: (Aritmetica)
+
+			_éste nos permitirá crear efectos muy interesante de integración de los canales rgb, por medio 
+
+			de la posterización del color en áreas determinadas 
+
+
+		_Compount Aritmetic: (Aritmetica Compuesta)
+
+			_éste es una mezcla entre los filtros "Blend", y "Aritmetic", lo cuál, potenciará las posibilidades
+
+			de integrar dos layers, y de crear efectos especiales y de paso contínuo
+
+
+		_Calculations: (Calculos)
+
+			_éste nos permtirá crear layer, compuestas a través, de diferentes canales de dos layers, diferentes
+
+			al mismos modo que hace el efecto ó sección de calculation, en Photoshop
+
+
+		_CC Composite: (Composición CC)
+
+			_ésta opción envía los efectos obtenidos en una pila de efecto en un punto determiando
+
+			y los envíará hacia adelante ó hacia atras ó los convertirá en alphas, ó matte, otros, en relación
+
+			al criterio, canal ó algoritmo seleccionado respectivamente
+
+
+		_Channel Combiner: (Combinador de Canales)
+
+			_éste nos permite hacer fusión de canales entre una ó dos layers, a través, de canales como "R/G/",
+
+			espacios de color como "RGB/HSB/YV", otros, como también, a través, de valores de luminancia, alpha,
+
+			saturation, min rgb, max regb, otros
+
+
+		_Set Channels: (Definir Canales)
+
+			_ésta opción nospermitirá componer una imágen a través, de los canales de diferentes layers, de
+
+			ésta manera, podremos componer imágenes complejas para lograr diferentes efectos en producción y de
+
+			pas contínuo
+
+
+		_Shift Channels: (Cambiar Canales)
+
+			_éste nos permitirá hacer un virado de canal para diferentes efectos y procesos en producción ó en 
+
+			paso contínuo de ésta manera, podremos crear un canal alpha, de un canal rojo y verde de un azul, 
+
+			otros
+
+
+		_Invert: (Invertir)
+
+			_éste nos permitirá hacer inversiones de canal ha modo universar el cuál, puede aplicar en diferentes
+
+			canales ó modos como "r/g/b/ alpha, lightness, otros"
+
+
+		_Set Matte: (Definir Mate)
+		
+			_éste nos permitirá asignarle un canal alpha, ha una layer, a partir del a información de otra layer,
+
+			la cuál, puede tener un canal alpha, áreas en transparencia ó máscaras, otros
+
+
+		_Solid Composite: (Composicion Solida)
+
+			_éste efecto nos permitirá hacer integraciones entre una layer, determinada y un color sólido lo cuál, 
+
+			es util para ciertos procesos de integración e igualación para la generación de sistemas de fluidos y 
+
+			efectos de simulación progresiva, otros
+
+
+		_Minimax: (Minimo Maximo)
+
+			_éste nos permitirá diferentes tipos de efectos y resultados para diferentes procesos de paso contínio y
+
+			efectos más complejos dentro den flujo de producción, otros
+
+			_como efectos de agrutinados de color brushes, más la direccionalidad vertical y horizontal
+
+
+		_Remove Color Matting: (Eliminar Halos de Color)
+
+			_éste nos permitirá hacer diferentes efectos en relación al matte, ó alpha resultante de una layer, pero 
+
+			es especialmente útil para eliminar halo, y diente de león de los canales alpha, ó mattes
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+
+
+ventana nativa de after effects
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Footage
+
+
+	Footage:
+
+
+	_este nos permite visualizar el material de archivo como imagenes ó video entre otros formatos posibles
+
+	de una manera práctiva y nativa dentro de after effects, dicha ventana es emulada por el plugins previewr
+
+
+	_más con la diferencia que éste panel nos permite también, seleccionar un estrato a importar ó embeber,
+
+	dentro de after effects, por ejemplo sólo una sección en específico de un video, permitiéndonos poder
+
+	escoger donde comenzará el video y donde terminará éste video de material de archivo ha incorporar dentro
+
+	del timeline, de la respectiva composición
+		

@@ -1,0 +1,117 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permitirá hacer virados de color por canal dentro del espacio de color R/G/B, a través,
+
+	de wheels, ó ruedas de color de forma similar al efecto de "Hue/Saturation"
+
+
+	_con la diferencia de que en éste caso no dispondremos de un gráfico de color del espectro más si 
+
+	dispondremos de un dial ó rueda de color visible para cada una de las fases ó canales ha modificar
+
+
+	_de ésta manera, podremos hacer virados y desfaces de color rápidamente lo cuál, es especialmente útil
+
+	para la creación de dominantes de color y estilos y tentencias de color
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Color Offset: (Desplazamiento de color CC)
+	________________
+
+
+		_Red Phase:
+
+			_éste wheel, ó rueda de color nos permitirá hacer virados y ajustes de color en 
+
+			relación al espectro de color de éste respectivo canal
+
+
+		_Green Phase:
+
+			_éste wheel, ó rueda de color nos permitirá hacer virados y ajustes de color en 
+
+			relación al espectro de color de éste respectivo canal
+
+
+		_Blue Phase:
+
+			_éste wheel, ó rueda de color nos permitirá hacer virados y ajustes de color en 
+
+			relación al espectro de color de éste respectivo canal
+
+
+		_Overflow:
+
+			_ésta selector nos permtirá seleccionar el tipo de visualización donde disponemos 
+
+			de las siguientes:
+
+
+				_Solarize:
+
+					_ésta es la opción que nos permitirá ver el resultado del efecto
+
+
+				_Polarize:
+
+					_ésta es la opción que nos permitirá ver el resultado del efecto
+
+					de forma sub-posterizada ó solarizada
+
+
+				_Warp:
+
+					_ésta es la opción que nos permitirá ver en color rojo sobre la 
+
+					imágen original las áreas que fuera de la zona segura "Gain", de 
+
+					la imágen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,175 @@
+
+
+DigiEffects/Buena Deep Cue Suite  /  http://www.digieffects.com/  /  http://www.rowbyte.com/buena-depth-cue/
+
+
+
+NOTE:	también, disponemos de todas las opciones de ésta suite directamente en la sección de effects, yendo ha
+
+	"Effects/DigiEffects BDC v2.5/", aunque ésta opciones no éstan automatizadas y son recomendables para
+
+	realizar un proceso manual ó más avanzado que las automatizadas las cuales están en la sección de
+
+	"Composition/"
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Camara Mapper: (Proyección de Planos a través, de la cámara)
+
+
+	Referencia: DigiEffects Buena Depth Cue v2 - 01.Análisis de Camera Mapper
+
+		https://www.youtube.com/watch?v=wTtJbFuif80
+
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
+Criterios del plugins:
+______________________
+
+
+	_para que funcione el plugins, camara mapper, necesitaremos tre elementos primordiales, éstos son:
+
+		_dos camaras
+
+		_y planos en los cuáles se proyectará la imágen ó composición deseada
+
+		_y la imágen ó composición en si deseada
+
+
+	_de ésta manera la cámara principal estará en la posición por defecto de creación de ésta, la cuál, funcionará 
+
+	como un proyector de cine, proyectando la imágen sobre los planos que harán de "screens", así. dependiendo de 
+
+	la posición de éstos planos ó screens, en el espcio tridimensional representarán un perspectiva diferente ante 
+
+	la segunda cámara orbital en el espacio 3d
+
+
+	_de ésta manera podremos por ej, colocar de plano principal de perspectiva el paisaje de un mar "como floor",
+
+	para luego colocar otros planos medios como rocas y otros tipos de elementos hasta llegar hasta el primer plano
+
+	para que hagamos una composición de planos en el espacio 3d
+
+
+	_otra opción similar es descomponer una imágen en capas enmascaras para luego utilizar un fondo neutro detras de
+
+	éstas utilizando la misma técnica de planos de capas con el plugin, camara mappers
+
+
+	_así, éste trata de emular un entorno 3d, con el cuál, podremos interactuar por medio de iluminación
+
+	sobre éste entre otros efectos posibles así, como también obtener la perspectiva entre otras
+
+	opciones posibles con el cámara mapper
+
+
+	_ésta opción ó modalidad puede funcionar con un sólo plano frontal u oblicuo ó varios planos 
+
+	axonométricos en intercepción como los son "from/left/right/top/bottom"
+
+
+	_para que así, la cámara pueda orbitar proyectando la imágen de la escena orignal sobre éstos
+
+	planos respectivos logrando así la emulación de un entorno 3d
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
+Aplicación del plugins:
+_______________________
+
+
+	Screen Proxis:
+	______________
+
+	_primero debemos crear una layer, de tipo "solid", para cada plano que deseamos construir para la scene, ó 
+
+	composición, ha éste plano le debemos activar su propiedad 3d, para que así, podamos ubicar éste en el espacio
+
+	3d, según la lógica de la escena
+
+
+	_así, tendremos que repetir éste paso para el resto de los planos ha crear
+
+
+	Cámara projection:
+	__________________
+
+	_primero debemos crear una cámara de proyección, shortcut: "Control + Alt + Shift + C", ésta cámara no la debemos 
+
+	mover de la posición por defecto "Axonometric from", a menos que necesitemos otra perspectiva diferente a la frontal, 
+
+	ésta camara la debemos renombrar ej: "projection_cam", para un mejor manejo de ésta
+
+
+	_ésta cámara tendrá la función de proyectar todas las imágenes sobre los respectivos planos proxis, en el espacio 3d
+
+
+	Cámara orbital:
+	_______________
+
+	_luego debemos crear otra cámara para las animaciones shortcut: "Control + Alt + Shift + C", ésta la cámara que 
+
+	utilizaremos para los procesos de paneos, y demás movimientos de animación de cámara sobre el espacio 3d, para que 
+
+	ésta interactúe con las diferentes proximidades de los diferentes planos proxis, los cuáles proyectarán diferentes 
+
+	imágenes en el espacio 3d
+
+
+	DE_CamaraMapper Plugins:
+	________________________
+
+	_para luego seleccionar así, cada uno de los plano "solid", de los que hayamos creado en la escena, y vamos a:
+
+	"Effects/DigiEffects BDC v2.5/DE_CamaraMapper"
+
+
+	_ahora vamos ha configurar el plugins, para cada plano respectivo para que éstos muestren las imágenes respectivas
+
+
+	_Proyection Camara:
+
+		_en ésta opción debemos seleccionar la cámara de trabajo la cuál, proyectará la imágen
+
+		ó composición deseada, ej: "proyection_cam"
+
+
+	_Proyection Layer:
+
+		_en ésta opción debemos indicar la layer, ó source, que se proyectará sobre el repectivo plano 
+
+
+	_Alpha Handing:
+
+		_en ésta opción por lo general debemos indicar la opción de "Source", para que tome el alpha, del
+
+		propio plano que hace de "screen proxi", y éste sea recortado fuera de la imágen proyectada sobre
+
+		éste plano proxi
+
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
+Workflow:
+_________
+
+
+
+	_ahora si, teniendo todo configurado, los planos las cámaras podremos entonces proceder ha animar la escena
+
+	e incluso hasta los planos de proyección
+
+
+	

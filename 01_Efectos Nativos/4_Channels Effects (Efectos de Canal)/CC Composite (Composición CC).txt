@@ -1,0 +1,170 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+			CC Composite Tutorial
+
+				https://www.youtube.com/watch?v=hOGPwFiOxlM
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá gestionar el apilamiento e integración de los efectos y su comportamiento en si de ésta
+
+	manera, podremos llevar más allá, las composiciones y las posibilidades de compositing
+
+
+	_el efecto de "CC Composite", es lo más próximo ha nodos, dentro de after effects, ya que a través, de éste
+
+	efectos podremos hacer que los efectos aplicados ha una layer, e un determinado momento se comporten de una
+
+	manera en específico
+
+
+	_como por ejemplo, que éstos se vayan hacia atras de la composición ó de la pila de efectos sobre la layer, 
+
+	ó que se vayan hacia adelante y que hatan de matte, otros
+
+
+	_ya que el efectos de "CC Composite", dispone de todos los modos de fusión nativos de la aplicación más otros 
+	
+	adicionales más avanzados orientados a la producción
+
+
+	_para que así, a través, de éstas nuevas posibilidades podamos lograr efectos más avanzados al permitirnos así,
+
+	poder ir confeccionando los efectos resultantes al ir agregando varios efectos de tipo cc composite, entre las
+
+	diferentes pilas de efectos dentro del panel effects controls
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	CC Composite: (Composición CC)
+	_____________
+
+	_Opacity:
+
+		_ésta sección nos permitirá hacer variaciones sobre la opacidad ó influencia ó capacidad de 
+
+		penetración de los efectos resultantes del sistema
+
+
+	_Composite Original:
+
+		_ésta opción nos permitirá seleccionar el criterio ó modo de trabajo de acción entre los cuáles, 
+
+		dispondremos de los siguientes los cuáles, son los más relevanes:
+
+
+
+			_Copy:
+
+				_ésta opción nos permitirá copiar los valores de los efectos apilados hasta un punto 
+
+				determinado y poder así, posteriormente llevarlos hasta otro punto saltando así, la
+
+				pila de existente previamente
+
+
+			_Behind:
+
+				_ésta opción envía los efectos obtenidos en una pila de efecto en un punto determiando
+
+				y los envía hacia atras revelando así, los efectos previos ó la imágen original
+
+
+			_in From:
+
+				_ésta opción envía los efectos obtenidos en una pila de efecto en un punto determiando
+
+				y los envía hacia adelante ó los traerá al frente revelando así, éstos efectos sobre
+
+				los efectos existente previamente ó sobre la layer, original
+
+
+			_Stencil Alpha:
+
+				_ésta opción convertirá los efectos obtenidos en una pila de efecto en un punto determiando
+
+				y los convertirá en una mapa de densidad el cuál hará de canal alpha
+
+
+			_Stencil Luma:
+
+				_ésta opción convertirá los efectos obtenidos en una pila de efecto en un punto determiando
+
+				y los convertirá en una mapa de densidad el cuál hará de canal mate de lumninancia ó mapa de 
+
+				densidad
+
+
+			_Silhouette Alpha:
+
+				_ésta opción convertirá los efectos obtenidos en una pila de efecto en un punto determiando
+
+				y los convertirá en una mapa de densidad de sólo la silueta ó contornos de la imágen el cuál 
+
+				hará de canal alpha
+
+			_Silhouette Luma:
+
+				_ésta opción convertirá los efectos obtenidos en una pila de efecto en un punto determiando
+
+				y los convertirá en una mapa de densidad de sólo la silueta ó contornos de la imágen el cuál 
+
+				hará de canal mate de lumninancia ó mapa de densidad
+
+
+
+			_Add Alpha:
+
+				_ésta opción convertirá los efectos obtenidos en una pila de efecto en un punto determiando
+
+				y los convertirá en un canal alpha, para la layer, sobre la cuál, está aplicado el efecto
+
+
+
+			_Luminicent Premult:
+
+				_ésta opción convertirá los efectos obtenidos en una pila de efecto en un punto determiando
+
+				y los convertirá en una mapa de luminicencia premultiplicado
+
+
+
+
+		_RGB Only:
+
+			_ésta opción limnitará la acción de los efectos apilados a sólo en canal rgb, en relación al cnaal
+
+			ó criterio de trabajo seleccionado
+
+
+

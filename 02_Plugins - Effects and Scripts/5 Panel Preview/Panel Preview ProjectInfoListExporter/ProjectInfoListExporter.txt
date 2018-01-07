@@ -1,0 +1,56 @@
+
+
+http://aescripts.com/projectinfolistexporter/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/ProjectInfoListExporter:
+
+
+
+	_éste permite hacer una archivo a modo de informe de todo el contenido que conforma un proyecto de el
+
+	panel "Project", en el cuál, podremos obtener, los tipos de archivos, cantidades de éstos, ruta ó 
+
+	ubicación, proyecto, nombre del proyecto así, como la fecha del mismo entro muchos otros valores útiles
+
+
+	_ésto es especialmente útil para procesos de producción e intercambio de datos ó a la hora de compilar
+
+	proyectos y el restablecimiento de los mismos
+
+
+
+	
+	Workflow:
+	_________
+
+
+	_primero debemos de tener material de archivo cargado dentro del panel "project"
+
+
+	_para ésto debemos ir al panel "ProjectInfoListExporter", y entras en las opcioes de "Export Options",
+
+	y seleccionar que tipo de informar exportaremos y que tipo de información omitiremos a través, de los
+
+	checkers, ha seleccionar ó elegir
+
+
+	_ó si por el contrario sólo queremos un informe de los archivos perdidos
+
+
+	_como también, podremos elegir el formato de exportación entre los cuales disponemos de ".txt", así,
+
+	como también, archivo "excel"
+
+
+	_de ésta manera podremos tener un reporte del proyecto para poder enviarlo por correo y tener un acceso
+
+	rápido para el restablecimiento de los elementos de un proyecto, otros
+
+
+						

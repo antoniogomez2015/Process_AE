@@ -1,0 +1,369 @@
+
+
+
+
+Animation Patterns
+
+
+	Referencia:
+
+		http://www.mtmograph.com/motion/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar interpolaciones de fotogramas de animación de forma gradual y específica así, como 
+
+	también, contempla algunas herramientas más utilizadas en diferentes procesos a nuestra disposición
+
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hara rápidas y graduales interpolaciones de keyframes, para obtener así un mayor control calidad
+
+	de las animaciones en las diferentes propiedades de animación
+
+
+	_así, como también nos permite ajustar en tiempo real y animable el punto de anclaje de las diferentes layers,
+
+	ésto es especialmente útil para motion graphycs, y diferentes procesos de animación
+
+
+	_también dispone de acciones rápidas las cuales nos brindan diferentes herramientas y compilados útiles tanto de
+
+	animación como de procesos
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Interpolación de Keyframes:
+___________________________
+
+	
+	_para ésto, debemos de tener una composición previamente creadas
+
+
+	_luego debemos crear una layer, a la cuál debemos animarle una ó varias propiedades de animación
+
+
+	_así, podremos seleccionar una ó varias propiedades animadas ó directamente algunos keyframes, de forma selectiva
+
+	para posteriormente aplicar interpolación de fotogramas claves a través, de "Motion"
+
+
+	_de ésta manera disponemos de básicamente tres tipos de interpolación;
+
+
+		_Interpolación de acelaración de entrada
+
+		_Interpolación de acelaración de salida
+
+		_Interpolación de acelaración de entrada y de salida
+
+
+	éstas opciones son totalmente graduables a través, tanto de un sliders, como de forma numérica
+
+
+
+Anchor Point:
+_____________
+
+
+	_ésta opción nos permite variar la ubicación general del punto de anclaje de las diferentes layers,
+
+	también, ésta posición es totalmente graduable a través, de un slider, lo cuál, permite hacer una
+
+	interpolación de posición en la posición actual y la posición anterior del anchor point
+
+
+
+Presets:
+________
+
+
+	Exite:
+	______
+
+
+	_éste permite hacer efecto de animación de "Bounce", para ésto, debemos seleccionar una layer, la cuál,
+
+	disponga de propiedades de animación creadas, así, podremos seleccionar las propiedades ó directamente
+
+	los keyframes, deseados a los cuales deseamos aplicarle éste comportamiento de animación
+
+
+	_éste comportamiento de animación dispone de propiedades controlables a través, del panel de control de
+
+	efectos para poder así, variar el comportamientos de animación
+
+
+
+Blend:
+______
+
+
+	__éste permite hacer efecto de animación de "Interpolación de Aceleración Offset", para ésto, debemos 
+
+	seleccionar una layer, la cuál, disponga de propiedades de animación creadas, así, podremos seleccionar 
+
+	las propiedades ó directamente los keyframes, deseados a los cuales deseamos aplicarle éste comportamiento 
+
+	de animación
+
+
+	_éste comportamiento de animación dispone de propiedades controlables a través, del panel de control de
+
+	efectos para poder así, variar el comportamientos de animación
+
+
+
+Burst:
+______
+
+
+	_éste permite crear un elemento el cuál, contiene una modulación radial de sub-elementos "shape", elemento
+
+	con profundidad 2d, como con profundidad 3d, de forma resctangular con los bordes redondedados, los cuales 
+
+	son altamente configurar a través, de controles en el panel de control de efectos
+
+	
+	_ésta opción es especialmente útil para argumentos y complementos para motion graphycs, otros
+
+
+	_para crear este tipo de elementos no necesitamos crear ninguna layers, especial ni tener seleccionada una
+
+	layer, existente previamente en el timeline
+
+
+
+Clone:
+______
+
+
+	_ésta opción nos permite clonar determinado grupo de keyframes, de un lugar a otro sin importar si éstos de la 
+
+	misma propiedad ó no
+
+	
+	_así, podremos seleccionar los keyframes, de las propiedades deseadas en el timeline, para luego colocar el cabezal
+
+	del tiemeline, en el lugar deseado donde deseamos pegar los keyframes, duplicados para luego ir al panel "Motion2",
+
+	y hacer "Clone", para que así, podamos agilizar los procesos de animación rápidamente
+
+
+
+Jump:
+_____
+
+
+	_ésta opción nos permite hacer el efecto de animación de "Bounce ó Rebote", de una más manera más resaltada,
+
+	especialmente útil para lograr efectos de rebotes de elementos cuadrados que rebotan tras el efecto de gravedad y
+
+	densidad, otros
+
+
+	_para ésto, debemos tener una layer, con una propiedad de animación animada para que así, luego podamos seleccionar
+
+	los keyframes, deseados e ir al panel "Motion2", y aplicar "Jump"
+
+
+	_ésta opción cuenta con unos controladores a través, del panel de control de efectos para que a´si, podamos hacer
+
+	ajustes al detalle del efecto de rebote así, como de las fuerzas implícitas que influyen en el
+
+
+
+Name:
+_____
+
+
+	_ésta opción es especialmente útil para procesos en masas de múltiples layers, para que así, podamos renombrar una
+
+	gran cantidad de capas al mismo tiempo, teniendo la oportunidad tanto de asignadle un nuevo nombre a las layers,
+
+	así, como un prefijo, éste prefijo puede preceder al nombre ó estar después del nombre ej;
+
+
+		1-proof
+
+
+	_para ésto debemos seleccionar las layers, deseadas a las cuales deseamos cambiarle el nombre, luego con éstas 
+
+	seleccionadas vamos al panel Motion2", y le damos ha "Name", el panel se transformará mostrandonos las opciones de
+
+	"remane"
+
+
+	_donde podremos indicar primero un nombre general para las layers, seleccionadas
+
+	
+	_como también, podremos seleccionar un prefijo ó separador entre diferentes opciones e indicar si deseamos que
+
+	éste se coloque tanto por delante como por detras de las layers
+
+
+	_también, de forma automática las layers, serán numeradas de forma secuencial y cronológica
+
+
+
+Null:
+_____
+
+
+	_ésta opción permite crear un "Null Object" a partir de la sección de layer, ó un grupo de layers, en el timeline,
+
+	a través, de la ponderación de la ubicación relativa de sus respectivos anchor points
+
+
+	_esta opción es especialmente interesante para el proceso de motion graphycs, ya que permite hacer medias y ponderaciones
+
+	entre grupos de layers, existentes permitiendo hacer nuevos puntos de rotación de forma perfecta entre otros 
+
+
+	_como también, permte lograr parámetros perfectos para el constructivismos de formas complejas dentro del motion graphycs, 
+
+	y animaciones con múltiples niveles de movimiento, entendiendo que el objeto nulo que se crea queda emparentado en las 
+
+	layers, originales
+
+
+
+Orbit:
+______
+
+
+	_tenemos también, la posibilidad de hacer que uno ó varios elementos ó layers, orbiten sobre otra layer, ó composición,
+
+	
+	_para ésto, debemos seleccionar una layer, ó composición, ésta layer, ó grupo de layers, serán las que orbiten sobre la
+
+	layer target, ó principal, para configurar múltiples capas orbitales es recomendado hacerlo con una sola y luego duplicar
+
+	ésta ya que así se copiarán todos los parámetros previamente configurados
+
+	
+	_luego con esta layer, ó grupo de layers, seleccionadas vamos al panel "Motion2", y aplicamos "Otbit", así se agregarán 
+
+	ha éstas layers, una serie de controladores a través, del panel control de efectos, donde uno de los controles más 
+
+	importantes es: "Position-Orbit Target", en el cuál, indicaremos la layer, controladora ó target, sobre la cuál, orbitarán
+
+	todas éstas lasyers, previas
+
+
+	_por lo general la layer, target debe de estar animada para aumentar el efecto generado de orbitación, ésta opción es 
+
+	especialmete útil para motion graphycs, otros
+
+
+
+Rope:
+_____
+
+
+	_ésta opción permte hacer el efecto de "Connection Layers", éste efecto es altamente utilizado en el motion graphycs, y otros efectos
+
+	de tipo conceptual y estructural, otros
+
+
+	_para ésto, debemos seleccionar las layers, ha conectar dentro de nuestro composición, luego con las layers, deseadas seleccionadas 
+
+	vamos al panel "Motion2", y hacemos "Rope" 
+
+
+	_así, se agregará a nuestro composición una layer, "Rope", la cuál, contendrá los controladores de animación y configuración de las
+
+	conexiones entre las diferentes layers, conectadas
+
+
+	_de ésta manera las diferentes layers, se verán contectadas a través, de diferentes layers, de forma "shape layers", una entre dos 
+
+
+
+
+
+	respectivas layers, indicadas por nosotros
+
+
+	_de ésta manera lograremos un efecto simnilar al de "Plexus", ó "Conection Layers", "Cluster" otros
+
+
+
+Warp:
+_____
+
+
+	_éste permite hacer el efecto de "Strands", ó también, conocido como "Tails", especialmente útil para motion graphycs, entre otros
+
+	mútilples efectos avanzados
+
+
+	_éste es altamente configurable y avanzado a través de controlados por medio del panel de control de efectos
+
+
+	_para ésto, debemos de seleccionar la layer, ó layers, deseadas en la composición activa, las cuales es recomentables que estén animadas 
+
+	para luego, ir al panel de "Motion2", y aplicar "Warp", para que podamos ver la estelas ó strands, las cuales emularán y aumentarán el 
+
+	mivimiento en las layer animadas
+
+
+
+Spin:
+_____
+
+
+	_ésta opción permite configurar rotaciones constantes de layers, de forma configurable
+
+
+	_para ésto, debemos seleccioanr la layer, ó layers, deseadas en la composición e ir al panel "motion2", y aplicar "Spin", para que así,
+
+	sean agregados controlados a través, del panel de control de efectos en los cuales podremos configurar el offset, como la fuerza de acción
+
+
+
+Stare:
+______
+
+
+	_ésta opción hacer el efecto de "Lock me", para que un grupo determinados de layers, por lo general en movimiento sigan el movimiento,
+
+	posición y orientación de otra layer, determinada
+
+
+	_éste efecto es especialmente útil para el motion graphycs, entros tipos de efectos y animaciones avanzadas con comportamientos de miras
+
+
+	_para ésto, debemos seleccionar las layers, deseadas que serán esclavas de la principal, y con éstas seleccionadas ir al panel "Motion2",
+
+	y aplicar "Stare", para que sean agregadas ha éstas layers, unos controladores en el panel de control de efectos
+
+
+	_siendo el más importante de éste efectos agregados el efecto de "Rotation-Stare Target", en el cuál, tendremos que seleccionar la layer,
+
+	padre a la cuál, seguirán las otras layers, esclavas
+
+
+	_otra alternativa para casos donde se trabajará con instancias es hacer éste proceso para una sóla layer, y luego duplicar ésta ya que así,
+
+	las layers, duplicadas se comportarán como instancias ya que heredarán las propiedades de la layer, padre original ó primaria
+	
+
+

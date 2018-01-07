@@ -1,0 +1,53 @@
+
+
+http://aescripts.com/find-and-replace-keyframes/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Find & Replace Keyframes
+
+
+	Panel Proyecto/Find & Replace Keyframes
+
+
+		-este nos permite encontrar los keyframes, que tienen un valor específico y reemplazarlo por otro
+
+		valor especificado
+
+
+		_NOTA: este plugins, sólo trabaja con la propidad de escala "scale", y soporla 2, ó 3 dimensiones
+
+
+		_para ésto, debemos previamente animar ésta respectiva propiedad, es recomendado hacerlo en valores
+
+		definidos como ej: 45, 90, 150,.., para una mejor ubicación posterior de éstos
+
+
+		_y posteriormente debemos seleccionar la propiedad respectiva en el timeline "scale", para luego con
+
+		ésta seleccionada ir al panel "Find & Replace Keyframes"
+
+
+		_ya en el panel debemos indicar un valor en el cuál, encontrar para luego reemplzar éste
+
+
+		_así, como también, debemos indicar un valor por el cuál, reemplazaremos el valor anterior u original
+
+
+		_también, tenemos la posibilidad de indicar si deseamos afectar ha todos los keyframes ó sólo los seleccionados
+
+
+		_y para terminar el proceso debemos darle ha "Find and Replace keyframes", para que así, podramos ver que los
+
+		keyframes, que coincidian con el rango indicado ha cambiar han cambiado al nuevo valor en éste caso de escala
+
+		
+		
+
+
+
+	

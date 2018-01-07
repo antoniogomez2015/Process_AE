@@ -1,0 +1,114 @@
+
+
+
+
+Randomizer
+
+
+	Referencia:
+
+		http://aescripts.com/randomizer/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite distribuir layers, así, como causar determinadas transformaciones de tipo espacial entre otras 
+
+	funciones de forma compuesta ésto es especialmente útil para la producción así, como para el motion graphycs,
+
+	entre otros procesos vitales para el desarrollo de animaciones
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite distribuir laryes, para diferentes procesos como motion graphycs, y otros procesos de constructivismo
+
+	visual a través, de la intervención de propieades concreatas de animación como "rotación, posición, escala, opacidad.."
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_para ésto debemos tener creada una composición base de trabajo a la cuál, debemos de crearle las layers, a las
+
+	cuáles deseamos hacerles transformaciones
+
+
+	_así, teniendo seleccionadas éstas debemos configurar las siguientes acciones
+
+
+	
+
+	---------------------------------------------------------------------------------------------------------------
+
+
+
+Property:
+_________
+
+	Anchor Point:
+
+		_ésta nos permite hacer variaciones de las layers, a través, de la propiedad de "anchor point"
+
+
+	Position:
+
+		_ésta nos permite hacer variaciones de las layers, a través, de la propiedad de "position"
+
+
+	Scale:
+
+		_ésta nos permite hacer variaciones de las layers, a través, de la propiedad de "scale"
+
+
+	Rotation 2d:
+
+		_ésta nos permite hacer variaciones de las layers, a través, de la propiedad de "rotation 2d"
+
+
+	Orientation:
+
+		_ésta nos permite hacer variaciones de las layers, a través, de la propiedad de "orientation"
+
+
+	Rotation 3d:
+
+		_ésta nos permite hacer variaciones de las layers, a través, de la propiedad de "rotation 3d"
+
+
+	Opacity:
+
+		_ésta nos permite hacer variaciones de las layers, a través, de la propiedad de "opacity"
+
+
+Min:
+
+	_ésta nos permite indicar los valores mínimos ó iniciales en cordenadas "X,Y,Z", es decir el rango mínimo
+
+
+Max:
+
+	_ésta nos permite indicar los valores máximos ó finales en cordenadas "X,Y,Z", es decir el rango máximo
+
+
+Execute:
+
+	_ésta opción nos permitirá ejecutar el sistema de distribución de layers
+	
+	

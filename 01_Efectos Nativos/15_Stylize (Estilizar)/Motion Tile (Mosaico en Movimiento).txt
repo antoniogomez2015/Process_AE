@@ -1,0 +1,149 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear modulaciones de una imágen ó composición así, como también, hacer desface 
+
+	de los módulos para la generación de patrones y super módulos compuestos lo cuál, es especialmente útil 
+
+	para el constructivismo visual y diferentes efectos y procesos de producción y paso contínuo
+
+
+	_El efecto Mosaico en movimiento reproduce exactamente la imagen de origen en la imagen final. Al cambiar 
+
+	la ubicación de los mosaicos, emplea el desenfoque en movimiento para acentuar el movimiento siempre que 
+
+	este desenfoque esté habilitado.
+
+
+	_Este efecto funciona con colores de 8 bpc.
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Motion Tile: (Mosaico en Movimiento)
+	____________
+
+
+		_Tile Center:
+
+			_ésta opción nos permitirá indicar el sistema cuál, será el centro del sistema, a partir del
+
+			cual, se toamará referencia para la generación del sistema
+
+
+		_Tile Width:
+
+			_ésta opción nos permitirá indicar la cantidad de segmentos a dividir la imágen de ésta
+
+			manera, podremos crear modulaciones más complejas ó más siempre al poder variar la cantidad
+
+			de módulos y super módulos generados por sistema en el eje horizontal
+
+		_Tile Height:
+
+			_ésta opción nos permitirá indicar la cantidad de segmentos a dividir la imágen de ésta
+
+			manera, podremos crear modulaciones más complejas ó más siempre al poder variar la cantidad
+
+			de módulos y super módulos generados por sistema en el eje vertical
+
+
+		_Output Width:
+
+			_ésta opción nos permitirá extender ó retrar el sistema en el eje horizontal, de ésta manera,
+
+			el "100", equivaldrá al tamaño total de la respectiva composición, más si disminuimos ha
+
+			menos de "100", entonces estaremos creando un sistema más angosto que la composición
+
+			respectiva
+
+
+			_más si por el contrario, indicamos un valor superior ha "100", entonces estaremos sangrando
+
+			el canvas ó tamaño de la imágen para que así, podamos crear efectos más complejos en planos
+
+			donde necesitemos hacer mapeos de sistemas y modulaciones muy grandes, otros
+
+
+		_Output Height:
+
+			_ésta opción nos permitirá extender ó retrar el sistema en el eje vertical, de ésta manera,
+
+			el "100", equivaldrá al tamaño total de la respectiva composición, más si disminuimos ha
+
+			menos de "100", entonces estaremos creando un sistema más angosto que la composición
+
+			respectiva
+
+
+			_más si por el contrario, indicamos un valor superior ha "100", entonces estaremos sangrando
+
+			el canvas ó tamaño de la imágen para que así, podamos crear efectos más complejos en planos
+
+			donde necesitemos hacer mapeos de sistemas y modulaciones muy grandes, otros
+
+
+		_Mirrow Edges:
+
+			_Da la vuelta a mosaicos contiguos para crear imágenes reflejadas. Cuando Fase esté ajustado 
+
+			a 0, si se selecciona esta opción, se obtiene un reflejo de los bordes de la capa con los 
+
+			mosaicos colindantes
+
+
+		_Phase:
+
+			_Desplazamiento horizontal o vertical de los mosaicos
+
+
+		_Horizontal Phase Shift:
+
+			_Desplaza los mosaicos horizontalmente en lugar de verticalmente.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,79 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Buscar bordes identifica las áreas de la imagen con transiciones significativas y acentúa los 
+
+	bordes. Los bordes pueden aparecer como una línea oscura sobre fondo blanco o líneas coloreadas sobre fondo 
+
+	negro. Con el efecto Encontrar bordes aplicado, las imágenes a menudo parecen esbozos del original.
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Find Edges: (Encontrar Bordes)
+	___________
+
+
+		_Invert;
+
+			_ésta opción nos permite invertir el sistema de bordes y colores a través, de un algoritmo
+
+			el cuál, pondera los bordes en relación a la interacción de la superficies, contraste, 
+
+			luminancia y dirección de la luz
+
+
+		_Blend With Original:
+
+			_ésta opción nos permitirá fusionar el efecto resultante con la layer, base para que así,
+
+			podamos integrar el efecto con la imágen original
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,61 @@
+
+
+http://aescripts.com/mochaimport/
+
+
+	Tutorials:
+
+		After Effects Tutorial: Getting Started With MochaImport+
+
+		http://mamoworld.com/tools/mochaimport-after-effects
+
+		http://mamoworld.com/tutorials/mochaimport-ae-mini-tutorial-1-corner-pin
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Mocha Import Plus 5
+
+
+	Mocha Import Plus 5:
+
+
+	-este nos permite hacer diferentes procesos de producción entre mocha, y after effects, así, como también,
+
+	éste plugins, permite de forma autónoma hacer diferentes procesos múltiples de uso general
+
+
+
+
+	Workflow:
+	_________
+
+
+	Track Mask:
+	___________
+
+	_éste nos permite enviar máscaras ha mocha, para trackear éstas somo si fiesen layers, generadas dentro
+
+	de mocha
+
+
+	_para ésto, debemos de cargar un material de archivo de video al timeline, al cuál, podremos agregar una 
+	
+	ó más máscaras
+
+
+	_para luego, seleccionar la layer, de video e ir al panel "Mocha Import +", y darle a la opción de 
+
+	"Track in Mocha", para que así, se abra mocha en el material de archivo cargado y las máscara se cargará 
+
+	como una layer, de selección nativa de mocha
+
+	_
+
+
+
+
+
+ 

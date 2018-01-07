@@ -1,0 +1,80 @@
+
+
+
+
+malty: Simple Camera Rig
+
+
+	Referencia:
+
+		http://aescripts.com/malty-simple-camera-rig/
+
+
+	
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste hace una cámara automatizada para lograr movimientos más controlables a través, de controles graduales
+
+	por medio de un plugins
+
+
+	
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer animaciones más cinematográficas y profesionales al permitirnos hacer mivimientos más estables
+
+	y predeterminables por nosotros y mucho más rápido, otros
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+	
+	
+	_para ésto sólo necesitamos tener una escena ó composición creada, con las layers, deseadas creadas ó no
+
+
+
+Simple Camera Rig:
+__________________
+
+
+	_de ésta manera para crear un sistema de "Simple Camara Rig", sólo tenemos que llamar ha su acceso directo en:
+
+
+		_FxPro/0_Navegation and Workflow/Simple Camara Rog V2.05
+
+
+		_ó yendo directamente ha "File/Scripts/Malty_Simple_Camara_Rig_V2.05"
+
+
+
+	_así, se crearán en la composición los siguientes elementos:
+
+
+		_una cámara "malty:Rigged Camara"
+
+
+		_así, como un "null object", éste es "Null Script Cam"
+
+
+			_con el cuál, controlaremos el sistema a través, de un plugins asignado ha éste
+
+
+		_así, como también, se crearán tres más "null objects", éstos son "Null Scripts Cam", una para cada
+
+		proyección de cámara "X,Y,X", éstos estarán ocultos por defecto en la composición
+
+
+

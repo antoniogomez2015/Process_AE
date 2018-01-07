@@ -1,0 +1,130 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria el efecto "Zoom", concéntrico a partir de un punto y a su vez, con un desenfoque
+
+	direccional al centro
+
+
+	_éste efecto no permitirá realizar diferentes tipos de efectos a su vez como el de "star treck", transiciones,
+
+	otros
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Light Burst 2.5: (Estallido de Liz 2.5 CC)
+	__________________
+
+
+		_Center:
+
+			_ésta opción nos permitirá indicar el punto ó epicentro a partir del cuál, se comenzará ha 
+
+			generar el sistema a través, de un handle, el cuál, podremos personalizar su posición
+
+
+		_Intensity:
+
+			_ésta opcíón nos permitirá atenuar ó aumentar la intensidad del destello luminicente del efecto 
+
+			sobre la imágen más no sobre el efecto de desenfoque ó rayos zoom
+
+
+		_Ray Length:
+
+			_ésta opción nos permitirá variar ó personalizar la longitud ó tamaño de los rayos generados para
+
+			conformar el sistema
+
+
+
+		_Burst:
+
+
+			_Straight:
+
+				_ésta opcíon generará el efecto con un poco de zoom, ó acercamiento sobre la imágen
+
+
+			_Fade:
+
+				_ésta opcíon generará el efecto con un el mínimo efecto zoom, ó acercamiento sobre 
+
+				la imágen, ésta es la opción por defecto y la más recomendada
+
+
+			_Center:
+
+				_ésta opcíon generará el efecto con un efecto zoom, negativo sobre la imágen lo que 
+
+				causará un marco de desenfoque sobre la imágen resultante
+
+
+
+		_Helo Alpha:
+
+			_ésta opción permitirá que el efecto sólo se genere a través, del canal alpha, de imágen lo cuál,
+		
+			es especialmente útil para una serie de procesos de paso continuo y de producción
+
+
+		_Set Color:
+
+			_ésta opción nos permitirá activar el relleno de efecto con un color personalizable por nosotros
+
+
+		_Color:
+
+			_ésta opción nos permitirá seleccionar un color para el rellenado del color a activado en el paso 
+
+			anterior través, de un  color picker, yn un selector de colores desplegable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

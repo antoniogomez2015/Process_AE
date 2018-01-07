@@ -1,0 +1,114 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Matte Effects:
+	______________
+
+
+	_Color Difference Key: (Incrustación de diferencia de color)
+
+		_éste efecto nos permitirá extender ó retraer los bordes de entre la imágen visible y la imágen 
+
+		eliminada u oculta lo cuál, nos permitirá eliminar bordes indeseados en el pos poceso de keygin
+
+		_más también, nos permnitirá crear bordes para adicionales para diferentes procesos de paso 
+
+		contínuo y producción
+
+
+
+	_Matte Chocker: (Retractorde Mate)
+
+		_éste efecto nos permitirá extender ó retraer los bordes de entre la imágen visible y la imágen 
+
+		eliminada u oculta lo cuál, nos permitirá eliminar bordes indeseados en el pos poceso de keygin
+
+		_más adicionalmente éste efecto nos permitirá corregir ó mejorar el matte, resultante del proceso 
+
+		de keygin, entre otros mattes, posibles de ésta manera, podremos eliminar el ruido e imperfecciones 
+
+		ó agujeros entre otras posibles irregularidades en el matte, resultante
+
+
+
+	_Refine Soft Matte: (Indeterminado)
+
+		_éste efecto nos permitirá recuperar gran parte del detalle fino y en general del proceso del keygin, 
+
+		y mattes, en general
+
+		_de ésta manera, podremos recuperar elementos complejos, finos y de alto detalle como cabellos, 
+
+		mechones, fibras, otros, de una manera, natural e integrado y libre en gran manera, de "spill", 
+
+		ó contaminación del color eliminado de la imágen
+
+		_así, como también, libre de extensión de matte, ó del proceso de "Chocker", de ésta manera, 
+
+		podremos obtener grandes resultados al recuperar la información perdida en la mayoría de procesos 
+
+		de keygin, en general
+
+
+
+	_Refine Hard Matte: (Indeterminado)
+
+
+		_éste efecto nos permitirá ha diferencia de recuperar detalles finos como el efecto "Refine Soft Matte",
+
+		el efecto "Refine Hard Matte", nos permitirá recuperar en gran manera el "Matte", en general del proceso 
+
+		del keygin, y mattes, en general
+
+		_de ésta manera, podremos utilizar éste efecto en conjunto con el efecto de "Matte/Matte Chocker", para
+
+		que así, aumentamos las posibilidades de obtener un matte, más corregido y con menos imperfecciones un su
+	
+		área perimetral más allá de los bordes de entre la imágen visible y la imágen oculta ó eliminada
+
+		_así, como también, de unos bordes más suvizados en integrados con las demás layers, de la composición
+
+		respectiva, otros
+
+
+	
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

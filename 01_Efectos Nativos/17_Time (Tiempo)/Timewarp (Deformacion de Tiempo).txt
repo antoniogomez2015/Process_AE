@@ -1,0 +1,575 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/time-effects.html#echo_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Deformación de tiempo le proporciona un control preciso sobre un gran número de parámetros al 
+
+	cambiar la velocidad de reproducción de una capa, lo que incluye métodos de interpolación, desenfoque 
+
+	de movimiento y recortes de origen para eliminar efectos no deseados. 
+
+	
+	_Puede utilizar el efecto Deformación de tiempo para crear resultados simples a cámara lenta o cámara 
+
+	rápida o cambios de temporización más complejos. El efecto Deformación de tiempo funciona 
+
+	independientemente del definidor de Combinación de fotogramas en el panel Línea de tiempo.
+
+
+
+
+	Nota: El efecto Deformación de tiempo no funciona en los campos del material del archivo entrelazado. 
+
+	Para usar el efecto Deformación de tiempo en una capa cuyo origen es un elemento de material de archivo 
+
+	entrelazado, duplique la velocidad de fotogramas en los ajustes de la composición. Al procesar la salida 
+
+	final, modifique los ajustes de procesamiento en el panel Cola de procesamiento para establecer la 
+
+	velocidad de fotogramas adecuada al tipo de salida.
+
+
+	_El efecto Deformación de tiempo se basa en Kronos, un componente del paquete de software Furnace de 
+
+	The Foundry. Para obtener información detallada sobre los vectores de movimiento y los parámetros de 
+
+	estimación de movimiento, consulte la documentación de Furnace (en PDF) que encontrará en el sitio Web 
+
+	de Foundry.
+
+
+	Este efecto funciona con colores de 8 bpc y 16 bpc. En After Effects CS6, este efecto funciona con color 
+
+	de 32 bpc.
+
+	
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+	
+
+	Timewarp: (Deformacion de Tiempo)
+	_________
+
+
+		_Method:
+
+
+			Intro: Cuando se cambia la velocidad de fotogramas, la información de la imagen debe 
+
+			crearse (interpolarse) para los fotogramas que se encuentran entre los fotogramas 
+
+			originales de una imagen. El ajuste Método determina cómo se generan los fotogramas 
+
+			interpolados:
+
+
+
+			_Whole Frames:
+
+				_(Fotogramas enteros), Duplica el último fotograma mostrado.
+
+
+			_Pixel Motion:
+
+				_(Movimiwnto de piexeles), Crea un nuevo fotograma analizando el movimiento de los 
+
+				píxeles en los fotogramas circundantes y creando vectores de movimiento. 
+
+				
+				_Los vectores de movimiento representan el movimiento de un píxel o bloque de 
+
+				píxeles desde un fotograma al siguiente. Las imágenes entre los fotogramas se 
+
+				interpolan con estos vectores.
+
+
+			_Pixel Mix:
+
+				_(Mezcla de fotogramas), Crea un nuevo fotograma mediante la fusión de fotogramas 
+
+				existentes.
+
+
+
+
+		_Adjust Time By:
+
+
+			__Elija Velocidad para especificar un ajuste de tiempo como porcentaje.
+
+
+
+			_Speed:
+
+				_(cambiar el vlor de la velocidad de una layer, animada, opción por defecto)
+
+
+				_el modo "Speed / Velocidad", le permite animar la propiedad  de la Velocidad, 
+
+				también, para cambiar el factor de reasignación de tiempo con el tiempo.
+
+
+				_De forma predeterminada, la Velocidad está definida en un valor de "50", para una 
+
+				reducción del 50%, de la velocidad. 
+
+
+				_Este ajuste crea nuevos fotogramas a un cuarto y tres cuartos de intervalo de 
+
+				fotogramas desde un fotograma original, en lugar de usar un fotograma original 
+
+				y un fotograma generado recientemente. 
+
+
+
+			_Source Frame:
+
+				(actúa sobre el valor de movimiento de una layer, animada, como composición ó video)
+
+
+				_Elija la opción de "Source Frame / Fotograma de origen" para especificar un ajuste
+
+				de tiempo mediante la identificación del fotograma de origen que se debe reproducir
+
+				en un momento dado. 
+
+
+				_Si elige "Fotograma de origen", para Ajustar tiempo por, debe animar la propiedad 
+
+				Fotograma de origen para realizar cualquier acción que no sea congelar un fotograma
+
+
+				_es decir, que la layer, sobre la cuál, le hemos aplicado el efecto debe de estar 
+
+				en movimeinto sea éste a través, de layers, pre compuestas ó un video ó render
+
+				previamente renderizado como un recurso externo al efecto de "Timewrap"
+
+
+		
+
+
+		_Speed:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos hacer variaciones sobre la
+
+			velocidad de reproducción de una layer, animada en el timeline
+
+
+			_de ésta manera, si indicamos un valor de "Speed", de "0", la layer, no se moverá y 
+
+			permanecerá estática
+
+
+			_más si indicamos un valor de por ejemplo de un "50", la animación de la respectiva layer,
+
+			se reproducirá al "50%", de su valocidad normal ó asignada originalmente
+
+
+			_más si indicamos un valor de "100", la respectiva layer, se reproducirá a un "100%", de
+
+			su velocidad de animación original
+
+
+			_más si indicamos un valor superior ha "100", por ejemplo, de un "150", la respectiva
+
+			layer, se repoducirá a un "50%", más rápido de su velocidad original
+
+
+			NOTA: ésta opción sólo estará disponible cuando la opción de "Adjust Time By/Speed", esté
+
+			seleccionada
+
+
+
+		_Source Frame:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la proporción ó velocidad a la
+
+			cuál, deseamos se reproduzca la animación ó movimiento encontrado en la layer, ó 
+
+			composición ó video seleccionada y a la cuál, le hemos aplicado el efecto
+
+			
+		_Tuning:
+
+
+			_Vector Detail:
+
+				_Determina el número de vectores de movimiento que se usan durante la interpolación. 
+
+				Cuantos más vectores se usen, mayor será el tiempo de procesamiento. Un valor de 100 
+
+				produce un vector por píxel. 
+
+
+				_Si la capa tiene un movimiento rápido, puede tener un mejor aspecto con un ajuste 
+
+				de Detalle de vector más bajo.
+
+
+
+			_Smoothing:
+
+
+				Intro: Estos controles afectan al enfoque de la imagen:
+
+
+
+
+				_Global Smoothness:
+
+					_ésta opción nos permitirá agregar desenfoque global sobre la imágen
+
+
+				_Local Smoothness:
+
+					_ésta opción nos permitirá agregar desenfoque específico por movimiento
+
+					detectado sobre la imágen
+
+
+				_Smoothing Iterations:
+
+					_ésta opción nos permitirá indicarle al sistema la iteración ó la cantidad
+
+					de veces que realizará el sampleo ó análisis 
+
+
+					_de ésta manera, el sistema podrá tener más ó menos información para la 
+
+					realización del proceso
+
+
+					_lo cuál, a su vez, requerirá más recursos del sistema ó no
+
+
+				_Build From One Image:
+
+					_Genera el resultado final a partir de un único fotograma más cercano 
+
+					opuesto a los dos fotogramas más cercanos. El resultado es una imagen más 
+
+					nítida, pero con un movimiento más irregular.
+
+
+				_Current Luminance Changes:
+
+					_Ecualiza la luminancia entre fotogramas antes de calcular el movimiento.
+
+
+
+				_Filtering:
+
+
+					_Intro: Calidad de los filtros utilizados para construir una imagen 
+
+					interpolada. Extrema aumenta en gran medida el tiempo de procesamiento. 
+
+
+					La opción Filtro afecta al enfoque de la imagen final. Use el modo Normal 
+
+					hasta que esté preparado para el procesamiento final.
+
+
+
+					_Normal:
+
+						_ésta opción nos permitirá indicarle al sistema la calidad ó 
+
+						resolución aplicada el filtro de las imágenes ó frames
+
+
+						_ésta opción es recomendada para el procesos de edición y ajustes
+
+						del efecto
+
+
+					_Extreme:
+
+						_ésta opción nos permitirá indicarle al sistema la calidad ó 
+
+						resolución aplicada el filtro de las imágenes ó frames
+
+
+						_ésta opción es recomendada para el procesos final y de render
+
+
+				_Error Threshold:
+
+					_Determina la precisión de un píxel equiparando un fotograma con el 
+
+					siguiente. Un valor más alto provoca menos vectores de movimiento y más 
+
+					combinación.
+
+
+					Nota: Si observa que el borde rompe en la imagen, prueba a aumentar el 
+
+					Umbral de error para obtener una mayor fusión. 
+
+
+					_Si la imagen tiene un granulado grueso, pruebe a reducir el Umbral de 
+
+					error para que se ignore el movimiento de bajo nivel del granulado.
+
+
+				_Block Size:
+
+					_Ajuste el tamaño de los bloques utilizados para calcular los vectores.
+
+
+
+				_Weighting:
+
+				
+					_Intro: Controla la ponderación de los canales rojo, verde y azul en los 
+
+					cálculos utilizados para analizar la imagen. Por ejemplo, el ajuste de 
+
+					Ponderación roja y Ponderación verde a cero significa que solo se analiza 
+
+					el canal azul para el movimiento.
+
+
+
+					_red Weight:
+
+						_ésta opción nos permitirá indicarle al sistema cuál, será el valor
+
+						para el canal rojo, de la ponderación para la creación del sistema
+
+
+					_Green Weight:
+
+						_ésta opción nos permitirá indicarle al sistema cuál, será el valor
+
+						para el canal verde, de la ponderación para la creación del sistema
+
+
+					_Blue Weight:
+
+						_ésta opción nos permitirá indicarle al sistema cuál, será el valor
+
+						para el canal azul, de la ponderación para la creación del sistema
+
+
+			_Motion BLur:
+
+
+				_Enable Motion Blur:
+
+					_éta opción nos permitirá indicarle al sistema que habilite el desenfoque
+
+					de movimiento para el sistema
+
+
+				_Shutter Control:
+
+
+					_Manual:
+
+						_ésta opción nos permitirá indicarle al sistema que indicaremos
+
+						los parámetros para el cálculo de desenfoque de forma manual
+
+
+					_Automatic:
+			
+						_ésta opción nos permitirá indicarle al sistema que éste calcule
+
+						los parámetros para el desenfoque generado de forma automática
+
+				_Shutter Angle:
+
+					_Determina la intensidad del desenfoque de movimiento. El ángulo del 
+
+					obturador se mide en grados, simulando la exposición creada por un 
+
+					obturador mientras gira. 
+
+
+					_El tiempo de exposición simulada se determina dividiendo el ángulo del 
+
+					obturador por la velocidad de fotogramas multiplicada por 360°. 
+
+
+					_Por ejemplo, un ángulo del obturador de 90° crea una exposición de 1/96 
+
+					de segundo por fotograma: 90° / (360° * 24 fps).
+
+
+				_Shutter Samples:
+
+					_Controla la calidad del desenfoque del movimiento. Un valor más alto 
+
+					provoca un movimiento más suave.
+
+
+			_Matter Layer:
+
+				_Capa que se va a usar como mate para el primer plano y el fondo de la imagen. 
+
+
+				_Las zonas en blanco del mate representan el primer plano, las negras representan 
+
+				el fondo y el gris se atenúa entre el primer plano y el fondo.
+
+
+			_Matte Channel:
+
+
+				_Luminance:
+
+					_ésta opción nos permitirá indicarle al sistema el algoritmo de cálculo
+
+					para la generación del sistema, en éste caso el sistema utilizará la 
+
+					luminancia de la imágen
+
+
+				_Invert Luminance:
+
+					_ésta opción nos permitirá indicarle al sistema el algoritmo de cálculo
+
+					para la generación del sistema, en éste caso el sistema utilizará la 
+
+					luminancia invertida de la imágen
+
+
+				_Alpha:
+
+					_ésta opción nos permitirá indicarle al sistema el algoritmo de cálculo
+
+					para la generación del sistema, en éste caso el sistema utilizará el canal
+
+					alpha, de la imágen
+
+
+				_Invert Alpha:
+
+					_ésta opción nos permitirá indicarle al sistema el algoritmo de cálculo
+
+					para la generación del sistema, en éste caso el sistema utilizará el canal
+
+					alpha, invertido de la imágen
+
+
+			_Wrap Layer:
+
+				_Permite deformar la capa a la que se aplica el efecto mediante la aplicación de 
+
+				los vectores de movimiento de la capa que se elija.
+
+
+			_Show:
+
+				_Intro: Controla de parte de la capa a la que se le va a reasignar el tiempo.
+
+
+
+				_Normal:
+
+					_mostrar original
+
+
+				_Matte:
+
+					_mostrar matte
+
+
+				_Foreground:
+
+					_mostar primer plano
+
+
+				_Background:
+
+					_mostrar fondo
+
+
+
+			_Source Crops:
+
+
+				_Intro: Si la imagen contiene píxeles o artefactos no deseados en los bordes, 
+
+				utilice Recortes del origen para determinar los límites de la imagen. Los píxeles 
+
+				de los límites se repiten para rellenar la zona por fuera de los límites hasta 
+
+				los bordes de la capa.
+
+
+
+				_Left:
+
+					_límite de la izquierda
+
+
+				_Right:
+
+					_límite de la derecha
+
+			
+				_Buttom:
+
+					_límite inferior
+
+
+				_Top:
+
+					_límite superior
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

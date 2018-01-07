@@ -1,0 +1,70 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear la sintetización del color y las formas sobre una layer, de ésta manera,
+
+	podremos limitar la cantidad de colores con la cuál, es representada una imágen así, por ejemplo, una imágen
+
+	podrá sintetizarle ha "3", colores lo cuál, aplanará los colores y sintetizará los tonos y por ende tanbién,
+
+	las formas detalladas de la imágen, creadno así, sólo zonas simplificadas y con colores planos
+
+	
+	_lo cuál, es especialmente útil para un sin número de efectos y de procesos de paso contínuo y de producción,
+
+	ésta opción es una variante de lo que se pueda hacer también, con el efecto de "effects/stylize/cartton"
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Posterize: (Posterizacion)
+	__________
+
+
+		_level:
+
+			_ésta opción nos permitirá indicar la cantidad de colores mínima ha simplificar la imágen
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,67 @@
+
+
+
+Efecto sifon ó metaball en shapes en after effects
+
+
+	Referencia:
+
+		Unión Líquida - Tutorial After Effects
+
+			https://www.youtube.com/watch?v=Mc53klpcN84
+
+
+		Logo Liquido After Effects Tutorial
+
+			https://www.youtube.com/watch?v=Y4dhaVmqsNE
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	_primero debemos crear las shapes, ó formas y animarlas, éstas deben interceptarse ó al menos acercarse
+
+	hasta el punto de mínimo tocarse entre si
+
+
+	_luego, debemos aplicarle ha ésta layers, de shapes, ó a una layers de "ajustment", el siguiente effect:
+
+
+		"Effects/Blur & Sharpen/Gaussian Blur"
+
+	al cuál, le colocaremos un valor entre "40 y 60"
+
+
+	_para luego ha esa misma layer, aplicar otro efecto, éste es el "retractor de mate"
+
+
+		_"Effect/Matte/Matte Choker"
+
+
+	_al cuál, le colocaremos los siguientes valores de configuración para éste se comporte correctamente y
+
+	nos permita generar el efecto de posterizado del blur que causará el efecto sifón ó metaball
+
+
+	Matte Choker:
+	_____________
+
+
+		_Choke 1:
+
+			_debemmos colocar valores cercanos ha "0", ó incluso valores negativos "-5", ésto 
+
+			permitirá aumentar el efecto de sifón ó metaball
+
+
+		_Gray Level Softness 1:
+
+			_éste valor debenos colocarlo en "0%", si deseamos una alta acutancia entre las formas
+
+			generadas y el efecto sifón ó metaball
+
+
+
+
+

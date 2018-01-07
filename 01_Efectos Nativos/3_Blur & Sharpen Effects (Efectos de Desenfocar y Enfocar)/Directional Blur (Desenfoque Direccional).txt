@@ -1,0 +1,95 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permitirá ir más allá que en los casos de los otros efectos de desenfoque que disponen de
+
+	la opción de "Blur Dimensions | Horizontal and Vertical"
+
+
+	_ya que el efecto de "Directional Blur", nos permitirá crear desenfoque no sólo tanto verticalmente como 
+
+	horizontalmente si no que también, podremos hacer desenfoques en cualquier dirección la cuál, podremos
+
+	graduar ó calibrar en grados específicos
+
+
+
+	Utilidad:
+
+	_a través, del efecto de directional blur, podremos emular e referenciar movimientos en determinadas layers,
+
+	de animación a través, de un doble efecto
+
+
+	_en el cuál, debemos debemos de duplicar la layer, motivo para que así, de ésta manera, en la layer, 
+
+	duplicada la cuál, esté más abajo en el timeline 
+
+	
+	_ha ésta le aplicaremos el efecto de directional blur, mientras que a la layer, duplicada que esté más 
+
+	arriba no le aplicaremos el efecto
+
+
+	_para posteriormente desplazar ó mover la layer, de abajo con el efecto en el sentido del movimiento y
+
+	desenfoque
+
+
+	_para posteriormente emparentar ésta layer, de abajo con el efecto aplicado, emparentarla a la layer, de 
+
+	arriba
+
+
+	_para que así, al animar la layer, de arriba; ésta layer, arrastre a la hora layer, de abajo con efecto 
+
+	lo cuál, aumentará el efecto de movimiento de forma exponencial
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Directional Blur: (Desenfoque Direccional)
+	_________________
+
+	_Direction:
+
+		_éste valor nos permitirá los grados de la dirección del desenfoque ha aplicar
+
+
+	_Blur Length:
+
+		_éste valor nos permitirá indicar la cantidad y longitud del desenfoque ha crear y aplicar
+
+
+
+
+
+
+

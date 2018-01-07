@@ -1,0 +1,225 @@
+
+
+
+
+Save Comp Ass Proyect_V2
+
+
+	Referencia:
+
+		http://aescripts.com/bao-dynamic-comp/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste nos permite guardar una composición del proyecto actual como un nuevo proyecto para que así, podamos tener
+
+	disponible ésta composición para su futura disposición más la característica de que la composición exportada la 
+
+	podemos modificar ó cambiar
+
+
+	_ésto quiere decir que si posteriormente ésta composición la abrimos en otros proyecto ésta la podremos actualizar
+
+	dinámicamente para que ésta actualize ó cargue los cambios hechos sobre ésta
+
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer relacionamientos dinámicos entre composiciones de diversos tipos, éstos es especialmente útil para
+
+	procesos en producción en los que se requiere el intercambio de composición y más si éstas son dinámicas
+
+
+	_ésto también, es especialmente útil para el reciclado de elementos y composiciones, otros
+
+
+	
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+	_primero debemos crear y guardar un nuevo proyecto ej: "mi proyecto"
+
+
+	_el sistema de composiciones dinámicas trabaja con una sóla composición dinámica a la vez, por ésta razon, en éste
+
+	proyecto combiene crear sólo una coma composición para evitar así, congestion de archivos y peso inecesario en el 
+
+	proyecto y su interacción con otros proyectos
+
+
+	_al exportar un composición para que ésta sea dinámica ésta composición se exporta dentro de un nuevo proyecto
+
+
+
+Dynamics Comp:
+______________
+
+
+	_de ésta manera en el proyecto creado creamos una composición a la cuál, le asignaremos un nombre caracteristico, ej:
+
+	"dynamic_source_1"
+
+
+	_así, en ésta composición desarrollaremos todo el contenido que sea dinámico e intercambiable con otros proyectos y 
+
+	composiciones, así podremos crear todas las layers, deseadas
+
+
+
+Export Composition:
+___________________
+
+
+	_antes de realizar éste paso tendremos que guardar el proyecto actual, shortcut "Control + S"
+
+
+	_para luego ir al panel proyecto y seleccionar en éste, la respectiva composición deseada a exportar y relacionar de
+	
+	de forma dinámica con otros proyectos y composiciones
+
+
+	_luego que tengamos la respectiva composición seleccionada en el panel proyecto vamos al panel "Dynamic Comp", en el cuál,
+
+	le daremos a la opción de "Export composition", para que así, nos aparezca una ventan topo prompt, en la cuál, debemos
+
+	indicar el nombre que le daremos al nuevo proyecto, ej: "Dynamic_Comp_Source", que se creará con la respectiva composición 
+
+	exportada dentro de éste así, como también, debemos indicar la ruta ó path, de exportación donde se guardará el proyecto 
+	
+	exportado
+
+
+	
+
+Proyecto de Desarrollo:
+_______________________
+
+
+	_así, a partir de los procesos anteriores podremos ahora si, utilizar cuantas veces sea necesario la composición dinámica
+
+	exportada previamente dentro del respectivo proyecto
+
+
+	_para ésto debemos crear un nuevo proyecto desde cero, ó mejor dicho que el nuevo proyecto no tenga nada que ver son el proyecto
+
+	original ó nativo
+
+
+	_por ésta razón debemos de crear un nuevo proyecto y guardar éste con un nombre ej: "proyecto_desarrollo", en el cuál, podremos 
+
+	desarrollar nuestras animaciones a partir de las composiciones necesarias según la lógica del proyecto
+
+
+
+Composición Importada:
+______________________
+
+	_más en el proyecto "proyecto_desarrollo", del ejemplo anterior podremos también, importar el proyecto con la composición dinámica, 
+
+	en éste caso es "Dynamic_Comp_Source", a parte de las composiciones creadas para que así, podamos mezclar la composición dinámica
+
+	con las demás composiciones en relación a la lógica del proyecto
+
+
+
+Look for Updates:
+_________________
+
+	_ahora en nuestro proyecto "proyecto_desarrollo", vamos al panel de "Dynamic Comp", y le damos ha "Look for Updates", para que así, el
+
+	sistema compruebe que composiciones se le han hecho modificaciones ó actualizaciones en momentos posteriores a su creación para que así,
+
+	éstas actualizaciones y modificaciones puedan ser cargadas en éste proyecto
+
+
+	_así, si hay composiciones a las cuales se ha hecho midificaciones en el tiempo el sistema nos indicará el nombre de ésta composición a 
+
+	través, de una ventana contextual para que así, podamos actualizar éstas en el panel "Dynamic Comp"
+
+
+
+Update Composition(s):
+______________________
+
+	_de ésta manera al saber cuál ó cuales composiciones se les ha hecho actualizaciones ó modificaciones en el tiempo a partir del paso anterior
+
+	podremos entonces ir al proyecto y seleccionar ésta respectiva composición para luego ir al panel "Dynamic Comp"
+
+
+	_y luego en el panel "Dynamic Comp", hacer "Update composiciones(s)", para que así, de ésta manera se actualizará la respectiva composición 
+
+	con la última actualización ó modificación realizada sobre ésta composición dinámica
+
+
+
+Clear Link:
+___________
+
+
+	_también, tenemos la posibilidad de desvincular las composiciones convertidas ha composiciones dinámicas para ésto, debemos de seleccionar las 
+
+	respectivas composiciones en el panel proyecto para luego ir al panel "Dynamic Comp", y hacer "Clear Link", asi, éstas composiciónes ya no 
+
+	obedecerán al relacionamiento dinámico
+
+
+
+Options:
+________
+
+
+	_aunado a las opciones anteriores de exportación de composiciones dinámicas, podemos incluir en éstas las siguientes opciones:
+
+
+	Collect files:
+
+		_ésta opción permite compilar todos los archivos relacionados con la composición exportada y relacionarlo dentro del nuevo
+
+		proyecto exportado con la respectiva composición
+
+
+	Link nested pre-comps:
+
+		_ésta opción permite vincular a las precomposiciones anidadas dentro de otras, para que éstas composiciones anidadas también,
+
+		sean composiciones dinámicas
+
+	
+	Incremented versions:
+
+		_ésta opción permite incluir las versiones de composiciones guardadas a través, de versiones para que éstas también, sean composiciones
+
+		dinámicas
+
+
+	Disable alert boxes:
+
+		_(indeterminado)
+
+
+
+
+
+
+
+
+

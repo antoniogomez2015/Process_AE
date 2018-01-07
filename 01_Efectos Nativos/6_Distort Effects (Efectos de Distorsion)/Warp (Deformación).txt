@@ -1,0 +1,212 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer distorsiones mútilples de diferentes modos y métodos ha modo bundle, de 
+
+	sistemas distorsión lo cuál, nos permitirá realizar la mayoría de distorsiones generales sobre layers e
+
+	imágenes
+
+
+	_de ésta manera, dispondremos a través, de un sólo efecto todos los modos de deformación de aplicaciones como
+
+	Photoshop, e Illustrator
+
+
+	_así, como también, podremos ver que éste efecto es un recopilatorio de la mayoría de los efectos nativos 
+
+	de distorsión de after effects, aunque con sus limitaciones y características propias de éste efecto
+
+
+	
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Warp: (Deformación)
+	_____
+
+
+		_Warp Style:
+
+
+			_Arc:
+
+				_éste modo distorsionará la imágen de forma arqueada simétricamente como todo un 
+
+				conjunto y hacia adentro y distorsionando a la vez, las áreas perimetrales opuestas
+
+
+			_Arc Lower/Upper:
+
+				_éste modo distorsionará la imágen de forma arqueada simétricamente como un todo 
+
+				y hacia afuer
+
+
+			_Arch:
+
+				_éste modo distorsionará la imágen de forma arqueada simétricamente como todo un conjunto
+
+				y hacia adentro pero sin distorsionar a su vez, las áreas perimetrales opuestas
+
+
+			_Bulge:
+
+				_éste modo distorsionará la imágen de forma de adentro hacia de afuera y de forma simétrica
+
+			inflando ésta, también se podría interpretar como un arqueo múltiple
+
+
+			_Shell Lower/Upper:
+
+				_éste modo distorsionará la imágen de forma de adentro hacia de afuera y de forma simétrica
+
+				y distorsionará la imágen más en el lado opuesto al alqueado la imágen permanecerá intacta
+
+
+			_Flag:
+
+				_éste modo distorsionará la imágen de forma ondulante lo cuál, podría emular el movimiento
+
+				sinuoso de una bandera
+
+
+			_Wave:
+
+				_éste modo distorsionará la imágen de forma ondulante al mnismo modo de "Flag", más ésta
+
+				opción nos desplazará lo border perimetrales de la imágen lo cuál, nos brindará otro tipo de
+
+				efectos sobre sólo los pixeles internos de la imágen
+
+
+			_Fish:
+
+				_éste modo distorsionará la imágen de forma de onda senoseidal de ésta manera, podremos hacer
+
+				graduaciones sobre que "seno", está más grande ó distorsionado que el otro así, como también,
+
+				alter éste proceso
+
+
+			_Rise:
+
+
+				_éste modo distorsionará la imágen de forma de desplazamientos de sus lados así, podremos 
+
+				crear una especie de "Skew", ó sesgado pero de forma sinuosa ó con una interpolación en forma 
+
+				de "S"
+
+
+			_FishEye:
+
+				_éste modo distorsionará la imágen de forma de inflado ó abombado de formandi así, sólo los 
+
+				pixeles internos de la imágen  y no los perimetrales lo cuál, nos permitirá realizar un sin 
+
+				número de efectos para producción y paso contínuo
+
+
+			_Inflate:
+
+				_éste modo distorsionará la imágen de forma de forma muy similar que "FishEye", más ésta
+
+				distorsión si contemplará los bordes perimetrales de la imágen lo cuál, es especialmente 
+
+				útil para crear efectos de tipo distorsión de "Barril", ó "Cojín"
+	
+
+			_Twist:
+
+				_éste modo distorsionará la imágen de forma de torsión concéntrica al centro lo cuál, sólo
+
+				contempla lo pixeles, internos de la imágen no los perimetrales de ésta lo cuál, es 
+
+				especialmente para hacer torsiones complementarias al efecto de twirl, nativo
+
+
+			_Squeeze:
+
+				_éste modo distorsionará la imágen de forma de similares al modo "Inflate", aunque éste
+
+				será más acusado en el sentido de horientación seleccionado
+
+
+
+	_Warp Axis:
+
+		_ésta opción nos permitirá indicar al sistema la orientación de la distorsión generada entre las que 
+
+		podremos indicar y utilizar son tanto la horizontal como la vertical
+
+
+	_Bend:
+
+		_ésta opción nos permitirá indicar la cantidad de efecto ó influencia de éste sobre la imágen orignal
+
+
+	_Horizontal Distortion:
+
+		_ésta opción nos permitirá indicar distorsión adicional fuera del parámetro "Bend", para que así, de
+
+		ésta manera, podremos hacer distorsiones más complejas para en éste caso hacer más ancha ó más angosta
+
+		las horizontales a partir si se indican valores negativos ó positivos
+
+		
+
+
+	_Vertical Distortion:
+
+		_ésta opción nos permitirá indicar distorsión adicional fuera del parámetro "Bend", para que así, de
+
+		ésta manera, podremos hacer distorsiones más complejas para en éste caso hacer más ancha ó más angosta
+
+		las verticales a partir si se indican valores negativos ó positivos
+
+
+
+
+	_Todas los modos de distorsión tiene un doble sentido de acción así, si un modo arquea hacia adentro con
+
+	valores positivos lo hará hacia afuera con valores negativos
+
+
+
+
+
+
+
+
+

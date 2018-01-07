@@ -1,0 +1,146 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá hacer virados y ajustes de color de forma más avanzada y de cierta manera más
+
+	específica que con las opciones de los efectos de "Change Colors", y "Cangue To Color"
+
+
+	_anque en el efecto "Channel Mixer", no podrmeos tono específico como los efectos indicados anteriormente,
+
+	si podremos hacerlos a través, de gamas de colores y combinaciones de ésta por canales de color de forma
+
+	integral
+
+
+	_de ésta manera, podremos hacer infinidad de combinaciones ó virados de color comprendidos dentro del 
+
+	especttro del "R/G/B"
+
+
+	_lo cuál, nos permitirá desde hacer correcciones sutiles y simples hasta completos virados de color entre
+
+	otras posibilidades dentro de un proceso de producción
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Channel Mix: (Mezclador de Canales)
+	____________
+
+	_Red-Red:
+
+		_ésta opción nos permitirá indicar la influencia del canal rojo como canal master de los rojos
+
+
+	_Red-Green:
+
+		_ésta opción nos permitirá indicar el ajuste ó virado de la gama de colores rojos ha colores verdes
+
+
+	_Red-Blue:
+
+		_ésta opción nos permitirá indicar el ajuste ó virado de la gama de colores rojos ha colores azules
+
+	
+	_Red-Const:
+
+		_ésta opción nos permitirá indicar una constante de color ó diminante ó filtro en éste caso rojo la
+
+		cuál, trabajará al unísono con el valor "Red-Const", en éste caso
+
+
+	_Green-Red:
+
+		_ésta opción nos permitirá indicar el ajuste ó virado de la gama de colores verdes ha colores rojos
+
+
+	_Green-Green:
+
+		_ésta opción nos permitirá indicar la influencia del canal verde como canal master de los verdes
+
+
+	_Green-Blue:
+
+		_ésta opción nos permitirá indicar el ajuste ó virado de la gama de colores verdes ha colores azules
+
+
+	_Green-Const:
+
+		_ésta opción nos permitirá indicar una constante de color ó diminante ó filtro en éste caso verde la
+
+		cuál, trabajará al unísono con el valor "Green-Const", en éste caso
+
+
+
+	_Blue-Red:
+
+		_ésta opción nos permitirá indicar el ajuste ó virado de la gama de colores azules ha colores rojos
+
+
+	_Blue-Green:
+
+		_ésta opción nos permitirá indicar el ajuste ó virado de la gama de colores azules ha colores verdes
+
+
+	_Blue-Blue:
+		
+		_ésta opción nos permitirá indicar la influencia del canal azul como canal master de los azules
+
+
+	_Blue-Const:
+
+		_ésta opción nos permitirá indicar una constante de color ó diminante ó filtro en éste caso azul la
+
+		cuál, trabajará al unísono con el valor "Blue-Const", en éste caso
+
+
+	_Monochrome:
+
+		_ésta opción nos permitirá convertir todo el sistema ha escala de grises emulando así, un blanco y
+
+		negro totalmente configurable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,127 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá teñir una imágen ó agregarle una dominante de color cambiando la información de
+
+	los pixeles originales de la imágen, de igual manera que el efecto de tint
+
+
+	_y al igual que los efectos de "Tint" , y "Tritone", más con la diferencia que el efecto cc toner, nos 
+
+	pemritirá ir más allá, al poder presentar las características ó configuraciones de los efectos tint, y 
+
+	tritone, al unísono en un mismo efecto  incluso, éste agrega un nuevo modo de edición de color el cuál, es 
+
+	el "Pantone", y el color sólido "Solid"
+
+
+	_de ésta manera, a través, del modo de edición de color por pantone, dispondremos ahora de hasta cinco
+
+	selectores de color
+
+
+	_los cuáles, obedecen a los siguientes criterios, "highlights/altas luces, brights/brillos, 
+
+	midtones/medios tonso, darktones/zonas oscuras, shadows/sombras"
+
+
+	_lo cuál, nos brindará un control más ámplio y específico la hora de configurar un color ó dominante
+
+	repectivamente ya que ahora dispondremos de más controles detalladas y específicos para afectar áreas
+
+	determinadas de una imágen
+
+
+	_y la opción de de color sólido nos pemrnitirá crear un diminante de color a través, de un sólo valor
+
+	lo cuál simplifica el proceso para muchos práctivos y rápidos así, como también, nos permitiría hacer 
+
+	un color sólido rápidamente para muchos procesos
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Toner: (Tonos CC)
+	_________
+
+
+		_Tones:
+
+			_ésta opción nos permitirá seleccionar un modo de color a através, del cuál, podremos 
+
+			realizar la edición respectivo de color
+
+
+		_Highlights:
+
+			_ésta opción nos permitirá indicar un color para las altas luces ó blancos de la 
+
+			imágen
+
+
+		_Brights:
+
+			_ésta opción nos permitirá indicar un color para los brillos de la imágen
+
+
+
+		_Midtones:
+
+			_ésta opción nos permitirá indicar un color para los medios tonos de la imágen
+
+
+		_Darktones:
+
+			_ésta opción nos permitirá un color para la saturación y negros de la imágen
+
+
+
+		_Shadows:
+
+			_ésta opción nos permitirá un color para las sombras y negros de la imágen
+
+
+		_Blend W. Original:
+
+			_ésta opción nos permitirá integrar ó fusionar el efecto con la imágen original
+
+			lo cuál, nos permnitirá hacer ajustes sutiles de color
+
+
+
+
+
+
+
+
+

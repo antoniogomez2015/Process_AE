@@ -1,0 +1,51 @@
+
+
+http://www.redefinery.com/ae/view.php?item=rd_ScriptLauncher
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / rd_Script Launcher 2
+
+
+	rd_Script Launcher 2:
+
+
+	-este nos permite navegar entre los plugins, 'o add/ons, instalados en el sistema así, como en otras
+
+	carpetas de nuestro equipo, ha modo del plugins, "The Commander",ó "Quick Menu"
+
+
+	_y no sólo navegar hasta la ubicación de los plugins, si no que también, nos permite ejecutar dichos
+
+	scripts, ó plugins, para poderlos utlizar en el programa
+
+
+	_de ésta manera éstos plugins, se abrirán en ventanas contextuales a parte de las del sistema incluso 
+
+	si éstos plugins, ya se encuentran configurados dentro de la interface, de after effects
+
+
+
+	Workflow:
+	_________
+
+
+	_para ésto, disponemos de un explorados en el cuál, a través, de un slider, podemos ir navegando hasta 
+
+	encontrar el plugins, deseado 
+
+
+	_así, como también, dispondremos de un "Search", en el cuál, podremos haer búsquedas personalizadas de 
+
+	los plugins, deseados (éste sistema relentiza y hasta compromete todo el sistema de after effects)
+
+
+	_así, como también, cambiar de carpeta ó ruta de las búsquedas, (éste sistema relentiza y hasta compromete 
+
+	todo el sistema de after effects)
+
+	

@@ -1,0 +1,82 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/utility-effects.html#grow_bounds_effect
+
+				https://helpx.adobe.com/es/after-effects/using/color-management.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+		Tutorial:
+
+			Extender limites de los objetos (Grow bounds) - After effects para principiantes
+				https://www.youtube.com/watch?v=qa8pdgAn-cY
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá convertir una imágen HDR, en una imágen normal ó de bajo rango dinámico
+
+
+	_El efecto Compresión resaltada HDR, comprime los valores de color en una imagen de rango dinámico alto para 
+
+	que se encuentren dentro del rango de valores de una imagen de rango dinámico bajo.
+
+
+	_Configure la cantidad de compresión ajustando la propiedad Nivel para el efecto. 
+
+
+	_Si el valor de nivel se establece en 100%, los valores de color se comprimen de forma que ningún píxel tenga
+
+	ningún valor de canal fuera del rango dinámico bajo de 0,0–1,0. 
+
+
+	_Con un ajuste de valor inferior a 100%, el efecto aún puede aportar algunos detalles en el rango visible de 
+
+	las zonas resaltadas y en sombra.
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	HDR Highlight Compander: (Compresion Resaltada HDR)
+	________________________
+
+
+		_Amount:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el umbral de compresión de la 
+
+			imágen resultante para convertir ésta en una imágen de bajo rango de inámico
+
+
+
+

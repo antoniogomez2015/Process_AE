@@ -1,0 +1,131 @@
+
+
+http://aescripts.com/immigration/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Immigration
+
+
+	Immigration:
+
+
+	-este nos permite importar material de archivo al panel proyecto de forma organizada y controlada para
+
+	que ésta información sea monitoriables
+
+
+	_para que de ésta manera ésta información pueda ser cambiada ó sustituible por contenido proxi, ó por
+
+	otro contenido relativo, de otro formato
+
+
+	_el sistema puede hacer un seguimiento de las rutas de los archivos tanto en el panel proyecto así, como
+
+	en el disco duro, ésto para hacer rápidamente sustituciones de secuencias de imagenes, otros
+
+
+	_éste plugins, es especialmente útil cuando hacer desarrollos en producción y trabajamos con altos volúmenes
+
+	de secuencias de imagenes ó renders en multicapa, otros
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener una composición de trabajo creada así, como también, debemos de tener importado
+
+	el material de trabajo al panel proyecto como imagenes, secuencias de imagenes, otros
+
+
+	_para luego, hacer uso de éste material en deferentes composiciones
+
+
+	_de ésta manera, podremos a través, del panel immigration, hacer seguimiento e intercambio de material de
+
+	archivo de forma gráfica y práctica, así, podríamos rápidamente sustituir una secuencia de imágenes por otros
+
+	que tengamos en disco, otros
+
+
+	Importar archivos:
+	__________________
+
+
+	_para ésto, disponemos de un botón de "Browse", en el cuál, podremos ubicar una ruta archivos del proyecto
+
+	así, como también, disponemos de una ruta de archivos frecuentes que hemos visitado anteriormente
+
+
+	_de ésta manera al ubicar una ruta nos aparecerá en la lista inferior todos los archivos y secuencias existentes
+
+	en ésta ubicación respectiva
+
+
+	_de ésta manera, podremos seleccionar una de éstas rutas ó nombres de archivos, en éste punto, si es una secuencia
+
+	de imagenes el panel en su parte inferior nos mostrará el frame rate, "Set Frame Rate:", así, como también, una
+
+	opción para editar el rango "Set Range:", para luego si, darle al botón "Import", para que así, éstas sean 
+
+	importadas al panel proyecto para ser utilizadas en las diferentes composiciones
+
+
+	Remplazar archivos:
+	___________________
+
+	_más si seleccionamos un archivo ó secuencia de imagenes en el panel proyecto, el botón "Import", del panel 
+
+	"Inmmigration", cambiará por "Replace"
+
+
+	_de ésta manera, ahora podremos seleccionar una imágen ó secuencia de la lista del panel "Inmmigration", y darle
+
+	ha "Replace", de ésta manera, el sistema remplazará ó sustituirá la secuencia ó archivo existente por el seleccionado
+
+	ó indicado por nosotros
+
+
+	Switch to Import Mode:
+	______________________
+
+	_éste botón nos permite ir deseleccionando los archivos ó secuencias de imágenes que tengamos seleccionadas en el panel
+
+	proyecto lo cuál es relativamente útil
+
+
+	Refresh item Count:
+	___________________
+
+	_éste botón nos permite actualizar los archivos relacionados a la hora de haber hecho cambios mútilples, otros
+
+
+	Preview Foele Matches:
+	______________________
+
+	_éte botón nos permite cambiar la interface, de la lista de archivos de arriba del panel "Inmmigration", para así,
+
+	ésta lista nos muestre a través, de cólores que antecederá al nombre del archivo ó secuencia con colores que van desde
+
+	el blanco - verde - rojo, para indicarnos si los enlaces están rotos ó si algunas de las turas ha sido modificada como
+
+	por ejemplo si en el panel proyecto ha una secuencia de imagenes la hemos metido dentro de una carpeta por ejemplo
+
+
+	Auto-Match Files:
+	_________________
+
+	_ésta opción nos petermite seleccionar entre una auto dectectación automática ó manual del cambio de las rutas de los
+
+	archivos y secuencias en ambas direcciones, sea en el panel proyecto con el disco del pc
+	
+
+
+

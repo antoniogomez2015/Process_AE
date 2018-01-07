@@ -1,0 +1,125 @@
+
+
+
+
+	Tracker ó Rastreo en After Effects
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	Diferencias entre "track/trackeo (rastreo) y sabilize/estabilizado": 
+	____________________________________________________________________
+
+
+
+	NOTA: (son lo mismo, la diferencia entre ellos es la posibilidad de aplicaciones de los mismos)
+
+
+
+
+	Estabilizado/stabilized:
+	________________________ 
+
+		(síntesis: estabiliza ó elimina los movimientos de la cámara) el estabilizado tiene el objetivo de optener 
+
+		datos de compenzación de movimiento, escala, rotación y perspectiva, los cuales se aplicarán directamente 
+
+		en la capa en la cual se aplicó el estabilizado
+
+
+
+	Rastreador/track:
+	_________________ 
+
+		(síntesis: captura los movimientos de la cámara y los almacena en una capa para luego ser utilizados), 
+
+		permite determinar a través del rastreo de pixeles las propiedades ó datos en escala, rotación y perspectiva,
+
+		los cuales se puden aplicar a cualquier capa ó propiedad de una capa ó plugin
+
+
+
+
+
+	Track/seguimiento - Stabilice motion/ estabilizado de movimiento:
+	_________________________________________________________________
+
+
+
+	ESTABILIZADO DE POSITION,ROTACION/POSITION,ROTACIÓN:
+	____________________________________________________
+
+
+ 
+	1.debe crearse un composición del mismo tamaño del clic de video, con la misma cadencia de fotogramas y aspecto 
+
+	de pixel
+
+
+
+	2.para iniciar el estabilizador: le damos click derecho al clic de video en la línea de tiempo y seleccionamos: 
+
+	"Stabilize Motion/estabilizado"
+
+
+
+	3.en el panel "Track/seguimiento", que se abre debemos seleccionar la opcion; Track Type: Stabilize, para así 
+
+	activar las opciones de estabilizado
+
+
+
+	4.la opción "Current Track/pista actual": permite indicar el bloque de almacenamiento de datos muestreados en las 
+
+	propiedades "Motion Trackers" - "Tracker1", creadas en el clic de video, así podremos crear varios blosques de 
+
+	datos de muestreo en nuestro clip, de video así como borrarlos (para crear nuevos bloques le daremos al botón: 
+
+	"Track Motion/seguir movimiento")
+
+
+
+	5.luego debemos seleccionar los criterios de cordenadas que utilizará la herramienta, estos son: Position/posición, 
+
+	Rotation/rotación, Scale/escala
+
+
+
+	6.ahora seleccionamos los pixeles a muestrear para el trackeo a través con el rectángulo interno y externo en el 
+
+	panel de capa (no alvidemos colocar en resolución completa el panel de composición para tener una mayor precisión 
+
+	en el muestreo de pixeles para el trackeo)
+
+
+
+	7.ahora colocamos el cabezal de la línea de tiempo en el princípio ó en el final de clip, en la ventana de capa para
+
+	comenzar con trackeo, sea hacia adelante ó hacia atras
+
+
+
+	8.ahora procedemos a trackear fotograma a fotograma ó track contínuo, tanto hacia adelante ó hacia atras
+
+
+
+	9.luego procedemos a "Apply/aplicar", las propiedades de "transformación", al clic de video, a continuación nos 
+
+	pedirá que indiquemos "Apply Dimensions/aplicar dimensiones"; debemos seleccionar en el menu contextual las 
+
+	cordenadas aplicar en "X", en "Y" ó en "X and Y" 
+
+
+
+	10.el destino del "Track Stabilize/ estabilizado de movimiento", siempre tendrá el destino de trackeo la misma capa 
+
+	de origen, osea el clip, de video
+
+
+
+
+
+

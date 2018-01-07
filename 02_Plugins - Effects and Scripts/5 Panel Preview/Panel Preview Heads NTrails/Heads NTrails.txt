@@ -1,0 +1,77 @@
+
+
+http://aescripts.com/headsntails/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/Heads NTrails:
+
+
+
+	_éste permite controlar la estructura de layers, en el timeline, para así, podamos hacer una mejor
+
+	distribución de éstas, por ejemplo, podemos hacer que éstas en vez, de comenzar en el frame, 1, lo
+
+	hacen en otros determinado sin necesidad de seleccionarlas ó modificarlas, otros
+
+
+	_así, como también, nos permitirá reajustar el tamaño ó duración del timeline
+
+
+	
+	Workflow:
+	_________
+
+
+	_primero debemos de tener creada una composición de trabajo
+
+
+	_luego debemos de tener creadas las layers, deseadas las cuales pueden ser de cualquier tipo
+
+
+	_para luego ir al panel "headsntails", en inicar los valores deseados, tengase en cuenta que el panel
+
+	hay un signo de interrogación de opciones avanzadas de configuración el cuál, podremos indicar si deseamos
+
+	hacer modificaciones en segundos ó frames, donde por lo general frames, es la más recomendada
+
+
+	Head:
+	_____
+
+
+	_ésta opción nos permitirá indicar en que segundo ó frame, deseamos que comiencen ó se ubiquen todas las
+
+	layers, de la composición
+
+	
+	_más si éstas ya se encuentran en un valor deferente del "0", entonces en el valor de "head", tendremos que
+
+	utilizar valores negativos para restar ha la posición actual hasta que ésta vuelva ha tomar el valor "0", u 
+
+	otro valor que desiemos
+
+
+	Tails:
+	______
+
+
+	_más éste valor permitirá extender en valores relativos el tamaño de la composición en el caso que desiemos
+
+	hacer un desface de las layers, que supere la longitud de la composición en el timeline
+
+
+	_para finalmente hacer "Let's Do This", sin la necesidad de tener que seleccionar las layers, deseadas el 
+
+	sistema se encargará de distribuir las layers, según el criterio indicado
+
+	
+	
+
+	
+
+	

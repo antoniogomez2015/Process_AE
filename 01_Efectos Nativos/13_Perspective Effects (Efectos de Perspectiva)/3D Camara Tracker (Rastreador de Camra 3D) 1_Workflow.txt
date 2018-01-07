@@ -1,0 +1,329 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/tracking-3d-camera-movement.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá recuperar la cámara con la cuál, se grabó el video al cuál, le hemos aplicado el
+
+	efecto para que así, podamos hacer un volcado de ésta cámara original en una nueva cámara en la composición 
+
+	respectiva la cuál, a su vez, emulará la cámara original y sus moviminetos y posiciones, otros
+
+
+	_más también, tendremos la posibilidad de crear planos y elementos en un punto determinado de la escena emulada
+
+	ó generada para que así, podamos hacer diferentes tipos de montajes en producción y procesos de paso contínuo
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+	
+	Workflow:
+	_________
+
+
+		Aplicación del efecto:
+		______________________
+
+		_para aplicar éfecto efecto ó sistema tenemos dos posibilidades la primero es yendo ha 
+
+		"Effects/Perspective", y allí, seleccionar la opción de "3D Camara Tracker", sobre una layer, de video 
+
+		ó de secuencia de imágenes
+
+
+		_la otra opción en yendo al panel "Window/Tracker", y allí, seleccionar opción de "Tracker Camara", para
+
+		que así, el sistema agrege a la respetiva layer, de video ó de secuencia de imágenes el efecto de 
+
+		"3D Camara Tracker"
+
+
+		_por ultimo podremos seleccionar la layer, en el timeline, y hacer "mouse right click", para que así,
+
+		nos aparezca un menú contextual en el cuál, podremos seleccionar la opción de "Track Camara", para que
+
+		así, el efecto de "3D Camara Tracker", sea aplicado a la layer, que hemos seleccionado de ésta manera, 
+
+		comenzará el proceos del análisis y trackeo de puntos de referencia
+
+
+
+		Análisis:
+		_________
+
+		_cuando aplicamos el efecto éste comenzará ha realizar el pre cálculo automáticamente sobre el clip, de
+
+		video ó secuencia de imágenes respectiva a través, de los dos pasos ó fases del proceso
+
+
+		_de ésta manera, podremos supervisar el proceso en la perte superior del efecto en el panel effects 
+
+		controls, en el cuál, podremos ver el avance frame to frame, del proceso de pre cálculo
+
+
+		_así, como también, dispondremos de dos botones "Cancel/Analyze", para cancelar y volver ha inicial el 
+
+		proceso y poder así, hacer ajustes en las configuraciones y parámetros del efecto 
+
+
+
+		_así, como también, tendremos la posibilidad de eliminar de ciertas partes del análisis borrando puntos 
+
+		de trackeo y de referencia no deseados a través, del tiempo
+
+
+		_para lo cuál, sólo tendremos que ir seleccionando puntos de trackeo uno ha uno, ó hacer una selección
+
+		de tipo lazo haciendo "mouse left click and drag", para que así, podamos enmarcar una serie de punto
+
+		ha eliminar en un punto del timeline, determinado
+
+
+
+		Recostruir Escena:
+		__________________
+
+		_de ésta manera, una vez hemos terminado el análisis correctamente en el paso anterior tendremos la 
+
+		posibilidad de crear en la escena emulada en la composición activa de after effects, nuevas cámaras 
+
+		extra, planos, textos, elementos de tipo nuls, de referencia, otros, los cuáles, podremos utilizar para 
+
+		diferentes procesos de composición, producción y paso contínuo
+
+
+			Perspectivas:
+			_____________
+
+			_de ésta manera, para crear elementos en la nueva escena emulada debemos primeramente de definir
+
+			un plano de perspectiva deseado a partir del cuál, se podrán diferentes tipos de elementos en 
+
+			escena
+
+
+			_para lo cuál, tendremos que seleccionar al menos "3", tres puntos de trackeo ó referencia los
+
+			cuáles, estén distribuidos en forma de triángulo ó similar para que así, el sistema conforme en
+
+			esa triandulación una "diana", de color rojo la cuál, nos mostrará el plano y perspectiva ha 
+
+			generar
+
+
+			_como también, en situaciones más complejas requeriremos seleccionar más de tres puntos de 
+
+			traceko ó referencia para lo cuál, podremos utilizar el modo de selección de tipo lazo, para lo
+	
+			cuál, debemos hacer uso del comando "mouse left click and drag", para que así, podamos hacer una
+
+			selección de puntos de trackeo personazada y más ámplica en una área deseada ha crear un plano 
+
+			de perspectiva ha través, de ésta selección extendida
+
+
+
+				Re Ubicación de la Diana:
+				_________________________
+
+				_la diana generada a través, de la selección de al menos tres puntos de trakeo ó 
+
+				referencia tiene en su centro un handle, ha modo de "X", ó puntero de selección a 
+
+				través, del cuál, podremos re ubicar ésta diana en un punto diferente al punto inicial
+
+				para que así, podamos ubicar la diana ó el punto de generación de nuevos elementos en 
+
+				una ubicación personalizada en relación a nuestras necesidades
+
+
+				_para lo cuál, sólo tendremos que hacer "mouse left click and drag", sobre el cursor
+
+				del centro de la diana y arrastrar ésta hasta una nueva ubicación
+
+
+
+				Re Escalado de la Diana:
+				________________________
+
+				_del mismo modo que en el paso anterior podremos re escalar el tamaño de la diana para 
+
+				lo cuál, sólo tendremos posarnos en el centro de la diana  con "Alt", para que así, el
+
+				cursos cambie ha dos flechas horizontales las cuáles, nos indicarán que podremos re 
+
+				escalar la diana ha un tamaño personalizado
+
+
+				_para que así, cuando estemos posados en el centro de la diana aplicar el siguiente
+
+				comando "Alt + mouse left click and drag", para que así, la diana adopte una tamaño
+
+				personalizado en relación a la apreciación que necesitemos
+
+
+
+			Create Text and Camara:
+			_______________________
+
+			_tenemos la posibilidad una vez hemos terminado el proceso del análisis de los puntos de trackeo
+
+			de recostruir una cámara que emulará los movimientos de la cámara original del clip, de video
+
+			como también la de crear una layer, de tipo text a la vez la cuál, hará de elemento de 
+
+			referencia el cuál, se creará en el plano de perspectiva que hemos seleccionado en el paso 
+
+			anterior a través, de la "diana", personalizada
+
+
+			_de ésta manera, para crear ésta nueva cámara y texto, debemos primeramente de haber definido
+
+			un plano de perspectiva a través, de una "diana", para a continuación hacer "mouse right click",
+		
+			y poder seleccionar así, la opción de "Create Text and Camara", para que así, de ésta manera,
+
+			éstos nuevos elementos sean agregados a la composición respectiva
+
+
+			NOTA: el punto de generación de elementos en la escena será el punto de convergencia entre los
+
+			tres puntos de referencia seleccionados previamente para la generación del proceso 
+
+
+
+			Create Solid and Camara:
+			________________________
+
+			_ésta opción es idéntica a la opción anterior más en éste caso serán creados un layer, de tipo
+
+			"solid", y una cámara la cuál, capturará el movimiento y rotación de la cámara original del
+
+			clip, de video sobre el cuál, hemos aplicado el efecto
+
+
+
+			Create Null and Camara:
+			_______________________
+
+			_ésta opción es idéntica a la opción anterior más en éste caso serán creados un layer, de tipo
+
+			"null", y una cámara la cuál, capturará el movimiento y rotación de la cámara original del
+
+			clip, de video sobre el cuál, hemos aplicado el efecto
+
+
+
+			Create Shadow Catchet, Camara and Light:
+			________________________________________
+	
+			_ésta opción es similar a la opciones anteriores más en éste caso serán creados tres layers, una
+
+			layer de tipo "soid", transparente la cuál, se encagará de recibir sombras como también, una
+
+			layer, de tipo "light", en caso de no existir una luz en la escena previamente y por último una 
+
+			cámara la cuál, capturará el movimiento y rotación de la cámara original del clip, de video 
+
+			sobre el cuál, hemos aplicado el efecto
+
+
+			
+			Create 3 Text Layer and Camara:
+			_______________________________
+
+			_ésta opción es idéntica a la opción de "Create Text and Camara", más en éste caso se crearán
+
+			cuatro "4", layer, de texto con números uno en cada punto de trackeo seleccionado más la cuarta
+
+			layer, de texto en el centro convergente de los tres puntos de referencia seleccionados más la
+
+			cámara adicionalmente
+
+
+
+			Create 3 Solid and Camara:
+			__________________________
+
+			_ésta opción es idéntica a la opción de "Create Solid and Camara", más en éste caso se crearán
+
+			cuatro "3", layer, de tipo solid, una en cada punto de trackeo seleccionado más la cámara 
+
+			adicionalmente
+
+
+
+			Create 3 Nulls and Camara:
+			__________________________
+
+			_ésta opción es idéntica a la opción de "Create Null and Camara", más en éste caso se crearán
+
+			cuatro "3", layer, de tipo null, una en cada punto de trackeo seleccionado más la cámara 
+
+			adicionalmente
+
+
+
+			Set Ground Plane and Origin:
+			____________________________
+
+			_ésta opción nos permitirá definir el origen del plano de tierra del sistema lo cuál, nos 
+
+			permitirá indicar le punto de exacto de generación y colocación de todo el sistema en general
+
+			
+			_en relación a su vez, a la grilla del viewport, del panel compositing, para que así, el sistema
+
+			no se crree deliveradamente en un lugar por defecto si no que en vez de eso 
+
+
+			_el sistema se cree en el lugar que le indiquemos en relación a nuestras necesidades
+
+
+
+			Delete Selected Points:
+			_______________________
+
+			_ésta opción nos permitirá eliminar puntos de trackeo ó referencia seleccionado más también, de
+
+			forma más práctica podremos hacer éste mismo proceso a través, del shortcut, "Del", cuando 
+
+			tengamos seleccionados los puntos de trackeo ó referencia ha eliminar a través, del tiempo
+
+
+
+
+	
+
+	
+
+

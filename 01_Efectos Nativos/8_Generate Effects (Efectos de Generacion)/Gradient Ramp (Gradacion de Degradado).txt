@@ -1,0 +1,109 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria crear rampas de dos colores degradados para fondos y diferentes procesos de
+
+	producción y paso contínuo
+
+
+	_éstos degradados de colores los podremos crear de forma linear ó de forma radial a través, de dos handles,
+
+	a través, de los cuáles podremos espaciar ó separar ambos colores bases
+
+
+	_de ésta manera, ambos colores serán gradados ó mezclados entre la distancia entre ambos handles
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste efecto nos permtirá crear degradados sobre una layer, éstas pendientes de degradado las podremos
+
+	personalizar tanto en posición y forma así, podremos crear pendientes lineales y radiales
+
+
+
+
+
+	Gradient Ramp: (Gradacion de Degradado)
+	______________
+
+
+		_Start of Ramp:
+
+			_ésta opción nos permitirá indicar tanto el inicio como la posición inicial del sistema del 
+
+			degradado ha generar
+
+
+		_Start Color:
+
+			_ésta opción nos permitirá indicar el color inicial del sistema
+
+
+		_End of Ramp:
+
+			_ésta opción nos permitirá indicar tanto el final como la posición final del sistema del 
+
+			degradado ha generar
+
+
+		_End Color:
+
+			_ésta opción nos permitirá indicar el color final del sistema
+
+
+		_Ramp Shape:
+
+			_ésta opción escoger entre generar una pendiente de degradado lineal ó radial
+
+
+		_Ramp Scatter:
+
+			_ésta opción nos permitirá incluir ruido en la pendiente de degradado generada
+
+
+		_Blend Width Original:
+
+			_ésta opción nos permtirá fusionar el efecto ó pendiente de degradado generada 
+
+			con la layer, base sobre la cuál, se ha aplicado el efecto respectivo
+
+
+		_Swap Colors:
+
+			_ésta opción nos permtirá invertir la posición de los colores del sistema
+
+
+
+
+
+
+
+
+
+

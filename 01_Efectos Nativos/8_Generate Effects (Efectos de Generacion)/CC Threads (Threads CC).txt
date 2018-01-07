@@ -1,0 +1,135 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria crear texturización para diferentes tipos de procesos de paso contínuo ó producción
+
+
+	_así, como también, podremos hacer ó crear mattes, altamente personalizables para otros pos procesos de ésta
+
+	manera, podremos crear diferentes procesos creativos para el constructivismo visual, otros
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Threads: (Threads CC)
+	___________
+
+
+		_Width:
+
+			_ésta opción nos pemritirá configurar el ancho general de las tiras de trapo ó del sistema
+
+			de ésta manera, si disminuimos el tamaño de las tiras, de ésta manera cabrán más tiras dentro
+
+			del sistema de forma horizontal
+
+
+		_Height:
+
+			_ésta opción nos pemritirá configurar el ancho general de las tiras de trapo ó del sistema
+
+			de ésta manera, si disminuimos el tamaño de las tiras, de ésta manera cabrán más tiras dentro
+
+			del sistema de forma vertical
+
+		
+		_Overlaps:
+
+			_ésta opcíón nos pemritirá controlar ó variar el patrón de las tiras para que así, éstas no
+
+			sean siempre trabadas en una misma dirección y sin variación en todo el patrón
+
+
+			_de ésta manera, podremos crear diferentes comportamientos del pantrón general lo que nos
+
+			permitirá integrar el sistema con otros procesos de producción y paso contínuo
+
+
+		_Direction:
+
+			_ésta opción nos permitirá rotar la dirección general del patrón  de tiras lo cuál, nos 
+
+			permitirá adaptar la orientación del patrón en relación a las necesidades de producción y de 
+
+			paso contínuo
+
+
+		_Center:
+
+			_ésta opción nos pemritirá mover todo el sistema del patrón a través, de un handle, para que
+
+			así, podamos aumentar las posibilidades del patrón el cuál, se comportará como un super módulo
+
+			el cuál, se comportará de forma sangrada ó como un algoritmo sin fin
+
+
+			_lo cuál, nos pemritirá adaptar el sistema general a todas nuestras necesidades de producción
+
+			ya que podremos colocar el área del sistema de interés en un lugar deseado por nuestro proyecto
+
+
+		_Coverage:
+
+			_ésta opción nos pemritirá graduar el ancho de las tiras de trapo de ésta manera, podremos
+			
+			hacer las tiras más delgadas ó más gruesas para que así, podamos crear diferentes efectos y
+
+			comportamientos entre las tiras y la imágen de fondo de otras layers
+
+
+		_Shadowing:
+
+			_ésta opción nos pemritirá integrar, activar ó desactivar las tiras transversales, 
+
+			perperndiculares ó cruzadas del sistema de ésta manera, podremos crear un sistema sólo con 
+
+			tiras paralelas 
+
+
+			_ó un sistema con tiras tanto paralelas como tiras perpendiculares ha modo de patrón de tela
+
+			así, como también, podrmeos crear punto medio con gradaciones de las tiras perpendiculares
+
+
+		_Texture:
+
+			_ésta opción nos permitirá agregar un ruido extra sobre la textura del patrón generado para
+
+			diferentes efectos y requerimientos de producción
+
+
+
+
+
+

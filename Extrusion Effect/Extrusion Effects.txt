@@ -1,0 +1,38 @@
+
+
+After Effects
+
+	a continuación se presentan diferentes opciónes para simular que un texto ó layer, tiene profundida ó
+
+	un efecto pseudo 3d, visual
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	_la primera opción es la utilización de los estilos de capa, yendo ha: 
+
+		"Layer/Layer Styles/Bevel and Emboss"
+
+
+	_otra opción de lograr un efecto similar es aplicando el efecto:
+
+		"Effects/Perspective/Bevel Alpha"
+
+	
+	_más un efecto complementario seria:
+
+		"Effects/Stylize/Color Emboss"
+
+
+	_otro efecto que puede ayudar ha acentuar éste efecto es:
+
+		"Effects/Perspective/Drop Shadow"
+
+
+	_más un efecto que llevará la extrusión ha otro nivel es:
+
+		"Effects/HitFilm/Generate/3D Extrusion"
+
+

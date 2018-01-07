@@ -1,0 +1,73 @@
+
+
+http://aescripts.com/project-cleaner/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Project Cleaner
+
+
+	Project Cleaner:
+
+
+	-este nos permite limpiar el proyecto el cuál, hayamos terminado la edición y composición del mismo
+
+	y desiemos guardarlo ó exportarlo
+
+
+	_ésta herramienta es muy útil para la optimización del proyecto de forma rápida y efectiva la cuál,
+
+	podremos ajustar ó tomar sólo los criterios deseados ha aplicar ó afectar sobre los elementos dentro
+
+	del panel project
+
+
+
+	Workflow:
+	_________
+
+
+	_primero debemos tener una ó varias composiciones de trabajo
+
+	
+	_así, como también, tener cargado diferentes tipos de archivos de trabajo en el panel proyecto, como 
+
+	imágenes, sólidos, folders, audio, video, composiciones vacías, otros
+
+
+	_para luego ir al panel "Project Cleaner", y seleccionar entre los diferentes criterios ó tipos de 
+
+	archivos ha escanear para que éstos sean limpiados ó eliminados los que sean redundantes ó que no se
+
+	hayan utilizado en ninguna de las composiciones existentes
+
+
+	Criterios:
+	__________
+
+
+		_Redundant:
+
+			_ésta opción permite eliminar material que está literalmente repetido y que el sistema 
+
+			podría funcionar igualmente con sólo una de éstas instancias
+
+
+		_Unused:
+
+			_ésta opción permite eliminar material que no ha sido usado en ninguna de las composiciones
+
+			existentes en el proyecto
+
+
+		_Empty:
+
+			_ésta opción permite eliminar elementos que estén vacíos dentro del panel proyecto como
+
+			lo pueden ser carpetas ó composiciones que no hayamos utilizado ó que estén vacías
+
+

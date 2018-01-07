@@ -1,0 +1,18 @@
+
+
+ventana nativa de after effects
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Flowchart
+
+
+	Flowchart:
+
+
+	_este nos permite ver el flujo de las composiciones creadas dentro del proyecto de forma gráfica
+		

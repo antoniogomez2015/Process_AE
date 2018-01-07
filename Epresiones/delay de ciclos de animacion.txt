@@ -1,0 +1,34 @@
+
+
+
+
+Expresiones para After Effects
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Expresiones - Tutorial After Effects
+
+	hthttps://www.youtube.com/watch?v=uYrJuisklPY
+
+
+	_así 
+
+	-----------------------------------------------------------------------------------------------------
+
+		Expression: 
+
+		Expression: time*100
+
+
+	----------------------------------------------------------------------------------------------------
+
+	_de ésta manera la propiedad animada se repetirá indefinidamente con una valor en intensidad en pixeles
+
+
+
+		

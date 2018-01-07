@@ -1,0 +1,65 @@
+
+
+http://aescripts.com/trim-to-comp-contents/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/Trim Comp to Contents:
+
+
+
+	_éste permite recortar la duración del timeline, através, del contenido de layers, en la respectiva
+
+	composición como también, de las layers, seleccionadas
+
+	
+	_ésto permitede una for práctiva ajustar el tamaño de una composición a través, de una deliminación
+
+	de las layers, de interés entre otras posibilidades
+
+
+	
+	Workflow:
+	_________
+
+
+	_primero debemos de tener creada una composición de trabajo
+
+
+	_así, como también, las layers, que conformarán nuestra composición
+
+
+
+	Trim To All:
+	____________
+
+		_ésta opción contemplará la duración de todas las layers, existentes en la escena para hacer
+
+		una media de duración general de la nueva duración de la composición resultante
+
+
+	Ignore Lockerd Layers:
+	______________________
+
+		_ésta opción ignorará las layers, que se encuentren bloqueadas para estimar sin éstas la duración
+
+		de la nueva duración de la composición resultante
+
+
+	Preserve Comp Start Time:
+	_________________________
+
+		_ésta opción tomará como punto de partida el comienzo de la composición y no hará recorte antes 
+
+		del frame, "0", al hacer la ponderación entre la duración de las layers, existentes en la 
+
+		composición para calcular la nueva duración de la composición resultante
+
+
+	
+
+						

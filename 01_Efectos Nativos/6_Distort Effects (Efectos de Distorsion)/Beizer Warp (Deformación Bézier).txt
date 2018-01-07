@@ -1,0 +1,88 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer distorción sobre la layer, a través, de cuatro puntos, uno a cada esquina
+
+	de la imágen y a su vez, cada uno de éstos puntos de control dispone de dos handles, cada uno a través, de
+
+	los cuáles, podremos hacer deformación gradual y controlada sobre la imágen
+
+
+	_de ésta manera, podremos ver que éste efecto es especialmente útil para hacer deformaciones sinuosas ó de
+
+	honda sobre layers, así, como también, para hacer correcciones de perspectiva y defectos, otros
+
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Beizer Warp: (Deformación Bézier)
+	____________
+
+
+		_Verdexs:
+
+			_éste dispone de cuatro vertex, uno a cada esquina de la layer, los cuáles son totalmente
+
+			editables y animables
+
+
+		_Tangents:
+
+			_éste dispone de ocho tangentes ó handles, una a cada lado de un vextex, de la layer, las 
+
+			cuáles son totalmente editables y animables en relación a los vertex, respectivos
+
+
+		_Quality:
+
+			_ésta opción nos pemritirá aumentar la resolución de la interpolación de la deformación 
+
+			realizada los por handles, ó targets, de los respectivos vertex
+
+
+
+
+
+
+
+
+
+
+
+
+
+

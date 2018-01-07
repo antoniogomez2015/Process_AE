@@ -1,0 +1,76 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá hacer diferentes efectos en relación al matte, ó alpha resultante de una layer 
+
+
+	_así, una layer, podría tener un canal alpha, premultiplicado el cuál, puede ser nativo ó precompuesto el 
+
+	cuál, a su vez, podría tener algún defecto ó dominancia ó spill, ó halos de color los cuáles, no son 
+
+	deseados para el proceso de producción
+
+
+	_en esos casos disponemos del efecto de "Remove Color Matting", el cuál, tiene la posibilidad de neutralizar
+
+	un color que le indiquemos que esté en el matte, ó alpha, de ésta layer
+
+
+	_de ésta manera, el efecto tratará de disimular dicha dominancia y halos existentes en el canal alpha, ó 
+
+	matte, de la imágen ó al menos invertirá éste color en proporción para neutralizar así, su visualización
+
+	y efecto en el reusltado final del proceso
+
+	
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Remove Color Matting: (Eliminar Halos de Color)
+	_____________________
+
+	_Backgorund Color:
+
+		_ésta opción nos permitirá seleccionar el color ha neutralizar del source, ó layer, original a la
+
+		cuál, se ha aplicado el proceso de chrome key, alpha premultiplicado, otros similares
+
+
+	_Clipping:
+
+		_ésta opción tratará de generar un resultado de imágen de tipo HDR
+
+
+
+
+
+
+	

@@ -1,0 +1,45 @@
+
+
+http://aescripts.com/joystick-n-sliders/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Joystick 'n Sliders
+
+
+	Joystick 'n Sliders:
+
+
+	-este nos permite crear controladores de animación ó de elementos animados y epecialemente para fungir
+
+	como rigs, para character sets
+
+	
+	_ésta versión del plugins, "v1.0", en After Effects CC2014, no nos deja pasar del primero paso, ésta 
+
+	versión se ve bastante robusta, hay que ver si es un mal entendimiento del funcionamiento y articulación
+
+	del plugins, buscando más información sobre su implementación
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener una composición de trabajo así, unas layers, animadas la cuales deseamos controlar
+
+	con el sistema
+
+
+	_para luego colocar el cabezal del timeline, donde comienza la animación y luego ir al panel 
+
+	"Joystick 'n Sliders", y hacer "Paste Orion"
+
+
+

@@ -1,0 +1,165 @@
+
+
+
+Vertex Tool
+
+
+	Referencia:
+
+		http://aescripts.com/vertex-tool/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar ajustes estáticos y animables de los vertex, que conforman los "paths", de shapes, 
+
+	y masks, de layers
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer formar complejas y hasta animables de paths, tanto de layers, de forma "shapes", como 
+
+	también, de máscadas de capas, ésta es un función especialmente útil para motion graphycs, así, como crear
+
+	formas residuales complejas
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Bascs:
+______
+
+	
+	_para ésto, debemos de tener una composición previamente creadas
+
+
+	_luego debemos crear una layer, de forma "shape", ó una máscara un determina layer, de la composición
+
+
+	_luego debemos seleccionar el "Path", de la respectiva forma ó formas, para luego con los "paths", seleccionados
+
+	ir a las opciones del panel "Vertex Tool"
+
+
+	----------------------------------------------------------------------------------------------------------------
+
+	Target:
+	_______
+
+
+	All:
+
+		_ésta opción contempla todos los vertex, que contempla el path, de la forma ó mask, éste es el uso más 
+
+		general y la opción que biene por defecto
+
+
+	One:
+
+		_más si activamos ésta opción nos aparecerán unas opciónes para seleccionar el vertex, deseado a modificar
+
+		
+		_así, como también serán activadas las opciones de "Options interpolation:",/ "Set Cusmton",/ 
+
+		"Calcule Interpolation", 
+
+
+		_así, como también, será agregado al timeline, una "layer guide", la cuá, serivará de puntero para indicar 
+
+		la ubicación y selección del vertex, de trabajo
+
+
+	Value:
+
+		_la interpolación de la dimensión de la forma actual que conforma un vertex, de un path, al cambiar por 
+
+		otra que indiquemos ó seleccionemos estará superditada a través, de un valor determinado el cuál, podremos
+
+		indicar a través, de un valor numérico, ej: "50", éste valor indicará cuán grande será la forma resultante
+
+		compuesta para éste vertex, ó todos los vertex
+
+
+	Method:
+	_______
+
+
+	Rad:
+
+		_éste indica el criterio de acción del redondeo de las formas vertex/shape, así, "Rad", estará ponderado 
+
+		por "Pixeles"
+
+
+	%:
+		_éste indica el criterio de acción del redondeo de las formas vertex/shape, así, "%", estará ponderado 
+
+		por "porcentajes"
+		
+
+	Animate:
+
+		_activando ésta opción podremos animar el proceso e interpolación entre la forma inicial de in vertex, 
+
+		hasta la forma interpolada a la nueva forma sugerida ó indicada
+
+
+		_ésto lo realizará a través, de un valor de "Frames", donde ej, "30", equivaldrá a un segundo en el 
+
+		timeline
+
+
+		_así, para ésto, debemos colocar el cabezal del timeline, en el área ó tiempo deseado antes de finalizar
+
+		la acción de "Vertex Tool"
+
+
+	Store Shape Data:
+
+		_tenemos la posibilidad de ir distorcionando la forma general del path, ó de ciertos vertex, específicos
+
+		para luego ir almacenando ésta forma e incluso sobre escribien ésta para al final crear formas más complejas
+
+		ó previas a la original a animar, otros
+
+
+	Options interpolation:
+
+		_ésta opción nos muestra un panel e modo de botones con seis diferentes opcioens de tipos de interpolación
+
+		pudiendo así, seleccionar una a la vez, ó en cada paso de distorción de los vertex
+
+
+	Respore Shape:
+
+		_más incluso, podemos seleccionar keysframes, y propiedades modificadas de una path, determinado para así, poder
+
+		deshacer hasta cierto límite los cambios ó modificaciones ejercidas sobre los vertex, seleccionados ó propiedades
+
+
+	About:
+
+		_ésta opción nos abre un panel con lectura referente a las opciones y criterios del panel "vertex tool"
+
+
+	Settings:
+
+		_éste nos abre un panel con opciones de target, interpolación, desface, y otras opcioens importantes sobre todo para
+
+		las opciones activas de "Target/One", que están al inicial del panel "vertex toll"
+
+

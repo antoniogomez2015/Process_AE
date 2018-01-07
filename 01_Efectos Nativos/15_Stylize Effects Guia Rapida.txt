@@ -1,0 +1,437 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Stylize Effects:
+	________________
+
+
+	_Brush Strokes (Pinceladas)
+
+		_El efecto Pinceladas da a una imagen un aspecto de estar pintada a trazos. También puede utilizar 
+
+		este efecto para lograr un estilo puntillista ajustando la longitud de la pincelada a 0 y aumentando 
+
+		la densidad de los trazos. Aunque defina la dirección de los trazos, estos se dispersarán un poco 
+
+		aleatoriamente para ofrecer un resultado más natural. Este efecto altera el canal alfa, así como 
+
+		los canales de color; si aplicó una máscara a una parte de la imagen, los trazos de pincel pintan 
+
+		sobre los bordes de esa máscara.
+
+
+
+	Cartoon: (Dibujos Animados)
+
+		_ésta opción nos pemritirá crear el efecto de cartoon, entre otras muchas posibilidades de producción 
+
+		y paso contínuo como por ej, para la creación de posteriozados de colores personalizados, 
+
+		interpolaciones de colores en columetrías entre otras muchas posibilidades
+
+
+
+	Color Emboss: (Relieve de Color)
+
+		_ésta efecto nos permitirá crear efectos de relieve de color en áreas donde hay una mayor acutancia 
+
+		entre dos colores diferentes a través, del contraste y la luminancia de la imágen
+
+
+		_lo cuál, es especialmente útil para diferentes efectos de producción y paso contínuo como por 
+
+		ejemplo, para reforzar mapa de luminancia y densidad, crear efectos de tipo glitch, otros
+
+
+		_como también, tiene una función muy útil y utilizada la cuál, consiste en aplicarle éste efecto a 
+
+		layers, de textos y layers, con alpha, para que así, éste efecto cree una pseudo sombre de cara al 
+
+		fondo del viewport
+
+
+		_y en ese mismo sentido éste efecto es combinado también, con el efecto de "bevel alpha", para 
+
+		lograr así, una mayor volumetría sobre la layer, base
+
+
+
+	Emboss; (Relieve)
+
+
+		_ésta efecto nos permitirá crear extraer u obtener los bordes de una imágen en un ángulo 
+
+		determinado suprimiendo los colores
+
+
+		_lo cuál, es especialmente útil para diferentes procesos de producción y paso contínuo en la 
+
+		generación de procesos complejos
+
+
+		_éste efecto se ve afectado por la resolución del viewport, del panel compositing, de ésta 
+
+		manera, en la resolución "draw", el sampleo de pixeles se ponderará mientras que en la resolución 
+
+		completa el sampleo se realizará hasta en sub pixeles
+
+
+		_éste efecto también, trabaja en composiciones de 16 y 32bits
+
+
+
+	Find Edges: (Encontrar Bordes)
+
+		_El efecto Buscar bordes identifica las áreas de la imagen con transiciones significativas y 
+
+		acentúa los bordes. Los bordes pueden aparecer como una línea oscura sobre fondo blanco o líneas 
+
+		coloreadas sobre fondo negro. Con el efecto Encontrar bordes aplicado, las imágenes a menudo 
+
+		parecen esbozos del original.
+
+
+
+	Glow: (Resplandor)
+
+		_El efecto Resplandor localiza las partes brillantes de una imagen y da brillo a los píxeles 
+
+		circundantes para crear un halo resplandeciente y difuso. El efecto Resplandor puede simular 
+
+		también un exceso de exposición de objetos iluminados brillantes. Puede basar el resplandor en 
+
+		cualquiera de los colores originales de la imagen o en su canal alfa. Los reflejos que se basan 
+
+		en canales alfa producen brillos difusos solo en los bordes de la imagen, entre las zonas opacas 
+
+		y las transparentes. También puede utilizar el efecto Resplandor para diseñar un resplandor 
+
+		degradado entre dos colores (colores A y B) y para crear efectos multicolor en bucle.
+
+	
+		_Si procesa el efecto Resplandor en Calidad óptima puede cambiar la apariencia de la capa, Este 
+
+		cambio se hace especialmente patente si está utilizando mapas arbitrarios de Adobe Photoshop para 
+
+		colorear sus resplandores. Asegúrese de previsualizar en Calidad óptima antes de procesar el efecto
+
+
+
+	Mosaic: (Mosaico)
+
+		_El efecto Mosaico rellena una capa con rectángulos de color sólido, pixelando la imagen original. 
+
+		Este efecto resulta útil para simular pantallas de baja resolución y para oscurecer lados. 
+
+		También puede animarlo para una transición. En Calidad óptima, los bordes de los rectángulos 
+
+		aparecen suavizados.
+
+
+		_Este efecto funciona con colores de 8 bpc y 16 bpc.
+
+
+
+	Motion Tile: (Mosaico en Movimiento)
+
+		_éste efecto nos permitirá crear modulaciones de una imágen ó composición así, como también, 
+
+		hacer desface de los módulos para la generación de patrones y super módulos compuestos lo cuál,
+
+		es especialmente útil para el constructivismo visual y diferentes efectos y procesos de 
+
+		producción y paso contínuo
+
+
+		_El efecto Mosaico en movimiento reproduce exactamente la imagen de origen en la imagen final. 
+
+		Al cambiar la ubicación de los mosaicos, emplea el desenfoque en movimiento para acentuar el 
+
+		movimiento siempre que este desenfoque esté habilitado.
+
+
+		_Este efecto funciona con colores de 8 bpc.
+
+
+
+	Posterize: (Posterizacion)
+
+		_éste efecto nos permitirá crear la sintetización del color y las formas sobre una layer, de 
+
+		ésta manera, podremos limitar la cantidad de colores con la cuál, es representada una imágen 
+
+		así, por ejemplo, una imágen podrá sintetizarle ha "3", colores lo cuál, aplanará los colores 
+
+		y sintetizará los tonos y por ende tanbién, las formas detalladas de la imágen, creadno así, 
+
+		sólo zonas simplificadas y con colores planos
+
+	
+		_lo cuál, es especialmente útil para un sin número de efectos y de procesos de paso contínuo 
+
+		y de producción, ésta opción es una variante de lo que se pueda hacer también, con el efecto 
+
+		de "effects/stylize/cartton"
+
+
+
+	Roughen Edges: (Bordes Rugosos)
+
+		_éste efecto nos permitirá crear diferentes efectos a través, del cuál, podremos destruir 
+
+		la definición de los bordes ó del relleno de una layer, sea ésta un vector ó imágen
+
+
+		_éste efecto sólo funciona con layers, imágenes ó vectores que tengan ó posean alphas, 
+
+		ó áreas en transparencia, ó mejor dicho; en imágenes que tengas border ó áreas periféricas
+
+
+		_de ésta manera, podremos crear diferentes efectos de producción y paso contínuo
+
+
+
+	Scatter: (Dispersion)
+
+		_El efecto Dispersión esparce los píxeles de una capa, lo que proporciona un aspecto 
+
+		desenfocado o distorsionado. -Sin cambiar el color de cada píxel individual, el efecto 
+
+		Dispersión redistribuye los píxeles de forma aleatoria, pero en la misma zona general que sus 
+
+		posiciones originales.
+
+
+		_Este efecto funciona con colores de 8 bpc y 16 bpc.
+
+
+
+	Strobe Light: (Luz Estroboscopica)
+
+		_El efecto Luz estroboscópica lleva a cabo una operación aritmética sobre una capa o hace que 
+
+		la capa aparezca transparente en intervalos aleatorios o periódicos. Por ejemplo, cada cinco 
+
+		segundos una capa puede llegar a ser totalmente transparente durante una décima de segundo, 
+
+		o los colores de la capa pueden invertirse en intervalos aleatorios.
+
+
+		_Este efecto funciona con colores de 8 bpc.
+
+
+
+	Texturize: (Texturizar)
+
+		_El efecto Texturizar da a una capa la apariencia de tener la textura de otra capa. Por ejemplo
+
+		puede conseguirse que una imagen de un árbol tenga textura de ladrillos, y controlarse la 
+
+		profundidad de dicha textura, así como la fuente de luz que aparece. En Calidad óptima, la capa
+
+		de la textura se coloca y se escala con una precisión a nivel de los subpíxeles.
+
+
+		_Este efecto funciona con colores de 8 bpc.
+
+
+		_ésta efecto nos permitirá generar efectos el tipo "Bevel", "Bevel Color", "Find Edges" a 
+
+		través, de los cuáles, también, podremos encontrar y resaltar los bordes
+
+
+
+	Threshold: (Umbral)
+
+		_El efecto Umbral convierte las imágenes en color y en escala de grises en imágenes en blanco 
+
+		y negro con un contraste muy alto. Especifique un determinado nivel como umbral; todos los 
+
+		píxeles más claros que ese umbral se convierten en blancos y todos los píxeles más oscuros, 
+
+		en negro. 
+
+
+		_Este efecto funciona con colores de 8 bpc y 16 bpc.
+
+
+
+	CC Block Load: (CC Block Load)
+
+		_éste efecto nos permitirá emilar la progresiva carga de una layer, es algo similar a lo que 
+
+		ocurre en web, cuando en navegador está renderizando una imágn jpge, y gif, otros
+
+
+
+	CC Burn Film (Sobreexponer Pelicula)
+
+		_el complemento de película quemada crea la ilusión de que la película se quema o se derrite 
+
+		cuando se queda atascada en un proyector. la cantidad, ubicación central y aleatoriedad del 
+
+		efecto de fusión ardiente se puede establecer
+
+
+
+	CC Glass: (Cristal CC)
+
+		_éste efecto nos permitirá crear efectos de relieves y depresiones para la generación de 
+
+		volúmen de rellenos y translúcidos
+
+
+		_así, como también, nos permitirá la generación de efectos especiales en diferentes procesos 
+
+		de producción y paso contínuo, éste efecto para esos casos también, en combinado con los 
+
+		efectos de "CC Plastic", como también, del efecto "CC Blobbylize", y el efecto 
+
+		"CC Bector Blur", para creación de efectos especiales
+
+
+
+	CC Kaleida (Caleidoscopio CC)
+
+		_éste efecto nos permitirá crear el efecto de kaleidoscópio ó efecto fractal en el cuál, una 
+
+		layer, puede ser modulada para lograr diferentes efectos dentro del constructivismo visual
+
+
+		_de ésta manera, podremos crear módulos y super módulos de forma procedural, es decir, de las 
+
+		partes de una imágen que al repetirse se hacen rítmicas creando patrones y comportamientos 
+
+		visibles que son afectados entre si
+
+	
+		_ó a través, de la combinación con otros efectos para la modulación como los son la serie de 
+
+		efectos "Tiler", de ésta manera, podremos crear nuestros propios módulos los cuáles, podremos 
+
+		posteriormente aplicarle el efecto de "Kaleida", para que podamos tener un máximo control ya 
+
+		que incluso podremos animanar los módulos creados con los efectos "Tiler", posteriormente
+
+
+
+	CC Mr. Smoothie (Helado CC)
+
+		_éste efecto nos permitirá crear modulación de los colores de una layer, sobre las formas 
+
+		implícitas ó dibujadas dentro de la imágen indicada como valor en "Flow Layer" 
+
+
+		_de ésta manera, podremos hacer variaciones ó intervalos de colores intercambiados en las 
+
+		parte de una imágen analizada de forma ordenada
+
+
+		_de ésta manera, podremos undicar un rango en el cuál, el sistema analizará la imágen y en 
+
+		dicho rango el sistema irá intercambiando los colores de las diferentes parte de la imágen 
+
+		por colores contiguos que se encuentren dentro del rango indicado 
+
+
+
+	CC Plastic: (CC Plastic)
+
+		_ésta opción nos permitirá texturizar layers, y a su vez, agregando ha éstas brillo y especularidad 
+
+		y sobre todo volúmen al emular áreas con relieve y depresiones, ésta opción es similar a la opción 
+
+		de "CC Glass"
+
+
+		_más también, tendremos la posibilidad de crear efectos de relieves específicos a través, de una 
+		
+		layer, la cuál, hará de proxi, y de la cuál, se extraerá la información de color, alpha, ó 
+
+		luminancia para la generación de un bump map
+
+
+		_Aúnque la opción de "CC Plastic", está más orientada a la generación de efectos especiales y a los 
+
+		procesos de producción y paso contínuo, ésta opcíon se muy utilizada con el efecto "CC Vector Blur",
+
+		y el efecto "CC Blobbylize", para la generación de efectos complejos como magmas, partículas 
+
+		acuaosas, otros
+
+
+		_y a diferencia del efecto "CC Glass", el efecto "CC Plastic", dispone de una propiedad extra, que 
+
+		es la capacidad de hacer extracciones ó recotes sobre la layer, sobre la cuál, se aplicó el efecto 
+
+		por medio de la layer, proxi, de ésta manera, podremos hacer mattes, ó enmascaramientos entre otras 
+
+		posibilidades de producción y paso contínuo
+
+
+
+	CC RepeTile (Reptile CC)
+
+		_ésta opción nos permitirá modular una layer, cuál, deberá ser más pequeña que el tamaño del canvas 
+
+		del viewport, del panel compositing, para que así, ésta layer, tenga suficiente espacio para poder 
+
+		modularse más allá de su área perimetral
+
+
+		_de ésta manera, dispondremos de diferentes algoritmos para generar diferentes combinaciones y tipos 
+
+		de alternativas para la generación de módulos y super módulos para la generación de diferentes mapas, 
+
+		y texturas y demás posibilidades dentro del contructivismo visual y efectos de producción y paso 
+
+		contúnio
+
+
+
+	CC Threshold RGB (Umbral  RGB CC)
+
+		_ésta opción nos permitirá configurar cuál, será el umbral de cada canal de color a través, del cuál,
+
+		podremos hacer virados de color en relación a las necesidades de producción, de ésta manera, podremos
+
+		hacer reservas de color, mattes, mapas de densidad y demás elementos al poder convertir éstos en 
+
+		colores plenos y planos
+
+
+		_de ésta manera, cuando los brillos de un canal de color en específico superan el umbran indicado 
+
+		por canal entonces éstos serán convertidos al máximo color rojo, verde, ó azul respectivamente para 
+
+		cada canal
+
+
+		_de ésta manera, podremos crear efectos ponderados en relación al proceso de producción y paso 
+
+		contínuo deseado sobre una imágen compleja la cuál, podrá ser simplificada para diferentes procesos
+
+
+
+
+

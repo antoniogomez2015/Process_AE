@@ -1,0 +1,89 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer distorciones de tipo pseudo esféricas ó de inflado en una área determinada
+
+	de una imágen y de forma circular
+
+
+	_de ésta manera, podremos crear la sensación de aumento ó abombado en una área determinada de la imágen para
+
+	así, podamos diferentes tipos de efectos simples y directos ó complejos y en conjunto con otros efecto ha
+
+	modo de paso contínuo y en producción
+
+
+	_por ejemplo éste efectos es especialmente útil para su utilización con el efecto polar coordinales para
+
+	realizar efectos de tipo esféricos 360
+
+
+	_como también, para trabajar con el efecto de ripple, y generar la sensación de gotas callendo un lago, otros
+
+
+
+
+
+
+	
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Spherize: (Esferizar)
+	_________
+
+
+		_Radius:
+
+			_ésta opción nos permitirá indicar tanto el tamaño del sistema como de la fuerza ó 
+
+			intensidad de éste sobre la imágen respectiva
+
+
+		_Center of Sphere:
+
+			_ésta opción nos permitirá indicar al sistema la utización del efecto en relación a la 
+
+			imágen ha modo de target, y epicentro
+
+
+
+
+
+
+
+
+
+
+
+

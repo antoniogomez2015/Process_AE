@@ -1,0 +1,878 @@
+
+
+
+https://uxinmotion.net/
+
+
+
+Las 10 armas más extrañas
+	https://www.youtube.com/watch?v=fuJQbNodWFw
+
+
+
+
+
+https://www.youtube.com/watch?v=we5en1Kz63k
+
+
+
+https://www.youtube.com/watch?v=7gtYQaI00Ug
+https://www.youtube.com/watch?v=AByq1J9mfzA
+https://www.youtube.com/watch?v=BwEZmg1SIpA
+
+
+
+https://www.youtube.com/watch?v=DKCzep6-baY
+
+http://forum.cgpersia.com/f68/aescripts-3d-extruder-37173/
+
+http://forum.cgpersia.com/f68/scripts-ae-collection-june-2015-new-monter4-84025/
+
+	Pass: monter4BEST
+
+
+https://www.youtube.com/watch?v=fJUMy4fvHOY
+
+https://www.youtube.com/watch?v=mPhnMqor7r4
+	
+
+		
+
+	AE_Stereo scripts
+
+		StereoMergeComps.jsx
+
+		StereoPrecompAndTrim.jsx
+
+		Stereo Converter.jsx
+
+		Stereo Footage.jsx
+
+		Stereo Viewer.jsx
+	
+
+	Align to path 1.6
+
+
+	
+
+		
+
+	
+
+
+http://aescripts.com/queuemaster/
+http://aescripts.com/renderhogs/	
+
+
+
+Pro After Effects
+
+	https://www.youtube.com/watch?v=NAlNfc1TKnk
+
+	https://www.youtube.com/watch?v=AGSYg3QZcp8
+
+	https://www.youtube.com/watch?v=WGYMdDfaOQ8
+
+	http://zaxwerks.com/
+
+
+----------------------------------------------------------------------------------------
+
+Scrips que he hecho el tutorial y no he podido hacerlos funcionar
+
+
+panel toolbar left
+------------------
+
+
+	-EvilTwinStereo3D
+
+	-aw-Triangulator v1.3
+
+
+
+
+
+AfterEffects CC 2014 Configuracion
+
+
+	-el orden del contenido de los paneles/plugins, y su ubicacion en el espacio sera siempre contemplada 
+
+	de izquierda a derecha
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+ft-Toolbars
+-----------
+
+
+(A)
+
+
+	Top
+	---
+
+		Gn1 (general elementos)
+
+		Sc (escena estage)
+
+		Sc2 (escena estage)
+
+		3D (elementos 3d)
+
+		Emt (emisores 3d)
+
+		Ajs (ajustes de la composicion)
+
+		Colr (relleno y aplicacion de color)
+
+		Cor1 (correccion de color)
+
+		Cor2 (correccion de color)
+
+		Cor3 (correccion de color)		
+
+		Sdl (Scrips)
+
+		Key (chrome)
+
+		Mt (matte)
+
+		Mt2 (matte)
+
+		Ligt (light, zoom)
+
+		Styl (estilos/shadows)
+
+		Glw (glows)
+
+		Fx (efectos precostruidos)
+
+		Chn (chanales)
+
+		Bl (desenfoques)
+
+		Bl2 (desenfoques)
+
+		Bl3 (desenfoques)
+
+		T-1 (transiciones)
+
+		Ps (efectos de photoshop)
+
+		Ton (efectos cartoon)
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+(B)
+
+
+	Buttom
+	------
+
+
+		T (texto)
+
+		Trck (produccion)
+
+		Img (imagen composicion)
+
+		Vd (efectos para video)
+
+		Vd2 (efectos para video)
+
+		Tx (texturas)
+
+		Com (composiciones compuestas)
+
+		pFx (pos-effects, para efectos)
+
+		pFx2 (pos-effects, para efectos)
+
+		VFx (efectos especiales)
+
+		Mg (efectos mograph)
+
+		Mg2 (efectos mograph)
+
+		Wp (efectos de distorcion)
+
+		Wp2 (efectos de distorcion)
+
+		Wp3 (efectos de distorcion)
+
+		Nod (nodos 3d emulados)
+
+		Ren (nodos de render)
+
+		Nois (efectos de noise/ruido)
+
+		Sim (efectos o nodos de simulaciones)
+
+		Fler (efectos de flers o destellos)
+
+		Anm (nodos o efectos de animacion)
+
+		Au (nodos o efectos de eudio)
+
+		Abs (efectos abstractos)
+
+		lok (nodos o efectos de apariencia/look)
+
+		Mask (nodos o efectos de mascaras/masks)
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+(C)
+
+
+	Toobar left superior / Referencia (al lado izquierdo del panel proyecto por fefault)
+
+
+		-Layer-Groups2 (indeterminado)
+
+		*-EvilTwinStereo3D (indeterminado)
+
+		*-aw-Triangulator v1.3 ScriptUI (indeterminado)
+
+		*-Speed Lines v1.2 (indeterminado)
+
+		*-Slice it Up (indeterminado)
+
+		*-Sliced Box v2.51 (indeterminado)		
+
+		*-exportForClient v1.01 (indeterminado)
+
+		*-pt-ContactSheet (permite hacer una contactshape, a traves, de markers, en el timeline de una layer/comp)
+
+		*-Locations (este permite obtener y crear maps a traves de datos de geolocalizacion, otros)
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+(D)
+
+
+
+	Panel Proyecto / Referencia (Panel Proyecto por default)
+
+
+		-Info (muestra informacion general)
+
+		-Dufx (muestra los effects de la composicion o proyecto)
+
+		*-Duac (indeterminado)
+
+		-LockProperties (permite bloquear propiedades y expresiones, especiales para animacion)
+
+		-Audio (muestra el espectro y nuveles del audio)
+
+		-AsciiGenerator-1.3 (formateador con efectos para texto)
+
+		-Elementary (crea efectos como shadows, reflections, shading, a efectos 3d como element-3D)
+
+		-compFromSpreadsheet5 (permite intercambiar contenido de texto de composicion a traves de internet)
+
+		-Color (es in picker, de seleccion de color)
+
+		-Align (alinear elementos 2D)
+
+		-Align 3D (alinear elementos 3D)
+
+		-Randomizer (permite mover capas de forma aleatoria)
+
+		-copymask2layer-2.1 (permite copiar mascaras entre capas sin deformar las mascaras)
+
+		-Perspective-changer (permite alterar la perspectiva de una layers)
+
+		-Durend (indeterminado / tiene que ver con el render)
+
+		-Brushes (opciones de las brushes)
+
+		-Paragraph (opciones de los parrafos)
+
+		-SaveCompAsProyect-v2 (permite salvar una composicion como un proyecto a parte)
+
+		-Dynamic Comp v2.1 (permite mantener vinculadas y actulizables dos composiciones a si sean de varios proyectos)
+
+		-Proyect (panel general de proyecto)
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+(E)
+
+
+
+	Panel Low Proyecto / Referencia (Debajo del panel proyecto)
+
+
+		-Info (muestra informacion general)
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+(F)
+
+
+
+	Panel FxPro / Referencia (al lado derecho del Panel Proyecto por default)
+
+
+		-FxPro (panel dinamico de todos los effects ft-toolbar 2)
+
+		-Dugr (nos permite hacer 'ISOLATE', de capas seleccionadas)
+
+		*-djRenderHogs v1.00 (indeterminado)
+
+		-pt-Panorama (permite hacer un 360, cilindrico de una imagen para haver un enviroment)
+
+		-Power Stroke (swatches de color)
+
+		-Swatches (swatches de color)
+
+		-Holomatrix (efecto matrix de red giant)
+
+		-Align to Path v1.4 (permite alinar elementos a un trazado o trayectoria)
+
+		-Conform-Studio / Trim N Collect - Conform (indeterminado)
+
+		-lightMan-v1.0 (iluminacion 3D, para elementos 3D)
+
+		-ft-Effects Instance (instanciar o duplicar un efecto aplicado en la misma capa/layer)
+
+		-Paint (opciones de pintura)
+
+		-Centrum-v1-03 (permite hacer formar 3D, a traves, de capas seleccionadas)
+
+		*-pt-FrameRestorer (indeterminado)
+
+		-Vertex Tool v1.01 (deformador de shapes)
+
+		-Character (opciones de texto)
+
+		-Bend Layers 1.2 (este permite hacer moudlaciones de un layer)
+
+		-Motion 2 (opciones avanzadas de interpolacion de animacion)
+
+		-Effects & Presets (panel de efectos y pressets, instalados)
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+(G)
+
+
+
+	Panel Preview - Version / Referencia (debajo del Panel FxPro)
+
+
+		-versionUp (permite intercambiar elementos entre el panel proyecto y el timeline)
+
+		-Preview (premite prevializar o reproducir el contenido de la composicion activa)
+
+		-HeadsNTrails-v1 (nos permite variar en vivo la la duracion del inicio y fin, de la composicion activa)
+
+		-sololock (permite bloquear o desbloquear un conjunto de layers seleccionadas)
+
+		*-Overlap (indeterminado)
+
+		-Link v1-5 (es un instanciador de interpolador de layers, especial para mograph, effects)
+
+		-Paragraph in a Path (permite ajustar un parrafo a un trazado o trayectoria)
+
+		*-DescomposeText (indeterminado)
+
+		-Curva-scriptUI (permite animar capas de forma automatizadamente, tipo write-on)
+
+		-SimplifyMasks (permite simplicar el contenido o cantidad de nodos de una mascara)
+
+		*-timeremap-source (indeterminado)
+
+		-CenterMasks (permite centrar una mascara a su capa/layers, respectiva)
+
+		(error)*-BR-Skydome-3D (indeterminado)
+
+		-Auto Crop (permite recortar nuevas precomposiciones a traves, de su valor matte)
+
+		*-zl-TrimCompToContents (indeterminado)
+
+		*-pt-CropPrecomps (indeterminado)
+
+		*-TranslateExpressions (indeterminado)
+
+		*-pt-Multiplane (indeterminado)
+
+		*-Distortion-Selector-v2.0 (indeterminado)
+
+		*-KeyTweak (indeterminado)
+
+		*-Paste Multiple Keyframes v1.6 (indeterminado)
+
+		*-RepositionAnchorPoint (indeterminado)
+
+		-obj-vertex-export (nos permite exportar ubicaciones de capas seleccionadas como un objeto OBJ o secuencias de este)
+
+		*-BG Renderer (indeterminado)
+
+		-ProyectInfoListExporter-v1 (nos permite exportar un archivo informativo del proyecto, de su ocntenido y estado actual)
+
+		-pt-importSubtitles-v1.41 (este permite importar sub/titulos creados en archivos de texto)
+
+		*-3D to 2D Screen Space 1-2b (crear y asignar null a elemento 3d y generar o extrar su trayectoria de animacion)
+
+		*-Markers Sync (este permite sincronizar marcas entre composiciones y capas)
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+(H)
+
+
+
+	Panel Composicion / Referencia (al lado derecho del Panel FxPro)
+
+
+		-ProyectCleaner-v1.2 (permite limpiar el panel proyecto por tipos de elementos)
+
+		-Media Briwser (permite navegar y buscar sources, del disco local)
+
+		*-Batch Search-n-Replace Paths (indeterminado)
+
+		-rd-Scripts Launches (nos pemite navegar y ejecutar cualquier script, instalado)			
+
+		-Effects Manager (permite ver las listas de los plugins instalados y aplicarlos)
+
+		-Composition (nos permnite visuzalizar el contenido de la composicion activa)
+
+		-Set Render Queve Time Spans (nos permite configurar la longitud a renderizar del timeline)
+
+		-Layer (nos permite ver el contenido de una layer)
+
+		*-sb-autoRender (indeterminado)
+
+		*-BatchProcessor (indeterminado)
+
+		(error)*-AEmpeg v1.02 (indeterminado)
+
+		-Dojo Toolkit v1.2 (paquete de autoscripts)
+
+		-Dojo Tollkit v2.1 (paquete de autoscripts)
+
+		-Animation Composer (asistente de animacion automatizado)
+
+		-ExpressionUniversalizer2-01 (paquetes de expresiones)
+
+		-ExpressionTimeline-V1-2 (administrador de expresiones en linea en las layers)
+
+		-iExpressions-1-18 (paquete de expresiones)
+
+		-ExtendScriptDevelopperUtility-v1-00 (administracion master de scripts)
+
+		-CinewareProxy (renderizados almacenados de proyectos Cinema4D)
+
+		-MochaImportPlus (administrador de importacion de tracks - mocha)
+
+		*-Automate to Sequence-v1.1 (indeterminado)
+
+		*-zl-ExplodeShapeLayers-v3.0 (indeterminado)
+
+		-Footage (ver el contenido o visualizacion de footage)
+
+		-MaskVertexExpression (ventana de scripts dedicados a mascaras)
+
+		*-Create3DManagerSponge (indeterminado)
+
+		*-rd-GimmeProInfo (indeterminado)
+
+		-Flowchat (schematic de composiciones)
+
+		-Metadata (informacion adicional a la composicion activa)
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+(I)
+
+
+
+	Panel Effects Controls / Referencia (al lado derecho del Panel Composicion)
+
+
+		-rd-Staterman (permite guardar y recuperar estados de una composicion)
+
+		-Effects Controls (panel de control de efectos)
+
+		-quick-preview-v1.0 (permite hacer grupos de visualizacion)
+
+		-Zorro-The Layer Tagger (permite organizar layers por color y hacer Isolates Layers)
+
+		-MatchRate (permite cambiar la interpolacion y frame-rate entre 2 keysframes)
+
+		*-ProyectSync (indeterminado)
+
+		-rd-CompSetter (configuraciones previas para presentes y futuras composiciones)
+
+		-BR-Smart-Precomposer (permite hacer precomposiciones personalizadas)
+
+		-Immigration (permite re-relacionar e importar nuevo material de archivo/footage)
+
+		-Swatcher (set de muestras de color de paginas y artes de internet)
+
+		-Chamaleon - The Color Theme Browser (set de muestras de color de Koler)
+
+		-ColorLibrary-v1-11 (muestras de color tomadas de composiciones, picker, otros)
+
+		*-RayDynamic Color v1.5 (muestras de color tomadas de composiciones, picker, otros)
+
+		-SlimExpressionControls-v1-071 (set, de expreisones listas para usar)
+
+		-QuickDraw 1-0-1 (modalidad avanzada para hacer el efecto write-on)
+
+		*-pt-SSAKaraokeAnimator (indeterminado)			
+
+		*-lipsyncr-1-1 (indeterminado)
+
+		*-Duik (indeterminado)
+
+		*-Leems Animation Tools v2 (indeterminado)
+
+		*-PuppetTools-v3.4 (indeterminado)
+
+		*-Talking Head v1.6 (indeterminado)
+
+		*-BVH Importer (indeterminado)
+
+		(error)*-infocharts-creator-v1-02 (indeterminado)
+
+		*-AEInfoGraphics (indeterminado)
+
+		*-EasyPieChart (indeterminado)
+
+		*-Automated-Video-Editing-v1.04 (indeterminado)
+
+		*-testsyncr-1.0 (permite obtener beats, de audio para convertirlas a marcas)
+
+		*-BeatAssistant-v1-04 (indeterminado)
+
+		*-AudioToMarkers (indeterminado)
+
+		*-AED-AwkwardPause-v1.1 (indeterminado)
+
+		*-Vigoro v1.0 (indeterminado)
+
+		*-EasySlideShow-v1.0 (indeterminado)
+
+		*-OrientWorld (indeterminado)
+
+		*-Templater (indeterminado)
+
+		*-CS-Conform (indeterminado)
+
+		*-CS-Reconform (indeterminado)
+
+		*-CS-Extract (indeterminado)
+
+		*-Tracker2Mask (indeterminado)		
+
+		*-MaskTrackerPlus (indeterminado)
+
+		*-Mask Interpolation (interminado)		
+
+		*-BR-Paint-Out-1.0 (indeterminado)		
+
+		*-BR-ProyectionCC-1.01x76 (indeterminado)
+
+		-AlignLayers (permite alinear layers seleccionadas en cordenadas X,Y,Z)
+
+		*-M-LinesCreator v1.01 (indeterminado)
+
+		(error)*-LinesCreator v1.35 (indeterminado)
+
+		*-Mirror & offset (indeterminado)
+
+		*-parrot (indeterminado)
+
+		*-Stereo Viewer (creacion de contenido con efecto 3D)
+
+		*-Stereo Footage (creacion de contenido con efecto 3D)
+
+		*-Stereo Converter (creacion de contenido con efecto 3D)
+
+		*-veronoi shatter v2.2 (efecto fragmentador o cristalizados)
+
+		*-Divide ^ Corner v1.0
+
+		-Dojo Text Generator v1.3 (permite crear o generar layer, de texto directamente)
+
+		(error)*-Layer library (permite administrar versiones de un conjunto de layers sincronizadas entre si)
+
+
+	
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+(J)
+
+
+
+	Panel Effects Controls Button / Referencia parte inferior del Panel Effects Controls)
+
+		*-pt-OpenSesame (sincroniza proyecto de versiones anteriores) (version trial release)
+
+		*-qp-proxyman (administrator de versiones de material de archivo proxis)
+
+		*-CreateProxies (indeterminado)
+
+		*-rd-Approximate (indeterminado)
+
+		-rd-Partial (permite reformatear material de archivo/footage)
+
+		*-AE Global Renamer (indeterminado)
+
+		-Ducop (permiter seter composiciones seleccioandas)
+
+		*-True Comp Duplicator (indeterminado)
+
+		*-rd-CompSheet (indeterminado)		
+
+		-rd-Preservation (permite conservar las caracteristicas de la composicion ante el render)
+
+		-rd-RemoveKeys (permite remover keys, bajo diferentes criterios)
+
+		-rd-KeyMarkers (permite crear marcas a traves, de keysframes existentes)
+
+		-rd-MarkerNavigator (permite navegar entre las marcas existentes y ver sus descripciones)
+
+		*-Marker Conductor (indeterminado)
+
+		*-Bookmarker v1.1 (indeterminado)
+
+		-rd-RemoveMarkers (permite revomer las marcas existentes bajo diferentes criterior)
+
+		-Layer Marker Batch Editor (permite desplazar y agregar informacion a markers, dentro del workarea)
+
+		*-rd-Commentron (indeterminado)
+
+		*-rd-GetSmart (indeterminado)
+
+		-rd-ExprTweaker (activar o desactivar expresiones en composiciones)
+
+		-rd-BatchLayerConverter (permite convertir un tipo de capa en otro tipo de capa)
+
+		-rd-DivyUp (permite segmentar una capa en varias capas en secuencia de tiempo)
+
+		-rd-KindaSorta (permite redistribuir capas de forma aleatoria, otros)
+
+		*-rd-SolidRenamer (indeterminado)
+
+		*-rd-SnapDecisions (indeterminado)
+
+		-rd-Slicer (permite hacer un videowall, de una layer)
+
+		-rd-Shifter (permite agregar variaciones a la ubicacion de layers, selecciondas)
+
+		*-rd-GuessWhat (indeterminado)
+
+		*-rd-GimmeProPath (indeterminado)
+
+		*-cal-TimeOffsetAnimation (indeterminado)
+
+		*-AEMap utilities (indeterminado)
+
+		*-AEMap (indeterminado)
+
+		*-Path Duplicator v1.5 (indeterminado)
+
+		*-Geolayer-v-1-076 (indeterminado)
+
+		*-Text-Split-and-Animate-v1.0 (indeterminado)
+
+		*-TransShape (indeterminado)
+
+		*-Sweet (indeterminado)
+
+		*-Dojo Scripting utilities v1.1 (indeterminado)
+
+		*-Dojo Task List v1.1 (topicos por hacer o tomar en cuenta)
+
+		*-Array v1.53 (indeterminado)
+
+		*-BR-Illumination v1.01 (indeterminado)
+
+		*-COB_SSD-Sequence Section Destroyer (sirve para eliminar partes de una secuencia)
+	
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+(K)
+
+
+
+	Panel Toolbat left Timeline / Referencia al lado izquierdo del Panel Timeline)
+
+
+		*-Shape Motion v1-1 (indeterminado)
+
+		*-Easy Arrows v1.2 (indeterminado)
+
+		*-Two Sided Layer v1-1 (indeterminado)
+
+		*-ActivateDisableExpressions (indeterminado)
+
+		*-swissd (indeterminado)
+
+		*-3D Splitter (indeterminado)
+
+		*-AutoSway-CS5-CS6... (indeterminado)
+
+		*-Tracker (indeterminado)
+
+		*-Smoother (indeterminado)
+
+		*-Motion Sketch (indeterminado)
+
+		*-Wiggler (indeterminado)
+
+		*-Stereo 3D Toolkit (permite hacer scenas con el efecto 3D)
+
+		*-QuickLensFLere (permite hacer lens fleres facilmente)
+
+		*-CL Layer Stripper v1.0 (permite eliminar material de las composiciones)
+
+		
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+(L)
+
+
+
+	Panel Timeline / Referencia debajo del Panel Composicion)
+
+		-Shortcut-Key-Reference-v2.3 (permite previsulizar los comando y su shortcut asignado)
+
+		-rd-SimpleConsole (nos permite permite crear y ejecutar scripts)
+
+		-rd-Notation (nos permite crear animaciones y guardarlas en el proyecto)
+
+		-pt-EffectSearch (nos permite buscar los efectos aplicatos en composiciones y proyecto)
+
+		*-Magnum - The Edit Detector-v2.55 (segmentador de strip, de video por scenas)
+
+		*-pt-ExpressEdit2-1 (editor, creador y administrador de scripts aplicables en el timeline, otros)
+
+		*-QueveMaster 1.00-CG-Persia (indeterminado)
+
+		*-rd-Scooter (permite manipular el comportamiento de keysframes, seleccionados)
+
+		*-pointers-1.-23 (seguimiento o snaps, avanzados de elementos 3d en la escena)
+
+		*-StoryBoarding-v1.5 (permite cargar y crear guiones de desarrollo en la escena)
+
+		-DistributeLayers (permite distribuir layers, 3d, de forma avanzada)
+
+		-rd-EditText (permite capturar y editar texto de capas de texto de forma mas amplia)
+
+		-pt-TextEdit (permite formatear capas de texto dentro de una composicion o proyecto)
+
+		*-aed-rendertemplates-v1-0 (indeterminado)
+
+		-rd-Movement (permite salvar posiciones del cabezal en el timeline)
+
+		-comp active (muestra la composion activa/varias)
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+(M)
+
+
+
+	Panel Toolbat Right Timeline / Referencia al lado derecho del Panel Timeline)
+
+		_AE Mercury (funsionador especial de formas e imágenes dinámico)
+
+		-ConnectLayers-1.1 (nos permite conectar layer al estilo plexus)
+		
+		-Dojo Renamer v1.1 (nos pemrite ubicar y renombrar elementos bajo varios criterios)
+
+		-Dojo Extruder v2.0 (nos permite emular extrusiones de elementos y texto)
+
+		-Dojo Glitch v2.1 (nos permite hacer el efecto Glitch, de capas seleccionadas)
+
+		-Dojo Orbit v1.1 (nos permite hacer simulaciones 2d y 3d, del efecto orbital a traves, de layers seleccionadas)
+
+		-Dojo Shiftter v1.2 (nos permite redistribuir layers, en el timeline)
+
+		-Dojo Sharpener v1.2 (nos permite enfocar de forma avanzada layers en el timeline)
+
+		-Dojo Screenshot v1.2 (nos permite hacer instantaneas del panel composicion y guardarlas)
+
+		*-qp-version-snapshot-v1.1 (nos permite hacer instantataneas del panel composicion)
+
+		-BR-3D-Widgets-v1.01 (nos permite generar controles de navegacion de camara y perspectiva)
+
+		*-Ease and wizz (indeterminado)
+
+		*-BR-3D-Bevel-v1.1 (indeterminado)
+
+		*-TwoSidedLayer--v1 (indeterminado)
+
+		-jdSmartBaker (permite hacer un renderizado o minimizado de la cantidad de keyframes aplicados a traves de expresiones)
+
+		-aw-Autosaver (este permite configurar intervalos de salvados asi como salidas alternas, otros)
+
+		-COB-Lastest-Version (nos permite recuperar la ultima version autosave, guardada del proyecto)
+
+
+		
+

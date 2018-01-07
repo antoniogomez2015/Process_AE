@@ -1,0 +1,68 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+		https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá invertir el sentido del audio sin la necesidad de invertir el sentido de la reproducción
+
+	del cabezal del timeline
+
+
+	_lo cuál, es especialmente útil para acentuar algunos efectos y composiciones los cuáles, juegan con el 
+
+	tiempo, así, como también, efectos de aceleración del tiempo, otros
+
+
+	NOTE: éste efecto es especialmente en casos en los que tengamos que invertir el sentido de un clip, de video
+
+	yendo ha "Layer/Times/Time-Reverse-Layer", ó shortcut, "Control + Alt + R", con audio para que así, podamos
+
+	posteriormente invertir el sentido del audio para que éste quede ahora en el sentido correcto a través, del
+
+	efecto "Effects/Audio/Backwards"
+
+
+
+
+	Formatos:
+	_________
+
+	_los formatos más comúnes para el trabajo con audio son los siguientes en after effects:
+
+
+		_Mp3:
+
+			_éste es el formato más común y generalizado para la edición e intercambio de archivos de
+
+			audio
+
+
+		_Wav:
+
+			_éste es uno de los formatos más comúnes en el procesado e intercambio de archivos de audio
+
+
+
+	Backwards:
+	__________
+
+	_Swap Channels:
+
+		_ésta opción nos permitirá intercambiar los canales, tanto el derecho por izquierdo y a la inversa
+
+
+
+

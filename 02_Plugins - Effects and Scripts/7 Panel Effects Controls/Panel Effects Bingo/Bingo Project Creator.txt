@@ -1,0 +1,388 @@
+
+
+http://www.lequochai.com/tools/bingo.html
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Bingo
+
+
+	Bingo:
+
+
+	-este nos permite la posibilidad de hacer una serie de operaciones comúnes de forma automática y controlada
+
+	a la vez
+
+
+	_ésto es especialmente útil para diferentes procesos que por separado sería mas disperso y ambiguo
+
+
+	_éste plugins, está separado por categorías y secciónes las cuales están bien deferenciadas, éstas son:
+
+
+		_Project Creator
+
+		_Clean
+
+		_Render
+
+
+	_y a su vez, cada una de éstas ofrece una serie de herramientas y posibilidades bien esquematizadas para
+
+	disponer así de un acceso rápido y directo a los requerimientos más usuales de un proyecto y diferentes
+
+	procesos	
+
+
+
+	Workflow:
+	_________
+
+
+	Project Creator:
+	________________ 	
+
+
+		_ésta sección nos permite tanto crear un nuevo proyecto personalizado 
+
+		_así, a través, de un compo podemos indicar un nombre para proyecto ha generar
+
+		_así, como también, disponemos de un ícono en forma de folder ó carpeta en el cuál, podremos indicar
+
+		una ruta para el proyecto ha generar
+
+		_así, al indicar la ruta del proyecto automáticamente será generado un nuevo proyecto con el nombre
+
+		indicado y la ruta indicada
+
+		_de ésta manera se agregará una nueva estructura de carpetas en el panel "project", en la cuál, podremos
+
+		ir organizando y guardando los archivos del proyecto y composiciones, ésta estructura es la siguiente:
+
+
+			_3.Assets
+
+				_Styleframes
+
+				_Stills
+
+				_Renders
+
+				_Reference
+
+				_Imported Aep
+
+				_Footage
+
+				_Audio
+
+			_2.Pre-Comps
+
+			_1.Main Comps
+
+			
+		
+		
+
+
+	Comp Panel:
+
+
+		_así, como también, nuevas composiciones personalizadas
+
+
+		_y a través, de un campo podremos indicar el nombre de la composición ha generar
+
+
+		_así, como el formato que tendrá ésta, en donde está el valor por defecto de "HD30",
+
+		el cuál "1920x1080p"
+
+
+		_así, como también, la duración que tendrá la composición en "Comp Duration", así,
+
+		podremos indicar la duración de la composición en segundos "s/1"
+
+
+		_y para crear la composición que hemos configurado debemos darle ha "Name Comp", para 
+
+		que así, sea generada la composición que hemos configurado
+
+
+		_y por último para cuando hayamos creado la composición disponemos de un botón "BG", a 
+
+		través, del cuál, podremos cambiar la apariencia del fondo de la composición entre colores 
+
+		que van desde el blanco, negro, transparence
+		
+
+
+	Still Frame Export:
+
+
+		_ésta sección nos permite exportar contenido express, para clientes ó para flujos de trabajo
+
+		para primeros y terceros
+
+
+		Name StyleFrame:
+		________________
+
+		_de ésta manera, con la opción de "Name StyleFrame", podremos hacer un "contact sheet", u hoja
+
+		de contactos de diapositivas de los frames, que consideremos importantes de una respectiva 
+
+		composición
+
+
+		_para éste paso debemos de tener previamente una composición con las layers, animadas desdeadas
+
+		ha capturar por el sistema de la hoja de contactos
+
+
+		_para luego hacer click, en "Name StyleFrame", para que así, se abra un panel a través, del cuál,
+
+		podremos ir campturanlos los frames, que consideremos importantes y desiemos que éstos sean parte
+
+		de la hoja de contactos
+
+
+		_para ésto, debemos hacer click, en el botón "Frame This", para que a´si, dicho frame, quede grabado
+
+		más a contunuación se nos indicará justo debajo la cantidad de frame, guardados, ej; "1 images stored"
+
+
+		_y así, cuando hayamos de capturar todos los frames, deseados para la hoja de contactos tendremos que
+
+		escoger la calidad de éstos a través, de una menú desplegable el cuál, tendrá un valor por defecto de:
+
+		"Half"
+
+
+		_y para finalizar el proceso debemos darle en el mismo panel a la opción de "Make StyleFrame", para que
+
+		así, se genere una nueva composición con una serie de composiciones correspondiente a una instantanea a
+
+		modo de precomposiciones de todos los frames, que hemos capturado en el paso anterior
+
+
+		_más en el panel "project", se habrá agregado a la estructura de archivos los siguientes archivos:
+
+		
+			_3.Assets
+
+				_StyleFrame
+
+					_NameComp StyleFrame (correspondiente a la composición de hoja de contactos)
+
+					_NameComp Still Frames (carpeta correspondiente los frames que hemos indicado)
+
+						_Frame.. (precomposición correspondiente a cada frame, que hemos guardado)
+
+
+		_y por último para exportar ha imágen ésta composición de hoja de contactos bastará con hacer "capture Frame",
+
+		para que ésta sea exportado en formato ".jpg", en la ruta del proyecto
+
+
+
+	Capture Frame:
+	______________
+
+
+		_éste es un método rápido para exportar una instantanea ó snapshot ó screenshop, del viewport, del panel
+
+		composition
+
+
+		_para ésto basta con colocar el cabezal del timeline, en el lugar deseado y darle al borón "capture Frame",
+
+		para que así, éste haga un render en formato ".jpg", en la ubicación del archivo
+
+
+
+	Output Folder:
+	______________
+
+
+		_ésta opción nos permite personalizar una ruta de exportación diferente para el proceso de exportación de
+
+		"capture Frame", y de la opción de "Still Frame Export"
+
+
+
+	Layer Helper:
+
+
+		_ésta sección nos brinda la posibilidad de una serie de accesos director para crear diferentes tipos de
+
+		layers, así, como layers, de forma ó shapes
+
+
+		Add Helper:
+		___________
+
+		_ésta opción nos permite agregar los siguientes tipos de layers:
+
+
+			_Null
+
+			_Parent Null
+
+			_Slider
+
+			_Solid
+
+			_Adjustment Layer
+
+			_Text
+
+			_camara
+
+
+		Create Shape:
+		_____________
+
+		_ésta opción nos permite crear layers, de forma ó shape predeterminadas más controles adicionales
+
+		a modo de un effect, el cuál, podremos controlar en el panel de effects controls, entre las formas
+
+		disponibles tenemos las siguientes:
+
+			
+			_Reactangle
+
+			_Eclipse
+
+			_N-Gon
+
+			_Star
+
+
+		NOTA: me da un problema ésta opción ó sección ya que no se cargan los efectos al crear una layer,
+
+		de forma con éste método
+
+
+		Offset Layer:
+		_____________
+
+		_ésta opción nos permite secuenciar layers, con una dirección determinada para cada una de éstas
+
+		layers,
+
+
+		_para ésto debemos detener creada una composicón de trabajo y unas layers, las cuales deseamos 
+
+		secuenciar
+
+
+		_así, podremos seleccionar éstas layers, para luego ir al panel "Bingo/Offset Layer", para que
+
+		así, se abra una ventana en la cuál, podremos indicar la duración en frames, de cada una de las
+
+		layers, secuenciada
+
+
+		Anchor Snap:
+		____________
+
+		_ésta opción nos permite cambiar de forma automática el punto de anclaje de una ó varias layers
+
+		seleccionadas de una composición
+
+
+		_para ésto, debemos seleccioanr las layers, deseadas de una composición y hacer "Bingo/Anchor Snap",
+
+		para que así, se abra un panel contextual en el cuál, podremos indicar la orientación del punto de
+
+		anclaje para todas las layers, seleccionadas
+
+
+		Swap position:
+		______________
+
+		_ésta opción nos permite intercambiar la posición ó el índice de dos layers, en una composición, es decir,
+
+		podemos cambiar por ejemplo la layer, que está en segundo luegar ó debajo de la primera y hacer que ésta
+
+		pase a tomar la posición de la primera sin hacer alteraciones en los índices del orden de layers, original
+
+		del timeline
+
+
+		_especialmente útil cuante deseamos cambiar una layer, por otra que ya está animada, ésta opción permite 
+
+		intercambiar éstas capas sin que ésto afecte su posición, animación índice, otros
+
+
+		_para ésto, debemos primero seleccionar al menos dos layers, en el timeline, que desiemos invertir su posición
+
+		en relación de la una a la otra
+
+
+		_para luego ir al panel y hacer "Bingo/Swap Direction", para que así, de ésta manera automática el sistema haga
+
+		el intercambio del contenido de los respectivos índices de la layers, seleccionadas
+		
+
+
+	Fast Expression:
+
+		Select:
+		_______
+
+		_ésta opción nos permite una serie de script, básico y más comunes en los procesos de animación generales los
+
+		cuales podremos aplicar de forma rápida y expres, entre los cuales disponemos de los siguientes:
+
+
+			_Wiggle
+
+			_Bouncing
+
+			_Smooth
+
+			_Loop
+
+
+		_y al seleccionar uno de éstos script, nos aparecerá en la parte inferior siguiente en el panel de "Bingo", 
+
+		opciones adicionales para configurar el comportamiente de éste respectivo script
+
+
+		_y para aplica éstos contamos con un botón "Apply", luego de haber seleccionar el script, ha aplicar y la 
+
+		propiedad en la cuál, desemos apliar éste
+
+
+		Exp Editor:
+		___________
+
+		_así, como también, disponemos de un editar dedicado para la programación en javascript, el cuál, dispone de
+
+		una serie de ayudas para un rápido manejo y aplicaciones de scripts, otros
+
+
+		Quick Fx:
+		_________
+
+		_y por último disponemos en ésta sección de un área express, de efectos comúnes para las diferentes aplicaciones
+
+		de la animación, ajuste y corrección de color, otros
+
+		
+		_de ésta manera nos aparecerá una ventana contextual con una lista de categorías disponibles y un desplegados de
+
+		efectos disponibles para aplicar como un acceso directo ha éstos
+		
+
+	
+
+
+

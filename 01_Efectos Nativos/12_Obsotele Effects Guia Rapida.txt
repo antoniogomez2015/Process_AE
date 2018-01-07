@@ -1,0 +1,132 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Obsotele Effects:
+	_________________
+
+
+	
+	Basic 3D: (3D Basico)
+
+		_éste efecto nos permitirá convertir una layer, en una layer, 3d, la cuál, podremos manipular en el 
+
+		espacio 3d, a través, de controles directamente en el efecto por medio del panel effects control, 
+
+		sin la necesidad de tener que conmutar la layer, ha 3d, lo cuál, es especialmente útil para 
+
+		diferentes procesos de producción y paso contínuo
+
+
+
+	Basic Text: (Texto Basico)
+
+		_El efecto Texto básico, coloca el texto sobre una capa existente, a diferencia del texto creado 
+
+		en capas de texto o texto importado creado con Adobe Photoshop o Adobe Illustrator, que se 
+
+		convierten en su propia capa.
+
+
+		_Este efecto funciona con colores de 8 bpc.
+
+
+
+	Lightning: (Relampago)
+
+		_Si está trabajando en un proyecto que se creó en una versión anterior de After Effects y el efecto 
+
+		Relámpago está aplicado a una o más capas, puede seguir utilizando este efecto, o bien, utilizar el 
+
+		efecto Relámpago avanzado. (Consulte Efecto relámpago avanzado).
+
+
+		_Este efecto funciona con colores de 8 bpc.
+
+
+
+
+	Luma Key: (Incrustacion por Luminancia)
+
+		_éste efecto nos permitirá realizar extracciones de diferentes áreas de una imágen a través, de 
+
+		diferentes criterios lo cuál, nos permitirá realizar diferentes procesos y efectos de producción 
+
+		y paso contínuo
+
+
+		_El efecto Incrustación por luminancia elimina todas las regiones de una capa con una luminancia 
+
+		o luminosidad específicas. 
+
+
+		_El ajuste de la calidad de la capa no afecta al efecto Incrustación por luminancia.
+
+
+
+
+	Path Text: (Texto de Trazado)
+
+		_El efecto Texto de Trazado le permite la animación de un texto a lo largo de un trazado. 
+
+
+		_Puede definir un trazado como una línea recta, un círculo de cualquier diámetro o una curva. 
+
+
+		_También puede importar un trazado creado en otra aplicación, como Adobe Photoshop o Adobe 
+
+		Illustrator. 
+
+
+		_El efecto Texto de trazado puede funcionar con píxeles no cuadrados, ajustando la forma del 
+
+		carácter y del trazado como corresponda.
+
+
+		_Este efecto funciona con colores de 8 bpc.
+
+
+
+	Spill Suppressor: (Supresion de Rebase)
+
+		_El efecto Supresión de rebase, elimina los trazos de la incrustación por croma de una imagen con 
+
+		una pantalla que ya se ha eliminado. Por norma general, Supresión de rebase se utiliza para 
+
+		eliminar rebases de color de los bordes de una imagen. Los rebases están causados por un reflejo 
+
+		de la luz en la pantalla y en el tema.
+
+
+		_así, como también, para eliminar la contaminación de color sobre el motivo
+
+
+		_Este efecto funciona con colores de 8 bpc y 16 bpc. En After Effects CS6 o versiones posteriores,
+
+		este efecto funciona con color de 32 bits.
+
+
+
+
+
+
+

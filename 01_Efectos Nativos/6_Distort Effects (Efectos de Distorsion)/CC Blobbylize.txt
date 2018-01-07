@@ -1,0 +1,226 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear un recorte de blobby, brillante en cualquier capa de origen basado en un
+
+	Canal de otra capa. La capa de blob puede ser virtualmente cualquier cosa, desde texto simple a animaciones de 
+
+	partículas complejas. También puede controlar la cantidad de blobbiness
+
+
+	_éste es uno de los efectos más importantes en relación a la producción y efectos directos y de paso contínuo
+
+	de ésta manera, podremos controlar y crear efectos a través, de diferentes procesos con éste mismo efecto
+
+
+	_de ésta manera, poremos utilizar éste efecto para lograr efecto pseudo líquidos y metálicos como también, para
+
+	crear otros procesos en conjunción con otros efectos como "vector blur", "CC Plastic", "CC Glass", otros
+
+
+	_como también, podremos aplicarselo directamente a un sistema de partículas creado por ejemplo con 
+
+	"CC Particle World", para que así, la base de partículas se combierta automáticamente en un pseudo líquido 
+
+	metalizado el cuál, podremos configurar y personalizar llevándolo ha otro nivel
+
+
+	_ó siguiente el mismo ejemplo; podríamos aplicar éste efecto ha una layer, base de tipo solid, para luego en 
+
+	las opciones del efecto en "Blob Layer,", seleccionar un composición con el sistema de partículas de 
+
+	"CC Particle World", para así, obtener un efecto diferente de pseudo líquido metalizado
+
+
+	_así, como también, podríamos utilizar cualquier layer, como una layer, de texto, una layer, con transparencias,
+
+	canal alpha, ó cualquier layer, con una valor de luminancia ó densidad deseado a partir de la cuál, se generará
+
+	el efecto
+
+
+	_de ésta manera, a través, de layer, con alphas, y transparencias como textos y máscaras en layers, precompuestas
+
+	podremos crear efectos de rellenos dinámicos ordenados para generar volúmen y esfectos metalizados muy atractivos
+
+
+	NOTE: es imprescindible que la layer, base sobre la cuál, se aplica el efecto tenga información es decir, que 
+
+	ésta layer, sea una imágen ó composición precompuesta, ya que si es un sólido con un color plano esl efecto no
+
+	tendría información para la generación del sistema
+
+
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Blobbylize:
+	______________
+
+
+		_Blob Layer:
+
+			_ésta opción nos permitirá indicarle al sistema una layer, de trabajo de la cuál, se tomará la 
+
+			información a partir de la cuál, se limnitará la generación del sistema ha modo de máscara
+
+
+		_Property:
+
+			_ésta opción nos pemritirá indicar el comportamiento ó el tipo de pseudo líquito metálico que 
+
+			desamos conseguir
+
+
+		_Softness:
+
+			_ésta opción nos permitirá indicarle al sistema la cantidad de pseudo líquido ha generar así,
+
+			con valores bajos el efecto será mas refinado, con godas ó fluido más pequeño per más abundante
+
+		
+			_más si indicamos valores más grandes las gotas de líquido será más grandes y fusionadas pero 
+
+			menos abundantes, formando bloques ó parchos de fluidos generando la sensación de ser un líquido
+
+			más pegajoso, otros
+
+
+		_Cut Away:
+
+			_ésta opción nos permnitirá indicarle al sistema lo abrasivo del efecto lo cuál, quiere decir la
+		
+			capacidad de expansión del efecto, de ésta manera, el efecto se podrá expander más ó contraer más
+
+			en relación al valor indicado
+
+
+			_de ésta manera, con valores más pequeños el efecto se contraerá y con valores más grander el
+
+			efecto se expanderá cubriendo así, más área
+
+
+		_Using:
+
+			_ésta opción nos permitirá indicar que tipo de iluminación utilizar para elumninar el sistema de
+
+			éta manera, a través, de éste selector podremos seleccionar entre usar la luz por defecto dentro
+
+			del mismo sistema por defecto ó utilizar luces creadas dentro de after effects, de forma 
+
+			personalizada
+
+
+		_Light Intensity:
+
+			_opción disponible sólo para el método de iluminación de "Effect Light"
+
+			_ésta opción nos permitirá ajustar la intensidad de la luz sobre el sistema
+
+
+		_Light Color:
+
+			opción disponible sólo para el método de iluminación de "Effect Light"
+
+			_ésta opción nos permitirá indicar el color que tendrá el sistema de iluminación sobre la imágen
+
+			ó superficie del sistema
+
+
+		_Light Type:
+
+			_opción disponible sólo para el método de iluminación de "Effect Light"
+
+			_ésta opción nos permnitirá indicar de forma general si desemos que la iluminación base generada
+
+			por el sistema sea de tipo puntual ó direccional
+
+
+		_Light Position:
+
+			_opción disponible sólo para el método de iluminación de "Effect Light"
+
+			_ésta opción nos permitirá indicar al altura que tendrá el sistema de elumninación generado por
+		
+			el sistema lo cuál, influirá sobre la iluminación, relieve y sombras generados por éste
+
+
+		_Light Direction:
+
+			_opción disponible sólo para el método de iluminación de "Effect Light"
+
+			_ésta opción nos permitirá indicar la dirección que tendrá la iluminación generada por el sistema
+
+			de ésta manera, podremos influir sobre la iluminación, sombras y destellos sobre las superficies
+
+
+		_Ambient:
+
+			_ésta opción nos permnitirá indicar la cantidad de luz ambiente lo cuál, aumentará ó disminuirá el
+
+			el brillo sobre la superficie
+
+
+		_Diffuse:
+
+			_ésta opción nos permitirá obtener resultados similares a los paso anterior
+
+
+		_Specular:
+
+			_ésta opción nos permitirá indicar la cantidad de brillos y reflejos especulares sobre las
+
+			superficies y bordes generados
+
+
+		_Roughness:
+
+			_ésta opción nos permitirá indicar la cantidad de brillos y especularidad en los bordes
+
+			y sobre las superficies planas como reflejos
+
+
+		_Metal:
+
+			_ésta opción nos permitirá indiar la cantidad de reflacción y especularidad y reflejos sobre
+
+			la superficies y bordes
+
+
+
+
+	
+
+
+
+

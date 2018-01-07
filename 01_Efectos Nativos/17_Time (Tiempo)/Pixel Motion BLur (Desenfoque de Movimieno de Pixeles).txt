@@ -1,0 +1,127 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/time-effects.html#echo_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El movimiento generado por el ordenador o el material de archivo acelerado a menudo parece artificial 
+
+	porque le falta el desenfoque de movimiento. El efecto Desenfoque de movimiento de píxeles analiza el 
+
+	material de archivo de vídeo y sintetiza un desenfoque de movimiento basado en vectores de movimiento. 
+
+	Si se añade un desenfoque de movimiento, el movimiento es más realista, puesto que incluye el desenfoque, 
+
+	normalmente introducido por la cámara mientras dispara.
+
+	
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+	
+
+	Pixel Motion BLur: (Desenfoque de Movimieno de Pixeles)
+	__________________
+
+
+		_Shutter Control:
+
+
+			_Manual:
+
+				_Elija Manual para definir los valores de Ángulo de obturador y Muestras de 
+
+				obturador de forma independiente
+
+
+			_Automatic:
+
+				_Elija Automático para elegir los valores especificados para la capa o la 
+
+				composición.
+
+
+
+		_Shutter Angle:
+
+			_El ángulo del obturador se mide en grados y simula la exposición permitida por un obturador 
+
+			mientras gira. El ángulo del obturador utiliza la velocidad de fotogramas del material de 
+
+			archivo para determinar la exposición simulada, que afecta a la cantidad de desenfoque de 
+
+			movimiento de píxeles. Por ejemplo, si escribe 90° (25% de 360°) para un material de archivo 
+
+			de 24 fps, se crea una exposición efectiva de 1/96 de un segundo (25% de 1/24 de un segundo).
+
+			Si se introduce 1°, no se aplica casi ningún desenfoque de movimiento de píxeles y, si se 
+
+			introduce 720°, se aplica una gran cantidad de desenfoque.
+
+
+		_Shutter Samples:
+
+			_Controla la calidad del desenfoque de movimiento de píxeles. Con un valor más alto se 
+
+			obtiene un desenfoque de movimiento más suave, pero un mayor tiempo de procesamiento.
+
+
+		_Vector Detail:
+
+			_Determina el número de vectores de movimiento que se utiliza para calcular el desenfoque. 
+
+			Un valor de 100 utiliza un vector para cada píxel. El aumento de este valor no produce 
+
+			necesariamente mejores resultados, pero sí se tardará más tiempo en el procesamiento.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

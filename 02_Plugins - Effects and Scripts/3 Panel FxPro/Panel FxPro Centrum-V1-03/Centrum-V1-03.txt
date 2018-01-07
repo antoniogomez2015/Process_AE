@@ -1,0 +1,72 @@
+
+
+http://aescripts.com/BendLayers/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+	_Menú Effects/Bend Layers 1.2:
+
+
+		_ésta opción nos permite hacer modulaciones de una imágen ó composición en la escena
+
+
+		_tanto en horizontal como en vertical la cuál, podremos distorcionar y separar entre
+
+		sus partes así, hacer torciones ó twist, otros, lo cuál, es especialmente útil para
+
+		motion graphics
+
+
+		_es altamente aconsejable convertir las layers, deseadas en una composición así, tendremos
+
+		las posibilidades a la hora de hacer composiciones más complejas y elaboradas
+
+
+		_luego, seleccionamos la composición deseada en la escena y vamos ha 
+
+		"Menú Effects/Bend Layers 1.2"
+
+
+		Bend Layers 1.2:
+		________________
+
+
+		_Sagments:
+	
+			_en ésta opción debemos indicar los segmentar ó resolución que tendrá la modulación
+
+
+		_AnchPos:
+
+			_en ésta opción debemos indicar el punto de anclaje del controlador de la modulación
+
+
+		_Bending:
+
+			_en ésta opción debemos indicar el sentido de la modulación "horizontal ó vertical"
+
+
+		_Curve:
+
+			_en ésta opción debemos indicar el tipo de distorción básica, en "Curve/arc", ó "S"
+
+
+		_Pre-Comp/This COmp:
+
+			_es más recomendable indicar que realice todo el proceso en una "Pre-Comp", dentro de 
+
+			la escena así, tendremos las escena más limpia y despejada
+
+
+		_Bend!:
+
+			_en ésta opción debemos indicar la finalización del proceso
+
+
+
+
+		

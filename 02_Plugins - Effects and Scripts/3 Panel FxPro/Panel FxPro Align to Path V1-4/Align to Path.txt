@@ -1,0 +1,48 @@
+
+
+http://aescripts.com/align-to-path/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+panel FxPro / Align to Path
+
+
+	Align to Path
+
+
+	-este nos permite hacer animaciones a traves, de trayectorias por medio de paths, de mascaras
+
+
+	-para esto, primero seleccionamos la/s, capa/s, motivo, las seguiran el trazado o trayectoria
+
+	de animacion
+
+	
+	-luego seleccionamos la/s layer/s, con una mascara la cual servira de trazado o path, 
+
+	de trayectoria de animacion al motivo
+
+
+	-luego con ambos grupos de capas seleccionadas vamos al panel 'align-to-path', y le damos ha
+
+	'Align to Path(s)'
+
+
+	tambien, disponemos de las siguientes configuraciones adicionales>
+
+
+	-Keep Position Offset> esta nos permite guardar la distancia original entre la layer, motive,
+
+	a la posicion de la mascaras que hara de trayectoria o path de animacion
+
+
+-	-Auto-Orient to Path> esta opcion nos permite hacer que la direccion de rotacion 2d, del elemento
+
+	motive, siga la curvatura o torcion del path, de animacion en el tiempo
+
+
+	

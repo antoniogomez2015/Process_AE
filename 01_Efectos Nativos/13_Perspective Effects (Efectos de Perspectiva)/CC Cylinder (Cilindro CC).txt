@@ -1,0 +1,234 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear una forma cilíndrica 3d, a partir de la layer, de ésta manera, podremos
+
+	crear una forma geométrica 3d, de forma práctiva y de forma nativa dentro de la aplicación
+
+
+	_éste cilindro 3d, que podremos generar se creará de forma cerrada, es decir; con un ángulo de creación de
+
+	360, grados exactos lo que quiere decir, que no podremos crear arcos ó parabanes abiertos en grados 
+
+	determinados
+
+
+	_así, como también, éste cilindro 3d, generado no se creará con las tapas ó "caps", superior ni inferior 
+
+	por defecto así, como tampoco, éste efecto dispone de éstas opciones en sus parámetros de control en el
+
+	panel effects controls
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	CC Cylinder: (Cilindro CC)
+	____________
+
+
+		_Radius:
+
+			_ésta opción nos permitirá indicar el radio que tendrá el cilindro 3d, generado
+
+
+
+		_Position:
+
+
+			_X | Y | Z:
+
+				_ésta oción opción nos permitirá cambiar la ubicación del cilindro 3d, generado
+
+				en relación a su epicentro ó punto de anclaje, tanto en sus cordenadas "X,Y,Z"
+
+
+
+		_Rotation:
+
+
+			_X | Y | Z:
+
+				_ésta oción opción nos permitirá hacer rotaciones del cilindro 3d, generado
+
+				en relación a su epicentro ó punto de anclaje, tanto en sus cordenadas "X,Y,Z"
+
+
+
+		_Render:
+
+
+			_Full:
+
+				_ésta opción nos permitirá visualizar y renderizar el cilindro 3d, generado tanto
+
+				en su parte anterior ó más próxima a la cámara como la parte más elejada a la cámara
+
+				ó mejor dicho en su totalidad
+
+
+			_Outside:
+
+				_ésta opción nos permitirá visualizar y renderizar el cilindro 3d, generado en su 
+
+				parte más elejada a la cámara lo cuál, nos permitirá visualizar mejor la parte 
+
+				interna del cilindro y a su vez, 
+
+
+				_permitirá integrar la parte interna del cilindro con las demás layers, de la 
+
+				composición respectiva que estén por encima de la respectiva layer, con el efecto
+
+
+			_Inside:
+
+				_ésta opción nos permitirá visualizar y renderizar el cilindro 3d, generado en su 
+
+				parte más cerana a la cámara lo cuál, nos permitirá visualizar sólo la parte 
+
+				externa y más próxima del cilindro y a su vez, 
+
+
+				_permitirá integrar la parte externa del cilindro con las demás layers, de la 
+
+				composición respectiva que estén por debajo de la respectiva layer, con el efecto
+
+
+
+		_Light:
+
+
+			_Light Intensity:
+
+				_ésta opción nos permitirá controlar la cantidad de iluminación generada sobre el
+
+				cilindro 3d, generado y a su vez, afectará a las opciones de "Shading", como parte
+
+				del material del efecto generado
+
+
+			_Light Color:
+
+				_ésta opción nos permitirá cambiar ó personalizar el color de la luz generada sobre
+
+				el cilindro 3d, a través, de un picker, ó un selector personalizado a través, del 
+
+				cuál, podremos seleccionar un color personalizado para la iluminación generada sobre 
+
+				el sistema
+
+
+			_Light Heght:
+
+				_ésta opción nos permitirá indicar la altura que tendrá el sistema de iluminación
+
+				proyectado sobre el sistema ó cilindro 3d, generado lo cuál, condicionará las
+
+				características de las opciones de "Shading"
+
+
+			_Light Direction:
+
+				_ésta opción nos permitirá indicar la posición orbital alrededor que tendrá el 
+
+				sistema de iluminación proyectado sobre el sistema ó cilindro 3d, generado lo cuál, 
+
+				condicionará las características de las opciones de "Shading"
+
+
+		
+		_Shading:
+
+
+			_Ambient:
+
+				_ésta opción nos permitirá indicar la cantidad de luz base por defecto de ésta manera,
+
+				podremos indicar cuán oscura ó cuán clara será la difusión de la textura ó imágen de
+
+				cilindro 3d, generado
+
+
+			_Diffuse:
+
+				_ésta opción nos permitirá indicar cuán sensible ó receptivo será la textura ó imágen
+
+				a los efectos de reflexión, refracción, material difuso en relación a la iluminación,
+
+				otros
+
+
+			_Specular:
+
+				_ésta opción nos permitirá indicar cuán sensible ó receptivo será la textura ó imágen
+
+				al efecto de especularidad de la luz, ó mejor dicho; a la capacidad que tendrá la luz
+
+				de concentrarse un punto pequeño de luz ó un área mucho más grande
+
+
+				_lo cuál, dará como resultado un efecto de una superficie más metálica ó de una 
+
+				superficie más plástica
+
+
+			_Roughness:
+
+				_y el efecto de "Specular", a su vez, estará superditado por las opciones del efecto
+
+				"Roughness", ya que ésta opción también, determinará lo ámplia ó afinada que será
+
+				la especularidad del material y la iluminación sobre la forma 3d, respectiva
+
+
+				_de ésta manera, podremos lograr que la iluminación se comporte más envolvente ó más
+
+				puntual sobre la superficie y textura ó imágen del objeto 3d, respectivo
+
+
+			_Metal:
+
+				_ésta opción también, va de la mano de la opción "Specular", ya que a través, de la
+
+				opción "Metal", podremos resaltar la especularidad y las reflexiones de la textura
+
+				ó imágen en relación a la forma 3d, respectiva
+
+
+
+
+
+
+

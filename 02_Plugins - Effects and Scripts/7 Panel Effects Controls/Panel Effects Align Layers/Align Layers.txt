@@ -1,0 +1,91 @@
+
+
+http://aescripts.com/alignlayers/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / AlignLayers
+
+
+
+	Align Layers:
+
+
+	-este nos permite distribuir layers, en el espacio 3d, del viewport, de la composición respectiva para
+
+	que así, podamos hacer composiciones altamente eficientes
+
+
+	_e incluso prodremos animar las propiedades de posición de forma alternativa para que así, podamos crear
+
+	interactividad y aumentar las prestaciones de animación al aumentar la complejidad de las posibilidades
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener un composición de trabajo así, como también, debemos de tener creadas las layers,
+
+	las cuales deseamos distribuir en el espacio 3d
+
+
+	_éstas layers, que deseamos distribuir no necesitamos que tengan activada la propiedad de "3D", ya que el 
+
+	sistema lo hace automáticamente al distribuir éstas en el espacio 3d
+
+
+	_y para realizar dicho proceso de distribución lo primero que tendremos que hacer es seleccionar las layers,
+
+	respectivas en el orden que más nos interese ó convenga en relación a la lógica de la escena
+
+
+	_para a continuación ir a las opciones del plugins "AlignLayers", entre las que disponemos:
+
+
+		_X-alignment:
+
+			_si activamos ésta opción con las layers, deseadas éstas se comenzarán ha distribuir en la
+
+			cordenada "X", de forma negativa ó posiva en relación a la dirección que movamos el slider
+
+
+			_el valor máximo del slider llega hasta "100", éste valor lo podemos incrementar de forma
+
+			manual escribiendo en el campo de texto un valor personalizado superior ha "100"
+
+
+		_Y-alignment:
+
+			_si activamos ésta opción con las layers, deseadas éstas se comenzarán ha distribuir en la
+
+			cordenada "Y", de forma negativa ó posiva en relación a la dirección que movamos el slider
+
+
+			_el valor máximo del slider llega hasta "100", éste valor lo podemos incrementar de forma
+
+			manual escribiendo en el campo de texto un valor personalizado superior ha "100"
+
+
+		_Z-alignment:
+
+			_si activamos ésta opción con las layers, deseadas éstas se comenzarán ha distribuir en la
+
+			cordenada "Z", de forma negativa ó posiva en relación a la dirección que movamos el slider
+
+
+			_el valor máximo del slider llega hasta "100", éste valor lo podemos incrementar de forma
+
+			manual escribiendo en el campo de texto un valor personalizado superior ha "100"
+
+
+
+
+
+
+

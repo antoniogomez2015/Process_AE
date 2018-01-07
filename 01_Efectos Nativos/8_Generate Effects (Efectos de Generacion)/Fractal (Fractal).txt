@@ -1,0 +1,331 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria crear efectos fractales paramétricos y procedurales, de ésta manera, podremos 
+
+	modificar y animar éstos de forma infinita así, como hacer acercamientos y distorsiones sin ningún limitante
+
+	de resolución ó alcance del mismo
+
+
+	_éstos funcionan a través, de algoritmos, independientes y combinados a través, de los cuáles, podremos crear
+
+	deferentes formas bases las cuáles las podremos combinar entre algoritmos y a través, de las herramientas de
+
+	edición de la aplicación after effects
+
+
+	_de ésta manera, podremos mover, escalar, rotas, acercar y alejar el sistema como si éste tubiese unas dimensiones
+
+	infinitas y de forma sangrada sobre el todo el viewport, y entorno global, yendo más allá, de las posibilidades 
+
+	de una layer, normal
+
+
+	_para lo cuál, dispondremos de controles a través, del panel effects control, dentro de las opciones del efecto 
+
+	así, como también, a través, de las herramientas de la barra de herramienta de la aplicación en la parte superior
+
+	de ésta
+
+
+	_ó a través, de los shortcuts, podremos acceder ha ésta mismas herramientas e incluso ha otras opciones que van 
+
+	más allá, de las posibilidades de las herramientas básicas, otros
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Fractal: (Fractal)
+	________
+
+
+		_Set Choice:
+
+			_éstas opciones nos permiten seleccionar el tipo y combinación de algoritmo ha utilizar para la 
+
+			conformación del sistema
+
+
+			_los cuáles, serán una combinación de los algoritmos, "Mandelbrot o Julia", de forma conjunta ó
+
+			independiente ó de forma inversa
+
+
+		_Equation:
+
+			_éste valor nos permintirá seleccionar el estado ó configuración general para el algoritmo 
+
+			seleccionado respectivamente para que así, éste tenga un comportamiendo determinado en relación
+
+			a su configuración intríncica ó propia
+
+		
+		_Mandelbrot
+
+			_X (Real):
+
+				_ubicación del sistema en la cordenada "X", en vewport, del canvas y en general
+
+
+				_shortcut: (hand tool), "H", ó "Mouse Midle Click and Drag", sobre cualquier área del 
+
+				viewport, ó canvas, para que así, podamos desplazar todo el sistema en general
+
+
+			_Y (Imaginary):
+
+				_ubicación del sistema en la cordenada "Y", en vewport, del canvas y en general
+
+
+				_shortcut: (hand tool), "H", ó "Mouse Midle Click and Drag", sobre cualquier área del 
+
+				viewport, ó canvas, para que así, podamos desplazar todo el sistema en general
+
+
+			_Magnification:
+
+				_ésta opción nos permitirá acercar ó alejar el sistema también, podríamos interpretar
+
+				ésta opción como escalar el sistema para que otras partes del sistema seam visibles ó
+
+				obtener más detalles de las partes ya visibles
+
+
+				_shortcuts: (Zoom Tool), "Z", "Z + Alt", + "Mouse Left Click"
+
+
+			_Escape Limit:
+
+				_ésta opción nos permitirá indicar la capacidad de presentación del color de ésta manera,
+
+				un valor más bajo, ej: "30", determinará un posterizado más acusado de los colores para
+
+				que así, haya una acutancia más visible entre la transiciones de colores
+
+
+
+		_Julia
+
+			_X (Real):
+
+				_ubicación del sistema en la cordenada "X", en vewport, del canvas y en general
+
+
+				_shortcut: (hand tool), "H", ó "Mouse Midle Click and Drag", sobre cualquier área del 
+
+				viewport, ó canvas, para que así, podamos desplazar todo el sistema en general
+
+
+			_Y (Imaginary):
+
+				_ubicación del sistema en la cordenada "Y", en vewport, del canvas y en general
+
+
+				_shortcut: (hand tool), "H", ó "Mouse Midle Click and Drag", sobre cualquier área del 
+
+				viewport, ó canvas, para que así, podamos desplazar todo el sistema en general
+
+
+			_Magnification:
+
+				_ésta opción nos permitirá acercar ó alejar el sistema también, podríamos interpretar
+
+				ésta opción como escalar el sistema para que otras partes del sistema seam visibles ó
+
+				obtener más detalles de las partes ya visibles
+
+
+				_shortcuts: (Zoom Tool), "Z", "Z + Alt", + "Mouse Left Click"
+
+
+			_Escape Limit:
+
+				_ésta opción nos permitirá indicar la capacidad de presentación del color de ésta manera,
+
+				un valor más bajo, ej: "30", determinará un posterizado más acusado de los colores para
+
+				que así, haya una acutancia más visible entre la transiciones de colores
+
+		
+
+		Post-inversion offset
+
+
+			_X (Real):
+
+				_(indeterminado)
+
+
+			_Y (Imaginary):
+
+				_(indeterminado)
+
+
+		_Color
+
+			_overlay:
+
+				_ésta opción nos permitirá visualizar el efector del sistema y del comportamiento de los 
+
+				colores en general
+
+
+				_éste es prácticamente imprescindible para el control del sistema en general
+
+
+			_Transparency:
+
+				_ésta opción va de la mano con la opción anterior y sólo será visible ó aplicará si la
+
+				opción anterior está activada
+
+
+				_la cual, resaltará las áreas donde hay transparencias superpuestas
+
+
+			_Palette:
+
+				_ésta opción nos permitirá seleccionar el tipo ó espacio de color a través, del cuál,
+
+				se conformará todo el sistema los cuáles, pueden ser:
+
+		
+					_monocromático
+
+					_ecléctico
+
+					_sólido
+
+					_rueda espectral de color
+
+					_bigMap
+
+					_degradado de liminosidad
+
+
+			_Hue:
+
+				_ésta opción nos permitirá realizar un virado de color al espacio ó modo de color 
+
+				seleccionado en el paso anterior
+
+
+				NOTE: el virado de color no aplica a todos los modos ó espacios de color
+
+
+			_Cycle Steps:
+
+				_ésta opción nos permitirá simplicar la cantidad de colores del kernel ó núcleo
+
+				del sistema lo simplificará el sistema y a su vez, hará que éste obtenga más 
+
+				tamaño y visualización y contraste
+
+
+			_Cycle Offset:
+
+				_ésta opción nos permitirá hacer un virado de color master, ó global el cuál, 
+
+				irá desde la perferia del canvas hasta el núcleo del sistema
+
+
+			_Edge Heighlight (Force):
+
+				_ésta opción resaltará liminicentemente los bordes donde haya acutancia visible
+
+				entre los colores posterizados del sistema lo cuál, generará un nuevo efecto 
+
+				generalizado en todo el sistema
+
+
+
+		_High Quality Settings
+
+
+			_Oversample Method:
+
+				_ésta opción nos permnite seleccionar entre dos algoritmos similares los cuáles,
+
+				podremos probar para buscar diferencias entre la calidad global del sistema
+
+			
+			_Oversample Factor:
+
+				_ésta opción nos permtirá incrementar el valor global de sampleo de la resolución
+
+				y definición del sistema de ésta manera, con un valor mayor, podremos hacer que
+
+				el sistema cobre mayor profundidad y definición de los detalles y apariencia en
+
+				general
+
+
+
+
+
+	Shortcuts:
+	__________
+
+		_Mover el sistema:
+
+			_(H), ó "Mouse Midle Click and Drag Up/Down/Left/Right"
+
+
+		_Escalar el sistema:
+
+			_(Z), (Z + Alt), + "Mouse Left Click"
+
+
+		_Posicionar el Efector ó Kernel del sistema:
+
+			_"Control + Mouse Midle Click and Drag Up/Down/Left/Right"
+
+
+			NOTE: es recomendable que esté activada la opción de "Color/Overlay",para poder visualizar 
+
+			así la posición real del efector del sistema
+
+
+		_Anchor del sistema:
+
+			_Alt + Mouse Left Click and Drag Up/Down/Left/Right, sobre un área fuera del kernel, ó 
+
+			núcleo del sistema para que se conforme un espiral ó forma relativa en relación a la ubicación
+
+			de creación de éste en relación a su vez, a la posición del kernel ó núcleo del sistema
+
+
+
+

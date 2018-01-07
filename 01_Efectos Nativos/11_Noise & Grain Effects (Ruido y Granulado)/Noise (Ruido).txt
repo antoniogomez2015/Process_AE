@@ -1,0 +1,102 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear efectos de tipo ruido para diferentes aplicaciones como el ruido de la 
+
+	pantalla de una televisión ó el ruido encontrado en un material de archvo antiguo, otros
+
+
+	_de ésta manera, incluso a través, de expresiones podremos controlar el comportamiento y la cantidad del 
+
+	ruido a través, de el tiempo, otros
+
+
+	_éste efecto también, es utilizable en procesos de producción y paso contínuo para la generación de texturas,
+
+	mattes, mapas, otros, por ejemplo a través, de un desenfoque direccional y un efecto curvas, podríamos crear
+
+	una textura de tipo fibras ó cabellellos, fuego, otros
+
+	
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Noise: (Ruido)
+	______
+
+
+		_Amount od Noise:
+
+			_ésta opción nos permitirá indicar la cantidad de ruido ha gregar por parte del sistema 
+
+			a la layer, base sobre la cuál, se ha aplicado el efecto
+
+
+			_éste parámetro lo podremos controlar también, a través, de expresiones de tipo "wiggle()",
+
+			para que así, podamos crear efectos de pantallas de tv, sin señal, otros
+
+
+		_Noise Type:
+
+			_ésta opción nos permitirá crear el ruido con color ó monocromático de ésta manera, el ruido
+
+			de tipo monocromático es más recomendado para efectos de pantallas de tv, entre otros modos
+
+			de procesos de paso contínuo y de producción ya que no contaminará el proceso con la 
+
+			información de color
+
+
+		_Clipping:
+
+			_ésta opcíon mantendrá el resultado del proceso de generación de ruido de forma aislada ó
+
+			intacta en relación a la interacción de la layer, base a la cuál, le hemos aplicado el efecto 
+
+			de ésta manera, ésta layer, base no efectará en el resultado final en relación a los
+
+			diferentes valores de luminancia, brillo y saturación de la layer, base para que así, no se 
+
+			produzcan efectos colaterales de tipo posteriozación y cambios abrutos de levels, otros
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,63 @@
+
+
+http://aescripts.com/fontlist-plus/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Font List Plus
+
+
+	Font List Plus:
+
+
+	-este nos permite configurar las layers, de texto permitiendo la posibilidad de poder editar de forma
+
+	gráfica el tipo de fiente tipográfica ha aplicar a las layers, de texto
+
+
+	_ésto de gran utilizadad para el proceso de edición y flujo de producción ya que podemos ver de forma
+
+	renderizada el tipo de fuente aplicar y observar su aspecto en función el diseño, tendencia y temática
+
+	que estamos desarrollando en el diseño de nuestra animación
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener una composición de trabajo así, como también, al menos una layer, de texto
+
+	generada
+
+
+	_luego, debemos ir al panel "FontList+", en el cuál, tendremos un campo opcional en el cuál, podremos
+
+	tipear la palabra ha setear para que así, podamos ver los tipos de fuentes tipográficas sobre éstos
+
+	carácteres en específico, de ésta manera obtendremos una apreciación exacta del texto ha editar
+
+
+	_para luego a través, de un slider, ó scroll, vertical de navegación en el panel poder explorar entre las
+
+	fuentes tipográficas instaladas en el sistema de nuestra pc
+
+
+	_para que así, al haber determinado una fuente para hacer uso de ésta, debemos copiar ésta a través, del
+
+	shortcut "control + c"
+
+
+	_para luego, ir al panel "Character", y en el campo de character, pergar la fuente que elegimos anteriormente
+
+	a través, del shortcut "control + v"
+
+
+	_de ésta manera habremos seteado el tipo de fuente tipográfico ha utilizar
+

@@ -1,0 +1,120 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá muestrear el color de una imágen ó layer, a través, de algoritmos para obtener
+
+	una average del color del grupo de pixeles que conforman una layer, ó imagen en concreto por medio de una 
+
+	layer, auxiliar
+
+
+	_de ésta manera, podremos crear screen, ó sólidos de color para diferentes procesos de corrección de color
+
+	como de mattes, y layers, de paso contínuo y efectos en producción en un sin número de posibilidades
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Color Link: (Enlace de Colores)
+	___________
+
+	_Source Layer:
+
+		_ésta opción nos permitirá indicar la layer, la cuál, hará de layer, auxiliar de la cuál, se tomará
+
+		la muestra de color en relación al average de pixeles, para conformar a partir de éstos el color 
+
+		sólido en la respectiva layer, sobre la cuál, se aplicó el efecto
+
+
+	_Sample:
+
+		_ésta opción nos permitirá indicar el algoritmo a partir del cuál, se calculará el average de 
+
+		pixeles para ponderar el color, de ésta manera, en relación al efecto deseado podremos escoger un
+
+		tipo de algoritmo ó preset
+
+
+		_de ésta manera, podremos escoger entre diferentes algoritmos como por "rgb/ brillo, contraste,
+
+		ponderado, alphas, otros"
+
+
+	_Clip (%):
+
+		_(Indetermiando)
+
+
+	_Stencil Original ALpha:
+
+		_ésta opción nos permite indicarle al sistema que el canal alpha, existente en la imágen se utilice
+
+		como una imágen plana con alpha, ha modo de stencil ó bastidor
+
+
+	_Opacity:
+
+		_ésta opción nos permitirá indicar la opacidad de la layer, resultante en relación a las demás
+
+		layers, de la composición respectiva
+
+
+	_Blending Mode:
+
+		_ésta opción nos permite potencializar las posibilidades del efecto al permitirnos la integración 
+
+		con las demás layers, de la composición a través, de diferentes modos de fusión
+
+
+		_los cuáles, son los más importantes en relación a todos los modos de fusión nativos de la 
+
+		aplicación
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

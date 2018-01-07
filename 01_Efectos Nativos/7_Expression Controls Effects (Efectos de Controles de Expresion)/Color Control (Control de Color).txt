@@ -1,0 +1,83 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá controlar un atirbuto de una layer, específicamente ó lo más recomendado es la
+
+	propiedad de "Color", en layers, de tipo shape, así, como también, valores de efectos de color
+
+	
+	_a travé, de un selector de color y un picker, por medio del cuál, se podrá manejar, el color de la layer, 
+
+	ó múltiples layers, a través, de un control auxiliar sobre la cuál, se ha aplicado el efecto
+
+
+	_de ésta manera, podremos controlar las propiedades de color de una ó más layers, a través, de otra layer, 
+
+	por medio de éste controlador personalizable ó configurable
+
+
+	_de ésta manera, podremos sincronizar los colores de diferentes layers, a unísono para motion graphycs, otros
+
+
+	_para lo cuál, hará falta la utilización de expresiones por lo general automáticas, ya que bastará con hacer 
+
+	"Alt + Mouse Left Click", sobre el ícono de reloj, de la propiedada deseada ha relacionar con el sistema 
+
+
+	_para que así, aparezcan los controles de expresiones y podamos así, halar el picker, hasta la layer, que tiene 
+
+	el efecto de "3D Point Control", para que así, ambos elementos queden relacionados
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Control Control: (Control de Color)
+	_________________
+
+
+		_Color:
+
+			_ésta opción nos permitirá a través, de un selector de color ó picker, poder personalizar el
+	
+			color de las propiedades de color reslacionadas así, como también, animar éstas a través, del 
+
+			tiempo
+
+
+
+
+
+

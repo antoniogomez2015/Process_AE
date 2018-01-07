@@ -1,0 +1,102 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá limpiar y perfeccionar los bordes de la imágen visible en relación a la imágen
+
+	eliminada entre otras características lo cuál, nos pemritirá mejorar la imágen resultante en una gran
+
+	cantidad de casos de producción y paso contínuo
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Key Cleaner: (Indeterminado)
+	____________
+
+
+		_Additional Edge Radius:
+
+			_ésta opción nos permitirá retraer el matte, de la imágen visible y a su vez, agregará un
+
+			tramado de la misma imágen buscando integrar ésta mejor con las demás layers, de la
+
+			composición respectiva
+
+
+		_Reduce Chatter:
+
+			_al activar ésta opción el sistema tratará de realizar un mejor calado entre la imágen
+
+			visible y las demás layers, de la composición respectiva ya que de ésta manera, será
+
+			suavizado el efecto de "diente de león", de los bordes de la imágen resultante
+
+
+		_Alpha Contrast:
+
+			_ésta opción aumentará la acutancia ó contraste del matte, resultante del proceso de
+
+			la eliminación del color seleccionado previamente en el proceso de keygin
+
+
+			_lo cuál, podrá mejorar la imágen resultante en ciertos casos críticos en imágenes muy
+			
+			complejas, otros
+
+
+		_Strengh:
+
+			_ésta opción nos permitirá aumentar ó disminuir la influencia de todo el sistema sobre 
+
+			la imágen resultante del proceso de keygin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

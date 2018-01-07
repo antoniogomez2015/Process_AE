@@ -1,0 +1,43 @@
+
+
+
+
+RD, serie de escripts, gratuitos http://www.redefinery.com/   http://www.redefinery.com/ae/view.php?item=rd_Approximate
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+RD CompSheet
+
+
+	este escript, tiene como objetivo crear una hoja de contactor con diferentes versiones de una composicion 
+
+	determinada para obtener diferentes visualizaciones
+
+
+
+WorkFlow
+---------
+
+
+	-primero seleccionamos abrir una composicion deseada
+
+
+	-luego en dicha composicion creamos una layer de ajuste por ejemplo
+
+	
+	-la capa de ajuste de ejemplo que creamos la renombramos con el siguiente nombre 'style frame', sin las comillas
+
+	
+	-luego debemos agregar marcas (*), en los puntos donde deseamos agregar cortes de frames
+
+
+	-luego vamos al panel CompSheet, y configuramos las opciones y creamos la hoja de contactos
+
+
+NTA	se han hecho pruebas pero no sale del todo bien por ahora
+	

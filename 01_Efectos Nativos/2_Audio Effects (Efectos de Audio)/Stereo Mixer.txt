@@ -1,0 +1,83 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+		https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá crear efectos muy interesantes y útil al poder cambiar ó hacer variaciones en la 
+
+	influencia de cada canal de audio, tanto la del canal derecho como la del canal izquierdo
+
+
+	_así, como también, podremos intercambiar un canal con otro y de forma gradual
+
+
+	_éste es uno de los efecto más útiles y utilizados junto con el parametric EQ, ya que la mezcla de canales
+
+	es básico en la producción dentro de after effects
+
+
+
+	Formatos:
+	_________
+
+	_los formatos más comúnes para el trabajo con audio son los siguientes en after effects:
+
+
+		_Mp3:
+
+			_éste es el formato más común y generalizado para la edición e intercambio de archivos de
+
+			audio
+
+
+		_Wav:
+
+			_éste es uno de los formatos más comúnes en el procesado e intercambio de archivos de audio
+
+
+
+	Stereo Mixer:
+	_____________
+
+	_Left Level:
+
+		_ésta opción nos permitirá variar la infliencia del canal izquierdo en el audio general
+
+
+	_Right Level:
+
+		_ésta opción nos permitirá variar la infliencia del canal derecho en el audio general
+
+
+	_Left Pan:
+
+		_ésta opción nos permitirá variar la alternar ó intercalar el canal izquierdo por el derecho en el 
+
+		audio general
+
+
+	_Right Pan:
+
+		_ésta opción nos permitirá variar la alternar ó intercalar el canal derecho por el izquierdo en el 
+
+		audio general
+
+		
+
+
+
+
+

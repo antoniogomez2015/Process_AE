@@ -1,0 +1,88 @@
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+		Reference:
+
+			http://help.revisionfx.com/tutorial/80/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+		
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+DE: Fieldskit Reinterlacer:
+___________________________
+
+
+	_el plugins, "DE Fieldskit Pulldown", nos permitirá crear material de archivo progresivo a partir de material 
+
+	entrelazado de una manera óptima y alta calidad
+
+
+
+
+	_Field Order:
+
+
+		_Lower First:
+
+			_
+
+
+		_Upper First:
+
+			_
+
+
+	_Output Type:
+
+
+		_< Half Frame Rate:
+
+			_
+
+
+		_< Keep Frame Rate:
+
+			_
+
+
+		_= Field Blending:
+
+			_
+
+
+		_= Combine 2 Layers:
+
+			_
+
+
+		_= Create motion estimate fields:
+
+			_
+
+
+
+	_Source Layer:
+
+		_
+
+	
+
+

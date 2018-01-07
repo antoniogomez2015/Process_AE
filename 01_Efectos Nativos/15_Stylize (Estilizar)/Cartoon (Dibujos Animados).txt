@@ -1,0 +1,237 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos pemritirá crear el efecto de cartoon, entre otras muchas posibilidades de producción y 
+
+	paso contínuo como por ej, para la creación de posteriozados de colores personalizados, interpolaciones
+
+	de colores en columetrías entre otras muchas posibilidades
+
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Cartoon: (Dibujos Animados)
+	________
+
+
+		Render:
+
+
+			_Fill:
+
+				_ésta opción nos permitirá crear el efecto sólo en las áreas de relleno de la
+
+				imágen ó en las áreas donde el sistema encuentre más colores uniformes ó planos
+
+
+			_Edges:
+
+				_ésta opción nos permitirá crear el efecto sólo en las áreas de los bordes de la
+
+				imágen ó en las áreas donde el sistema encuentre más contraste ó acutancia
+
+
+			_Fill & Edges:
+
+				_ésta opción es por lo general la opción más recomendada, ya que ésta opción nos
+
+				permitirá aplicar el efecto tanto en las áreas de los bordes como en las áreas 
+
+				de relleno de la imágen
+
+
+				_y controlar la aplicación del efecto sobre borde y relleno en los controles 
+
+				del efecto por separado
+
+
+
+		_Detail Radius:
+
+			_ésta opción nos permitirá indicarle al sistema cuán detallista éste deberá ser en la
+
+			representación de los detalles de una escena, ej, para representar el follaje y elementos
+
+			muy elaborados, otros
+
+
+			_de ésta manera, con valores cercanos ha "0", el sistema tratará de ser muy detallista y de
+
+			conservar la gran mayoría de los detalles
+
+
+			_más si indicamos valore cercanos ha "100", el sistema tratará de simplificar la escena al
+
+			máximo creando así, un efecto más cartoon, y estilizado
+
+
+		_Detail Threshold:
+
+			_ésta opción nos permitirá indicar un unbral de cuán abrasivo será la aplicación del efecto
+
+			y con que fuerza y rapidez se verán los efectos de simplificación de la imágen
+
+
+
+		Fill:
+
+
+			_Shading Steps:
+
+				_ésta opción nos permitirá indicar la cantidad de pasos ó colores ha posterizar las
+
+				áreas de relleno de la imágen, de ésta manera, el sistema simplificará los colores 
+
+				de la imágen a la cantidad de "shading steps", indicados, lo más recomendable es
+
+				colocar un valor bajo como por ej, "4"
+
+
+			_Shading Smoothness:
+
+				_ésta opción nos permitirá interpolar los colores designados para la creación del
+
+				sistema en el paso anterior a través, de la opción de "shading steps"
+
+
+				_de ésta manera, con valores bajos, ej, "40", podremos suavizar ó interpolar los
+
+				colores suavemente para obtener un efecto agradable y equilibrado pero que aún así,
+
+				se vean los colores posterizados y simplificados y se vea como un cartoon
+
+
+
+		Edge:
+
+
+			_Threshold:
+
+				_ésta opción nos permitirá indicar un umbral para la detección de bordes en la 
+
+				imágen de ésta manera, podremos perfilar mejor los bordes así, como también, 
+
+				crearlos en diferentes densidades en la imágen ó efecto resultante
+
+
+			_Width:
+
+				_ésta opción nos permitirá indicar el grosor de los bordes creados sobre la imágen
+
+				de ésta manera, podremos graduar la influencia visual que tendrán los bordes sobre
+
+				el efecto en general
+
+
+			_Softness:
+
+				_ésta opción nos pemritirá integra mejor los bordes con las áreas de relleno de la
+
+				imágen y demás elementos en la misma
+
+
+			_Opacity:
+
+				_ésta opción nos permitirá graduar la opacidad de la imágen lo cuál, nos permitirá
+
+				también, integrar de una mejor manera los bordes encontrados en la imágen con la
+
+				imágen base
+
+
+	
+		Advanced:
+
+
+			_Edge Enhancement:
+
+				_ésta opción nos permitirá mejorar el calado de los bordes de la imágen con la 
+		
+				apariencia general del efecto lo cuál, aumenta la calidad y posibilidades del
+
+				efecto
+
+
+				_Los valores positivos enfocan los bordes, los valores negativos extienden los 
+
+				bordes. La mejora distorsiona toda la imagen mediante la distorsión de píxeles 
+
+				hacia los bordes o alejándolos de los bordes, lo que resulta en un enfoque 
+
+				o una extensión de los bordes.
+
+
+			_Edge Black Level:
+
+				_ésta opcíón nos permitirá crear pseudo sombras sobre los bordes delimitando mejor
+
+				las áreas y generando una perspectiva más agradable y creible para ciertos casos
+
+
+				_y dependiendo de los valores y sobre todo con valores bajos también, puede afectar
+
+				y resaltar las áreas de relleno con un sombreado invertido en vez de sobre las áreas
+
+				de contorno, sino que en vez, en las áreas de relleno
+
+
+			_Edge Contrast:
+
+				_las opciones de "Edge Black Level", están intimamente relacionadas con ésta opción
+
+				de "Edge Contrast", ya que el umbral del contraste es lo que indicará ha que 
+
+				afectará el sombreado, de ésta manera, podremos determinar si el sombreado aplicará
+
+				sobre los bordes ó sobre el relleno en general
+
+			
+
+
+			
+
+
+
+
+
+
+
+

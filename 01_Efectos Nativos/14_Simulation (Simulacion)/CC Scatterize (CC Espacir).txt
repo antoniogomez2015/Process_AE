@@ -1,0 +1,158 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos pemritirá crear efectos de partículas de tipo dispersión ó "Shatter", "CC Pixelpoly", ó 
+
+	también, de tipo "CC Ball Action", en ciertos comportamientos lo cuál, nos permitirá generar efectos de 
+
+	partículas de tipo desvanecimientos, esfervesencias, poluciones, cadenas de adn, otros
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Scatterize: (CC Espacir)
+	______________
+
+
+		_Scatter:
+
+			_ésta opción nos permitirá indicar la cantidad de scatter, ó dispersión de partículas a
+
+			partir de la imágen base
+
+
+			_de ésta manera, a través, de ésta opción podremos disipar ó expandir las partículas 
+
+			generadas por el sistema de forma aleatoria sin hacer variaciones sobre el tamaño de las
+
+			partículas generadas
+
+
+		_Right Twist:
+
+			_ésta opción nos permitirá indicar la torsión en el sentido de la derecha del sistema,
+
+			torsión del tipo cadena de ADN, de forma tridimensional de todo el sistema de partículas
+
+			generado
+
+
+			_lo que nos permitirá realizar diferentes efectos envolventes y procesivos de las partículas
+
+			generadas y dispersadas, éste comportamiento es similar la obtenido a través, del efecto de
+
+			"Simulation/CC Ball Action"
+
+
+		_Left Twist:
+
+			_ésta opción nos permitirá indicar la torsión en el sentido de la iaquierda del sistema,
+
+			torsión del tipo cadena de ADN, de forma tridimensional de todo el sistema de partículas
+
+			generado
+
+
+			_lo que nos permitirá realizar diferentes efectos envolventes y procesivos de las partículas
+
+			generadas y dispersadas, éste comportamiento es similar la obtenido a través, del efecto de
+
+			"Simulation/CC Ball Action"
+
+
+
+		_Transfer Mode:
+
+			
+			_Composite:
+
+				_ésta opción nos permitirá crear el sistema el cuál, se integrará perfectamente con
+
+				demás layers, de la respectiva composición y a su vez, el sistema generado se creará
+
+				con un canal alpha, de las áreas huecas ó vacías
+
+
+			_Screen:
+
+				_ésta opción nos permitirá crear el sistema e integrará perfectamente con las demás 
+
+				layers, de la respectiva composición a través, de un modo de fusión de tipo "Screen",
+
+				ó "Pantalla", y a su vez, el sistema generado se creará	con un canal alpha, de las 
+
+				áreas huecas ó vacías
+
+
+			_Add:
+					
+				_ésta opción nos permitirá crear el sistema e integrará perfectamente con las demás 
+
+				layers, de la respectiva composición a través, de un modo de fusión de tipo "Add",
+
+				ó "Agregar", y a su vez, el sistema generado se creará	con un canal alpha, de las 
+
+				áreas huecas ó vacías
+
+
+			_Alpha Add:
+
+				_ésta opción nos permitirá crear el sistema e integrará perfectamente con las demás 
+
+				layers, de la respectiva composición a través, de un modo de fusión de tipo 
+
+				"Alpha Add", ó "Agregar Alpha", el cuál, multiplicará los colores de las partículas
+
+				superpuestas por el sistema unas sobre otras y a su vez, el sistema generado se 
+
+				creará	con un canal alpha, de las áreas huecas ó vacías
+			
+
+
+
+
+
+
+
+
+

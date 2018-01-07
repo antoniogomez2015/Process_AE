@@ -1,0 +1,114 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta efecto nos permitirá crear extraer u obtener los bordes de una imágen en un ángulo determinado
+
+	suprimiendo los colores
+
+
+	_lo cuál, es especialmente útil para diferentes procesos de producción y paso contínuo en la generación de
+
+	procesos complejos
+
+
+	_éste efecto se ve afectado por la resolución del viewport, del panel compositing, de ésta manera, en la
+
+	resolución "draw", el sampleo de pixeles se ponderará mientras que en la resolución completa el sampleo se
+
+	realizará hasta en sub pixeles
+
+
+	_éste efecto también, trabaja en composiciones de 16 y 32bits
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Emboss: (Relieve)
+	_______
+
+
+		_Direction:
+
+			_ésta opción nos permitirá indicar la dirección del efecto ó de la proyección del relieve
+
+			sobre la imágen base, de ésta manera, en relación a la iluminación implícita en la imágen
+
+			podremos crear un efecto de relieve de color más coherente y reforzado
+
+
+		_Relief:
+
+			_ésta opción nos permitirá aumentar el umbral del relieve y desface de bordes aplicado como
+
+			efecto sobre la imágen base
+
+
+			_de ésta manera, con valores cernanos ha "0", el efecto será muy sutil y con valores cercanos
+
+			ha "100", el efecto será muy acusado, lo cuál, dependerá del tamaño de la imágen base
+
+
+		_Contrast:
+
+			_éste es el valor más importante ya que éste valor es que intensificará y hará visible el
+
+			efecto aplicado sobre la imágen base
+
+
+			_de ésta manera, con valores muy cercanos ha "0", el efecto será casi imperceptible sin 
+
+			importar que le hayamos puesto un umbral alto en los valores de "Relief"
+
+
+			_más si colocamos valores cercano ó mayores ha "100", el efecto será fácilmente apreviable
+
+			y visible sobre la layer, base en relación al efecto deseado ó ha conseguir
+
+
+		_Blend With Original:
+
+			_ésta opción nos permitirá fusionar el efecto generado con la layer, base en proporción al
+
+			efecto deseado
+
+
+
+
+
+

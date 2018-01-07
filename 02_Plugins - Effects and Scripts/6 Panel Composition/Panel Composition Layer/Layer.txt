@@ -1,0 +1,34 @@
+
+
+ventana nativa de after effects
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Layer
+
+
+	Layer:
+
+
+	_este nos permite visualizar y editar el contenido ya en dentro del timeline, de una respectiva composición
+
+	tanto para editar alguna característica como su duración entre otros, como también, para la edición de 
+
+	algunos	efectos como los de pintura, rotoscopia, clonado, edición del canal alpha, entros diferentes flujos
+
+	de producción
+
+
+	_éste panel penderá de la configuración del panel composición, por ésta razon conbiene antes de abrir el 
+
+	material del timeline, en el panel layer, es aconsejable primero en el panel composición poner éste en 
+
+	resolución completa, "control + j", así, como también, en visualización completa "control + alt + 1", para
+
+	luego si, abrir el material en el panel layer, para que éste herede toda la resolución el panel composición
+
+

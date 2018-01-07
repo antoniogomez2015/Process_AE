@@ -1,0 +1,205 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/time-effects.html#echo_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Diferencia de tiempo, calcula la diferencia de color entre dos capas y resulta una herramienta 
+
+	útil en la corrección del color; utilícelo para extraer diferencias de color cuando se equipare una placa 
+
+	de fondo con un material de archivo de primer plano. 
+
+
+	_También es apropiado para crear mates que se vayan a utilizar para aplicar estelas de humo, fuego o 
+
+	efectos de eco. 
+
+
+	_Una vez aplicado el efecto Diferencia de tiempo para encontrar las diferencias de color en el material 
+
+	de archivo, puede utilizar los efectos de corrección de color para aplicar las correcciones de color.
+
+
+	_ésta efecto también, nos permitirá crear efectos especiales como réplicas de imágenes animadas en 
+
+	diferentes tiempos, también, nos permitirá hacer proxis de animación a través, de un layer, auxiliares 
+
+	la cuál, tendrá máscaras ó rotoscopia del motivo para que éste interactúe luego sobre la layer, de fondo 
+
+	a través, de los diferentes modos de fusión e integración de mattes, y alphas, otros
+
+
+	_Este efecto funciona con colores de 8 bpc
+
+	
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+	
+
+	Time Difference: (Diferencia de Tiempo)
+	________________
+
+
+		_Target:
+
+			_ésta opción nos permitirá indcarle al sistema cuál, será la layer, de la cuál, el sistema
+
+			tomará la información para la generación del efecto, ésta información aplicará sólo ha 
+
+			layers, animadas en la composición respectiva
+
+
+			_por defecto biene seleccionada la misma layer, sobre la cuál, se ha aplicado el efecto 
+
+			más también, podremos seleccionar otra layer, de la composición respectiva para que así,
+
+			podamos crear diferentes efectos y desfaces de elementos encontrados por medio de layers,
+
+			con pre composiciones, rotoscópias, mattes, alphas, máscaras, otros
+
+
+		_Time Offset (Sec):
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el nivel ó umbral de desface
+
+			entre la reproducción del timeline, y la layer, que hará de proxi, de ésta manera, podremos
+
+			controlar el nivel de desface entre el timeline, y la layer, proxi, seleccionada
+
+
+			_para que así, podamos lograr diferentes efectos como strands, instancias de elementos y
+
+			diferentes tipo de material de archivos para generación de mapas de densidad, mattes, para
+
+			crear simulaciones, otros
+
+
+		_Contrast:
+
+			_Ajusta el resultado de la comparación. Este control puede ser especialmente útil en el 
+
+			ajuste preciso de correcciones de color.
+
+
+		_Absolute Difference:
+
+			_Muestra el resultado de la comparación como un valor absoluto. Cualquier área de la capa 
+
+			de comparación que no sea diferente de la capa del efecto se representa en negro, y 
+
+			cualquier cantidad de diferencia se representa de una forma más luminosa que el negro. 
+
+			
+			_Cuando se anula la selección de esta opción, las áreas comparadas que no presentan 
+
+			diferencias se representan en gris.
+
+
+
+		_Alpha Channel:
+
+	
+			_ésta opción especifica cómo se calcula el canal alfa
+
+
+
+			_Original:
+
+				_Utiliza el canal alfa de la capa del efecto.
+
+
+			_Target: (destino)
+
+				_Utiliza el canal alfa de la capa de destino.
+
+
+			_Blend:
+
+				_Fusiona los canales alfa de la capa de destino y la capa del efecto.
+
+
+
+			_Max:
+	
+				_Utiliza el canal alfa más opaco.
+
+
+
+			_Full On:
+
+				_Define el canal alfa para que sea totalmente opaco.
+
+
+			_Lightness of Result:
+
+				_Emplea la luminosidad de la diferencia RGB como alfa.
+
+
+			_Max of Result:
+
+				_Emplea los valores más altos de la diferencia RGB como alfa.
+
+
+			_Alpha Difference:
+
+				_Calcula las diferencias en los canales alfa de la capa del efecto y la capa de 
+
+				destino de la misma manera en que se calcula la diferencia de RGB.
+
+
+			_Alpha Difference Only:
+
+				_Calcula únicamente las diferencias de los canales alfa. RGB está definido en 
+
+				blanco.
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

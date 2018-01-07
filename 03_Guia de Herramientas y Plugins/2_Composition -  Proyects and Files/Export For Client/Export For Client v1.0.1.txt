@@ -1,0 +1,115 @@
+
+
+
+
+Export For Client
+
+
+	Referencia:
+
+		http://aescripts.com/exportforclient/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste nos permite exportar una serie de marcar de tiempos del timeline, de la composición para ser enviadas a 
+
+	un cliente para su análisis, comprensión ó notificación, éstas son enviadas como un documento de texto
+
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer exportación de una series de tiempos ó marcas de nuestra composición para que así, éstas 
+
+	sean analizadas al compartir éstas con colaboradores y clientes, otros
+
+
+	_ésto es especialmente útil para desarrollos avanzados en producción y para revisiones contínuas de procesos
+
+	en colaboración y a distacia donde hay pautas bien determinadas y controladas
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_primero debemos crear una una composición base de trabajo
+
+
+	_leugo de debemos de tener crear una serie de layers, de trabajo
+
+
+
+Layers de Text:
+_______________
+
+
+	_tenemos la posibilidad de exportar en archivo básico con la extensión ".txt", con la información básico del día
+
+	así, como la información de la composición
+
+
+	_y la información de las layers, de texto existentes en la escena, expresando así, el tiempo y otras descripciones
+
+	importantes las cuales pueden ser de gran utilidad para nuestros clientes y colaboradores
+
+
+	_para ésto tenemos dos opciones de formato para la información, éstos son: 
+
+
+		_"Plaint Text", ó texto plano ésta es una información más básica y menos detallas de las layers, de texto
+
+
+		_"Text and TC", ésta es una información más detallada ya que incluye el tiempo del "timecode"
+
+
+	_así, al darle ha "Export as .txt", se exportará un archivo básico de texto con la información de la layers
+
+
+	_más previamente disponemos de la opción de "Export all values", para que así, contemple todos los valores y las layers,
+
+	dentro de la composición
+
+
+
+Export Images:
+______________
+
+	_ésta opción nos permite rápidamente la posibilidad de exportar unos proxis, de los puntos más algidos e importantes de
+
+	nuestra composición para compartir con colaboradores y clientes para su estudio y análisis y aprobación
+
+	_para ésto, disponemos con "Add marker", para que así, se agregue una layer, a la escena en la cuál, podremos ir agregando
+
+	marcas en los punto deseados donde desariamos crear un proxi, de imágen de render, de la composición así, como también,
+
+	renombrar éstos para tener un mejor detalle y distinción
+
+
+	_así, como también, disponemos de "Export using", en el cuál, podremos escoger el tipo de proxi, ha realizar entre los cuales
+
+	disponemos de archivos de imágenes como "PSD, y otros archivos con pérdida de información", como también, archivos de video,
+
+	los cuales tienen diferentes formatos para que así, podamos aumentar la compatibilidad y posibilidades de exportación
+
+
+	_para luego dale ha "Export image files", de ésta manera se creará una cola de procesamiento de render, con los requerimientos
+
+	de nuestra selección los cuáles se exportarán ha una carpeta que designemos		
+
+	

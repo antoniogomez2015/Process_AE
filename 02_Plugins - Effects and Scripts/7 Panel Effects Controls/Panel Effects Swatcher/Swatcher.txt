@@ -1,0 +1,55 @@
+
+
+http://videohive.net/item/swatcher-script-v20/5238472?s_rank=1
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Swatcher
+
+
+	Swatcher:
+
+
+	-este nos permite cargar y aplicar muestras de colores a modo de swatches, ó paletas de colores por 
+
+	muestras con el plus de que éstos los podemos modificar y animar a modo del plugins "Color Rules"
+
+	
+	_el plugins, en la version de after effects CC2014, da erros, puede ser también, que el plugins, no
+
+	esté bien crackeado, "buscar otra version"
+
+	
+	web-services:
+
+		-dribble.com
+	
+		-design-seeds.com
+
+		-colourlovars.com
+
+		-colorcombos.com
+
+
+	Tipos de archivos:
+
+		http://galacticmilk.com/sphere/#config={"hsl":{"H":0,"S":100,"L":50},"theme":"dark","quantize":0,"harmony":"Neutral","vision":"Normal","space":"RYB","top":62,"left":50,"diameter":500,"scale":3,"dot":false}
+
+		_.aco
+
+		_.ase
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener una composición de trabajo creada 
+
+
+
+

@@ -1,0 +1,36 @@
+
+
+
+
+Expresiones para After Effects
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+After Effects CS6. Animación con expresiones a partir de ímágenes estáticas
+
+	https://www.youtube.com/watch?v=aT6rZR0rjT0
+
+
+	_así 
+
+	-----------------------------------------------------------------------------------------------------
+
+		Expression: 
+
+		Expression: time/index
+
+		Expression: time*10/index
+
+
+	----------------------------------------------------------------------------------------------------
+
+	
+
+
+
+		

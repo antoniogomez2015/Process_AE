@@ -1,0 +1,107 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá hacer un "isolate", ó aislamiento de color seleccionado en la imágen de la layer,
+
+	respectiva
+
+
+	_de ésta manera, podremos neutralizar los colores convitiendo éstos en escala grises excepto el color que
+
+	hemos seleccionado
+
+
+	_lo cuál, es especialmente útil para diferentes procesos de paso contínuo y de producicón
+
+
+	_éste tiene utilidades colaterales como aislar el color por ejemplo de un chrome, como también, para 
+
+	potencializar mapas de luminacia al permitir resaltar sólo un color, entre otras posibilidades
+
+
+		
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Leave Color: (Conservar Color)
+	____________
+
+
+		_Amount to Decolor:
+
+			_éste nos permitirá indicar la cantidad del efecto ó intensidad de éste aplicado sobre la 
+
+			imágen
+
+
+		_Color To Leave:
+
+			_ésta opción nos permitirá seleccionar el color a través, de un selector ó un picker, el 
+
+			cuál, será utilizado para hacer el isolate, ó aislamiento de color sobre la imágen
+
+
+		_Tolerance:
+
+			_ésta opción nos permitirá indicar la cantidad de tolerancia del efecto ó capacidad de
+
+			penetración en relación a la influencia del efecto así, como también, de la imágen original
+
+
+		_Edge Softness:
+
+			_ésta opción nos permitirá indicar el valor del suavizado ó calado entre el efecto y la 
+
+			imágen original, ó también, el valor de calado ó acutancia en las áreas perimetrales
+
+
+		_Match Colors:
+
+			_ésta opción nos permitirá indicar el espacio de color de trabajo entre lso cuáles, 
+
+			dispondremos de los siguientes, RGB, y HUE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

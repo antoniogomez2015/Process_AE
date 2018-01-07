@@ -1,0 +1,38 @@
+
+
+
+efecto para crear un efecto 3d, para una layer 2d
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+General:
+________
+
+	_primero debemos de tener creada nuestra composición de trabajo asi como una layer, motivo, ésta layer, puede ser un
+
+	texto, layer, de forma/shape, ó imágen
+
+
+
+Proceso:
+________
+
+	_primero debemos seleccionar la layer, motivo y con ésta seleccionar ir ha "Effects/Perspective/Bevel Alpha", este efecto
+
+	nos permitirá generar un volúmen hacia adelante de la layer, en relación a sus cortornos ó perímetros a través, de su 
+
+	relación alpha con el fondo
+
+
+	_para luego con la layer, motivo seleccionada ir ha "Effects/Stylize/Color Emboss", éste efecto nos permite generar un
+
+	efecto de pseudo 3d, ha modo de proyección ó sombra sobre los contornos ó perímetro de la layer, en relación al fondo por
+
+	medio del alpha, de la layer, respectiva
+
+
+
+

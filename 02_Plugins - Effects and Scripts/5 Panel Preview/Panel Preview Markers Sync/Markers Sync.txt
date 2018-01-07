@@ -1,0 +1,109 @@
+
+
+http://aescripts.com/markers-sync/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview / Markers Sync
+
+
+	Markers Sync:
+
+
+	-este nos permite crear marks, ó marcas en una composición para luego tener la posibilidad de cargar ésta
+
+	composición en otras composición con la diferencia de que si modificamos ó cambiamos las marcas de la 
+
+	composición original tendremos la posibilidad de actualizar automáticamente las marcas de las otras composición
+
+	como también, incluso agregar y ajustar las marcas de las otras composiciones entre otras posibilidades
+
+
+
+	Workflow:
+	_________
+
+
+	_primero debemos tener una composición de trabajo
+
+	
+	_así, como también, a la composición activa debemos crearle marks, ó marcas, en los puntos
+
+	de interés deseados para ésto, debemos ir al panel "Markers Sync", y hacer mouse left click, en "Receive Marks",
+
+	
+	_para que así, se agrege una nueva layer, a la composición de tipo "layer guide", en la cuál, podremos ir a gregando
+
+	las marks, ó marcas deseadas a través, del shortcut "*", del number path, del keyboard
+
+
+	UpDate:
+	_______
+
+
+	_luego debemos debemos crear una ó varias nuevas composiciones, en la cuál, debemos importar la composición a la
+
+	cuál, hemos agregado marcas ó marks
+
+
+	Refresh:
+	________
+
+	_luego, si volvemos a la composición original la cuál, tiene las marcas y hacemos un ajuste de las marcas como mover
+
+	éstas de su posición original y leugo vamos al panel "Markers Sync", y hacemos "Send Marks", las marcas actualizarán
+
+	su posición en éste caso, en todas las composiciónes donde ésta composición con las marcas se esté utilizando
+
+
+	Marge:
+	______
+
+	_tenemos la posibilidad de sumar marks, a través, de diferentes composiciones, nota, para ésto ambas composiciones deben
+
+	estar visibles en el viewport, de la interface, para que puedan sincronizarse
+
+
+	_para ésto, por ejemplo agregamos otra mark, en la nueva composición en la cuál, se ha agregado la composición original
+
+	que le hemos agregado las marcas
+
+
+	_para luego, seleccionar ambas composiciones "visibles en el viewport", y con ambas seleccionadas ir al panel "Markers Sync",
+
+	y hacer "Receive Marks", para que así, se sumen todas las marks, existentes en ambas composiciones
+
+
+
+	Multilayer:
+	___________
+
+	_ésta opción es similar a la original ó princial de actualizar marcas entre composiciones más que cuando hay más de dos composiciones
+
+	visibles en el viewport, y hacemos alguna modificación en las marcas de la original y no tenemos seleccionada nunguna de las 
+
+	composiciones y hacemos "Send Marks", nos aparecerá un menú contextual con opciones de criterio de las acciones ha tomar
+
+
+	TimeStretch:
+	____________
+
+	_ésta opción también, nos permite agregar al proceso y workflow, visto la posibilidad de estrechar ó ensanchar el tiempo y agregarlo
+
+	como parte de una marca para que luego éste sea actualizado en las otras composiciones
+
+
+	(hacer pruebas de comprobación con el tutorial)
+
+
+	TimeRemapping:
+	______________
+
+	_ésta opción es otro plus, al igual que la opción anterior
+	
+	
+

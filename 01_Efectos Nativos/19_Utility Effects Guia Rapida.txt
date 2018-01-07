@@ -1,0 +1,195 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Utility Effects:
+	________________
+
+
+	
+	Apply Colro LUT: (Aplicar Tablas de Busqueda de Color)
+
+		_Aplique el efecto de aplicación de tabla de búsqueda de color a una capa para transformar los 
+
+		colores de la capa en función de una tabla de búsqueda de color (LUT). Las tablas de búsqueda de 
+
+		color se suelen utilizar para realizar correcciones de color manuales o tareas de administración 
+
+		de color
+
+
+		_Este efecto funciona con color de 8 bpc, 16 bpc y 32 bpc.
+
+
+		_Cuando se aplica el efecto, se le indica que seleccione un archivo LUT .3dl o .cube. También puede 
+
+		modificar la tabla de búsqueda cargada en una instancia del efecto Aplicar tabla de búsqueda de color,
+
+		haciendo clic en Seleccionar tabla de busq. en los controles del efecto.
+
+
+
+
+	Cineon Converter: (Convertidor CIneon)
+
+		_El efecto Convertidor Cineon brinda un alto grado de control sobre las conversiones de color de los
+
+		fotogramas Cineon, pero en la mayoría de los casos deberá convertir los colores en un archivo Cineon 
+
+		utilizando las características de administración de color. (Consulte elementos de material 
+
+		Cineon y DPX).
+
+
+
+	Color Profile Converter: (Convertidor de Perfiles de Color)
+
+		_El efecto Convertidor de perfiles de color, convierte una capa de un espacio de color en otro 
+
+		especificando los perfiles de entrada y salida.
+
+
+		_En la mayoría de los casos, deberá utilizar las características de administración automática de 
+
+		color para convertir un espacio de color a otro, en vez de utilizar el Convertidor de perfiles 
+
+		de color para hacer las conversiones manualmente. (Consulte Administración de color.)
+
+
+		_Los perfiles que seleccione se incrustan en el proyecto, de modo que pueda usarlos si transfiere 
+
+		el proyecto a un equipo que no tenga los mismos perfiles. Cuando realice conversiones de un espacio 
+
+		de color a otro, puede especificar la forma en que After Effects realiza la conversión de color 
+
+		seleccionando una calidad de representación. También tiene la posibilidad de elegir si alinear 
+
+		el perfil de entrada o salida.
+
+
+		_Este efecto funciona con color de 8 bpc, 16 bpc y 32 bpc.
+
+
+
+
+	Grow Bounds: (Extender Limites)
+
+		_éste efecto nos permitirá poder extender los pixeles una layer, la cuál, disponga de un menor tamaño 
+
+		en la composición respectiva
+
+	
+		_para que así, podamos aplicarle ha ésta layer, efectos que requieran extenderse más allá de los 
+
+		límites de layer, sobre la cuál, se ha aplicado dicho efecto, como por ejemplo; efecto de resplandor, 
+
+		zoom light, otros
+
+
+
+	
+	HDR Compander: (HDR Compander)
+
+		_éste efecto de forma práctica nos permitirá restringir ó extander los niveles ó rango dinámico de 
+
+		una imágen sea ésta imágen HDR, ó no
+
+
+		_El efecto HDR Compander (compresor/expansor) le proporciona un modo de trabajar con herramientas 
+
+		que no admitan color de alto rango dinámico, como efectos de 8 bpc y 16 bpc, sin sacrificar el alto 
+
+		rango dinámico del material de archivo.
+
+
+		_El efecto HDR Compander funciona comprimiendo en primer lugar los valores de resaltado de la imagen 
+
+		HDR para que entren en el rango de una imagen de 8 bpc o 16 bpc (rango dinámico bajo) y, a 
+
+		continuación, expandiendo de nuevo los valores al rango de 32 bpc.	
+
+
+
+	HDR Highlight Compander: (Compresion Resaltada HDR)
+
+		__éste efecto nos permitirá convertir una imágen HDR, en una imágen normal ó de bajo rango dinámico
+	
+
+		_El efecto Compresión resaltada HDR, comprime los valores de color en una imagen de rango dinámico 
+
+		alto para que se encuentren dentro del rango de valores de una imagen de rango dinámico bajo.
+
+
+		_Configure la cantidad de compresión ajustando la propiedad Nivel para el efecto. 
+
+
+		_Si el valor de nivel se establece en 100%, los valores de color se comprimen de forma que ningún 
+
+		píxel tenga ningún valor de canal fuera del rango dinámico bajo de 0,0–1,0. 
+
+
+		_Con un ajuste de valor inferior a 100%, el efecto aún puede aportar algunos detalles en el rango 
+
+		visible de las zonas resaltadas y en sombra.
+
+
+
+
+	CC Overbrights: (CC Overbrights)
+
+		_Overbrights es una utilidad para identificar rápidamente áreas de colores excesivamente brillantes 
+
+		en proyectos de 32 bpc (flotador). 
+
+
+		_Puede elegir entre tres canales, RGB, Luminosidad o Luminosidad.
+
+
+		_Cada selección de canal ofrece dos opciones de visualización, recortadas o sólidas, donde las 
+
+		opciones recortadas muestra valores sobrebrillantes en el Color del clip seleccionado y extracto 
+
+		de opciones sólidas y muestra solo valores sobrebrillantes, coloreados en rojo, verde y azul para 
+
+		identificarlos fácilmente en qué canal RGB fueron encontrados. Overbrights es el compañero perfecto 
+
+		para efectos tales como Niveles y Exposición, donde cada ajuste de los valores de sobrerreflexión 
+
+		puede verse al instante y controlarse con gran precisión. Este efecto no encontrará ningún colores 
+
+		sobrebrillantes en proyectos de 8 bpc y 16 bpc debido a su rango de color fijo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

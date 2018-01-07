@@ -1,0 +1,159 @@
+
+
+
+Evil Twin Stereo 3D
+
+
+	Referencia:
+
+		http://aescripts.com/evil-twin-stereo-3d/
+
+
+	SEGUIR INVESTIGANDO HASTA LOGRAR HACER EL EFECTO COMPLETO	>
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite crear el efecto estereoscópico de forma automatizada en una series de pasos y protocolos
+
+
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer animaciones y simulaciones de los efectos del 3d, para lentes de colores por la 
+
+	diferenncia de paralaje entre dos tomas paralelas de forma práctiva y directa a través, de un proceso
+
+	determinado por el plugins
+
+
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+	Footage:
+	________
+
+
+	_primero debemos tener preparado el footage, ó recursos a utilizar para el proceso de creación del stereo 3d,
+
+	éste puede ser videos ó composiciones, "preferiblemente video"
+
+
+	_en cualquiera de los casos, éste debemos de llamarlo de ej: "source_L", con la implementación del sufijo al final
+
+	del nombre de ésta "_L"
+
+
+	_para luego ir al panel proyecto y proceder a duplicar ésta composición ó video, renombran ésta ej: "source_R",
+
+	con la implementación del prefijo en el nombre de ésta "_R"
+
+
+	_para que así, podamos utilizar éstos para el proceso de creación stereo 3d, aunque aún no hay diferencia de 
+
+	paralaje en ninguna de las composiciones ó material de de video, tanto el "_L ó _R"
+
+
+	_ahora en el panel proyecto, creamos una folder, ó carpeta en la cuál, arrastraremos ambas composiciones ó videos
+
+	tanto el "_L, como el _R"
+
+
+
+
+	Composition:
+	____________	
+
+	
+	_primero debemos tener una composición llamada con el nombre del proyecto deseado ej: "stereo_dots_L", la cuál,
+
+	en su nombre al final debemos de agregarle el siguiente prefijo "_L", éste servirá para identificar ésta 
+
+	composición para proceso y creación del sistema stereo 3d
+
+
+	_y dentro de ésta composición que hemos creado en la paso anterior debemos arrastraremos el "footage", en éste ej; 
+
+	"source_L"
+
+
+	_luego vamos al panel proyecto y creamos una nueva folder ó carpeta en la cuál, también, arrastraremos la composición
+
+	que hemos creado "stereo_dots_L", para que así, mantengamos el orden del proyecto y funcione correctamen el plugins
+
+
+	
+	L/R Clone:
+	__________
+
+
+	_ahora en el panel "proyecto", seleccionamos la composición principal, en éste caso "stereo_dots_L", y con ésta composición
+
+	seleccionada vamos al panel "Evil Twin Stereo 3D", y hacemos "L/R Clone"
+
+
+	_así, a través, de éste caso se creará la composición "stereo_dots_R"
+
+
+	_y en la composición "stereo_dots_L", serán agregadas las siguientes layers, guides, éstas son:
+
+
+		_StereoSystem_R
+
+		_Evil Twin - S3D
+
+
+	_y en éstas layers, agregadas serán agregados los siguientes efectos para controlar el sistema stereo 3d
+
+
+		_StereoSystem_R
+
+			_Right Anaglyph
+
+		_Evil Twin - S3D
+
+			_Left Anaglyph
+
+
+
+	Wiggle Flip L/R:
+	________________
+
+
+	_y ahora en el panel proyecto seleccionamos la composición en éste ejemplo "stereo_dots_L", y luego vamos 
+
+	al panel de "Evil Twin Stereo 3d", y aplicamos "Wiggle flip L/R"
+
+
+	_para que así, en la composición, en éste caso "stereo_dots_L", sean agregados los siguientes efectos a la 
+
+	layer, "Evil Twin - S3D", éstos son:
+
+
+		_Evil Twin - S3D:
+
+			_Wiggle LR
+
+			_Wiggle Offset
+
+			_Wiggle Buffer Time
+
+
+

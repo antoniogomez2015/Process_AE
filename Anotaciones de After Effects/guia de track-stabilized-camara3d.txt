@@ -1,0 +1,218 @@
+
+Panel "Track/rastreador; criterios" (options)
+
+1. las opciones más importantes del panel "Track/seguimiento", son las siguientes a considerar:
+
+		1.1.Track Name: aqui podemos indicar un nombre para los diferentes trackeos que necesitemos hacer y recuperar
+
+		1.2.Tracker Plu-in: esta opcion permite selecciona plugins de terceros fabricantes 
+
+		1.3.Channel: esta opción permite indicar el criterio en el cual la aplicación va a realizar el muestreo de pixeles
+
+			1.3.1.RGB: esta opción permite indicar un muestreo que tiene los criterios de luminancia y saturación (esta opción es un poco más lenta pero más precisa)
+
+			1.3.2.Luminance: esta opción tiene como criterios los valores de iluminación para el cálculo y muestreo de los pixeles
+
+			1.3.3. Saturation: esta opción tiene como criterios la saturación del color como criterio cálculo para el muestreo de piexeles
+
+		1.4.Process Before Match/procesar antes de aplicar coincidencia: esta opción se utiliza con imágenes que tiene ruido, esta opción desenfoca 
+
+		y debemos indicar la cantidad de desenfoque para mejorar la precisión de la herramienta
+
+		1.5.Track Fields: esta opción permite indicarle a la herramienta el tipo de material a trackear; si el material es "entrelazado", debemos activar esta opción, 
+
+		si el material es "progresivo" debemos desactivar es opción
+
+		1.6.Subpixel Positioning/posicionamiento de subpixeles: esta opción activa permite una mayor presición a cambio de un pequeño relentizado en el tiempo de trackeo
+
+		5.7.Adapt Feature On Every Frame/adaptar características en cada fotograma: esta opción aplica para cuando el grupo de pixeles que estamos siguiendo se va a perder; deteniendo el trackeo temporalmente, 
+		
+		luego debemos indicar los criterios a utilizar por la herramienta en el momento que aplique ésta cuando se pierdan los pixeles, estos son:
+
+			1.7.1.continue tracking/continuar seguimiento: al perderse los pixeles con esta opción seguiría el trackeo y sería lo mismo que si no activamos esta opción de "Adapt Feature On Every Frame"
+
+			1.7.2.Stop Tracking/detener movimiento: esta opción detiene el trackeo para que podamos hacer correcciones en el momento que se piertan los pixeles de muestreo
+
+			1.7.3.Extrapolate Motion/extrapolar movimiento: en base al movimiento que ya ha calculado, calcular las posiciones en las que debería estar los piexeles que estamos trackeando
+
+			cuando éstos han desaparecido para generar criterios con pixeles similares y continuar con el trackeo
+
+			1.7.4.If Confidence is Below/si la conincidencia es menor 80%: aqui indicamos el porcentaje de pixeles que deben desaparecer para que aplicaque la herramienta
+
+		
+
+
+Diferencias entre track/trackeo (rastreo) y sabilize/estabilizado:
+
+	Estabilizado/stabilized: el estabilizado tiene el objetivo de optener datos de compenzación de movimiento, escala, rotación y perspectiva, los cuales se aplicarán directamente en la capa en la cual se aplicó el estabilizado
+
+	Rastreador/track: permite determinar a través del rastreo de pixeles las propiedades ó datos en escala, rotación y perspectiva, los cuales se puden aplicar a cualquier capa ó propiedad de una capa ó plugin
+
+
+seleccionadores de pixeles a trackear:
+
+	1.el rectángulo interno: enmarca los pixeles que deseamos seguir: procuremos indicar pixeles de alto contraste en esta selección, por ejemplo: blancos y negros; para que la herramienta pueda comparar 
+
+	entre ambos colores/saturación ó contraste, si colocamos sólo un color ó contraste, la herramienta no podrá comparar para poder hacer el muestreo para el trackeo, (un 80%, de lo que queramos trackear y un 20%, de lo que esta al rededor)
+
+	2.el rectángulo exterior: enmarca los pixeles que tomará la herramienta para comparar los cambios relizados por los pixeles para hacer la extrapolación de pixeles para poder moverse a la nueva posición de los pixeles
+
+	(si hacemos el rectángulo exterior demaciado grande en relación al rectángulo interno, la herramienta perderá demaciado rendimiento)
+
+	3.debemos comenzar el trackeo al principio ó al final del clic de video para poder así, trackear hacia adelante y hacia atras
+
+	4.la edición y ajuste de los rectángulos de muestreo para el trackeo debemos hacerlo en el panel de layer ó capa
+
+	5.la herramienta de track/rastreador funciona a través de muestreo de pixeles, por esta razón debemos configurar la ventana  de composición con resolución completa, ya que la ventana de layer/capa, hereda ó trabaja con la misma resolución que la ventana de composición
+
+	6.luego de trackear nuestro clic de video debemos "Apply/aplicar", los cambios en el panel "Track/rastreador", en la capa ó clic, seleccionado
+
+	7.se crearán los atributos "Motion Trackers" y "Track Pint", donde se almacenará el trackeo que hemos realizado en el click de video ó capa
+
+	8.al "Apply/aplicar", el trackero en el panel "Track/rastreo," se creará el atributo "Transform" "Anchor Point", en el clic de video selecionado ó capa, donde se aplicarán los ajuste de movimiento ó escala ó rotación ó perspectiva
+
+
+Criterio de muestros para position-scale-ratation:
+
+	1.para rastrear/track ó stabilized/estabilizar "position", en un plano, solo hace falta un punto de rastretro, con su rectángulo interior y exterior, el cual muestrea para seguir y almacenar los datos en el tiempo
+
+	2.rastrear/track ó stabilized/estabilizar "position-rotation", en un plano, hacen falta dos puntos de rastreo:
+		
+		2.1.con el primer punto se toman muestras de pixeles similares para su seguimiento y así, estabilizar movimiento/posición
+
+		2.2.con el segundo punto se toman muestras de pixeles similares para tomarlas de referencia de comparación entre la altura del punto1 y el punto2 para determinar la rotación del plano
+
+		2.3.con el segundo punto también se toman muestras de pixeles similares para tomarlas de referencia de comparación entre la proximidad ó distancia entre el punto1 y el punto2 para determinar cambios de escala en el plano
+
+________________________________________________________________________________________________________________________________________________________________
+
+									APLICACIONES DEL PANEL TRACK
+
+
+
+
+Stabilice motion/ estabilizado: 
+
+	ESTABILIZADO DE POSITION,ROTARION/POSITION,ROTACIÓN
+ 
+	1.debe crearse un composición del mismo tamaño del clic de video, con la misma cadencia de fotogramas y aspecto de pixel
+
+	2.para iniciar el estabilizador: le damos click derecho al clic de video en la línea de tiempo y seleccionamos: "Stabilize Motion/estabilizado"
+
+	3.en el panel "Track/seguimiento", que se abre debemos seleccionar la opcion; Track Type: Stabilize, para así activar las opciones de estabilizado
+
+	4.la opción "Current Track/pista actual": permite indicar el bloque de almacenamiento de datos muestreados en las propiedades "Motion Trackers" - "Tracker1", creadas en el clic de video, 
+
+	así podremos crear varios blosques de datos de muestreo en nuestro clic de video así como borrarlos (para crear nuevos bloques le daremos al botón: "Track Motion/seguir movimiento")
+
+	5.luego debemos seleccionar los criterios de cordenadas que utilizará la herramienta, estos son: Position/posición, Rotation/rotación, Scale/escala
+
+	6.ahora seleccionamos los pixeles a muestrear para el trackeo a través con el rectángulo interno y externo en el panel de capa (no alvidemos colocar en resolución completa el panel de composición para tener una mayor precisión en el muestreo de pixeles para el trackeo)
+
+	7.ahora colocamos el cabezal de la línea de tiempo en el princípio ó en el final de click, en la ventana de capa para comenzar con trackeo, sea hacia adelante ó hacia atras
+
+	8.ahora procedemos a trackear fotograma a fotograma ó track contínuo, tanto hacia adelante ó hacia atras
+
+	9.luego procedemos a "Apply/aplicar", las propiedades de "transformación", al clic de video, a continuación nos pedirá que indiquemos "Apply Dimensions/aplicar dimensiones"; debemos seleccionar en el menu contextual las cordenadas aplicar en "X", en "Y" ó en "X and Y" 
+
+	10.el destino del "Track Stabilize/ estabilizado de movimiento", siempre tendrá el destino de trackeo la misma capa de origen, osea el clic de video
+
+_______________________________________________________________________________________________________________________________________________________________________________
+
+ESTABILIZADO DE DEFORMACIÓN VFX/WARP STABILIZER VFX
+
+	1.Result/resultado:
+
+		1.1.Smooth Motion/suavizar movimiento: esta opción es ideal para planos con movimientos de cámara en travelling, roll, pan.., permitiendo suavizar imperfecciones y logrando una suavidad continua en el movimiento resultante
+
+			1.1.1.Smoothness: este valor permite indicar el rango de suavizado y estabilizado del plano en una escala de 0-100
+
+		1.2.No Motion/sin movimiento: esta opción peremite eliminar ó estabilizar el movimiento (similar al estabilizado ó "track", convencional)
+
+
+	2.Method/método:
+
+		2.1.Position/posición: permite estabilizar la posición ó estabilizado de un plano
+
+		2.2.Position-Scale-Rotation/posición,escala,rotación: permite estabilizar la posición, escala y rotación de un plano
+
+		2.3.Perspectiva/perspectiva: permite estabilizar la perspectiva de una plano
+
+		2.4.Subspace Warp/deformación de subespacio: permite corregir el defecto de rolling shatter (efecto gelatina), sensación del plano que se dobla
+
+
+	3.Framing/encuadre:
+
+		3.1.Stabilized Only/sólo estabilizar: esta opción permite sólo estabilizar el plano, sin cortarlo ó escalarlo (método tradicional del "track stabilized")
+
+		3.2.Stabilized, Crop/cortar y estabilizar: esta opción permite estabilizar y cortar el plano colocando un marco netro en los excedentes relativos
+
+		3.3.Stabilized, Crop, Auto-scale/cortar, estabilizar, escala automática: esta opción permite estabilizar, cortar y auto escalar el plano automaticamente, cortando excedentes relativos
+
+		3.1.Stabilized, Synthesize Edges/estabilizar, sintetizar bordes: esta opción busca información en los fotogramas por delante y por detras de los pixeles perdidos en el plano para, esto permite reinventar los pixeles perdidos en el escalado del estabilizado, así, no el plano real no se escala ni pierde calidad
+
+			3.1.1.Synthesis Imput Range (segundo)/rango de entrada de síntesis: este es el criterio del rango en segundo con el cual va a mirar por delante y por detras de cada fotograma para hacer el muestredo del rango perdido en la estabilización y perdida en los bordes
+
+			3.3.2.Synthesis Edge Feather/síntesis de calado de bordes: esta opción permite hacer un calado de borde en relación a la cadencia elegidad en el criterio seleccionado
+
+	4.Show Track Point/mostrar puntos de seguimiento:
+
+		4.1.esta opción permite mostrar los puntos de seguimiento (los criterios que toma la herramienta)
+
+		4.2.ahora podremos seleccionar y eliminar parcialmente los puntos de seguimiento, permitiendo así, indicar nuestro propio criterio de seguimiento a la herramienta
+
+		4.3.haciendo left+click+draw en la ventana composición podremos seleccionar los puntos de seguimiento que deseamos eliminar ó borrar por que afectan en las áreas que no que queremos que la herramienta tenga en cuenta como criterio de estabilizado
+
+		4.4.luego aplicamos la tecla Suprimir para eliminar los bordes seleccionados, luego avanzamos en la línea de tiempo y repetimos la operación hasta cubrir el tiempo deseado
+
+		4.5.así, el estabilizado se realizará solo tomando los criterios que dejamos ó permitimos en el plano resultante
+
+		4.6.Track Point Size/tamaño de puntos de seguimiento: esta opción permite configurar el tamaño de visualización de los puntos de seguimiento
+
+		4.7.Auto-Delete points Across/eliminar puntos automaticamente en el tiempo: esta opción permite borrar relativamente los puntos que hemos borrados en los fotogramas siguientes
+
+		4.8.Hiden Warning Banner/ocultar advertencias: esta opción permite ocultar advertencias y avisos por la herramienta
+
+
+	5.Objetive/objetivo
+		
+		Reversible Stabilization/estabilización reversible (estas funciones solo aplican ó funcionan con efectos)
+
+		5.1.seleccionar los puntos de seguimiento en el área desea y con los criterios deseados como posición-escala-rotacion-perspectiva
+
+		5.2.en la capa donde aplicamos el efecto de warp stabilizer, ("creamos máscaras y formas y efecto que deseamos generar y aplica")
+
+		5.3.duplicamos la capa y la capa de abajo ó base, le quitamos los efectos creados ó generamos una nueva capa de origen ó base ó de fondo ó composición
+
+		5.4.en las opciones de Objetive/objetivo; seleccionamos la opción "Reversible Stabilization/estabilización reversible"
+
+		5.5.ahora duplicamos el efecto de Warp Stabilized VFX/estabilización de deformación VFX
+
+		5.6.luego colocamos el filtro ó los filtros de efectos creados entre ambos filtros de "Warp Stabilized VFX/estabilización de deformación VFX" (efecto sandwis)
+
+		5.7.al primer filtro ó superior "Warp Stabilized VFX/estabilización de deformación VFX", le colocaremos en las opciones de Objetive/objetivo: "Reversible Stabilization/estabilización reversible"
+
+		5.8.al segundo filtro ó inferior "Warp Stabilized VFX/estabilización de deformación VFX", le colocaremos en las opciones de Objetive/objetivo: "Reverse Stabilization/estabilización inversa"
+
+		5.9.de esta manera los filtro de efectos dentro del (sandwis), heredan la estabilización invertida, adaptada a las propiedades de los efectos y filtros, así los efectos se moverán igual que el estabilizado
+
+
+		Apply Motion To Target/aplicar movimiento al destino
+
+		6.1.esta opción permite asignarle los datos de destino a una capa seleccionada determinada
+
+		6.2.Target Layer/capa de destino: esta opción permite seleccionar la capa de destino del efecto de estabilizado
+	
+		6.3.la opción de Apply To Target, permite asignarle los datos de estabilizado a la capa de destino eliminando la del estabilizado, permitiendo así los datos idependiente entre la capa del estabilizado y la capa de destino
+
+
+		Apply Motion To Target Over Original/aplicar movimiento al destino por encima del original
+
+		7.1.esta opción permite asignarle los datos de destino a una capa seleccionada determinada
+
+		7.2.Target Layer/capa de destino: esta opción permite seleccionar la capa de destino del efecto de estabilizado
+
+		7.3.la opción de Apply To Target Over Original, permite asignarle los datos de estabilizado a la capa de destino eliminando la del estabilizado a la vez
+
+
+	

@@ -1,0 +1,157 @@
+
+
+
+
+	http://www.digitalfilmtools.com/rays/
+
+
+	
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá 
+
+
+		
+
+
+	Rays:
+	_____
+
+
+		View:
+
+			_Output:
+
+				_ésta opción nos permitirá visualizar el resultado final con el efecto aplicado 
+
+				sobre la imágen base
+
+
+			_Rays:
+
+				_ésta opción nos permitirá visualizar sólo los rays, generados por el sistema de forma
+
+				parcial en relación a la imágen base
+
+
+			_Original:
+
+				_ésta opción nos permitirá visualizar la imágen original sin la aplicación del 
+
+				efecto
+
+
+
+
+		Rays:
+
+
+			_Length:
+
+				_ésta opción nos permitirá configurar la longitud de los rayos generados por el sistema
+
+
+			_Threshold:
+
+				_ésta opción nos permitirá controlar la capacidad de penetración de los rayos generados
+
+				por el sistema sobre la imágen base
+
+
+				_de ésta manera, con valores cercanos ha "0", los rayos tendrán una dispersión total sobre
+
+				la imágen base y, con valores cercanos ha "100", la aplicación de los rayos será 
+
+				inexistente ó nula ó no serán visibles
+
+
+			_Position:
+
+				_ésta opción a través, de handle, directamente en el viewport, ó panel compositing, 
+
+				podremos configurar la posición del epicentro del sistema como también, a través, del panel
+
+				effects controls, para tener un mayor detalle y dominio de la posición del sistema
+
+
+		Color:
+
+
+			_Brightness:
+
+				_ésta opción nos permitirá tener control del brillo ó intensidad del sistema de ésta 
+
+				manera, podremos crear un sistema más ó menos intenso ó visible sobre la imágen base
+
+
+			_Color:
+
+				_ésta opción nos permitirá indicar un color personalizado para la generación del sistema
+
+				a través, de un picker, ó un selector de colores personalizado, el color del sistema por
+
+				defecto es de color blanco
+
+
+
+		Shimmer:
+
+			
+			_Amount:
+
+				_ésta opción nos permitirá afinar y contrastar los rayos generados unos con otros lo cuál,
+
+				irá de la mano con la opción de "Color/Brightness", de ésta manera, podremos tener un
+
+				efecto de rayos más ó menos acusado ó por el contrario podremos crear un efecto con un 
+
+				aspecto de tipo energía
+
+
+			_Phase:
+
+				_ésta opción nos permitirá hacer una rotación en grados del sistema de rayos generados en 
+
+				relación al epicentro de generación del sistema
+
+
+
+		Opacity:
+
+			
+			_Rays:
+
+				_ésta opción nos permitirá controlar la influencia u opacidad del sistema sobre la imágen
+
+				base lo que nos permitirá poder controlar la insidencia del efecto sobre la layer, base
+
+
+			_Source:
+
+				_ésta opción nos permitirá controlar la opacidad de la imágen base en relación a la 
+
+				generación del efecto, lo que nos permitirá poder crear diferentes efectos de tipo estelas
+
+				de luz de la imágen base entre otras posibilidades
+
+				
+
+
+			
+		
+
+
+
+
+
+
+

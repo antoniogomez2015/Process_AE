@@ -1,0 +1,824 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+		_ésta opción nos pemritirá crear simulaciones de partículas ó fragmentos mapeados de color ó a 
+
+		través, de la información extraida de un textura base a la cuál, le hemos aplicado el respectivo 
+
+		efecto
+
+
+		_de ésta manera, podremos crear simulaciones bases un poco más avanzadas que la opción de 
+
+		"Simulate/CC Mr. Mercury", más en éste caso dispondremos de más opciones
+
+
+		_de ésta manera, podremos crear efectos de simulación específicos y de paso contínuo y de producción
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Particle System II: (CC Sistema de Particulas II)
+	______________________
+
+
+		_Birth Rate:
+
+			_ésta opción nos permitirá indicar la cantidad de partículas generadas por el sistema de 
+
+			ésta manera, podremos regular la cantidad de partículas generadas por el sistema en relación
+
+			a las necesidades de producicón
+
+
+		_Longevity:
+
+			_ésta opción nos permitirá indicarle al sistema cuanto durará ó por cuanto tiempo serán 
+
+			visibles las partículas a través, del tiempo, de ésta manera, podremos hacer que el sistema
+
+			sea visible sólo hasta una cierta área determinada lo cuál, nos permitirá realizar 
+
+			diferentes efectos
+
+
+			_como también, nos permitirá aligerar el proceso de cómputo del sistema lo cuál, hará más
+
+			rápido el proceso
+
+
+		
+		Producer:
+
+
+			_Position:
+
+				_ésta opción nos permitirá ubicar ó cambiar de posición el sistema generado y a su 
+
+				vez, indicar cuál, será el epicentro de generación del sistema
+
+
+				_de ésta manera, podremos animar y reubicar el sistema en general logrando así, 
+
+				diferentes comportamientos del fluido entre otras muchas posibilidades			
+
+
+			_Radius X | Y:
+
+				_ésta opción nos permitirá indicar el comportamiento a lo ancho y el alto que tendrá
+
+				el sistema generado de partíclas 
+
+
+
+		Physics:		
+
+
+			Animation:
+
+
+				_Explosive:
+
+					_ésta opción nos pemritirá controlar directamente el comportamiento del 
+
+					sistema de partículas en relación al tipo de emisor en relación a su vez, 
+
+					a su epicentro y al "Radius", para todos las las opciones de "Animation"
+
+
+					_ésta opción específicamente nos permitirá hacer dispersiones sutiles en 
+
+					relación al epicentro y radio de acción especialmente útil para 
+
+					la generación de partículas de tipo dispersiones, efecto zoom, erupciones,
+
+					otros
+
+
+				_Fractal Explosive:
+
+					_ésta opción es idéntica a la opción anterior más ésta opción es más 
+
+					emulsionada y trepidante lo cuál, es especialmente útil para productos más 
+
+					espumosos y con más energía ó impacto
+
+
+				_Twirl:
+
+					_ésta opción nos permitirá crear torsiones de simulación de partículas de 
+
+					tipo radial aunque de forma sutil a partir del epicentro de la emisión de 
+
+					partículas, éste tipo de emisión funciona mejor bajo una gravedad "0", para 
+
+					que así, la gravedad no influya en la forma y dirección de torsión que 
+
+					distorsionará las partículas generadas y ahora modeladas
+
+
+					_de ésta manera, ésta opción nos permitirá crear tornados ó liquados vistos 
+
+					desde una perspectiva cenital ó desde arriba por ejemplo; para la 
+
+					elaboración de batidos, mezclas de pinturas, otros
+
+
+				_Twirly:
+
+					_ésta opción es más conveniente para la creación de efectos espumosos como
+
+					por ejemplo, la esfervecencia de una cerveza, ó la mezcla de alguna bebida,
+
+					entre otras muchas posibilidades
+
+
+				_Vortex:
+
+					_ésta opción es especialmente útil para creación de llamas, flamas, candela,
+
+					humo, gases hacia arriba, cortinas para transiciones entre otras muchas 
+
+					prosibilidades de producción y paso contínuo
+
+
+				_Fire:
+
+					_ésta opción tendrá más un comportamiento del efecto "Bubble/Vortex", lo
+
+					cuál, es especialmente útil para la creación ó emulación de tornados, 
+
+					ciclones, en una vista frontal
+
+
+					_más también, a través, de éste efecto podremos crear también, algunos 
+
+					efectos de partículas de carbones encendidos, poluciones ambientales, otros
+
+
+				_Direction:
+
+					_ésta opción tiene un comportamiento similar a la opción de "Twirly", más 
+
+					ésta opción también, nos pemritirá crear efectos de tipo cortinas y 
+
+					transiciones, otros
+
+
+				_Direction Normalized:
+
+					_ésta opción es idéntica a la opción anterior de "Direction", más ésta 
+
+					opción dispondrá de una reserva en el área central donde se encuentra su
+
+					epicentro lo cuál, nos permitirá más fácilamente crear montajes entre ésta
+
+					layer, de las partículas y las demás layers, de la respectiva composición
+
+
+				_Jet Sideways:
+
+					_ésta opción es una variante muy similar a la opción anterior de "Twirly"
+
+
+
+			_Velocity:
+
+				_ésta opción nos pemritirá controlar la fuerza de dispersión de las partículas en 
+
+				relación a su epicentro ó punto de generación del mismo, de ésta manera, podremos 
+
+				variar lo valátil ó lo apacible de la generación de las partículas así, como también, 
+
+				el alcence de las partículas en el espacio circundante al epicentro en la respectiva
+
+				composición 
+
+
+			_Inherit Velocity %:
+
+				_ésta opción nos permitirá indicar una velocidad inicial para el sistema de 
+
+				partículas de ésta manera, podremos configurar un comportamiento inicial para el
+
+				sistema en general de emisión de partículas
+		
+
+
+			_Gravity:
+
+				_ésta opción nos permitirá reailizar diferentes efectos con cambios de perspectivas 
+
+				al poder así, hacer variaciones sobre la perspectiva de las partículas generadas, 
+
+				de ésta manera, podremos crear partículas en ingradidez, para emular en perspectiva 
+
+				paralela a la toma de la cámara
+
+
+				_como también, podremos realizar efectos con una gravedad negativa para la creación 
+
+				de efecto de dispersión de café, ó helado por ejemplo, otros
+
+
+				_como también, podremos crear efectos con una gravedad positiva para la creación de 
+
+				magmas, chocolate cayendo, otros
+
+
+			_Resistence:
+´
+				_ésta opción nos permitirá controlar ó cambiar el comportamiento de sistema de 
+
+				partículas de ésta manera, podremos hacer un sistema de partículas  más ligero como 
+
+				por ejemplo; la leche, otros
+
+
+				_como también, podremos crear un sistema más denso y gelatinoso como por ejemplo; 
+
+				un gel para el cabello, jarabe, otros
+
+
+				_de ésta manera, las partículas podrán cobrar más ó menos dispersión antes 
+
+				desvanecerse ó no
+
+
+				_Para que así, en conjunción con los demás parámetros podamos lograr diferentes
+
+				compuestos y prestaciones en relación a nuestras necesidades de producción y paso 
+
+				contínuo
+
+
+			_Direction:
+
+				_ésta opcíon nos permitirá rotar parte del sistema de partículas en relación a su 
+
+				vez, al criterio ó algoritmo seleccionado en la opción de "Animation"
+
+
+				_de ésta manera, podremos también, animar de forma orbital el sistema de partículas
+
+				generados por el sistema
+
+
+			_Extra:
+
+				_ésta opción nos permitirá a diferencia de la opción anterior de "Direction", 
+
+				incrementar el factor de rotación orbital para todo el sistema de partículas y no
+
+				sólo para una parte más próxima de éste para que así, podamos hacer más acusado el 
+
+				efecto de torsión ó rotación orbital del sistema de partículas en general
+
+
+
+		Particle:
+
+
+			_Particle Type:
+
+
+				_Line:
+
+					_ésta opción nos pemritirá crear líneas las cuáles, seguiran el sentido de
+
+					emisión del sistema de partículas lo cuál, es especialmente útil para crear
+
+					efectos sutiles de comportamientos de energía, fluidos, otros
+
+
+					_hay que tener en cuenta que las líneas generadas son bastante delgadas y
+
+					cortas lo cuál, no siempre en conveniente por ejemplo; para la generación
+
+					de strands, otros
+
+
+					_así, como también, ésta opción no tendrá disponibles las opciones de
+
+					configuración de "Birt Size | Death Size | Size Variation"
+
+
+				_Star:
+
+					_ésta opción nos pemritirá crear estrellas base para procesos directos ó
+
+					procesos de paso contínuo
+
+
+				_Shaded Sphere:
+
+					_ésta opción nos permitirá crear partículas sombreadas y con volúmen especialmente
+
+					útil para la generación de bebidas densas, esfervecencias, fumarolas, otros
+
+
+				_Faded Sphere:
+
+					_ésta opción es idéntica a la opción anterior de "Shaded Sphere", más la opción de
+
+					"Faded Sphere", no tienen los bordes definidos y tienen un "feather", lo que les
+
+					permitirá integrarse mejor con las demás layers, de la composición respectiva
+
+
+					_de ésta manera, ésta opción nos permitrá generar efectos más de tipo humo, ó pseudo
+
+					líquidos, semi sólidos, otros
+
+
+				_Shaded & Faded Sphere:
+
+					_ésta es una opción que fusiona las dos características de las dos opciones 
+
+					anteriores lo que nos permitirá hacer variaciones de los tipos de partículas en 
+
+					relación a requerimientos de producción y paso contínuo
+
+
+				_Bubble:
+
+					_ésta es una opción que emula el sistema de "Simulate/Bubble", ó sistema de burbujas
+
+					la cuál, consiste en partículas con el borde bien definido del color indicado más
+
+					un interior con feader y hueco especialmente útil para la creación de diferentes
+
+					efectos como burbujas, jabón, aros, fleres, otros
+
+
+				_Motion Polygon:
+
+					_ésta opción nos permitirá crear triángulos de un color determinado a través, del
+
+					tiempo en la direción de la emisión de partículas
+
+
+					_lo cuál, es una escelente base para la generación de strands aglutinadas, otros
+
+
+				_TriPolygon:
+
+					_ésta opción nos permitirá crear triángulos planos grandes mapeables con un color 
+
+					sólido el cuál, podrá cambiar a través, del tiempo ó a través, de la información 
+
+					de "color", de la imágen base a la cuál, le hemos aplicado el efecto
+
+
+					_como también, para la generación de fractales y diferentes efectos de paso 
+
+					contínuo y de producción
+
+
+				_QuadPolygon:
+
+					_ésta opción nos permitirá crear diadrados planos grandes mapeables con un color 
+
+					sólido el cuál, podrá cambiar a través, del tiempo ó a través, de la información 
+
+					de "color", de la imágen base a la cuál, le hemos aplicado el efecto
+
+
+					_como también, para la generación de fractales y diferentes efectos de paso 
+
+					contínuo y de producción
+
+
+				_Cube:
+
+					_ésta opción nos permitirá crear cubos tridimensionales grandes mapeables con un 
+
+					color sólido el cuál, podrá cambiar a través, del tiempo ó a través, de la 
+
+					información de la imágen base a la cuál, le hemos aplicado el efecto
+
+
+					_como también, para la generación de fractales y diferentes efectos de paso 
+
+					contínuo y de producción
+
+
+				_TetraHedron:
+
+					_ésta opción nos permitirá crear triángulos tridimensionales grandes mapeables con 
+
+					un color sólido el cuál, podrá cambiar a través, del tiempo ó a través, de la 
+
+					información de la imágen base a la cuál, le hemos aplicado el efecto
+
+
+					_como también, para la generación de fractales y diferentes efectos de paso 
+
+					contínuo y de producción
+				
+
+
+				_Textured TriPolygon:
+
+					_ésta opción nos permitirá crear triángulos planos grandes mapeables con un color 
+
+					sólido el cuál, podrá cambiar a través, del tiempo pero específicamente a través, 
+
+					de la información gráfica de la imágen base a la cuál, le hemos aplicado el efecto
+
+
+					_como también, para la generación de fractales y diferentes efectos de paso 
+
+					contínuo y de producción
+
+
+				_Textured QuadPolygon:
+
+					_ésta opción nos permitirá crear cuadrados planos grandes mapeables con un color 
+
+					sólido el cuál, podrá cambiar a través, del tiempo pero específicamente a través, 
+
+					de la información gráfica de la imágen base a la cuál, le hemos aplicado el efecto
+
+
+					_como también, para la generación de fractales y diferentes efectos de paso 
+
+					contínuo y de producción
+
+
+				_Lens Convex:
+
+					_ésta opción nos pemritirá crear efectos de partículas tipo lenticulares ó gotas con
+
+					el efecto reflectivo convexo de la imágen base a la cuál, hemos aplicado el efecto 
+
+					lo cuál, nos permitirá crear diferentes efectos como virus, partículas suspendidas, 
+
+					starks, otros
+
+
+				_Lens Concave:
+
+					_ésta opción es idéntica a la opción anterior más con el efecto inverso ó "Cóncavo",
+
+					lo cuál, a su vez, nos permitirá hacer efectos más acusados tipo polillas esféricas,
+
+					condesaciones, otros
+
+
+
+
+				_Lens Fade:
+
+					_ésta opción es idéntica a la opción de "Lens Convex", más ésta opción dispone de 
+
+					los bordes suavizados y desvanecidos ha modo de "feather", lo que nos permnitriá
+
+					realizar una mejor integración del sistema de partículas con las demás layers, de 
+
+					la respectiva composición así, como también, de crear efectos más envolventes de 
+
+					partículas
+
+
+					_como por ejemplo; para la creación de humo, magmas, poluciones, esporas, entre 
+
+					otras posibilidades dentro del proceso de producción y paso contínuo
+
+
+				_Lens Darken Fade:
+
+					_ésta opción acentúa aún más el efecto de "feather", ó integración que la opción de
+
+					"Lens Fade", lo que nos permitirá crear efectos más refinados y específicos aún
+
+
+				_Lens Bubble:
+
+					_ésta opción nos permitirá crear efectos tipo bubujas entre otros ya que las 
+
+					partículas dispondrán de bordes bien definidos más con un "feather", interior así,
+
+					como también, estarán huecas por dentro lo cuál, nos permitirá crear efectos más de
+
+					tipo de coronas, anillas, abstracciones, jabónes, café chocolate, otros
+
+
+
+
+			_Birth Size:
+
+				_más también, tendremos la posibilidad de editar el tamaño de las partículas emitidas a 
+
+				través, del tiempo por medio de "Curves", ó por medio de los métodos de "Influence Map"
+
+
+				_para que así, de ésta manera, podamos editar de forma independiente y de forma detalallada 
+
+				el cremiento y evolución de las partículas de forma dinámica a través, del tiempo y 
+
+				controlada por nosotros éste caso el punto inicial del sistema de partículas
+
+
+
+			_Death Size:
+
+
+				_más también, tendremos la posibilidad de editar el tamaño de las partículas emitidas a 
+
+				través, del tiempo por medio de "Curves", ó por medio de los métodos de "Influence Map"
+
+
+				_para que así, de ésta manera, podamos editar de forma independiente y de forma detalallada 
+
+				el cremiento y evolución de las partículas de forma dinámica a través, del tiempo y 
+
+				controlada por 	nosotros éste caso el punto final del sistema de partículas
+
+
+			_Size Variation:
+
+				_ésta opción nos permitirá incorporar un algoritmo de ruido para poder variar así, el tamaño
+
+				de las partículas de forma aleatorio tanto en el nacimiento de las partículas como a través,
+
+				su vida a través, del tiempo
+
+
+
+			_Opacity Map:
+
+
+				_Constant:
+
+					_ésta opción aplana totalmente la curva de "feather", del sistema de partículas
+
+					lo que afectará a su aspecto pudiendo así, crear áreas de penumbra lo que nos 
+
+					pemritirá integrar mejor el sistema de partículas con las demás layers, de
+
+					la composición respectiva
+
+
+				_Fade Out Sharp:
+
+					_ésta opción tratará de homogenizar ó aplanar aún más la curva de fetaher, del
+
+					sistema de partículas igualando más aún la visualización ó´ausencia de feather,
+
+					tanto al inicio como al final de la vida del sistema de partículas al igual que la 
+
+					opción de "Constant", aunque de forma mejorada en éste  sentido
+
+
+				_Fade Out:
+
+					_ésta opción nos permitirá controlar la curva de generación del sistema de 
+
+					partículas de ésta manera, podremos crear un feather, al final del sistema ó del 
+
+					área más elejada del epicentro del sistema ó punto de generación de partículas
+
+
+					_lo que nos permitirá crear efectos más de tipo llamas, candela, otros
+
+
+				_Fade In:
+
+					_ésta opción nos permitirá crear el efecto invertido que la opción "Fade Out", 
+
+					de ésta manera,	podremos crear un feather, al inicio del sistema en su parte más 
+
+					próxima al picentro ó punto de generación de las partículas aunque mucho más sutil 
+
+					que la de laopción de "Fade Out"
+
+
+				_Fade In and Out:
+
+					_ésta opción buscará hacer un efecto feather, tanto al inicio como al final del 
+
+					sistema de partículas lo cuál, es la opción por defecto y la más recomendada para 
+
+					la mayoría de efectos a nivel general
+
+
+				_Oscillate:
+
+					_en opción hará que las partículas oscilen su tamaño tanto al momento de su 
+
+					generación como en el momento de su desaparición lo que hará a su vez, que éstas 
+
+					tengan un aumento ó apariencia ponderada siempre de un tamaño relativo ó igual
+
+
+
+			_Max Opacity:
+
+				_ésta opción nos permitirá controlar toda la opacidad en general del sistema lo que nos 
+
+				permitirá a su vez, integrar mejor el sistema de partículas con el resto de layers, de la
+
+				respectiva composición
+
+
+			_Source Alpha Inheritance:
+
+				_(Indeterminado)
+
+
+
+			_Color Map:
+
+
+				_Birth to Death:
+
+					_ésta opción nos permitirá indicar un color para las partículas generadas en el
+					
+					inicio en la parte más cercana al epicentro de generación del sistema
+
+
+					_como también, nos permitirán indicar un color para las partículas generadas en el
+
+					final ó parte más lejana del epicentro del generación del sistema
+
+
+					_lo que nos permitirá hacer que las partículas puedan cambiar de color a través,
+
+					del tiempo y con colores en relación a nuestras necesidades de producción y paso
+
+					contínuo
+
+
+				_Origin to Death:
+
+					_ésta opción nos permitirá indicar un color tomado de la imágen base a la cuál,
+
+					hemos aplicado el efecto, para las partículas generadas en el inicio en la parte 
+
+					más cercana al epicentro de generación del sistema
+
+
+					_como también, nos permitirán indicar un color indicado por nosotros a través, de 
+
+					un selector para las partículas generadas en el final ó parte más lejana del 
+
+					epicentro del generación del sistema
+
+
+					_lo que nos permitirá hacer que las partículas puedan cambiar de color a través,
+
+					del tiempo y con colores en relación a nuestras necesidades de producción y paso
+
+					contínuo
+
+
+				_Birth to Origin:
+
+					_ésta opción nos permitirá indicar un color seleccionado por nosotros a través, de
+
+					un selector para las partículas generadas en el inicio en la parte más cercana al 
+
+					epicentro de generación del sistema
+
+
+					_como también, nos permitirán indicar un color tomado de la imágen base a la cuál,
+
+					hemos aplicado el efecto para las partículas generadas en el final ó parte más 
+
+					lejana del epicentro del generación del sistema
+
+
+					_lo que nos permitirá hacer que las partículas puedan cambiar de color a través,
+
+					del tiempo y con colores en relación a nuestras necesidades de producción y paso
+
+					contínuo
+
+
+				_Origin Constant:
+
+					_ésta opción nos permitirá seleccionar un color de la imágen base a la cuál, hemos
+
+					aplicado el efecto, tanto para el inicio como para el final de la generación del
+
+					sistema lo que nos permitirá mapear las partículas generadas por el sistema con 
+
+					colores exclusivamente tomados de la imágen base
+
+
+
+			_Birth Color:
+
+				_ésta opción nos permitirá seleccionar un color personalizado a través, de picker, ó a 
+
+				través, de un selector de color para el inicio de la vida de las partículas generadas de 
+
+				las opciones de "Color Map"
+
+
+			_Death Color:
+
+				_ésta opción nos permitirá seleccionar un color personalizado a través, de picker, ó a 
+
+				través, de un selector de color para el final de la vida de las partículas generadas de 
+
+				las opciones de "Color Map"
+
+
+
+			_Transfer Mode:
+
+
+				_Composite:
+
+					_ésta es la opción por defecto y la más recomendada la cuál, integrará el sistema
+
+					de partículas en general con las demás layers, de la respectiva comporisición
+
+
+				_Screen:
+
+					_ésta opción nos pemritirá integrar el sistema de partículas a través, del modo de
+
+					fusión de tipo pantalla ó screen
+
+
+				_Add:
+
+					_ésta opción nos pemritirá integrar el sistema de partículas a través, del modo de
+
+					fusión de tipo agregar ó add
+
+
+				_Black Matte:
+
+					_ésta opción nos pemritirá utilizar el sistema de partículas como mapa de densidad
+
+					para procesos de tipo track matte, otros
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

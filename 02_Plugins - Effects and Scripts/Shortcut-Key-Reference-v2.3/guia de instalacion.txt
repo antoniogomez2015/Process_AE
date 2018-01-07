@@ -1,0 +1,27 @@
+
+
+EScripts
+
+	Shortcut-Key-Reference-v2.3
+
+
+
+	-al cargar el script, debemos indicarle las preferencias de shortcuts, del programa,
+
+	para aftereffects cc 2014, se encuentran en la siguiente ubicacion> 
+
+
+		C:\Users\mono\AppData\Roaming\Adobe\After Effects\13.1
+
+
+	-y hay que seleccionar dentro de esta ubicacion el siguiente archivo>
+
+
+		'Adobe After Effects 13.1 Win en_US Shortcuts.txt'
+
+
+	-tambien, se puede acceder a esta ruta yendo a edit/preferences/general/, y le damos a la opcion 
+
+	de 'Reveal Preferences in Explorer'
+
+

@@ -1,0 +1,59 @@
+
+
+http://www.bjorkvisuals.com/tools/adobe-after-effects/scripts
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / sb_Auto Render
+
+
+	Set Render sb_Auto Render:
+
+
+	-este nos permite hacer procesos de renders en serie ó también, en modo bundle, de forma ordenada esto
+
+	quiere decir que podemos hacer diferentes render en diferentes estructuras de archivos y carpetas, tanto
+
+	para renders, proxi, con perdida, con total calidad, otros, para lo cuál, contaremos con diferentes 
+
+	estructura de archivos y carpetas configurables
+
+
+	_ésto nos permite una mayor flexibilidad y un mejor manejo de los archivos y resultados ha generar
+
+
+	_tabién, nos permite la asignación de prefijos en la denomicación de los renders, realizados lo cuál, es
+
+	especialmente útil para diferentes procesos de producción
+
+
+	_como también, la utilización de "templates", de renders, creadas previamente
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, para configurar las opciones de la estructura de archivos, debemos acceder a la sección de 
+
+	"Settings", del script "sb_Auto Render", en la cuál, podremos elegir los criterios de acción así, como
+
+	también, los paths, ó rutas ha utilizar para la generación de los renders
+
+
+	_y para la implementación del render, primero debemos seleccionar una composición deseada ha renderizar
+
+	en el panel "Project", y con ésta seleccionada ir al panel "sb_Auto Render", y hacer "Render"
+
+
+	_de ésta manera el plugins, enviará ésta composición al render queve, más con la configuración y presets,
+
+	seleccionados y configurados dentro del plugins "sb_Auto Render"
+	
+
+

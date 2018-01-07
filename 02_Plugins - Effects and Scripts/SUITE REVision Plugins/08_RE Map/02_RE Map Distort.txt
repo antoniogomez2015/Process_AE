@@ -1,0 +1,219 @@
+
+
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+		DEFlicker Tutorials/Playong List:
+
+			https://www.youtube.com/watch?v=ROG9Cx09xr4&list=PLJZE0COAfWUXTkWdhbkaO5GflW3hWJZ4h
+
+
+		RE:Flex (17 Videos)
+
+			https://www.youtube.com/playlist?list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v
+
+
+		RE:Flex Morph - Morphing between moving images
+
+			https://www.youtube.com/watch?v=t0lcSHYiOJg&list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v&index=2
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE:VisionFx RE: Map Distort:
+____________________________
+
+
+	_éste efecto nos permitirá realizar desplazamientos axonométricos ó planos como distorsión leve de la imágen
+
+
+	_de ésta manera, el uso de efecto de forma natural nos permitirá estirar los pixeles tanto vertical como 
+
+	horizontalmente
+
+
+	_más si utilizamos un mapa de deformación tipo depth, realizado a partir de layers, enmascaras ó a través, de otros
+
+	efectos ópor medio de las opciones de pintura nativas de la aplicación
+
+
+
+
+
+	RE: Map Displace Options:
+	_________________________
+
+
+	_Warp Mode:
+
+
+		_Forward Warp:
+
+			_ésta opción nos permitirá hacer un desplazamiento de mapas de forma progresiva
+
+
+		_Inverse Warp:
+
+			_ésta opción nos permitirá hacer un desplazamiento de mapas de forma inversa en el sentido
+
+			opuesto de la lectura del mapa interno generado automáticamente de la propia imágen ó layer
+
+
+		_Swear
+
+			_ésta opción nos permitirá hacer un desplazamiento de mapas de forma progresiva suavizado
+
+			lo cuál, es especialmente útil para imágenes ó mapas complejos ó problemáticos
+
+
+		_FeedBack:
+
+			_ésta opción nos permitirá hacer un desplazamiento de mapas de forma neutral lo cuál, quiere
+
+			decir que el mapa será auto ajustable en relación al comportamiento del mapa en relación
+
+			a la deformación generada
+
+
+
+	_Warp Amount:
+
+		_éste valor nos permitirá indicar la cantidad de deformación aplicada sobre la layer, resultante
+
+
+	_Passes:
+
+		_ésta opción nos permitirá indicar la cantidad de pases ó análisis realizado al mapa de depth, autogenerado
+
+		para la generación de la deformación sobre la layer, resultante
+
+
+	_ALT Displace Map Src:
+
+		_ésta opción nos permitirá seleccionar una layer, la cuál, hará de mapa depth, ó mapa de pronfundidad para
+
+		que así, éste controle y limite la deformación generada para unos resultados más volumétricos y mejorados
+
+
+	_Displacement Controls:
+
+
+		_Make Map Softness:
+
+			_ésta opción nos permitirá suavizar ó interpolar la acutancia del mapa depth, autogenerado 
+
+			para la deformación de la layer, resultante
+
+
+			_de ésta manera, podremos agudizar la deformación para que ésta sea más abructa ó suavizada
+
+
+		_Make Map Intensity:
+
+			_ésta opción nos permitirá utilizar la aplicación del mapa tanto de forma positiva como deforma
+
+			negativa
+
+
+		_Smooth Map %:
+
+			_ésta opción nos pemritirá agregar un suavizado extra general sobre el mapa depth, autogenerado
+
+			para la generación de la deformación de la layer, resultante
+
+
+		_Scale X:
+
+			_ésta opción nos permitirá deformar los pixeles en el eje horizontal
+
+
+		_Scale Y:
+
+			_ésta opción nos permitirá deformar los pixeles en el eje vertical
+
+
+		_Rotate Z:
+
+			_ésta opción nos permitirá deformar los pixeles en el eje de pronfundidad
+
+
+	Render:
+
+	
+		_Mip-Map Method:
+
+			_ésta opción nos pemitirá seleccionar al método ó algoritmo los cuáles, mejorarán el aspecto
+
+			de los pixeles tras las deformación resultante, de ésta manera, dispondremos de las siguientes
+
+			opciones "Standard, Medium, Smoothest"
+
+
+		_Hold Edges:
+
+			_ésta opción permite la preservación de los bordes de la imágen original tras la deformación
+
+			resultante lo cuál, en la mayoría de los casos es la opción más recomendable
+
+
+		_Anto-Aliasing Sampling:
+
+			_ésta opción permite seleccionar entre diferentes algoritmos para el suavizado de pixeles lo cuál,
+
+			mejora el resultado de la imágen y el aspecto de los pixeles en general
+
+
+		_Sharpness:
+
+			_ésta opción nos permitirá agregar enfoque a los pixeles en relación a la deformación resultante
+
+			para lo cuál, el efecto nos brinda diferentes algoritmos ya que en algunos casos es necesario
+
+			agregar diferentes tipos de re enfoques cuando los pixeles se emborronan
+
+
+		_Forward Warp Quality:
+
+			_ésta opción nos permitirá seleccionar diferentes algoritmos para mejorar la calidad del tipo 
+
+			de deformación "Warp Mode/Forward Warp", dentro de los cuáles dispondremos de las siguientes
+
+			opciones "Low, Medium, Best"
+
+			
+
+
+		_Forward Warp Anti-Alia:
+
+			_ésta opción nos permitirá seleccionar el tipo de criterio ó algoritmo de suavizados de pixeles
+
+			a través, de dos algoritmos "Faster", y "Less Memory", en la cuál, la opción "Faster", es la
+
+			opción general ó más común, más la opción "Less Memory", ofrece un resultado con pérdida más 
+
+			es más liegera de cada al cosumo de memoria del sistema			
+
+
+
+
+
+
+
+
+

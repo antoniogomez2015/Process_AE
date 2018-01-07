@@ -1,0 +1,245 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		Tutorial After Effects 046 Cielo y nubes con Particle World
+			https://www.youtube.com/watch?v=Gx5Wc60FnqQ
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer todo tipo de efectos de simulación de partículas avanzadas a 	través, de 
+
+	diferentes sistemas de partículas incluidos dentro del sistema
+
+
+	_de ésta mamera, podremos sistemas de simulación los cuáles pueden dividirse en los siguientes 	grupos:
+
+
+		1_partículas a partir de formas prestablecidas como "Lines", and "Stars"
+
+
+		2_partículas a partir de una "esphere", la cuál, podrá ser dura, sombreada y convexa y 	con 
+
+		transparencias
+
+
+		3_partículas a partir de efectos de "LENS", la cuál, permitirá la mayor flexibilidad de	mapeo 
+
+		avanzado a través, de la textura ó layer, sobre la cuál, se ha aplicado el efecto
+
+
+			_lo que quiere decir, que podremos crear efectos avanzados como por ejemplo, la	creación 
+
+			de virus y micro organismos a partir de texturas, ya que cada partícula	se mapeará con la 
+
+			textura de la layer, ha modo de cordenadas polares generando así, volúmen sobre cada 
+
+			partícula
+
+				
+			_así, como también, reconocerá las transparencias, mapas de densidad, mattes y 	alphas, 
+
+			existentes en la layer, sobre la cuál, se aplicó el efecto para poder así, personalizar 
+
+			la layer, que hará en éste caso de emisor de partículas
+
+
+		4_partículas a partir de planos texturizados ó con las opciones de "Textured", de ésta 	manera, 
+
+		las partículas no se mapearán a partir de la layer, base 
+
+
+			_sino que en vez de eso se mapearán a partir de una layer, auxiliar de la cuál, las 
+
+			partículas muestrearán su textura y composición a paritr de diferentes 	criterios y 
+
+			características configurables
+
+
+
+	_éstos sistemas de partículas pueden ser usados de forma directa para la generación de diferentes tipos 
+
+	de sistemas de partículas según los cuatro tipos de sistemas presentados en los pasos anteriores
+
+
+	_así, como también, para la generación de sistema de partículas bases para procesos de producción y 
+
+	procesos de paso contínuo a través, de otros efectos y procesos más avanzados
+
+
+
+	_Grid & Guides:
+
+
+		_Position:
+
+			_ésta opción nos permitirá una visualización en el viewport 3d, de la posición del emisor 
+
+			a través, de una línea vertical de color azul
+
+
+		_Radius:
+
+			_ésta opción nos permitirá una visualización en el viewport 3d, del tamaño del emisor a 
+
+			través, "Sphere", alámbrica de color rojo en el área del emisor
+
+
+		_Motion Pahts:
+
+			_ésta opción nos permitirá una visualización en el viewport 3d, la trayectoria de animación 
+
+			del emisor a través, de una línea de color verde
+
+
+		_Motion Path Frames:
+
+			_ésta opción nos permitirá indicar cuantos frames, será visible la línea de color verde que
+			
+			representará la trayectoria de animación respectiva del emisor del sistema
+
+			
+		_Grid Position:
+
+			_ésta opción nos permitirá indicar a partir de que referencia se creará el plano ó grid, de
+
+			ésta manera, dispondremos de tres opciones las cuáles, son:
+
+
+				_Floor:
+
+					_ésta opción permitirá que el plano ó grid, se genere a partir de la base
+
+					de las cordenadas globales del viewport 3d
+
+
+				_Producer:
+
+					_ésta opción permitirá que el plano ó grid, se genere a partir del emisor de
+
+					de partículas del sistema
+
+
+				_World:
+
+					_ésta opción permitirá que el plano ó grid, se genere a partir de las cordenadas
+
+					globales del viewport 3d
+
+
+		_Grid Axis:
+
+			_ésta opción permitirá poderle indicar al sistema en que cordenada deseamos crear el plano de 
+
+			ó grid, de referencia, ésta opción estará disponible sólo para los modos de "Grid Position", de
+
+			"Producer", y "World", de ésta manera, podremos escoger entre las cordenadas "X|Y|Z"
+
+
+		_Grid Subdivision:
+
+			_ésta opción nos permitirá indicar la cantidad de subdivisiones que tendrá el plano ó grid, en su
+
+			conformación interna lo que le permitirá tener una mayor resolución ó líneas de referencia visual
+
+
+		_Grid Size:
+
+			_ésta opción nos permitirá poder indicarle al sistema el tamaño que deseamos tener en el plano ó 
+
+			grid, en relación al tipo de simulación que deseamos realizar
+
+
+		_Horizon:
+			_ésta opcíon nos permitirá poder crear una línea de guía de la ubicación del horizonte lo que es
+
+			especialmente útil para ubicarse cuando se realizan rotaciones extremas de cámara, de ésta manera,
+
+			dispondremos de una línea blanca contínua en la parte superior del viewport 3d, de forma horizontal
+
+
+		_Axis Box:
+
+			_ésta opción nos permitirá visualizar en el viewport 3d, un cube, en el cuál, podremos ver las 
+
+			cordenadas globales del plano y a través, de éste cubo podremos hacer rotaciones del plano ó grid,
+
+			y sistema completo
+
+
+			_ésta cubo también, tiene la función de orbitar la cámara temporal generada por el sistema en las 
+
+			opciones de "Extra", hasta que se crea una cámara personalizada
+
+
+
+
+
+	_Birth Rate:
+
+		_ésta opción nos permitirá indicar la cantidad de partículas emitidas por el sistema por segundo de forma 
+
+		constante ha modo de intervalo
+
+
+	_Longevity (Sec):
+
+		_ésta opción nos permitirá indicar al sistema la vida ó longevidad que tendrá cada partícula a través, del
+
+		tiempo antes de morir cada partícula
+
+
+	_Producer
+
+		_Position X|Y|Z:
+
+			_éstas opciones nos permitirán indicarle al sistema la ubicación del emisor de partículas en el 
+
+			tiempo en las cordenadas espaciales X,Y,Z
+
+
+		_Radius X|Y|Z:
+
+			_éstas opciones nos permitirán indicarle al sistema el tamaño del emisor de partículas en el 
+
+			tiempo en las cordenadas de escala X,Y,Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

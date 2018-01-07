@@ -1,0 +1,119 @@
+
+
+
+EFX_Z_Depth_Shadow
+
+
+	Referencia:
+
+		http://aescripts.com/efx-render-elements-z-depth-tools/   https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+	
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite proyectar sombras realistas a través, de un depth map, de una imágen background, ó composición
+
+	para que así, el motivo proyecte la sobra deformada en relación a la información de volúmen del depth map
+
+
+	_ésto es especialmente útil para diferentes procesos de producción altamente realistas y complejos, hay que
+
+	tener en cuenta entre mayor detalle y plano tenga del depth map, éste dará mejores resultados así, como la 
+
+	cantiad de contraste de éste en relación a la separación de los planos
+
+
+	_así, como también, es recomendable la consecución de los planos del depth map, es decir, no es igual plano 
+
+	sin ocntinuidad como los planos de un bosque a los planos que generaría un escalera por ejemplo ya que en la 
+
+	eslacera existirá continuidad entre un superficie y la siguiente entre escalón y escalón, otros
+
+
+
+Aplicaciones:
+_____________
+
+
+	_éste proceso permite llevar un control más avanzado de las faces de integración y las volumetrías de entornos 3d,
+
+	y simulaciones avanzadas en producción, otros
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+
+	_primero debemos tener una composición de trabajo previamente creada
+
+
+
+ZDepth pass:
+____________
+
+	_luego debemos incorporar los maps, respectivos en la composición de trabajo, en éste caso en "shadow map",
+
+	como mapa base al cuál, se agregaremos el plugins "Effects EFX RE/EFX_Z_Depth_Shadow"
+
+
+
+Invert Z_Depth Pass:
+____________________
+
+
+	_ésta opción peremite invertir el comportamiento del depth map
+
+
+Move in X:
+__________
+
+	_ésta opción permite hacer deformación del motivo en la cordenada "X", a través, de la información del depth map
+
+
+Move in Y:
+__________
+
+	_ésta opción permite hacer deformación del motivo en la cordenada "Y", a través, de la información del depth map
+
+
+Opacity:
+________
+
+	_ésta opción permite indicar un grado de opacidad ó desvanecimiento en relación a los planos de proximidad y 
+
+	elejamiento según la informaicón del depth map (ésta opción es muy importante)
+
+
+Opacity falloff:
+________________
+
+	_ésta opción permite hacer un tramado ó desvanecimiento más amplio del paso anterior de opacidad
+
+
+Blur Gamma:
+___________
+
+	_ésta opción permite indicar el grado de la gama de desenfoque
+
+
+Absolute Move:
+______________
+
+	_ésta opción permite indicar una referencia manual para el proceso de distorción (no es aconsejable), a 
+
+	menos que conozcamos los posibles resultados
+
+

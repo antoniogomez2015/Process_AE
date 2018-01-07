@@ -1,0 +1,237 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear un incrustamiento de color ó keygin, el cuál, sumará las características y 
+
+	ventajas de los efectos 
+
+		_Color Difference Key: (Incrustación de diferencia de color)
+
+		_Color Key: (Incrustacion por Chrome)
+
+
+	_de ésta manera, podremos utilizar las caracteríscas de selección de color por rangos por unmbral y a su vez 
+
+	las opciones de rangos por tolerancia del color lo cuál, nos permitirá un proceso más rápido práctico y 
+
+	efectivo y preciso en relación ha éstos dos efectos anteriores
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Color Range: (Gamma de Colores)
+	____________
+
+
+		_Preview:
+
+			_ésta sección nos permitirá visualizar el matte, resultante del proceso de keying, sobre el
+
+			color seleccionado así, como también la interface, para los pickers, de selección y ajuste
+
+			del matte, resultante del proceso
+
+
+		_Picker Base:
+
+			_éste corresponde al picker, de la parte superior a través, del cuál, podremos seleccionar
+
+			el color base ó guía ha eliminar por el sistema de la imágen a la cuál, hemos aplicado el efecto
+
+
+		_Picker More:
+
+			_éste es el picker, que corresponde al área media de la sección de "Preview", a través, del cuál,
+
+			podremos agregas más áreas ó variantes del color contiguas al color seleccionado para que así,
+
+			indiquemos un umbral más grande color ha seleccionar por parte del sistema en relación a la
+
+			complejidad de color e iluminación del color en general ha eliminar en su totalidad
+
+
+		_Picker Less:
+
+			_éste es el picker, que corresponde al área baja de la sección de "Preview", a través, del cuál,
+
+			podremos sustraer más áreas ó variantes del color contiguas al color seleccionado para que así,
+
+			indiquemos un umbral más reducido ó limitado color ha seleccionar por parte del sistema en 
+
+			relación a la complejidad de color e iluminación del color en general ha eliminar en su totalidad
+
+
+		_Fuzziness:
+
+			_ésta opción nos pemritirá extender ó retraer el color seleccionado ó eliminado en relación a el
+
+			área visible ó resultante del sistema lo cuál, nos pemritirá hata cierto punto refinar la imágen
+
+			resultante
+
+
+
+		_Color Space:
+
+
+			_Lab:
+
+				_éste es el espacio de color "CIE 1976 L*a*b*", el cuál, en éste caso será interpretado
+
+				como valores de luminancia, contraste y brillo en general y no por colores individuales
+
+
+				_por ésto es la opción más recomendada ya que nos brindará resultados más homogénios y
+
+				precisos que los demás espacios de color disponibles como los son YUV/RGB, de ésta manera,
+
+				ésta es la opción por defecto y la más recomendada
+
+
+				_ésta opción al no tratar la imágen por sus canales de color de forma independiente nos
+
+				permitirá controlar los valores de retracción de matte, a través, de los valores "Min/Max",
+
+				de las opciones de control de los respectivos canales lo cuál, es una gran ventaja extra
+
+
+			_Yuv:
+
+				_ésta opción nos permitirá realizar el proceso a través, de los canales de color lo cuál,
+
+				requerirá un proceso extra por nuestra parte así, como más conocimiento del color así, como
+
+				también, de disponer mucho más tiempo para realización del proceso
+
+
+			_RGB:
+
+				_ésta opción nos permitirá realizar el proceso a través, de los canales de color lo cuál,
+
+				requerirá un proceso extra por nuestra parte así, como más conocimiento del color así, como
+
+				también, de disponer mucho más tiempo para realización del proceso
+
+
+		_Min (L,Y,R):
+
+			_ésta opción nos pemritirá ajustar cada canal de color respectivamente al espacio de color seleccionado
+
+			y a su vez, a la cantidad de color dominante en la imágen así, como también, al spill color, ó 
+
+			contaminación de color en la imágen lo traerá otros problemas colaterales al proceso de keygin
+
+
+			_así, como también, éstos controles nos permitirá hacer el proceso de retracción de matte, cuando se 
+
+			ha seleccionado el espacio de color "LAB"
+
+
+		_Max (L,Y, R):
+
+			_ésta opción nos pemritirá ajustar cada canal de color respectivamente al espacio de color seleccionado
+
+			y a su vez, a la cantidad de color dominante en la imágen así, como también, al spill color, ó 
+
+			contaminación de color en la imágen lo traerá otros problemas colaterales al proceso de keygin
+
+
+			_así, como también, éstos controles nos permitirá hacer el proceso de retracción de matte, cuando se 
+
+			ha seleccionado el espacio de color "LAB"
+
+
+		_Min (a, U, G):
+
+			_ésta opción nos pemritirá ajustar cada canal de color respectivamente al espacio de color seleccionado
+
+			y a su vez, a la cantidad de color dominante en la imágen así, como también, al spill color, ó 
+
+			contaminación de color en la imágen lo traerá otros problemas colaterales al proceso de keygin
+
+
+			_así, como también, éstos controles nos permitirá hacer el proceso de retracción de matte, cuando se 
+
+			ha seleccionado el espacio de color "LAB"
+
+
+		_Max (a, U, G):
+
+			_ésta opción nos pemritirá ajustar cada canal de color respectivamente al espacio de color seleccionado
+
+			y a su vez, a la cantidad de color dominante en la imágen así, como también, al spill color, ó 
+
+			contaminación de color en la imágen lo traerá otros problemas colaterales al proceso de keygin
+
+
+			_así, como también, éstos controles nos permitirá hacer el proceso de retracción de matte, cuando se 
+
+			ha seleccionado el espacio de color "LAB"
+
+
+		_Min (b, v, B):
+
+			_ésta opción nos pemritirá ajustar cada canal de color respectivamente al espacio de color seleccionado
+
+			y a su vez, a la cantidad de color dominante en la imágen así, como también, al spill color, ó 
+
+			contaminación de color en la imágen lo traerá otros problemas colaterales al proceso de keygin
+
+
+			_así, como también, éstos controles nos permitirá hacer el proceso de retracción de matte, cuando se 
+
+			ha seleccionado el espacio de color "LAB"
+
+
+		_Max (b, v, B):
+
+			_ésta opción nos pemritirá ajustar cada canal de color respectivamente al espacio de color seleccionado
+
+			y a su vez, a la cantidad de color dominante en la imágen así, como también, al spill color, ó 
+
+			contaminación de color en la imágen lo traerá otros problemas colaterales al proceso de keygin
+
+
+			_así, como también, éstos controles nos permitirá hacer el proceso de retracción de matte, cuando se 
+
+			ha seleccionado el espacio de color "LAB"
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+
+
+panel nativo de adter effects
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Project
+
+
+	Panel Proyecto/Paragraph
+
+
+		-este nos permite el alineamiento de texto así, como la configuración del mismo

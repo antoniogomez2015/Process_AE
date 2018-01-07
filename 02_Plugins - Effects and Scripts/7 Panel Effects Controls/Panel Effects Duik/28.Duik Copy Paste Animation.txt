@@ -1,0 +1,98 @@
+
+
+http://duduf.net/index.php/products/after-effects/duik/
+
+	Referencia:
+
+		Tutorial basico de rigging con Duik
+			https://www.youtube.com/watch?v=3WiNMHMMduc
+
+		TUTORIAL: DUIK - ARTICULACIONES AUTOMATIZADAS EN AFTER EFFECTS
+			https://www.youtube.com/watch?v=Oi4G1-p59uI
+
+		DUIK 15 full tutorial overview Part 1 Rigging character tools
+			https://www.youtube.com/watch?v=2-m0Mc0ZTP8&list=PLL1LC1tW73eUOt7qjWvn3nYOkYOoQscmy
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Duik
+
+
+	Duik:
+
+
+	-este nos permite hacer sistema de kinemática y cinemática de character, y otros tipos de animaciones
+
+	así, como también, riggings, completos y asistidos con diferentes tipos de controles, limitadores y
+
+	disparadores ó trigers, de animación, otros
+
+
+	_ésta opción de hacer el proceso de rigging, de forma manual, es especialmente útil en characters, en 
+
+	los cuales requiere un especial cuidado ó éste es especialmente diferente a los estándares de posición 
+
+	de éste ó si éste no es un bípedo ó posee unas características únicas
+
+
+	_de ésta manera, el sistema "IK", nos permitirá configurar extremidades con kinemática inversa y directa
+
+	las cuales podremos integrar con otras extremidades y characters, ya realizados ó en proceso, otros
+
+
+	_como también, nos permite tener aplicaciones en máquinas ó otros elementos mecánicos, otros, que no son
+
+	characters, ni obedecen a ningún estandar de animación
+
+
+
+
+
+	Workflow:
+	_________
+
+
+	Descripción:
+
+	_la sección de "Animation", nos ofrece un conjunto de herramiento de la mano para diferente workflow, en
+
+	animación para characters, y animación en general, tanto en asistentes animación temporal como espacial
+
+	así, como diferentes herramientas y controles extras alternativos
+
+
+
+	Copy/Paste Animation:
+
+		_ésta opción nos permite reconfigurar layers, animadas entre diferentes composiciones, de ésta manera, 	podremos 
+
+		replicar animaciones haciendo coincidir layers, entre composiciones
+
+
+		_de ésta manera, tendremos que animar por ejemplo; una layer, con un nombre de "Motive_1", en sus propiedades de 
+
+		"Position", y "Scale"
+
+		
+		_para leugo seleccionar ésta layer, e ir al panel "Duik/Animation/Tool/", y darle al botón de "Copy anim", para que así, 
+
+		el sistema guarde la animación existente en esa layer, en todas sus propiedades animadas
+
+
+		_más si deseamos replicar ésta layer, en otra composición debemos crear un nueva layer, en esa otra composición y ha ésta 
+
+		debemos renombrarla de la misma manera que la layer, original "Motive_1", para que así, sea reconocida por el sistema
+
+
+		_para luego seleccionar ésta nueva layer, que hemos creado en la otra ó segunda composición de destino y con ésta layer, 
+
+		seleccionada ir al panel "Duik/Animation/Tool/", y darle al botón de "Paste anim", para que así, el sistema pegue las 
+
+		propiedades animadas de la layer, original sobre ésta nueva layer
+
+
+
+	

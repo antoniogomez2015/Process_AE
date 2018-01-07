@@ -1,0 +1,51 @@
+
+
+http://aescripts.com/explode-shape-layers/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/Explode Shape Layers 3:
+
+
+
+	_éste permite hacer unir varias layers, de shape, ó de forma que creemos en una sola como también
+
+	el proceso inverso, el cuál, es separar una layer, que forma que esté compuesta por varias formas 
+
+	en diferentes layers, de shape, una para cada forma
+
+
+	_pero también, tiene otras opciones las cuales permite convertir una layer, de formato de archivo
+
+	illustrator, y convertirla en una layer, de forma para que podamos convertir éstas también, ha formas
+
+	conjuntas ó separadas en layers, de forma independientes
+
+
+	_así, como también, tiene opciones para eliminar el fondo de layers, optenidas de illustrator, como 
+
+	también, permite hacer rellenos "fills", globales como contornos ó "strokes" 
+
+
+	
+	Workflow:
+	_________
+
+
+	_éste dispone de una serie de comandos los cuales permiter tener acceso directo a las funciones directamente
+
+	para lo cuál, sólo tendremos que seleccionar las layers, deseadas y aplicar el efecto deseado
+
+
+	NOTA: no funciona con layers, de forma nativas, es decir, con formar prestablecidas como estrllas, rectángulos,
+
+	circulos, otros, sino, con formas personalizadas creadas por nosotros ó importadas de programas externos como
+
+	illustrator
+
+
+	

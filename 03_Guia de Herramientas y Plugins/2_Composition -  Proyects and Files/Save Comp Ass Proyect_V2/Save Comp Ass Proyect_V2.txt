@@ -1,0 +1,126 @@
+
+
+
+
+Save Comp Ass Proyect_V2
+
+
+	Referencia:
+
+		http://aescripts.com/save-comp-as-project/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste nos permite guardar una composición del proyecto actual como un nuevo proyecto para que así, podamos tener
+
+	disponible ésta composición para su futura disposición
+
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer extracciones de composiciones para que éstas estén disponibles de manera aislada ó independiente
+
+	a un proyecto de pruebas y exsivamente grande, ésto es especialmente útil para grandes procesos de producción sobre 
+
+	todo para agilizar algunos procesos pesados al no estar todas las composiciones dentro de un mismos proyecto
+
+
+	_otra característica es que ésta posibilidad permite reciclar material así, como mezclar composiciones entre diferentes
+
+	proyectos para conformar así, un proyecto mixto, otros
+
+
+	
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+	_primero debemos dentro del proyecto varias composiciones de trabajo características de un proyecto de trabajo
+
+
+	_para luego seleccionar en el panel proyecto, la composiciones que deseamos guardar ó salvar como un nuevo proyecto
+
+
+	_así, con la respectiva composiciones seleccionada vamos a las opciones del panel "SaveComAsProyect_V2", para
+
+	configurar sus opciones de exportaciones
+
+
+	Consideraciones:
+
+	_el proyecto actual tendrá que estar guardado previamente en nuestro sistema ya que para crear el nuevo proyecto el
+
+	sistema tomará el nombre del proyecto actual como punto de partida y referencia, si el proyecto actual se llama 
+
+	"temporal 1", y la composición que hemos seleccionado en el panel proyecto para exportar se llama ej, "campo santo",
+
+	entonces el archivo de proyecto exportado se llamará "temporal 1_campo santo.aep", fijémonos que el sistema ha tomado
+
+	el nombre del proyecto actual al cuál, se le ha agregado el nombre de la composición seleccionada
+
+
+	_el nuevo proyecto exportado con la composición seleccionada mantendrá la misma estructura de carpetas en el panel
+
+	proyecto que en el proyecto original ó nativo, así, se mantendrán las carpetas de "Source/../", "Comps", otros pero
+
+	sólo con el contenido que aplique y tenga referencia con la composición exportada
+
+
+	_el sistema sólo podrá exportar dentro del nuevo proyecto sólo una composición, de seleccionar más de una composición
+
+	en el panel proyecto el sistema creará tantos proyectos como composiciones hayamos seleccionado en el panel proyecto
+
+
+	
+
+
+Save Ass Proyect:
+_________________
+
+	_éste es el botón que permite finalizar la creación del proceso de exportación de una composición ha un nuevo 
+
+	proyecto, así, antes de concluir éste paso es preciso haber configurado todas las opciones del panel siguientes
+
+	
+
+
+Change:
+_______
+
+	_ésta opción nos permite indicar un ruta ´path, de destino donde se guardará el nuevo proyecto con la composición
+
+	respectiva seleccionada
+
+
+Sub folder:
+___________
+
+	_ésta opción contemplará para el rastreo la sub-carpetas dentro del panel de composición, de ésta manera en revisar 
+
+	dentro de éstas sub-carpetas y encontrar en éstas composiciones también exportará éstas como nuevos proyectos
+
+
+Versioning:
+___________
+
+	_ésta opción permite también, la exportación progresiva de versiones de la composición a lo largo del tiempo
+
+

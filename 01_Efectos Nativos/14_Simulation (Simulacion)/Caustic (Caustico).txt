@@ -1,0 +1,453 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+		Crear líquidos - Tutorial After Effects
+			https://www.youtube.com/watch?v=vm_wt-CLpXE&t=1423s
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_el sistema de generación de cáusticas nos peritirá realizar diferentes efectos por separado y en conjunto
+
+	de ésta manera, podremos crear la superposición de texturas y su deformación a su vez, con una dominante
+
+	cromática
+
+
+	_como también, podremos hacer el efecto de replicación de una imágen ha modo del efecto de "Motion Tiler",
+
+	ó el efecto de "Hall of..", y "Prism...", "Strip..", otros
+
+
+
+	_entre otras posibilidades de distorción y composición para diferentes procesos de producción y paso 
+
+	contínuo
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Caustic: (Caustico)
+	________
+
+
+		_Bottom:
+
+
+			_ésta opción ó selector nos permitirá seleccionar una layer, existente en la compsoción
+
+			respectiva para que así, ésta layer, haga de "background", ó fondo del sistema sobre el
+
+			cuál, se reflejará y aplicará el sistema de "caustica", de la layer, sobre la cuál, se
+
+			aplicado el efecto de "caustic", a través, de sus valores de luminancia
+
+			
+
+		_Scaling:
+
+			_ésta opción nos permitirá escalar el sistema en relación al criterio seleccionado en las
+
+			opciones de "Repeat Mode", para que así, el efecto se haga evidente en el viewport, del
+
+			panel compositing
+
+
+		_Repeat Mode:
+
+
+			_Once:
+
+				_ésta opción nos permitirá escalar el sistema ó la imágen base con los bordes en
+
+				un color neutro lo cuál, nos permitirá realizar diferentes efectos de escalado
+
+				de la imágen base
+
+
+			_Reflected;
+
+				_ésta opción nos pemritirá escalar la imágen de forma reflejada y replicada a la 
+
+				vez, ha modo del efecto "tiler", avanzado lo cuál, nos permitirá realizar diferentes 
+
+				efectos para producción y motion graphycs, otros
+
+
+			_Tiled:
+
+				_ésta opción nos pemritirá escalar la imágen de forma reflejada y replicada a la 
+
+				vez, ha modo del efecto "tiler", lo cuál, nos permitirá realizar diferentes efectos
+
+				para producción y motion graphycs, otros
+
+
+
+
+		_If Layer Size Differs:
+
+
+			_Center:
+
+				_ésta opción le indicará el sistema que centre toda la replicación de la imágen base
+
+				hacia el centro de la imágen
+
+
+			_Stretch to Fit:				
+
+				_ésta opción le indicará el sistema que centre toda la replicación de la imágen base
+
+				distribuida dentro de todo el canvas de la composición respectiva
+
+
+
+		_Blur:
+
+			_ésta opción nos pemritirá agregar desenfoque al sistema lo cuál, nos permitirá suavizar y
+
+			moficiar el efecto de distorsión y abstracción generado
+
+
+
+		Water:
+
+			_Water Surface:
+
+				_ésta opción nos pemritirá seleccionar una layer, de la respectica composición a
+
+				través, de la cuál, podremos generar distorsiones sobre la imágen base sobre la
+
+				cuál, hemos aplicado el efecto
+
+
+			_Wave Height:
+
+				_ésta opción nos permitirá controlar la cantidad de distorsión visible sobre la 
+
+				imágen base en relación a los valores de luminancia de la imágen ó layer, 
+
+				seleccionada en las opcioens de "Water Surface", del paso anterior
+
+
+				_de ésta manera, podremos hacer más ó menos visible la imágen base en relación a la
+
+				cantidad de distorsión de la imágen "Water Surface"
+
+
+			_Smoothing:
+
+				_así, como también, podremos hacer el efecto más fino y detallado ó más grueso y 
+
+				a su vez, ligero y poco invasivo sobre la imágen base
+
+
+			_Water Depth:
+
+				_ésta opción nos permitirá de forma concreta aumentar ó disminuir la profundidad ó
+
+				cantidad marcada del efecto existente sobre la imágen base lo cuál, nos permitirá
+
+				acentuar ó nó el efecto generado y resultante
+
+
+			_Refractive Index:
+
+				_ésta opción también, contribuirá con la capacidad de acentuar ó atenuar el efecto
+
+				resultante y existente en sobre la imágen base, más ésta opción incluye la variante
+
+				de la incorporación de anomalías de distorsión extra sobre el sistema a través, de
+
+				un índice de reflracción indicado
+
+
+			_Surface Color:
+
+				_ésta opción nos permitirá agregar una dominante de color para la generación del
+
+				efecto caustico, por defecto el color indicado es un color azul celeste más si no
+
+				deseamos una dominante de color marcada podremos personalizar el color e indicar 
+
+				un color blanco para que así, la imágen base se muestre en sus colores originales
+
+
+			_Surface Opacity:
+
+				_así, como también, podremos controlar la opacidad de éste color sobre la imágen
+
+				base para que así, podamos hacer éste efecto ó dominante de color más ó menos
+
+				invasiva sobre la imágen base
+
+
+			_Caustics Strength:
+
+				_éste control hace de máster, y a través, del cuál, podremos atenuar todo el sistema
+
+				sobre la imágen base ó por el contrario; multiplicar todos los efectos de distorsión
+
+				sobre la imágen base
+
+
+
+		Sky:
+
+
+			_Sky:
+
+				_ésta opción ó selector nos permitirá seleccionar una layer, existente en la 
+
+				compsoción respectiva para que así, ésta layer, haga de mapa de "reflections", a
+
+				través, de sus valores de luminancia
+
+
+				_para que así, la layer, base ahora cobre zonas de especilaridad lo que también,
+
+				nos permitirá crear diferentes efectos independientes como en conjunto con los demás
+
+				efectos sobre la imágen base
+
+
+
+			_Scaling:
+
+				_ésta opción nos pemritirá re escalar la imágen que hemos escogido en las opciones
+
+				de "Sky/Sky", para que así, podamos ajustar ésta imágen en relación al tamaño de la
+
+				imágen base y a nuestras necesidades de producción y paso contínuo
+
+
+			_Repeat Mode:
+
+
+				_Once:
+
+					_ésta opción nos permitirá escalar la layer, que hará las reflexiones con 
+
+					los bordes en un color neutro lo cuál, nos permitirá realizar diferentes 
+				
+					efectos de escalado de la reflexion
+
+
+				_Reflected;
+
+					_ésta opción nos pemritirá escalar la imágen de forma reflejada y replicada 
+
+					a la vez, ha modo del efecto "tiler", avanzado lo cuál, nos permitirá 
+
+					realizar diferentes efectos para producción y motion graphycs, otros
+
+
+				_Tiled:
+
+					_ésta opción nos pemritirá escalar la imágen de forma reflejada y replicada 
+
+					a la vez, ha modo del efecto "tiler", lo cuál, nos permitirá realizar 
+
+					diferentes efectos para producción y motion graphycs, otros
+
+
+
+			_If Layer Size Differs:
+
+
+				_Center:
+
+					_ésta opción le indicará el sistema que centre toda la replicación de la 
+
+					imágen base hacia el centro de la imágen
+
+
+				_Stretch to Fit:				
+
+					_ésta opción le indicará el sistema que centre toda la replicación de la 
+
+					imágen base distribuida dentro de todo el canvas de la composición 
+
+					respectiva
+
+
+
+			_Intensity:
+
+				_ésta opción nos pemritirá indicarle al sistema cuán visible ó sutil tendrá que ser
+
+				el efecto de reflexión agregado al sistema ó layer, base
+
+
+			_Convergence:
+
+				_ésta opción nos permitirá indicarle al sistema cuando distorsionado estará el
+
+				efecto de reflexión en relacióna su vez, a la cantidad de distorsión existente ó
+
+				aplicada sobre la imágen base
+
+
+				_de ésta manera, el efecto de reflexión emilará el efecto de de distorsión existente
+
+				sobre la imágen base
+
+
+
+		Lighting:
+
+
+			_Light Type:
+
+
+				_Point Source:
+
+					_ésta opción nos permitirá seleccionar el tipo de iluminación por defecto
+
+					sobre el sistema de tipo de luz puntual
+
+
+				_Distance Source:
+
+					_ésta opción nos permitirá seleccionar el tipo de iluminación por defecto
+
+					sobre el sistema de tipo de luz de foco ó "spot light"
+
+
+				_First Comp Light:
+
+					_ésta opción nos permitirá seleccionar el tipo de iluminación personalizada
+
+					sobre el sistema para que así, el sistema tome la primera layer, de tipo 
+
+					"Light", existente en la respectiva composición sea ésta de tipo "point,
+
+					spot, otros"
+
+
+			_Light Intensity:
+
+				_así, como también, el sistema nos permitirá controlar la intensidad del sistema de
+
+				iluminación generado para poder así, hacer éste más intenso ó ténue sobre la layer
+
+				base
+
+
+			_Light Color:
+
+				_así, como también, podremos controlar ó indicar un color personalizado para la luz
+
+				generada por el sistema de iluminación sobre la layer, base
+
+
+			_Light Position:
+
+				_más también, dispondremos de una handle, personalizado directamente en el viewport,
+
+				del panel compositing, a través, del cuál, podremos colocar la fuente de iluminación
+
+				en un área determinada ó a través, del panel effects controls, por medio de 
+
+				controles numéricos más específicos
+
+
+			_Light Height:
+
+				_así, como también, en el tipo de iluminación de tipo "Point Source", podremos 
+
+				indicar el radio de acción ó umbral de penunbra que tendrá la iluminación generada
+
+				por el sistema sobre la layer, base
+
+
+			_Ambient Light:
+
+				_así, como también, controlar la iluminación global del sistema por defecto para 
+
+				que así, haya más ó menos contraste entre la iluminación de la imágen base, y la
+
+				generada por el sistema de luz puntual en éste caso
+
+
+
+		Material:
+
+
+			_Diffuse Reflection:
+
+				_ésta opción nos pemritirá indicarle al sistema de distorsión que sea sensible ó
+
+				receptivo a los efecto de reflexión lo cuál, aumentará la complejidad del sistema
+
+				en general sobre la layer, base
+
+
+			_Specular Reflection:
+
+				_ésta opción nos pemritirá indicarle al sistema de distorsión que sea sensible ó
+
+				receptivo a los efecto de especularidad lo cuál, aumentará la complejidad del 
+
+				sistema en general sobre la layer, base
+
+
+			_Highlight Sharpness:
+
+				_ésta opción hará de un master, a través, del cuál, se podrán atenuar ó intensificar
+
+				los efectos de "Material/Reflexion-Specular"
+
+
+
+
+
+
+
+
+
+
+
+
+
+

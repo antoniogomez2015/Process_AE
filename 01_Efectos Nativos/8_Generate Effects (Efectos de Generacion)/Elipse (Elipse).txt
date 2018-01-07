@@ -1,0 +1,98 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria´crear una elipse, de forma procedural totalmente configurable y animablbe, de
+
+	ésta maenra, podremos personalizar un círculo imperpecto ó elipse
+
+
+	_ésta elipse, no podrá ser sólida sino que solamente en forma de anillo
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Elipse: (Elipse)
+	_______
+
+
+		_Center:
+
+			_ésta opción nos permitirá indicar el epicentro ó punto a partir del cuál, se comenzará
+
+			ha generar el efecto ó ha crear en éste caso el círculo ó anillo respectivamente
+
+
+		_Width:
+
+			_ésta opción nos permitirá configurar el ancho del círculo ó elipse
+
+
+		_Height:
+
+			_ésta opción nos permitirá configurar el alto del círculo ó elipse
+
+
+		_Thickness:
+
+			_ésta opción nos permitirá indicar el grosor de la elipse ó anillo
+
+
+		_Softness:
+
+			_ésta opción nos permitirá indicar la acutancia ó definición de los 
+
+			bordes, de ésta menera, podremos generar una alipse con bordes acusados 
+
+			y definidos ó una elipse con una apariencia luminicente, otros
+
+
+		_Inside Color:
+
+			_ésta opción nos permtirá indicar el color de relleno ó fill, del sistema
+
+
+		_Outside Color:
+
+			_ésta opción nos permtirá indicar el color del contorno ó stroke, del sistema
+
+
+		_Composite On Original:
+
+			_ésta opción nos permtirá integrar el sistema con la layers, sobre la cuál, 
+
+			se ha aplicado el sistema ó efecto
+
+
+
+
+
+

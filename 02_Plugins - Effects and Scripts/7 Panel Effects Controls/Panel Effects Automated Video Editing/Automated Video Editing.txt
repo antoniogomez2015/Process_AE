@@ -1,0 +1,83 @@
+
+
+http://aescripts.com/automated-video-editing/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Automated Video Editing
+
+
+	Automated Video Editing:
+
+
+	-este nos permite hacer un mix, ó mezcla de almenos tres videos y un archivo de audio así, el sistema segmentará 
+
+	los videos a través, de la información del archivo audio especificamente la información de los picos en decibeles
+
+
+	_de ésta manera, el sistema busca lograr un relación en la acción del audio con la acción del video así, podremos
+
+	ajustar la sensibilidad y creterio que tendrá el sistema a la hora de seccionar ó fraccionar el video
+
+	
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener un composición de trabajo así, ésta composición es recomendable que esté vacía 
+
+
+	
+	Folder:
+	_______
+
+	_así, como también, debemos de crear una carpeta vacía en el panel project, la cuál, podremos renombrar con un 
+
+	nombre descriptivo
+
+
+
+	Import Footage:
+	_______________
+
+	_y en dicha carpeta procederemos ha importar todo el material de archivo necesario para el proceso, así, importaremos
+
+	varias archivos de video, mínimo "3", archivos de video, preferiblemente que sean del mismo tamaño aunque no es 
+
+	limitante para realizar el proceso
+
+
+	_así, como también, debemos importar un archivo de tipo audio como .mp3, ó .wav
+
+
+
+	Settings Plugins:
+	_________________
+
+	_para luego, proceder ha configurar las opciones de creación del sistema en las opciones del plugins, así, como tamaño
+
+	de la composición, frame rate, del sistema generado así, como también, como la más importante; la sensibilidad ó criterio
+
+	que tendrá la herramienta a través, de la opción de "Video Cut Speed:", donde "4", será el valor más sensible para el 
+
+	sistema
+
+
+	_y así, podremo ir ajustando todos los valores especialmente los de aleatoriedad entre otros disponibles
+
+
+	_y por último ir al "Step 3", y darle ha generar el sistema para que así, éste analize todo el material de tipo footage,
+
+	y procesa ha generar el sistema en relación a los decibeles del audio y al tipo de conincidencias en el material de video
+
+
+
+
+
+
+	

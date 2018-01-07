@@ -1,0 +1,404 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/utility-effects.html#grow_bounds_effect
+
+				https://helpx.adobe.com/es/after-effects/using/color-management.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+		Tutorial:
+
+			Extender limites de los objetos (Grow bounds) - After effects para principiantes
+				https://www.youtube.com/watch?v=qa8pdgAn-cY
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+	
+	NOTA: Los efectos de la categoría Obsoleto se conservan para permitir la compatibilidad con los proyectos 
+
+	creados con versiones anteriores de After Effects. Cuando se actualizan proyectos o se crean proyectos 
+
+	nuevos, debe usar efectos y técnicas alternativos en lugar de los efectos de la categoría Obsoleto.
+
+
+
+
+	_Si está trabajando en un proyecto que se creó en una versión anterior de After Effects y el efecto Relámpago
+
+	está aplicado a una o más capas, puede seguir utilizando este efecto, o bien, utilizar el efecto Relámpago 
+
+	avanzado. (Consulte Efecto relámpago avanzado).
+
+
+	_Este efecto funciona con colores de 8 bpc.
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Lightning: (Relampago)
+	__________
+
+
+		_Start point:
+
+			_ésta opción nos permitirá indicarle al sistema en que punto del viewport, del panel 
+
+			compositing, comenzará ha generarse el sistema, para lo cuál, dispondremos de un handle,
+
+			directamente en el viewport, del panel compositing, ó a través, del panel effects control
+
+
+		_End point:
+
+			_ésta opción nos permitirá indicarle al sistema en que punto del viewport, del panel 
+
+			compositing, terminará de generarse el sistema, para lo cuál, dispondremos de un handle,
+
+			directamente en el viewport, del panel compositing, ó a través, del panel effects control
+
+
+		_Segments:
+
+			_ésta opción nos permitirá indicarle al sistema los segmentos ó cuán quebrasizo será los rayos
+
+			generados, de ésta manera, el sistema generado será más ó menos complejo en relación a las
+
+			necesidades de producción
+
+
+		_Amplitude:
+
+			_ésta opción nos permitirá indicarle al sistema cuán ancho ó distendido será el sistema 
+
+			generado, es decir, que el sistema podrá hacerse más ancho en su diversificación de los rayos
+
+			generados 
+
+
+			_ó por el contrario, éste deberá de regirse de forma más lineal entre ambos puntos, tanto el 
+
+			inicial como el final 
+
+
+		_Detail Level:
+
+			_ésta opción nos permitirá indicarle al sistema el umbral de la fuerza del rayo generado, así,
+
+			como también, lo rectilíneo ó lo detallado ha modo de profusión de detalle ó curvas, es
+
+			decir, que si indicamos un valor muy bajo, ej: "0", 
+
+
+			_el rayo generado será delgado y prácticamente de color azul como también, será práctivamente 
+
+			rectilínio y geométrico, lo cuál, es útil para diferentes procesos de producción y paso 
+
+			contínuo
+
+			
+			_más si indicamos un valos superior ha "1", el rayo será más grueso y su interior será de 
+
+			color blanco y por ende tendrá más fuerza y presencia en la escena
+
+
+			_como también, tendrá un nivel de detalle superior así, como también un grado de profusión
+
+			mayor en sus curvas y formas residuales generadas
+
+
+		_Detail Amplitude:
+
+			_ésta opción nos permitirá indicarle al sistema dos parámetros a la vez de forma reforzada
+
+		
+			_el primero consiste en el detalle ó "detail", ó la cantidad de profusión y detalle ó cantidad
+
+			de curvas en su representación
+
+
+			_y el segundo consiste en la cantidad amplitud, ó "amplitude", lo cuál, hará que el sistema 
+
+			seña más en línea recta entre los dos puntos de generación del sistema ó por el contrario, el
+
+			sistema se expanda creando así, arcos complejos en el espacio, otros
+
+
+		_Branching:
+
+			_ésta opción nos permitirá indicarle al sistema el umbral ó cantidad de deribaciones de los
+
+			rayos generados por el sistema, de ésta maeran, podremos crear un sistema que emita mehos sub
+
+			rayos ó más sub rayos ó ramificaciones
+
+	
+			_"Ramificaciones", Cantidad de ramificaciones que aparecen al final de los segmentos del 
+
+			relámpago. Un valor de 0 no produce ramificaciones; un valor de 1,0 produce ramificaciones 
+
+			en todos los segmentos.
+
+
+		_Rebranching:
+
+			_ésta opción nos permitirá indicarle al sistema el nivel ó umbral del reordenamiento de los
+
+			sub rayos generados por el sistema en relación a las necesidades de producción
+
+
+			_"Subramificación", cantidad de ramificaciones de los ramales. Los valores más altos producen 
+	
+			relámpagos con forma de árbol
+
+
+		_Branch Angle:
+
+			_ésta opción nos permitirá indicarle al sistema el ángulo de creación de las ramas para que
+
+			así, éstas tengan un comportamiento predecible dentro del sistema generado
+
+
+			_"Ángulo de ramificación", Angulo entre una ramificación y el relámpago principal
+
+
+		_Branch Seg. Length:
+
+			_Longitud del segmento de ramific. Duración Longitud de cada segmento de ramificación como 
+
+			una fracción de la longitud media de los segmentos del relámpago.
+
+
+		_Branch Segments:
+
+			_Segmentos de ramificación, Número máximo de segmentos de cada ramificación. Para crear 
+
+			ramificaciones largas, especifique valores más altos en la longitud de los segmentos de las 
+
+			ramificaciones y en los segmentos de las ramificaciones.
+
+
+		_Branch Width:
+
+			_Ancho de ramificación, Ancho medio de cada ramificación como una fracción de la anchura del 
+
+			relámpago.
+
+
+		_Speed:
+
+			_Velocidad, Velocidad de ondulación del relámpago.
+
+
+
+		_Stability:
+
+			_Estabilidad, Cercanía con la que el relámpago avanza por la línea definida por los puntos de 
+
+			inicio y final. Los valores inferiores mantienen el relámpago cerca de la línea, mientras que
+
+			los valores superiores crean un rebote importante. 
+
+
+			_Utilice Estabilidad junto con Fuerza de arrastre para simular el efecto Escalera de Jacob y 
+
+			conseguir que el relámpago restalle de vuelta a su posición a lo largo de la línea de inicio 
+
+			después de ser arrastrado por la dirección de la Fuerza de arrastre. Un valor de Estabilidad 
+
+			demasiado bajo no dejará al rayo estirarse en forma de arco antes de restallar; un valor 
+
+			demasiado alto permitirá que el rayo rebote
+
+
+		_Fixed Endpoint:
+
+			_Punto final fijo, Determina si el punto final del relámpago permanece fijo en su sitio. 
+
+
+			_Si no se selecciona este control, el final del rayo ondulará alrededor del punto final.
+
+
+		_Width:
+
+			_Ancho principal, Ancho del resplandor interior, tal y como se indica con el valor Color 
+
+			interno. 
+
+
+			_El ancho principal está en relación con la anchura total del relámpago.
+
+
+		_Width Variation:
+
+			_Ancho, Variación de ancho, Ancho del relámpago principal y nivel de variación de la anchura 
+
+			de los diferentes segmentos. 
+
+
+			_Los cambios de ancho son aleatorios. Un valor de 0 no produce cambios de ancho; un valor de 
+
+			1 produce cambios de ancho máximos.
+
+
+
+		_Core Width:
+
+			_Ancho del núcleo, ésta opción indica el ancho interno del desplandor ó de la parte interna
+
+			del rayo de color blanco
+
+
+		_Outside Color:
+
+			_Color exterior, Color interno, Los colores utilizados para los resplandores interiores y 
+
+			exteriores de los rayos. Pues que el efecto Relámpago agrega estos colores a la parte superior
+
+			de los colores existentes en la composición, los colores primarios producen a menudo mejores 
+
+			resultados. 
+
+		
+			_Los colores brillantes se vuelven a veces mucho más luminosos, en ocasiones incluso blancos, 
+
+			dependiendo del brillo de debajo de los colores.
+
+
+		_Inside Color:
+
+			_Color exterior, Color interno, Los colores utilizados para los resplandores interiores y 
+
+			exteriores de los rayos. Pues que el efecto Relámpago agrega estos colores a la parte superior
+
+			de los colores existentes en la composición, los colores primarios producen a menudo mejores 
+
+			resultados. 
+
+		
+			_Los colores brillantes se vuelven a veces mucho más luminosos, en ocasiones incluso blancos, 
+
+			dependiendo del brillo de debajo de los colores.
+
+
+		_Pull Force:
+
+			_Fuerza de arrastre, Dirección de arrastre, Fuerza y dirección de una fuerza que arrastra el 
+
+			relámpago. 
+
+
+			_Utilice el valor de Fuerza de arrastre junto con el valor de Estabilidad para crear una 
+
+			apariencia de Escalera de Jacob.
+
+
+		_Pull Direction:
+
+			_Fuerza de arrastre, Dirección de arrastre, Fuerza y dirección de una fuerza que arrastra el 
+
+			relámpago. 
+
+
+			_Utilice el valor de Fuerza de arrastre junto con el valor de Estabilidad para crear una 
+
+			apariencia de Escalera de Jacob.
+
+
+		_Random Seed:
+
+			_Raíz aleatoria, Valor de entrada para el generador de ruido aleatorio que es la base del 
+
+			efecto Relámpago. 
+
+
+			_Si el movimiento aleatorio del relámpago interfiere en otra imagen o capa, introduzca otro 
+
+			valor en Raíz aleatoria hasta encontrar uno que funcione como desee.
+
+
+		_Blending Mode:
+
+			_Modo de fusión, Modo de fusión que se debe usar para formar el relámpago sobre la capa 
+
+			original. Estos modos de fusión son idénticos a los del panel Línea de tiempo.
+
+
+		_Simulation:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste anime la simulación
+
+			generada a través, del tiempo
+
+
+		_Rerum At Each Frame:
+
+			_Volver a ejecutar en cada fotograma, Vuelve a generar el relámpago en cada fotograma. 
+
+
+			_Si desea que el relámpago se comporte siempre de la misma forma en cada fotograma cada vez 
+
+			que lo ejecute, no seleccione esta opción. Si selecciona esta opción, aumentará el tiempo 
+
+			de procesamiento.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,59 @@
+
+
+http://aescripts.com/expressionuniversalizer/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Expression Universalizer
+
+
+	Expression Universalizer:
+
+
+	-este nos permite actualizar las expresiones dentro de una composición ó layer, que estén hechas en
+
+	versiones de after effects, en varios idiomas, como por ejemplo en versiones en inglesh, y en versiones
+
+	en español
+
+
+	_ya que si tratamos de abrir archivos con expresiones hechas en aplicaciones con otro idioma tendremos
+
+	un problema de compatibilidad
+
+
+	_para ésto podremos abrir éstos archivos en la versión de after effects, con otro idioma y utilizar éste
+
+	plugins, para estandarizar éstos scripts, ó código
+
+
+
+	Workflow:
+	_________
+
+
+	_para ésto, debemos abrir el proyecto en la versión en after effects, en ingles 
+
+
+	_para leugo, seleccionar la composición ó layer, ha trabajar y luego con ésta seleccionada ir al panel
+
+	"Expression Universalizer", y seleccionar entre si el plugins, accionará sobre la composición ó sobre
+
+	todo el proyecto 
+
+
+	_para luego darle ha "Universalize Expressions", así, el sistema hará la conversión ó estarización de
+
+	de los scripts, existentes
+
+
+	_de ésta manera al abrir éste archivo en la versión de after effects, en otros idioma no habrá problema
+
+	de compatibilidad
+
+
+

@@ -1,0 +1,123 @@
+
+
+
+
+Animation Patterns
+
+
+	Referencia:
+
+		http://aescripts.com/mirror-and-offset/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite duplicados en espejo de keyframes, bajo diferentes criterios
+
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite agilizar la producción en animación permitiendo duplicar keyframes, con ó sin offset,
+
+	a través, de diferentes criterios configurables, otros
+
+
+
+
+Performances:
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_primero debemos crear una una composición base de trabajo
+
+	
+	_luego debemos de crear una series de layers, a las cuales debemos animarle una ó varias propiedades de animación
+
+
+	_luego debemos seleccionarle las propiedades de animación a interactuar en el sistema de "mirrow & offset", por ej,
+
+	las propiedades de "position", para luego seleccioanr los tipos de criterios en el panel "mirow and offset"
+
+	-------------------------------------------------------------------------------------------------------------------
+
+
+	Don't copy, just mirrow:
+
+		_activar y desactivar ésta opción permite duplicar una serie de keyframes, en una nueva posición del cabezal
+
+		de animación, ésto es especialmente útil para lograr efectos de inversión de efectos, otros
+
+
+	Mirrow:
+
+		_ésta opción permite hacer ó finalizar de crear el sistema "mirrow and offset", al tener todas las popieades
+
+		configuradas previamente
+
+
+	Offset:
+
+		_ésta opción permite indicar la cantidad de offset, ó desface deseada entre keyframes, a través, de un valor 
+
+		indicado por nosotros
+
+
+	Upwards:
+
+		_ésta opción permite indicar el sentido del desface, en éste caso caso el desface será en el sentido de una 
+
+		barra inclinada (/)
+
+
+	Downwards:
+
+		_ésta opción permite indicar el sentido del desface, en éste caso caso el desface será en el sentido de una 
+
+		barra inclinada invertida (\)
+
+
+	Layer:
+
+		_ésta opción permite indicar que los keyframes, de una respectiva layers, serán tomados como un todo que 
+
+		interacturán con las demás layers, en el sistema de offset
+
+
+	Property:
+
+		_ésta opción permite indicar que los keyframes, de una respectiva layers, serán tomados de forma individual
+
+		para que éstos interactuen con las demás keyframes, en el sistema de offset, ésta opción permite un efecto
+	
+		más progresivo, directamente haciendo "Offset", entre keyframes, y no entre layers
+
+
+	Shffle layers before offset:
+
+		_ésta opción permite seleccionar keyframes, ó propiedades de layers, directamente para hacer "shuffle", ó
+
+		sipsa de keyframes, ésto permite intercalar y hacer efectos ó patrones diferentes de animación
+
+
+		Offset:
+
+			_ésta opción permite ejecutar las acciones de shuffle, en los keyframes/propiedades, seleccionadas	
+
+
+	

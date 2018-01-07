@@ -1,0 +1,821 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá 
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Keylight: (Indeterminado)
+	_________
+
+
+		_About:
+
+			_éste es un bannes, el cuál, no indica el nombre del plugins, y en versiones iniciales 
+
+			hacía relación al fabricante del plugins "The Foundry"
+
+
+
+		_View:
+
+
+			Source:
+
+				_ésta opción nos pemritirá visualizar directamente en el viewport, en el panel 
+
+				"Compositing", la layer, base a la cuál, le hemos aplicado el efecto sin la 
+
+				aplicación del efecto ó plugin			
+
+
+			_Source Alpha:
+
+				_ésta opción nos permitirá visualizar directamente en el viewport, en el panel 
+
+				"Compositing", del canal alpha, existente previamente en la layer, base a la cuál, 
+
+				le hemos aplicado el efecto de keylight
+
+
+			_Corrected Source:
+
+				_ésta opción nos permitirá visualizar directamente en el viewport, en el panel 
+
+				"Compositing", el matte, base generado y la imágen base a la vez
+
+
+			_Colour Correction Edges:
+
+				_ésta opción nos pemritirá visualizar el matte, resultante del proceso más 
+
+				éste estará limitado sólo a las áreas del contorno de la imágen visible y la
+
+				parte de la imágen oculta para que así, podamos enfocarnos sólo en los bordes
+
+				ó perímetro de la imágen del motivo de interés para hacer correcciones sobre 
+
+				el borde de la imágen
+
+
+			_Colour Correction Edges:
+
+				_ésta opción nos permitirá visualizar directamente en el viewport, en el panel 
+
+				"Compositing", el matte, base generado y la imágen base a la vez
+
+
+			_Screen Matte:
+
+				_ésta opción nos permitirá visualizar directamente en el viewport, en el panel 
+
+				"Compositing", el matte, resultante del proceso en su totalidad para que así,
+
+				podamos ver las áreas que serán visibles y las áreas que serán ocultas del 
+
+				proceso de keygin, y los agujeros y ruidos ha corregir
+
+
+			_Inside Mask:
+
+				_ésta opción nos permitirá visualizar el matte, generado por una máscara seleccionada
+
+				para que haga de máscara excluyente la cuál, excluirá el área que circuscribe del
+
+				proceso de keygin
+
+
+			_Outside Mask:
+
+				_ésta opción nos permitirá visualizar el matte, generado por una máscara seleccionada
+
+				para que haga de máscara incluyente la cuál, incluirá el área que circuscribe al
+
+				proceso de keygin
+
+
+			_Combined Matte:
+
+				_ésta opción nos permitirá visualizar directamente en el viewport, en el panel 
+
+				"Compositing", el matte, combinado de las máscaras aplicadas en el sistema así, como
+
+				también, del matte, general del proceso, ésta opción es muy similar a la opción de
+
+				"Screen Matte"
+
+
+			_Status:
+
+				_ésta opción nos permitirá visualizar directamente en el viewport, en el panel 
+
+				"Compositing", el matte, de forma que las áreas visibles se presentarán en blanco y
+
+				las áreas que deberán ser ocultadas serán representadas en colores en relación a su
+
+				dificultad para eliminarse para que así, tengamos una alerta de las áreas que aún no
+
+				se han eliminado del proceso de keygin
+
+
+			_Intermediate Result:
+
+				_ésta opción nos permitirá visualizar directamente en el viewport, el panel 
+
+				"Compositing", el resultado final del proceso pero de forma limitada de ésta menera,
+
+				prodremos el resltado final sin el proceso de spill, ó corrección de contaminación
+
+				de color
+
+
+			_Final Result:
+
+				_ésta opción nos permitirá visualizar directamente en el viewport, el panel 
+
+				"Compositing", el resultado final de el efecto de keylight
+
+
+
+		_Screen Colour:
+
+			_ésta opción nos pemritirá seleccionar un color ha eliminar de la imágen a través, de
+
+			un picker, ó un selector manual de color
+
+
+		_Screen Gain:
+
+			_ésta opción nos pemritirá indicarle al sistema el umbral del color seleccionado en el paso
+
+			anterior para que así, el sistema pueda seleccionar colores ó tonos contíguos para que así,
+
+			se pueda eliminar un área de color con imperfecciones en la iluminación y demás detalles
+
+
+			_es recomendable colocar ó indicar valores medios altos, entre valores "50-75", ya que el
+
+			color ó áreas restantes las podremos eliminar con las opciones de niveles del matte, generado
+
+
+		_Screen Balance:
+
+			_indicar valores de "50-0", ayudará al proceso de eliminación del color seleccionado ya que
+
+			ésta opción tratará de homogenizar el color seleccionado entre los colores contiguos al color
+
+			elegido lo cuál, facilitará el proceso
+
+
+		_Despill Bias:
+
+			_ésta opción nos pemritirá seleccionar un color el cuál, será eliminado de la imágen en 
+
+			general para que así, la imágen resultante quede con un tono más natural y no cantaminada por
+
+			ningún color ageno a la imágen original
+
+			
+			_como también, para que la imágen posea unos bordes de color neutro para que así, éstos puedan
+
+			ser integrados más fácilmente con las demás layers, de la composición respectiva
+
+
+			_por ésta razón el color predeterminado es gris, lo cuál, es lo más recomendable para la 
+
+			mayoría de los procesos de producción y paso contínuo
+
+
+		_Alpha Bias:
+
+			_ésta opción hará un efecto similar a la opcion anterior de "Despill Bias", más la opción de
+
+			"Alpha Bias", lo aplicará directamente en el canal alpha existente y generado a la vez
+
+
+		_Lock Biases Together:
+
+			_ésta opción conmutará ambos valores de color tanto en las opciones de "Despill Bias", como
+
+			en las opciones de "Alpha Bias", para que así, ambas tengan la misma información de color
+
+
+		_Screen Pre-Blur:
+
+			_ésta opción nos permitirá pre enfocar el área del color seleccionada para que así, el color
+
+			de ésta área sea homogenizado de ésta manera, el proceso de keygin, será más fácil aunque
+
+			puede traer efectos colaterales en los bordes de la imágen y posterizaciones, otros
+
+
+
+		_Screen Matte:
+
+
+			_Clip Black:
+
+				_aumentar éste valor mayor ha "0", ayudará ha eliminar la parte del fondo ó color
+
+				seleccionado que aún no se ha eliminado tras la aplicación de la opción de 
+
+				"Screen Gain"
+
+
+			_Clip White:
+
+				_bajar éste valor de "100", hará el efecto contrario, volverá hacer que aparezca el
+
+				color que hemos seleccionado y eliminado hasta éste punto
+
+
+			_Clip RollBack:
+
+				_valores cercanos ha "0", crearán un contraste superior ayudando ha eliminar el color
+
+				seleccionado a costa de la perdida de detalles en los detalles más finos como el 
+
+				cabello y demás elementos sutiles del área perimetral de la imágen
+
+
+				_y valores superiores ha "30", por ejemplo aumentarán el detalle bajando el contraste
+
+				y la acutancia entre los colores contiguos del color seleccionado lo cuál, aumentará
+
+				el detalle y la profundida de los planos del área perimetral al contorno ó bordes de
+
+				la imágen pero por contraparte, hará que aparezca más áreas ha eliminar para el 
+
+				proceso
+
+
+			_Screen Shrink/Grow:
+
+				_ésta opción nos permitirá extender ó retraer el área de los bordes de la imágen 
+
+				visible y la parte de la imágen oculta lo que nos permitirá refinar los bordes de la
+
+				imágen resultante en su conjunto
+
+
+			_Screen Softness:
+
+				_ésta opción nos permitirá suavizar los bordes de la imágen visible y la parte de la
+
+				imágen oculta para que así, podamos evitar bordes con el efecto de "diente de león", y
+
+				baja resolución y poco integrados con el resto de layers, de la composición respectiva
+
+
+			_Screen Despot Black:
+
+				_con valores mayores ha "0", ésta opción aumentará la densidad de los negros ó del color
+
+				ha eliminar lo cuál, es útil cuando desemos tener visibles más elementos sobre los 
+
+				cuáles, deseamos conservar detalles a través, de otros parámetros dentro del efecto 
+
+				keylight
+
+
+			_Screen Despot White:
+
+				_con valores mayores ha "0", ésta opción aumentará la densidad de los blancos ó de la
+
+				imágen visible ha conservar lo cuál, es útil cuando desemos tener visibles más elementos sobre los 
+
+				cuáles, deseamos conservar detalles a través, de otros parámetros dentro del efecto 
+
+				keylight
+
+
+
+			_Replace Method:
+
+
+				_None:
+
+					_ésta opción no aplicará ningún algoritmo de pre cálculo para el proceso de
+
+					spill color
+
+
+				_Source:
+
+					_ésta opción aplicará como algoritmo de pre cálculo para el proceso de
+
+					spill color, los mismos colores intríncicos en la propia imágen base a la cuál,
+
+					le hemos aplicado efecto
+
+
+				_Hard Colur:
+
+					_ésta opción aplicará como algoritmo de pre cálculo para el proceso de
+
+					spill color, el color que hemos seleccionado de forma estricta para lograr 
+
+					bordes más definidos como primera instancia sobre otros parámetros
+
+
+				_Soft Colour:
+
+					_ésta opción aplicará como algoritmo de pre cálculo para el proceso de
+
+					spill color, el color que hemos seleccionado de forma más integrada para 
+
+					lograr bordes más suaves como para del proceso entre otros parámetros
+
+
+
+			_Replace Colur:
+
+				_ésta opción nos permitirá seleccionar un color a través, de un picker, ó un selector
+
+				de color personalizable el cuál, se utilizará el proceos de "Spill Color"
+
+
+
+		_Inside Mask:
+
+
+			_Inside Mask:
+
+				_ésta opción nos pemritirá seleccionar una máscara que hayamos creado sobre la layer,
+
+				base a la cuál, le hemos aplicado el efecto
+
+
+				_para que así, ésta layer, que hemos seleccionado haga de área excluyente la cuál,
+
+				determinará una área la cuál, no será contemplada por el proceso de keylight
+
+
+			_Inside Mask Softness:
+
+				_ésta opció nos permitirá suavizar ó disfuninar los bordes de la máscara la cuál,
+
+				circuscribe un área la cuál, será excluida del proceso de keygin
+
+
+			_Invert:
+
+				_ésta opción nos permitirá invertir el sentido de la máscara la cuál, hemos seleccionado
+
+				para el proceso excluyente de un área determinada para que así, ésta respectiva área
+
+				también, sea invertida
+
+
+			_Replace Method:
+
+
+				_None:
+
+					_ésta opción no aplicará ningún algoritmo de pre cálculo para el proceso de
+
+					spill color
+
+
+				_Source:
+
+					_ésta opción aplicará como algoritmo de pre cálculo para el proceso de
+
+					spill color, los mismos colores intríncicos en la propia imágen base a la cuál,
+
+					le hemos aplicado efecto
+
+
+				_Hard Colur:
+
+					_ésta opción aplicará como algoritmo de pre cálculo para el proceso de
+
+					spill color, el color que hemos seleccionado de forma estricta para lograr 
+
+					bordes más definidos como primera instancia sobre otros parámetros
+
+
+				_Soft Colour:
+
+					_ésta opción aplicará como algoritmo de pre cálculo para el proceso de
+
+					spill color, el color que hemos seleccionado de forma más integrada para 
+
+					lograr bordes más suaves como para del proceso entre otros parámetros
+
+
+
+			_Replace Colour:
+
+				_ésta opción nos permitirá seleccionar un color a través, de un picker, ó un selector
+
+				de color personalizable el cuál, se utilizará el proceos de "Spill Color"
+
+
+
+			_Source Alpha:
+
+
+				_Ignore:
+
+					_ésta opción no tomará la información del canal alpha, existente previamente
+
+					en la layer, base a la cuál, le hemos aplicado el efecto
+
+
+					_y no agregará ésta información al matte, resultante del proceso de la máscara 
+
+					excluyente que hemos determinado
+
+
+				_Add To Inside Mask:
+
+					_éstao opción agregará la información del canal alpha, existente al matte, 
+
+					resultante del proceso de la máscara excluyente que hemos determinado
+
+
+					_para que así, aumentemos las posibilidades del proceso de producción y paso
+
+					contínuo
+
+
+				_Normal:
+
+					_ésta opción hará un efecto similar a la opción de "Add To Inside Mask"
+
+
+
+
+
+		_Outside Mask:
+
+			
+			_Ouside Mask:
+
+				_ésta opción nos pemritirá seleccionar una máscara que hayamos creado sobre la layer,
+
+				base a la cuál, le hemos aplicado el efecto
+
+
+				_para que así, ésta layer, que hemos seleccionado haga de área incluyente la cuál,
+
+				determinará una área la cuál, será contemplada por el proceso de keylight
+
+
+				_lo que es especialmente útil para procesos complejos y áreas que ofrezcan mucha
+
+				dificultad en el proceso de keygin
+
+
+			_ouside Mask Softness:
+
+				_ésta opció nos permitirá suavizar ó disfuninar los bordes de la máscara la cuál,
+
+				circuscribe un área la cuál, será incluida del proceso de keygin
+
+
+			_Invert:
+
+				_sta opción nos permitirá invertir el sentido de la máscara la cuál, hemos seleccionado
+
+				para el proceso incluyente de un área determinada para que así, ésta respectiva área
+
+				también, sea invertida
+
+
+
+		_Foreground Colour Correction:
+
+
+			_Enable Clour Correction:
+
+				_al activar ésta opción se activarán todas las opciones para las correcciones de la 
+
+				imágen visible así, como para las de supresión de color ó "Spill Color", también, para
+
+				la parte de la imágen visible en general y a su vez, del balance de color de la imágen 
+
+				visible en general luego del proceso de keygin
+
+
+			_Saturation:
+
+				_de ésta manera, podremos controlar la saturación general de la imágen resultante del
+
+				proceso de keygin
+
+
+			_Contrast:
+
+				_de ésta manera, podremos controlar el contraste general de la imágen resultante del
+
+				proceso de keygin
+
+
+			_Brightness:
+
+				_de ésta manera, podremos controlar el brillo general de la imágen resultante del
+
+				proceso de keygin
+
+
+
+			_Colour Suppression:
+
+				_éstas opciones nos permitirá hacer correcciones de spill color, ó contaminación de 
+
+				color sobre la imágen resultante del proceso de keygin
+
+
+				_Suppres:
+
+
+					_None:
+
+						_ésta opción nos realizará ninguna corrección sobre el spill color,
+
+						existente sobre la imágen en general resultante del proceso de keygin
+
+
+					_Red | Green | Blue | Magenta | Yellow:
+
+						_ésta opción realizará una corrección sobre el spill color, en relación
+
+						al color que hayamos seleccionado de entre las opciones que nos brinda
+
+						el efecto ó plugins como los son "_Red | Green | Blue | Magenta | Yellow",
+
+					
+						_para que así, corrijamos cualquiera de éstas posibles dominantes en la
+
+						imágen resultante del proceso de keygin
+
+
+
+				_Suppression Balance:
+
+					_ésta opción nos permitirá lograr un balance entre el color seleccionado y el
+
+					color deterctado por el sistema para que así, encontremos un mejor equilibrio
+
+					entre el color ha suprimir realmente en la imágen resultante
+
+
+				_Suppression Amount:
+
+					_ésta opción nos permitirá indicar un umbral a través, del cuál, podremos
+
+					eliminar una dominante de color determinada de la imágen en general						
+
+
+
+			_Colour Balancing:
+
+
+				_Hue:
+
+					_así, como también, podremos crear un balance de color sobre la imágen 
+
+					resultante del proceso en éste caso de tono ó matiz a través, de un slider
+
+
+				_Sat:
+
+					_así, como también, podremos crear un balance de color sobre la imágen 
+
+					resultante del proceso en éste caso de la saturación a través, de un slider
+
+
+
+				_Colour Balance Wheel:
+
+					_así, como también, podremos crear correcciones ó ajustes del matiz y 
+
+					saturación al unísono de forma práctiva a través, de una rueda de color
+
+
+
+		_Edge Colour Correction:
+
+			
+			_Enable Edge Colour Correction:
+
+				_al activar ésta opción se activarán todas las opciones para las correcciones del
+
+				contorno de la imágen visible así, como para las de supresión de color ó "Spill Color", 
+
+				también, para la parte de la imágen visible en general y a su vez, del balance de color 
+
+				de la imágen visible en general luego del proceso de keygin
+
+
+			_Edge Hardness:
+
+				_ésta opción refinará los bordes de la imágen visible definiendo así, mejor los bordes
+
+				generados por el proceso de keygin
+
+
+			_Edge Softness:
+
+				_ésta opción refinará los bordes de la imágen visible suavizando así, los bordes
+
+				generados por el proceso de keygin
+
+
+			_Edge Grow:
+
+				_ésta opción refinará los bordes de la imágen visible extendiendo así, los bordes
+
+				generado por el proceso de keygin
+
+
+			_Saturation:
+
+				_ésta opción refinará los bordes de la imágen visible haciendo variaciones sobre la
+
+				saturación de los bordes generado por el proceso de keygin
+
+
+			_Contrast:
+
+				_ésta opción refinará los bordes de la imágen visible haciendo variaciones sobre el
+
+				contraste de los bordes generado por el proceso de keygin
+
+
+			_Brightness:
+
+				_ésta opción refinará los bordes de la imágen visible haciendo variaciones sobre lo
+
+				brillos de los bordes generado por el proceso de keygin
+
+
+			_Edge Colour Suppression:
+
+				_éstas opciones nos permitirá hacer correcciones de spill color, ó contaminación de 
+
+				color sobre los bordes de la imágen resultante del proceso de keygin
+
+
+				_Suppres:
+
+
+					_None:
+
+						_ésta opción nos realizará ninguna corrección sobre el spill color,
+
+						existente sobre la imágen en general resultante del proceso de keygin
+
+
+					_Red | Green | Blue | Magenta | Yellow:
+
+						_ésta opción realizará una corrección sobre el spill color, en relación
+
+						al color que hayamos seleccionado de entre las opciones que nos brinda
+
+						el efecto ó plugins como los son "_Red | Green | Blue | Magenta | Yellow",
+
+					
+						_para que así, corrijamos cualquiera de éstas posibles dominantes en la
+
+						imágen resultante del proceso de keygin
+
+
+
+				_Suppression Balance:
+
+					_ésta opción nos permitirá lograr un balance entre el color seleccionado y el
+
+					color deterctado por el sistema para que así, encontremos un mejor equilibrio
+
+					entre el color ha suprimir realmente en la imágen resultante
+
+
+				_Suppression Amount:
+
+					_ésta opción nos permitirá indicar un umbral a través, del cuál, podremos
+
+					eliminar una dominante de color determinada de la imágen en general						
+
+
+
+			_Colour Balancing:
+
+
+				_Hue:
+
+					_así, como también, podremos crear un balance de color sobre los bordes de
+
+					la imágen resultante del proceso en éste caso de tono ó matiz a través, de 
+					
+					un slider
+
+
+				_Sat:
+
+					_así, como también, podremos crear un balance de color sobre los bordes de
+
+					la imágen resultante del proceso en éste caso de la saturación a través, de
+
+					un slider
+
+
+
+				_Colour Balance Wheel:
+
+					_así, como también, podremos crear correcciones ó ajustes del matiz y 
+
+					saturación al unísono de forma práctiva a través, de una rueda de color
+
+
+
+
+		_Source Crops:
+
+
+			_X | Y Method: (Indeterminado de aqui en a delante)
+
+
+				_Colour:
+
+					_
+
+
+				_Repeat:
+
+					_
+
+
+				_Reflect:
+
+					_
+
+
+				_Wrap:
+
+					_
+
+
+
+			_Edge Colour:
+
+
+				_
+
+
+			_Edge Colour:
+
+				_
+
+
+			_Left | Right | Top | Bottom:
+
+				_
+
+
+
+
+
+
+
+
+
+
+
+
+
+

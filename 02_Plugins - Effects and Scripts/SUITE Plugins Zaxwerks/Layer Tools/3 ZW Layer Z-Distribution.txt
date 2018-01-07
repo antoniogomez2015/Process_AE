@@ -1,0 +1,93 @@
+
+
+
+
+	Zaxwerks 3D Flags
+
+		Tutorial After Effects Plugins Zaxwerks
+			
+			https://www.youtube.com/watch?v=zWIn_mpk2NI
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Zaxwerks Layer Toold / ZW Layer Fit And Face:
+	_____________________________________________
+
+
+	_éste plugins, nos permitirá distribuir layers, 3d, en el espacio 3d, ha modo del efecto logrado
+
+	por el plugins, "PT_Multiplane", para hacer matte painting, y camara projecting
+
+
+	_así, como también, nos permitirá hacer distribuciones espaciales de layers, a través, de la 
+
+	perspeciva ó toma de la cámara
+
+
+	_así, de ésta manera, el sistema requerirá la existencia de una cámara creada dentro de la 
+
+	respectiva composición sobre la cuál, proyectará el sistema
+
+
+
+	Workflow:
+	_________
+
+	_para lo cuál, lo primero será tener creada una composición de trabajo así, como al menos al menos
+
+	dos layers, ó más por lo general parte de una composición ó segmentación "matte painting"
+
+
+	_éstas layers, a las cuales deseamos aplicarle el sistema deberán tener activada su propiedad 3D
+
+
+	_para a continuación proceder ha seleccionar todas las layers, en el panel timeline, a las cuales
+
+	deseamos aplicarle el sistema y con todas éstas respectivas layers, seleccionar ir al menú
+
+	"Animation/Keyframe Assistant/ZW Layer Z-Distribution"
+
+
+
+	ZW Layer Fit And Face:
+	______________________
+
+
+	_camara:
+
+		_ésta opción nos permite indicarle al sistema la cámara ha utilizar para generar el 
+
+		sistema
+
+
+	_Z offset:
+
+		_ésta opción nos permitirá indicarle al sistema la distación de proyección entre las layer,
+
+		y su conjunto que conformarán el sistema
+
+
+	_distribute style:
+
+		_event spread selecion order:
+
+			_ésta es la opción más recomendada así, como también, dispondremos de otras 
+
+			opciones ó criterios de acción para distribuir las layers, en el espacio 3d
+
+
+	_apply:
+
+		_de esta manera, a través, de éste botón podremos generar el sistema para que así, al
+
+		proceder a orbitar la cámara podamos ver la nueva distribución de las layers, en relación
+
+		a la ubicación ó toma de la cámara
+
+
+
+

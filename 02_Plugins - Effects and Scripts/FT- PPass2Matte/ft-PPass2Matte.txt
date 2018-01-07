@@ -1,0 +1,138 @@
+
+
+
+	Referencia Oficial:
+
+		http://aescripts.com/ft-uvpass/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	ft-PPass2Matte:
+	_______________
+
+
+	_éste plugins, nos permitirá crear un mapa de sombra ó shadow, el cuál, nos permitirá generar una sobre 3d, realista
+
+	sobre elementos 3d, renderizados previamente en pases desde una aplicación 3d, a través, de la referencia de un
+
+	"world possition pass"
+
+
+	_de ésta manera, podremos hacer la composición de pases de un proyecto en pos producción en after effects, para 
+
+	posterior agregar otra pase extra de sobra realista al proceso para lograr más realismo
+
+
+	_con la diferencia de que éste mapa extra de sobra lo podremos ajustar dinámicamente y en cualquier momento del proceso
+
+	lo cuál, amplía las posibilidades de producción
+
+
+
+
+	Workflow:
+	_________
+
+	_de ésta manera, debemos de cargar a la respectiva composición la imágen ó secuencia de imágenes del "world posstion pass", 
+
+	que hemos renderizado de aplicaciones como cinema 4d, blender, otros
+
+
+	_para posteriormente seleccionar la layer, la cuál, corresponde al world possition pass, y con ésta seleccionada aplica 
+
+	el efecto yendo ha el panel "PBA Launcher", y allí, ubicar el efecto "ft-PPass2Matte"
+
+
+	_para a continuación desactivar la visualización del efecto ó plugins, en el panel effects controls, a trvés, del ícono
+
+	en la parte superior izquierda del efecto para que así, podamos visualizar el mapa world possition pass, con sus colores
+
+	naturales
+
+
+	_para que así, podamos ir a las opciones del efecto, específicamente a la opción de "Point on the object", para que así,
+
+	a través, de color picker, podamos seleccionar ó muestrear un color de la escena más cercana al área que debería estar
+
+	la sombre deseada ha generar, que por lo general será un área sobre ó bajo el motivo
+
+
+	_de ésta manera, el efecto ó plugins, tomará ésta referencia de color para generar el matte, resultante el cuál, deberá
+
+	aproximarse a la sombra deseada
+
+
+	_para posteriormente ir ajustando los demás valores en relación a la cordenada de trabajo seleccionada para que así, vayamos
+
+	refinando el matte, generado
+
+
+	_para que así, cuando hayamos terminado de refinar el matte, resultante podremos hacer un "track matte", sobre una layer, con
+
+	un sólo sóludo aplicado y de color negro la cuál, hará de mapa de sombras extra
+
+
+
+
+
+
+
+	ft-PPass2Matte Options:
+	_______________________
+
+
+	_Luma Mode:
+
+		_ésta opción nos permitirá indicarle al sistema como éste deberá interpretar la información de color de ésta manera,
+
+		podremos indicarle al sistema que interprete los colores como "sRGB", ó "Linear", en ambos casos podremos ver un
+
+		comportamiento similar
+
+
+	_Radius selection[0]:
+
+		_desplazamiento del matte, en la cordenada "X", u horizontal
+
+	
+	
+	_Radius selection[1]:
+
+		_desplazamiento del matte, en la cordenada "Y", ó vertical
+
+	
+	
+	_Radius selection[2]:
+
+		_desplazamiento del matte, en la cordenada "Z", ó profundidad
+
+
+	_FallOff:
+
+		_ésta opción nos permitirá refinar el matte, resultante de ésta manera, podremos hacer sombras más finas y afiladas
+
+
+	_Hardness:
+
+		_ésta opción nos permitirá refinar el matte, resultante de ésta manera, podremos hacer sombras más finas y afiladas
+
+
+	_Point on the object:
+
+		_ésta opción nos permitirá muestrear el mapa de world possition pass, para que así, el sistema pueda interpretar la
+
+		cordenada de trabajo así, como la zona de trabajo deseada para la generación del matte, resultante el cuál, hará 
+
+		de mapa de sombras especial extra
+
+
+
+
+
+
+

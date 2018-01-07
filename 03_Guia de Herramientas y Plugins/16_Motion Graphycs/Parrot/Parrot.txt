@@ -1,0 +1,196 @@
+
+
+
+
+Animation Patterns
+
+
+	Referencia:
+
+		http://aescripts.com/parrot/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite transferir tantos los efectos como los estilos de una layer, maestra a otras layers, a modo de
+
+	instancias vinculadas a la original
+
+
+	_ésto es especialmente útil para motion graphycs, y producción, ya que podremos copiar tanto los efectos como
+
+	los estilos de una layer, la cuál, tomaremos como "master"
+
+
+	_así, como también, podremos hacer "Trigger", ó disparados a través, de "markers", otros
+
+
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer rápidas animaciones de material complementario para conforman elementos de motion graphycs
+
+	entre otro tipos de posibles de aplicaciones
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_para ésto, debemos de tener una composición previamente creada
+
+
+	_luego debemos crear una serie de layers, las cuales pueden ser de capas de forma, imágenes, otros
+
+
+	_luego debemos crear una capa para que sea la capa principal ó master, ó también, podemos utilizar una de 
+
+	las layers, que ya habiamos creado previamente
+
+
+	_es recomendable animar ésta layer, así como agregarle efectos y estilos de capa si aplican, para que todos
+
+	éstos efectos y estilos de capa y así, como animación que le hemos hecho se transfieran a las otras layers
+
+
+	_para luego seleccionar la layer, que hemos animado y agregado efectos y estilos de capa y luego, con ésta
+
+	capa seleccionada vamos al panel "Parrot"
+
+
+	A continuación se presentan las caracteristicas del panel Parrot:
+	-----------------------------------------------------------------------------------------------------
+
+
+	Refresh List:
+
+		_ésta opción permite reflescas la lista de elementos relacionados por el plugins
+
+
+	Select master layer:
+
+		_ésta opción permite seleccionar la layer, que hará de máster, por lo general seleccionaremos la layer 
+
+		a la cuál, hemos aplicado animación y plugins, más también, alternativamente podremos seleccionar
+
+		algotra layer, que nos permitirá meter otros parámetros de animación ó efectos, otros
+
+
+	Position Offset from:
+
+
+		Master Start:
+
+			_ésta opción le dice a las instanciados que comiencen a partir de la referncia de la posición
+
+			del elemento layer, master
+
+
+		Orion:
+
+			_ésta opción le dice a las instanciados que comiencen a partir de su propia referencia de  
+
+			posición a través, de su "orion"
+			
+
+
+	Parrot all modified keyable props:
+
+
+		Effects:
+
+			_ésta opción indica que las réplicas tomarán para si los efectos encontrados en la layer,
+
+			master, para cargarlos en éstas de forma esclava
+
+
+		Layer Styles:
+
+			_ésta opción indica que las réplicas tomarán para si los efectos de layer, encontrados en la 
+
+			layer, master, para cargarlos en éstas de forma esclava
+
+
+
+	Marker Offset:
+
+		_ésta opción permite hacer un desface escalado ó progresivo en cada de una las layers, réplicas de forma
+
+		secuencial a través, de "Markers", en éstas respectivas layers, éste "offset", puede graduarse a través,
+
+		de un valor indicado por nosotros así, si éste valor será positivo ó negativo
+
+
+	Create note layer:
+
+		_función indeterminada
+
+
+	Parrot:
+
+		_ésta opción permite crear el sistema "parrot", luego que hemos configurado todas las opciones,
+
+		
+		_para ésto, primero debemos seleccionar en "Select master layer:", la layer, que hará de "Master"
+
+
+		_luego debemos seleccioanr todas las layers, que harán de instancias
+
+
+		y por último, con todas las layers, seleccionadas vamos al panel "Parrot", y hacemos "Parrot", así,
+
+		las layers, quedarán relacionadas tanto en efectos como en animación, ésto lo podremos visualizar
+
+		al mover el cabezal de animación del timeline
+
+
+	UnParrot:
+
+		_ésta opción permite desvincular todo el sistema parrot, existente para ésto, debemos seleccioanr
+
+		todas las layer involucradas en éste
+
+
+	Marker Management:
+
+		
+		Name:
+
+			_ésta opción nos permite mover el cabezal del timeline, hasta un tiemp determinado para
+
+			luego indicar un "nombre", en el campo del panel 
+
+
+		Set Markers:
+
+			_para luego aplicar "Set Markers", para así, de acuerdo con el criterio indicado en las
+
+			opción de "Merkers Iffset", y si éste es positivo ó negativo, se procederá a crear ésta
+
+			sere de marcas en las layers, seleccionadas y en el tiempo especificado
+
+
+	Remove Named Markers:
+
+		_ésta opción permite eliminar las marcas creadas en las layers, seleccionadas ó las marcas 
+
+		seleccionadas directamente
+
+
+
+
+

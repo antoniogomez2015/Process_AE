@@ -1,0 +1,334 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer deformaciones a través, de diferentes herramientas de deformación libre
+
+	por medio de las cuáles, podremos crear estados de transformación libre la cuál, podremos animar a través,
+
+	del tiempo
+
+
+	_de ésta manera, podremos crear transformaciones de superficies y deformaciones orgánicas como una imágen
+
+	ó layer
+
+
+	_lo cuál, puede ser útil para efecto de morph, caracterizaciones, entre otros efectos para producción y
+
+	aso contínuo
+
+
+
+	Animation:
+	__________
+
+	_de ésta manera, para poder animar el sistema de deformación de cualquier de las herramientas de liquify,
+
+	debemos hacer uso principalmente de las opciones animables de
+
+		_Distortion Percentage
+
+
+
+	_para para la animación global de superficies también, podremos animar las opciones de;
+
+
+		_Dirtortion Mesh
+
+		_Distribution Offset
+
+
+
+	_de ésta manera, por ejemplo, cuando desemos animar la deformación de una caracterización debemos 
+
+	primeramente de crear un keyframe, en el punto inicial a partir del cuál, deseamos crear la animación
+
+
+	_para posteriormente avanzar en el tiempo y resetear la pose a la pose base para lo cuál, debemos de hacer
+
+	uso de la herramienta de "Reconstruction", el cuál, es un pincel reconstructivo ó de deshacer dentro de las
+
+	herramientas de liquify, y color un keyfrme, en éste punto para fijar éste hecho
+
+
+	_para posteriormente repetir el proceso inicial en otro punto en el tiempo creado otra deformación sobre 
+
+	el character, para crear un nuevo keyframe, en éste punto
+
+
+
+
+	Workflow:
+	_________
+
+	
+	_Brush Size:
+
+		_ésta opción nos permitirá graduar el tamaño de el brush, al igual que en la herramienta 
+
+		"paint brush", en el modo de pintado en el layer, panel, podremos graduar el radio de la brush,
+
+		haciendo "Control + Mouse Left Click and Drag"
+
+
+	_Brush Pressure:
+
+		_ésta opción nos permitirá indicar la dureza de la brush, (no dispone de shortcut)
+
+
+	_Freeze Area Mask:
+		
+		_ésta opción nos pemritirá indicar una máscara, aplicada sobre la misma layer, sobre la cuál,
+
+		hemos aplicado el efecto liquify, para que así, de ésta manera 
+
+
+		_ésta respectiva máscara que seleccionemos haga de máscara para que así, a partir de ésta 
+
+		información se cree un área de reserva sobre la cuál, no pueda hacer deformaciones por ninguna 
+
+		de las herramientas de liquify
+
+
+	_Turbulence Jitter:
+
+		_ésta opción sólo estará disponible cuando estemos en el modo de "Turbulence Tool", el cuál,
+
+		nos permitirá agregar alternabilidad paralela a la deformación
+
+
+	_Clone Offset:
+
+		_ésta opción sólo estará disponible cuando estemos en el modo de "Clone Tool", el cuál, nos 
+
+		permitirá hacer clonación de efector de forma alineada ó paralela a la durección del brush 
+
+
+	_Reconstruction Mode:
+
+		_ésta opción sólo estará disponible cuando estemos en el modo de "Reconstruction Tool", la 
+
+		cuál, nos permitirá seleccionar el modo de aplicación de la herramienta de reconstrucción 
+
+		
+
+		_de ésta manera, podremos seleccionar entre los siguietes modos de trabajo ó aplicación:
+
+
+			_Revert:
+
+				_"Volver", devuelve las zonas no congeladas a su estado predistorsionado
+
+
+			_Displace:
+
+				_"Desplazar", Reconstruye las zonas no congeladas para que coincidan con el 
+
+				desplazamiento en el punto de inicio de la reconstrucción 
+
+
+				_Puede utilizar Desplazar para mover todo o parte de la imagen de 
+
+				previsualización a una 	ubicación diferente
+
+
+
+			_Amplitwist:
+
+				_"Gran torsión", Reconstruye las zonas no congeladas para que coincidan con el 
+
+				desplazamiento, el giro y la escala global del punto de inicio
+
+
+			_Affine:
+
+				_"Afín", Reconstruye las áreas no congeladas para que coincidan con todas las 
+
+				distorsiones locales del punto de inicio, incluido el desplazamiento, el giro, las 
+
+				escalas horizontal y vertical y el sesgo
+
+
+
+
+	_Viw Mesh:
+
+		_ésta opción nos permitirá visualizar la malla de deformación directamente en el viewport para 
+
+		que así, podamos ver las áreas de deformación y la densidad de la malla y su color aplicado
+
+
+
+	_Mesh Size:
+
+		_ésta opción nos permite seleccionar el tipo de mesh, de deformación ha utilizar en el sistema,
+
+		de ésta manera, podremos indicar la cantidad de detalle ha representar, ya una malla, con más
+
+		resolución dará más detalles pero también, el proceso será más lento y pesado, de ésta manera,
+
+		dispondremos de los siguientes tipos de resolución:
+
+
+			_Small:
+
+				_ésta opción creará la malla más pequeña, con más densidad y resolución y por
+
+				ende con mayor peso
+
+
+			_Medium:
+
+				_ésta opción creará la malla mediana, con más densidad y resolución y por
+
+				ende promedio con un peso más ligero que la "Small"
+
+
+			_Large:
+
+				_ésta opción creará la malla liviana, con más densidad y resolución y por
+
+				ende liviana con un peso más ligero aún que la "medium	
+
+
+	_Mesh Color:
+
+		_en éste selector podremos seleccionar entre varios colores disponibles para la malla ha 
+
+		generar para así, tener una mejor visualización de la malla en relación a los colores de la 
+
+		imágen respectiva de la layer
+
+
+	
+
+	
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Liquify: (Licuar)
+	________
+
+
+		_Warp:
+
+			_ésta herramienta empuja los píxeles hacia delante cuando se arrastran
+
+
+		_Turbulence:
+
+			_ésta herramienta mezcla píxeles de forma uniforme. Este ajuste resulta útil para crear 
+
+			fuego
+
+
+		_Twirl:
+
+			_de ésta hay dos herraminentas, la cuáles, giran los píxeles en el sentido de las agujas 
+
+			del reloj y en sentido opuesto respectivamente, cuando mantiene pulsado el botón del ratón 
+
+			o lo arrastra
+
+
+		_Pucker:
+
+			_la herramienta de "Desinflar", mueve los píxeles hacia el centro de la zona del pincel 
+
+			cuando mantiene 
+
+
+		_Bloat:
+
+			_la herramienta "Inflar", mueve los píxeles lejos del centro de la zona del pincel cuando 
+
+			mantiene pulsado el botón del ratón o lo arrastra.
+
+
+		_Shift Pixel:
+
+			_ésta herramienta mueve los píxeles de forma perpendicular a la dirección del trazo
+
+
+		_Reflexion:
+
+			_ésta herramienta copia píxeles en la zona del pincel
+
+
+		_Clone:
+
+			_Copia las distorsiones de alrededor de una ubicación de origen hasta la ubicación actual 
+
+			del ratón. Defina la ubicación de origen presionando Alt
+
+
+		_Reconstruction:
+
+			_ésta herramienta Reconstrucción, y sus modos para revertir distorsiones o rehacerlas de 
+
+			formas nuevas
+
+
+	
+		_Distortion Mesh:
+
+			_
+
+
+		_Distribution Mesh Offset:
+
+			_
+
+
+		_Distortion Percentage:
+
+			_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

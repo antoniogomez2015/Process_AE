@@ -1,0 +1,313 @@
+
+
+http://aescripts.com/beat-assistant/
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Beat Assistant
+
+
+	Beat Assistant:
+
+
+	-este nos permite controlar animaciones a través, de los picos en tracks de audio para que así, de ésta manera,´´		
+
+	poder controlar ó accionar keyframes, a través, de marks, keyframes, ó layers, de unas respectivas
+
+	
+	Workflow:
+	_________
+
+	_primero debemos importar un track, de audio y cargarlo en el timeline, de la composición respectiva y del cuál, 
+
+	extraeremos la información a través, de marks, ó marcas
+
+
+
+	Beats Assistant:
+	________________
+
+	bpm:
+
+		_ésta opción mos permite detectar los "beats", ó picos de audio que requirá el sistema para aplicarlos
+
+		a las marks, posteriormente, para lo cuál debemos darle al botón "Auto Detect"
+
+
+		_ésta opción es sugestionable en audios complejos así, si colocamos el cabezal del timeline, sobre una 
+
+		parte del audio, el sistema tomará el respectivo beats ó pico de audio como referencia para hacer otro
+
+		cálculo, de ésta manera, podremos hacer diferentes cálculos y extracciones de un mismo audio
+
+
+
+		Keyframes:
+		__________
+
+			_Use:
+
+				_éta opción nos permite seleccionar los criterios de detección que tendrá el
+
+				sistema a la hora de interpretar el audio, entre los cuales podremos escoger
+
+				entre los siguientes:
+
+
+					_every best:
+
+						_ésta opción tetectará cada beats, registrado
+
+
+					_every...:
+
+						_ésta opción nos permitirá seleccionar diferentes intervalores
+
+						como por ej: "cada" 2, 4 8, 16... intervalores registrados
+
+
+			_To:
+
+				_así, de dichos intervalos de beats, registrados en el paso anterior éstos los 
+
+				debemos convertir en keyframes, de las propiedades deseadas a través, de los cuales 
+
+				podremos modificar las propiedades de animación para lo cuál, primero debemos seleccionar
+
+				las popiedades ha animar, ejemplo; "Position, Scale, Rotation", para luego darle al botón 
+
+				"Generate Keyframes", pero antes debemos configurar las opciones de "Keyframe Value", 
+
+				explicadas en el paso siguiente
+
+
+				_de ésta manera, se le agregarán una secuencia de keyframes, a las propiedades seleccionadas
+
+				en relación a los beats, detextados en el audio para que así, éstas propiedades queden
+
+				animadas automáticamente
+
+
+
+			_Keyframes Value:
+
+				_ésta opción nos permite indicarle ha el sistema que tipo de propiedades vamos ha animar así,
+
+				las propiedades ha animar pueden ser unidimensionales, bidimensionales ó tridimensionales 
+
+				para que así, el sistema equima keyframes, para cada una de las dimensiones requeridas
+
+
+				_así, dependiendo de que opción hayamos seleccionado nos aparecerá respectiva un campo de
+
+				acción dos ó tres campos de acción en los cuales podremos indicar valores de modificación ej;
+
+				para una propiedad unidimensional de por ej; "Rotation", nos aparecerá un sólo campo en el
+
+				cuál, podremos indicar las grados de rotación ej; "45", y así, para las demás propiedades
+
+
+			Mode:
+
+				_Replace original Value:
+
+					_ésta opción hara que los keyframes, existentes serán reemplazados 
+
+					por los keyframes, nuevos generados posteriormente lo que permitirá
+
+					hacer loops, de elementos que repiten sus movimientos en el mismo 
+
+					sitio
+
+
+				_Add Original Value:
+
+					_ésta opción permite modificar el valor de los keyframes, de forma 
+
+					incremental
+
+
+				_Accumulate Changes Over Time:
+
+					_ésta opción permite modificar el valor de los keyframes, de forma 
+
+					incremental
+
+
+			Fade Type:
+
+				_Fade in (Number of Frames):
+
+					_transición de entrada entre los números de fotogramas
+
+
+				_Hold (Number of Frames):
+
+					_bloqueo entre los números de fotogramas
+
+
+				_Fade out (Number of Frames):
+
+					_transición de salida en los número de fotogramas
+
+
+			Linear:
+
+				_activar el tipo de interpolación lineal
+
+
+			Exponential:
+
+				_gráfica del tipo de animación ha realizar
+
+
+		Makers:
+		_______
+
+
+		NOTA: ésta opción es especialmente útil para capturar los beats, de audio para una posterior
+
+		aplicación en animación y diferentes procesos de efectos y producción
+
+
+		_Use:
+
+			_éta opción nos permite seleccionar los criterios de detección que tendrá el
+
+			sistema a la hora de interpretar el audio, entre los cuales podremos escoger
+
+			entre los siguientes:
+
+
+				_every best:
+	
+					_ésta opción tetectará cada beats, registrado
+		
+
+				_every...:
+
+					_ésta opción nos permitirá seleccionar diferentes intervalores
+
+					como por ej: "cada" 2, 4 8, 16... intervalores registrados
+
+
+		_To:
+
+			_así, de dichos intervalos de beats, registrados en el paso anterior éstos los 
+
+			debemos convertir en marks, a través, de los cuales podremos modificar las propiedades
+
+			de animación para lo cuál, debemos darle al botón "Generate Markers"
+
+
+			_éstas nuevas marks, las podemos aplicar sobre la misma layer, de audio ó en otra layer,
+
+			com por ejemplo una layer, de tipo null object
+
+
+		Which comments should the marker have?
+
+
+			_none:
+
+				_creación de markers, sin intervalos de nombres
+
+
+			_1-2-3-4-5-6-7-8-9....
+
+				_creación de markers, con intervalos de nombres
+
+
+			_1-2-3-4  1-2-3-4:
+
+				_creación de markers, con intervalos de nombres
+
+
+			_1-2-3  1-2-3  1-2-3
+
+				_creación de markers, con intervalos de nombres
+
+
+			_1-2  1-2  1-2  1-2:
+
+				_creación de markers, con intervalos de nombres
+
+
+		Lyers:
+		______
+
+
+		INTRO: ésta opción nos permite secuencias layers, bajos los criterios de los intervalos
+
+		de audio así, debemos previamente para ésta opciones seleccionar las layers, las cuales
+
+		deseamos secuenciar para luego escoger los criterios de aplicación
+
+
+		_Use:
+
+			_éta opción nos permite seleccionar los criterios de detección que tendrá el
+
+			sistema a la hora de interpretar el audio, entre los cuales podremos escoger
+
+			entre los siguientes:
+
+
+				_every best:
+	
+					_ésta opción tetectará cada beats, registrado
+		
+
+				_every...:
+
+					_ésta opción nos permitirá seleccionar diferentes intervalores
+
+					como por ej: "cada" 2, 4 8, 16... intervalores registrados
+
+
+		_To:
+
+			_así, de dichos intervalos de beats, registrados en el paso anterior éstos los 
+
+			debemos convertir en layers, secuenciadas a través, de los cuales podremos modificar 
+
+			las animaciones para lo cuál, debemos darle al botón "Stagger Layers"
+
+
+			_para lo cuál, debemos tener seleccionadas previamente las layers, ha secuenciar
+
+
+		Move Layers:
+
+			_ésta opción simplemente secuenciará las layers, seleccionadas
+
+			a partir de los beat, detectados de audio
+
+
+		_Move IN points only:
+
+			_ésta opción nos permitirá secuenciar las layers, a partir de su punto de entrada
+
+			a partir de los beat, detectados de audio
+
+
+		_Move OUT points only:
+
+			_ésta opción nos permitirá secuenciar las layers, a partir de su punto de salida
+
+			a partir de los beat, detectados de audio
+
+
+		_Move IN and OUT points only:
+
+			_ésta opción nos permitirá secuenciar las a partir tanto de su punto de entrada 
+
+			como de su punto de salida a partir de los beat, detectados de audio
+
+
+
+
+	

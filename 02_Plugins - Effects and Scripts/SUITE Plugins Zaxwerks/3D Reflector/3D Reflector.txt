@@ -1,0 +1,147 @@
+
+
+
+
+	Zaxwerks 3D Flags
+
+		Tutorial After Effects Plugins Zaxwerks
+			
+			https://www.youtube.com/watch?v=zWIn_mpk2NI
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Zaxwerks 3D Reflector:
+	______________________
+
+
+	_éste plugins, nos permitirá crear efectos de tipo drop shadows, pero en el espacio 3d, a través,
+
+	de dos layers, donde una layer, hará de emisor de luz proyectada y la hará de receptora de la luz
+
+	ha modo de la sombra proyectada
+
+
+
+	Workflow:
+	_________
+
+	_para lo cuál, lo primero será tener creada una composición de trabajo así, como al menos al menos
+
+	dos layers
+
+
+	_de ésta manera, la primera layer, será la layer, del motivo, por ejemplo; un texto con la 
+
+	propiedad 3d activada
+
+
+	_y la otra layer, será un plano el cuál, debemos de colocar justo debajo de texto 3d, de forma
+
+	perpendicular ha éste, de ésta manera, éste respectivo plano también, deberá tener activadas su
+
+	propiedad 3d
+
+	
+	_así, como también, será imprescindible crear una cámara en la composición respectiva para un mejor 
+
+	control y visualización del sistema (la camara es requerida por el sistema)
+
+
+	_de ésta manera, al generar el sistema se creará una nueva composición anidada con el nombre de
+
+	"reflector comp", la cuál, contendrá las layers, base que conforman el sistema, y para nuestra
+
+	edición y propósito ésta nueva composición generada es transparente 
+
+
+	NOTA: cada cambio que creemos en los parámetros del plugins, debemos hacer click, sobre el botón
+
+	de "UpDate", en la parte superior del panel para que así, los cambios sean aplicados ó actualizados
+
+
+
+	3D Reflector:
+	_____________
+
+
+		_reflectivity:
+
+			_ésta opción nos permite graduar cuán intensa ó visible será el sistema de 
+
+			reflectividad invertidad u opacidad del sistema
+	
+
+		_falloff:
+
+			_ésta opción nos permite activar las opcioens de falloff
+
+
+		_object falloff start:
+
+			_ésta opción nos permite indicarle al sistema donde deseamos que comience el 
+
+			calado del sistema de reflexión reflejado
+
+
+		_object falloff distance:
+
+			_ésta opción nos permite indicarle al sistema la proyección ó distancia del 
+
+			sistema de reflexión en relación a la layer, motivo
+
+
+		_vampires (non-reflected layers):
+
+			_(indeterminado)
+
+
+		_reflection adjust X:
+
+			_ésta opción hace el efecto de distorción ó skew, en la cordenada "X", del sistema
+
+			de reflexión de la proyección invertida
+
+
+		_reflection adjust Y:
+
+			_ésta opción hace el efecto de distorción ó skew, en la cordenada "Y",del sistema
+
+			de reflexión de la proyección invertida
+
+
+
+		_hight quality:
+
+			_ésta opción activa la renderización en alta calidad del sistema  generado
+
+
+		_hide 2d layers:
+
+			_ésta opción oculta las layers, 3d, del sistema
+
+
+		_reflection only:
+
+			_ésta opción muestra sólo el sistema de reflexión de proyección invertida
+
+
+		_composite mode:
+
+			_ésta opción nos permite indicarle al sistema el modo de fusión ó de composición
+
+			del sistema de cara a las demás layers, de la composición respectiva
+
+
+		_documentation online:
+
+			_ésta opción nos ofrece un enlace a la documentación del sistema ó plugins, y al
+
+			fabricante para más información
+
+
+
+

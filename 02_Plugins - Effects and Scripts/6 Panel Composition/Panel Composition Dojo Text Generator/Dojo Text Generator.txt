@@ -1,0 +1,41 @@
+
+
+http://www.creativedojo.net/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Dojo Text Generator
+
+
+	Dojo Text Generator:
+
+
+	-este nos permite de forma práctiva la generación de texto sin la necesidad de haber creado primero una
+
+	layer, de tipo text
+
+
+	_así, como tmabién, nos da la posibilidad de importar un archivo de texto de tipo ".txt", en el cuál, ya
+
+	podremos traer el texto ya editado y corregido
+
+
+	_también, nos ofrece una interface muy ámplia y cómoda para la edición de texto
+
+
+
+	Workflow:
+	_________
+
+
+	_para ésto, basta con borrar el texto de ejemplo ó suplantarlo por el texto deseado y darle a la opción de
+
+	"Create", para que así, sea agregado a la composición una nueva layer, de texto con el contenido deseado
+
+	ó tipeado anteriormente
+
+	

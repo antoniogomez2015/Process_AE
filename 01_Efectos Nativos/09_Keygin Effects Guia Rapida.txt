@@ -1,0 +1,236 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Keygin Effects:
+	_______________
+
+
+	_Color Difference Key: (Incrustación de diferencia de color)
+
+		_éste efecto nos permitirá crear un incrustamiento de color ó keygin, totalmente graduable y 
+
+		personalizable en relación a nuestras necesidades así, como también, éste proceso también, nos servirá 
+
+		para lograr diferentes procesos de producción y paso contínuo
+
+		NOTA: éste efecto es recomendable para chromas perfectos ó con pocas inperfecciones y variaciones de en 
+
+		la iluminación con la cuál, fue tomada la toma general ó fondo verde ó azul
+
+
+
+	_Color Key: (Incrustacion por Chrome) (Opcion doble AA)
+
+		_éste efecto nos permitirá crear un incrustamiento de color ó keygin, de forma simple a través, de una
+
+		selección de color por medio de la tolerancia del color podremos aumentar ó disminuir el efecto de keying, 
+
+		a través, de un umbral el cuál, indicará cuanta área de color igual y similar será borrada a través, 
+
+		de éste proceso.
+
+		éste efecto es la opción más práctica para la eliminación directa de pixeles seleccionados a través, de un
+
+		color determinado, para que así, podamos refinar ésta selección de pixeles ha eliminar
+
+
+		NOTA: en versiones modernas de after effects, éste efectos ha pasado de la categoría "Keyging", a categoría 
+
+		ó sección de "Obsolete"
+
+
+
+	_Color Range: (Gamma de Colores) (Opcion triple AAA)
+
+		_éste efecto nos permitirá crear un incrustamiento de color ó keygin, el cuál, sumará las características y 
+
+		ventajas de los efectos 
+
+			_Color Difference Key: (Incrustación de diferencia de color)
+
+			_Color Key: (Incrustacion por Chrome)
+	
+		_de ésta manera, podremos utilizar las caracteríscas de selección de color por rangos por unmbral y a su vez 
+
+		las opciones de rangos por tolerancia del color lo cuál, nos permitirá un proceso más rápido práctico y 
+
+		efectivo y preciso en relación ha éstos dos efectos anteriores
+
+
+
+
+	_Difference Matte: (Mate de Diferencia)
+
+		_éste efecto nos permitirá crear un incrustamiento de color ó keygin, a través, de otra layer, plano ó
+
+		pre composición, en si, de una layer, con un color del mismo tonos y saturación aproximado del color ha
+
+		eliminar, la ventaja que tiene éste método es que nos pemritirá la utilizacaicón de una toma de 
+
+		"background", ó chrome, sin el motivo ó producto ó persona delante de éste
+
+		_para que así, podamos capturar las diferencia de iluminación, tono, saturación y arrugas en el plano 
+
+		del fondo ó chrome, respectivamente
+
+
+
+	_Extract: (Extraer)
+
+		_éste efecto nos permitirá crear un incrustamiento de color ó keygin, a través, de los valores de liminancia
+
+		de la imágen de ésta manera, podremos eliminar color de la imágen que estén más cerca de los extremos del 
+
+		espectro ó gamma tonal de la imágen de ésta manera, a través, de los niveles de la imágen podremos eliminar 
+
+		los colores que estén más cerca del blanco puro y el negro puro hasta llegar hasta la gamma de colores 
+
+		medios respectivamente así, de ésta manera, podremos eliminar colores con una morfología compleja 
+
+		fácilmente en imágenes de alto contraste con muy poco esfuerzo 
+
+
+
+	_Inner Outer Key: (Incrustacion Interior Exterior)
+
+		_éste efecto nos permitirá crear un incrustamiento de color ó keygin, a través, de máscaras ha modo de el
+
+		efecto de "RE:VisionFX/PV Feather", a través, del cuál, podremos hacer rotoscopias y track-mattes, y en 
+
+		éste caso podremos hacer de forma colateral procesos de keygin
+
+
+
+	_Linear Color Key: (Incrustación por Croma Lineal)
+
+		_éste efecto nos permitirá crear un incrustamiento de color ó keygin, de forma muy similar al efecto 
+
+		"Color Range", aunque de forma más limitada ó simple para chromes, más simples ó con mejor problemas de
+
+		arrugas, iluminación y detalles
+
+
+
+
+	_Luma Key: (Incrustación por Luminancia)
+
+		_éste efecto nos permitirá crear un incrustamiento de color ó keygin, a través, de los valores de liminancia 
+
+		de la imágen un poco similar al efecto de "Effects/Keying/Extract", más el efecto de "Luma Key", nos permitirá
+
+		otros controles de oscilación del umbral de gamma de todo el rango tonal de la imágen el cuál, será graduable
+
+		y animable
+
+
+		_lo que nos permitirá crear efectos de chroma simples con imágenes con colores seleccionados con pocos problemas
+
+		de iluminación y demás defectos como arrugas, otros
+
+		_como también, nos permitirá hacer transiciones de mattes, con diferentes valores en rango de luminancia ó gamma 
+
+		para diferentes efectos de paso contínuo y otros procesos de producción
+
+
+
+	_Spill Suppressor: (Supresión de Rebase)
+
+
+		_éste efecto nos permitirá eliminar ó neutralizar un color seleccionado que por lo general éste color corresponderá
+
+		con el color del chroma, seleccionado y eliminado de una layer, ó imágen de ésta manera, una vez hayamos realizado 
+
+		el proceso de keygin, a través, de cualquier método efecto ó plugin, podremos también, neutralizar éste color 
+
+		de rebase ó color de contamina el color natural de la imágen 
+
+
+		_así, como sus bordes para que así, éste color dominante de la imágen sea eliminado ó neutralizado a través, de su 
+
+		color complementario y la imágen resultante tome un tono más natural y los bordes de la imángen se tornen de un color 
+
+		gris el cuál, se integrará mucho mejor con las demás layers, de la composición
+
+
+
+	_Advanced Spill Suppressor: (Supresión de Rebase Avanzado)
+
+		_éste efecto nos permitirá eliminar ó neutralizar un color al igual que el efecto "Obsolete/Spill Suppressor",
+
+		más con la diferencia de que éste efecto nos permitirá disponer de controles extras ó ultras
+
+
+		_a través, de las cuáles, podremos controlar la tolerancia del color el rango y umbral, la desaturación el rango
+
+		del spill ó contaminación de color y la corrección de la luminancia, otros
+
+
+
+	_Key Cleaner: (Indeterminado)
+
+		_éste efecto nos permitirá limpiar y perfeccionar los bordes de la imágen visible en relación a la imágen
+
+		eliminada entre otras características lo cuál, nos pemritirá mejorar la imágen resultante en una gran
+
+		cantidad de casos de producción y paso contínuo
+
+
+
+	_CC Simple Wire Remoral: (Indeterminado)
+
+		_éste efecto nos permitirá crear un incrustamiento de color ó keygin, de un cable ó de un elemento lineal y
+
+		delgado ha modo de cable de un color determinado ó seleccionado
+
+
+		_para que así, éste sea eliminado ó muestreado con el color ó datos contiguos ha éste para que así, podamos
+
+		posteriormente eliminar éste ó integrarlo ha otros procesos de producción y paso contínuo
+
+
+
+
+	
+
+
+	
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

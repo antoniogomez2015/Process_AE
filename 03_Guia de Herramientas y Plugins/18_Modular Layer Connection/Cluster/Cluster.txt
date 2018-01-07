@@ -1,0 +1,117 @@
+
+
+
+
+Cluster
+
+
+	Referencia:
+
+		https://www.youtube.com/watch?v=cMLR-GSNKTY
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar animaciones de motion graphycs, a partir de la unión de formas a través, de líneas
+
+	de shapes layers
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer rápidas animaciones avanzadas de motion graphycs, en las cuales pueden plasmarse relaciones 
+
+	entre las diferentes layers, así, como interacciones avanzadas entre las cuales también, se puden realizar 
+
+	formas complejas y residuales, otros
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+	Crear Controles:
+	________________
+	
+	_para ésto, debemos de tener una composición previamente creadas
+
+
+	_luego debemos crear una serie de layers, a las cuales deseamos aplicarle el efecto de "connect layers" y a 
+
+	las cuales por lo general debemos animarle una ó varias propiedades de animación
+
+
+	_para luego sin la necesidad de seleccionar ninguna layer, en el timeline, ir al panel "Cluster", y allí, darle
+
+	a la opción de "Controllers", de ésta manera se abrirá el panel de "Controllers manager", en el cuál, tendremos
+
+	que darle al plus "(+)"
+
+	
+	_para agregar así, un una layer, el timeline, de tipo "Null", llamada "Null1", luego procedemos ha cerrar el panel 
+
+	"Controllers manager"
+
+
+	_dicha layer, creada de tipo null, tendrá unos controladores a través, del panel de control de efectos los cuales 
+
+	permitirán controlar todo el sistema de interacciones
+
+
+
+	Conexiones:
+	___________
+
+
+	_ahora en el timeline, procedemos ha seleccionar en orden a las layer, a las cuales deseamos conectar entre si,
+
+	para luego ir al panel "Cluster", y darle al suiche, para ver las opciones de tipos de conexiones disponibles para
+
+	que así, podamos seleccionas las opciones deseadas, entre las cuales disponemos:
+
+
+		Tipos de líneas:
+		________________
+
+		_Dashes ó líenas punteadas
+
+		_Lines ó líneas sólidas y contínuas
+
+		_Curve ó curvas
+
+
+		Comportamientos:
+		________________
+
+		_Linear Conection ó conexión secuencial en relación al orden de selección de creación
+
+		_Parent Conection ó conexión relativa entre las formas ó elementos más cercanos
+
+		_Recursion Conection ó conexión relativa multilateral
+
+
+
+	_de ésta manera primero tendremos que seleccionar uno ó varios tipos de líneas ha utilizar
+
+
+	_para seleccionar el tipo de comportamiento deseado para de ésta manera finalizar el proceso de creación
+
+	dentro del timeline
+
+
+	_para que luego podamos controlar éstos a través, de la layer, "Controllers"
+
+

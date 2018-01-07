@@ -1,0 +1,870 @@
+
+
+
+
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+	Particle Playground
+
+
+		particle playground part 2
+			https://www.youtube.com/watch?v=O3yXZ9L95RY
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Caractecterísticas:
+	___________________
+
+
+	_éste efecto nos permitirá hacer emisiones de partículas ha modo de paso continuo para otros efectos 
+
+	dentro del flujo de producción
+
+
+	_así, como también, matrices configurables las cuales pueden ser intervenidas por mapas para generar 
+
+	alteraciones y anomalías para lograr animaciones complejas entre muchas otras posibilidades
+
+
+	_también, podremos hacer colisiones entre layers, externas y el sistema de partículas para generar por 
+
+	ejemplo efecto de nieve cayendo sobre objetos, otros
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Particle Playground: (Animador de Objetos)
+	____________________
+
+
+
+
+	Cannon:
+	_______
+
+
+		NOTA: éstos parámetros controlan la emisión de partículas a través, de un punto único de emisión,
+
+		éste módulo viene activado y emitiendo partículas por defecto
+
+
+
+		Position:
+
+			_éste nos permite cambiar el punto de donde se emitirán las partículas en las cordenadas 
+
+			X/Y, directamente en el viewport, del panel compositing, ó en el panel effects controls,
+
+			a través, de un controladores más precisos
+
+
+			_existe una expresión para la propiedad "Position", para que el emisor no sólo emita desde 
+
+			un punto determinado si no que ahora también, podamos extender la emisición de partículas 
+
+			de forma horizontan en la composición:
+
+	
+
+				_"X = random(0,1024); Y = 512; [X, Y]"
+
+
+
+
+		_Barrel Radius:
+		
+			_éste nos permite configurar la dispersión entre partículas entre si ó separación entre las 
+
+			mismas
+
+
+		_Particles Per Second:
+
+			_éste nos permite configurar ó indicar la cantidad de particulas ha emitir por segundo por 
+
+			el sistema
+
+
+		_Direction:
+
+			_éste nos permite indicar la dirección de emisión de las partículas en grados los cuales,
+
+			podremos animar posteriormente
+
+
+		_Direction Random Spread:
+
+			_éste nos permite configurar la dispersión de las partículas a través, del tiempo ó de forma
+
+			prograsiva
+
+
+		_Velocity:
+
+			_éste nos permite configurar la velocidad de emisión de las partículas a través, del tiempo
+
+
+		_Velocity Random Spread:
+	
+			_éste nos permite crear efectos diversos al poder variar la velocidad de las diferentes 
+
+			partículas entre si logrando aleatoriedad en la emisión de las mismas
+
+
+		_Color:
+
+			_éste nos permite variar el color del sistema de partículas de forma animable a través, de
+
+			un picker, ó por medio de un selector de color personalizable
+
+
+		_Particle Radius:
+
+			_éste nos permite ajustar el tamaño de las partículas de forma constante a través, del 
+
+			tiempo
+
+
+	
+
+	Grid:
+	_____
+
+
+		NOTA: éste módulo nos permite crear una matríz ó "Grid", generadora compuesta de partículas la cuál, 
+
+		podremos intervenir posteriormente, éste grid, se compone de líneas de partículas descendentes
+
+
+
+		NOTA: es recomandable a nivel general colocar el valor de "Cannon/Particles Per Second", en un valor
+
+		de "0", para que así, el sistema ó módulo de "Connon", no intervenga ó interactúe con el sistema 
+
+		"Grid", ha menos que así, lo desiemos
+
+
+
+		_position:
+
+			_éste nos permite ajustar la posición del sistema del grid ó grilla en el espacio X/Y
+
+
+		_with:
+
+			_éste nos permite ajustar el ancho que tendrá el sistema ó grilla
+
+
+		_height:
+
+			_éste nos permite ajustar el alto que tendrá el sistema ó grilla aunque ésta opción no es
+
+			prelativa para la generación del sistema grid
+
+
+		_particle across:
+
+			_ésta opción nos permitirá indicar la cantidad de columna de partículas verticales generadas
+	
+			por el sistema
+
+
+		_particle down:
+
+			_ésta opción nos permitirá indicar el aglutinamiento vertical de las partícuas de forma
+
+			descendente, ésta opción nos es prelativa para la generación del sistema
+
+
+			_el sistema funcionará con el valor "particle down", en un valor de "1"
+
+
+		_color:
+	
+			_éste nos permite ajustar el color que tendrá el sistema, el cuál, podremos animar
+
+			posteriormente
+
+
+		_particle radius:
+
+			_éste nos permite ajustar el tamaño de las partículas del sistema
+
+
+
+
+
+
+	Layer Exploder:
+	_______________
+
+		_éste módulo nos permnitirá crear partículas através, de un mapa de luminancia por medio de una 
+
+		layer, de la respectiva composición pre compuesta por lo genera, "más éste proceso en mi pc, no 
+
+		funciona por que requiere demaciados recursos del sistema"
+
+
+		NOTA: activar ésta opción cargando un mapa, poducirá que el sistema de la aplicación colapse y
+
+		tengamos que reiniciar en el peor de los casos la aplicación
+
+
+
+		_Explode Layer:
+´
+			_ésta opción nos permitirá seleccionar una layer, de la respectiva composición la cuál, será
+
+			utilizada para la generación del sistema de partículas a través, de la información de 
+
+			luminancia de la layer, ésta layer, lo mejor es que esté pre compuesta
+
+
+			_de ésta manera, ésta opción nos permitirá crear formas con partículas por medio de la 
+
+			información de luminancia de una layer
+
+
+		_Radius of New Particles:
+
+			_ésta opción nos permitirá determinar el tamaño de las partículas generadas por el sistema
+
+
+		_Velocity Dispersion:
+
+			_ésta opción nos permitirá agregar dispersión de las partículas a través, de una velocidad
+
+			de dispersión base ha una dispersión progresiva de las partículas a través, del tiempo
+
+
+
+
+	Particle Exploder:
+	__________________
+
+		_"Indeterminado"
+
+			_(sugerido: puede ser un controlador de la opción anterior de "Layer Exploder")
+
+
+
+
+
+	Layer Map:
+	__________
+
+	
+		NOTA: éste módulo nos permite personalizar las partículas para la creación de "Sprites", así, 
+
+		podremos crear nuestro propio módulo ó super módulo de muestra de partícula la cuál, el sistema 
+
+		podrá replicar posteriormente en todos los módulos deseados como "Connon", "Grid", otros
+
+
+
+		_use layer:
+
+			_éste nos permitirá seleccionar una la layer, ó composición como muestra ó proxi para
+
+			generar el sistema de partículas a través, de ésta muestra
+
+
+			_es recomendable pre componer la layer, y luego entrar en ésta pre composición y escalar
+
+			ésta imágen proxi para posteriormente recortar ésta composición a través, de la herramienta
+
+			de "Composition/Crop Comp to Region of Interest"
+
+
+			_para que así, ésta composición proxi sea muy pequeña en relación a la composición donde se
+
+			encuentra la layer, con el efecto de "Particle Playground", de ésta manera, la composición
+
+			proxi podrá ser modulada correctamente
+
+
+
+		_time offset type:
+
+
+			Definición Ofical:
+
+				_Especifica el modo en que desea utilizar los fotogramas de una capa de varios 
+
+				fotogramas. Por ejemplo, si está utilizando un capa de un pájaro que bate sus alas 
+
+				y selecciona Relativo como Tipo de desplazamiento de tiempo con un Desplazamiento 
+
+				de tiempo de 0, se sincronizará el aleteo para todas las instancias del pájaro. 
+
+				Aunque esto pueda resultar realista para una banda en movimiento, no lo es para una 
+
+				bandada de pájaros. Para hacer que cada pájaro comience a batir sus alas desde un 
+
+				fotograma diferente de la capa, utilice Aleatoriedad relativa
+
+
+			_relative:
+
+				_éste permite contemplar partículas personalizadas con parámetros de animación 
+
+				constantes, así podremos animar nuestro proxi de partícula
+
+
+
+				Definición Oficial:
+
+					_Comienza la reproducción de la capa desde un fotograma basado en el 
+
+					desplazamiento de tiempo especificado, relativo al tiempo actual de la capa 
+
+					del efecto; a continuación, avanza a la vez que el tiempo actual de la capa 
+
+					de Animación del objeto. Si especifica un Tiempo de desplazamiento de 0, 
+
+					todos los objetos mostrarán el fotograma que corresponda al tiempo actual 
+
+					de la capa del efecto. Si selecciona un Desplazamiento de tiempo de 0,1 
+
+					(y su composición está ajustada a 30 fps), cada objeto nuevo muestra el 
+
+					fotograma que esté 0,1 segundos por detrás del fotograma del objeto anterior
+
+					Independientemente del Tiempo de desplazamiento que especifique, el primer 
+
+					objeto muestra siempre el fotograma de la capa de origen que corresponde al 
+
+					tiempo actual de la capa del efecto
+
+
+
+			_relativa random:
+
+
+				_éste permite contemplar partículas personalizadas con parámetros de animación 
+
+				variables en el tiempo, así podremos animar nuestro proxi de partícula
+
+
+
+				Definición Oficial:
+
+					_Muestra un fotograma de la capa basado en el Desplazamiento de tiempo que 
+
+					haya especificado, independientemente del tiempo actual. Seleccione Absoluto
+
+					cuando quiera que un objeto muestre el mismo fotograma de la capa de origen 
+
+					de múltiples fotogramas durante toda su duración, en lugar de desplazarse 
+
+					por los distintos fotogramas según avanza la capa del efecto con el paso del 
+
+					tiempo. Por ejemplo, si selecciona Absoluto y especifica un Desplazamiento 
+
+					de tiempo de 0, capa objeto mostrará el primer fotograma de la capa de 
+
+					origen durante toda su duración. Si desea mostrar un fotograma que no sea el
+
+					primero, mueva antes la capa en el tiempo hasta que el fotograma que desee 
+
+					mostrar corresponda al Punto de entrada de la capa de Animación del objeto. 
+
+					Si especifica un Desplazamiento de tiempo de 0,1, por ejemplo, cada objeto 
+
+					nuevo mostrará el fotograma que está 0,1 segundos por detrás del fotograma 
+
+					del objeto anterior (o cada tercer fotograma de una animación a 30 fps)
+
+
+
+			_absolute:
+
+				_éste permite partículas personalizadas pero no contempla animación interna
+
+				de éstas
+
+
+
+				Definición Oficial:
+
+					_Comienza la reproducción de la capa desde un fotograma seleccionado al azar, 
+
+					dentro del intervalo entre el tiempo actual de la capa del efecto y el 
+
+					Tiempo aleatorio máx. que haya especificado. Por ejemplo, si selecciona 
+
+					Aleatoriedad relativa y especifica un Tiempo aleatorio máx. de 1, cada 
+
+					objeto comenzará a reproducirse desde un fotograma de la capa elegido 
+
+					aleatoriamente entre el tiempo actual y 1 segundo después del tiempo actual. 
+
+					Otro ejemplo, si especifica un valor negativo de -1 para Tiempo aleatorio 
+
+					máx., este será anterior al tiempo actual, por lo que el intervalo en el que
+
+					los nuevos objetos comienzan a reproducirse avanza a medida que lo hace el 
+
+					tiempo actual. Sin embargo, el intervalo estará siempre entre el tiempo 
+
+					actual y un segundo antes de este
+
+
+
+			_absolute random:
+
+				_éste permite partículas personalizadas pero no contempla animación interna
+
+				de éstas en el tiempo
+
+
+
+				Definición Oficial:
+
+					_Toma aleatoriamente un fotograma de la capa, utilizando un tiempo entre 0 
+
+					y el Tiempo aleatorio máx. que haya especificado. Seleccione Aleatoriedad 
+
+					absoluta si desea que cada objeto represente un solo fotograma diferente de 
+
+					una capa de múltiples fotogramas. Por ejemplo, si selecciona Aleatoriedad 
+
+					absoluta y especifica un Tiempo aleatorio máximo de 1, cada objeto mostrará 
+
+					un fotograma de la capa de un tiempo aleatorio entre 0 y 1 segundo durante 
+
+					la duración de la capa.
+
+
+
+		_time offset:
+
+			_Especifica el fotograma desde el que desea comenzar a reproducir los fotogramas 
+
+			secuenciales de la capa.
+
+
+		_affects:
+
+			_éste nos permite filtrar el alcance que tendrá éste módulo si sólo afectará por ejemplo al 
+
+			módulo Cannon, u a otros módulos en cuestión
+
+
+			_particles from:
+
+				_éste nos permite seleccionar un módulo afectado por el sistema de repulsión
+
+
+			_selection map:
+	
+				_éste nos permite seleccionar un mapa para el sistema de repulsión
+
+
+			_characters:
+
+				_éste nos permite indicar un character ó texto seleccionado para el sistema
+
+
+			_older/younger than:
+
+				_éste nos permite indicar un parámetro ponderado para los elementos ó partículas más 
+
+				jovenes y más viejas
+
+
+			_age feather:
+
+				_éste nos permite indicar un parámetro de suavizado ó desenfoque a los elementos con 
+
+				más edad
+
+
+
+
+	Gravity:
+	________
+
+
+		NOTA: éste módulo nos permite controlar y aplicar gravedad a uno ó varios módulos del sistema
+
+
+
+		_force:
+
+			_éste nos permite indicar el valor ó cantidad de gravedad ha aplicar a los módulos del 
+
+			sistema
+
+
+		_force random spread:
+
+			_éste nos permite indicar la cantidad de dipersión aleatoria de gravedad  aplicada
+
+
+		_direction:
+
+			_éste nos permite indicar la dirección de la gravedad aplicada
+
+
+		_affects:
+
+			_éste nos permite filtrar el alcance que tendrá éste módulo de ésta manera, podremos indicar
+
+			si éste módulo de gravedad afectará sólo por ejemplo al módulo Cannon, u a otros módulos en 
+
+			cuestión
+
+
+			_particles from:
+
+				_éste nos permite seleccionar un módulo afectado por el sistema de repulsión
+
+
+			_selection map:
+
+				_éste nos permite seleccionar un mapa para el sistema de repulsión
+
+
+			_characters:
+
+				_éste nos permite indicar un character ó texto seleccionado para el sistema
+
+
+			_older/younger than:
+
+				_éste nos permite indicar un parámetro ponderado para los elementos ó partículas más 
+
+				jovenes y más viejas
+
+
+			_age feather:
+
+				_éste nos permite indicar un parámetro de suavizado ó desenfoque a los elementos con
+
+				más edad
+
+
+
+
+
+	Repel:
+	______
+
+
+		NOTA: éste módulo permite hacer que las partículas se repelan ha modo de cubos/cuadrados con física 
+
+		los cuales, pueden interactuar entre si de forma gradual
+
+
+		NOTA: éste módulo funciona mejor para sistemas como cannon, con pocas partículas y grandes 
+
+		partículas para que sea más apreciable el efecto de repulsión ente partículas
+
+
+
+		_force:
+
+			_éste nos permite indicar la fuerza de repulsión de cadá partícula sobre las demás
+
+
+		_force radius:
+
+			_éste nos permite indicar el alcance ó extensión de la fuerza de repulsión indicada
+
+
+		_repeller:
+
+			_ésta sección nos permite indicar la procedencia de dicha respectiva fuerza de repulsión
+
+			así, ésta puede proceder de un mapa de determinado y de un módulo determinado del sistema
+
+
+		_particle from:
+
+			_ésta nos permite seleccionar el módulo ó combinación de módulos posibles de donde puede
+
+			proceder ésta fuerza de repulsión a través, de diferentes mapas y criterios de acción
+
+
+		_selection map:
+
+			_éste nos permite seleccionar un mapa determinado de acción para la fuerza de repulsión
+
+	
+		_characters:
+
+			_éste nos permite indicar un character ó texto seleccionado para el sistema
+
+
+		_older/younger than:
+
+			_éste nos permite indicar un parámetro ponderado para los elementos ó partículas más jovenes 
+
+			y más viejas
+
+
+		_age feather:
+	
+			_éste nos permite indicar un parámetro de suavizado ó desenfoque a los elementos con más 
+
+			edad
+
+
+		_affects:
+
+			_éste nos permite filtrar el alcance que tendrá éste módulo si sólo afectará por ejemplo al 
+
+			módulo Cannon, u a otros módulos en cuestión
+
+
+		_particles from:
+
+			_éste nos permite seleccionar un módulo afectado por el sistema de repulsión
+
+
+		_selection map:
+
+			_éste nos permite seleccionar un mapa para el sistema de repulsión
+
+
+		_characters:
+
+			_éste nos permite indicar un character ó texto seleccionado para el sistema
+
+
+		_older/younger than:
+
+			_éste nos permite indicar un parámetro ponderado para los elementos ó partículas más jovenes 
+
+			y más viejas
+
+
+		_age feather:
+
+			_éste nos permite indicar un parámetro de suavizado ó desenfoque a los elementos con más 
+
+			edad
+
+
+
+
+	Wall:
+	_____
+
+		_éste módulo nos permitirá crear un "muro", ó área personalizada para limitar el desplazamiento ó 
+
+		alcance de las partículas sobre toda el área del viewport, de panel compositing
+
+
+		_de ésta manera, podremos hacer que las partículas reboten sobre ésta área que hemos determinada 
+
+		de forma personalizada así, las partículas rebotarán en proporción a la fuerza con que éstas
+
+		partículas impactan sobre el muro ó área delimitadora
+
+
+		_ésta área la podremos definir a través, de una máscara aplicada sobre la layer, sobre la cuál, 
+
+		hemos aplicado el efecto de "Particle Playground"
+
+
+
+
+
+		_affects:
+
+
+			NOTA: éste nos permite hacer un filtro a través, del cuál, podremos indicar si deseamos que
+
+			éste mapa afecto sobre al módulo de grid, por ejemplo ó a los demás módulos
+
+
+			_particles from:
+
+				_éste nos permite indicar el alcance que tendrá el efecto de éste mapa así, éste 
+
+				podría afectar ha "All", ó todos ó sólo ha éste grid, u otros módulos
+
+
+			_characters:
+
+				_éste nos permite indicar entre las diferentes selecciones de characters ó textos 
+
+				existentes ó configurados para el sistema
+
+
+			_older/younger than:
+
+				_éste nos permite indicar un rango ó punto medio el cuál, aplicará sobre elementos 
+
+				más viejos y los elementos más jovenes del sistema
+
+
+
+
+
+	Persistent Property Mapper:
+	___________________________
+
+
+		NOTA: éste módulo nos permite hacer intervenciones sobre la matríz  ó módulo "Grid", de partículas 
+
+		generadas así, a través, de una mapa podremos generar anomalías y efectos sobre la matríz existente 
+
+		por lo cuál, para éste módulo es recomendable pre componer un mapa el cuál, le apliquemos un 
+
+		parámetro de control de color a través, de un efecto el cuál, podamos controlar y animar a través, 
+
+		del tiempo
+
+
+
+		NOTA: no necesariamente debemos utilzar el módulo de grid, si no que también, podremos utilizar el 
+
+		módulo de cannon, por ejemplo para controlar el flujo e interacción de las partículas a través, de
+
+		mapas controlados por nosotros en relación "Min/Max", al color de las partículas generadas
+
+
+
+		use layer as map:
+
+			_ésta nos permite seleccionar el mapa ó pre composición ha utilizar ó para el muestreo de 
+
+			color y densidad
+
+
+
+		_affects:
+
+
+			NOTA: éste nos permite hacer un filtro a través, del cuál, podremos indicar si deseamos que
+
+			éste mapa afecto sobre al módulo de grid, por ejemplo ó a los demás módulos
+
+
+			_particles from:
+
+				_éste nos permite indicar el alcance que tendrá el efecto de éste mapa así, éste 
+
+				podría afectar ha "All", ó todos ó sólo ha éste grid, u otros módulos
+
+
+			_characters:
+
+				_éste nos permite indicar entre las diferentes selecciones de characters ó textos 
+
+				existentes ó configurados para el sistema
+
+
+			_older/younger than:
+
+				_éste nos permite indicar un rango ó punto medio el cuál, aplicará sobre elementos 
+
+				más viejos y los elementos más jovenes del sistema
+
+
+			_age feather:
+
+				_éste nos permitirá aplicar un tramado ó desenfoque sobre los elementos con más edad
+
+
+			_map red to:
+	
+				_éste nos permite elegir el factor ó criterio de aplicación de la información de 
+
+				color del mapa así, podríamos por ejemplo aplicar la información del color rojo del 
+
+				mapa ha la escala, ángulo, vida, color, torción, tipografía, otros
+
+
+			_min/max_
+
+				_en diferentes rangos, rangos mínimos y máximos, de ésta manera podremos incidir 
+
+				sobre la matrix de texturas a través, de diferentes criterios
+
+
+
+		_map green to:
+
+			_éste nos permite elegir el factor ó criterio de aplicación de la información de color del 
+
+			mapa así, podríamos por ejemplo aplicar la información del color verde del mapa ha la escala, 
+
+			ángulo, vida, color, torción, tipografía, otros
+
+
+		_min/max_
+
+			_en diferentes rangos, rangos mínimos y máximos, de ésta manera podremos incidir sobre la matrix
+
+			de texturas a través, de diferentes criterios
+
+
+		_map blue to:
+
+			_éste nos permite elegir el factor ó criterio de aplicación de la información de color del 
+
+			mapa así, podríamos por ejemplo aplicar la información del color azul del mapa ha la escala,
+
+			ángulo, vida, color, torción, tipografía, otros
+
+
+		_min/max_
+
+			_en diferentes rangos, rangos mínimos y máximos, de ésta manera podremos incidir sobre la
+
+			matrix de texturas a través, de diferentes criterios
+
+
+
+
+
+	Ephemeral Property Mapper:
+	__________________________
+		
+
+		NOTA: éste módulo es muy similar al módulo anterior "Persistent Property Mapper", ó persistente ó 
+
+		permanente así, el módulo "Ephemeral Property Mapper", ó mapa de propiedades efímero, tiende ha 
+
+		manera un criterio de aplicación de parámetro temporales a diferencia del anterior que lo contempla 
+
+		como parámetros permanentes
+
+
+		_por ende, los parámetros y controles son exactamente iguales más el parámetro "Operator", el cuál, 
+
+		nos permite indicar el modo de fusión de aplicación de los efectos
+
+
+
+
+
+
+

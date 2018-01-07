@@ -1,0 +1,137 @@
+
+
+
+	Referencia Oficial:
+
+		http://aescripts.com/ft-uvpass/
+
+
+
+	Tutorial:
+
+		The Power of UV Passes in After Effects
+
+			https://www.youtube.com/watch?v=5s6Hf68TE34&t=400s
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	ft-UVPass:
+	__________
+
+
+
+	General:
+	________
+
+	_éste plugins, nos permitirá hacer remapeos 3d, en after effects, lo que quiere decir que ha un render "beauty", ó
+
+	diffuse map, podremos remapearlo con otra textura sea ésta una imágen, gráfico ó composición realizada por nosotros
+
+	en una nueava composición en after effects
+
+
+	_lo cuál, nos permitirá hacer montajes muchos más realistas y exactos para producción avanzada y con mucha más calidad 
+
+	ya que en éste caso, a través, de un mapa uvmap, podremos hacer que la imágen ó composición ha proyectar sobre 
+
+	la secuencia del "diffuse map", sea distorsionada en la misma proporción que el mapa diffuse map
+
+
+	_para que así, el efecto de movimiento y distorsión sea natural y totalmente realista e incluso podremos animar ésta
+
+	textura ó composición proyectada aumentando aún más las posibilidades de producción
+
+
+
+
+	Pases de Renders 3D:
+	____________________
+
+
+	_los programas más recomendados para éste tipo de producción son los siguientes entre otros:
+
+		_Cinmena 4d
+
+		_Softimage
+
+		_Blender
+
+		_Maya
+
+		_3D Max
+
+
+
+	NOTE: en la siguiente explicación y ejemplo utilizaremos "Cinema 4d", ya que es el más presto y ductil para éste
+
+	tipo de procesos
+
+
+
+	1_primeramente debemos de tener nuestra composición creada en la respectiva aplicación 3d
+
+
+	2_para a continuación preparar primeramente los "isolates", ó "id object", para a través, de éstos poder hacer las 
+
+	extracciones de sólo los elementos con los que deseamos trabajar posteriormente en after effects
+
+
+	_para lo cuál, debemos de preparar un mapa los "id objects", el cuál, hará de matte, ó alpha, posteriormente
+
+
+	_así, en cinema4d, debemos al panel "Object", ó autliner, y hacer mouse right click, y seleccionar la opción de 
+
+	
+		_"CINEMA 4D Tags/Compositing"
+
+
+	_para que así, al tag, "compositing", sea agregado al respectivo elemento para posteriormente seleccionar éste tag,
+
+	e ir al panel de properties
+
+
+	_y ellí, ir hasta la pestaña de "Object Bufer", y activar el primer object bufer, para que así, éste elemento quede
+
+	signado al primer buffer, de isolate render
+
+
+	3_para luego preparar el diffuse map ó beauty pass, a través, del cuál, obtendremos el mapa de color del render
+
+
+	4_así, como también, debemos de preparar un mapa de tipo uvpass, el cuál, en cinema 4d, es llamado: 
+
+
+		_"Material UVW"
+
+
+	_para lo cuál, debemos a las opciones ó pestaña de Render Setting, shortcut, "Control + B", y allí, activar las opciones
+
+	de "MultiPass"
+
+
+	_éste mapa es recomendable crearlo ó renderizarlo ha 32bits, para que así, éste tenga más profundidad e información para 
+
+	que así, tengamos un mejor resultado en el proceso de producción posterior
+
+	
+	_para posteriormente posarnos sobre el botón de "MultiPass", para que así, sean desplegados los tipos de mapas disponibles
+
+	ha renderizar y seleccionar la opción de "Material UVW"
+
+
+	_para posteriormente ir y activar las opciones de "Save", tanto para el mapa regular ó diffuse map, como para la sección 
+
+	de multipass, en la cuál, debemos de indicar formatos de archivo y rutas de salida ó render
+
+
+
+
+
+
+
+
+

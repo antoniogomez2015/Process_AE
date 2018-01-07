@@ -1,0 +1,60 @@
+
+
+http://aescripts.com/bao-dynamic-comp/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+BAO Dynamic Comp 2
+
+
+	Panel Proyecto/Dynamic Comp 2
+
+
+		-este nos permite sincronizar composiciones, de esta manera al modificar el contenido
+
+		de la composicion sincronizada esta podra ser sincronizada a traves del panel 'Dynamic Comp'
+
+
+		-primero seleccionamos la composicion la cual, deseamos sincronizar, de cualquier elemento
+
+		el cual desiemos modificar posteriormente
+
+		
+		-ahora con la composicion deseada seleccionada vamos al panel 'Dynamic Comp/Export composition'
+
+		e indicamos la ubicacion deseada donde deseamos que se guarde la nueva composicion 
+
+
+		-ahora en cualquier momento podemos abrir la composicion guardada en este proyecto u otros
+
+		proyectos
+
+
+		-por ultimo, podemos volver el proyecto en el cual, sincronizamos la composicion expotada
+
+		e ir al panel proyect/, y seleccionar la composicion la cual tiene anidada la composicion
+
+		que fue sincronizada  y exportada
+
+	
+		-luego vamos al panel 'Dynamic Comp', y aplicamos 'Update composition(s)', asi, se actualizara
+
+		el contenido el cual, fue modificado en la composicion sincronizada, previamente nos pedira
+	
+		que guardemos el proyecto en el mismo proceso de actualizacion de la composicion sincronizada
+
+
+		-de esta manera la composicion que fue sincronizada en el proyecto original tomara los mismos
+
+		cambios (plugins, efectos y modificaciones), que le fueron hechos en la composicion que fue
+
+		exportada y sincronizada
+		
+
+
+
+	

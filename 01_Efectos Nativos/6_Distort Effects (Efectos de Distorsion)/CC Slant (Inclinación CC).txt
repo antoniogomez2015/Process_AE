@@ -1,0 +1,106 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear un deformación a través, de la inclinación una capa, o un color mate del 
+
+	contenido de la capa, horizontalmente y la verticalidad de la escala de la capa de la fuente que se puede 
+
+	controlar, así como la base "piso" de la inclinación.
+
+
+	_ésto es útil para crear distorsiones generales, así como sombras detrás del texto y otras capas si se 
+
+	selecciona la opción de color mate.
+
+
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Slant: (Inclinación CC)
+	________
+
+
+		_Slant:
+
+			_ésta opción nos permintirá indicar la cantidad de sesgado ó distorsión ó "tilt", tanto
+
+			en valores negativos como positivos para cambiar así, el sentido del sesgado
+
+
+		_Stretching:
+
+			_ésta opción activada permitirá que la respectiva layer, se estire a través, del proceso
+
+			de sesgado
+
+
+		_Height:
+
+			_ésta opción nos permnitirá cambiar el estiramiento de la layer, respectiva en el sentido
+
+			vertica 
+
+
+			_de ésta manera, podremos ajustar la inclinación de layer, tanto positiva como negativa
+
+
+		_Floor:
+
+			_ésta opción nos permitirá cambiar la ubicación del sistema ó la línea base del sistema
+
+			a través, de un target, ó handle
+
+
+		_Set Color:
+
+			_ésta opcíon nos permitirá rellenar la respectiva layer, de un color sólido
+
+
+		_Color:
+
+			_éste opción nos permitirá seleccionar un color a través, de un selector de color ó un 
+
+			picker, para la opción de "Set Color", la cuál, tendrá que estar activa
+
+
+
+
+
+
+
+
+
+
+
+
+

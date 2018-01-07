@@ -1,0 +1,102 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_Twister, retuerce la capa fuente para revelar otra capa
+
+	
+	_éste efecto también, nos permitirá crear diferentes efectos de distorsión y procesos de producción y paso
+
+	contínuo así, como también, para el constructivismo visual
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Twister: (Tornado CC)
+	___________
+
+
+		_Completion:
+
+			_ésta opción nos permitirá indicarle al sistema que éste realize la complexión ó transición
+
+			entre ambas imágenes, tanto de la imágen del anverso como de la imágen del reverso
+
+
+		_Backside:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la imágen ha revelar por el 
+
+			sistema
+
+
+		_Shading:
+
+			_ésta opción nos permitirá indicarle al sistema si éste tendrá especularidad sobre el propio
+
+			sistema generado, de ésta manera, podremos agregar más realismo al efecto generado
+
+
+		_Center:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el centro del sistema a través, 
+
+			del cuál, se realizará el virado ó reverso entre ambas imágenes por el sistema, lo cuál, nos
+
+			permitirá crear diferentes efecto, tensiones y constructivismo, otros
+
+
+		_Axis:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la rotación y orientación del
+
+			sistema generado en relación a nuestras necesidades de producción y paso contínuo
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,102 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá generar rellenos de color a partir de cuatro focos de color, uno a cada esquina
+
+	del canvas, los cuáles, son controlables y animables a través, de una handle, ó target, cada uno de éstos
+
+
+	_de ésta manera, éste sistema nos permnitirá crear sistema de fleres, dinámicos para la creación fondos 
+
+	abstractos, procesos de paso contínuo en efectos de posteriozación para motion graphys, otros
+
+
+	_así, como también, para crear entintados a través, de los modos de fusión del propio efecto lo cuál, nos
+
+	permitirá crear looks, y embientes dinámicos de color para lograr igualaciones de color como correcciones
+
+	a través, de la utilización de colores complementarios de la layer, base, otros
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	4-Color Gradient: (Degradado de 4 Colores)
+	_________________
+
+
+		_Point 1,2,3,4:
+
+			_éstos corresponden a cada uno de los handles, ó targets, a través, de los cuáles, podremos
+
+			ubicar cada uno de los colores del sistema sobre la imágen base así, la animación de éstos
+
+
+		_Color 1,2,3,4:
+
+			_éstos son selectores de color así, como pckers, a través, de los cuáles, podremos personalizar
+
+			cada uno de los colores del sistema de cada uno de los handles, ó targets, los cuáles a su vez, 
+
+			podremos animar
+
+
+		_Blend:
+
+			_"Fusionar", los valores altos crean transiciones más graduales entre los colores, que los valores 
+
+			bajos
+
+
+		_Jitter:
+
+			_"Variación", nivel de variación (ruido) en el degradado. La variación, que reduce las bandas, 
+
+			afecta solo a aquellas áreas en las que podrían aparecer bandas
+
+
+		_Opacity:
+
+			_"Opacidad", la opacidad del degradado como fracción del valor Opacidad de la capa
+
+
+		_Blend Mode:
+
+			_"Modo de fusión", modo de fusión que se debe usar al combinar el degradado y la capa
+
+
+
+
+
+
+

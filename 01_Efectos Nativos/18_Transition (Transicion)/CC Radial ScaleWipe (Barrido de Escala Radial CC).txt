@@ -1,0 +1,97 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_Radial Scale Wipe, es un efecto radial donde el borde se pliega para develar las layers, subyacentes
+
+	de la respectiva composición
+
+	
+	_éste efecto también, nos permitirá crear diferentes efectos de distorsión y procesos de producción y paso
+
+	contínuo así, como también, para el constructivismo visual
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Radial ScaleWipe: (Barrido de Escala Radial CC)
+	____________________
+
+
+		_Completion:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste realize la complexión 
+
+			ó transición para que así, éste devele las layers, subyacentes de la respectiva composición
+
+
+		_Center:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el centro ó epicentro a partir del
+
+			cuál, se comenzará ha generar el sistema
+
+
+		_Reverse Transition:
+
+			_ésta opción nos permitirá indicarle al sistema que éste invierta el alpha, auto generado 
+
+			para la creación del ssitema, de ésta manera, el sistema ahora será representados de forma
+
+			invertida ó al revés
+
+
+			_lo que a su vez, nos permitirá crear diferentes efectos de producción y paso contínuo como
+
+			también, transiciones alternativas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

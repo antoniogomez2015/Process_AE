@@ -1,0 +1,164 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Convertidor Cineon brinda un alto grado de control sobre las conversiones de color de los 
+
+	fotogramas Cineon, pero en la mayoría de los casos deberá convertir los colores en un archivo Cineon 
+
+	utilizando las características de administración de color. (Consulte elementos de material Cineon y DPX).
+
+
+		Ref: https://helpx.adobe.com/es/after-effects/using/utility-effects.html#apply_color_lut_effect
+
+
+	_Este efecto funciona con color de 8 bpc, 16 bpc y 32 bpc.
+
+
+	_Para utilizar el efecto Convertidor Cineon, importe un archivo Cineon y déjelo en su estado predeterminado; 
+
+	After Effects condensa los colores a 8 bpc o los expande a 16 o 32 bpc, según el modo en el que esté 
+
+	trabajando. 
+
+
+	_Luego puede aplicar el efecto Convertidor Cineon al archivo y ajustar con precisión los colores mientras 
+
+	observa los resultados de modo interactivo en el panel Composición. Defina los fotogramas clave o expresiones
+
+	para que se ajusten a los cambios de tono debidos al paso del tiempo (utilice la interpolación de fotogramas 
+
+	clave y los controles fáciles para hacer coincidir de modo preciso las modificaciones de luz más irregulares).
+
+	Considere la posibilidad de utilizar otros efectos de corrección de color para realizar estas correcciones. 
+
+	(Consulte Efectos de corrección de color).
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Cineon Converter: (Convertidor CIneon)
+	_________________
+
+
+		_Conversion Type:
+
+
+			_Linear to log:
+
+				_Lineal a logaritmo convierte una capa con un proxy lineal de 8 bits de un archivo 
+
+				Cineon en un archivo logarítmico de 8 bits, de modo que las características que 
+
+				muestra sean coherentes con el archivo Cineon original.
+
+
+			_Log Linear:
+
+				_Logaritmo a lineal convierte una capa logarítmica no Cineon de 8 bpc que se va a 
+
+				procesar en una secuencia Cineon. 
+
+
+
+			_Log to log:
+
+				_Logaritmo a logaritmo detecta un archivo Cineon logarítmico de 8 o 10 bpc cuando 
+
+				se pretende procesarlo como un proxy logarítmico de 8 bpc.
+
+
+
+
+		_10 Bit Black Point:
+
+			_Los 10 bits de datos disponibles en cada canal Cineon para cada píxel permiten mejorar con 
+
+			mayor facilidad un rango importante de tonos a la vez que se conserva el equilibrio tonal 
+
+			general. 
+
+
+			_Si se especifica el rango con cuidado, es posible crear una versión de la imagen que se 
+
+			asemeje fielmente a la original.
+
+
+		_Internal Black Point:
+
+			_ésta opción nos permitirá indicar el umbral ó rango de los negros en la imágen resultante
+
+
+		_10 Bit White Point:
+
+			_Los 10 bits de datos disponibles en cada canal Cineon para cada píxel permiten mejorar con 
+
+			mayor facilidad un rango importante de tonos a la vez que se conserva el equilibrio tonal 
+
+			general. 
+
+
+			_Si se especifica el rango con cuidado, es posible crear una versión de la imagen que se 
+
+			asemeje fielmente a la original.
+
+
+		_Internal White Point:
+
+			_ésta opción nos permitirá indicar el umbral ó rango de los blancos en la imágen resultante
+
+
+		_Gamma:
+
+			_ésta opción nos permitirá indicar el umbral ó rango tonal en la imágen resultante
+
+
+		_Hightlight Rolloff:
+
+			_ésta opción nos permitirá indicar el umbral ó rango de las altas luces en la imágen 
+
+			resultante
+
+
+
+
+
+
+
+
+
+

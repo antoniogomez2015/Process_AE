@@ -1,0 +1,145 @@
+
+
+
+EFX Velocity Select
+
+
+	Referencia:
+
+		http://aescripts.com/efx-render-elements-z-depth-tools/   https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite transiciones y desenfoques parciales por opacidad de mapa de "Velocity Map", para lograr resultados
+
+	más realistas
+
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer corecciones y desfaces de a través, de transiciones de mapa de velocity map, también, se puede
+
+	utilizar en imágenes estáticas normales ó diffuse map, para lograr reserves de mattes, al estilo similar del efecto
+
+	"EFX ZDepth Cut", con una suavidad y más realismo
+
+
+	_éste es especialmente util para algunos procesos de producción tanto su uso con el velocity map, como con diffuse
+
+	map, ó directamente con un matte map, otros
+
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+
+	_primero debemos tener una composición de trabajo previamente creada
+
+
+
+Velocity pass:
+______________
+
+	_luego debemos incorporar los maps, respectivos en la composición de trabajo, en éste caso en "diffuse map",
+
+	como mapa base al cuál, se agregaremos el plugins "Effects EFX RE/EFX_ID Blur 10"
+
+
+	_así, se entiende que al render map, al cuál, le apliquemos el filtro "EFX Velocity Select", será el mapa corregido
+
+
+
+Options:
+________
+
+
+	_así, podremos ir variando los valores de tolerancia para ir ajustando el pass, de acuerdo con los valores
+
+	en el sistema de EFX Velocity Select, éstos son:
+
+
+
+	_Velocity format:
+
+		_éste permite el paso ó grado del "Velocity map", ó la oscilación de la imágen en éste caso
+
+
+	_Direction:
+
+		_éste permite indicar al grado de amplitud de desface  u offset
+
+	
+	_Direction spread:
+
+		_éste permite el grado de penetración de penunbra de transición
+
+
+	_Direction spread falloff:
+
+		_éste permite indicar un grado de suavido ó incrementado de la transición
+
+
+	_Min value:
+
+		_éste permite indicar un mínimo rango de acción ó penetración entre la profundida relativa del mapa ó imágen,
+
+		es recomendable dejar éste valor en "0"
+
+
+	_Max value:
+
+		_éste permite indicar un mánimo rango de acción ó penetración entre la profundida relativa del mapa ó imágen,
+
+		es recomendable dejar éste valor en "1"
+
+
+	Falloff value:
+
+		_éste valor ayuda a la extensión de la penunbra general de la transición
+
+
+	_Invert:
+
+		_ésta opción permite invertir el efecto completamente
+
+	
+	_Original alpha:
+
+		_éste opción permite seleccionar el criterio de acción del resultado final, así, podremos indicar si deseamos
+
+		sustituir con éste el "alpha", existente ó si deseamos hacer alguna combinación dentro de las posibles:
+
+		
+
+
+		_Average:
+
+			_ésta es la opción más recomendada
+
+		_Replace/ A+B/ A-B/ A*B/ B-A (éstas son otras opciones disponibles)
+
+
+
+Resultado:
+__________
+
+
+	_de ésta manera al final habremos cambiado el compotamiento del mapa ó alpha, de la imágen respectiva
+

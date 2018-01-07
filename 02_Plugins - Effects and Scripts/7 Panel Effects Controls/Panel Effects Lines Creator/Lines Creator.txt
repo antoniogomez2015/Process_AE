@@ -1,0 +1,114 @@
+
+
+http://www.linescreator.com/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Lines Creator
+
+
+	Lines Creator:
+
+
+	-este nos permite hacer conexiones espaciales entre layers, dentro del espacio 2d, ó 3d, del viewport,
+
+	de la escena de la respectiva composición
+
+
+	_dicha conexión entre las layers, es realizada a través, de una línea que conectará ambas layers, las
+
+	cuales quedarán unidas por ésta nueva línea a partir de los "Anchor Points", de ambas layers
+
+
+	_ésta línea que conectará ha ambas layers, estará conformada de una "shape layer", la cuál, podremos
+
+	configurar a nuestras necesidades posteriormente de generar el sistema
+
+
+	_ésto es especialmente útil para diferentes procesos de producción y seguimiento sugerido en layers,
+
+	animadas y en mtion graphycs, complejos, otros
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener un composición de trabajo así, como también, tendremos que tener creados una serie 
+
+	de layers, las cuáles, deseamos relacionar entre si a través, de líneas dinámicas
+
+
+	_para posteriormente seleccionar primeramente que elementos serán relacionados con otros es decir, por ejemplo; 
+
+	debemos de seleccionar una layer, la cuál, la deseamos conectar con otra layer, a través, de una línea con 
+
+	conexión dinámica
+
+	_de ésta manera, podremos seleccionar uno ó más elementos simultáneamente e ir al panel 
+
+	"M_LinesCreator/Create Lines/", y con las respectivas layers, seleccionadas darle al botón "From", ó desde
+
+
+	_y para posteriormente seleccionar la ó las layers, de destino ó de conexión y, con las respectivas layers, de
+
+	destino seleccionadas volvemos al panel "M_LinesCreator/Create Lines/", y le damos mouse left click, al botón "To",
+
+	ó "hasta"
+
+
+	_para posteriormente en las opciones el plugins "M_LinesCreator/Create Lines/", ajustar las opciones de:
+
+		_width px:
+
+			_ésta opción nos permitirá ajustar el ancho de las líneas en su creación
+
+
+		_opacity %:
+
+			_ésta opción nos permitirá ajustar la opacidad de las líneas en su creación
+
+
+		_color:
+
+			_ésta opción nos permitirá ajustar elcolor de las líneas en su creación
+
+
+		_random colors:
+
+			_ésta opción nos permitirá asignar color aleatorio de las líneas en su creación
+
+
+		_create 3d layers:
+
+			_ésta opción nos permitirá activar la opción 3d, de las líneas generadas por sistema
+
+
+	_para por último darle al botón "Create Layers", para que así, el sistema genere las layers, de tipo "shape",
+
+	las cuáles, crearán las líneas que conectarán las respectivas layers, por lo general animadas que hemos relacionado
+
+	a través, del sistema M_LinesCreator
+
+
+	_de ésta manera, podremos ver que al mover las respectivas layers, éstas se mantendrán conectadas a través de las
+
+	líneas generadas por el sistema
+
+	
+	_así, como también, entrando a las opciones de las layers, generadas las cuáles, conformans las respectivas líneas
+	
+	podremos hacer ajustes posteriores sobre el color, ancho y demás atributos posibles de forma adicional, otros
+
+	
+
+
+
+
+
+

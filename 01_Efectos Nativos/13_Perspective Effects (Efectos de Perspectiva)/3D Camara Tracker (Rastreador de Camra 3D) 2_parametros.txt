@@ -1,0 +1,429 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/tracking-3d-camera-movement.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá recuperar la cámara con la cuál, se grabó el video al cuál, le hemos aplicado el
+
+	efecto para que así, podamos hacer un volcado de ésta cámara original en una nueva cámara en la composición 
+
+	respectiva la cuál, a su vez, emulará la cámara original y sus moviminetos y posiciones, otros
+
+
+	_más también, tendremos la posibilidad de crear planos y elementos en un punto determinado de la escena emulada
+
+	ó generada para que así, podamos hacer diferentes tipos de montajes en producción y procesos de paso contínuo
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+	
+	3D Camara Tracker: (Rastreador de Camra 3D)
+	__________________
+
+
+		_Frames:
+
+			_ésta opción nos permitirá ver el proceso de pre cálculo del sistema frame to frame, de
+
+			todo el material ó clip, de video ó secuencia de imágenes analizados de la layer, a la 
+
+			cuál, le hemos aplicado el efecto
+
+
+		_Analize:
+
+			_ésta opción nos permitirá inicializar el análisis del clip, ó secuencia de imágenes sobre
+
+			el cuál, hemos aplicado el efecto 
+
+
+			_para que así, el sistema coloque un banda de color azul en la cuál, éste nos indicará el 
+
+			sistema estará realizando la primera fase de dos y que 	por ende debemos de dejar terminar 
+
+			el proceso de cálculo de tanto la primera como la sengunda fase del proceso
+
+
+			_de ésta manera, la segunda fase del proceso estará representado por una banda de color 
+
+			dorada po moztasa en la cuál, el sistema estará calculando la "cámara solver"
+
+
+			_para que así, al finalizar el proceso el sistema muestre un sistema de puntos directamente
+
+			en el viewport, del panel compositing, a través, de los cuáles, podremos crear diferentes
+
+			elementos auxiliares a la composición como planos, nuuls, otros
+
+
+
+
+		_Cancel:
+
+			_ésta opción nos pemritirá cancela el proceso de análisis del paso anterior para que asñi,
+
+			podamos hacer ajustes y variaciones en los controles sin la necesidad de hacer pre cálculos
+
+			innecesarios
+
+
+
+		_Shot Type:
+
+
+			_Fixed Angle of View:
+
+				_ésta opción es la opción por defecto la cuál, costa de los planos más generales
+
+				de ésta manera, ésta opción la podremos utilizar cuando tengamos planos tomados
+
+				de la siguiente manera:
+
+
+					_para planos tomadas con ópticas fijas ó con ópticas de tipo zoom, ó focales
+
+					variales, de las cuáles, sabemos que no hemos movido su longitud focal para
+
+					la realización de las tomas en el respectivo video
+
+
+					_para planos generales en los que creemos y apreciamos que la longitud focal
+
+					no varia ó si varia es muy poco y despreciable para que así, podamos 
+
+					indicarle al sistema que éste es un plano general y no requiere un precisión
+
+					extrema
+
+
+
+			_Variable Zoom:
+
+				_ésta opción es recomendada para planos que los hemos realizado con ópticas de tipo
+
+				zoom, en las cuáles, sabemos que hemos movido el longitud focal en varias ocaciones
+
+				y que no podemos determinar un longitud focal exacta e invariable a través, del 
+
+				tiempo
+
+
+				_en los casos en no hayamos sido nosotros los que hemos tomado el plano del video 
+
+				respectivo y por ende no sabemos con que óptica fué grabado, y si ésta óptica era 
+
+				fija ó variable
+
+
+				_tendremos una manera a través, de la observación del video para saber si el video
+
+				fue grabado con un óptica fija o variable
+
+
+				_de ésta manera, si vemos que en el plano hay acercamientos ó el efecto 
+
+				"Zoom/In/Out", entonces quiere decir que el plano respectivo fué grabado con una 
+
+				óptica de tipo zoom, ó focal variable
+
+
+				_de lo contrario, si la cárama sólo pivotea sobre su propio eje, si sólo hace el 
+
+				efecto "Roll", ó rota y sólo hace paneos, entonces el plano fué tomado con una
+
+				óptica fija
+
+
+
+			_Specify Angle of View:
+
+				_ésta opción a diferencia de las opciones anteriores, ésta vez si sabemos con
+
+				exactitud la longitud focal que hemos utilizada y que ésta no ha variado en el
+
+				tiempo
+
+
+				_de ésta manera, podremos hacer trackeos más exáctos al determinar las 
+
+				características ópticas utilizada para la generación del proceos respectivo
+
+
+
+
+		_Horizontal Angle of View:
+
+			_ésta opción nos permitirá indicar la longitud focal utilizada para la realización de la
+	
+			toma de video, ésta opción estará disponible cuando la opción de "Shot Type", esté en la
+
+			opción de "Specify Angle of View"
+
+
+
+		_Show Track Points:
+
+
+			_2D Source:
+
+				_ésta opción nos permitirá visualizar sólos los puntos de trackeo del fondo ó de
+
+				elementos estáticos, éstos puntos estáticos son representados con un menor tamaño
+
+				uqe los puntos de los planos más próximos y planos en movimiento
+
+
+			_3D Solved:
+
+				_ésta opción nos permitirá visualizar todos los puntos de trackeo, al unísono tanto 
+
+				los puntos del fondo como los puntos de los plano próximos como de los planos en 
+
+				movimiento
+
+
+
+		_Render Track Points:
+
+			_ésta opción permnitirá que todos los puntos de trackeo generados por el sistema sean
+
+			también, renderizados en el proceso de producción
+
+
+		_Track Point Size:
+
+			_ésta opción nos permitirá cambiar el tamaño de los puntos de trackeo general para que así,
+	
+			podamos tener una mejor apreciación de los puntos de trackeo ó por el contrario; disminuir
+
+			el tamaño de todos los puntos para poder así, hacer un reconocimiento de un área de interés
+
+			determinada
+
+
+		_Target Size:
+
+			_ésta opción nos permitirá cambiar el tamaño de la diana generada en la conversión de varios
+
+			puntos en plano determinado directamente en el viewport, del panel compositing, para que
+
+			así, a través, de ésta diana, poder generar cámaras, planos y demás elementos en la 
+
+			composición respectiva
+
+
+		_Create Camara:
+
+			_una vez que el proceso de pre cálculo de la fase 1, y 2, de la extracción y rastreo de la 
+
+			cámara 3d, de la toma real del clip, del video ha terminado
+
+
+			_entonces a través, de ésta opción "Create Camara", el sistema volcará todo el cálculo y 
+
+			rastreo de la cámara con la cuál, fué tomado el clip, de video el cuál, hemos analizado 
+
+			
+			_para que así, entonces el sistema pueda hacer un volcado de ésta información a través, de 
+
+			la creación de una nueva cámara en el timeline, de la composición respectiva
+
+
+			_de ésta manera, a través, de ésta camára tendremos replicado el movimiento exacto de la
+
+			cámara real del clip, de video, como movimentos como orbit, roll, pan, zoom, otros
+
+
+			_y luego de haber creado la nueva cámara con el volcado de la información extraida del clip,
+
+			video analizado podremos ahora en viewport, del panel composition, color la cámara "Top",
+
+			para que así, podamos ver el el recorrido que hace la cámara y todos los movimientos 
+
+			capturados por la nueva cámara los cuáles, podremos utilizar en diferentes procesos de
+
+			producción
+
+
+			_de ésta manera, podremos ahora colocar diferentes planos y elementos compositivos en la
+
+			escena de la respectiva composición para que así, éstos elementos se integren con la escena
+
+			ya que ahora a la escena se le ha transpolado el movimiento del clip, de video respectivo
+
+
+		
+		_Advanced:
+
+
+			_Solve Method:
+
+
+				_Auto Detect:
+
+					_ésta opción detecta automáticamente el tipo de escena para la resolver la
+
+					cámara ha generar la cuál, emulará los movimientos y rotaciones de la cámara
+
+					original extraida ó emulada del video ó clip, sobre la cuál, hemos aplicado
+
+					el efecto
+
+
+					_ésta es la opción por defecto y la más recomendada ya que el mismo sistema
+
+					se encargará de auto detectar el tipo de cámara y sus movimientos y 
+
+					características
+
+
+				_Typical:
+
+					_ésta opción especifica la escena como una que no sea puramente rotacional ó 
+
+					principalmente plana para la resolver mejor la cámara ha generar la cuál, emulará 
+
+					los movimientos y rotaciones de la cámara original extraida ó emulada del video 
+
+					ó clip, sobre la cuál, hemos aplicado el efecto
+
+
+					_ésta es una opción mixta en la cuál, la cámara tanto rota u orbita como y 
+
+					también, hace movimientos palalelos al plano de la imágen
+
+
+				_Mostly Flat Scene:
+
+					_ésta opción especifica la escena como principalmente plana o planar, para 
+
+					resolver la cámara ha generar la cuál, emulará los movimientos y rotaciones de 
+
+					la cámara original extraida ó emulada del video ó clip, sobre la cuál, hemos 
+
+					aplicado el efecto
+
+
+					_ésta opción es expresamente para cámaras con mivimientos paralelos al plano
+
+					de la toma
+
+
+				_Tripod Pan:
+
+					_ésta opciónespecifica la escena como puramente rotacional para la resolver la
+
+					cámara ha generar la cuál, emulará los movimientos y rotaciones de la cámara
+
+					original extraida ó emulada del video ó clip, sobre la cuál, hemos aplicado
+
+					el efecto
+
+
+					_ésta opción opción es recomendada para cámras con rotaciones sobre su propio
+
+					eje estático en un trípode ha modo de panorámica en "360g"
+
+
+
+			_Method Used: Typical:
+
+				_ésta opción nos mostrará el método utilizado en la opción "Solve Method", cuando 
+
+				tenemos éste en modo "Auto Detect"
+
+
+			_Average Error: 097 pixels:
+
+				_ésta opción muestra el promedio de distancia (en píxeles) entre los puntos de origen 2D
+
+				originales y la nueva proyección de los puntos 3D, resueltos en el plano 2D del material 
+
+				de archivo de origen. 
+
+
+				_Si el seguimiento o la resolución fueran perfectos, el error sería 0 y no habría 
+
+				diferencia visible al conmutar entre los puntos de seguimiento 2D de origen y 3D 
+
+				resueltos. Este valor se puede utilizar para determinar si eliminar puntos, cambiar el 
+
+				método de resolución o hacer otros cambios reduce este valor y mejora así el seguimiento.
+
+
+			_Detailed Analysis:
+
+				_al activar ésta opción se activa una nueva fase de análisis la cuál, realizará  un
+
+				trabajo adicional para encontrar elementos de los que realizar el seguimiento. 
+
+
+				_Los datos resultantes (almacenados en el proyecto como parte del efecto) son mucho 
+
+				mayores y más lentos con esta opción activada.
+
+
+			_Auto - delete Points Across Ti:
+
+				_ésta opción permite permite eliminar puntos de seguimiento en el panel Composición; 
+
+				los puntos de seguimiento correspondientes (es decir, los puntos de seguimiento del 
+
+				mismo objeto o función) se eliminan en otras ocasiones en la capa. 
+
+
+				_No es necesario eliminar los puntos de seguimiento fotograma a fotograma para mejorar 
+
+				la calidad de la pista. 
+
+
+				_Por ejemplo, puede eliminar puntos de seguimiento en una persona que va corriendo en 
+
+				la escena, cuyo movimiento no debería tenerse en cuenta para determinar cómo se estaba 
+
+				moviendo la cámara en la toma.
+
+
+			_Hide warning Banner:
+
+				_ésta opción se utiliza cuando no desea volver a analizar el material de archivo, a 
+
+				pesar de la advertencia que le indica que sería conveniente volver ha realizar el 
+
+				cálculo respectivo
+
+
+
+
+
+
+

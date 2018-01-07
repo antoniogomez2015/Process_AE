@@ -1,0 +1,60 @@
+
+
+http://www.redefinery.com/ae/view.php?item=rd_CompSetter
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / rd Composition Setter
+
+
+	rd Composition Setter:
+
+
+	-este nos permite modificar los parámetros ó características generales y específicos de una composición
+
+	creada ó generada, de una manera práctica y directa en cualquiermomento
+
+
+	_ésto es especialmente útil para la producción y desarrollo de animación y composición ya que nos permite
+
+	un acceso rápido para hacer ajustes generales y específicos sobre composiciones ya creadas ó generadas
+
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener una composición de trabajo creada así, como layers, que conforman su contenido
+
+
+	_para luego, seleccionar ésta composición sea en el timeline, en su pestaña ó en el panel proyecto
+
+
+	_y luego, con la composición respectiva que deseamos modificar ir al panel "rd Composition Setter", 
+
+	y modificar los parámetros a nuestras necesidades como deseamos que sea cambiada ó ajustada la composición
+
+	respectiva
+
+
+	_los parámetro ha ajustar son los siguientes: ancho, alto, frame rate, diración así, como ajustes avanzados
+	
+	así, como también, los suiches activos para las layers, que conforman la composición entre otros cambios
+
+	posibles
+
+
+	_así, para aplicar éstos ajustes debemos darle a la opción de "Apply", en el panel "rd Composition Setter",
+
+	para que así, los cambios ó ajustes sean aplicados a la respectiva composición
+
+
+
+
+

@@ -1,0 +1,67 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Transition Effects:
+	___________________
+
+
+	_Numbers: (Numeros)
+
+		_El efecto Números genera números aleatorios o en secuencia con diversos formatos, como números 
+
+		decimales, fechas y códigos de hora, e incluso la fecha y hora actuales (en tiempo de procesamiento).
+
+		
+		_El efecto Números se puede emplear para crear contadores de distintos tipos. El desplazamiento 
+
+		máximo para los números en secuencia es 30.000.
+
+
+		_Este efecto funciona con colores de 8 bpc.
+
+
+		_Las opciones y valores siguientes están disponibles en el cuadro de diálogo Estilo de fuente 
+
+		(MS Windows) o Estilo de tipo (Mac OS): Fuente (MS Windows) o Tipo (Mac OS), Estilo, Dirección 
+
+		y Alineación. Para volver a abrir este cuadro de diálogo, haga clic en Opciones en la parte 
+
+		superior de la entrada del efecto en el panel Controles de efectos.
+
+
+
+	_Timecode: (Codigo de Tiempo)
+
+		_El efecto Código de tiempo crea un texto superpuesto que muestra información de código de tiempo 
+
+		o de número de fotograma en una capa. Este efecto no modifica un código de tiempo incrustado 
+
+		desde fuentes externas, como QuickTime.
+
+
+		_Use capas de texto para obtener un mayor control sobre el formato y la animación de texto.
+
+
+
+
+

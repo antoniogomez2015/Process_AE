@@ -1,0 +1,115 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta efecto nos permitirá crear efectos de relieve de color en áreas donde hay una mayor acutancia entre
+
+	dos colores diferentes a través, del contraste y la luminancia de la imágen
+
+
+	_lo cuál, es especialmente útil para diferentes efectos de producción y paso contínuo como por ejemplo, para
+
+	reforzar mapa de luminancia y densidad, crear efectos de tipo glitch, otros
+
+
+	_como también, tiene una función muy útil y utilizada la cuál, consiste en aplicarle éste efecto a layers, de
+
+	textos y layers, con alpha, para que así, éste efecto cree una pseudo sombre de cara al fondo del viewport
+
+
+	_y en ese mismo sentido éste efecto es combinado también, con el efecto de "bevel alpha", para lograr así, 
+
+	una mayor volumetría sobre la layer, base
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Color Emboss: (Relieve de Color)
+	_____________
+
+
+		_Direction:
+
+			_ésta opción nos permitirá indicar la dirección del efecto ó de la proyección del relieve
+
+			sobre la imágen base, de ésta manera, en relación a la iluminación implícita en la imágen
+
+			podremos crear un efecto de relieve de color más coherente y reforzado
+
+
+		_Relief:
+
+			_ésta opción nos permitirá aumentar el umbral del relieve y desface de color aplicado como
+
+			efecto sobre la imágen base
+
+
+			_de ésta manera, con valores cernanos ha "0", el efecto será muy sutil y con valores cercanos
+
+			ha "100", el efecto será muy acusado, lo cuál, dependerá del tamaño de la imágen base
+
+
+		_Contrast:
+
+			_éste es el valor más importante ya que éste valor es que intensificará y hará visible el
+
+			efecto aplicado sobre la imágen base
+
+
+			_de ésta manera, con valores muy cercanos ha "0", el efecto será casi imperceptible sin 
+
+			importar que le hayamos puesto un umbral alto en los valores de "Relief"
+
+
+			_más si colocamos valores cercano ó mayores ha "100", el efecto será fácilmente apreviable
+
+			y visible sobre la layer, base en relación al efecto deseado ó ha conseguir
+
+
+		_Blend With Original:
+
+			_ésta opción nos permitirá fusionar el efecto generado con la layer, base en proporción al
+
+			efecto deseado
+
+
+
+
+
+

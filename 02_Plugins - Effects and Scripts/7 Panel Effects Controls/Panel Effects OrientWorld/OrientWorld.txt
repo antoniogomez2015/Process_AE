@@ -1,0 +1,155 @@
+
+
+http://aescripts.com/orient-world/
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / OrientWorld
+
+
+	OrientWorld:
+
+
+	-este nos permite reorientas el eje de cordenadas de una layer, 3d, para que así, la layer mientras mantiene 
+
+	su posición en el espacio su eje de cordenadas ó axis, es reajustado ó redimensionado en relación a las 
+
+	cordenadas del entorno global, tomando así, las cordenadas del entorno global
+
+
+	_así, ocmo también, tendremos la posbilidad de mover, rotar y escalar la layer, en relación a las cordenadas
+
+	globales del entorno haciendo caso omiso a las cordenadas locales de la layer, 3d
+
+	
+
+
+		
+
+
+
+	Workflow:
+	_________
+
+
+	Layer:
+	______
+
+	_en el modo de layer, tenemos la posibilidad de escoger las cordenadas de redimensionamiento así, podremos 
+
+	escoger entre las doferentes opciones:
+
+		
+		use layer as:
+
+			_ground plane (X,Y):
+
+				_alineamiento en el suelo en relación a las cordenadas x,y, del axis global
+
+
+			_wall (X,Y):
+
+				__alineamiento en vertical en relación a las cordenadas x,y, del axis global
+
+			_wall (Z,Y):
+
+				_alineamiento en vertical en relación a las cordenadas z,y, del axis global
+
+
+
+	Move:
+	_____
+
+	_así, como también, una layer, 3d, virada en el espacio 3d, la podemos mover en relación a las cordenadas 
+
+	del axis global para fines determinados a través, de un plano ó cordeandas determinada
+
+
+		_imput pixeles along X Axis:
+
+			_mover tantos pixeles en la cordenada global (X)
+
+		
+		_imput pixeles along Y Axis:
+
+			_mover tantos pixeles en la cordenada global (Y)
+
+
+		_imput pixeles along Z Axis:
+
+			_mover tantos pixeles en la cordenada global (Z)
+
+
+	Rotate:
+	_______
+
+	_así, como también, una layer, 3d, virada en el espacio 3d, la podemos rotar en relación a las cordenadas 
+
+	del axis global para fines determinados a través, de un plano ó cordeandas determinada
+
+
+		_imput degrees around X Axis:
+
+			_rotar tantos grados en la cordenada global (X)
+
+		
+		_imput degrees around Y Axis:
+
+			_rotar tantos grados en la cordenada global (Y)
+
+
+		_imput degrees around Z Axis:
+
+			_rotar tantos grados en la cordenada global (Z)
+
+
+
+	Scale:
+	______
+
+	_así, como también, una layer, 3d, virada en el espacio 3d, la podemos escalar en relación a las 
+
+	cordenadas del axis global para fines determinados a través, de un plano ó cordeandas determinada
+
+
+		_1 old pixel imput new pixels:
+
+			_escalar tantos pixeles / porciento en relación al tamaño en pixeles original
+
+
+
+	Advanced Settings General:
+	__________________________
+
+	_en las opciones avanzadas tenemos la posbilidad de reorientar el sistema de acción a la posición 3d,
+
+	relativa de la composición a la cuál, pertenece la layer, 3d, a la cuál, deseamos aplicar el sistema
+
+	la cuál, es la opción por defecto
+
+
+	_más también, tenemos la posbilidad de apliar el sistema de cordenadas global global, el cuál, estará
+
+	ubicado en las cordenadas 0,0,0,, excluyenso así, las cordenadas de la composición 3d, de la composición
+
+	contenedore de la layer, 3d en la cuál, desiemos aplicar el sistema
+
+
+	_más por otra parte podremos también rejustar el tamaño del axis, de la layer, a la cuál, desemoa aplicar
+
+	el sistema para así, tener un mayor control y visualización de la respectiva layer
+
+
+	_así, como también, podremos ocultar o mostrar temporalmente el axis, de la respectiva layer
+
+	
+
+	
+
+
+
+
+

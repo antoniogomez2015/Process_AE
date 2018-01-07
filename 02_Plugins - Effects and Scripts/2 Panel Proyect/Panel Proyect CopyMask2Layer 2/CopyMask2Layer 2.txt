@@ -1,0 +1,50 @@
+
+
+http://aescripts.com/copymask2layer/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+CopyMask2Layer 2
+
+
+	Panel Proyecto/CopyMask2Layer 2
+
+
+		-este nos pemrite copiar una mascara de una de capa a otra conservando su ubicacion
+
+		exacta, esto es especialmente util, para hacer reservar en capas extras de efectos
+
+		que se superponen o intersectan con la layer, motive
+
+
+
+	-primero seleccionamos el layer, deseado en el timeline
+
+
+	-luego aplicamos el plugins 'BAO/Perspective-changer'
+
+
+	-luego podemos modificar los puntos de anclaje de deformacion en modo para aplicar deformacion
+
+	controlada a la layers
+
+		Perspective-changer/Mode> Transfor-expand
+
+
+	-asi podemos ir al 'Script' Perspective-changer
+
+
+		-from> colocar Transformation
+
+		-To> colocar Mask
+
+		-y aplicar 'Copy', para asi, poder aplicar transformacion en relacion al contenido
+
+		de la mascara en cuestion a traves, de los atributos del 'plugins', Perspective-changer
+
+
+	

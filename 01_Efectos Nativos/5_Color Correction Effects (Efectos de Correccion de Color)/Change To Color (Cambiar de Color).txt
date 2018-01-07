@@ -1,0 +1,151 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá hacer cambios ó ajustes de color de forma selectiva sobre un imágen ó layer,
+
+	de ésta manera, podremos hacer modificaciones y virados de color sobre áreas ó dominantes de color 
+
+	específicas
+
+
+	_más éste efecto nos permitirá ir más allá, que el efecto change color, ya que en el efecto 
+
+	"Change to Color", ya que en éste podremos seleccionar ó indicar directamente el color por el cuál, será 
+
+	reemplazado el color base seleccionado
+
+
+	_de ésta manera, podremos ver que no sólo podremos hacer un virado de color si no en éste caso, podremos 
+
+	hacer una corrección específica de color lo cuál, es especialmente útil para diferentes flujos de corrección
+
+	de color y de producción y paso contínuo
+
+
+	_más también, podremos hacer mattes, ó mapas de densidad ó transparencias así, como el efecto de 
+
+	"Broadcast Colors", pero en éste caso; podremos ir más allá, ya que en el efecto change color, podremos
+
+	seleccioanr áreas en concreto e incluso enmascarar éstas a través, de máscaras adicionales sobre layers,
+
+	duplicadas
+
+
+	_lo cuál, nos permitirá hacer efectos más complejos para producción como matters, mapas de densidad así,
+
+	como también, para efectos de paso conínuo y de producción a través, de la opción en éste caso de
+
+	"View Correction Matte"
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Change To Color: (Cambiar de Color)
+	________________
+
+	_From:
+
+		_ésta opción nos permitirá seleccionar el color bae de la imágen ó layer, el cuál, desemos modificar
+
+		ó cambiar por otro color
+
+
+
+	_To:
+
+		_ésta opción nos permitirá indicar el color por el cuál, se cambiará el color base seleccionado
+
+
+	_Change:
+
+		_ésta opción nos pemritirá indicar el espacio de color de trabajo entre los cuáles, disponemos de
+
+		los siguientes:
+
+
+			_Hue / Hue & Lightness / Hue & Saturation / Hue & Lightness & Saturation
+
+	
+	_Change By:
+
+		_ésta opción nos pemritirá indicar el criterio de acción entre los cuáles, disponemos de:
+
+
+			_Setting to Color:
+
+				_(Indeterminado)
+
+
+			_Transform to Color:
+
+				_(Indeterminado)
+
+
+	_Hue:
+
+		_ésta opción nos pemritirá hacer un virado sólo entre el rango entre ambos colores tanto el original
+
+		como el color ha cambiar indicado
+
+
+	_Lightness:
+
+		_ésta opción nos pemritirá indicar la liminocidad del color indicado ha cambiar
+
+
+	_Saturation:
+
+		_ésta opción nos pemritirá indicar la cantidad de saturación del color indicado ha cambiar
+
+
+	_Softness:
+
+		_ésta opción nos pemritirá indicar la cantidad de saturación del color indicado ha cambiar
+
+
+	_View Correction Matte:
+
+		_ésta opción nos pemritirá visualizar y utilizar el matte, del proceso resultante ó áreas de
+
+		trabajo de acción
+
+
+		_las cuáles, colateralmente podremos utilizar para procesos en producción y paso contínuo
+
+
+
+
+
+
+
+
+
+

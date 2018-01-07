@@ -1,0 +1,67 @@
+
+
+http://aescripts.com/3d-paper-jam/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express
+
+
+	3D Paper Jam
+
+
+	-este nos permite hacer el efecto de de un papel arrugado con diferentes comportamientos como plegados,
+
+	virados, rasgados, otros
+
+
+	_éstos efectos se logran con gran impacto visual y en un entorno 3d, ésto pueden realizarse a partir de una
+
+	layer, ó una precomposición de layers
+
+
+
+	Workflow:
+
+
+	_primero debemos hacer activa la composición de trabajo
+
+
+	_luego debemos tener una layer, ó más layers, precompuestas
+
+
+	_para leugo con esa respectiva layers, deseada ó presomposición seleccionada vamos la panel "3D Paper Jam"
+
+
+	_para luego en el panel seleccionar a través, de un slider, cuantos segmentos deseamos que sea fragmentada la 
+
+	imágen ó composición
+
+
+	_y a continuación darle a uno de los cuatro comportamientos disponibles, de ésta manera la layer, com precomposición
+
+	será convertida en una serie de precomposiciones nuevas en relación a la cantidad de segmentos que indicamos en el
+
+	control anterior
+
+
+	_y a su vez, se habrá creado una nueva layer, de tipo null, con los slider, controladores del comportamiento del 
+
+	sistema, con los cuales podremos controlar y ajustar la deformación y apariencia relativa del "Paper", y su animación
+
+
+
+
+
+
+	
+
+
+
+	
+
+	

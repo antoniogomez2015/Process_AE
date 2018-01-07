@@ -1,0 +1,91 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+		https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá utilizar la información de la cordenada "Z", de la escena para a través, de ésta obtener
+
+	un mapa de profundidad por medio del cuál, crear una matte, de planos desde lo más lejano hasta lo más 
+
+	cercano
+
+
+	_así, como también, en relación a los elementos que estén más próximos y lejanos en la escena respectiva
+
+
+
+	Formatos:
+	_________
+
+	_para trabajar con éste tipo de modalidad requeriremos trabajar con los siguientes tipos de archivos de
+
+	proceso e intercambio entre las aplicaciones 3d, y after effects, éstas son las siguientes:
+
+
+	NOTE: en principaio éste efecto esta listo para funcionar con todo tipo de formato de archivo de 
+
+	intercambio de información 3d, la cuál, pueda ser usada dentro de after effects, de ésta manera, éstos 
+
+	archivos de intercambio pueden ó no estar generados dentro de una aplicación 3d
+
+
+	_los archivo de tipo de intercambio más útiles y utilizados son:
+
+
+		_.prf
+
+			_archivo de tipo intercambio, es el más antiguo y no está disponible en todas las 
+
+			aplicaciones de forma nativa, éste da muy buenos resultados, éste formado está relacionado
+
+			principalmente en aplicaciones como softimage xsi
+
+
+		_OpenEXR:
+
+			_archivo de tipo intercambio, éste es el más común y está disponible en todas las 
+
+			aplicaciones modernas y actualizadas
+
+
+		_RLA / RPF:
+
+			_archivo de tipo intercambio, bastante funcional y está disponible principalmente en la
+
+			aplicación cinema 4d
+
+
+
+
+
+	Depth Matte: (Mate de Profundidad)
+	____________
+
+	_Depth:
+
+		_éste slider, nos permitirá elegir el plano a partir del cuál, deseamos que se comience ha realizar
+
+		el matte
+
+	_Feather:
+
+		_así, como también, en éste slider, podremos indicar un umbral ó desenfoque ó transición entre el
+
+		área en mmatte, y el área revelada
+
+
+
+

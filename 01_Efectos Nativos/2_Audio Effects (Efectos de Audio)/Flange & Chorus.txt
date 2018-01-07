@@ -1,0 +1,103 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+		https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá agregar ajustes diferentes parámetos para mejorar el sonido vocal así, como de coros y
+
+	demás elementos armónicos dentro del audio
+
+
+	Formatos:
+	_________
+
+	_los formatos más comúnes para el trabajo con audio son los siguientes en after effects:
+
+
+		_Mp3:
+
+			_éste es el formato más común y generalizado para la edición e intercambio de archivos de
+
+			audio
+
+
+		_Wav:
+
+			_éste es uno de los formatos más comúnes en el procesado e intercambio de archivos de audio
+
+
+
+	Flange & Chorus:
+	________________
+
+	_Voice Separation Time (ms):
+
+		_la separación de las voces, permiten una mejor comprensión del audio vocal
+
+
+	_Voices:
+
+		_también, podremo acentuar las voces dentro del audio de forma individual a los demás tipos de audio
+
+
+	_Modulation Rate:
+
+		_así, como también, podremos modular la freuencia del audio para acentuar éste en relación a los
+
+		demás tipos de sonido dentro del audio
+
+
+	_Modulation Depth:
+
+		_e incluso podremos aumentar la profundidad ó alcance de las voces de audio, especialmente útil
+
+		para acentuar los coros y lograr un audio más envolvente, en relación a los demás sonidos dentro
+
+		del respectivo audio
+
+
+	_Voice Phase Change:
+
+		_y alternativamente podremos hacer variaciones sobre las faces ó intervalos entre las diferentes
+
+		voces dentro del audio
+
+
+	_Invert Phase:
+
+		_y directamente podremos invertir las faces, de audio existentes
+
+
+	_Stereo Voices:
+
+		_así, como también, convertir éstas ha sonido estéreo en relación a los demás sonidos existentes
+
+
+	_Dry Out:
+
+		_(Indeterminado) (seco)
+
+
+	_Wet Out:
+
+		_(Indeterminado) (mojado)
+
+
+
+
+
+
+

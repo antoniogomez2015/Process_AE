@@ -1,0 +1,105 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá hacer ajustes de exposición ó gamma en una imágen a través, de valores libres ó
+
+	a través, de valores fotográficos como "1 | 1.4 | 2 | 2.8 | 4 | 5.6 | 8 | 11 | 16 | 22"
+
+
+	_así, como también, hacer desfaces de gamma, ha modo de levels, y a su vez, también, podremos hacer efectos
+
+	especiales de forma colateral al hacer offset, del efecto para procesos y efectos de paso contínuo, otros
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Exposure: (Exposicion)
+	_________ 
+
+
+		_Channels:
+
+			_éste nos permitirá seleccionar el el canal ó modo de trabajo, de ésta manera, podremos
+
+			escoger el "Master", para afectar la imágen de forma global  
+
+
+
+			_más podremos seleccionar "Indivisual Channels", para que así, se creen instancias para 
+
+			cada canal y poder hacer ajustes por canal de forma independientes unas de otras lo cuál, 
+
+			nos brindará más flexibilidad y posibilidades edición específicas
+
+
+		_Exposure:
+
+			_éste nos permitirá indicar la cantidad de exposición ó gamma ha aplicar 
+
+
+			_de ésta manera, si indicamos valores positivos estaremos aumentando los valores de 
+
+			luminancia, brillos ó blancos en la imágen
+
+
+			_y si indicamos valores negativos estaremos aumentando los valores de saturación de tonos,
+
+			sombras ó negros en la imágen
+
+
+		_Offset:
+
+			_ésta opción nos permite hacer desfaces de gamma pero también, nos permitirá hacer efectos
+
+			especiales en algunos casos, en los cuáles, se producen halos, y strands, y similares los
+
+			cuáles, darán mejores resultados en composiciones ha 32bits
+
+
+			_éstos nos permnitirá crear efectos colaterales de paso contínuo y en producción
+
+
+		_Gamma Correction:
+
+			_ésta opción nos permitirá hacer un desface de gamma, lo cuál, es un auxiliar del efecto
+
+			levels, dentro del mismo efecto de "Exposure"
+
+
+
+
+
+
+
+
+
+

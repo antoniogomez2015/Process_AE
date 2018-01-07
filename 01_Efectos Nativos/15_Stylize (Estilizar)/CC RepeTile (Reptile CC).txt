@@ -1,0 +1,291 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos permitirá modular una layer, cuál, deberá ser más pequeña que el tamaño del canvas del
+
+	viewport, del panel compositing, para que así, ésta layer, tenga suficiente espacio para poder modularse
+
+	más allá de su área perimetral
+
+
+	_de ésta manera, dispondremos de diferentes algoritmos para generar diferentes combinaciones y tipos de
+
+	alternativas para la generación de módulos y super módulos para la generación de diferentes mapas, y 
+
+	texturas y demás posibilidades dentro del contructivismo visual y efectos de producción y paso contúnio
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	CC RepeTile: (Reptile CC)
+	____________
+
+
+		_Expand Right:
+
+			_ésta opción nos permitirá extender y modular la layer, base hacia la derecha, lo cuál, nos
+
+			permitirá ir repitiendo la layer, en ésta orientación con la opción de "Tiling", seleccionada
+
+		
+		_Expand Left:
+
+			_ésta opción nos permitirá extender y modular la layer, base hacia la izquierda, lo cuál, nos
+
+			permitirá ir repitiendo la layer, en ésta orientación con la opción de "Tiling", seleccionada
+
+
+		_Expand Down:
+
+			_ésta opción nos permitirá extender y modular la layer, base hacia abajo, lo cuál, nos
+
+			permitirá ir repitiendo la layer, en ésta orientación con la opción de "Tiling", seleccionada
+
+
+		_Expand Up:
+
+			_ésta opción nos permitirá extender y modular la layer, base hacia arriba, lo cuál, nos
+
+			permitirá ir repitiendo la layer, en ésta orientación con la opción de "Tiling", seleccionada
+
+
+		_Tiling:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el algoritmo para la modulación ó
+
+			mapeo de la textura generada ó modulada, entre los cuáles, dispondremos de los siguientes:
+
+
+
+				_Repeat:
+
+					_ésta opción nos permitirá indicarle al sistema que module la layer, de 
+
+					manera rítmica ó repetitiva sin hacer alteraciones en la orientación y 
+
+					rotación de la layer, ó imágen
+
+
+				_Cheacker Flip H:
+
+					_ésta opción nos permitirá indicarle al sistema que module la layer, de 
+
+					manera rítmica ó repetitiva pero de forma invertida horizontalmente
+
+
+				_Cheacker Flip V:
+
+					_ésta opción nos permitirá indicarle al sistema que module la layer, de 
+
+					manera rítmica ó repetitiva pero de forma invertida verticalmente aun que
+
+					ésta opción creará bandas en una orientación y otras con una orientación
+
+					invertida ó alternada a su vez
+
+
+				_Unfold:
+
+					_ésta opción nos permitirá indicarle al sistema que module la layer, de 
+
+					manera rítmica ó repetitiva pero de forma que éstas se creen con patrones 
+
+					rítmicos tanto en líneas en su posición original como también, con líneas 
+
+					invertidas y líneas viradas
+
+
+				_Cheacker 180 deg:
+
+					_ésta opción nos permitirá indicarle al sistema que module la layer, de 
+
+					manera rítmica ó repetitiva pero de forma invertidas unas contra otras 
+
+					quedando así, todas enfrentadas y travadas, ésta opción es especialmente
+
+					útil para generar tableros de módulos cruzados, otros
+
+
+				_Cheacker Flip 45 deg:
+
+					_ésta opción nos permitirá indicarle al sistema que module la layer, de 
+
+					manera rítmica ó repetitiva pero de forma que los módulos queden de forma
+
+					girada creando tornados ó rotaciones vorticiales lo cuál, nos permitirá
+
+					crear estructuras de dinamismos, tapices, otros
+
+
+				_Cheacker Flip 90 deg CCW:
+
+					_ésta opción nos permitirá indicarle al sistema que module la layer, de 
+
+					manera rítmica ó repetitiva pero de forma que los módulos queden de forma
+
+					girada pero a su vez, invertida creando así,  super módulos colarales entre
+
+					las formas y cuadrantes encontrados en el proceso de rotación de lis moismos
+					
+
+
+				_Cheacker Flip 90 deg CW:
+
+					_ésta opción nos permitirá indicarle al sistema que module la layer, de 
+
+					manera rítmica ó repetitiva pero de forma que los módulos queden de forma
+
+					girada pero a su vez, invertida en sentido opuesto a la opción anterior 
+
+					creando así,  super módulos colarales entre las formas y cuadrantes 
+
+					encontrados en el proceso de rotación de lis moismos
+
+
+				_Rosette:
+
+					_ésta opción nos permitirá indicarle al sistema que module la layer, de 
+
+					manera rítmica ó repetitiva pero de forma que los módulos queden de forma
+
+					girada pero a su vez, con inversiones múltibles creando así, super módulos 
+
+					colarales aún más complejos que las dos opciones anteriores  entre las 
+
+					formas y cuadrantes encontrados en el proceso de rotación de lis moismos
+
+
+				_Random:
+
+					_ésta opción nos permitirá indicarle al sistema que module la layer, de 
+
+					manera rítmica ó repetitiva pero de forma que los módulos queden de forma
+
+					girada pero a su vez, invertida pero de forma aleatoria y libre lo cuál,
+
+					creará módulos pseudo alternados para diferentes propósitos como la creación
+
+					de texturas sin patrones establecidos
+
+
+				_None:
+
+					_ésta opción desactivará el efecto eliminando todas las modulaciones creadas
+
+					previamente sobre la layer, base
+
+
+				_Turn CW:
+
+					_ésta opción nos permitirá indicarle al sistema que module la layer, de 
+
+					manera rítmica ó repetitiva pero de forma que los módulos queden de forma
+
+					girada pero a su vez, con inversiones a través, de algoritmos exponenciales
+
+					creando así, super módulos colarales aún más complejos que las dos opciones 
+
+					anteriores  entre las formas y cuadrantes encontrados en el proceso de 
+
+					rotación de lis moismos
+
+
+
+				_Turn CCW:
+
+					_ésta opción nos permitirá indicarle al sistema que module la layer, de 
+
+					manera rítmica ó repetitiva pero de forma que los módulos queden de forma
+
+					girada pero a su vez, con inversiones pero ésta vez, en el sentido opuesto
+
+					a través, de algoritmos exponenciales creando así, super módulos colarales 
+
+					aún más complejos que las dos opciones anteriores  entre las formas y 
+
+					cuadrantes encontrados en el proceso de rotación de lis moismos
+
+
+				_Twist:
+
+					_ésta opción es una variante de "Turn CCW"
+
+
+				_Slide:
+
+					_ésta opción no modula la layer, ó imágen base, de forma repetitiva ó 
+
+					rítmica, si no que en vez de eso estira la imágen base hasta los extremos 
+
+					en relación a la cantidad de módulos generados
+
+
+					_lo cuál, nos permitirá crear diferentes efectos de constructivismo visual
+
+					y de producción y procesos de paso contínuo
+
+
+
+
+				_Brick:
+
+					_ésta opción nos permitirá indicarle al sistema que module la layer, de 
+
+					manera rítmica ó repetitiva pero de forma que los módulos queden de forma
+
+					invertida pero a su vez, alternada creando así, super módulos con los bordes
+
+					bien marcados por la acutancia de las caras de los módulos encontrados
+
+
+		_Blend Borders:
+
+			_ésta opción nos permitirá fusionar los bordes de los módulos generados para que así, éstos 
+
+			módulos se fusionen ó integren como si fuesen una sóla imágen compuesta
+
+
+			_de ésta manera, con valores cercanos ha "0", el efecto será casi imperceptible, más con 
+
+			valores cercanos ha "100", los bordes entre los módulos generados práctivamente habrán 
+
+			desaparecido
+
+
+
+
+

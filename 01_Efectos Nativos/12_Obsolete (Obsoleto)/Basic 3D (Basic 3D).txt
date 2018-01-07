@@ -1,0 +1,154 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/utility-effects.html#grow_bounds_effect
+
+				https://helpx.adobe.com/es/after-effects/using/color-management.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+		Tutorial:
+
+			Extender limites de los objetos (Grow bounds) - After effects para principiantes
+				https://www.youtube.com/watch?v=qa8pdgAn-cY
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+	
+	NOTA: Los efectos de la categoría Obsoleto se conservan para permitir la compatibilidad con los proyectos 
+
+	creados con versiones anteriores de After Effects. Cuando se actualizan proyectos o se crean proyectos 
+
+	nuevos, debe usar efectos y técnicas alternativos en lugar de los efectos de la categoría Obsoleto.
+
+
+
+
+	_éste efecto nos permitirá convertir una layer, en una layer, 3d, la cuál, podremos manipular en el espacio
+
+	3d, a través, de controles directamente en el efecto por medio del panel effects control, sin la necesidad
+
+	de tener que conmutar la layer, ha 3d, lo cuál, es especialmente útil para diferentes procesos de producción
+
+	y paso contínuo
+
+
+	_Si está trabajando en un proyecto que fue creado con una versión anterior de After Effects y el efecto 3D 
+
+	básico está aplicado a una o más capas, puede seguir utilizando este efecto, o bien, utilizar en su lugar 
+
+	el definidor de capa 3D para convertir las capas a 3D. (Consulte Capas 3D.)
+
+
+	_Este efecto funciona con colores de 8 bpc.
+
+
+	_El efecto 3D básico manipula una capa en el espacio 3D.
+
+
+	_El ajuste de la calidad de la capa afecta al efecto 3D básico. Calidad borrador calcula la ubicación del 
+
+	píxel con respecto al valor entero más cercano; Calidad óptima calcula la situación del píxel para el nivel 
+
+	de los subpíxeles.
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Basic 3D: (3D Basico)
+	_________
+
+
+		_Swivel:
+
+			_ésta opción nos permitirá indicarle al sistema que gire la imágen en el eje "Y", en
+
+			relación a la vista de la cámara del viewport, del panel compositing
+
+
+		_Tilt:
+
+			_ésta opción nos permitirá indicarle al sistema que gire la imágen en el eje "X", en
+
+			relación a la vista de la cámara del viewport, del panel compositing
+
+
+		_Displace to Imagen:
+
+			_ésta opción nos permitirá indicarle al sistema la distancia de la imágen en el eje "Z", lo
+
+			que nos permitirá indicarle a la imágen que se aleje ó que se acerque ó lo que es lo mismo,
+
+			lograr el efecto "Zoom"
+
+
+		_Specular Hightlight:
+
+			_ésta opción nos permitirá indicarle al sistema que anime la especularidad de la imágen, ésta
+
+			opción cobra sentido cuando la opción de "Show Specular Hightlight", está activada
+
+
+		_Show Specular Hightlight:
+
+			_ésta opción nos permitirá indicarle al sistema que la layer, en 3d, reciba especularidad
+
+			de la iluminación existente en la escena y la especularidad propia del sistema generado
+
+
+		_Preview:
+
+			_ésta opción nos permitirá indicarle al sistema que anime la previsualización del sistema
+
+			generado
+
+
+		_Draw Preview Wireframe:
+
+			_(indeterminado)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,129 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	Descripción de la Documentación:
+
+	_éste efecto nos permitirá  ajusta la saturación de manera que se reduce el recorte a medida que los colores 
+
+	se acercan a la plena saturación 
+
+
+	_los colores que están menos saturados en la imagen original se ven afectados por los ajustes de Intensidad 
+
+	en mayor medida que los colores que ya están saturados en la imagen original
+
+
+	_el efecto vibrance, resulta especialmente útil para aumentar la saturación en una imagen sin sobresaturar 
+
+	los tonos de aspecto. La saturación de colores con tonos en el rango de magenta a naranja se ve afectada en 
+
+	menor medida por los ajustes de intensidad.
+
+
+	
+	Interpretación:
+	
+	_éste nos permitirá hacer diferentes tipos de proceso para la corrección y edición del color y ajustes como 
+
+	también, para acentuación de efectos en producción y paso contínuo
+
+
+	_de ésta manera, en el efecto vibrance, dispondremos de dos controles los cuáles, nos servirán para dos 
+
+	funciones diferentes en relación a la gamma y saturación de la imágen de forma específica:
+
+
+		
+		_Vibrance:
+
+			_éste efectará de forma crítira los valores tonanes con la saturación más alta ó "Gain",
+
+			sobre todos los demás tonos, dejándolos caso intactos aumentando el contraste de los negros
+
+			más negro de la imágen
+
+
+
+		_Saturation:
+
+			_ésta afectará principalmente a los colores de tipo cálidos como naranjas, rojos y amarillos
+
+			sobre los demás colores, intensificando sólo éstos sobre cualquier otro color
+
+
+			_de ésta manera, si la imágen posee otra gama de colores neutros éstos permanecerán igual
+			
+			que su estado original
+
+
+
+	_de ésta manera, podremos entender que éste efecto tiene un curva de sensibilidad extrema, hacia los extremos
+
+	del espectro, sea éste de color ó de tono
+
+
+	_más también, podremos lograr efectos contrarios ó inversos de desaturación al indicar en cada valor, valores 
+
+	negatigos
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Vibrance: (Intensidad)
+	_________
+
+
+		_Vibrance:
+
+			_éste valor tendrá influencia sobre los tonos frios más saturados y oscuros, resaltándolos
+
+
+		_Saturation:
+
+			_éste valor tendrá influencia sobre los tonos cálidos más saturados y oscuros, resaltándolos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

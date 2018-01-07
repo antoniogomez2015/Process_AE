@@ -1,0 +1,63 @@
+
+
+
+Herramientas de Animación para After Effects
+
+
+	Referencia
+
+		http://aescripts.com/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Cluster:
+________
+
+	
+	Descripción: (instancias colaterales de animación para motion graphycs)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(G) / Panel Preview - Version / Referencia (debajo del Panel FxPro)
+
+
+	Referencia en la web: http://videohive.net/item/cluster-v20/9205447
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+M_LinesCreator:
+_______________
+
+	
+	Descripción: (instancias colaterales de animación para motion graphycs)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(G) / Panel Preview - Version / Referencia (debajo del Panel FxPro)
+
+
+	Referencia en la web: http://linescreator.com/
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,134 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá hacer cambios ó ajustes de color de forma selectiva sobre un imágen ó layer,
+
+	de ésta manera, podremos hacer modificaciones y virados de color sobre áreas ó dominantes de color 
+
+	específicas
+
+	
+	_de ésta manera, podremos ver que podremos hacer virados para diferentes efectos de paso contínuo, 
+
+	esfectos especiales, de animación de color para motion graphycs, otros
+
+
+	_más también, podremos hacer mattes, ó mapas de densidad ó transparencias así, como el efecto de 
+
+	"Broadcast Colors", pero en éste caso; podremos ir más allá, ya que en el efecto change color, podremos
+
+	seleccioanr áreas en concreto e incluso enmascarar éstas a través, de máscaras adicionales sobre layers,
+
+	duplicadas
+
+
+	_lo cuál, nos permitirá hacer efectos más complejos para producción como mattes, mapas de densidad así,
+
+	como también, para efectos de paso conínuo y de producción a través, de la opción en éste caso de
+
+	"View Correction Matte"
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Change Color: (Cambiar Color)
+	_____________
+
+	_From:
+
+		_ésta opción nos permitirá seleccionar el modo de visualización pudiéndo así, visualizar la 
+
+		imágen resultante del proceso de forma normal a través, del modo "Corrected Layer"
+
+
+		_así, como también, dispondremos de otro modo como es el modo "Color Correction Mask", a 
+
+		través, del cuál, podremos visualizar un mapa de densidad, matte, ó alpha, el cuál, podremos
+
+		utilizar para diferentes processo de paso contínuo y en producción
+
+
+	_Hue Transform:
+
+		_ésta opción nos permitirá hacer un virado de color en relación al color seleccionado previamente y
+
+		la rueda de color
+
+
+	_Lightness:
+
+		_ésta opción nos pemritirá hacer un ajuste ó modificación en los brillos ó iluminación de la imágen
+
+	
+	_Saturation Transform:
+
+		_ésta opción nos pemritirá hacer un ajuste ó modificación en la saturación de la imágen
+
+
+	_Color To Change:
+
+		_ésta opción nos pemritirá seleccionar el color sobre el cuál, deseamos cambiar ó hacer variones 
+
+		sober éste
+
+
+	_Matching Tolerance:
+
+		_ésta opción nos pemritirá hacer un parceo ó umbral de las zonas con el efecto y las zonas sin el 
+
+		efecto las cuales, relevarán la imágen original en relación a los valores de luminnancia de la imágen
+
+
+	_Matching Softness:
+
+		_ésta opción nos pemritirá hacer un parceo ó umbral de las zonas con el efecto y las zonas sin el 
+
+		efecto con suavizado 
+
+
+
+	_Match Colors:
+
+		_ésta opción nos pemritirá seleccionar el espacio de color ha utilizar, como rgb, hue, chroma
+
+
+	_Invert Color Correction:
+
+		_ésta opción nos permitirá invertir los colores del sistema en general
+
+
+
+
+
+
+
+
+

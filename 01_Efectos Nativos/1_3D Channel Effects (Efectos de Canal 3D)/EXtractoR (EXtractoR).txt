@@ -1,0 +1,99 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+		https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá utilizar la información de las aplicaciones 3d, al mismo modo que el efecto de
+
+	"3D Channel Extract"
+
+
+	_de ésta maenra, podremos componer los maps, que necesitemos ya que ésta opción contempla la mayoría de
+
+	posibles mapas y más utilizados para el proceso de producción
+
+
+	Formatos:
+	_________
+
+	_para trabajar con éste tipo de modalidad requeriremos trabajar con los siguientes tipos de archivos de
+
+	proceso e intercambio entre las aplicaciones 3d, y after effects, éstas son las siguientes:
+
+
+	NOTE: en principaio éste efecto esta listo para funcionar con todo tipo de formato de archivo de 
+
+	intercambio de información 3d, la cuál, pueda ser usada dentro de after effects, de ésta manera, éstos 
+
+	archivos de intercambio pueden ó no estar generados dentro de una aplicación 3d
+
+
+	_los archivo de tipo de intercambio más útiles y utilizados son:
+
+
+		_OpenEXR:
+
+			_archivo de tipo intercambio, éste es el más común y está disponible en todas las 
+
+			aplicaciones modernas y actualizadas
+
+
+
+
+	EXtractoR: (EXtractoR)
+	__________
+
+	_Channel Info (Click for Dialog):
+
+		_ésta opción nos permite clickar, en ésta opción ó campo para que así, nos aparesca un menú 
+
+		contextual en el cuál, podremos seleccionar el tipo de criterio y selección de mapas creados y
+
+		disponibles dentro del formato extractor
+
+
+		_de ésta manera, podremos ir instanciando ésta layers, y posteriormente ir configurando los 
+
+		diferentes mapas deseados
+
+
+
+	_Red/Green/Blue/Alpha:
+
+		_éste es un display, en el cuál, podremos ver los canales activados en cada configuración de los
+
+		diferentes mapas disponibles dentro del sistema precargados previamente en la aplicación 3d,
+
+		respectiva
+
+
+	Black Point:
+
+		_en ésta opción podremos graduar la influencia del mapa resultante por medio del "Level", en 
+
+		relación a los valores más negros 
+
+
+	_White Point:
+
+		_en ésta opción podremos graduar la influencia del mapa resultante por medio del "Level", en 
+
+		relación a los valores más blancos
+
+
+
+
+

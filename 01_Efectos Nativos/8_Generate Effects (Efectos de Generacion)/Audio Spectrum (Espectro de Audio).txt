@@ -1,0 +1,259 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá mostrar el espectro de audio de una capa que contenga audio (y opcionalmente vídeo). 
+
+
+	El efecto muestra la magnitud de los niveles de audio en las frecuencias de un intervalo definido entre 
+
+	Frecuencia de inicio y Frecuencia final. Este efecto puede mostrar el espectro de audio de diferentes maneras
+
+
+	_de ésta manera, podremos crear efectos de sincronizacíón de audio así, como también, material de bandas, otros
+
+	para procesos de paso contínuo y producción a través, de formas estándares como líneas rectas ó curvas 
+
+	
+	_así, como también, a través, de trazados totalmente personalizados como máscaras sobre una layer, las cuáles,
+
+	pueden ser circulares entre otras formas posibles
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Audio Spectrum: (Espectro de Audio) (Degradado de 4 Colores)
+	______________
+
+
+		_Audio Layer:
+
+			_ésta opción nos permitirá seleccionar la layer, de la cuál, se comará la información de audio
+
+
+		_Start Point:
+
+			_ésta opción nospermitirá indicar el punto inicial de la línea recta de la forma del espectro 
+
+			original
+
+
+		_End Point:
+
+			_ésta opción nospermitirá indicar el punto final de la línea recta de la forma del espectro 
+
+			original
+
+
+		_Path:
+
+			_ésta opción nos permitirá indicar un paht, personalizado de una máscara aplicada a la layer, 
+
+			sobre la cuál, hemos aplicado el efecto de "Audio Spectrum"
+
+
+		_Use Polar Path:
+
+			_ésta opción unificará ambos de extremos del trazado ó path, para crear así, el efecto de polar 
+
+			distorción, especialmente útil para crear espectros de audio circulares, otros
+
+
+		_Start Frecuency:
+
+			_ésta opcoón nos permitirá desplazar ó hacer offset, del espectro generado en el inicio del paht,
+
+			ó trazado respectivo, de ésta manera, podremos desplazar el espectro hasta conseguir una forma 
+
+			deseada
+
+
+		_End Frecuency:
+
+			_ésta opcoón nos permitirá desplazar ó hacer offset, del espectro generado en el final del paht,
+
+			ó trazado respectivo, de ésta manera, podremos desplazar el espectro hasta conseguir una forma 
+
+			deseada
+
+
+		_Frecuency Bands:
+
+			_ésta opción nos permitirá indicar la cantidad de bandas ó estaminas a través, de las cuáles, 
+
+			se conformará el efecto de espectro de audio, de ésta manera, podremos lograr diferentes esfectos,
+
+			escalas, resoluciones, aproximaciones, otros
+
+
+		_Maximum Height:
+
+			_ésta opción nos permitirá indicar la altura ó amplitud del espectro, de ésta menra, éste será más
+
+			visible ó apreciable, rápido ó violento
+
+
+		_Audio Duration (milisecond):
+
+			_ésta opción nos permitirá indicar la capacidad de reacción del sistema en milisegundo lo que 
+
+			quiere decir, es que entre más milisegundos indiquemos más rápido podrá interpretar las hondas del
+
+			del espectro y mover así, el gráfico de bandas
+
+
+		_Audio Offset (milisecond):
+
+			_ésta opción nos permitirá animar el comportamiento del parámetro anterior
+
+
+		_Thickness:
+
+			_ésta opción nos permitirá indicar el grosor de las bandas que conforman del sistema así, éstas 
+
+			podrán ser más gruesas ó finas y a su vez, éstas podrán tener más ó menos espacios entre ellas
+
+
+		_Softness:
+
+			_ésta opción nos permitirá controlar la acutancia ó definición de las bandas entre sí y entre 
+
+			el fondo, lo cuál, permitirá que éstas aparentes ser bandas ó luces
+
+
+		_Inside Color:
+
+			_ésta opción nos permitirá indicar el color de "Fill", ó relleno de las respectivas barras, 
+
+			éstas opciones aplican en barras con un grosor significativo
+
+
+		_Outside Color:
+
+			_ésta opción nos permitirá indicar el color de "Stroke", ó relleno de las respectivas barras, 
+
+			éstas opciones aplican en barras con un grosor significativo
+
+
+		_Blend Overlapping Color:
+
+			_ésta opción nos permitirá indicar que cuando determinadas barras se superpongas sus 
+
+			respectivos colores de fusionen entre si, ésta opción aplica en paht, ó formas complejas como
+
+			curculares y otras formas personalizadas avanzadas y dinámicas
+
+
+		_Hue Interpolation:
+
+			_ésta opción a través, de una rueda de color nos permitirá hacer virados de color tanto del 
+
+			color de relleno como del color del contorno
+
+
+		_Dynamic Hue Phase:
+
+			_ésta opción nos permitirá invertir los colores del contorno ó stroke, del sistema para que 
+
+			así, éstos siempre sean visibles sin importar la variación del color de relleno ó fill
+
+
+		_Color Symetry:
+
+			_ésta opción hará que los colores generado en lado izquierdo sean los mismos que los generados
+
+			en el lado derecho
+
+			NOTA: ésta opción no incluye variaciones realizadas en las opciones de "Hue Interpolatio"
+
+
+		_Display Options:
+´
+			_ésta opción nos permitirá indicar el tipo de visualización del sistema lo cuál, nos permitirá 
+
+			realizar diferentes efectos de producción, procesos y paso contínuo
+
+
+			_entre los cuáles, dispondresmo de los siguientes:
+
+
+				_Digital:
+
+					_ésta opción nos pemritirá una visualización del sistema a través, de barras
+
+					las cuáles, tendrán en largo ó alto de la amplitud de la honda espectral
+
+
+				_Analog Dots:
+
+					_ésta opción nos pemritirá una visualización del sistema a través, de punto
+
+					las cuáles, tendrán una representación de sólo los picos a través, de un sólo 
+
+					point, por cada pico respectivo en lo alto de la amplitud de la honda espectral
+
+
+				_Analog Lines:
+
+					_ésta opción nos pemritirá una visualización del sistema a través, de una línea
+
+					continuada ha modo de zipzap, las cuáles, tendrán una representación contínua a 
+
+					través, del respectivo alto de la amplitud de la honda espectral
+
+
+
+		_Side Options:
+
+			_éstas opciones nos permitirá limitar el efecto resultando pudiéndo así, sólo ver la parte 
+
+			superior del espectro, ó la parte inferior ó reflejada de la superior así, como también, ambas
+
+			proyecciones a la vez, tanto la superior como la inferior al unísono que es la opción por defecto
+
+
+		_Duration Averaging:
+
+			_ésta opción homogeniza los picos, suavizando así, el espectro resultante lo cuál, es especialmente
+
+			útil para diferentes procesos de paso contínuo y de producción, otros
+
+
+		_Composite On Original:
+
+			_ésta opción permite fusionar el sistema sobre la layer, sobre la cuál, éste fué aplicado
+
+
+
+
+

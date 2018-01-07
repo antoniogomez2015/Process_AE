@@ -1,0 +1,146 @@
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+	
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE: Fill Frame Borders:
+_______________________
+
+
+	_éste efecto nos permitirá ajustar ó cambiar el tamaño de una layer, de forma dinámica ó interactiva, de ésta manera,
+
+	podremos hacer diferentes procesos con el área perimetral de una layer, ó hacer que ésta interactúe con otras layers,
+
+	de forma característica
+
+
+	_pudiendo así, rellenar de un color sólido, expandir ó estirar el borde existente, reflejar la imágen en el espacio
+
+	resultante ó hacer un recorde en canal alpha, para diferentes procesos de producción
+
+
+
+
+	_Upper Left:
+
+		_handle, controlador de la parte superior izquierda a través, de la cuál, podremos controlar el tamaño de la 
+
+		layer, respectiva
+
+
+	_Lower Right:
+
+		_handle, controlador de la parte inferior derecha a través, de la cuál, podremos controlar el tamaño de la 
+
+		layer, respectiva
+
+
+	_Edge Color:
+
+		_ésta opción estará sólo activa cuando la opción de "FILL Method/Edge Color", a través, de la cuál, podremos
+
+		pintar el área de imágen recortada hacia afuerta del color indicado que por lo general será un color muestreado
+
+		de la imágen base u original
+
+
+	_FILL: Method:
+
+
+		_Crop Alpha:
+
+			_ésta opción nos permitirá recortar la imágen para marginar ésta de forma dinámica y para lograr difernetes 
+
+			efectos colaterales, otros
+
+
+			_y en éste caso el área marginada de la imágen se convertirá en canal alpha, de ésta
+
+
+		_Edge Color:
+
+			_ésta opción es idéntica a la opción anterior de "Crop Alpha", más en éste caso el área del fondo 
+
+			correspondiente al canal alpha, generado será pintada ó rellenada del color indicado ó seleccionado 
+
+			respectivamente
+
+
+		_Edge Duplicate:
+
+			_ésta opción nos permitirá extender la imágen de forma replicada ó a través, del estiramiento de pixeles
+
+			hasta el extremo de la composición respectiva, tanto en el área horizontal como en el área vertical
+
+
+			_lo cuál, es especialmente útil para crear efectos y fondos abstractos para la creación de motion graphics,
+
+			entre otros muchos efectos posibles de modlación
+
+
+		_Edge Mirrow:
+
+			_ésta opción nos permitirá repetir ó replicar la imágen de forma completa y no estirada como en el caso
+
+			anterior lo cuál, nos permitirá crear una imágen infinita
+
+
+			_lo cuál, es especialmente útil para crear efectos y fondos abstractos para la creación de motion graphics,
+
+			entre otros muchos efectos posibles de modlación
+
+
+
+	_Alpha:
+
+		_ésta opción nos permitirá deshabilitar cualquier canal alpha, existente previamente en la imágen ó uno agregado 
+
+		por una máscara, otros
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

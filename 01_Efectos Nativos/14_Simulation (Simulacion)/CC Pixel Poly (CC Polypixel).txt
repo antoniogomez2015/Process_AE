@@ -1,0 +1,225 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos pemritirá crear el efecto de "shatter", ó "Dispersión/Romper", pero de forma más simple y 
+
+	directa ya que ésta opción nos pemritirá destruir una layer, ha modo de desvanecimientos de partículas ó 
+
+	fragmentos
+
+
+	_de ésta manera, podremos utilizar éste efecto para crear fragmentados ha modo de partículas en forma de
+
+	cristales ó fractales entre otros
+
+
+	_como también, podremos utilizar éste efecto para la generación de efectos específicos como desvanecimientos
+
+	ha modo de evaporación de partículas entre otras posibilidades de producción y paso contínuo
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Pixel Poly: (CC Polypixel)
+	______________
+
+
+		_Force:
+			
+			_ésta opción nos permitirá indicar la cantidad de fuerza dustructiva sobre el sistema para
+
+			que así, podamos crear un sistema de dispersión más suave ó más violento a través, del tiempo
+
+
+		_Gravity:
+
+			_ésta opción nos permitirá indicarle al sistema que utilize fuerza de gravedad tanto positiva
+
+			como negativa ó neutra
+
+
+			_de ésta manera, podremos crear diferentes efectos y emulaciones como lluvias, levitaciones
+
+			y fragmentaciones orbitales, entre otras posibilidades
+
+
+		_Spining:
+
+			_ésta opción nos permitirá orbitar la dirección de las partículas ó fragmentos generados por
+
+			el sistema para que así, podamos agregar aleatoriedad al sistema generado
+
+
+		_Force Center:
+
+			_ésta opción nos permitirá indicar el epicentro ó punto de generación principal de la
+
+			dispersión generada por el sistema para que así, podamos interactuar con la fragmentación
+
+			generada sobre la layer, base
+
+
+		_Direction Randomness:
+
+			_ésta opción nos permitirá indicarle al sistema que aleje ó a cerque los fragmentos ó 
+
+			partículas generadas por el sistema en relación al epicentro generador de los fragmentos ó
+
+			handle, en el viewport, del panel "compositing", ó directamente en panel "effects controls",
+
+			de ésta manera, podremos acentuar ó atenuar el efecto de dispersión de fragmentos en relación
+
+			al epicentro de generación del sistema
+
+
+			_lo que nos permitirá crear diferentes efectos de enervación y anomaliás sobre los fragmentos
+
+			generados por el sistema de forma interactiva en relación a las necesidades de produccíón y
+
+			paso contínuo
+
+
+			_de ésta manera, podremos realizar efectos como turbulencias avalanchas, oleajes, mezclas,
+
+			otros
+
+
+			_así, con valores cercanos ha "0", haremos que las partículas ó fragmentos se elejen del
+
+			epicentro generado del sistema, y con valores cercanos ha "100", haremos lo contrario, que
+
+			los fragmentos se acerquen globalmente al epicentro generador del sistema de fragmentos ó
+
+			partículas
+
+
+		_Speed Randomness:
+
+			_ésta opción nos permitirá indicarle al sistema que desplace las partículas en el plano de
+
+			cordenadas de profundidad ó "Z", en proporciones oscilantes
+
+
+			_de ésta con valores cercanos ha "0", el sistema consevará en gran medida los fragmentos
+
+			generados en el mismo punto del plano de cordenadas "Z" 
+
+
+			_más con valores cercanos ha "50", el sistema proyectará los fragmentos generados por el 
+
+			sistema hacia a delante y hacia atras 	
+
+
+			_más con valores cercanos ha "100", el sistema volverá ha colocar los fragmentos generados 
+
+			ha una posición en el mismo punto inicial del plano de cordenadas "Z", ó "0"
+
+
+		_Grid Spacing:
+
+			_ésta opción nos permitirá indicarle al sistema el tamaño de los fragmentos ha generar de
+
+			ésta manera, podremos configurar y personalizar el tamaño de los fragmentos en relación al
+
+			efecto deseado y a los requerimientos de producción y paso contínuo
+
+
+
+		_Object:
+
+
+			_Polygon:
+
+				_ésta opción mapeará los fragmentos triangulares generados por el sistema con los
+
+				colores de la imágen base sobre la cuál, hemos aplicado el efecto para que así, los
+
+				fragmentos respectivos tomen la información de color de la layer, base
+
+
+			Texture Polygon:
+
+				_ésta opción mapeará los fragmentos triangulares generados por el sistema con la
+
+				información gráfica de la imágen base sobre la cuál, hemos aplicado el efecto para 
+
+				que así, los fragmentos respectivos tomen la información propia de la layer, base
+
+
+			_Squad:
+
+				_ésta opción mapeará los fragmentos cuadrados generados por el sistema con los
+
+				colores de la imágen base sobre la cuál, hemos aplicado el efecto para que así, los
+
+				fragmentos respectivos tomen la información de color de la layer, base
+
+
+			_Texture Squad:
+
+				_ésta opción mapeará los fragmentos cuadrados generados por el sistema con la
+
+				información gráfica de la imágen base sobre la cuál, hemos aplicado el efecto para 
+
+				que así, los fragmentos respectivos tomen la información propia de la layer, base
+
+
+
+		_Enable Depth Sort:
+
+			_ésta opción en ocaciones nos permitirá obtener mejores resultados en relación a la 
+
+			interacción de los fragmentos entre si
+
+
+
+
+
+
+
+
+
+
+
+
+

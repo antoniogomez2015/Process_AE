@@ -1,0 +1,67 @@
+
+
+http://aescripts.com/cineware-proxy/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / CINEWARE Proxi
+
+
+	CINEWARE Proxi:
+
+
+	-este nos permite hacer una proxi, de todo la composición ó archivo generado en cinema 4d, de ésta manera
+
+	evitaremos el retardo y errores de visualización dentro de after effects
+
+
+	_ésto es especialmente útil para todos los procesos de producción porque de ésta manera el plugins, hará
+
+	un render el cuál, posteriormente cargará en una composición la cuál, podremos tratar como cualquier otra
+
+	secuencia de imagenes lo cuál, es necesario para todos los procesos de edición y producción
+
+
+
+	Workflow:
+	_________
+
+
+	_para ésto, tendremos que tener previamente creado una escena y un archivo cinema 4d, ".c4d", generados
+
+	con las animaciones deseadas ha incorporar dentro de after effects
+
+
+	_para luego, ir ha after effects, e importar el archivo "control + I"
+
+
+	_luego, debemos crear una composición con éste archivo ".c4", ó incorporar éste a un composición existente
+
+	previamente
+
+
+	_de ésta manera podremos ver que al cargar éste archivo ha una composición se le agregará ha éste un efecto,
+
+	éste es el efecto "Cineware", el cuál, hará de controlador entre cinema 4d, y after effects
+
+
+	_y en éste, en sus opciones debemos de colocar la opción de "Renderer: Standard (Final)", así, como tamibén,
+
+	es recomendable colocar el cabezal del timeline, donde comienza ésta respectiva layer, del archivo ".c4d"
+
+
+	_para luego, seleccionar la layer, ".c4d", e ir a las opciones del plugins "CINEWARE Proxi", y darle a las 
+
+	opciones de "Create Precomps", para que así, se abra un menú contextual con las opciones de ""
+
+
+	EL PLUGINS, ME DA ERROS POR INCOMPATIBILIDAD CON MI TARJETA 3D, ESO CREO"
+	
+
+
+
+

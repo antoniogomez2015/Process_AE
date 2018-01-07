@@ -1,0 +1,22 @@
+
+
+
+
+Guia de plugins, de terceros y efectos nativos en relación ha funcionabilidades generales
+
+
+	"Instancias, Partículas y Strands"
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	_Red Giant / Trapcode / TAO:
+
+		ésta opción nos permite generar instancias de un elemento como logos ó patterns, ó muestras, elementos estratégicos
+
+		en el proceso de producción para lograr estelas, strands, colas y demás sistemas de elementos 
+
+

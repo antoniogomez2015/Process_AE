@@ -1,0 +1,251 @@
+
+
+quieremetalcomosoy@hotmail.com
+
+
+http://aescripts.com/ray-dynamic-color/
+
+
+	advanced tutorial:
+
+		https://vimeo.com/112599799
+
+		http://www.sandervandijk.tv/blog/ray-free-update
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Ray Dynamic Color
+
+
+	Ray Dynamic Color:
+
+
+	-este nos permite la utilización de paletas de colores extenar ó swatches, como también, colores 
+
+	modificados por nosotros para uso en animación y procesos bundles, de flujos de trabajo en grandes 
+
+	volúmenes de layers, tanto en layers, de forma ó shape, como de texto, así, como también, en effects, 
+
+	que tengas propiedades color como "Fill", and "stroke", otros
+
+
+	_éste tiene las mejores opciones de animación para la interpolación de color entre muestras sobre 
+
+	layers, a través, del tiempo
+
+
+
+
+	Workflow:
+	_________
+
+
+	Ray Palette Comps:
+	__________________
+
+
+	_éste paso es fundamental e imprescindible para continuar con el proceso dentro de after effects
+
+
+	_primero debemos cargar el sistema dentro de after effects, ésto lo hacemos incorporando el sistema a través,
+
+	de una composición nueva generada por el sistema, "Ray - pallete 01", la cuál, se agregará dentro de una 
+
+	nueva carpeta al panel proyecto
+
+
+	_para generar ésta dicha composición en el paso anterior disponemos de tres formas de hacerlo; 
+
+	
+		_primero tenemos la forma general ó genérica la cuál, generará una serie de muestras de color estandar 
+
+		ó básicas, éstas se crean a través, del botón "+", en la parte superior del panel, ésta cargará una 
+
+		nueva composición al panel proyecto "Ray - pallete 01" (ésta es la opción más recomendada), por que 
+
+		es la opción que funciona mejor y nos permite personalizar los colores a nuestras necesidades abriendo 
+
+		la composición generada a trvés, del botón "Open", en la parte superior del panel, para edidar los 
+
+		colores de la layers, a través, de sus efectos así, como también, agregar más efectos duplicando los
+
+		existentes de ser necesario
+
+
+		_como también, disponemos de la opción de cargar una swatche, en forma ".ase", de adobe, la cuál, 
+
+		contendrá ya las muestras de color personalizadas, éstas se crean a través, del botón "+ASE", ésta 
+
+		cargará una nueva composición al panel proyecto "Ray - pallete 01"
+
+
+		_también, dispondremos de la posibilidad de obtener las muestras escaneando una composición seleccionada
+
+		en el panel proyecto para que así, sean tomadas las muestras de las layers, de shape, text, y efects, ésta 
+
+		cargará una nueva composición al panel proyecto "Ray - pallete 01" (ésta función no termina de funcionar bien)
+
+
+	_más a partir de éste punto, tenemos la posibilidad de editar los colores que hemos obtenido ó muestreado de la
+
+	composición ó escena ó de a través, de un archivo externo .ase 
+
+
+	_para ésto, debemos entrar en la composición que hemos generado "Ray - pallete 01", haciendo doble click, sobre ésta
+
+	en el panel proyecto para así, abrir ésta, ó también, podríamos hacer "Open", en el panel Ray Dynamic Color"
+
+
+	_de ésta manera encontraremos en ésta composición una layer, "Ray-pallete01", la cuál, será una layer, de forma ó shape,
+
+	la cuál, contendrá todas las muestras como shapes, dentro de la layers, de forma, la cuales contendrán cada respectivo
+
+	color indicado
+
+
+	_así, ésta layer, "Ray-pallete01", a su vez, cotendrá effect, para cada color respectivo de las formas de la layer, de 
+
+	tipo shape, ej: effect: "Color 1", éste tendrá un selector de color el cuál, podremos editar para cambiarlo por un 
+
+	color personalizado si así,  lo necesitamos
+
+
+	_de ésta manera, luego de haber editado ó personalizado los colores de la layer, "Ray-pallete01", debemos volver al panel
+
+	"Ray Dynamic Color", y hacer "Refresh", para que así, los colores que hemos cambiado sean actualizados en el panel y estén
+
+	disponibles para su uso
+
+
+	
+	Asignación de color:
+	____________________
+
+
+	_y siguiendo con el paso anterior, hasta éste punto, veremos que la composición que el sistema ha agregado en el panel 
+
+	proyecto, "Ray-pallete 01", ésta aún no se ha agregado al timeline, de la composición deseada
+
+
+	_por que ésto sucederá a penas relacionamos la primera propiedad de color de una layer, con algún color del panel 
+
+	"Ray Dynamic Color"
+
+
+	_así, para ésto, para relacionar una layer, y su propiedad de color con algún color disponible en el panel, debemos primero
+
+	seleccionar la layer, de tipo shape, ó texto ó con algún efecto con parámetro de color y, con ésta layer, ó propiedad de color
+
+	seleccionada sea en el viewport, del panel composición ó en el timeline, y con ésta layer, ó layers, seleccionada(s), vamos al 
+
+	panel "Ray Dynamic Color", para luego hacer mouse left click, sobre cualquier color que esté disponible en el panel para que así, 
+
+	éste respectivo color sea asignado a la propiedad de color de la layer, ó efecto
+
+
+	_en la edición de colores tenemos la posibilidad de agregar más colores al sistema, más el sistema soporta hasta "36", colores por
+
+	layer
+
+	
+	_pero en el panel sólo representa hasta "10", colores, por ésta razón disponemos en el panel con un botón de "#", a través, del cuál,
+
+	nos aparecerá una ventana contextual la cuál, nos preguntará el número del color respectivo que deseamos aplicar, por general ésta
+
+	opción la usaremos para aplicar colores que estén más allá de los colores que es capas de representar el panel, por ejemplo; los colores
+
+	que estén más allá del color "10"..., hasta "36"
+
+
+	_de ésta manera, con escribir el número respectivo al color se cargará el color respectivo en la propiedad de color de la layer, 
+
+	seleccioanda
+
+
+	_más también, dispondremos de dos filtros de asignación los cuales nos permitirán diferenciar la asignación tanto para elementos de 
+
+	relleno "Fill", como de elementos de contorno "Stroke"
+
+
+	_así, como también, dispondremos de un "switche", a través, del cuál, podremos hacer intercambiar los colores de relleno y contorno 
+
+	de una layer
+
+
+
+	Advanced animate:
+	_________________
+
+	_para ésto, lo primero que debemos hacer es activar las opciones avanzadas para que éstas estén disponibles y reconocibles por el 
+
+	sistema, para los cuál, dispondremos de "checked", por medio del cuál, podremos activar ó desactivar éstas opciones
+
+
+		Color 1.5:
+		__________
+		
+		_ésta es la opción por defecto la cuál, permite la asignación y relacionamiento dinámico de color entre propiedades de color
+
+		y el sistema del panel
+
+
+		Random 1.5:
+		___________
+
+		_ésta es la opción que nos permitirá, hacer asignaciones aleaoria de todos los colores existentes en el sistema en relación
+
+		a las layers, seleccionadas para asignación de color
+
+
+		Cycle 1.5 / RandomCycle 1.5:
+		____________________________
+
+		_éstas opciones nos permite hacer asignación de color a través, del tiempo en animación no interpolada por medio de las "Marks", 
+
+		ó marcar creadas sobre las layers, respectivas
+
+
+		_de ésta manera, el color de respectiva propiedad a un color que esté disponible en el panel cada vez que el cabezal del 
+
+		tiemeline, se encuentre ha una nueva marca en el timeline
+
+
+		Animate 1.5:
+		____________
+
+		_ésta opción nos permitirá hacer asignación de color con animación interpolada de color sin la necesidad de la creación de marcas
+
+		ni de la asignación de color aleatoria
+
+
+		_más en ésta modalidad más avanzada de animación podremos elegir el "timming", así, como el color existente en el panel ha asignar 
+
+		en un determninado momento
+
+
+		_para ésto, debemos seleccionar la respectiva layer, y desplegar sus propiedades de scripts, shortcut "ee", y seleccionar la 
+
+		propiedad de color que le anteceda un ícono de "fx"
+
+
+		_para luego activar el "reloj", de animación de ésta propiedad de "color", y asignar un color para ese "timming", para luego 
+
+		avanzar el cabezal del timeline, hasta una nueva posición para luego aplicar un nuevo color que esté disponible en el panel,
+
+		de ésta manera se agregará de forma automática un nuevo keyframe, y así, suscesivamente hasta terminar la animación de color
+
+		respectiva deseada
+
+
+	Export ASE:
+	___________
+
+	_éstaa opción requiere la utilización de servidores del plugins, entre otras opciones que no son convenientes ni recomendables para usar
+
+	
+
+

@@ -1,0 +1,703 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos pemritirá crear sistemas de partículas los cuáles, emularán sistemas de burbujas, células,
+
+	poluciones entre otros como también para procesos de producción y aso contínuo
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Foam: (Espuma)
+	_____
+
+
+		View:
+
+
+			_Draft:
+
+				_ésta opción nos permitirá visualizar el sistema de partículas en el modo de vista
+
+				alámbrica para edición y ajustes en baja resolución
+
+
+			_Draft + Flow Map:
+
+				_ésta opción nos permitirá visualizar el sistema de partículas en el modo de vista
+
+				alámbrica más el comportamiento de flujo por mapas de luminancia personalizados para 
+
+				edición y ajustes en baja resolución
+
+
+			_Rendered:
+
+				_ésta opción nos permitirá visualizar el sistema de partículas en el modo 
+
+				renderizado para una visualización completa del resultado final, con todas la 
+
+				reflexiones, especularidad y mapas difusos, otros
+
+
+
+
+		Producer:
+
+		
+			_Producer Point:
+
+				_ésta opción nos permitirá indicar el epicentro ó punto de generación del sistema
+	
+				para que así, podamos indicar un punto de partida de la emisión de las partículas
+
+
+				_para lo cuál, dispondremos de handle, directamente en el viewport, del panel
+
+				"compositing", en el panel "effects controls"
+
+
+			_Producer X | Y:
+
+				_ésta opción nos permitirá indicar un radio ó ancho, alto para la generación del
+
+				sistema de partículas de ésta manera, podremos crear un sistema de partículas más 
+
+				concentrado ó concéntrico ó más disperso en cualquiera de éstas cordenadas 2d
+
+
+			_Producer Orientation:
+
+				_ésta opción nos permitirá hacer el efecto "Roll", ó rotar el sistema de partículas
+
+				para la creación oblícua de partículas en grados determinados en relación a las
+
+				necesidades de producción y paso contínuo
+
+
+			_Zoom Producer Point:
+
+				_(Indeterminado)
+
+
+			_Production Rate:
+
+				_ésta opción nos permitirá controlar la cantidad de partículas emitidas por el
+
+				sistema de partículas a través, del tiempo
+
+
+
+		Bubbles:
+
+			
+			_Size:
+
+				_ésta opción nos permitirá controlar el tamaño de las partículas generadas a través,
+
+				del tiempo
+
+
+			_Size Variation:
+
+				_ésta opción nos permitirá controlar la variación del tamaño de las partículas a 
+
+				través, del tiempo y desde su punto de generación inicial para crear así, efectos
+
+				más aleatorios y naturales y atractivos
+
+
+			_Lifspan:
+
+				_ésta opción nos permitirá controlar la vida de las partículas ó a través, de cuanto
+
+				tiempo las partículas serán visibles en el viewport, y soportadas y calculadas por
+
+				el sistema de partículas
+
+
+			_Bubble Growth Speed:
+
+				_ésta opción nos permitirá controlar el crecimiento de las partículas a través, del
+
+				tiempo y en su punto de generación
+
+
+				_valores cercanos ha "0", harán que las partículas conserven su estado inicial 
+
+				pequeño y, valores cercanos ha "1", harán que las partículas desde su punto inicial
+
+				tengan un tamaño grande y estable y uniforme
+
+
+			_Strengh:
+
+				_ésta opción nos permitirá controlar la fuerza con la cuál, se emiten las partículas
+
+				así, como también, su comportamiento y cantidad
+
+
+				_así, con valores cercanos ha "0", habrán menos partículas las cuáles, a su vez,
+
+				orbitarán más suave y aleatoriamente
+
+
+				_y con valores cercanos ha "100.000", las partículas sandrán despedidas con mayor
+
+				fuerza e interacturán más unas con otras y a su vez, que éstas se verán aumentadas 
+
+				en número y hasta en tamaño en cierta manera
+
+
+
+		Physics:
+
+
+			_Initial Speed:
+
+				_ésta opción nos permitirá controlar la fuerza ó velocidad inicial con la cuál, las
+
+				partículas son creadas ó expulzadas del epicentro del sistema de generación de
+
+				partículas las cuáles, son generadas por defecto hacia arriba
+
+
+			_Initial Direction:
+
+				_ésta opción nos permitirá controlar la dirección en la cuál, serán emitidas las
+
+				partículas así, de ésta manera, podremos controlar en grados la dirección en la
+
+				cuál, deseamos que las partículas sean emitidas dentro del sistema generado
+
+
+			_Wind Speed:
+
+				_ésta opción nos permitirá agregar ó influenciar el sistema de partículas generado
+
+				para que así, podamos hacer que las partículas se muevan en una dirección sugerida
+
+				en una proporción determinada una vez éstas son generadas
+
+
+			_Wind  Direction:
+
+				_así, como también, podremos controlar la dirección de influencia sobre el sistema
+
+				de partículas generado para tener así, un mayor control de hacia donde deseamos 
+
+				sugerirle a las partículas que muevan a través, del tiempo
+
+
+			_Turbulence:
+
+				_ésta opción nos pemritirá controlar la turbulencia ó movimiento aleatorio que 
+
+				tendrá cada partícula en relación a las demás partículas ó por el contrario, el
+
+				movimiento lineal que tendrán las partículas en general y entre si
+
+
+			_Wobble Amount:
+
+				_ésta opción nos permitirá agregar el efecto "tambaleo", ó el efecto de "squash", y 
+
+				"stretch", ó estiramiento y encogimiento de cada partículas para emular así, efectos
+
+				más complejos como gelatinosos para la creación efectos como jabón, gomitas, otros
+
+
+			_Repulsion:
+
+				_ésta opción nos permitirá controlar la interacción espacial de las partículas
+
+				generadas por el sistema de ésta manera, con valores cercanos ha "0", las partículas
+
+				podrán ocupar el mismo espacio unas con otras en el viewport, ó superponerse 
+
+
+				_y con valores cercanos ha "1", las partículas a panas podrán superponerse 
+
+				aproximadamente en un "8%", lo cuál, nos peermitirá crear efectos más realistas en 
+
+				algunos casos en los cuáles, desemos que las partículas conseven propiedades físicas 
+
+				realistas
+
+
+			_Pop Velocity:
+
+				_(Indeterminado)
+
+
+			_Viscosity:
+
+				_ésta opción nos permitirá controlar el comportamiento de las partículas de ésta
+
+				manera, en éste caso; podremos crear un sistema con partículas más agrutinadas entre
+
+				si
+
+
+				_conformando grupos ó agrupamientos de partículas de ésta manera, podremos crear 
+
+				sistemas de partículas más líquidos ó fluidos ó más agrutinados ó jabonosos para la
+
+				creación de diferentes comportamientos como céculas, glicerinas, jabones, poluciones
+
+				entre otros
+
+
+			_Stickiness:
+
+				_ésta opción va de la mano con la opción anterior de "Viscosity", ya que ésta opción
+
+				de "Stickiness", nos permitirá controlar cuán pegajoso será el sistema de partículas
+
+				generado
+
+
+				_de ésta manera, podremos controlar cuán pegajosa ó atrayente será una partícula en
+
+				relación a las demás partículas para que así, de ésta manera, podamos controlar el
+
+				comportamiento de las partículas generadas
+
+
+
+		_Zoom:
+
+			_ésta opción nos permitirá alejar ó acercar el sistema de partículas generadas de manera
+
+			global para que así, podamos hacer ajustes del tamaño general del sistema de partículas en
+
+			relación a nuestras necesidades de producción y paso contínuo
+
+
+		_Universe Size:
+
+			_y alternativamente al valor de "Bubble/Size", dispodremos del control "Universe Size", como
+
+			un controlador máster, para controlar el tamaño de las partículas para que así, podamos 
+
+			hacer ajustes y variaciones ha nivel global de las partículas generadas por el sistema
+
+
+
+		Rendering:
+
+
+			_Blend Mode:
+
+
+				_Transparent:
+
+					_ésta es la opción por defecto la cuál, no aplicará reflexiones y 
+
+					refracciones extras sobre las partículas generadas
+
+
+				_Solid Old top:
+
+					_ésta opción agregará reflexión y refracción extra en las partículas que
+
+					estén más "arriba", del sistema
+
+
+					NOTA: ésta opción tendrá aplicación en relación el preset, de partículas
+
+					seleccionado ya que no todos tienen el mismo comportamiento
+
+
+				_Solid New on top:
+
+					_ésta opción agregará reflexión y refracción extra en las partículas que
+
+					estén más "abajo", del sistema
+
+
+					NOTA: ésta opción tendrá aplicación en relación el preset, de partículas
+
+					seleccionado ya que no todos tienen el mismo comportamiento
+
+
+
+			_Bubble Texture:
+
+
+				_User Defined:
+
+					_ésta opción nos permitirá utilizar el sistema de partículas para la 
+
+					creación "sprites", a través, de una layer, personalizada la cuál, podremos
+
+					seleccionar de la respectiva composición
+
+
+				_Default Bubble:
+
+					_ésta es la opción por defecto la cuál, nos permitirá crear burbujas 
+
+					transparentes más con especularidad y reflexiones y a su vez, con el efecto
+
+					de enviromento, ésta opción también, es relacionable con la opción "Spit"
+
+
+				_Amber Bock:
+
+					_ésta opción nos peermitirá crear partículas con volúmen para la emulación
+
+					de por ejemplo; graseosas, células y demás elementos para diferentes 
+
+					procesos de producción y paso contínuo
+
+
+				_Water Beads:
+
+					_ésta opción nos peermitirá crear partículas similares a las de la opción
+
+					"Default Bubble", más en éste caso con una reflexión exagerar y un efecto
+
+					de enviromenent, totalmente distorsionado el cuál, nos permitirá crear 
+
+					efectos	de por ejemplo; chispas, corpúsculos luminosos, centellas y demás 
+
+					elementos para diferentes procesos de producción y paso contínuo
+
+
+				_Spit:
+
+					_ésta opción nos pemritirá crear burbulas perfectas transparentes y con 
+
+					reflejos y especularidad más realista
+
+
+				_Cartoon Coffee:
+
+					_ésta opción es una variante de la opción "Amber Bock", más la opción de
+
+					"Cartoon Coffee", nos permitirá crear partículas más planas y un efecto de
+
+					especularidad inferior más acusado
+
+
+				_Winter Stream:
+
+					_ésta opción es una variante de la opción "Spit", más la opción de
+
+					"Winter Stream", nos permitirá crear partículas ya no transparentes si no 
+
+					que en vez de esto, las partículas tendrán un material semi difuso, más 
+
+					cierta especularidad y reflexión como también, dispondrán de sombreado 
+
+					lateral y un sombreado
+
+
+					_lo cuál, es especialmente útil para diferentes procesos de producción y 
+
+					paso contínuo
+
+
+				_Soda Water:
+
+					_ésta opción es una variante de la opción "Default Bubble", más la opción de
+
+					"Soda Water", nos permitirá crear partículas semi difusas y con menos 
+
+					especularidad y reflexión
+
+
+				_Orange Soda:
+
+					_ésta opcíon es una variante de la opción "Amber Bock", más la opción de
+
+					"Orange Soda", nos permitirá crear partículas más transparentes 
+
+					especialmente en su área central y con efectos de especularidad y reflexión 
+
+					superior así, como también, de la incorporación de enviroment, lateral
+
+
+				_Nuclear Waste:
+
+					_ésta opción es una variante de la opción de "Winter Stream", más la opción
+
+					de "Nuclear Waste", nos permitirá crear partículas con un color base lateral
+
+					y predefinido así, como también, del efecto enviroment lateral
+
+
+				_Red Tide:
+
+					_ésta opción nos permitirá crear partículas con el halo ó periferia 
+
+					perfectamente sombreada y definida así, como también, de un centro semi
+
+					transparente lo que nos permitirá crear efectos de tipo células, moléculas,
+
+					entre otras posibilidades de producción y paso contúnio
+
+
+				_Magma Marbles:
+
+					_ésta opción podríamos decir que en cierta menera es una variante de la 
+	
+					opción de "Amber Bock", más la opción de "Magma Marbles", nos permitirá
+
+					crear partículas totalmente difusas, con especularidad y reflexición
+
+					como también, de un sombreado y bastante acusado
+
+
+					_lo cuál, es bastante útil para diferentes procesos de producción y paso
+
+					contínuo
+
+
+				_Sunset Foam:
+
+					_ésta opción es una variante de la opción de "Orange Soda", más la opción de
+
+					"Sunst Foam", nos permitirá crear partículas con menos reflexiones y 
+
+					especularidad así, como también, con un perímetro más sombreado y uniforme 
+
+					ya que ésta opción no posee el efecto de enviroment, lateral
+
+
+				_Repto:
+
+					_ésta opción es una variante de la opción "Red Tide", más la opción de
+
+					"Repto", nos permitirá crear partículas con una iluminación lateral lo que
+
+					creará un halo difuso sobre el área perimetral de la partícula parcialmente
+
+					definido y, en la misma proporción serán los efectos de especularidad y 
+
+					reflexión
+
+
+				_Algae:
+
+					_ésta opción es una variante de la opción "Orange Soda", más la opción de
+
+					"Algae", nos permitirá crear partículas con una reflexión y refracción más
+
+					distribuida y con un color base verde y un poco más transparente
+
+
+				_Blisters:
+
+					_ésta opción es una variante de la opción "Red Tide", más la opción de
+
+					"Blisters", nos permitirá crear partículas con un halo perimetral más 
+
+					extendido hacia el centro lo que nos permitirá crear partículas con un 
+
+					epicentro un poco menos transparente
+
+
+					_lo cuál, nos pemritirá crear variantes para la generación de células, 
+
+					partículas átomos y demás elementos de producción y paso contínuo
+
+
+				_Bubble Wrap:
+
+					_ésta opción es una variante de la opción "Cartoon Caffee", más la opción 
+
+					de "Bubble Wrap", nos pemritirá crear partículas con una dirección de la
+
+					iluminación diferente y un color base verde
+
+
+				_Grape Soda:
+
+					_ésta opción es una variante de la opción "Soda Water", más la opción 
+
+					de "Grape Soda", nos pemritirá crear partículas con una dirección de la
+
+					iluminación diferente y un color más oscuro como también, de una reflexión
+
+					diferente y por la parte inferior ó por debajo
+
+
+
+			_Bubble Texture Layer:
+
+				_ésta opción nos permitirá selecciona una layer, de la composición respectiva la 
+
+				cuál, será utilizada en la opción de "Bubble Texture/User Dedined", lo cuál, es
+
+				especialmente útil para proceso de sprites
+
+
+
+			_Bubble Orientation:
+
+
+				_Fixed:
+
+					_ésta opción mantiene la iluminación del sistema en una misma e inicial
+
+					dirección y por ende, las reflexiones, especularidad y demás efectos
+
+
+				_Physical Orientation:
+
+					_ésta opción hará variaciones sobre la iluminación del sistema en relación 
+
+					al comportamiento de las partículas en el sistema, de ésta manera, la 
+
+					dirección de la iluminación variará en relación al comportamiento 
+
+					configurado en las partículas lo cuál, afectará la dirección de las 
+
+					reflexiones, especularidad y demás efectos
+
+
+				_Bubble Velocity:
+
+					_ésta opción hará variaciones sobre la iluminación del sistema en relación 
+
+					al comportamiento de la velocidad de las partículas en el sistema, de ésta 
+
+					manera, la dirección de la iluminación variará en relación a las 
+
+					fluctuaciones configuradas en la velocidad de las partículas lo cuál, 
+
+					afectará la dirección de las reflexiones, especularidad y demás efectos
+
+
+
+			_Enviroment Map:
+
+				_ésta opcion nos permitirá seleccionar una layer, de la composición respectiva la 
+
+				cuál, será utilizará como mapa de enviroment, en los modos ó presets, de partículas 
+
+				que soporten ó contemplen enviroment
+
+
+			_Reflection Strength:
+
+				_ésta opción controlará la cantidad de enviroment, aplicada a las partículas lo 
+
+				cuál, afectará especialmente a los modos ó presets, de partículas que soporten ó
+
+				contemplen enviroment
+
+
+				_como también, si el enviroment, le hemos asignado un mapa personalizado en las 
+
+				opciones "Enviroment Map"
+
+
+			_Reflection Convergence:
+
+				_(Indeterminado)
+
+
+
+
+		Flow Map:
+
+
+			_Flow Map:
+
+				_ésta opción nos permitirá seleccionar una layer, ó ocmposición la cuál, hará de
+
+				mapa de luminancia el cuál, será utilizado para controlar ó marginar la emisión y
+
+				conducción de las partículas generadas por el sistema
+
+
+				_éste mapa puede ser animado ó estático lo que nos permitirá a su vez, lograr gran
+
+				dinamismo y control del sistema generado
+
+
+			_Flow Map Steepness:
+
+				_ésta opción nos permitirá controlar la interpolación ó acción del mapa sobre el
+
+				sistema de partículas, ésta opción es especialmente útil cuando el mapa de 
+
+				luminancia es animado, otros
+
+
+			_Flow Map Fits:
+
+				_ésta opción nos permitirá seleccionar entre dos algoritmos disponibles para 
+
+				controlar así, el comportamiento de las partículas en relación al mapa de 
+
+				lumninancia seleccionado
+
+
+			_Simulation Quality:
+
+				_ésta opción nos permitirá seleccionar entre tres tipo de calidades posibles para
+
+				la generación del sistema, entre las cuáles, tenemos; "Normal", "High", y "Intense"
+
+
+			_Random Seed:
+
+				_ésta opción nos pemritirá controlar ó indicar una animación inicial para el sistema
+
+				de partículas generado de ésta manera, podremos controlar parte del comportamiento
+
+				inicial del sistema de partículas en relación a nuestras necesidades de integración
+
+				e interacción con las demás layers, de la composición, otros
+
+
+
+
+
+
+
+
+

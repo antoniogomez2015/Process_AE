@@ -1,0 +1,230 @@
+
+
+http://www.redefinery.com/ae/view.php?item=rd_Statesman
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / rd Statesman
+
+
+	rd Statesman:
+
+
+	-este nos permite configurar ó cambiar los estados de los "Switches", de las layers, en una composición
+
+	respectiva
+
+
+	_los switches, de las layers, están ubicados tanto en el tiemeline, a modo de íconos justo al lado derecho
+
+	a partir del nombre de la layer, así, como también, en el menú "Layer/Switches/", los switches, tienen las
+
+	siguientes propiedades ha activar y desactivar para una layer:
+
+
+		_Shy:
+
+			_éste es el suiche de "timido", permite indicar que una layer, esta seleccionada para tal fin
+
+			por lo general es para ocultar ciertas layers, en una composición
+
+
+		_Lock:
+
+			_éste suiche permite bloquear una capa para que ésta no pueda ser seleccionada, shortcut:
+
+			"Control + L"
+
+
+		_Audio:
+
+			_éste suiche permite activar ó desactivar una layer, de audio
+
+
+		_Video:
+
+			_éste suiche permite activar ó desactivar una layer, de video
+
+
+		_Solo:
+
+			_éste suiche permite ocultar todas las layers, menos ésta de la composición para permitir
+
+			una mejor edición en el viewport, del panel composición y del timeline
+
+
+		_Effects:
+
+			_éste suiche permite ocultar todos los efectos de determinada layer, especialmente útil
+
+			para diferentes procesos de edición
+
+
+		_Collapse:
+
+			_éste suche permite colapsar todas las composiciones anidadas así, como también, las layers,
+
+			compuestas de vectores ó paths, otros para de ésta manera éstas layers, tengan total 
+
+			resolución y no reciban la rasterización de una layer, de pixeles
+
+
+		_Motion Blur:
+
+			_éste suiche permite activar para ésta capa las opciones de motion blur, ó desenfoque de
+
+			movimiento para aumentar la sensación de movimiento y animación
+
+
+		_Ajustment Layer:
+
+			_éste suiche permite desactivar ó activar una layer, de tipo de ajuste
+
+
+	
+	_ésto quiere decir que podemos configurar todos los estados de todas las layers, en una composición
+
+	respectiva ha hacer por ejemplo otros estados para todas las layers, que nos sean convenientes para una
+
+	determinada edición ó propósito para la producción y edición en general
+
+
+	_por ejemplo podríamos dejar las layer, con todos sus estados iniciales más hacer otro estados con las
+
+	layers, más pesadas con los switches, apagados de fx, quality, frame blending, motion blur, 3d, otros,
+
+	para que así, éstas layer, tengan un comportamiento y reproducción más fluida
+
+
+
+
+	Workflow:
+	_________
+
+
+	_el plugins, dispone de 6, seis memorias disponibles las cuales podremos llenar haciendo uso de los 
+
+	diferentes criterios ó suiches disponibles, a las cuales podremos acceder ó recuperar posteriormente
+
+
+	_para ésto, debemos primero configurar el estado de todos los suiches en el estado inicial que nos
+
+	interesa, por ejemplo en el estado inicial para comenzar como primer estado
+
+
+	_y así, al tener determinado el estado que tendrán los switches, de todas la layers, de una composción
+
+	podremos ir al panel "rd Statesman", y asígnar dicho estado a la primera memoria las cuales se diferencian
+
+	por medio de números, del uno al seis, (1,2,3,4,5,6)
+
+
+	_de ésta manera, para asignar un estado de los suiches, de todas las layers, de una composición sólo hace
+
+	falta darle a la flecha ó arrow, que está justo debajo de cada número de memoria respectivo, en éste caso
+
+	lo haremos para la memoria número "1", por ende le daremos a la flecha que está justo debajo de éste 
+
+	respectivo número
+
+
+	_de ésta manera, podremos repetir éste paso para llenar los otros 5, estados de memoria disponible si así,
+
+	lo necesitamos y, para ésto iremos cambiando los estados de los suiches, para todas las layers, deseadas 
+
+	en la composición respectiva para luego irle dando click, a cada uno de los números de las memorias para ir
+
+	guardando cada uno de esos estados respectivos
+
+
+	_y por último para ir llamando cada uno de esos estados guardados ó hacer una recuperación de éstos sólo 
+
+	necesitaremos darle click, a cada uno de los botones de los números respectivos, de ésta manera se recuperará
+
+	el estado de todos los suiches de todas las layers, en un tiempo determinado que lo necesitemos
+
+
+
+	_el plugins, "rd_Statesman", dispone controles para los siguientes switches:
+
+
+		_General Layer selection:
+
+			_éste es especialmente útil ya que permite guardar selecciones, de ésta manera podremos
+
+			seleccionar un grupo de layers, dentro de una composición ámplia y volver posteriormente
+
+			ha volver ha recuperar dicha selección
+
+
+		_A/V Features: Video:
+
+			_éste permite hacer visibles ó ocultas layers, de video
+
+
+		_A/V Features: Audio:
+
+			_éste permite hacer visibles ó ocultas layers, de audio
+
+
+		_A/V Features: Solo:
+
+			_éste permite hacer sólo de layers
+
+
+		_A/V Features: Lock:
+
+			_éste permite bloquear ó desbloquear layers, determinadas de una composición
+
+
+		_Switches: Shy:
+
+			_éste permite seleccionar layers, en modo tímido en una composición determinada
+
+
+		_Switches: Cont. Rasterize / Collapse:
+
+			_éste permite colapsar ó rasterizar layers, de una composición determinada
+
+
+		_Switches: Quality:
+
+			_éste permite variar la calidad de una layer, ó varias en una composición determinada
+
+
+		_Switches: Effects:
+
+			_éste permite activar ó desactivar los efectos para una ó varias layers, en una composición
+
+			determinada
+
+
+		_Switches: Frame Blending:
+
+			_éste permite activar ó desactivar las opciones de fusión de fotográma de animación para 
+
+			una ó varias layers, en una composición determinada
+
+
+		_Switches: Motion Blur:
+
+			_éste permite activar ó desactivar las opciones de desenfoque de movimiento de animación 
+
+			para una ó varias layers, en una composición determinada
+
+
+		_Switches: Adjustment Layer:
+
+			_éste permite activar ó desactivar las layers, de ajuste en una composición determinada
+
+
+		_Switches: 3D Layer:
+
+			_éste permite activar ó desactivar layers, en 3d, en una composición determinada
+
+
+

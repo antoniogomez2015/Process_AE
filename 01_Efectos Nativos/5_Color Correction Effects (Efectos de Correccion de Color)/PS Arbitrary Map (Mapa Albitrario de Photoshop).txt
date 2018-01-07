@@ -1,0 +1,88 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá cargar presets, personalizados del efecto "Curves", de la aplicación de 
+
+	"Photoshop", para que así, podamos aplicar dentro de after effects, éstas correcciones externas de gamma
+
+	
+
+	_éstos presets, del efecto curves, se guardan con la extensión de archivo ".amp", los cuáles, nos 
+
+	permnitirán cargar configuraciones de correcciones pre construidas de forma rápida
+
+
+
+
+	Workflow:
+
+	_para lo cuál, debemos de ir a las opciones de "Options..", en la parte superior del efecto para que así,
+
+	se nos abra el explorador en el cuál, tendremos de ubicar el archivo con extensión ".amp", el cuál,
+
+	cargará las modicaciones de HLS, ó tono, saturación y brillo sobre la respectiva imágen
+
+
+
+		
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	PS Arbitrary Map: (Mapa Albitrario de Photoshop)
+	________________
+
+
+		_Phase:
+
+			_éste wheel, ó rueda nos permitirá hacer desface en la curva lo cuál, no siempre dará
+
+			buenos resultados más en ciertos casos nos dará la posibilidad de crear efecto abstractos
+
+
+		_Apply Phase Map To All:
+
+			_ésta opción nos permitirá aplicar todo el efecto a todos los canales y characterísticas
+
+			propias de la imágen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

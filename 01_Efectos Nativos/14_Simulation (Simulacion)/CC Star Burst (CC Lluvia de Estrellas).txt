@@ -1,0 +1,120 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos pemritirá generar partículas en dirección a la cámara y de forma cónica para diferentes
+
+	efectos de producción y paso contínuo, a diferencia de los sistemas de partículas de tipo "Snow", en los 
+
+	cuáles, las partículas caen hacia abajo, en éste caso las partículas caerán hacia la vista del espectador
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Star Burst: (CC Lluvia de Estrellas)
+	______________
+
+
+		_Scatter:
+
+			_ésta opción nos permitirá dispersar las partículas para que así, ésta estén más separadas
+
+			unas de otras dando la sensación de densidad, aproximación ó distancia del sistema generado
+
+			de partículas respectivamente
+
+
+		_Speed:
+
+			_ésta opción nos pemritirá animar el avance ó retroceso del ssitema de partículas de cada a
+
+			la toma de la cámara
+
+
+		_Phase:
+
+			_ésta opción es similar a la opción anterior más ésta opción es más controlable y da mejores
+
+			resultados
+
+
+		_Grid Spacing:
+
+			_ésta opción cambia la escala del sistema permitiendo así, aumentar ó disminuir el tamaño de
+
+			las partículas y la escala general del ssitema, lo que permitirá a su vez, aplanar y acercar
+
+			el sistema lo cuál, nos permitirá generar diferentes efecto para procesos de producción y 
+
+			paso contínuo
+
+
+		_Size:
+
+			_así, como también, dispondremos de una opción para re escalar cada partícula de fomra
+
+			independiente sin la necesidad de aproximar ó elejar el sistema como un todo en relación
+
+			al punto de vista de la cámara ó de la dirección de las partículas
+
+
+		_Blend W. Original:
+
+			_por defecto el sistema se genera con un fondo transparente para su integración total con 
+
+			el resto de las layers, de la composición activa más también, podremos integrar el sistema
+
+			con la layer, base sobre la cuál, hemos aplicado efecto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

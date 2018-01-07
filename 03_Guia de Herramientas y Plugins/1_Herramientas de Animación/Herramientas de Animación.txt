@@ -1,0 +1,162 @@
+
+
+
+Herramientas de Animación para After Effects
+
+
+	Referencia
+
+		http://aescripts.com/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Motion:
+_______
+
+	
+	Descripción: (instancias colaterales de animación para motion graphycs)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(G) / Panel Preview - Version / Referencia (debajo del Panel FxPro)
+
+
+	Referencia en la web: http://www.mtmograph.com/motion/
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+MatchRate:
+__________
+
+	
+	Descripción: (transpolación y transferencia de propiedades de animación)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(I) / Panel Effects Controls / Referencia (al lado derecho del Panel Composicion)
+
+
+	Referencia en la web: http://aescripts.com/matchrate/
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Animation Patterns: 
+___________________
+
+	
+	Descripción: (Presets, y comportamientos de animación)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(E) / Panel Low Proyecto / Referencia (Debajo del panel proyecto)
+
+
+	Referencia en la web: http://aescripts.com/animationpatterns/
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Motion Mode:
+____________
+
+	
+	Descripción: (interpolaciones avanzada entre animaciones)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(E) / Panel Low Proyecto / Referencia (Debajo del panel proyecto)
+
+
+	Referencia en la web: http://videohive.net/item/motion-mode/10117499
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Mirrow & Offset:
+________________
+
+	
+	Descripción: (éste permite duplicados en espejo de keyframes, bajo diferentes criterios)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(I) / Panel Effects Controls / Referencia (al lado derecho del Panel Composicion)
+
+
+	Referencia en la web: http://aescripts.com/mirror-and-offset/
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Easy and Wizz:
+______________
+
+	
+	Descripción: (interpolaciones avanzada entre animaciones)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(M) / Panel Toolbat Right Timeline / Referencia al lado derecho del Panel Timeline)
+
+
+	Referencia en la web: http://aescripts.com/ease-and-wizz/
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Keysmith: (no corre error: Unable to execue script at line 23, undefined is not an object)
+_________
+
+	
+	Descripción: (interpolaciones avanzada entre animaciones)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(M) / Panel Toolbat Right Timeline / Referencia al lado derecho del Panel Timeline)
+
+
+	Referencia en la web: http://aescripts.com/keysmith/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,347 @@
+
+
+-no hay web actual para éste plugins-
+
+
+	éste parece una versión inicial del plugins "Evil Twin Stereo 3D"
+
+		http://aescripts.com/evil-twin-stereo-3d/
+
+
+	Tutorial:
+
+		Stereoscopic 3D Workflow in After Effects - Tutorial Part 1
+
+			https://www.youtube.com/watch?v=fJUMy4fvHOY&t=128s
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Stereo Viewer
+
+
+	Paso: 2 | Stereo Viewer:
+
+
+	-este nos permite hacer el proceso estereoscopico de forma práctica y automática para poder así, generar
+
+	el efectos de gafas anaglíficas
+
+	_y dicho proceso es altamente recomendable que venga despues de haber hecho el proceso de "Stereo Converter",
+
+	ya que así, nos habremos asegurado que hemos correstamente el proceso de paralaje y automatización de forma
+
+	correcta y a su vez, éste proceso será siempre dinámico ya que podrmeos repetir y ajustar éste posteriormente
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener creadas dos composiciones creadas de trabajo, creadas por lo general por el proceso
+
+	del plugins "Stereo Converter", éstas son "LEFT", y "RIGHT RIGHT", una para cada lado del efecto de estereoscopia
+
+	3d
+
+	_para luego, seleccionar ambas composiciones en el panel "Project", y con ambas seleccionadas ir al panel 
+
+	"Stereo Viewer", y hacer "Generate Stereo Comps"
+
+	_para que así, el sistema nos genere una nueva carpeta ó folder, en el panel project, con el nombre de 
+
+	"STEREO VIEWER", en la cuál, encontraremos todas las composiciones gneradas para el proceso stereocophyc
+
+
+
+	_de ésta manera, las composiciones generadas tras el proceso de "Stereo Viewer", son las siguientes:
+
+		
+		_STEREO VIEWER
+
+			_ésta es la composición principal de visualización y acción e interacción con otros composiciones
+
+			para el proceso de producción posterior, otros
+
+
+			_en ésta composición se encuentra una layer, de tipo null, llamada "Stereo Controls", con dos 
+
+			controles con nombre de "Convergence", lo cuáles, tienen dos sliders, donde el primero es un 
+
+			slider, que nos permitirá aumentar ó disminuir el efecto de desface ó paralaje entre las cámaras 
+
+			ó tomas de left, y rigt
+
+
+			_y el segundo slider, nos permitirá controlar el zoom, ó acercamoento de la toma
+
+
+			_así, como también, estarán las composiciones "STEREO VIEWER PREVIEW", de forma visible y de 
+
+			forma oculta estarán las composiciones "STEREO VIEWER LEFT", "STEREO VIEWER RIGHT"
+
+
+		
+		_STEREO VIEWER GLOBAL ADJUSTMENT
+
+			_(indeterminado) (composición vacía)
+
+
+		_STEREO VIEWER LEFT
+
+			_ésta composición contiene una composición llamada "Global Adjustments", la cuál, está vacía
+
+
+			_así, como tambié, tiene un layer, de tipo null, con el nombre de "Local Adjustments", a través,
+
+			de la cuál, disponemos de una serie de controles ha modo de efectos los cuáles, son 
+
+			indeterminados
+
+
+			_así, como también, tiene otra composición llamada "RIGHT RIGHT", la cuál, se corresponde con la
+
+			composición que creamos correspondiente al lado derecho ó right
+
+
+		_STEREO VIEWER PREVIEW
+
+			_ésta composición hace de master, ya que en la cuál, podremos hacer ajustes sobre las 
+
+			composiciones "STEREO VIEWER LEFT", y "STEREO VIEWER RIGHT"
+
+			
+			_podremos hacer ajustes de tipo desface de color y mezcla de colores lo cuál, es muy importante
+
+			
+			_así, como también, podremos hacer justes de niveles, luminancia y gamma, balance de blancos
+
+
+		
+		_STEREO VIEWER RIGHT
+
+			_ésta composición tiene los mismos elementos que la composición "STEREO VIEWER LEFT", más con la
+
+			única diferencia que en vez, de la composición "RIGHT RIGHT", tiene es la composición "LEFT"
+
+
+
+	Stereo  Viewer:
+	_______________
+
+	
+		_Automatic Naming:
+
+			_ésta opción es recomendada y le permite al sistema renombrar de forma automática e 
+
+			intuitiva todas las layers, y composiciones generadas para conformar el sistema
+
+
+		_Keep Resolution:
+
+			_ésta opción le indica al sistema que conserve la proporción y tamaño de la resolución
+
+			de las composiciones seleccionadas iniciales, éstas son "Comp Left - Right"
+
+
+			_de ésta manera, el sistema no habrá composiciones con proporciones y tamaños diferentes
+
+			al generar el sistema más allá de las dimensiones de las composiciones originales
+
+
+		_Create Folder:
+
+			_ésta opción le indica al sistema que genere un folder, ó carpeta en el panel proyecto
+
+			en la cuál, guardará todas las composiciones necesarias para generar el sistema, ésta
+
+			opción es altamente recomendable para tener así, un orden dentro del proyecto y así,
+
+			como también, una fácil acceso a la estructura del sistema generado
+
+
+			_de ésta manera, el sistema generará una nueva folder, llamada "STEREO VIEWER", en el 
+
+			panel projecto
+
+
+			_y dentro de ésta folder, ó carpeta el sistema generará las siguientes composiciones al
+
+			generar el sistema, éstas son:
+
+
+				_STEREO VIEWER:
+
+					_ésta es la composición principal donde podremos encontrar los controles
+
+					del sistema a través, de una nueva layer, generada de tipo nul object, con
+
+					un nombre de "Stereo Controls"
+
+
+						_y dicha layer, "Stereo Controls", tiene aplicado los efectos de:
+
+
+							_Convergence:
+
+								_ésta opción controlará el paralaje general del 
+
+								sistema para sus canales "Left - Right"
+
+
+							_Scale:
+
+								_ésta opción controlará el efecto de perspectiva
+
+								ó zoom, lo cuál, aumentará ó disminuirá el efecto
+
+								de paralaje ó efecto anaglífico
+
+
+					_así, como también, tiene agregada la composición generada por el sistema
+
+					"STEREO PREVIEW", a través, de la cuál, podremos controlar el 
+
+					comportamiento del color "Rojo y Cyan", así, como el desface ó "Shift",
+
+					entre ambos canales "Left - Right"
+
+
+					_ya que la layer, "STEREO PREVIEW", contiene a su vez, las composiciones
+
+					generadas por el sistema de "STEREO VIEWER LEFT", "STEREO VIEWER RIGHT"
+
+
+
+				_STEREO VIEWER GLOBAL ADJUSTMENT:
+
+					_ésta opción está disponible para agregar efectos y elementos adicionales
+
+
+				_STEREO VIEWER PREVIEW:
+
+					_ésta composición nos permitirá controlar la interacción entre ambos 
+
+					canales del sistema "Left - Right", así, a través, de los efectos agregados
+
+					de "Shift Reds", "Channels Mixer", y "Levels", para ambos canales 
+
+					"Left-Right"
+
+
+					_podremos ajustar el color relacionado con el desface ó desplazamiento de 
+
+					los colores "Red-Cyan", así, como también, para ajustar los colores 
+
+					mezclados y variar los resultados de la interactividad del efecto logrado
+
+
+					_así, como también, dispondremos de un efecto niveles para ajustar el 
+
+					espectro de luminancia del efecto permitira para el sistema
+
+
+				_STEREO LEFT:
+
+					_ésta composición contiene tanto la layer, de "Global Adjustment", también,
+
+					para agregar efectos adicionales, otros
+
+
+					_así, como también, contiene una layer, agregada por el sistema de tipo
+
+					null object, con el nombre de "Local Adjustment", la cuál, tiene dos 
+
+					efectos apicados, éstos son: "Floating Window 1", y "Floating Window 1",
+
+					los cuales nos permitirá agregar transiciones de tipo desvanesimiento ó 
+
+					"Wipe", de forma invertirda entre sí ó encontrada de forma alternativa para
+
+					mejorar el sistema
+
+
+					_así, como también, ésta composición tendrá la composición original 
+
+					respectiva que hemos seleccionada como original, ej: "Left"
+
+
+				_STEREO RIGHT:
+
+					_ésta composición contiene tanto la layer, de "Global Adjustment", también,
+
+					para agregar efectos adicionales, otros
+
+
+					_así, como también, contiene una layer, agregada por el sistema de tipo
+
+					null object, con el nombre de "Local Adjustment", la cuál, tiene dos 
+
+					efectos apicados, éstos son: "Floating Window 1", y "Floating Window 1",
+
+					los cuales nos permitirá agregar transiciones de tipo desvanesimiento ó 
+
+					"Wipe", de forma invertirda entre sí ó encontrada de forma alternativa para
+
+					mejorar el sistema
+
+
+					_así, como también, ésta composición tendrá la composición original 
+
+					respectiva que hemos seleccionada como original, ej: "Right"
+
+
+
+
+		_Auto Advance Items:
+
+			_(Indeterminado)
+
+
+		_Swap Left + Right:
+
+			_ésta opción nos permite intercambiar las composiciones "Left - Right", indicadas por 
+
+			nosotros para que así, una haga por la otra dentro del sistema
+
+
+		_Optimized Anaglyph:
+
+			_(Indeterminado)
+
+
+		_Side by Side:
+
+			_(Indeterminado)
+
+
+		_Interveaved:
+
+			_(Indeterminado)
+
+
+		_Floating Window Adjustments:
+
+			_(Indeterminado)
+
+
+		_Global Adjustments:
+
+			_(Indeterminado)
+
+
+		_Generate Stereo Comps:
+
+			_éste botón nos permite generar el sistema a partir de dos composiciones "Left + Right",
+
+			creadas por nosotros previamente en el panel de proyecto
+
+
+
+
+
+

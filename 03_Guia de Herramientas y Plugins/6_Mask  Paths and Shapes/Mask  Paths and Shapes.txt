@@ -1,0 +1,73 @@
+
+6_Mask  Paths and Shapes, para After Effects
+
+
+	Referencia
+
+		http://aescripts.com/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+CopyMask2Layer 2:
+_________________
+
+	
+	Descripción: (intercambio y transpolación de máscaras entre layers, para producción)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(D) / Panel Proyecto / Referencia (Panel Proyecto por default)
+
+
+	Referencia en la web: http://aescripts.com/rift/
+
+
+ en la web: http://aescripts.com/copymask2layer/
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+BAO Perspective Changer:
+________________________
+
+	
+	Descripción: (éste permite hacer distorción de perspectiva ha layers)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(D) / Panel Proyecto / Referencia (Panel Proyecto por default)
+
+
+	Referencia en la web: http://aescripts.com/bao_perspective_changer/
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Align to Path:
+______________
+
+	
+	Descripción: (éste permite hacer animaciones a través, de trazados ó paths, de máscaras ó shapes)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(F) / Panel FxPro / Referencia (al lado derecho del Panel Proyecto por default)
+
+
+	Referencia en la web: http://aescripts.com/align-to-path/
+
+

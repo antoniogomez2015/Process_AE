@@ -1,0 +1,198 @@
+
+
+
+
+Normality
+
+
+	Referencia:
+
+		After Effects/3DS MAX Normality Tutoiral
+
+			https://www.youtube.com/watch?v=Xple2jSPmow
+
+
+
+Detalles: los siguientes plugins son de la casa "http://www.frischluft.com/", éstos se encuentran dentro del sistema en:
+
+
+	_"Effects/frischluft/.."
+
+	_"Effects/minning.de Normality/Normality"
+
+	_"Effects/Taronites/NormaliZe, y ZbornToy"
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste nos permite hacer sistemas de luces avanzados a través, de una mapa de normales, logrando el efecto similar
+
+	al conseguido por "Buena Depth Cue/Falloff Lighting"
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer un sistema de iluminación másrealistas, pudiendo partir de un "depth map", generado por nosotros
+
+	através, del proceso de "Buena Depth Cue/Depth", ó por medio de la generación de multi-maps, render, para tener así,
+
+	un mayor control y posbilidades, otros
+
+
+	
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+	_primero debemos crear una composición de trabajo
+
+
+	_luego debemos de carcar los pases de render, a panel proyecto
+
+
+	_luego debedemos de crear una composición de trabajo
+
+
+
+Diffuse pass base:
+__________________
+
+	_ahora procedemos a cargar dentro de la composición de trabajo el archivo pass "diffuse", ó de color
+
+
+	_éste lo duplicamos y lo renombramos ej "Normality", ésta layer duplicada la colocamos por encima de la orginal
+
+
+
+Light System:
+_____________
+
+	_ahora debemos crear un sistema de ilumninación, éste puede ser a partir de luces de tipo coint, ó spot,..
+
+	éste es fundamental para generar el efecto de volumetría a partir de los demás pases de render
+
+
+
+
+Normality Effect:
+_________________
+
+
+	_ahora seleccionamos la layer, que hemos duplicado y renombrado en el timeline, en éste caso es "Normality",
+
+	y ha ésta layer, le aplicamos un filtro ó efecto, "Effects/minning.de Normality/Normality", 
+
+	
+	_así, podremos ver que a partir de éste punto el la layer, responderá la influencia del sistema de iluminación
+
+
+
+Blending Mode:
+
+	_ahora debemos activar un modo de funsión para superponer ambas layers, tanto la original como la duplicada,
+
+	"Normality", para obtener así, un comportamiento más natural
+
+
+	_lo más recomendado es utilizar "Soft light", ó también, "screen", también, son usados los modos "Overlap",
+
+	y "Multiply"
+
+
+
+Depth Pass: (Recomendado)
+___________
+
+
+	_ahora debemos incorporar dentro del timeline, los demás render pass, de apoyo, en éste caso en "Depth map"
+
+
+	_para que así, podamos ir a las opciones de "Depth", del efect, "Normality", y cargar éste "Depth Map", de 
+
+	ésta manera lograremos mejores resultados y más realistas
+
+
+
+Normal Pass: (Recomendado)
+
+	
+	_de igual manera podremos repetir el paso anterior para incorporar un normal map, a la
+
+
+
+All Pass:
+_________
+
+
+	_el sistema también, contempla los siguientes pases de trabajo
+
+	
+	_también, dispone de controles de shading
+
+
+	Specular:
+
+		_ésta opción la podemos activar y es recomendable, activa las opciones de especular para el sistema
+
+	Incidence pass:
+
+		_
+
+	Rim Light pass:
+
+		_
+
+	Toon pass:
+
+		_
+
+	Gradient pass:
+
+		_
+
+	Matcap pass:
+
+		_
+
+	Reflection pass:
+
+		_
+
+	Refraction pass:
+
+		_
+
+	Texture pass:
+
+		_
+
+	Bump pass:
+
+		_
+
+	Blend pass:
+
+		_	
+
+
+
+
+
+
+
+

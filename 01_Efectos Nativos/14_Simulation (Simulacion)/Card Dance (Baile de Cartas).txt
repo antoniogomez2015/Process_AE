@@ -1,0 +1,341 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_éste nos permite hacer diferentes afectos de dispersión y transiciones así, como también, efectos y 
+
+	comportamientos especiales a través, de mapas y degradados de información ó valores de luminancia, color y 
+
+	demás tipos de información para diferentes procesos de producción y paso continuo
+
+
+	_para lo cuál, debemos de crear previamente la layer, ó composición a la cuál, le vamos ha aplicar el efecto 
+
+	así, como también, la layer, que hará de reverso del sistema de fragmentos así, como los mapas ha integrar 
+
+	dentro del sistema para que éste interactue
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Workflow:
+	_________
+
+	_Debemos aplicar el efecto a la layer, base la cuál, deseamo que sea la layer, frontal del sistema generado
+
+
+	_Para a continuación ir a la opción de "Gradient Layer 1", y allí, por lo general seleccionar la layer, a la
+	
+	cuál, le aplicamos el efecto para que así, ésta layer, sea asignada como layer, base ó visible por defecto 
+
+	en el sistema generado
+
+
+	_Para posteriormente ir a la opción de "Back Layer", y allí, seleccionar la layer, la cuál, hará de layer, de
+
+	reverso la que a su vez, representará la parte inversa del sistema generado
+
+
+	_Para que así, seguido ha ésto vayamos a las opciones de "Z Position:", y allí, en las sub-opciones de "Source",
+
+	seleccionar por lo general la opción de "Intensity 1", para que así, sea utilizado la luminancia de la layer,
+
+	base de la opción "Gradient Layer 1"
+
+
+	_para que así, tengamos disponible y hagan efecto las opciones de "Z Position/Multiplier", de ésta manera, a 
+
+	través, de ésta opción podemos desplazar y disperzar el sistema en el eje profundidad "Z", generando el efecto 
+
+	tridimensionalidad para completar el sistema generado en relación a su vez, a las opciones de "Rows/Columns"
+
+
+	_Para posteriormente bajar hasta las opciones de "Camara System", y allí, seleccionar la opción de "Comp Camara",
+
+	para que así, podamos hacer uso de una cámara existente previamente en la composición respectiva para poder así,
+
+	orbitar dentro del sistema 3d, generado de una forma más fácil
+
+
+
+
+	
+
+	Card Dance: (Baile de Cartas)
+	___________
+
+
+		_Rows & Columns:
+
+			_éste nos permite seleccionar el criterios de acción ó trabajo que tendrán los fragmentos 
+
+			entre si, de ésta manera, podremos elegir entre las opciones de:
+
+		
+				_Independent:
+
+					_éstas se comportarán de forma independiente entre si
+
+
+				_Columns Follows Rows:
+
+					_los fragmentos encontrados en las columnas ó verticales seguirán a los 
+
+					fragmentos encontrados horizontalmente
+
+
+
+		_Rows:
+
+			_ésta nos permite indicar la cantidad de fragmentos horizontales dentro de la composición 
+
+			activa para generar el sistema
+
+
+
+		_Columns:
+
+			_ésta nos permite indicar la cantidad de fragmentos verticales dentro de la composición 
+
+			activa para generar el sistema
+
+
+
+		_Back Layer:
+
+			_ésta nos permite indicar cuál, será la layer, que hará de reverso para los fragmentos del 
+
+			sistema en general
+
+
+
+		_Gradient Layer:
+
+			_éste opción nos permite indicar cuál, será la layer, que hará de mapa de densidad ó mapa
+
+			de luminancia para la generación del sistema 
+
+
+			_en ésta opción podemos colocar la misma layer, a la cuál, le hemos agregado el sistema
+
+
+
+		_Gradient Layer 2:
+
+			_éste nos permite indicar cuál, será la layer 2, que hará de mapa de información para 
+
+			interactur con el sistema 
+
+
+			_en ésta opción podremos colocar la layer, que hemos colocado como layer, de reverso ó "Back"
+
+
+
+		_Rotation Order:
+
+			_éste nos permite indicar cuál, será el criterio y orden de rotación del sistema entre los 
+
+			cuales podremos seleccionar una serie de preconfiguraciones en cordenadas
+
+
+
+		_Transformation Order:
+
+			_éste nos permite indicar cuál, será el criterio y orden de transformación del sistema entre 
+
+			los cuales podremos seleccionar una serie de pre configuraciones en propiedades como 
+
+			"Scale,Rotate,Position", en diferentes orden
+
+
+
+		_X | Y | Z Position:
+
+			_de ésta manera, a través, de diferentes criterios podremos controlar el sistema en 
+
+			cordenadas y propiedades específicas y para mapas concretos como los son:
+
+
+				_Información de Color "intensity 1, R,G,B 1 
+
+
+				_y en versiones horizontales (H), 
+
+
+				_ó verticales V",
+
+					_ de ésta manera, podremos seleccionar el criterio en relación a la información 
+
+					que tengamos en el mapa ha  interactuar a través, de los siguientes controles
+
+	
+
+			_Source:
+
+				_en éste podremos indicar el mapa ha utilizar para interactuar con el sistema
+
+
+		
+			_Multiplier:
+
+				_en éste podremos indicar la cantidad ó intensidad del efecto ha aplicar al sistema
+
+
+			_Offset:
+
+				_en éste podremos indicar el desface de la propiedad ó atributo sobre el sistema
+
+
+
+
+		_X | Y | Z Rotation:
+
+			_De ésta manera, a través, de los mismos parámetros y criterios podremos controlar la rotación
+
+			del sistema, para lo cuál, podremos seguir el mismo patrón y controles expresados en el paso
+
+			anterior
+
+
+
+		_X | Y Scale:
+
+			_Más también, a través, de los mismos parámetros y criterios podremos controlar la escala
+
+			del sistema, para lo cuál, podremos seguir el mismo patrón y controles expresados en los pasos
+
+			anteriores
+
+
+
+
+	_Camara System:
+
+		_éste nos permite indicar los criterio de cámara así, si ésta será tomada de la composición u otros
+
+
+		_Camara Position:
+
+			_ésta opción nos activa las opsiones de control de cámara manual por controles dentro
+
+			del mismos efecto de card dance, en cordenadas como "Rotation en X,Y,Z (X,Y - Z),
+
+			Focal Length, y Transform Order"
+
+
+		_Cámara Pins:
+
+			_ésta opción sólo nos activará 4 pines en los extremos de la composición a través, 
+
+			de los cuales podremos distorcionar el sistema ha modo de cámara
+
+
+		_Comp Cámara:
+
+			_ésta opción permite que una cámara existente dentro de la composición controle el
+
+			sistema permitiéndo que la cámara dentro de la composición pueda orbitar de forma 
+
+			3d, dentro del sistema de fragmentos entre otras posibilidades
+
+
+	Camara Position:
+´
+		_éste nos permite controlar la posición de la cámara de forma manual
+
+
+	Corner Pins:
+
+		_éste nos permite controlar los pones de forma numérica
+
+
+	Lighting:
+
+		_éste nos permite indicar el criterio de la iluminación del sistema permitiéndonos así seleccionar
+
+		entre iluminación generarada por el sistema así, como también, seleccionar una luz existente dentro 
+
+		de la composición respectiva
+
+
+		_Point Source:
+
+			_ésta opción nos emular uns luz puntual en la cuál, podremos graduar su intensisdad
+
+			color, posición, profundidad de la luz, luz global, (también, dispondremos de una 
+
+			handle, dentro de la composición)
+
+
+		_Distance Source:
+
+			_ésta opción es muy similar a la anterior más ésta contempa su posición en relación a
+
+			la distancia de la layer, de la cuál, fue creado el sistema 
+
+
+		_First Comp Light:
+
+			_ésta opción toma como referencia de eluminación para el sistema la primera luz, 
+
+			encontrada en la composición respectiva
+
+
+	Material:
+
+		_ésta opciones nos permitirán controlar un poco el sombreado de los fragmentos del sistema
+
+
+			_Diffuse Reflection:
+	
+				_éste nos permite controlar la refleción de cada fragmento del sistema
+
+
+			_Specular Reflection:
+
+				_éste nos permite controlar la especularidad de cada fragmento del sistema
+
+
+			_HighLight Sharpness:
+
+				_éste nos permite controlar las altas luces y enfocabilidad de cada fragmento del 
+
+				sistema
+
+
+
+

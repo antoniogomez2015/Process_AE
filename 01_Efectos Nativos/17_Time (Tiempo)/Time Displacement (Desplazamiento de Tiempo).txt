@@ -1,0 +1,158 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/time-effects.html#echo_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Desplazamiento de tiempo distorsiona la imagen desplazando píxeles en el tiempo, lo que produce 
+
+	una gran variedad de efectos. Por ejemplo, la técnica tradicional de "slit-scan", que captura diferentes 
+
+	etapas de una imagen en movimiento con el tiempo, puede simular el efecto Desplazamiento de tiempo.
+
+
+	_Este efecto funciona con colores de 8 bpc y 16 bpc
+
+
+
+	_Como con el efecto "Mapa de desplazamiento", el efecto Desplazamiento de tiempo, emplea un mapa de 
+
+	desplazamiento, pero basa el movimiento de los píxeles de la capa en valores de luminancia del mapa. 
+
+
+	_Los píxeles de la capa que correspondan a zonas más luminosas del mapa de desplazamiento se sustituyen por 
+
+	píxeles en la misma posición pero un número de segundos determinado más adelante en el tiempo. De igual 
+
+	modo, los píxeles de la capa que correspondan a zonas oscuras del mapa de desplazamiento se sustituyen por 
+
+	píxeles en un número de segundos determinado hacia atrás en el tiempo. 
+
+
+	_Puede utilizar cualquier capa como mapa de desplazamiento, aunque el uso de una imagen en escala de grises 
+
+	le permite ver los niveles de luminosidad más fácilmente y predecir cómo se desplazarán los píxeles.
+
+
+	_El efecto Desplazamiento de tiempo sustituye automáticamente los píxeles en el tiempo sin fotogramas clave 
+
+	ni expresiones. Con todo, puede animar otras propiedades para modificar el efecto con el paso del tiempo.
+
+
+
+	NOTA: éste efecto aplica correctamente si lo aplicamos sobre una layer, de tipo "Adjustment Layer", para que
+
+	así, ésta afecte a las layer, apiladas debajo de ésta y como en el valor de "Time Displacement Layer",
+
+	debemos de seleccionar la misma layer, de tipo adjustment, que hemos credo y sobre la cuál, hemos aplicado
+
+	el efecto
+
+	
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+	
+
+	Time Displacement: (Desplazamiento de Tiempo)
+	__________________
+
+
+		_Time Displacement Layer:
+
+			_Especifica la capa que va a utilizar como mapa de desplazamiento.
+
+
+		_Max Displacement Time [Sec]:
+
+			_es recomendable colocar valores pequemos de deformación como "0.2, ó 0.4"
+
+
+			_Define el tiempo máximo, en segundos, desde el que se sustituyen los píxeles, antes o 
+
+			después del tiempo actual. 
+
+
+			_Observe que solo los valores de luminancia de 0 o 255 (oscuridad máxima o brillo máximo) 
+
+			producen el máximo desplazamiento de tiempo. Todos los demás valores de luminancia producen 
+
+			desplazamientos de tiempo más cortos que el tiempo máximo.
+
+
+		_Time Resolution [fps]:
+
+			_éste valor define en nivel de interpolación ó suavizado en la deformación generada, el valor
+
+			por defecto es de "60", más podremos hacer deformaciones más toscar y cuadráticas bajando
+
+			éste valor
+
+			
+			_Define el número de fotogramas por segundo en los que se sustituyen píxeles. Normalmente, 
+
+			este valor no deberá ser mayor que la velocidad de fotogramas de la capa afectada. Un aumento
+
+			de la Resolución de tiempo, ampliará el tiempo de procesamiento de forma significativa.
+
+
+		_If Layer Size Differ:
+
+			_Si el tamaño de la capa difiere
+
+		_Stretch Map Fit:
+
+			_Redimensiona la Capa de desplazamiento de tiempo para que coincida con las dimensiones de la
+
+			capa que se está distorsionando. Si esta opción no está seleccionada, la capa de 
+
+			desplazamiento de tiempo se centra en la composición.
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

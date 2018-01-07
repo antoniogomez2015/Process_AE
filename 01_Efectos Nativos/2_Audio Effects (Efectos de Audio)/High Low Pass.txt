@@ -1,0 +1,83 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+		https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá a través, de ajustes simples homogenizar el audio tanto en sus parámetros para un 
+
+	sonido con graves ó un sonido con sólo agudos y muy pocos graves
+
+
+	Formatos:
+	_________
+
+	_los formatos más comúnes para el trabajo con audio son los siguientes en after effects:
+
+
+		_Mp3:
+
+			_éste es el formato más común y generalizado para la edición e intercambio de archivos de
+
+			audio
+
+
+		_Wav:
+
+			_éste es uno de los formatos más comúnes en el procesado e intercambio de archivos de audio
+
+
+
+	High Low Pass:
+	______________
+
+	_Filter Options:
+
+		_High Pass:
+
+			_ésta opción nos permitirá homogenizar el audio ha un audio con muy pocos graves, opción
+
+			útil para cierto tipo de audio vocal como conferencias, otros
+
+
+		_Low Pass:
+
+			_ésta opción nos permitirá homogenizar el audio ha un audio con un poco más de graves que
+
+			el audio normal
+
+
+	_Cutoff Frecuency:
+
+		_éste nos permitirá aumentar acentuar el efectos para el tipo de audio seleccionado, sea éste 
+
+		"High Pass", ó "Low Pass"
+
+
+	_Dry Out:
+
+		_(Indeterminado) (seco)
+
+
+	_Wet Out:
+
+		_(Indeterminado) (mojado)
+
+
+
+
+
+
+

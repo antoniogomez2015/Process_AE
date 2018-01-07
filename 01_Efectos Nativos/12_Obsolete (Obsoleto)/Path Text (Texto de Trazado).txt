@@ -1,0 +1,519 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+				https://helpx.adobe.com/es/after-effects/using/obsolete-effects.html#basic_3d_effect
+
+				
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+		Tutorial:
+
+			Extender limites de los objetos (Grow bounds) - After effects para principiantes
+				https://www.youtube.com/watch?v=qa8pdgAn-cY
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+	
+	NOTA: Los efectos de la categoría Obsoleto se conservan para permitir la compatibilidad con los proyectos 
+
+	creados con versiones anteriores de After Effects. Cuando se actualizan proyectos o se crean proyectos 
+
+	nuevos, debe usar efectos y técnicas alternativos en lugar de los efectos de la categoría Obsoleto.
+
+
+
+
+	_Si está trabajando en un proyecto que se creó en una versión anterior de After Effects y el efecto Texto de 
+
+	trazado se ha aplicado a una o más capas, puede seguir utilizando este efecto, o bien, utilizar capas de 
+
+	texto para lograr un mayor control del formato del texto y la animación del texto. 
+
+
+	_(Consulte Creación y animación de texto en un trazado).
+
+
+	_El efecto Texto de Trazado le permite la animación de un texto a lo largo de un trazado. Puede definir un 
+
+	trazado como una línea recta, un círculo de cualquier diámetro o una curva. También puede importar un trazado 
+
+	creado en otra aplicación, como Adobe Photoshop o Adobe Illustrator. 
+
+
+	_El efecto Texto de trazado puede funcionar con píxeles no cuadrados, ajustando la forma del carácter y del 
+
+	trazado como corresponda.
+
+
+	_Este efecto funciona con colores de 8 bpc.
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Path Text: (Texto de Trazado)
+	__________
+
+
+		_Information:
+
+			_ésta opción nos permitirá visualizar directamente en el panel effects controls, 
+
+			información de la fuente tipográfica utilizada por el sistema para generar el efecto así,
+
+			como también, la longitud del texto generado como también, la longitud del path, ó trazado
+
+			generado
+
+
+			NOTA: ésta opción no aplicará a trazados personalizados por nosotros
+
+
+		_Path Options:
+
+
+			_Shape Type:
+
+
+				_Beizer:
+
+					_ésta opción nos permitirá indicarle al sistema que éste genere un path,
+
+					ó trazado de tipo bezier, ó curva libre y abierta
+
+
+				_Circle:
+
+					_ésta opción nos permitirá indicarle al sistema que éste genere un path,
+
+					ó trazado de tipo circular y cerrada
+
+
+				_Loop:
+
+					_ésta opción nos permitirá indicarle al sistema que éste genere un path,
+
+					ó trazado de tipo circular y cerrada
+
+
+				_Line:
+
+					_ésta opción nos permitirá indicarle al sistema que éste genere un path,
+
+					ó trazado de tipo línea recta
+
+
+			_Control Points:
+
+				_Tangent 1/Circle Point:
+
+					_ésta opción nos permitirá indicarle al sistema la posición inicial del
+
+					trazado auto generado por el sistema, ésta opción también, la podremos
+
+					hacer a través, de unadle, directectamente en el viewport, del panel
+
+					compositing
+
+
+				_Vertex 1/Circle Centre:
+
+					_ésta opción nos permitirá indicarle al sistema la posición tangencial ó
+
+					curva inicial del trazado auto generado por el sistema, ésta opción 
+
+					también, la podremos hacer a través, de unadle, directectamente en el 
+
+					viewport, del panel compositing
+
+
+				_Tangent 2:
+
+					_ésta opción nos permitirá indicarle al sistema la posición final del
+
+					trazado auto generado por el sistema, ésta opción también, la podremos
+
+					hacer a través, de unadle, directectamente en el viewport, del panel
+
+					compositing
+
+
+				_Vertex 2:
+
+					_ésta opción nos permitirá indicarle al sistema la posición tangencial ó
+
+					curva final del trazado auto generado por el sistema, ésta opción también, 
+
+					la podremos hacer a través, de unadle, directectamente en el viewport, del 
+
+					panel compositing
+
+
+			_Custim Path:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos utilizar una path,
+
+				personalizado por nosotros a través, de máscara aplicada sobre la layer, base
+
+				sobre la cuál, hemos aplicado el efecto
+
+
+			_Reverse Path:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos invertir la 
+
+				orientación ó sentido del trazado generado
+
+
+		_Fill and Stroke:
+
+
+			_Options:
+
+
+				_Fill Only:
+
+					_ésta opción nos permitirá indicarle al sistema  que éste rellene de un
+			
+					color sólido al texto generado por el sistema
+
+				_Stroke Only:
+
+					_ésta opción nos permitirá indicarle al sistema  que éste rellene de un
+			
+					color sólido el contorno del texto generado por el sistema
+
+
+				_Fill Over Stroke:
+
+					_ésta opción nos permitirá indicarle al sistema  que éste rellene de un
+			
+					color sólido al texto generado por el sistema así, como también, al 
+
+					contorno del texto generado y a su vez, que coloque el relleno sobre el
+
+					contorno
+
+
+				_Stroke Over Fill:
+
+					_ésta opción nos permitirá indicarle al sistema  que éste rellene de un
+			
+					color sólido al texto generado por el sistema así, como también, al 
+
+					contorno del texto generado y a su vez, que coloque el contorno sobre el
+
+					relleno
+
+
+			_Fill Color:
+
+				_ésta opción nos permitirá indicarle al sistema un color personalizado a través,
+
+				el cuál, el sistema podrá colorear de un color sólido el relleno del texto 
+
+				generado por el sistema
+
+
+				_para lo cuál, dispondremos de un picker, como también, de un selector de color
+
+				a través, del cuál, podremos indicar un color personalizado
+
+
+			_Stroke Color:
+
+				_ésta opción nos permitirá indicarle al sistema un color personalizado a través,
+
+				el cuál, el sistema podrá colorear de un color sólido el contorno del texto 
+
+				generado por el sistema
+
+
+				_para lo cuál, dispondremos de un picker, como también, de un selector de color
+
+				a través, del cuál, podremos indicar un color personalizado
+
+
+			_Stroke Width:
+
+				_ésta opción nos permitirá indicarle al sistema el ancho del contorno generado
+
+				por el sistema 
+
+
+
+		_Character:
+
+
+			_Size:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el tamaño del texto
+
+				generado por el sistema
+
+
+			_Tracking:
+
+				_ésta opción nos permitirá indicarle al sistema la distancia ó separación entre
+
+				los carácteres que conforman el texto generado por sistema en relación a las
+
+				necesidades de animación
+
+
+			_Kerning:
+
+
+				_Kerning Pair:
+
+					_(Indeterminado)
+
+
+				_Kerning Value:
+
+					_ésta opción nos permitirá indicarle al sistema la distancia ó separación 
+
+					entre los carácteres que conforman el texto generado por sistema en 
+
+					relación a las necesidades de animación
+
+
+
+
+			_Orientation:
+
+
+				_Character Rotation:
+
+					_ésta opción nos permitirá indicarle al sistema el grado de rotación de
+
+					los carácteres generados por el sistema generado, de ésta manera, el 
+
+					texto podrá cambiar la orientación y apariencia
+			
+
+
+				_Perpendicular To Path:
+
+					_ésta opción nos permitirá indicarle al sistema que el texto trate de
+
+					señirse al trazado sobre el cuál, éste está creado
+
+
+				_Vertical Writing:
+
+					_ésta opción nos permitirá indicarle al sistema que texto generado por 
+
+					el sistema no se coloque sobre el trazado si no que en vez de eso, el
+
+					texto se coloque entre el trazado, es decir, en la parte intermedia de 
+
+					éste
+
+
+				_Rotate Roman Character:
+
+					_ésta opción nos permitirá indicarle al sistema que éste rote los 
+
+					carácteres para que así, éste aparezcan cabeza abajo
+
+
+					_ésta opción estará activa sólo cuando la opción de "Vertical Writing",
+
+					esté activada
+
+
+				_Horizontal Shear:
+
+					_ésta opción nos permitirá indicarle al sistema que éste incline los
+
+					carácteres generados por el sistema
+
+
+				_Horizontal Scale:
+
+					_ésta opción nos permitirá indicarle al sistema que éste escale los 
+
+					carácteres de forma independiente, en éste caso de forma horizontal
+
+
+				_Vertical Scale:
+
+					_ésta opción nos permitirá indicarle al sistema que éste escale los 
+
+					carácteres de forma independiente, en éste caso de forma vertical
+
+
+			_Paragraph:
+
+
+				_Alignment:
+
+
+					_Left/Right/Top/Buttom:
+
+						_ésta opción nos permitirá indicarle al sistema que éste alinee
+
+						el texto generado hacia la izquierda, derecho, arriba ó abajo 
+
+						respectivamente en relación al trazado sobre el cuál, se ha 
+
+						generado el sistema
+
+
+				_Left/Right/Top/Buttom Margin:
+
+					_ésta opción nos permitirá indicarle al sistema que realize 
+
+					desplazamientos del texto generado sobre el path, ó trazado utilizado
+
+					para la generación del sistema
+
+
+					_de ésta manera, podremos animar el sistema sobre el trazado en relación
+
+					ha una dirección determinada la cuál, podrá ser; izquierda, derecha, 
+
+					arriba ó abajo respectivamente
+
+
+				_Baseline Shift:
+
+					_ésta opción nos permitirá indicarle al sistema que texto generado por 
+
+					el sistema no se coloque sobre el trazado si no que en vez de eso, el
+
+					texto se coloque entre el trazado, es decir, en la parte intermedia de 
+
+					éste
+
+
+
+			_Advanced:
+
+
+				_Visible Characters:
+
+					_(Indeterminado)
+
+
+				_Fade Time:
+
+					_(Indeterminado)
+
+
+				_Mode:
+
+					_Normal:
+
+						_(Indeterminado)
+
+
+					_Difference:
+
+						_(Indeterminado)
+
+
+				_Jilter Settings:
+
+					
+					_Baseline Jilter Max:
+
+						_ésta opción nos permitirá indicarle al sistema la cantidad de
+
+						"wiggle", ó movimiento aleatorio sobre la ubicación inferior de
+
+						los carácteres sobre el trazado sobre el cuál, están creados
+
+
+					_Kerning Jilter Max:
+
+						_ésta opción nos permitirá indicarle al sistema la cantidad de
+
+						"wiggle", ó movimiento aleatorio sobre la separación de entre
+
+						los carácteres sobre el trazado sobre el cuál, están creados
+
+
+					_Rotation Jilter Max:
+
+						_ésta opción nos permitirá indicarle al sistema la cantidad de
+
+						"wiggle", ó movimiento aleatorio sobre la rotación de entre
+
+						los carácteres sobre el trazado sobre el cuál, están creados
+
+
+					_Scale Jilter Max:
+
+						_ésta opción nos permitirá indicarle al sistema la cantidad de
+
+						"wiggle", ó movimiento aleatorio sobre la escala de los 
+
+						carácteres sobre el trazado sobre el cuál, están creados
+
+
+					_Composite On Original:
+
+						_desactivando ésta opción le indicaremos al sistema que deseamos
+
+						éste auto genere un alpha, para que así, las layers, subyacentes
+
+						de la ocmposición respectiva sean visibles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

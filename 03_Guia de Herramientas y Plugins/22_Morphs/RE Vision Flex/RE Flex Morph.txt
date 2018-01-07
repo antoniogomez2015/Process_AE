@@ -1,0 +1,62 @@
+
+RE:Vision Plugins After Effects
+
+
+	RE:Flex Morph
+
+		1_Creamos una composición de duración ej: 10, segundos, en la cúal colocaremos dos capas que conformarán el efecto Morph 
+
+			1.1_la capa que se transformará la debemos colocar arriba de la otra
+
+			1.2_la capa que servirá de referencia visual y estructural la colocaremos debajo al final de la composición
+
+
+		2_la capa que se transformará le damos una duración en el timeline de 1, segundo aproximado y la colocaremos en el segundo "0"
+
+		3_la capa que servirá de referencia visual y estructural también le daremos una duración en el timeline de 1, segundo aproximadamente y ésta la coloremos al final de la composición
+
+		Observación: quedando así, un espacio vacío (negro) entre embas capas
+
+
+		4_luego seleccionamos ambas capas y las precomponemos y la llamamos ej Morph
+
+		5_a la composición Moph, que hemos creado le aplicamos un filtro yendo ha "Effects/RE:Vision Plu-ing/RE:Flex Morph"
+
+		6_luego en las opciones del efecto colocamos "RE:Flex Morph/Display/(Warped and Blended)"
+
+		7_luego en las opciones del efecto animamos "RE:Flex Morph/(picture key?)"
+
+			7.1_en el segundo "0", creamos un fotograma con la opcción en "On"
+
+			7.2_en el segundo "1", ó la duración cercana de la primera capa, colocamos otro fotograma con la opción en "Off"
+
+			7.3_en el último fotograma donde termina la composición y esta la última capa colocamos otro fotograma con la opción en "On"
+
+
+		8_luego procedemos a crear máscaras sobre los elementos a los cuales deseamos crearles transformación morph
+
+			8.1_estas máscaras las renombramos ej: motivo_1_from, y a continuación le asignamos un color "Roja" a las mismas (color requerido por el plugins para las formas pasivas)
+			
+			8.2_luego estas máscaras creadas las duplicamos (control+D), y las renombramos ej: motivo_1_to, y a continuación le asignamos un color "Verde" a las mismas (color requerido por el plugins para las formas activas)
+
+		9_ahora a las máscaras "To", de color "Rojo", debemos animalas hasta la nueva posición y forma en relación a la capa referencial y estructural, yendo al fotograma final de la composición
+
+			9.1_en el fotograma "0", ó inicial de la composición, creamos un keyframe en "Mask Path", y que au vez la opción "Picture Key?", esta en la opción "On"
+
+			9.2_en el último fotograma de la composición, creamos un keyframe en la prodiedad de las máscaras "Mask Path", y ajustramos y transformamos la forma de la máscaras "Rojas", hasta que estas tomen la forma deseada de la partes de la capa referencial inferior de composición inicial
+
+		Observación: así, al interpolar ambas imágenes ó capas se hará visible el efecto morph entre ambas capas gracias a la deformación lograda a través de las máscaras
+
+		10_Temporal Smooth, esta opción activada suavisa considerablemente la interpolación de la deformación
+
+		11_Hold Edges, activar esta opción permite que los bordes se mantengan en su sitio evitando así, que éstos no se desborden y abran huecos indeseados
+
+		12_Used Auto BLend %, si desactivamos esta opción podemos graduar la interpolación de las imágenes entre sí, en relación a la ubicación y el grado de deformación de las máscaras sobre el motivo
+			
+			12.1_luego de desactivar la opcion de "Used Auto BLend %,", ajustamos el grado "Mask Opacity", de las máscaras, shortcut "TT", ajustando el grado de opacidad ajustaremos el grado de interpolación de las imágenes para hacerlo coincidir con el grado de deformación de las máscaras, especialmente útil en casos especiales y requeridos
+
+		13_Auto Align, permite auto alinear por similitud la representación visual del contenido de ambas capas ó layers que conforman la interpolación, buscando un punto medio entre las mismas fusionando y auto alineando ambas capas
+
+		14_Smart Blend, esta opción activada ayuda a una interpretación de la escena mejorada recostruyendo los bordes, mejorando las transiciones entre las formas y aumentando la calidad en general
+
+

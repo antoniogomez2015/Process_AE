@@ -1,0 +1,91 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+		https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá afinar de gran manera el audio en general teniéndo la posibilidad de ajustar el espectro
+
+	del audio tanto en su frecuencia, amplitud e intensidad, otros
+
+
+	_lo cuál, es especialmente útil para la edición general de audio para la mayoría de producciones
+
+
+
+	Formatos:
+	_________
+
+	_los formatos más comúnes para el trabajo con audio son los siguientes en after effects:
+
+
+		_Mp3:
+
+			_éste es el formato más común y generalizado para la edición e intercambio de archivos de
+
+			audio
+
+
+		_Wav:
+
+			_éste es uno de los formatos más comúnes en el procesado e intercambio de archivos de audio
+
+
+
+	Parametric EQ:
+	______________
+
+	_Frecuency:
+
+		_podremos desplazar el espectro del audio hacia unas determinadas frecuencias las cuáles, pueden ir
+
+		desde "0Hz", hasta "21609Hz"
+
+
+	_Bandwidth:
+
+		_así, como también, podremos hacer ajustes de rangos para que el audio sólo ocupe un pequeño ó 
+
+		ámplio rango en específico
+
+
+		_lo cuál, nos permitirá afinar u homogenizar el audio en relación a nuestras necesidades
+
+
+	_Boot/Cut:
+
+		_más también, podremos aumentar ó disminuir la cantidad de decibeles que tendrá el audio de salida
+
+		para que así, podamos resaltar ó marginar cierto efectos de amplitud no deseados
+
+
+
+	NOTE: éstos tres controles nos permitirán también, atenuar e incluso eliminar ruidos y efectos no deseadas
+
+	como también, ruido en general y demás elementos no deseados en el audio resultante del proceso
+
+
+
+	Multi Band:
+
+		_más también, dispondremos de más un canal, de éste manera, dinspondremos de hasta tre canales para
+
+		la edición del audio los cuáles, podremos ver al unísono en el gráfico de curvas
+
+
+
+
+
+

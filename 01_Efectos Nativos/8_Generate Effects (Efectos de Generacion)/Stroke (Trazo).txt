@@ -1,0 +1,163 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria contornear layers, y máscaras para que así, podamos agregarles un visel ó reborde
+
+	el cuál, podremos colorear y utilizar en diferentes aplicaciones de producción y de constructivismo visual,
+
+	otros
+
+
+	_así, como también, para trazados de animación entre otras muchas posibilidades de producción
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Stroke: (Trazo)
+	_______
+
+
+		_Path:
+
+			_ésta opción nos permitirá seleccionar una máscara a través, de la cuál, se generará el 
+
+			sistema
+
+
+		_All Mask:
+
+			_ésta opción nos permitirá utilizar todas las máscaras existentes en la layer, sobre la
+
+			cuál, se ha aplicado el efecto
+
+
+		_Stroke Sequentially:
+
+			_(Indeterminado)
+
+
+		_Color:
+
+			_ésta opción nos pemritirá seleccionar un color personalizado para el sistema ó contorno 
+
+			ó stroke
+
+
+		_Brush Size:
+
+			_ésta opción nos permnitirá seleccionar un grosor ó ancho para el contorno ó stroke, del
+
+			sistema
+
+
+		_Brush Hardness:
+
+			_ésta opción nos permitirá indicar la acutancia ó desenfoque del contorno del sistema
+
+			lo cuál, nos permnitirá integrar mejor el sistema con las demás layers, del sistema como
+
+			también, nos permitirá crear efectos luminodos ó de motion graphycs, otros
+
+
+			_así, como también, generar efectos volumétricos, otros
+
+
+		_Opacity:
+
+			_ésta opción nos pemritirá graduar la opacidad del sistema lo cuál, también, nos pemritirá
+
+			integrar el sistema con las demás layers, de la composición respectiva
+
+
+		_Start:
+
+			_ésta opción nos permitirá animar el sistema a través, del tiempo y el trazado ó path, desde
+
+			el inicio hacia el final del sistema
+
+
+		_End:
+
+			_ésta opción nos permitirá animar el sistema a través, del tiempo y el trazado ó path, desde
+
+			el final hacia el inicio del sistema
+
+
+		_Spacing:
+
+			_ésta opción nos permitirá generar el sistema a través, de una línea, contorno, stroke, ó path,
+
+			de forma de línea contínua ó de línea punteada
+
+
+			_lo cuál, nos pemritirá crear de recorridos de trazados como de esféras volumétricas entre otras
+
+			posibilidades de procesos y paso contínuo, otros
+
+
+		_Paint Style:
+
+			_éta opción nos permitirá seleccionar el tipo de renderización y procesado del sistema de ésta
+
+			manera, podremos seleccionar entre los tipos de interacción:
+
+	
+				_On original Image:
+
+					_ésta opción nos permitirá mostrar tanto la layer, sobre la cuál, se ha aplicado el 
+
+					sistema así, como también, el propio sistema a través, de su color seleccionado
+
+
+				_On Transparent:
+
+					_ésta opción nos permitirá mostrar el sistema a través, del color seleccionado ocultando 
+
+					la visibilidad de la layer, sobre la cuál, se ha generado el sistema
+
+
+				_Reveal Original Image:
+
+					_ésta opción nos permitirá mostrar la layer, sobre la cuál, se ha generado el sistema a 
+
+					través, del sistema generado a modo de máscara ó matte
+
+
+
+					
+
+		
+
+
+

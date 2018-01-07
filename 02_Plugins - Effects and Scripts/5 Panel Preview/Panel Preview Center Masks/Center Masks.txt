@@ -1,0 +1,42 @@
+
+
+http://aescripts.com/centermasks/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/Center Masks:
+
+
+
+	_éste permite que podamos centrar una mascara en relación al centro de la layer, que la contiene,
+
+	ésto es muy útil para ciertos procesos de producción y generación automática de máscaras, entre
+
+	otras funciones y posibilidades
+
+
+	
+	Workflow:
+	_________
+
+
+	_primero debemos de tener creada una composición de trabajo
+
+
+	_luego debemos de genera una layer, ej, un solid, al cuál, debemos de crearle ó pegarle una máscara
+
+
+	_la debemos seleccionar en las opciones de la layer, y con la máscara seleccionada vamos a las opciones 
+
+	del panel "CenterMasks", y le damos a la opción de "Center"
+
+
+	_y de ésta manera la máscara se centrará en el centro de la layer, que la contiene de forma automática
+
+
+
+					

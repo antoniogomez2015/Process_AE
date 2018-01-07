@@ -1,0 +1,152 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá extender las posibilidades de los efectos de AutoColor, AutoLevels y AUtoContrast 
+
+	ó de trabajar  complementariamente
+
+
+	_para que así, más allá, de poder hacer ajustes automáticos ha nivel general sobre una layer, de video y a 
+
+	través, del tiempo podremos ahora por medio del efecto "Color Stabilizer", tener la posibilidad de ir 
+
+	cambiando los puntos de referencia ó targets, a través, de los cuáles el sistema tomará muestras en pixeles, sobre la
+
+	de la luminancia y color de la imágen
+
+
+	_lo cuál, nos permitirá hacer ajustes y variaciones de éstos para que así, podamos evitar artefactos,
+
+	objetos y áreas nos deseadas en la imágen las cuáles, influyan en el proceso
+
+
+	_de ésta manera, podremos animar éstos targets, a través, del tiempo en relación al tipo de corrección que
+
+	deseamos hacer
+
+
+	_por ejemplo podríamos colocar el target, de el punto de los blanco en el área más clara de la imágen, por
+
+	ejemplo en el cielo y animar la posición de éste target, en relación al cambio de las nubes y de los 
+
+	elementos improvistos sobre el cielo y ela imágen en general
+
+
+	_así, como también, por ende podremos animar los targets, para los medios tonos y sombras ó puntos ó gamma
+
+	de los negros
+
+
+	_de ésta manera, como podremos ver podremos hacer una corrección dinámica a través, del tiempo y 
+
+	personalizada en relación a las necesidades del video ha corregir
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Color Stabilizer: (Estabilizador de Color)
+	_________________
+
+	_Stabilize:
+
+		_ésta opción nos permitirá indicar el criterio ó algoritmo de acción ó trabajo sobre el cuál, se
+
+		realizará el estabilizado de color entre los cuáles, disponemos de los siguientes:
+
+
+			_Lightness:
+
+				_ésta opción hará el estabilizado de la imágen y color principalmente tomando en
+
+				cuenta los valores de luminancia del video original
+
+
+			_Curve:
+
+				_ésta opción hará el estabilizado de la imágen y color principalmente tomando en
+
+				cuenta los valores de luminancia y gamma tonal del video original
+
+
+			_Levels:
+
+				_ésta opción hará el estabilizado de la imágen y color principalmente tomando en
+
+				cuenta los valores de gamma del video original
+
+	_Black Point:
+
+		_ésta opción nos permitirá indicar la posición ó ubicación del target en éste caso para la gamma de
+
+		los negros de la imágen
+
+
+	_Mid Point:
+
+		_ésta opción nos permitirá indicar la posición ó ubicación del target en éste caso para la gamma de
+
+		los tonos medios de la imágen
+
+
+	_White Point:
+
+		_ésta opción nos permitirá indicar la posición ó ubicación del target en éste caso para la gamma de
+
+		los blancos de la imágen
+
+
+	_Sample Size:
+
+		_ésta opción nos permitirá indicar el tamaño del muestreo por target, puediendo así, indicar la 
+
+		cantidad de pixeles, contiguos del pixel seleccionado a partir de la posición de cada target, 
+
+		respectivo	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

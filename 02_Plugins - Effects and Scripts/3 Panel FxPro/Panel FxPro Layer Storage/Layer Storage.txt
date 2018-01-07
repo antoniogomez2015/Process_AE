@@ -1,0 +1,95 @@
+
+
+http://aescripts.com/layer-storage/
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Layer Storage
+
+
+	Panel FxPro/ Layer Storage
+
+
+	-este nos permite hacer un control de las layers, en elsentido de su organización y visualización así,
+
+	como su esquematización entre otras posibilidades
+
+
+
+	Groups:
+	_______
+
+	_para lo cuál, debemos de crear grupos a través, del ícono de carpeta ó folder, dentro del panel 
+
+	"Layer Storage"
+
+
+	Manager Groups:
+	_______________
+
+	_para luego agregar layers, dentro de los grupos que hayamos creado, para ésto debemos hacer uso del ícono
+
+	de "+", ó plus, para que el nombre de las layers, sea agregado al respectivo grupo así, como también, podremos
+
+	eliminar layers, de grupos para ésto debemos hacer uso del ícono "Eliminar"
+
+
+	Use Groups:
+	___________
+
+	_y por último, para hacer uso de los grupos existentes tenemos a la disposición los mismos botones de los suiches
+
+	de estados de layers, entre los cuales disponemos en éste panel de los siguientes:
+
+
+
+		_Isolate Active Group:
+
+			_éste botón nos permite hacer isolate de todo un grupo seleccionado, de ésta manera éste se
+
+			visualizará sólo en el timeline, ocualtando así, el resto de layers, en el timeline, éste
+
+			botón se encuentra en la parte superior del panel
+
+
+
+		_Hide Active group:
+
+			_éste botón nos permite ocultar todas las layers, que estén dentro de éste grupo en el viewport
+
+
+
+		_Solo Active Group:
+
+			_éste botón nos permite hacer un "solo", de layer, en el viewport, de todas las layers, dentro de
+
+			un grupo determinado
+
+
+
+		_Shy Active Group:
+
+			_éste botón permite hacer "shy", timido de layer, para que así, al activar ésta opción en la barra
+
+			principal del timeline, ésta layers, parte de éste grupo sean ocultadas en el timeline, más no en
+
+			el viewport
+
+
+		
+		_Select Layers Group:
+
+			_éste botón nos permite seleccionar todas las layers, dentro de un grupo respectivo
+
+
+
+
+
+
+
+
+	

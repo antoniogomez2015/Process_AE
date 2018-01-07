@@ -1,0 +1,97 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá eliminar imperfecciones de clips, de video y secuencias de imágenes como efectos
+
+	como por ejemplo; polvo y rascaduras entre otro tipos de imperfecciones en clips, antiguos los cuáles, presentan
+
+	deterioro por diferentes causas
+
+
+	_para que así, podamos disminuir y eliminar en alto grado éstas imperfecciones sobre el material de archivo
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Dust & Scratches: (Polvo y Rascaduras)
+	_________________
+
+
+		_Radius:
+
+			_ésta opción nos pemritirá indicar el radio ó alcance que tendrá el efecto para el conocimiento
+
+			y eliminación de partículas de polco y rasgaduras y demás imperfecciones en el material de
+
+			archivo
+
+
+		_Threshold:
+
+			_así, como también, podremos indicar un umbral ó capacidad de penetración del efecto en relación
+
+			al "Radius", indicado en el paso anterior y a su vez, en relación a la cantidad de patrones
+
+			de imperfecciones encontrados en el material de archivo analizado
+
+
+		_Operate in Alpha Channel:
+
+			_ésta opción nos permitirá indicarle al sistema que también, analice y haga correcciones sobre
+
+			en canal alpha, existente en la respectiva layer, a la cuál, le hemos aplicado el efecto
+
+
+
+		NOTA: en todos los valores es recomendado indicar valor muy bajos para que así, el material de archivo
+
+		no sea alterado para que así, no se produzcan efectos colaterales, otros
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

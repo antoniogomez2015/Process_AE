@@ -1,0 +1,123 @@
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+	
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE: Fill GrowShrink:
+____________________
+
+
+	_éste efecto nos permitirá corregir ó rellenar el canales alphas, así, como corregir los border del canal alpha, como 
+
+	canales de color y valores de luminancia, de ésta manera, podremos personalizar y ajustar canales en relación 
+
+	a las necesidades de la producción
+
+
+	_éste efecto nos permitirá corregir el canal resultante de proceso de keying, definiendo correctamente las áreas 
+
+	en alpha, tanto positivas como negativas aumentando la autancia y eliminando imperfecciones
+
+
+	_de ésta manera, podremos crear canales de color especiales con retracción y expansión a medida así, como también,
+
+	tendremos opciones de "feather", inversión de canales, y diferentes tipos de algoritmos ó modos de retracción 
+
+	y expansión de canales entre otras muchas posibilidades de cara a la producción
+
+
+
+
+	_Channel Input:
+
+		_
+
+
+	_Threshold Point %:
+
+		_
+
+
+	_Shrink-Grow Mode:
+
+		_
+
+
+	_Process Neighbor Mode:
+
+		_
+
+
+	_Shrink-Grow Size:
+
+		_
+
+
+	_Feather Size:
+
+		_
+
+
+	_Output Logic:
+
+		_
+
+
+	_Invert:
+
+		_
+
+
+	_Extend Rect Edges:
+
+		_
+
+
+	_Output Write Mode:
+
+		_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

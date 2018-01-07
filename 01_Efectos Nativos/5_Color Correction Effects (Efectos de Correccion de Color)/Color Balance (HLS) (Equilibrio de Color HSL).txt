@@ -1,0 +1,101 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá hacer virados en potencia para como correciones explícitas y concretas de forma
+
+	rápida y contundente
+
+
+	_a diferencia del efecto "Color Balance", en el cuál, podremos indicar el virado y ajuste de color por
+
+	canal y por brillo, medio tonos y sobras
+
+
+	_el efecto de "Color Balance (HSL)", (tono, saturación y brillo), nos permnitirá hacer virados a través, de 
+
+	un dial de forma compuesta y no dividido por canales ni tampoco por el filtrado luminocidad, medio tonos y 
+
+	sombras
+
+
+	_si no que en vez de ésto, las propiedades de brillo, medios tonos y sombras estarán unificados en dos
+
+	parámetros los cuáles son:
+
+
+		_Lightness:
+
+			_éste valor nos permitirá indicar la cantidad de brillo ó sombras de la imágen ó luminocidad
+
+
+		_Saturation:
+
+			_ésta opción nos permitirá indicar la cantidad ó intensidad, desaturación ó lavado del color
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Color Balance (HLS): (Equilibrio de Color HSL)
+	____________________
+
+	_Hue:
+
+		_ésta opción nos permitirá indicar 
+
+
+	_Lightness:
+
+		_ésta opción nos permitirá 
+
+
+	_Saturation:
+
+		_ésta opción nos permitirá indicar 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

@@ -1,0 +1,84 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria crear ó representar destellos de lente ó el efecto "llamarado", ó luz parásita 
+
+	dentro del objetivo de la cámara
+
+
+	_lo cuál, es especialmente útil para la generación de realismo y atmósferas, otros
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste efecto nos permtirá 
+
+
+
+
+
+	Lens Flare: (Destello de Lente)
+	___________
+
+
+		_Flare Center:
+
+			_ésta opción nos permitirá indicar el punto a través, del cuál, se generará el sistema de 
+
+			destello de lente ó "flare", directamente en el viewport, ó panel effects controls
+
+
+		_Flare Bridhtness:
+
+			_ésta opción nos permitirá graduar la intensidad ó brillo del sistema de ésta manera, 
+
+			podremos hacer que el efecto sea más acusado ó sutil
+
+
+		_Lens Type:
+
+			_ésta opción nos permitirá seleccionar entre una serie de preset, correspondiente a varios
+
+			tipos de objetivos ó lentes ópticos de fotografía emulados
+
+
+			_lo cuál, nos permitirá lograr diferentes efectos ó composición y comportamientos de flare
+
+
+		_Blend Width Original:
+
+			_ésta opción nos permitirá integrar ó fusionar el sistema con las demás layers, de la 
+
+			composición respectiva
+
+
+
+
+
+
+

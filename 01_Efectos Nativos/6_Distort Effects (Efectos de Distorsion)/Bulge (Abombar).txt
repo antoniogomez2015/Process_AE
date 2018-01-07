@@ -1,0 +1,116 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer deformaciones de inflado localizadas en una área ó perímetro determinado
+
+	de ésta manera, podremos utilizar éste tipo de deformación para diferentes efectos y animaciones 
+
+
+	_por ej; podremos simular el tracto respiratorio en el cuál, se desplaza alimento deglutido ó una pastilla, 
+
+	otros
+
+
+	_así, como también, generar la sensación de tridimensionalidad  a través, de la distorción esférica la cuál,
+
+	nos permitirá simular elementos convolúmen como gotas líquidos, otros
+
+
+	_de ésta manera, a través, de una estructura circular libre podremos limitar áreas circulares y ovoides para 
+
+	el efecto de deformación esférica a través, de cuatro handles, uno a cada esquina del sistema limitador
+
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Bulge: (Abombar)
+	______
+
+
+		_Horizontal Radius:
+
+			_distancia ó longitud en los handles, horizontales del sistema limitador del efecto
+
+
+		_Vertical Radius:
+
+			_distancia ó longitud en los handles, verticales del sistema limitador del efecto
+	
+
+		_Bulge Center:
+
+			_epicentro del sistema limitador del efecto a través, del cuál, podremos mover todo el 
+
+			sistema de deformación esférica
+
+
+		_Bulge Height:
+
+			_éste valor nos permnitirá indicar el valor ó intensidad del efecto sobre la imágen original
+
+
+		_Taper Radius:
+
+			_éste valor nos permitirá indicar el grado de calado entre el efecto y la imágen original
+
+
+		_Antoaliasing (Best Quality):
+
+			_éste selector nos permitirá seleccionar entre dos tipos de calidades del efecto así, 
+
+			podremos seleccionar entre las calidades de "Low/High"
+
+
+		_Panning/Pin All Edges:
+
+			_ésta opción nos permitirá activar las opciones de igualación de imágen para que así, el 
+
+			sistema trate suavizar el efecto en los bordes perimetrales para que el efecto se vea más
+
+			natural e integrado con la imágen original
+
+
+
+
+
+
+
+
+
+
+
+

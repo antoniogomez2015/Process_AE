@@ -1,0 +1,110 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+		https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá utilizar la información de "ID Object", que realicemos en aplicaciones así, como 
+
+	también, en algunos es a través, de la segmentación de elementos por medio de layers
+
+
+	_de ésta manera, podremos crear mattes, de colores sólidos los cuáles, podremos seleccionar posteriormente
+
+	para hacer selecciones y demás procesos de producción
+
+
+	_lo cuál, es especialmente útil para un sin número de alternativas de selección sumada y efectos múltiples
+
+
+	Formatos:
+	_________
+
+	_para trabajar con éste tipo de modalidad requeriremos trabajar con los siguientes tipos de archivos de
+
+	proceso e intercambio entre las aplicaciones 3d, y after effects, éstas son las siguientes:
+
+
+	NOTE: en principaio éste efecto esta listo para funcionar con todo tipo de formato de archivo de 
+
+	intercambio de información 3d, la cuál, pueda ser usada dentro de after effects, de ésta manera, éstos 
+
+	archivos de intercambio pueden ó no estar generados dentro de una aplicación 3d
+
+
+	_los archivo de tipo de intercambio más útiles y utilizados son:
+
+
+		_.prf
+
+			_archivo de tipo intercambio, es el más antiguo y no está disponible en todas las 
+
+			aplicaciones de forma nativa, éste da muy buenos resultados, éste formado está relacionado
+
+			principalmente en aplicaciones como softimage xsi
+
+
+		_OpenEXR:
+
+			_archivo de tipo intercambio, éste es el más común y está disponible en todas las 
+
+			aplicaciones modernas y actualizadas
+
+
+		_RLA / RPF:
+
+			_archivo de tipo intercambio, bastante funcional y está disponible principalmente en la
+
+			aplicación cinema 4d
+
+
+
+
+
+	IDtifier: (IDentifier)
+	_________
+
+	_Channel Info (Click for Dialog):
+
+		_ésta opción nos permite clickar, en ésta opción ó campo para que así, nos aparesca un menú 
+
+		contextual en el cuál, podremos seleccionar el tipo de criterio de acción como "ID Object", ó
+
+		"Material ID"
+
+
+		NOTE: éste efecto funciona mejor con procesos realizados con el método de "Extract EXR", ya que 
+
+		éste efecto es de la misma familia
+
+
+	_Display:
+
+		_ésta opción nos permitirá seleccionar el tipo de valor resultante entre los cuáles disponemos de
+
+		los siguinetes:
+
+			_color, luma, alpha, raw
+
+
+	_ID:
+
+		_ésta opción nos pemritirá seleccionar sólo grupos de ids, si éstos están configurados por id, 
+
+		dentro de la aplicación 3d, respectiva
+
+
+
+

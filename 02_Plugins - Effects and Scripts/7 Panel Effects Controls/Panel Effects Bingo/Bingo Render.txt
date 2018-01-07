@@ -1,0 +1,132 @@
+
+
+http://www.lequochai.com/tools/bingo.html
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Bingo
+
+
+	Bingo:
+
+
+	-este es otra sección o apartado del plugins, nos permite hacer procesados de render, de forma práctica
+
+	y automática a través, de pre configuraciones y preferencias de render e incluso a través, de intervalores
+
+	de render
+
+
+
+	Workflow:
+	_________
+
+
+	Render:
+	_______
+
+
+		_pestaña número 3 del plugins 
+
+					
+
+
+	Preview - Full Render - Range:
+
+
+		_ésta sección nos ofrece una descripción general de las opciones que son comúnes para todas éstas
+
+		opciones así, como también, se harán observaciones de las que no son comúnes entre si
+
+
+		_Output:
+
+			_ésta opción nos permite indicar un nombre para el volúmen de procesado ó render
+
+
+		_Output Folder:
+
+			_ésta opción nos permite indicar una ruta de salida para el render, por defecto éste tomará
+
+			la ruta del proyecto
+
+
+
+		_Draft H264 Format:
+
+			_ésta opción estará disponible sólo con la sección "Preview", de render activa
+
+
+		_Code ó Formato: (Recomendada)
+
+			_ésta opción estará disponible sólo con la sección "Full Rneder, y Range", de render activa,
+
+			la cuál, es la opción (más recomendada), por que nos permite elegir secuencias de imagenes
+
+
+		_Resolution Resize:
+
+			_ésta opción nos permite bajar ó subir la resolución de render en equivalentes, entre los 
+
+			cuales disponemos de:
+
+				
+				_Full
+
+				_Half
+
+				_Third
+
+				_Quarter
+
+
+		_Duration:
+
+			_"ésta opción estará disponible para los modos "Preview, y Full Render"
+
+
+			_y permite indicar si el render se hará por la longitud del "work area", ó la
+
+			duración completa ó total de la composición respectiva
+
+
+		_Range:
+
+			_"ésta opción estará disponible para los modos "Range"
+
+
+			_ésta opción nos permite indicarrango de fotogramas ó keyframes, ya renderizar expresados
+
+			en números separados por guiones, ej, "5-100", ésto quiere decir que el render se realizará
+
+			a partir desde el frame 5, hasta el frame 100
+
+
+			_más aún tenemos otra posibilidad, la de indicar varios rangos a la vez, en la misma instrucción
+
+			de render, ésto es posible separando las instrucciones por comas ",", ej: 5-100,20-80
+
+		
+		_Audio:
+
+			_ésta opción nos permite activar el renderizado de audio si las composiciones lo requieren
+
+
+		_Render_
+
+			_ésta opción nos permite lanzar el render, ó comenzar el render configurado previamente
+
+
+		_Estado:
+
+			_ésta opción nos muestra un cuadro de diálogo con el proceso ó estado del render actual
+
+			"rendered in ready..."
+
+
+
+

@@ -1,0 +1,202 @@
+
+
+http://aescripts.com/puppettools/#/discussion/embed
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+panel Effects Controls / PuppetTools 3
+
+
+	PuppetTools 3:
+
+
+	-este nos permite hacer el proceso de rig, de un character, de forma limiada ó por secciones, y bajo
+
+	unas condiciones de realización específicas
+
+
+	_a través, de la utilización de la herramienta nativa de "Puppet Tool", a través, de la cuál, éste plugins,
+
+	podrá generar su sistema de rigging
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener una composición de trabajo así, como de las layers, que conforman nuestros 
+
+	character
+
+
+	Layers:
+
+	_más es recomendable que éstas layers, las hayamos realizado en un programa de pixeles ó vectorial y organizado
+
+	por layers, en éste así, como también, haber renombrado éstas con nombres característicos e identificativos
+
+	de éstas layers
+
+
+	_aunque éste sistema no trabaja con layer, por articulación del body, sino, una layer, por extremidad completa
+
+	de ésta manera, no podremos hacer una layer, por ejemplo; una layer, por el "foreArm", y otra layer, por el "arm"
+
+
+	_si no que tendremos que hacer una sóla layer, por todo el conjunto del brazo la cuál, cubrirá al menos dos
+
+	articulaciones ó más, ej:
+
+
+		"Shoulder/Arm/ForeArm/Hand/Fingers"
+
+
+
+	Pins:
+
+	_ahora a través, de la herramienta de puppet tools, nativa de after effects, tendremos que ir creando pines, donde
+
+	corresponda una articulación de la extremidad del character, que estemos configurando
+
+
+	_y para acceder a la herramienta de puppet tool, ó títere tenemos el shortcut: "Control + P"
+
+
+
+	Pins To Nulls:
+
+	_ahora debemos utilizar éstos pins, que hemos creado de referencia para el sistema para que éste cree los puntos de
+
+	control ó layers, handles
+
+
+	_para lo cuál, tendremos que configurar las funciones y criterios del sistema previamente los cuales son:
+
+
+	NOTA: así, veamos los "checks", de forma pasiva ó inactivos podremos chequear éstos para que éstos se activen y pasen
+
+	ha funcionar normalmente
+
+
+
+		Parent-Chain Nulls:
+
+			_el sistema por lo genera ó por defecto crea el sistema de rigging, con kinemática directa ó "FK",
+
+			más si activamos ésta opción el sistema se generará con kinemática inversa ó "IK"
+
+
+		Null Size:
+
+			_ésta opción nos permite controlar el tamaño de los nulls, en el viewport, correspondientes a los
+
+			handles, ó controladores del sistema de tipo nulls, es recomendable indicar un valor de "100"
+
+
+		Name:
+
+			_ésta opción nos permtie personalizar el nombre que se les dará a las layers, de control ó handles,
+
+			de ésta manera podremos indicarle un frefijo ha ésta, ej:
+
+			
+				Handle,Pin
+
+
+			para que así, tengan como sufijo la palabra "Pin", más ambas palabras tendrán que estar separadas por
+
+			una ",", coma la cuál, es obligatorio colocarla
+
+
+		Master Parent Null:
+
+			_ésta opción nos permite crear una nueva layer, de tipo null, la cuál, hará de master ó de global rig, 
+
+			permitiendo controlar todo el sistema a través, de ésta la cuál, tendrá el nombre de "Name | Offset"
+
+
+			_ésta opción es muy útil para mover toda la extremidad como un sólo conjunto así, como también, para
+
+			poder emparentar y relacionar ésta extremidad con otras y todo el rig, del body, del character, en
+
+			general
+
+
+		Pins To Solid:
+
+			_ésta opción permite en vez, de crear nulls, como layers, de control ó handles, crear layers, de tipo
+
+			solid, semi transparentes, en éste caso será cuestión de prefencia
+
+
+		Lock and Shy Artwork:
+
+			_ésta opción permite ocultar algunas layers, del proceso en el timeline, a través, de la característica
+
+			de "shy"
+
+
+		Pins To Nulls:
+
+			_éste botón nos permitirá generar el sistema de rigging, en kinemática directa ó FK, lo cuál, es necesario
+
+			para crear la kinemátiva inversa y demás procesos
+
+
+		Create IK:
+
+			_más ahora para crear un sistema de kinemática inversa ó IK, debemos primero haber creado un sistema de FK,
+
+			a través, del botón y proceso de "Pins To Nulls", anterior
+
+
+			_para que de ésta manera, podamos seleccionar las 3, layers, de control ó handles, y con éstas seleccionadas
+
+			ir al panel "Puppet Tool V3.6", y darle al botón "Create IK"
+
+
+			_de ésta manera, el sistema generará una nueva layer, máster de control, con el nombre de "Name...CONTROLLER",
+
+			a través, de la cuál, ahora podremos manera el sistema IK, y la extremidad en general y a su vez, ha ésta layer,
+
+			master control, también, se le ha agregado un efecto el cuál, nos permitirá controlar el sentido de la IK, por
+
+			medio del siguiente control:
+
+
+				Flip IK:
+
+					Checkbox:
+
+						_a través, de éste check, podremos cambiar de forma automática el sentido de la 
+
+						articulación del punto de flexión e inflexión
+			
+
+
+		Layer To loop:
+
+			_ésta opción nos permtie hacer un efecto de loop, de animación de un character, ya terminado a través, de un 
+
+			efecto de time remap, ó remapeo de tiempo controlado
+
+		
+			_de ésta manera, podremos indicar la cantidad de veces que deseamos que éste se reproduzca para luego darle
+
+			al botón "Layer Loop"
+
+
+			_para que así, el sistema nos genere un sistema de time remap, con la configuración estipulada de animación
+
+			ó repetición
+
+
+		
+
+
+
+

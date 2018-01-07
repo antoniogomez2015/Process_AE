@@ -1,0 +1,58 @@
+
+
+
+
+Expresiones para After Effects
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Tutorial After Effects 058 Expresiones recursivas con indices de capa
+
+	https://www.youtube.com/watch?v=6696vafCrBk
+
+
+	_así la intensidad de la modificación será en proporción a la ubicación de la layer, de forma descendente
+
+	en la estructura ó índice de capas en el timeline
+
+	_el objetivo es configurar una layer, con éstos controles para luego duplicar ésta layer, y que se creen
+
+	así, los desfaces respectivos especialmente útil para motion graphycs
+
+	-----------------------------------------------------------------------------------------------------
+
+		Expression: time*index
+
+		Expression: time/index
+
+		Expression: time*10/index
+
+
+	----------------------------------------------------------------------------------------------------
+
+	Controles especiales para la escala:
+
+
+		Expresion: [70,70] | "éstos serían los valores tomados de la escala en 2d"
+
+		Expresion: [70-{*5},70-{*5}] | "así obtendremos una escala relativa en 2d de la original"
+
+		Expresion: [70-{index*5},70-{index*5}] | "así obtendremos una escala relativa en 2d de las copias"
+
+
+	----------------------------------------------------------------------------------------------------
+
+	Controles tono gradado:
+
+
+		Expresion: index*10 | "para gradar valor de (fill,tint), para instancias de layers"
+
+
+
+
+		

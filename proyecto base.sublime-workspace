@@ -1,0 +1,991 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"php"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"mis",
+				"misIconos"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ease",
+				"_ease-in"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"backgrou",
+				"background-attachment"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"ord",
+				"border"
+			],
+			[
+				"flex",
+				"flex-end"
+			],
+			[
+				"base",
+				"baseline"
+			],
+			[
+				"wa",
+				"wrap"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ta",
+				"target\tAttr"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"page",
+				"page2"
+			],
+			[
+				"lies",
+				"list-style"
+			],
+			[
+				"magi",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"s",
+				"statusActive"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"new",
+				"newTime"
+			],
+			[
+				"ahora",
+				"ahoraMismo"
+			],
+			[
+				"sali",
+				"salida_T"
+			],
+			[
+				"año",
+				"añoActual"
+			],
+			[
+				"pr",
+				"proof2"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"valo",
+				"valorDeMiCubo"
+			],
+			[
+				"onmo",
+				"onmouseout\tAttr"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"upp",
+				"upper-roman"
+			],
+			[
+				"lo",
+				"lower-roman"
+			],
+			[
+				"o",
+				"upper-roman"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"cata",
+				"catalogo_L2_1"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"he",
+				"helvetica"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"grid",
+				"grid_inmuebles"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"col",
+				"colummns"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"bo",
+				"border-right"
+			],
+			[
+				"sli",
+				"slideUp"
+			],
+			[
+				"tag",
+				"tag_L1_bottom"
+			],
+			[
+				"sl",
+				"slow"
+			],
+			[
+				"slide",
+				"slideDown"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"en",
+				"enlace"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"re",
+				"repeat-y"
+			],
+			[
+				"rep",
+				"background-repeat"
+			],
+			[
+				"bode",
+				"border"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ce",
+				"cerra_ventana"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"mi",
+				"miNuevoObjeto2"
+			],
+			[
+				"pla",
+				"platfrom"
+			],
+			[
+				"his",
+				"history"
+			],
+			[
+				"use",
+				"userMessage3"
+			],
+			[
+				"user",
+				"userMessage1"
+			],
+			[
+				"us",
+				"userMessage2"
+			],
+			[
+				"on",
+				"onmouseout\tAttr"
+			],
+			[
+				"a",
+				"apelldos"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"medi",
+				"media_sportSystem"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"sans",
+				"sans-serif"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"conta",
+				"containt"
+			],
+			[
+				"cont",
+				"containt"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pro",
+				"proveedores"
+			],
+			[
+				"u",
+				"ul\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n\n\n\n\thttp://www.digitalfilmtools.com/ezmask/\n\n\t\thttp://software.tiffen.com/products/dft-products/zmatte\n\n\n\t\thttp://software.tiffen.com/products/dft-products\t\n\t\thttp://software.tiffen.com/products/dfx-products\n\n\t\thttp://www.digitalfilmtools.com/supported-hosts/adobe-photoshop-plugins.php\n\n\n//////////////////////////////////////////////////////////////////////////////////////////////////////////////////\n\n\n\n\n\n\tCaracterísticas:\n\t________________\n\n\n\t\t_éste efecto nos permitirá crear un sistema de mattes, y el proceso de keyer, ó chromakey, a través,\n\n\t\tde colores estándares de la industria así, como también, a través, de otros criterios de tonos,\n\n\t\tsaturación, luminancia, otros\n\n\n\t\t_más no tendremos la posibilidad de realizar el proceso de keyer, ó chromakey, a través, de un color\n\n\t\tpersonalizado indicado ó seleccionado por nosotros\n\n\n\n\n\tWorkflow:\n\t_________\n\n\n\t\t_\n\n\n\n\n\tzMatter Keyer:\n\t______________\n\n\n\t\t_View:\n\n\n\t\t\t_Output:\n\n\t\t\t\t_ésta opción nos permitirá visualizar el resultado final del proceso de keyer, ó\n\n\t\t\t\tproceso de chromakey\n\n\n\t\t\t_Foreground:\n\n\t\t\t\t_ésta opción nos permitirá visualizar la imágen base ó imágen original\n\n\n\t\t\t_Background:\n\n\t\t\t\t_ésta opción nos permitirá visualizar la imágen que se encuentra más abajo en el\n\n\t\t\t\ttimeline, de la respectiva composición\n\n\n\t\t\t_Combined Matte:\n\n\t\t\t\t_ésta opción nos permitirá visualizar el matte, generado tanto del proceso primario\n\n\t\t\t\tcomo del proceso secundario del keyer ó chromakey\n\n\n\t\t\t_Primary Matte:\n\n\t\t\t\t_ésta opción nos permitirá visualizar el matte, generado en el proceso primario\n\n\t\t\t\tdel keyer\n\n\n\t\t\t_Secundary Matte:\n\n\t\t\t\t_ésta opción nos permitirá visualizar el matte, generado en el proceso secuendario\n\n\t\t\t\tdel keyer\n\n\n\t\t\t_Light Wrap:\n\n\t\t\t\t_ésta opción nos permitirá visualizar el calado perimetral de la silueta de la \n\n\t\t\t\timágen resultante del proceso de keyer, para hacer ajustes y afinaciones del proceso\n\n\n\t\t\t\t_de ésta manera, podremos visualizar el halo de luz de la silueta de la imágen entre\n\n\t\t\t\tla imágen recortada ó \"foreground\", y la imágen de fondo ó capa de abajo ó \n\n\t\t\t\t\"background\"\n\n\n\t\t\t_Edge Matte:\n\n\t\t\t\t_ésta opción es similar a la opción anterior de \"light wrap\", más en la opción de\n\n\t\t\t\t\"edge matte\", podremos ver el área perimetral del proceso de matte, resultante tanto\n\n\t\t\t\tdel proceso primario como el secundario sin el calado entre el foreground y el\n\n\t\t\t\tbackground\n\n\t\t\t\n\t\t\t\t_de ésta manera, podremos hacer ajustes de retracción de matte, y ajustes y detalles\n\n\t\t\t\tde los bordes de la imágen resultante\n\n\n\n\n\t\tDiArtfact:\n\n\n\t\t\t_Enable:\n\n\t\t\t\t_ésta opción activa la contemplación de alto detalle y ruido sobre la imágen \n\n\t\t\t\tresultante lo cuál, no es recomendable activar en la mayoría de procesos ya que \n\n\t\t\t\téste efecto es contraproducente para la mayoría de los casos\n\n\n\t\t\t_Horizontal Blur:\n\n\t\t\t\t_ésta opción nos permitirá hacer desenfoque horizontal sobre la imágen resultante\n\n\t\t\t\ten relación al ruido y alto detalle agregado a la imágen resultante\n\n\n\t\t\t_Vertical Blur:\n\n\t\t\t\t_ésta opción nos permitirá hacer desenfoque vertical sobre la imágen resultante\n\n\t\t\t\ten relación al ruido y alto detalle agregado a la imágen resultante\n\n\n\t\t\t_Gang Blur:\n\n\t\t\t\t_ésta opción nos permitirá unificar los controles de desenfoque del sistema de ruido\n\n\t\t\t\ty alto detalle de la imágen resultante para que así, ambos controles sean \n\n\t\t\t\tcontrolados a partir de un sólo control\n\n\n\t\t\n\t\tPrimary Matte:\n\n\t\t\t\n\t\t\t_Extract On:\n\n\n\t\t\t\t_Blue Screen:\n\n\t\t\t\t\t_ésta opción nos pemritirá realizar el proceso a través, del color azul\testandar\n\n\n\t\t\t\t_Green Screen:\n\n\t\t\t\t\t_ésta opción nos pemritirá realizar el proceso a través, del color verde estandar\n\n\n\t\t\t\t_Luminance:\n\n\t\t\t\t\t_ésta opción nos permitírá realizar el proceso a través, de los valores de luminancia ó gain, de la imágen\n\n\n\t\t\t\t_Hue:\n\n\t\t\t\t\t_ésta opción nos permitirá realizar el proceso a través, de los valores de tono y matíz, de la imágen\n\n\n\t\t\t\t_Saturation:\n\n\t\t\t\t\t_sta opción nos permitirá realizar el proceso a través, de los valores de saturación ó pedestal de la imágen\n\n\n\t\t\t\t_Average:\n\n\t\t\t\t\t_sta opción nos permitirá realizar el proceso a través, de un averaje entre luminancia y tonos de la imágen\n\n\n\t\t\t\t_Red | Green | Blue:\n\n\t\t\t\t\t_ésta opción nos permitirá realizar el proceso a través, de los valores de los canales bases de color de la imágen base de ésta manera, podremos escoger entre los canales rojo, verde y azul\n\n\n\t\t\t\t_Cyan | Magenta | Yellow:\n\n\t\t\t\t\t_ésta opción nos permitirá realizar el proceso a través, de los valores de los canales bases de color complementarios de la imágen base de ésta manera, podremos escoger entre los canales cyan, magenta y amarillo\n\n\n\n\t\t\t_Background:\n\n\t\t\t\t_ésta opción nos permitirá eliminar el color seleccionado en la opción \"Extract On\"\n\n\t\t\t\t_de ésta manera, con valores cercanos ha \"0\", eliminará más del respectivo color ó criterio seleccionado y con valores cercanos ha \"100\", eliminará menos color seleccionado conservando así, más parte de la imágen original\n\n\n\t\t\t_Foreground:\n\n\t\t\t\t_ésta opción nos permitirá aumentar ó disminuir la acutancia entre los tonos del matte, resultante del proceso\n\n\t\t\t\t_de ésta manera, con valores cercanos ha \"0\", aumentará la suvidado ó tramado entre los tonos del matte, generado para el proceso y con valores cercanos ha \"100\", aumentará la autancia, definición ó contrastre entre los tonos del matte, generado para el proceso\n\n\n\t\t\t_Position:\n\n\t\t\t\t_(indeterminado)\n\n\n\t\t\t_Range:\n\n\t\t\t\t_(indeterminado)\n\n\n\t\t\t_Back Clip:\n\n\t\t\t\t_ésta ópción nos permitirá complementar ó corregir el matte, generado para el proceso\n\n\t\t\t\t_de ésta manera, con valores cercanos ha \"0\", la acción será nula sobre el matte, resultante para el proceso, más con valores cercanos ha \"100\", podremos hacer más definidas las áreas negras del matte, generado para el proceso\n\n\n\t\t\t_White Clip:\n\n\t\t\t\t_ésta ópción nos permitirá complementar ó corregir el matte, generado para el proceso\n\n\t\t\t\t_de ésta manera, con valores cercanos ha \"0\", la acción será nula sobre el matte, resultante para el proceso, más con valores cercanos ha \"100\", podremos hacer más definidas las áreas blancas del matte, generado para el proceso\n\n\n\t\t\t_Shrink + Glow:\n\n\t\t\t\t_ésta opción nos permitirá extender ó retraer los bordes del matte, resulntate para el proceso\n\n\t\t\t\t_así, como también, de refinar y afinar los bordes de la imágen y por otra parte también, nos permitirá disfuninar los bordes del matte, resultante en cierta menera\n\n\n\t\t\t_Horizontal Blur:\n\n\t\t\t\t_ésta opción nos permitirá disfuninar el matte, resultante en el sentido horizontal lo cuál, nos pemritirá suavizar y eliminar imperfecciones en el matte, resultante así, como también, lograr una mejor integración con las demás layers, del proceso\n\n\n\t\t\t_Vertical Blur:\n\n\t\t\t\t_ésta opción nos permitirá disfuninar el matte, resultante en el sentido vertical lo cuál, nos pemritirá suavizar y eliminar imperfecciones en el matte, resultante así, como también, lograr una mejor integración con las demás layers, del proceso\n\n\n\t\t\t_Gang Blur:\n\n\t\t\t\t_ésta opción nos permitirá integrar ambos controles de desenfoque del matte, resultante a través, de uno sólo para que así, ambos controles sean manejados a través, de un sólo control\n\n\n\t\t\t_Wrap:\n\n\t\t\t\t_ésta opción nos permitirá agregar un halo de penumbra en el área perimetral de la imágen resultante\n\n\t\t\t\t_de ésta manera, con valores cercanos ha \"0\", la acción del halo agregado será nula, más con valores cercanos ha \"100\", la acción del halo será visible y marcada\n\n\t\t\t\t_lo cuál, nos pemritirá en algunos casos integrar mejor la imágen resultante con las demás layers, de la respectiva composición\n\n\n\t\t\t_Invert:\n\n\t\t\t\t_ésta opción nos pemritirá invertir el sentido del matte, para que así, las áreas de matte, blancas ahora pasen ha hacer negras y viceversa\n\n\n\n\t\tSecundary Matte:\n\n\n\t\t\tNOTA: para visualizar el resultado de éste proceso en el viewport, del panel compositing, debemos de ir a las opciones de \"View\", y allí, seleccionar la opción de \"Secundary Matte\"\n\n\t\t\t_más para ver el resultado acumulado e interacción entre ambos pases de matte, generado para el proceso de keyer, ó chromekey, debemos de seleccionar en las opciones de \"View\", la opción de \"Combined Matte\"\n\n\t\t\t_de ésta manera, éste segundo proceso de matte, nos permitirá crear diferentes efectos de producción, procesos creativos, otros así, como también, complementar el proceso generado en el primer pase de matte, ó \"Primary Matte\"\n\n\n\n\t\t\t_Enable:\n\n\t\t\t\t_ésta opción nos permitirá activar las opciones de matte, secundario\n\n\t\t\t\t_de ésta manera, podremos entender que las imperfecciones que nos hayan quedado sin corregir en el proceso de \"Primary Matte\", ahora las podremos corregir en éste segundo pase de forma acumulativa\n\n\n\t\t\t_Extract On:\n\n\n\t\t\t\t_Blue Screen:\n\n\t\t\t\t\t_ésta opción nos pemritirá realizar el proceso a través, del color azul\testandar\n\n\n\t\t\t\t_Green Screen:\n\n\t\t\t\t\t_ésta opción nos pemritirá realizar el proceso a través, del color verde estandar\n\n\n\t\t\t\t_Luminance:\n\n\t\t\t\t\t_ésta opción nos permitírá realizar el proceso a través, de los valores de luminancia ó gain, de la imágen\n\n\n\t\t\t\t_Hue:\n\n\t\t\t\t\t_ésta opción nos permitirá realizar el proceso a través, de los valores de tono y matíz, de la imágen\n\n\n\t\t\t\t_Saturation:\n\n\t\t\t\t\t_sta opción nos permitirá realizar el proceso a través, de los valores de saturación ó pedestal de la imágen\n\n\n\t\t\t\t_Average:\n\n\t\t\t\t\t_sta opción nos permitirá realizar el proceso a través, de un averaje entre luminancia y tonos de la imágen\n\n\n\t\t\t\t_Red | Green | Blue:\n\n\t\t\t\t\t_ésta opción nos permitirá realizar el proceso a través, de los valores de los canales bases de color de la imágen base de ésta manera, podremos escoger entre los canales rojo, verde y azul\n\n\n\t\t\t\t_Cyan | Magenta | Yellow:\n\n\t\t\t\t\t_ésta opción nos permitirá realizar el proceso a través, de los valores de los canales bases de color complementarios de la imágen base de ésta manera, podremos escoger entre los canales cyan, magenta y amarillo\n\n\n\n\n\t\t\t_BLend:\n\n\t\t\t\t_a través, de ésta opción podremos integrar éste sengundo pase de matte, para el proceso por medio de modo de fusión más comúnes y útiles incorporados en el sistema como \"add,screen,multiply, otros\"\n\n\t\t\t\t_de ésta manera, podremos lograr resultados más complejos y completos del proceso de generación del matte, resultante para el proceso de keyer, ó chromakey\n\n\n\t\t\t_Opacity:\n\n\t\t\t\t_ésta opción nos peemitirá controlar la influencia general de éste segundo pase de matte, resultando así, de ésta manera, podremos controlar la insidencia de éste segundo pase de matte, acumulativo\n\n\n\t\t\t_Background:\n\n\t\t\t\t_con valores vercanos ha \"0\", aumentarán las áreas negras del matte, resultante del proceso más con valores cercanos ha \"100\", aumentarán los blancos en la imágen resultante del proceso\n\n\t\t\t\t_de ésta manera, podremos complementar el proceso del \"\"Primary Matte\n\n\n\t\t\t_Foreground:\n\n\t\t\t\t_ésta opción nos permitirá aumentar ó disminuir los valores de acutancia entre los tonoes del matte, resultante del proceso de ésta manera, podremos aumentar ó disminuir el contraste y definición de los bordes del matte, resultante\n\n\t\t\t\t_de ésta manera, con valores cercanos ha \"0\", la interpolación entre los tonos del matte, resultante del proceso será mayor lo cuál, indicará una menor acutancia entre los tonos logrando así, una mayor gradación entre los tonos mejorando los bordes y el calado de éstos\n\n\t\t\t\t_y con valores cercano ha \"100\", la acutancia será mayor y la cantidad de tonos se verá reducida la mínima expresión aumentando el contraste y la permitida de detalle en los bordes\n\n\n\t\t\t_Position:\n\n\t\t\t\t_(Indeterminado)\n\n\n\t\t\t_Range:\n\n\t\t\t\t_(Indeterminado)\n\n\n\t\t\t_Back Clip:\n\n\t\t\t\t_ésta ópción nos permitirá complementar ó corregir el matte, generado para el proceso\n\n\t\t\t\t_de ésta manera, con valores cercanos ha \"0\", la acción será nula sobre el matte, resultante para el proceso, más con valores cercanos ha \"100\", podremos hacer más definidas las áreas negras del matte, generado para el proceso\n\n\n\t\t\t_White Clip:\n\n\t\t\t\t_ésta ópción nos permitirá complementar ó corregir el matte, generado para el proceso\n\n\t\t\t\t_de ésta manera, con valores cercanos ha \"0\", la acción será nula sobre el matte, resultante para el proceso, más con valores cercanos ha \"100\", podremos hacer más definidas las áreas blancas del matte, generado para el proceso\n\n\n\t\t\t_Shrink + Glow:\n\n\t\t\t\t_ésta opción nos permitirá extender ó retraer los bordes del matte, resulntate para el proceso\n\n\t\t\t\t_así, como también, de refinar y afinar los bordes de la imágen y por otra parte también, nos permitirá disfuninar los bordes del matte, resultante en cierta menera\n\n\n\t\t\t_Horizontal Blur:\n\n\t\t\t\t_ésta opción nos permitirá disfuninar el matte, resultante en el sentido horizontal lo cuál, nos pemritirá suavizar y eliminar imperfecciones en el matte, resultante así, como también, lograr una mejor integración con las demás layers, del proceso\n\n\n\t\t\t_Vertical Blur:\n\n\t\t\t\t_ésta opción nos permitirá disfuninar el matte, resultante en el sentido vertical lo cuál, nos pemritirá suavizar y eliminar imperfecciones en el matte, resultante así, como también, lograr una mejor integración con las demás layers, del proceso\n\n\n\t\t\t_Gang Blur:\n\n\t\t\t\t_ésta opción nos permitirá integrar ambos controles de desenfoque del matte, resultante a través, de uno sólo para que así, ambos controles sean manejados a través, de un sólo control\n\n\n\t\t\t_Wrap:\n\n\t\t\t\t_ésta opción nos permitirá agregar un halo de penumbra en el área perimetral de la imágen resultante\n\n\t\t\t\t_de ésta manera, con valores cercanos ha \"0\", la acción del halo agregado será nula, más con valores cercanos ha \"100\", la acción del halo será visible y marcada\n\n\t\t\t\t_lo cuál, nos pemritirá en algunos casos integrar mejor la imágen resultante con las demás layers, de la respectiva composición\n\n\n\t\t\t_Invert:\n\n\t\t\t\t_ésta opción nos pemritirá invertir el sentido del matte, para que así, las áreas de matte, blancas ahora pasen ha hacer negras y viceversa\n\n\n\n\n\t\tColor Suppress:\n\n\n\t\t\t_Auto Color:\n\n\t\t\t\t_ésta opción permitirá que el sistema seleccione el color ha suprimir de la imágen base en relación a su vez, al color seleccionado ó criterio en las opciones de \"Extract On\"\n\n\n\t\t\t_Color:\n\n\t\t\t\t_\n\n\n\t\t\t_Foreground:\n\n\t\t\t\t_\n\n\n\t\t\t_Range:\n\n\t\t\t\t_\n\n\n\t\t\t_Edge:\n\n\t\t\t\t_\n\n\n\n\t\tColor Correct:\n\n\t\n\t\t\t_Hue:\n\n\t\t\t\t_\n\n\n\t\t\t_Saturation:\n\n\t\t\t\t_\n\n\n\t\t\t_Brightness:\n\n\t\t\t\t_\n\n\n\t\t\t_Contrast:\n\n\t\t\t\t_\n\n\n\t\t\t_Gamma:\n\n\t\t\t\t_\n\n\n\t\t\t_Red | Green | Blue:\n\n\t\t\t\t_\n\n\n\t\t\t_Flash Amount:\n\n\t\t\t\t_\n\n\n\t\t\t_Flash Color:\n\n\t\t\t\t_\n\n\n\n\t\tLight Wrap:\n\n\n\t\t\t_Background:\n\n\t\t\t\t_\n\n\n\t\t\t_Light:\n\n\t\t\t\t_\n\n\n\t\t\t_Wrap:\n\n\t\t\t\t_\n\n\n\n\t\tEdge:\n\n\n\t\t\t_Size:\n\n\t\t\t\t_\n\n\n\t\t\t_Color-Correct:\n\n\t\t\t\t_\n\n\n\t\t\t_Horozontal Blur:\n\n\t\t\t\t_\n\n\n\t\t\t_Vertical Blur:\n\n\t\t\t\t_\n\n\n\t\t\t_Gang Blur:\n\n\t\t\t\t_\n\n\n\t\t\t_Opacity:\n\n\t\t\t\t_\n\n\n\n\t\tDVE:\n\n\n\t\t\t_Crop:\n\n\t\t\t\t_\n\n\n\n\t\t\t_Corner-Pin:\n\n\n\t\t\t\t_Upper Left | Right:\n\n\t\t\t\t\t_\n\n\n\t\t\t\tLower Left | Right:\n\n\t\t\t\t\t_\n\n\n\t\t\t_Position:\n\n\t\t\t\t_\n\n\n\t\t\t_Scale X | Y:\n\n\t\t\t\t_\n\n\n\t\t\t_Gang Scale:\n\n\t\t\t\t_\n\n\n\t\t\t_Rotate:\n\n\t\t\t\t_\n\n\n\t\t\t_Shear X | Y:\n\n\t\t\t\t_\n\n\n\t\t\t_Anchor X | Y:\n\n\t\t\t\t_\n\n\n\t\t\n\t\tForce 16-bit processing:\n\n\t\t\t_\n\t\t\t\t\n\t\t\t\t\t\n\n\n\n\n\n\n\t",
+			"file": "02_Plugins - Effects and Scripts/SUITE DFT zMatte v3/01  DFT zMatte Keyer.txt",
+			"file_size": 15415,
+			"file_write_time": 131491420102929687,
+			"settings":
+			{
+				"buffer_size": 14960,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"book",
+				"Bookmarks: Select Next"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control ",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 446.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/After Effects",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/After Effects/02_Plugins - Effects and Scripts",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/After Effects/02_Plugins - Effects and Scripts/SUITE DFT zMatte v3"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/php/01_estructuras_de_memoria_arrays_rrecorrer_arrays.php",
+		"/C/xampp/htdocs/php/01_estructuras_de_memoria_arrays_multidimensionales.php",
+		"/C/xampp/htdocs/php/01_estructuras_de_memoria_arrays_asociativos.php",
+		"/C/xampp/htdocs/php/01_estructuras_de_memoria_arrays_indexados.php",
+		"/C/xampp/htdocs/php/01_estructuras_de_memoria_variables.php",
+		"/C/xampp/htdocs/php/01_estructuras_de_memoria_constantes.php",
+		"/C/xampp/htdocs/php/01_estructuras_de_memoria_metodo_gettype().php",
+		"/C/xampp/htdocs/php/00_generales_concatenacion.php",
+		"/C/xampp/htdocs/php/01_variables.php",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Php/Estructura_y_Lenguaje/01_variables.php",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/xampp/htdocs/0_correoPlanes/Plantilla_OnLine.html",
+		"/C/xampp/htdocs/0_correoPlanes/planSocialMedia.html",
+		"/C/xampp/htdocs/grunt_pug_beautify/index.html",
+		"/C/xampp/htdocs/grunt_pug_beautify/proof.pug",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/grunt/000_grunt_guia_rapida.html",
+		"/C/xampp/htdocs/grunt_html_min/package.json",
+		"/C/xampp/htdocs/grunt_pug/Gruntfile.js",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/grunt/1_configurar_grunt.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/grunt/3_grunt_workflow.html",
+		"/C/xampp/htdocs/grunt_pug/src/proof2.js",
+		"/C/xampp/htdocs/grunt_pug/src/proof1.js",
+		"/C/xampp/htdocs/grunt_pug/dist/proof.min.js",
+		"/C/xampp/htdocs/grunt_pug/dist/index.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/grunt/99_grunt_uglify_minificar_javascript.html",
+		"/C/xampp/htdocs/grunt_pug/src/index.pug",
+		"/C/xampp/htdocs/grunt_pug/src/index.jade",
+		"/C/xampp/htdocs/grunt_pug/package.json",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Gulp/000_guia_rapida_de_funcionamiento.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/grunt/estructura de un proyecto grunt/less_sass/Gruntfile.js",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/00_generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/closures.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/nodejs/5_node_core_timers.html",
+		"/C/xampp/htdocs/sassalter/src/index.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/funciones_personalizadas.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_changing().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_join().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_pop().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_push().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_shift().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_splice().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_toString().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_unshift().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_lenght().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_pop.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_shift.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/window.prompt().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/operador_typeof().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/window.alert().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/console.log().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/bucle_for.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/bucle_ while.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/bucle_do_while.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/nodejs/0_generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/nodejs/00_front_end_and_back_end.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/less/0_generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/nodejs/4_node_core_objetos globales_process.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/bases_de_bases_de_datos/0_generales.html",
+		"/C/xampp/htdocs/sassalter/src/css/main.scss",
+		"/C/xampp/htdocs/sassalter/src/css/main.css",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/6_sass_mixins.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/15_sass_Bucle_Each.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/14_sass_Bucle_while.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/16_sass_Bucle_for.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/13_sass_condicional_IF().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/9_sass_import.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/7_sass_extend.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/5_sass_variables.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/3_sass_selectores_css.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/00_generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/4_codigo_anidado_(Nesting).html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/000_sass_intro.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/grunt/0_generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/grunt/1_configurar_grunt.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/grunt/2_livereload.html",
+		"/C/xampp/htdocs/sassalter/Gruntfile.js",
+		"/C/xampp/htdocs/lessproof/src/index.html",
+		"/C/xampp/htdocs/lessproof/src/css/less_style.less",
+		"/C/xampp/htdocs/lessproof/src/css/less_style.css",
+		"/C/xampp/htdocs/lessproof/src/css/alter.less",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/less/11_mixins_en_less.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/bases_de_programacion/1_aplicaciones_isomorficas.html",
+		"/C/xampp/htdocs/lessproof/src/css/alter.css",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/less/7_marge_en_less.html",
+		"/C/xampp/htdocs/lessproof/dist/css/less_style.css",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/LESS/README.md",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/less/1_configurando_sublimet_text.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/less/1_configurar_grunt.html",
+		"/C/xampp/htdocs/lessproof/Gruntfile.js",
+		"/C/xampp/htdocs/lessproof/package.json",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/less/2_livereload.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/less/3_grunt_workflow.html",
+		"/C/xampp/htdocs/lessproof/dist/index.html",
+		"/C/xampp/htdocs/sassproof/package.json",
+		"/C/xampp/htdocs/sassproof/Gruntfile.js",
+		"/C/xampp/htdocs/sassproof/dest/index.html",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/nodejs/2_repl.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/html/meta_tags.html",
+		"/C/Program Files/nodejs/echo.js",
+		"/C/Program Files/nodejs/ej/modulo1.js",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/html/metas.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/nodejs/4_node_core_objetos globales.html",
+		"/C/xampp/htdocs/sassproof/proof.html",
+		"/C/xampp/htdocs/sassproof/scss/main.scss",
+		"/C/xampp/htdocs/sassproof/css/main.css",
+		"/C/xampp/htdocs/sassproof/scss/_estructuras.scss",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/15_sass_Buble_Each.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/CSS/6.18_media_queries.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/bases_de_programacion/0_generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/12_sass_interpolacion_de_variables.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/8_sass_placeholder.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/CSS/6.17_flexbox.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/nodejs/4_node_core.html",
+		"/C/Program Files/nodejs/preload.js",
+		"/C/Program Files/nodejs/socket.js",
+		"/C/Program Files/nodejs/repl.js",
+		"/C/Program Files/nodejs/servidor.js",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/nodejs/1_variables_de_entornohtml.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/10_sass_color_functions.html",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/sassproof/3_codigo_anidado_(Nesting).html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/sublime_text/3_shortcuts.html",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dist",
+			"slice",
+			"concat",
+			"toString",
+			"Splice",
+			"Push",
+			"Pop",
+			"entorno",
+			"confirm",
+			"alert",
+			"elemento",
+			"i",
+			"-(#{$",
+			"hijos",
+			"indice",
+			"var",
+			"div",
+			"singleColor",
+			"elements",
+			"singleColor",
+			"elements",
+			"singleColor",
+			"header",
+			"var",
+			"aver",
+			"demo",
+			"proof",
+			"miBg",
+			"misIconos",
+			"iccons2",
+			"icon",
+			"type",
+			" $",
+			"type",
+			"width",
+			"Control",
+			"repetir",
+			"div",
+			"width",
+			"h2",
+			"_cerrar",
+			"h2",
+			"otros",
+			"ser",
+			"multiservicioshostelar",
+			"post_1_L1_tumb4",
+			"red",
+			" \n",
+			">\n",
+			"Villegas",
+			".hero-unit",
+			".hero/unit",
+			"btn-primary",
+			"h2",
+			"screen_divisiones_sub_divisiones_7"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ul"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "02_Plugins - Effects and Scripts/SUITE DFT zMatte v3/01  DFT zMatte Keyer.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14113,
+								14113
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 11457.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto base.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"source\\css\\main - copia.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

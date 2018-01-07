@@ -1,0 +1,211 @@
+
+
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+		DEFlicker Tutorials/Playong List:
+
+			https://www.youtube.com/watch?v=ROG9Cx09xr4&list=PLJZE0COAfWUXTkWdhbkaO5GflW3hWJZ4h
+
+
+		RE:Flex (17 Videos)
+
+			https://www.youtube.com/playlist?list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v
+
+
+		RE:Flex Morph - Morphing between moving images
+
+			https://www.youtube.com/watch?v=t0lcSHYiOJg&list=PLJZE0COAfWUW_LtSdPZeHIECquRZQhn5v&index=2
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+RE:VisionFx RE: Map UV:
+_______________________
+
+
+	_éste efecto nos permitirá remapear objetos 3d, con diferentes texturas en after effects, renderizados
+
+	previamente en diferentes pases, para producción
+
+
+	_de ésta manera, podremos extender las posibilidades de integración así, como la modificación, creación y
+
+	ajustes de mapas animables y altamente editables para diferentes procesos de producción
+
+
+	_es recomendable utilizar en éste proceso un mapa de "ID Object", ó isolate map, para que así, podamos aislar
+
+	el motivo del fondo residual del mapa UVMap
+
+
+
+
+
+	RE: Map UV Options:
+	___________________
+
+
+	_Warp Mode:
+
+
+		_Result:
+
+			_ésta opción nos permitirá visualizar el resultado final del mapeado 3d, sobre las uvs, 
+
+			de la geometría 3d, referencias
+
+
+		_Show Texture Map:
+
+			_ésta opción nos permitirá visualizar la layer, de forma plana ó desplegada que hará de mapa ó 
+
+			textura la cuál, será proyectada ó remapeada sobre las UVs, del modelo 3d, de referencia
+
+
+		_Show UV with Edges:
+
+			_ésta opción nos permitirá visualizar la layer, de forma plana ó desplegada que hará de mapa 
+
+			UV, de la cuál, se tomará la información para la proyección y remapeo 3d
+
+
+		_Check UVs:
+
+			_ésta opción nos permitirá visualizar las uvs, ó volumetría del objeto 3d, referencial ha modo
+
+			de imágen representada con vertex
+
+
+
+	_Texture:
+
+		_ésta opción nos permitirá seleccionar una layer, la cuál, hará de textura la cuál, será proyectada ó remapeda
+
+		a través, de las uvs, del modelo de refencia 3d
+
+
+	_Crop Top Left TexMap:
+
+		_ésta opción nos permitirá desplazar la textura mapeada de forma dinámica a través, de handles, directos 
+
+		en el viewport, de la parte superior izquierda
+
+
+	_Crop Bottom Right TexMap:
+
+		_ésta opción nos permitirá desplazar la textura mapeada de forma dinámica a través, de handles, directos 
+
+		en el viewport, de la parte inferior derecha
+
+
+	_Tile Repeat X:
+
+		_ésta opción nos permitirá hacer repetir la textura mapeada en la cordenada "x", u horizontal para que así,
+
+		podamos modular la textura a través, del mapa uv, del objeto 3d, referencial
+
+
+	_Tile Repeat Y:
+
+		_ésta opción nos permitirá hacer repetir la textura mapeada en la cordenada "y", ó vertical para que así,
+
+		podamos modular la textura a través, del mapa uv, del objeto 3d, referencial
+
+
+	_Flip:
+
+		_ésta opción nos permitirá invertir la textura la cuál, deseamos remapear, tanto en la cordenada "X,Y", como
+
+		en las cordenadas "XY", a la vez
+
+
+	_Tile Repeat Pattern X:
+
+		_ésta opción nos permitirá indicar el modo de remuestreo ha utilizar por el sistema de ésta manera, podremos
+
+		seleccionar entre los modos "Repeat [[[[[", y "Alternate[][][]", de ésta manera, podremos cambiar el 
+
+		comportamiento del patrón generado por la textura resultante en la cordenada "X", u horizontal
+
+
+	_Tile Repeat Pattern Y:
+
+		_ésta opción nos permitirá indicar el modo de remuestreo ha utilizar por el sistema de ésta manera, podremos
+
+		seleccionar entre los modos "Repeat [[[[[", y "Alternate[][][]", de ésta manera, podremos cambiar el 
+
+		comportamiento del patrón generado por la textura resultante en la cordenada "Y", ó vertical
+
+
+	_Position Offset X:
+
+		_ésta opcíón nos peritirá desplazar la textura de forma controlada en la cordenada "X", u horizontal para
+
+		que así, podamos re ajustar de forma exacta ó precisa la textura resultante
+
+
+	_Position Offset Y:
+
+		_ésta opcíón nos peritirá desplazar la textura de forma controlada en la cordenada "Y", ó vertical para
+
+		que así, podamos re ajustar de forma exacta ó precisa la textura resultante
+
+
+	_MipMap?:
+
+		_ésta opción nos permitirá suavizar los pixeles ha nivel general de la imágen ó mapa resultante
+
+
+	_Mip Amount %:
+
+		_ésta opción nos permitirá graduar la cantidad de suavizado sobre los pixeles ha nivel general del paso 
+
+		anterior
+
+
+	_Edges Threshold %:
+
+		_ésta opcíon nos permitirá graduar el umbral de la acutancia ó suavizado de los bordes de la textura 
+
+		resultante
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

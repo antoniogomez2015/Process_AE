@@ -1,0 +1,390 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria crear ondulaciones concéntricas con ritmo ó patrones regulares así, como también, 
+
+	para la generación mapas, mates, y demás procesos de producción y paso contínuo
+
+
+	_podremos crear sistemas con forma circular ó con formas personalizadas a partir de una máscara ó incluso por 
+
+	valores de una layer, como luminancia, otros otros
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Radio Waves: (Ondas de Radio)
+	____________
+
+
+		_Producer Point:
+
+			_ésta opción nos permitirá indicar el epicentro a partir del cuál, se comenzará ha generar el 
+
+			sistema
+
+
+		_Parameters are set at:
+
+			_ésta opción nos permitirá indicar el tipo de criterio ó muestreo para la generación del sistema
+
+			así, podremos seleccionar entre una emisión por cada fotograma ó una generación constante a 
+
+			partir del nacimiento del mismo sistema
+
+
+		_Render Quality:
+
+			_ésta opción nos permitirá haver variaciones del valor ó calidad del sistema ó cuál, nos permitirá
+
+			agregar ó disminuir la calidad del sistema en relación al efecto deseado así, como tmabién, para
+
+			alivianar el proceso de producción y diseño
+
+
+		_Wave Type:
+
+			_ésta opción nos permitirá indicar el tipo de criterio ha utilizar para la generación del sistema
+
+			de ésta manera, podremos utilizar formas geométricas base prestablecidas por el sistema, formas
+
+			personalizadas a través, de máscaras ó información obtenidos de imágenes auxiliares
+
+
+				_Polygon:
+
+					_ésta opción nos permitirá realizar radiaciones circulares y concéntricas
+
+
+				_Image Contour:
+
+					_ésta opción nos permitirá obtener información de imágenes y sus contornos a través,
+
+					de valores como alpha, R,G,B, luminancia, hue, saturation, otros, para la generación
+
+					del sistema a través, de esos criterios ó lecturas
+
+
+				_Masks:
+
+					_ésta opción nos permitirá crear el sistema a través, de formas personalizadas 
+
+					concretar y no sugeridas como la del caso de "Image Contour", de ésta manera, podremos
+
+					hacer radiaciones de formas concretas las cuáles, podrán cambiar en el tiempo, otros
+
+
+					_para lo cuál, debemos de crearle máscaras a la misma layer, sobre la cuál, hermos 
+
+					aplicado el efecto
+
+
+		_Polygon
+
+
+			_Sides:
+
+				_ésta opción nos permitirá indicar la cantidad de lados que tendrá el sistema así, éste 
+
+				podrá conformar círculos perfectos ó formas más triangulares al tener sólo tres lados
+
+
+			_Curve Size:
+
+				_ésta opción nos permitirá suavizar las curvas ó ángulos generados en relación a la cantidad
+
+				de lados ó "sides", configurados en el paso anterior de ésta manera, podremos lograr
+
+				diferentes formas y efectos más ó menos geométricos en éste caso, podremos entonces, generar
+
+				formas más ó menos triangulares con los bordes redondeados ó no
+
+
+			_Curvyness:
+
+				_ésta opción nos peritirá convertir las áreas curveadas por el paso anterior en áreas 
+
+				rectilíneas lo cuál, ampliará las posibilidades de creación de formas más complejas así, en
+
+				éste caso podremos crear formas mixtas
+
+
+			_Star:
+
+				_ésta opción nos permitirá crear formas más complejas de las circulares ha triangulares si
+
+				no que también, podremos crear formas de tipo estrella hasta de tipo engranajes entre otras
+
+				muchas otras formas posibles ó configurables
+
+
+			_Start Depth:
+
+				_ésta opción nos permnitirá abombar ó contraer las formas generadas con la opción "Star",
+
+				activada así, podremos crear formas con el efecto de distorsión de "barril", y "cojín", lo
+
+				cuál, aumentará aún más las posibilidades de creación de formas más complejas
+
+
+
+		_Image Contour
+
+
+			_source Layer:
+
+				_ésta opción nos permitirá seleccionar la layer, de la composición respectiva que hará de
+
+				layer, proxi, sobre la cuál, se tomará la información para la generación del sistema
+
+
+			_Source Center:
+
+				_ésta opción nos pemritirá indicar el epicentro del sistema a partir del cuál, se comenzará
+
+				propiamente ha generar el sistema
+
+		
+			_Value Channel:
+
+				_ésta opción nos permitirá seleccionar el criterio a través, del cuál, se tomará el tipo de
+
+				información de la cuál, se generará el sistema, ésta puede ser de diferentes tipos como:
+
+				
+					_alpha, rgb, hue, saturation, lightness, otros
+
+
+			_Invert Input:
+
+				_ésta opción nos permitirá invertir los valores de la layer, proxi, de la cuál, se está tomando
+
+				la información para la generación del sistema en relación al tipo de información seleccionada
+
+				de ésta como "alpha, rgb, hue, saturation, lightness, otros"
+
+
+			_Value Threslhold:
+
+				_éta opción nos pemitirá controlar la cantidad de información obtenieda de la layer, proxi, así,
+
+				como también, la capacidad de penetración ó umbral sobre la respectiva imágen
+
+
+			_Pre-Blur:
+
+				_ésta opción nos permnitirá pre-desenfocar la imágen proxi, para que así, la información obtenida
+
+				de unos resultados más homogéneos ésto es especialmente útil en imágen muy complejas ó con un 
+
+				contenido ha modo de profusión
+
+
+			_Tolerance:
+
+				_ésta opción nos permitirá indicar la cantidad de gradación ó posterización de la información 
+
+				obtenida de la imágen proxi, lo cuál, arrojará una información más regular ó con más acutáncia ó
+
+				abrupta
+
+
+			_Contour:
+
+				_ésta opción nos permitirá indicar la cantidad ó capacidad de muestreo de la imágen, por lo general
+
+				con un sampleo de "1", obtendremos los mejores resultados
+
+
+
+		_Mask
+
+			_Mask:
+
+				_ésta opción nos permitirá seleccionar una de las máscaras disponible en la respectiva layer, sobre 
+
+				la cuál, se ha aplicado el efecto
+
+
+				_de ésta manera, el sistema se comenzará ha generar a partir de ésta respectiva forma de la máscara 
+
+				seleccionada
+
+
+
+
+		_wave Motion
+
+
+			_Frecuency:
+
+				_ésta opción nos permitirá indicar la cantidad de instancias ha generar por el sistema de la 
+
+				respectiva forma generada
+
+
+			_Expansion:
+
+				_ésta opción nos permitirá indicar la escala ó acercamiento del sistema lo cuál, nos permitirá
+
+				indicar la profundidad ó perspectiva del sistema
+
+
+			_Orientation:
+
+				_ésta opción nos permitirá rotar el sistema completo sobre su propio eje 
+
+
+			_Direction:
+
+				_ésta opcíon nos permitirá cambiar el sentido u orientación el sistema cuando éste está
+
+				desplazado a partir de su epicentro, así, podremos hacer virados de éste
+
+
+				_ésta opción aplicará sólo cuando la opción de "Velocity", tenga algún valor mayor ha "0"
+
+
+			_Velocity:
+
+				_ésta opcíon nos permitirá desplazar el sistema en una dirección en relación al anclaje del
+
+				epicentro ó punto dentro del sistema
+
+
+			_Spin:
+
+				_ésta opción nos permitirá hacer torsiones del sistema de ésta manera, podremos hacer 
+
+				rotaciones de cada instancia de las formas que conforman el sistema
+
+
+				_de ésta manera, podremos hacer rotaciones gradadas ó exponenciales unas de otras para generar
+
+				ritmos, modulaciones y aleatoriedad y alternabilidad, otros
+
+
+			_Lifespan (sec):
+
+				_ésta opción nos permitirá controlar la vida ó visualización de cada instancia generada por el
+
+				sistema a través, del tiempo de ésta manera, podremos determinar por cuanto tiempo se verá una
+
+				instancia en un tiempo determinado
+
+
+				_tanto en el inicio como en el final del sistema
+
+
+			_Reflection:
+
+				_ésta opción nos permitirá reflejar el sistema bajo una proyección por defecto del mismo en 
+
+				relación a su vez, de la configuración y animación que hagamos de éste para lograr así, efectos
+
+				y resultados más complejos de los posibles normalmente
+
+
+
+		_Stroke
+
+
+			_Profile:
+
+				_ésta opción nos permitirá seleccionar el tipo de contorno  a través, del cuál, se creará ó 
+
+				rellenará la forma generar
+
+
+				_así, éste contorno podrá tener los cornornos totalmente definidos ó parcialmente definidos por
+
+				ejemplo podrán estar definidos por un lado y disfunidados por el otros así, como también, podrán
+
+				tener "falloff", excepto en el centro, otros
+
+
+				_para lo cuál, el sistema cuenta con una serie de presets, a través, de los cuáles, podremos 
+
+				lograr la mayoría de efectos deseados
+
+
+			_Color:
+
+				_ésta opción nos permitirá indicar el color de rellenos para el sistema de ésta menera, podremos
+
+				lograr diferentes efectos y procesos como mattes, alphas, integraciones y efectos, otros
+
+
+			_Opacity:
+
+				_ésta opción nos permitirá controlar toda la opacidad general del sistema lo cuál, nos permnitirá 
+	
+				integrar el sistema con las demás layers, de la respectiva composición
+
+
+			_Fade-in Time:
+
+				_aunado a las opciones "profiles", podremos también, hacer un desvanecimiento personalizados de 
+
+				bordes en éste caso de los bordes internos de forma personalizada y graduada por nosotros
+
+
+			_Fade-out Time:
+
+				_aunado a las opciones "profiles", podremos también, hacer un desvanecimiento personalizados de 
+
+				bordes en éste caso de los bordes externos de forma personalizada y graduada por nosotros
+
+
+			_start Width:
+
+				_ésta opción nos permitirá graduar el grosor del sistema ó instancias generadas en éste caso las 
+
+				iniciales ó más próximas al epicentro ó centro del sistema de ésta manera, podremos lograr efectos
+
+				diferentes en relación al tiempo y creación de las respectivas instancias, otros
+
+
+			_End Width:
+
+				_ésta opción nos permitirá graduar el grosor del sistema ó instancias generadas en éste caso las 
+
+				finales ó más lejanas al epicentro ó centro del sistema de ésta manera, podremos lograr efectos
+
+				diferentes en relación al tiempo y creación de las respectivas instancias, otros
+
+
+
+
+

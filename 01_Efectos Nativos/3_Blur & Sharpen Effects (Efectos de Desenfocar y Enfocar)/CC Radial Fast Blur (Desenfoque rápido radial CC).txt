@@ -1,0 +1,108 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permitirá crear desenfoques concéntricos hal mismo modo de que el efecto de "Radial Blur",
+
+	en su modo "Zoom"
+
+
+	_más el efecto "Radial Fast Blur", nos permitirá crear el efecto de desenfoque de desplazamiento direccional
+
+	de tipo zoom con variantes 
+
+
+	_las cuáles, nos permnitirá crear efectos dedesenfoque y efectos especiales avanzados en producción y en
+		
+	efectos de paso antínuo
+	
+
+	_ya que éste nos permitirá creas destellos a partir de las áreas de mayor luminancia de la escena las 
+
+	cuáles, pueden emitir ó iradiar luz u oscuridad ó en su modo estandar de desenfoque direccional concéntrico
+	
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps	
+
+
+
+
+
+	Radial Fast Blur: (Desenfoque rápido radial CC)
+	_________________
+
+	_Center:
+
+		_éste valor nos permitirá indicar el target, ó el punto céntrico a partir del cuál, se comenzará
+
+		ha generar el efecto de zoom blur, en sus diferentes variantes
+
+	_Amount:
+
+		_éste valor nos permitirá indicar la cantidad ó intensidad del efecto de desenfoque ha aplicar
+
+
+	_Zoom:
+
+
+		_ésta opción nos permitirá seleccionar el modo ha aplicar entre los cuáles, disponesmo de los
+
+		siguientes:
+
+
+			_Standard:
+
+				_éste modo nos permitirá crear un el tipo de desenfoque convencional con muy pocos
+
+				destellos
+
+
+			_Brightest:
+
+				_éste modo nos permitirá crear efectos de destellos claros y desenfoque de zoom 
+
+				direccional a partir de los valores de luminancia lo cuál, es especialmente útil 
+
+				para diferentes procesos de producción y paso contínuo
+
+
+			_Darkest:
+
+				_éste modo nos permitirá crear efectos de destellos oscuros y desenfoque de zoom 
+
+				direccional a partir de los valores de luminancia lo cuál, es especialmente útil 
+
+				para algunos procesos de producción y paso contínuo
+
+
+
+
+
+
+
+
+		_

@@ -1,0 +1,300 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto es una mezcla de los efectos de "Color Balance", y "Leave Color", a través, del cuál, podremos
+
+	hacer neutralización de color tanto en las altas luces, medios tonos y sombras para poder así, eliminar 
+	
+	dominantes de color y lograr estilos ó ajustes de color característicos y específicos
+
+
+	_de éste manera, dispondremos de tres selectores ó pickers, de color a través, de los cuáles, podremos 
+
+	seleccionar un color respectivo de la imágen el cuál, deseamos neutralizar
+
+
+	
+	Workflow:
+
+	_así, podremos seleccionar un color para las altas luces ó blancos de la imágen "Pedestal", otro color para 
+
+	los medios tonos "Gamma", y otro color las sombras ó negros de la imágen "Gain"
+
+
+	_lo cuál, puede interpretarse de forma práctica como que podesmos seleccionar un color para los tonos claros
+
+	otro color para los tonos medio y otro color para las zonas saturadas
+
+
+	_como también, podríamos interpretarlos como que podríamos seleccionar un color para las áreas con dominante
+
+	de color ha neutralizar en las áreas con saturación claras saturación medias y con mucha saturación
+
+
+
+
+	Neutralización del Color:
+
+	_de ésta manera, lo que hará el sistema de efecto es que cuando seleccionado un color por medio del selector
+
+	de color ó picker, el sistema balanceará la imágen a través, de los colores complementarios de éstas áreas 
+
+	en concreto, sea para las sombras, luces ó medio tonos
+
+
+	_de ésta manera, los colores seleccionado que en la imágen original estaban saturados ahora luego de aplicar
+
+	el efecto éstos colores ó áreas ahora se presentará casi desaturados
+
+
+	_para que así, posteriormente podamos revertir el proceso de forma gradual ó personalizada a través, de los
+
+	sub-controles de cada área de saturación ó gamma, sean éstas sombras, medio tonos ó brillos ó luces
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Color Neutralizer: (CC Color Neutralizer)
+	_____________________
+
+
+		_Shadow Unbalance:
+
+			_ésta opción nos permitirá a través, de un selector ó un picker, seleccionar un color el 
+
+			cuál, se utilizará en éste caso para neutralizar una dominante de color en las áreas más
+
+			saturadas de la imágen ó sombras ó negros de la imágen "Gain"		
+
+
+
+			_Red - Shadows:
+
+				_éste valor nos permitirá indicar la cantidad de dominante rojo en las áreas más
+
+				saturadas de la imágen en relación al color seleccionado
+
+				
+				_de ésta manera, a través, de éste valor podremos tanto agregar como neutralizar
+
+				la respectiva dominante de color para hacer posteriores micro ajustes de color
+
+
+			_Green - Shados:
+
+				_éste valor nos permitirá indicar la cantidad de dominante verde en las áreas más
+
+				saturadas de la imágen en relación al color seleccionado
+
+				
+				_de ésta manera, a través, de éste valor podremos tanto agregar como neutralizar
+
+				la respectiva dominante de color para hacer posteriores micro ajustes de color
+
+
+			_Blue - Shadows:
+
+				_éste valor nos permitirá indicar la cantidad de dominante azul en las áreas más
+
+				saturadas de la imágen en relación al color seleccionado
+
+				
+				_de ésta manera, a través, de éste valor podremos tanto agregar como neutralizar
+
+				la respectiva dominante de color para hacer posteriores micro ajustes de color
+
+
+
+
+		_Midtones Unbalance:
+
+			_ésta opción nos permitirá a través, de un selector ó un picker, seleccionar un color el 
+
+			cuál, se utilizará en éste caso para neutralizar una dominante de color en las áreas 
+
+			saturadas de los medio tonos de la imágen "Gamma"
+
+
+
+			_Red - Midtones:
+
+				_éste valor nos permitirá indicar la cantidad de dominante rojo en las áreas más
+
+				saturadas de los tonos medios de la imágen en relación al color seleccionado
+
+				
+				_de ésta manera, a través, de éste valor podremos tanto agregar como neutralizar
+
+				la respectiva dominante de color para hacer posteriores micro ajustes de color
+
+
+
+			_Green - Midtones:
+
+				_éste valor nos permitirá indicar la cantidad de dominante verde en las áreas más
+
+				saturadas de los tonos medios de la imágen en relación al color seleccionado
+
+				
+				_de ésta manera, a través, de éste valor podremos tanto agregar como neutralizar
+
+				la respectiva dominante de color para hacer posteriores micro ajustes de color
+
+
+
+			_Blue - Midtones:
+
+				_éste valor nos permitirá indicar la cantidad de dominante azul en las áreas más
+
+				saturadas de los tonos medios de la imágen en relación al color seleccionado
+
+				
+				_de ésta manera, a través, de éste valor podremos tanto agregar como neutralizar
+
+				la respectiva dominante de color para hacer posteriores micro ajustes de color
+
+
+
+		_Highlights Unbalance:
+
+			_ésta opción nos permitirá a través, de un selector ó un picker, seleccionar un color el 
+
+			cuál, se utilizará en éste caso para neutralizar una dominante de color en las áreas 
+
+			menos saturadas de la imágen ó brillos ó luces de la imágen "Pedestal"
+
+
+
+			_Red - Highlights:
+
+				_éste valor nos permitirá indicar la cantidad de dominante rojo en las áreas más
+
+				saturadas de las altas luces ó brillos de la imágen en relación al color seleccionado
+
+				
+				_de ésta manera, a través, de éste valor podremos tanto agregar como neutralizar
+
+				la respectiva dominante de color para hacer posteriores micro ajustes de color
+
+
+
+			_Green - Highlights:
+
+				_éste valor nos permitirá indicar la cantidad de dominante verde en las áreas más
+
+				saturadas de las altas luces ó brillos de la imágen en relación al color seleccionado
+
+				
+				_de ésta manera, a través, de éste valor podremos tanto agregar como neutralizar
+
+				la respectiva dominante de color para hacer posteriores micro ajustes de color
+
+
+
+			_Blue - Highlights:
+
+				_éste valor nos permitirá indicar la cantidad de dominante azul en las áreas más
+
+				saturadas de las altas luces ó brillos de la imágen en relación al color seleccionado
+
+				
+				_de ésta manera, a través, de éste valor podremos tanto agregar como neutralizar
+
+				la respectiva dominante de color para hacer posteriores micro ajustes de color
+
+
+
+
+		_BLend W. Original:
+
+			_ésta opción nos pemritirá fusionar ó integrar la aplicación del efecto con la imágen original
+
+			lo que nos permitirá hacer ajustes detallados y precisos en la creación de estilos color, otros
+
+
+		_View:
+
+			_ésta opción dispone de un selector en el cuál, podremos ver tres modos de visualización:
+
+
+				_Final Result:
+
+					_ésta opción nos pemritirá ver la imágen resultante del proceso de edición ó
+
+					neutralización de las dominantes de color
+
+
+				_Correction B to W:
+
+					_ésta opción nos permitirá visualizar la curva RGB, de forma horizontal la cuál,
+
+					va de negros a blancos "Black to White | B to W"
+
+					NOTA: el viewport, no debe de estar en modo Draf, así, como tampoco es 
+
+					recomendable que esté en modo de visualización menos a "Full"
+
+
+				_Correction Stair:
+
+					_ésta opción nos permitirá visualizar la curva RGB, de forma diagonal la cuál,
+
+					va de negros a blancos "Black to White
+
+					NOTA: el viewport, no debe de estar en modo Draf, así, como tampoco es 
+
+					recomendable que esté en modo de visualización menos a "Full"
+
+
+		_Black Point:
+
+			_ésta opción nos permitirá jugar con la gamma tonal de salida del efecto, de ésta manera, 
+
+			podremos marginar la gamma, saturación y luminancia del efecto de igualforma que el efecto de
+
+			levels, en éste caso el "Gain", ó saturación, sombras ó negros
+
+
+		_White Point:
+
+			_ésta opción nos permitirá jugar con la gamma tonal de salida del efecto, de ésta manera, 
+
+			podremos marginar la gamma, saturación y luminancia del efecto de igualforma que el efecto de
+
+			levels, en éste caso el "Pedestal", ó altas luces y parte de los medios tonos
+
+
+
+
+
+

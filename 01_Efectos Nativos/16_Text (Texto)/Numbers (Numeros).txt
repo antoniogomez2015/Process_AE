@@ -1,0 +1,338 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/text-effects.html#numbers_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Números genera números aleatorios o en secuencia con diversos formatos, como números decimales, 
+
+	fechas y códigos de hora, e incluso la fecha y hora actuales (en tiempo de procesamiento).
+
+		
+	_El efecto Números se puede emplear para crear contadores de distintos tipos. El desplazamiento máximo para 
+
+	los números en secuencia es 30.000.
+
+
+	_Este efecto funciona con colores de 8 bpc.
+
+
+	_Las opciones y valores siguientes están disponibles en el cuadro de diálogo Estilo de fuente (MS Windows) o 
+
+	Estilo de tipo (Mac OS): Fuente (MS Windows) o Tipo (Mac OS), Estilo, Dirección y Alineación. Para volver a 
+
+	abrir este cuadro de diálogo, haga clic en Opciones en la parte superior de la entrada del efecto en el panel
+
+	Controles de efectos.
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+	
+
+	Numbers: (Numeros)
+	________
+
+
+		Format
+
+
+			_Type:
+
+
+				_Number:
+
+					_ésta opción nos permitirá indicarle al sistema el tipo de formato numérico
+
+					en éste caso, el formato numérico será de números enteros y fracción, donde
+
+					las fracciones serán opcionales ej:
+
+
+						_300.00
+
+
+					_a través, del cuál, podremos expresar la mayoría de expresiones numéricas 
+
+					más generales, expresando así, números enteros como con decimales
+
+				
+				_Number [Leading Zeros]:
+
+					_ésta opción nos permitirá indicarle al sistema el tipo de formato numérico
+
+					en éste caso, el formato numérico será idéntico a la opción de "Number", más
+
+					en éste caso, el sistema numérico estará precedido de dos ceros "00", ej:
+
+
+						_00300.00
+
+
+					_a través, del cuál, podremos expresar fracciones específicamente así, como
+
+					también, cuentas numéricas consecutivas, regresivas otros
+
+
+				_Timecode [30]:
+
+					_ésta opción nos permitirá indicarle al sistema el tipo de forma numérico
+
+					en éste caso el formato numérico será de tipo contador horario convencioanl
+
+					ejemplo:
+
+				
+						_00:00:00:00
+
+
+					_en intervalores de "30", cuadros por segundo
+
+
+				Timecode [25]:
+
+					_ésta opción nos permitirá indicarle al sistema el tipo de forma numérico
+
+					en éste caso el formato numérico será de tipo contador horario convencioanl
+
+					ejemplo:
+
+				
+						_00:00:00:00
+
+
+					_en intervalores de "25", cuadros por segundo
+
+
+				_Timecode [24]:
+
+					_ésta opción nos permitirá indicarle al sistema el tipo de forma numérico
+
+					en éste caso el formato numérico será de tipo contador horario convencioanl
+
+					ejemplo:
+
+				
+						_00:00:00:00
+
+
+					_en intervalores de "24", cuadros por segundo
+
+
+				_Time:
+
+					_ésta opción nos permitirá indicarle al sistema el tipo de forma numérico
+
+					en éste caso el formato numérico será de tipo horario, es decir, que será
+
+					como el formato de la hora "12:00AM/PM"
+
+
+				_Numerical Data:
+
+					_ésta opción nos permitirá indicarle al sistema el tipo de forma numérico
+
+					en éste caso el formato numérico será de tipo fecha "1/1/1995"
+
+
+				_Short Date:
+
+					_ésta opción nos permitirá indicarle al sistema el tipo de forma numérico
+
+					en éste caso el formato numérico será de tipo fecha pero de forma descriptiva
+
+					ejemplo: "Sun,Jun,1995"
+
+
+				_Long Date:
+
+					_ésta opción nos permitirá indicarle al sistema el tipo de forma numérico
+
+					en éste caso el formato numérico será de tipo fecha pero en éste caso 
+
+					totalmente descriptiva, ej: "Sunday,Junuary,1995"
+
+
+				_Hexadecimal:
+
+					_ésta opción nos permitirá indicarle al sistema el tipo de forma numérico
+
+					en éste caso el formato numérico será de tipo hexadecimal ó en valores
+
+					faccionados, ej: "0x00000000"
+
+
+
+			_Random Values:
+
+				_ésta opción nos permitirá crear valores aleatorios en relación al tipo y formato
+
+				de tiempo seleccionado
+
+
+			_Value/Offset/Random M:
+
+				_ésta opción nos permitirá indicarle al sistema el avance ó evolución en el tiempo
+
+				del sistema de conteo numérico
+
+
+			_Decimal Places:
+
+				_ésta opción nos permitirá indicarle al sistema la cantidad de números que harán de
+
+				fracciones ó decimales
+
+
+				_más también, si indicamos más de "2", números ya no serán decimales si no números
+
+				enteros, de ésta manera, podremos crear números más grandes como miles y millones
+
+
+			_Current Time/Date:
+
+				_Seleccione esta opción para que los números de fecha y hora estén basados en la 
+
+				fecha y hora actuales
+
+
+		
+		Fll and Stroke:
+
+
+			_Position:
+
+				_ésta opción nos permitirá indicar la posición del sistema generado a través, de un
+
+				handle, directamente en el viewport, del panel compositing, ó a través, del panel
+
+				effects controls, a través, de valores específicos
+
+
+			_Display Options:
+
+				
+				_Fill Only:
+
+					_ésta opción nos permitirá indicarle al sistema que rellene el sistema 
+
+					generado con un color sólido
+
+
+				_Stroke Only:
+
+					_ésta opción nos permitirá indicarle al sistema que rellene el sistema 
+
+					generado con un contorno de color sólido
+
+
+				_Fill Over Stroke:
+
+					_ésta opción nos permitirá indicarle al sistema que rellene el sistema 
+
+					generado con un color sólido y a su vez, con un contorno de color sólido
+
+					para que así, ambos elementos, tanto el relleno como el contorno sean 
+
+					visibles
+
+
+				_Stroke Over Fill:
+
+					_ésta opción nos permitirá indicarle al sistema que rellene el sistema 
+
+					generado con un color sólido y a su vez, con un contorno de color sólido
+
+					para que así, ambos elementos, tanto el relleno como el contorno sean 
+
+					visibles, más en éste caso, el contorno será más visible que en el caso
+
+					anterior
+
+
+			_Fill Color:
+
+				_ésta opción nos permitirá indicarle al sistema un color personalizado el cuál,
+
+				utilizará para rellenar el sistema de un color sólido
+
+
+				_el cuál, podremos indicar a través, de un selector de color ó a través, de un picker
+
+
+			_Stroke Color:
+
+				_ésta opción nos permitirá indicarle al sistema un color personalizado el cuál,
+
+				utilizará para rellenar el contorno de el sistema de un color sólido
+
+
+				_el cuál, podremos indicar a través, de un selector de color ó a través, de un picker
+
+
+			_Stroke Width:
+
+				_ésta opción nos permitirá indicarle al sistema un ancho para el contorno generado
+
+				sobre el sistema
+
+			_Size:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será el tamaño del sistema
+
+				generado
+
+			_Tracking:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la separación de los
+
+				carácteres del sistema generado
+
+			_Proportional Spacing:
+
+				_ésta opción nos permitirá indicarle al sistema que el espaciado entre carácteres
+
+				sea proporcional y equidistantes en si
+
+
+			_Composite On Original:
+
+				_ésta opción nos permitirá indicarle al sistema que integre el sistema generado con
+
+				las demás layers, de la composición respectiva, de ésta manera, el sistema auto
+
+				creará un máscara ó matte, del sistema mismo para dejar ver así, las demás layers,
+
+				de la composición
+
+
+

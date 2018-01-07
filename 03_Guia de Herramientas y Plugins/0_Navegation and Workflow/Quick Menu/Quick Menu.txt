@@ -1,0 +1,68 @@
+
+
+
+
+Quick Menu
+
+
+	Referencia:
+
+		http://aescripts.com/quick-menu/			
+
+
+	
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste hace búsquedas rápidamente de efectos y otras funciones básicas y avanzadas
+
+
+	
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer búsquedas relacionadas con effects, por lo general bases del sistema ó nativos así, 
+
+	como también, dispone de ciertas funciones útiles en el workflow, de trabajo, otros
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+	
+
+
+	--------------------------------------------------------------------------------------------------------------
+
+
+	Installing:
+
+		_en la carpeta donde tenemos un respaldo del plugins, se ha creado un archivo de descripción de la 
+
+
+
+	Shortcut:
+
+
+		_en éste caso éste menú dispone de el shortcut "Shift + Tab"
+
+
+
+	Search:
+
+		_en éste debemos hacer búsquedas grupales de bloques de efectos nativos del programa ej; "tint", y 
+
+		otras funciones más usadas de la aplicación
+
+		
+
+

@@ -1,0 +1,115 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Texturizar da a una capa la apariencia de tener la textura de otra capa. Por ejemplo, puede 
+
+	conseguirse que una imagen de un árbol tenga textura de ladrillos, y controlarse la profundidad de dicha 
+
+	textura, así como la fuente de luz que aparece. En Calidad óptima, la capa de la textura se coloca y se 
+
+	escala con una precisión a nivel de los subpíxeles.
+
+
+	_Este efecto funciona con colores de 8 bpc.
+
+
+	_ésta efecto nos permitirá generar efectos el tipo "Bevel", "Bevel Color", "Find Edges" a través, de los 
+
+	cuáles, también, podremos encontrar y resaltar los bordes
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Texturize: (Texturizar)
+	__________
+
+
+		_Texture Layer:
+
+			_ésta opción nos permitirá indicarle al sistema que layer, éste utilizará para el muestreo
+
+			para la generación del sistema sobre la layer, sobre la cuál, se aplicó el efecto
+
+
+		_Light Direction:
+
+			_ésta opción nos permitirá indicarle al sistema la dirección de la luz, ó iluminación la
+
+			cuál, determinará los relieves y depreciones generados por el mapa de luminancia extraido
+
+			de la layer, de referencia
+
+
+			_de ésta manera, podremos controlar la apariencia, comportamiento e interacción de los
+
+			volúmenes generados por el sistema sobre la layer, base
+
+
+		_Texture Contrast:
+
+			_ésta opción nos permitirá aumentar ó disminuir el brillo y contraste del efecto de ésta
+
+			manera, con valores cercanos ha "0", el efecto será casi imperceptible, más con valores
+
+			cercanos ha "2", que es su valor posible máximo, optendremos altos y definidos contrastes
+
+
+
+		_Texture Placement:
+
+
+			_Tile Texture:
+
+				_Aplica la textura de forma repetitiva.
+
+
+			_Center Texture:
+
+				_Sitúa la textura en el centro.
+
+
+			_Stretch Texture to Fit:
+
+				_Estira la textura hasta las dimensiones de la capa del efecto.
+
+
+
+
+
+
+
+

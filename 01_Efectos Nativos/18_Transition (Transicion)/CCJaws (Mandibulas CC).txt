@@ -1,0 +1,149 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/transition-effects.html#block_dissolve_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Jaws, crea una transición que divide la capa de origen en dos partes.
+
+
+	_Con cada parte que tiene un borde en forma de dientes a lo largo del borde de división. 
+
+
+	_Tres diferentes formas de diente están disponibles.
+
+
+	_así, como también, éste efecto nos permitirá hacer diferentes procesos de producción y paso contínuo como
+
+	también, diferentes elementos para el constructivimos visual, otros
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Jaws: (Mandibulas CC)
+	________
+
+
+		_Completion:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamo que éste realize la complexión ó
+
+			transición para que así, éste devela las layers, subyacentes en la composición respectia
+
+
+			_ésta opción por ende también, nos permitirá animar el sistema 
+
+
+		_Center:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el epicentro a partir del cuál,
+
+			se comenzará ha generar el sistema lo que nos permitirá a su vez, animar en centro ó punto
+
+			de acción de se comenzará ha generar el sistema
+
+
+		_Direction:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la dirección a partir de la cuál,
+
+			se comenzará ha generar el sistema
+
+
+		_Height:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la altura ó lo pronunciado del
+
+			efecto generado en relación a nuesras necesidades de producción			
+
+
+		_Width:
+
+			_ésta opción nos permitirá indicarle al sistema ladensidad ó espaciado entre cada modulación
+
+			del patrón del sistema generado en relación a las necesidades de producción
+
+
+
+		_Shape:
+
+
+			_Spikes:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la forma ó patrón ha
+
+				modular por el sistema, en éste caso serán pico ó puntas
+
+
+			_RoboJaw:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la forma ó patrón ha
+
+				modular por el sistema, en éste caso serán picos con las puntas aplanadas también,
+
+				podríamos decir que son canaletas, otros
+
+
+			_Block:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la forma ó patrón ha
+
+				modular por el sistema, en éste caso serán bloques ó cuadrados trabados en zipzap
+
+
+			_Waves:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la forma ó patrón ha
+
+				modular por el sistema, en éste caso serán ondas sonuosas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

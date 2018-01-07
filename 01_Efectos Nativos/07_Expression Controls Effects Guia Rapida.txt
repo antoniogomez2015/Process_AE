@@ -1,0 +1,113 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Expression Controls:
+	____________________
+
+
+	_3D Point Control: (Control de Puntos 3D)
+
+		_éste efecto nos permitirá controlar un atirbuto de una layer, como por ejemplo, translation, rotation, 
+
+		scale, otros, así, como también, valores de efectos
+
+
+
+	_Angle Control: (Control de Angulo)
+
+		_éste efecto nos permitirá controlar un atirbuto de una layer, específicamente ó lo más recomendado es la
+
+		propiedad de "Rotation", u "Orientation", así, como también, valores de efectos
+
+
+
+	_Checkbox Control: (Control de Cassilla de Verificacion)
+
+		_éste efecto nos permitirá controlar una expresión sobre uno ó varios atributos de un elementos a través,
+
+		de la confirmación de condicionales preconstruidos dentro de after effects, ó desarrollados en relación al 
+
+		requerimiento de la animación ó proceso de producción
+
+
+
+	_Control Control: (Control de Color)
+
+		_éste efecto nos permitirá controlar un atirbuto de una layer, específicamente ó lo más recomendado es la
+
+		propiedad de "Color", en layers, de tipo shape, así, como también, valores de efectos de color, de ésta 
+
+		manera, podremos controlar propiedades de color por lote y al unísono para motion graphycs, otros
+
+
+
+	_Control Control: (Control de Color)
+
+		_éste efecto nos permitirá aplicarle scripts, y sentencias a determinadas propiedades de una layer, para que
+
+		así, podamos posteriormente cambiar ésta layer, por otra rápidamente y de forma animada, de ésta manera, los
+
+		atributos con expresiones y script, se aplicarán a los rsepectivos atributos de la nueva layer, asignada
+
+
+
+	_Point Control (Control de Puntos)
+
+		_éste efecto nos permitirá controlar un atirbuto de una layer, como por ejemplo, translation, rotation, 
+
+		scale, otros, así, como también, valores de efectos
+
+
+
+	_Slider Control: (Control de Indicador)
+
+		_éste efecto nos permitirá controlar un atirbuto de una layer, a través, de expresiones y scripts, más compelejos 
+
+		y automatizados los cuáles, no requiran una animación a pulso sobre el viewport, a través, de un target, ó handle, 
+
+		a diferencia de las opciones de "Point Controls"
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

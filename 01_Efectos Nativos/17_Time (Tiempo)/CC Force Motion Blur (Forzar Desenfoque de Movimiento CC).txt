@@ -1,0 +1,161 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/text-effects.html#numbers_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto "force motion blur", ó forzado de desenfoque de movimiento, tiene la capacidad de agregar 
+
+	desenfoque de movimiento a los efectos que carecen de la capacidad de desenfoque de movimiento mezclando 
+
+	varios fotogramas intermedios. 
+
+
+	_El "force motion blur", siempre debe aplicarse a una capa de ajuste o a una composición que contenga 
+
+	efectos precompuestos. los efectos de pre composición son un paso requerido porque usa datos de fotogramas 
+
+	previos y posteriores. 
+
+
+	_Si se utiliza una capa de ajuste, no es necesario el paso de precomposición, todos los cambios temporales 
+
+	debajo de la capa de ajuste se pueden realizar mediante el desenfoque de movimiento del efecto 
+
+	"force motion blur", y ya que dicho proceso consiste en generar desenfoque de movimiento en cada capa, 
+
+	de esta manera consume menos tiempo y capacidad de proceso. 
+
+
+	_El tiempo de render puede, en el peor de los casos, multiplicarse por el número de layers, en movimiento
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+	
+
+	CC Force Motion Blur: (Forzar Desenfoque de Movimiento CC)
+	_____________________
+
+
+		_Motion Blur Samples:
+
+
+			_Use este control para determinar el número de niveles muestreos que se usarán para el 
+
+			efecto de desenfoque 
+
+
+			_usando niveles más altos, aumente el detalle y la calidad del desenfoque, 
+
+
+			_reduciendo los pasos visuales que aparecen cuando se usan niveles más bajos, más se 
+
+			logrará que el sistema realize los cálculos muchos más rápido
+
+
+			_ya que el uso de niveles más altos también aumenta el tiempo de renderizado 
+
+
+		_Override Native Shutter:
+
+			_con esta casilla de verificación para anular el ángulo de obturación AE y utilizar el 
+
+			ángulo del obturador del efecto 
+
+
+			_El ángulo de obturación de AE solo es válido cuando la opción habilitar desenfoque de 
+
+			movimiento está habilitada para composiciones comp, de capa y secundarias. el 
+
+			"Force Motion Blur", ignora la opción de fase de obturador que proporciona AE
+
+
+		_Shute Angle:
+
+			_Use este control para determinar la duración del desenfoque de movimiento. 
+
+
+			_El ángulo del obturador simula la exposición permitida por el obturador giratorio en una 
+
+			cámara y se basa en grados. Los valores más altos aumentan la apariencia del desenfoque 
+
+			de movimiento.
+
+
+		_Native Motion BLur:
+
+			_Utilice esta ventana emergente para controlar el comportamiento del Desenfoque de 
+
+			Movimiento de AE, donde el desenfoque de movimiento es habilitado
+
+
+			_On:
+
+				_Ajusta el desenfoque de movimiento en composiciones anidadas (cuando está 
+
+				habilitado). 
+
+
+				_Desenfoque de movimiento bebe estar habilitado para todas las composiciones 
+
+				y capas a las que esto debería aplicarse.
+
+
+			_Off:
+
+				_Desactiva el desenfoque de movimiento para todas las composiciones anidadas.
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

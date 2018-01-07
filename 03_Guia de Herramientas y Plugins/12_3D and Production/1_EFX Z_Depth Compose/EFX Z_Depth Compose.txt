@@ -1,0 +1,125 @@
+
+
+
+EFX Z_Depth Compose
+
+
+	Referencia:
+
+		http://aescripts.com/efx-render-elements-z-depth-tools/   https://www.youtube.com/watch?v=uQUfpMTuNFQ
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite configurar un depth map, complejo a través, de dos depth maps, diferentes, ej: uno de correspondiente
+
+	a la layer, del depth map, principal y otro depth map, del background, de la composición
+
+
+	_de ésta manera éstos mapas deben de tener un gran número de similitudes entre si, más también, conservar algunas 
+
+	diferencias estratégicas las cuáles podrán interactuar a través, de diferentes controles entre los depth maps
+
+Aplicaciones:
+_____________
+
+
+	_éstas opciones amplian en gran manera los procesos posibles en producción ya permiten consevir un depth map, complejo 
+
+	el cuál podrá contemplar ahora más planos en diferentes layers, de la composición
+
+
+	_ésta opción es muy útil para procesos de interface más tridimensionales y experimentales de gran calidad entre otras
+
+	grandes posibilidades
+
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+
+
+	_primero debemos tener una composición de trabajo previamente creada
+
+
+
+ZDepth pass:
+____________
+
+	_luego debemos incorporar los maps, respectivos en la composición de trabajo, en éste caso en "depth map",
+
+	como mapa base al cuál, se agregaremos el plugins "Effects EFX RE/EFX Z_Depth Compose"
+
+
+	_así, se entiende que al render map, al cuál, le apliquemos el filtro "EFX Z_Depth Compose", será el mapa corregido
+
+
+
+Background ZDepth pass:
+_______________________
+
+
+	_luego debemos incorporar el map, respectivo en la composición de trabajo, en éste caso en "depth map", alternativo
+
+	el cuál, agregaremos el plugins "Effects EFX RE/EFX Z_Depth Compose"
+
+
+
+Options:
+________
+
+
+	_así, podremos ir variando los valores de tolerancia para ir ajustando el pass, de acuerdo con los valores
+
+	en el sistema de EFX Z_Depth Compose, éstos son:
+
+
+
+	_Invert current Z_Depth map:
+
+		_éste permite 
+
+
+	_Invert background ZDepth map:
+
+		_éste permite invertir éste respectivo depth map
+
+	
+	_Invert backgorund Z_Depth:
+
+		_éste permite invertir éste respectivo depth map
+
+
+	_Fade:
+
+		_ésta opción permite hacer una transición entre ambos depth maps
+
+
+	Move in Depth:
+
+		_ésta opción permite desplazarnos entre los planos de los depth maps
+
+
+
+Resultado:
+__________
+
+
+	_de ésta manera al final tendremos un depth map, relativo y selectivo a través de planos seleccionados en relación
+
+	a la configuración interna de los depth maps, aplicados al respectivo pass, seleccionado
+	
+
+

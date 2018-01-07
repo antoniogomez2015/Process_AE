@@ -1,0 +1,129 @@
+
+
+http://aescripts.com/audiotomarkers/
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Audiotomarkers
+
+
+	Audiotomarkers:
+
+
+	-este nos permite controlar animaciones a través, de los picos en tracks de audio para que así, de ésta 
+
+	manera, poder controlar o accionar keyframes, a través, de marks, keyframes, ó layers, de unas respectivas
+
+	layer, con el volcado de "audio beats to keyframes"
+
+	
+	Workflow:
+	_________
+
+	_primero debemos importar un track, de audio y cargarlo en el timeline, de la composición respectiva y 
+
+	de la cuál, extraeremos la información a través, de marks, ó marcas
+
+
+
+	Beats Assistant:
+	________________
+
+	_éste plugins, nos permitirá convertir el audio en marks, a través, de diferentes criterios así, lo 
+
+	primero que tendremos que hacer es seleccionar la layer, de audio en el timeline y hacer mouse right 
+
+	click, sobre ésta y escoger la opción de "Keyframe Assistant/Convert Audio to Keyframe", para que así,
+
+	el sistema genere un nueva layer, "[Audio amplitude]", de tipo null object, con el volvado de keyframes, 
+
+	correspondientes al audio
+
+
+
+	Refresh:
+
+		_para luego seleccionar ésta nueva layer, generada "[Audio amplitude]", e ir a las opciones del 
+
+		plugins, "Refresh", para que así,el sistema detecte el comportamiento del audio cargándolo en 
+
+		la opción de "Layer to Mark"
+
+
+
+	Audio Levels:
+
+		_ésta opción nos permite escoger el threshold, ó umbral de los picos de beats, de audio ha 
+
+		seleccionar para la generación de marks
+
+
+		_así, nos podríamos fijas en los picos de los canales de la layer, generada "[Audio amplitude]",
+
+		seleccionando ésta y haciendo el shortcut, "U/U", para ver así, las propiedades animadas
+
+
+		_para leugo tener la posibilidad de poder seleccionar las propiedades animadas entre las que
+
+		se encuentras "Left Channel-Right Channel-Both Channel/Slider"
+
+
+		_de ésta manera, podremos seleccionar una de éstas propiedades animdas y ir al panel graphyc
+
+		editor, a través, del shortcut "Shift + F3", para que así, a través, de éste panel podremos ver
+
+		el espectro y picos de audo de ésta respectiva propiedad animada
+
+
+		_y al ver los picos de los beats, de las propiedades animadas podremos también, ver y determinar
+
+		un rango de beats, que nos interesa
+
+
+		_y de ésta manera, podremos tomar un criterio de acción para indicarselo al plugins 
+
+		"AudioToMarlers", y su propiedad "Audio Levels"
+
+
+
+	Result:
+
+
+		_Place markets on layer;
+
+			_ésta opción generará las marks sobre la layer, generada "[Audio amplitude]"
+
+
+		_Split intro new layers;
+
+			_ésta opción generará segmentos de layers, de la última layer, generada, ésta
+
+			layer, puede ser un sólido por ejemplo y la longitud de cada sólido será la del
+
+			intervalo de cada beats de audio capturado
+
+
+		_Add new text layer
+
+			_ésta opción generá hold keyframes, sobre la última layer, de texto generada 
+
+			así, si generamos una layer, de texto por ej, con un número éste número se
+
+			secuenciará al ritmo de los beats, del audio capturado
+
+
+		_DP IT:
+
+			_y para genera el sistema con los criterios indicados debemos darle al botón
+
+			"DO IT" (por ahora no me ha funcionado del todo)
+	
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+
+
+
+
+Guia de plugins, de terceros y efectos nativos en relación ha funcionabilidades generales
+
+
+	"Motion Graphycs"
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	_Red Giant / Trapcode / TAO:
+
+		_ésta opción nos permite hacer efectos de fluidicos, elementos abstractos, modulaciones, sistemas otros, en entornos
+
+		3d
+
+

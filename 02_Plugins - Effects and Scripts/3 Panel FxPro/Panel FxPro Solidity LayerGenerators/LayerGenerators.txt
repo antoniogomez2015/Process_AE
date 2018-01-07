@@ -1,0 +1,102 @@
+
+
+http://aescripts.com/layergenerators/
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+LayerGenerators
+
+
+	Panel FxPro/ LayerGenerators
+
+
+	-este nos permite crear contenido, crear nuevas layers, en serie a una composición a través, de diferentes
+
+	criterios para lo cuál, el plugins, dispone de tres diferentes panenes los cuales hacen como si fuesen 3 
+
+	diferentes plugins
+
+
+	_de ésta manera, podremos generar y administrar más contenido dentro de composiciones y proyectos
+
+
+
+	Solidity:
+	_________
+
+	_ésta panel nos permite generar layers, de tipo solid, así, podremos generar layers, de solids, en serie
+
+	a través, de diferentes criterios para diferentes procesos y sobre todo con un control y gradación del 
+
+	color controlado por nosotros y nuestro esquema de color de trabajo:
+
+
+
+		_Base Name:
+
+			_ésta opción nos permite indicar un nombre ha modo de prefijo para las layers, ha generar
+
+
+		_New Solid:
+
+			_ésta opción nos permite indicar un tamaño en pixeles para las layers, ha generar
+
+
+		_New Solid With Attributes of Selected Solid:
+
+			_ésta opción nos permite tomar como referencia para la generación de layers, una layers, 
+
+			de tipo "solid", de la cuál, se tomará tamto el tamaño como la ubicación de ésta layer
+
+
+		_Use Selected Layers, (Solid/Shape/Text):
+
+			_ésta opción es muy importante ya que nos permite utilizar layers, existentes, de ésta
+
+			manera podremos crear sistemas gradados de color entre otras posibilidad ha composiciones
+
+			de elementos personalizados, otros
+
+
+			_sin contar que extiende las posibilidades de aplicación no sólo ha layers, de tipo solid,
+
+			si no que también, ahora ha layers, de tipo shape, y text
+
+
+		_Colorize:
+
+			_ésta opción nos permite seleccioanr una paleta de color existente en el sistema
+
+
+		_Colors:
+
+			_ésta opción nos permite seleccionar ó editar nuestros propios colores y crear así, nuestras
+
+			propias paletas de color y guardarle dentro del sistema
+
+
+		_Interpolate Colors:
+
+			_ésta opción es muy importante ya que nos permite gradar el color ó extenter la paleta de 
+
+			de color seleccionada cuando las layers, ha generar exceden la cantidad de colores existentes
+
+			en la paleta respectiva
+
+
+		Number of Solids:
+
+			_ésta opción nos permite indicar el número de layers, ha generar
+
+
+		Create:
+
+			_éste botón nos permite generar el sistema de layer, ó de color
+	
+
+
+		

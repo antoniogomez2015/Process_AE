@@ -1,0 +1,82 @@
+
+
+
+
+ASCII Generator
+
+
+	Referencia:
+
+		http://aescripts.com/ascii-generator/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite hacer personalizaciones de texto a un nivel hasta artístivo con el estilo robot, retro, a través,
+
+	de líneas segmentadas
+
+
+
+Aplicaciones:
+_____________
+
+
+	_éste permite personalizar layer, de texto para lograr efectos visuales que cara a las fuentes disponibles no es
+
+	posible
+
+
+	_éste es especialmente útil para la personalización de las textos para animaciones avanzadas
+
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_primero debemos tener una composición previamente crear
+
+
+	_a la cuál, le crearemos las layers, de texto deseadas
+
+
+	--------------------------------------------------------------------------------------------------------------
+
+
+	
+Font:
+
+	_ésta opción permite seleccionar una entre las "200", tipos de fuentes disponibles para lograr diferentes efectos
+
+	y sus respectivas variaciones
+
+
+
+Generate:
+
+	_ésta opción permite generar el sistema de personalización de fuentes
+
+
+
+Observaciones:
+
+	_el sisema no agrega controles de efectos, así, que para volvar ha modificar el sistema hay que deshacer el sistema
+
+	mismo, shortcut "Control + Z"
+
+
+
+

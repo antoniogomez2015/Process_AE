@@ -1,0 +1,417 @@
+
+
+
+
+	Zaxwerks 3D Flags
+
+		Tutorial After Effects Plugins Zaxwerks
+			
+			https://www.youtube.com/watch?v=zWIn_mpk2NI
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Zaxwerks Werks:
+	_______________
+
+
+	_la serie de herramientas de "Zaxwerks Werks", se dividen en dos plugins, éstos son:
+
+
+		_Glint Werks
+
+		_Gradient Werks
+
+
+	_que nos permitirán hacer diferentes cosas muy diferenciadas entre ambos plugins, ó efectos, donde en la
+
+	versión del plugins, "Glint Werks", esencialmente nos permite hacer transiciones y elementos decorativos
+
+	y parte del constructivismo visual de una escena, otros, y el plugins, "Gradient Werks", nos permite hacer
+
+	fondos y parte del constructivismo visual para lograr algunos efectos, otros
+
+
+
+	Gradient Werks:
+	_______________
+
+
+	_éste nos permite hacer efeectos variados para la creación de fondos y demás efectos para producción los cuales
+
+	podremos personalizar y ajustar de forma dinámica e incluso animar los cuales a su vez, serán nodales lo que
+
+	permitirá la máxima resolución de proceso e integración
+
+
+
+	Workflow:
+	_________
+
+	_para lo cuál, lo primero será tener creada una composición de trabajo así, como al menos una layer, sobre
+
+	la cuál, vamos ha aplicar el sistema
+
+
+	_cuando deseamos 
+
+
+
+	Glinet Werks:
+	_____________
+
+	_effects pressets:
+
+		_
+
+
+	_target:
+
+		_éstas opciones nos permiten generar algunas formas personalizadas como "circulo y cuadrado",
+
+		a través, del tipo de degradados seleccionado ó personalizado
+
+
+		_mask:
+
+			_éstas opciones nos permiten seleccionar el tipo de criterio de acción ha realizar
+
+			por el sistema
+
+
+			_de ésta manera, podremos enmarcaras el sistema de transiciones de degradado 
+
+			texturizado ó no texturizado a través, de diferentes métodos como por ejemplo; a
+
+			través, del mismo canal alpha, de la respectiva layer, como también, a través,
+
+			de un "cuadrado interno", ó "circulo interno", del sistema		
+
+			
+			_none:
+
+				_ésta opción desactiva las opciones de enmascarado para el sistema generado
+
+
+			_layer alpha:
+
+				_ésta opción activa el enmarcarado sólo si la layer, dispone de algún canal 
+
+				alpha, a través, del cuál, podrá hacer el efecto colateral de 
+
+				enmarcaramiento en el perímetro de las partes en alpha, por medio de las
+
+				opsiones de "feather", y demás opciones de "mask"
+
+
+			_layer brightness:
+
+				_ésta opción realizará el enmascarado sobre la línea de degradado sobre las
+
+				áreas donde haya más brillo sobre la respectiva imágen
+
+
+			_layer brightness+alpha:
+
+				_ésta opción es idéntica a la opción anterior más éste incluirá en éste 
+
+				caso el alpha, que tenga la respectiva imágen
+
+
+			_gen circle:
+
+				_ésta opción le permitirá al sistema generar un circulo el cuál, podremos
+
+				reubicar y controlar su calado y demás opciones a través, del cuál, podremos
+
+				marginar la línea de degradado
+
+
+			_gen circle+layer alpha:
+
+				_ésta opción es idéntica a la anterior más ésta también, contempla si la 
+
+				respectiva imágen posee un canal alpha
+
+
+			_gen square:
+
+				_ésta opción le permitirá al sistema generar un cuadrado el cuál, podremos
+
+				reubicar y controlar su calado y demás opciones a través, del cuál, podremos
+
+				marginar la línea de degradado
+
+
+			_gen square+layer alpha:
+
+				_ésta opción es idéntica a la anterior más ésta también, contempla si la 
+
+				respectiva imágen posee un canal alpha
+
+
+		_mask processing:
+
+			_éstas opciones nos permitirán indicarle al sistema como vamos ha utilizar la 
+
+			información obtenida del tipo de enmascaramiento seleccionada ó indicada en el paso
+
+			anterior
+
+
+			_none:
+
+				_ésta opción desactiva éstas opciones de post proceso
+
+
+			_invert:
+
+				_ésta opción permite indicarle al sistema que invierta las características
+	
+				del topo de alpha, indicado en las opciones de "mask"
+
+
+			_eddges only:
+
+				_ésta opción nos permite indicarle al sistema que sólo utilice las opciones
+
+				de los "bordes", de la opción seleccionada ó indicada en "mask"
+
+
+			_inside falloff:
+
+				_ésta opción nos permite indicarle al sistema que haga una transición hacia
+
+				adentro de la opción seleccionada ó indicada en "mask"
+
+
+			_outside falloff:
+
+				_ésta opción nos permite indicarle al sistema que haga una transición hacia
+
+				afuera de la opción seleccionada ó indicada en "mask"
+
+
+		_bright cutoff:
+
+			_ésta opción limita la cantidad de brillo detectado sobre la respectiva imágen para
+
+			el proceso de inmascarado ó visualización de la línea de degrada para las opciones
+
+			de "mask/layer brightness", y demás opciones
+
+
+		_dark cutoff:
+
+			_ésta opción limita la cantidad de oscuridad detectado sobre la respectiva imágen 
+
+			para el proceso de inmascarado ó visualización de la línea de degrada para las 
+
+			opciones de "mask/layer brightness", y demás opciones
+
+
+
+		_feather:
+
+			_ésta opción nos permite aumentar ó disminuir las opciones de calado por máscara
+
+			y demás criterios seleccionados en las opcioens de "mask"
+
+
+		_edge thickness:
+
+			_ésta opción nos permite indicarle al sistema un grosos de la forma seleccionada
+
+			en las opciones de "mask/gen circle - square"
+
+
+		_gen size h:
+
+			_ésta opción nos permite indicarle al sistema un tamaño horizontal para la forma
+
+			ha generar seleccionada entre las opciones de "mask/gen circle - square"
+
+
+		_gen size v:
+
+			_ésta opción nos permite indicarle al sistema un tamaño vertical para la forma
+
+			ha generar seleccionada entre las opciones de "mask/gen circle - square"
+
+
+
+		_gen slant:
+
+			_ésta opción nos permite indicarle al sistema un sesgado para la forma ha generar 
+
+			seleccionada entre las opciones de "mask/gen circle - square"
+
+
+
+		_gen position:
+
+			_ésta opción nos permite indicarle una posición a la forma generara en las opciones
+
+			seleccionada entre las opciones de "mask/gen circle - square"
+
+
+		_show targe:
+
+			_(indeterminado)
+
+
+	(click to edit) preview:
+
+		_ésta opción nos permite visualizar el efecto creado así, como también, si le hacemos doble
+
+		click, sobre éste panel podremos entrar en una interface, personalizada en la cuál, 
+
+		podremos personalizar nuestros propios efectos a través, de degradados editables entre 
+
+		otras opciones de configuración
+
+
+	_flip:
+
+		_ésta opción nos pemrite invertir los colores del sistema de efectos
+
+
+	_match size:´
+
+		_éstas opciones nos permite re orientar el sistema pudiendo así, modificar la ubicación
+
+		del centro del sistema, pudiendo colocar éste en el centro de la composición, hacia la
+
+		derecha, izquierda, arriba ó hacia abajo
+
+
+	_start marker:
+
+		_ésta opción nos permte variar la ubicación del centro del sistema, ésta opción está
+
+		relacionada con la opción anterior más ésta opción es totalmente manual
+
+
+	_size:
+
+		_ésta opción nos permite variar el tamaño ó escala del sistema, haciendo éste más próximo
+
+		ó elejado del viewport
+
+
+	_rotation:
+
+		_ésta opción nos permite rotar el sistema de cara el viewport
+
+
+	_warp angle:
+
+		_ésta opción nos permite graduar el ángulo de la distorción aplicada al sistema
+
+	
+	_phase shift:
+
+		_ésta opción nos pemrite desplazar ó desfazar el sistema en relación ha su centro de forma
+
+		dinámica ó nodal, de ésta manera, podremos animar el sistema de forma natural en relación
+
+		al diseño intríncico ha su propia forma
+
+
+	_outer edges:
+
+		_éstas opciones determinan la expansión del sistema en relación al módulo que lo conforma
+
+		y a los super módulos que se generan en relación al resto del viewport
+
+
+		_de ésta manera, el módulo ó modelo simple puede mostrarse de manera unitaria ó sangrada y
+
+		extendida a través, de repeticiones ó modulaciones del mismo
+
+
+		_repeat gradient:
+
+			_ésta opción repide todo el sistema ó módulo haciendo el sistema infinito dentro
+
+			del viewport
+
+
+		_mirrow gradient:
+
+			_ésta opción petite ó modula el sistema reflejando ó invirtiendo el módulo logrando
+
+			efectos alternativos aunque igualmente infinitos en la relación al viewport
+
+
+		_last color:
+
+			_ésta opción no repite el módulo si no que en vez, repite ó extiendo el último 
+
+			color del módulo haciando así, infinito el sistema en relación al viewport
+
+
+		_no color:
+
+			_ésta opción no hace extensible el módulo permitiendo así, sólo mostrar el módulo
+
+
+	_scale repeats:
+
+		_ésta opción permite escalar de forma exponencial las réplicas ó modulaciones del módulo
+
+		base que hemos creado, de ésta manera, cuando la escala es pequeña, podremos liminar el
+
+		sistema en general, más cuando la escala es mucho más grande ésta logrará efectos 
+
+		diferentes y bastante recomendables
+
+
+	_stretch:´
+
+		_ésta opción nos permitirá distorción el sistema en general, así éste puede tomar una forma
+
+		más ovoide ó circular, de ésta manera, a través, cercanos ha "100", el sistema se 
+
+		presentará de forma circular y con valores cercanos ha "0", el sistema se presentará con 
+
+		una forma ovoide
+
+
+	_trans/boot:
+
+		_ésta opción hará transparente al sistema haciando visible la layer, de fondo
+
+
+	_fine detail:
+
+		_ésta opción le permitirá al sistema representar mejor el sistema al tener así una mayor
+
+		solución y capacidad de detalle
+
+
+	_blend mode:
+
+		_ésta opción nos permite integrar el sistema con las demás layers, de la composicion a 
+
+		través de diferentes modos de fusión permitidos
+
+
+	_online documentation:
+
+		_ésta opción nos permite redirecciorarnos ha un enlace externo del fabricante del plugins,
+
+		para una mayor documentación de detalles
+
+
+
+
+
+
+
+
+
+	

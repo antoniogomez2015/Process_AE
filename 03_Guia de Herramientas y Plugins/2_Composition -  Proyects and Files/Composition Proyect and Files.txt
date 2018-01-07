@@ -1,0 +1,115 @@
+
+Composition Proyects and Files, para After Effects
+
+
+	Referencia
+
+		http://aescripts.com/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Export For Client v1.0.0:
+_________________________
+
+	
+	Descripción: (éste permite exportar tanto archivos de texto como frames, de animación para clientes)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(C) / Toobar left superior / Referencia (al lado izquierdo del panel proyecto por fefault)
+
+
+	Referencia en la web: http://aescripts.com/exportforclient/
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+pt  Contact Sheet:
+__________________
+
+	
+	Descripción: (éste permite hacer hojas de contactos de marcas en la composición para clientes)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(C) / Toobar left superior / Referencia (al lado izquierdo del panel proyecto por fefault)
+
+
+	Referencia en la web: http://aescripts.com/compsfromspreadsheet/
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+CompsFromSpreadsheet 5:
+_______________________
+
+	
+	Descripción: (éste permite hacer automatizaciones de contenidos de layers, de textos a través, de archivos externos)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(D) / Panel Proyecto / Referencia (Panel Proyecto por default)
+
+
+	Referencia en la web: http://aescripts.com/compsfromspreadsheet/
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Save Comp As Proyect_V2:
+________________________
+
+	
+	Descripción: (éste permite salvar ó guardar una composición como un nuevo proyecto, muy útil para producción
+
+		      para luego ser utilizada en otro proyecto)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(D) / Panel Proyecto / Referencia (Panel Proyecto por default)
+
+
+	Referencia en la web: http://aescripts.com/save-comp-as-project/
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Dynamic Comp:
+_____________
+
+	
+	Descripción: (éste permite salvar ó guardar una composición como un nuevo proyecto, para luego ser utilizada en 
+
+		      otro proyecto para luego ser actualizada dinámicamente)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(D) / Panel Proyecto / Referencia (Panel Proyecto por default)
+
+
+	Referencia en la web: http://aescripts.com/bao-dynamic-comp/
+
+
+
+

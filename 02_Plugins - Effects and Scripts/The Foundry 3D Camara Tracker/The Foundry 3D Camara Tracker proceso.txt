@@ -1,0 +1,143 @@
+
+
+
+	1_cargamos el material ó source al timeline
+
+	2_ahora aplicamos el efecto de CamaraTracker, yendo al "Menú/Effects/The Foundry/CamaraTracker(1.0)"
+
+	3_ahora debemos ajustar la calidad de visualización de la capa, para esto seleccionamos la capa de source, en e timeline y vamos al 
+
+	"Menú/Layer/Quality/Best", shortcut: Control+U 
+
+	4_también la calidad de la visualización en el viewer ó ventana de composición, debemos colocarla en calidad "Full", para esto desplegamos el 
+
+	menú de la calidad ó modo de visualización en el panel composición y seleccionamos el modo "Full", ó utilizamos su shortcut: Control+J
+
+	5_ahora procedemos ha ajutar las propiedades del plugins CamaraTracker/Display, y seleccionamos "Pint Quality", para así, ver en el proceso de trackeo
+
+	los puntos de seguimiento buenos y los malos, estos se diferencian por su color, el cuál va de verde hasta rojo, siendo los verder correctos y los verdes incorrectos
+
+		5.1_en la opción de CaramaTracker/Display/ "Point Quality", tenemos la opción de ver si un point esta mal, y si es así, podemos seleccionalo haciendo sobre el Mouse Left+Click, y 
+
+		luego le damos a suprimir para así, eliminarlo para que de esta manera éste no afecto al resultado del proceso del track
+
+	6_en este punto tenemos dos opciones en las opciones de "CamaraTracker/Analisis Range/", para seleccionar una área ó segmento deseado para el proceso de track, estos son:
+
+		6.1_Source Clip Rnage: esta opción tomará como área seleccionada para el trackeo, el área seleccionada en el "workarea", en el timiline
+
+		6.2_Specified Range, nos permite en el mismo plugins, seleccionar un rango que va desde (0-100%), a través de "Analisis Start/Analisis Spop"
+
+	7_de ser necesario al ser muy complejo nuestro material podemos hacer ajustes en los criterios que y  agudeza que utilizará el proceso de track, para vamos a las opciones:
+
+	"CamaraTracker/Tracking/", en cuales encontraremos una serie de controles, los cuales son:
+
+		7.1_Number of Features: (se refiere a la cantidad de puntos que utilizará para realizar el análidis)
+
+		7.2_Detection Threshold: (umbral de detección, esto afecta cuán sensible será cada punto de seguimiento)
+
+		7.3_Feature Separation: (se refiere a la separación relativa entre punto y punto)
+
+		7.4_Track Threshold: (umbral de seguimiento, indica cuán fidedigno ó rígido  ó suavizado será el seguimiento y fiel al movimiento original)
+
+		7.5_Track Smoothness: (suavizado del seguimiento, indica cuán suavizado será el movimiento ó no)
+
+		7.6_Track Consistency: (cnsistencia de segumiento, afecta la continuidad del rastreo entre un paso y pasos anteriores)
+
+		7.8_Track Validation: (tipo de cárama, nos da a seleccionar que tipo de cámara tomó el material; entre las opciones "Free Camara/Rotaring Camara")
+
+	8_ahora prodecemos a lanzar el proceso de "track", para vamos a "CamaraTracker/Track Features/", y aplicamos el proceso de "Track Features", así, se iniciará
+
+	el proceso de trackeo, el cuál constará de dos pases, uno de ida y otro de venida (forward, y backward), en el workarea, del tieme line
+
+	9_ahora debemos fijar los datos de track a través de una proyección de cámara, para así, poder utilizardos en diferentes procesos, para esto, luego de haber terminado 
+
+	el proceso de "Track Features", sin "interrupciones", vamos al "Menú/CamaraTracker/Solve Camara/", y aplicamos "Solve Camara", este proceso nos arojará los siguientes datos:
+
+		9.1_Reference frames = ej: 58
+
+		9.2_Keyframes = ej:17
+
+		9.3_Total RMS reprojection error = ej: 1.36 pixels
+
+	10_Luego de haber aplicado el proceso de "CamaraTracker/Solve Camara", debemos ajustar las opciones de "CamaraTracker/Refine", para así, ajustar ó afinar
+
+	el resultado final hasta lograr un resultado aceptable en relación al propósito deseado, para esto debemo ajustar las opciones de "CamaraTracker/Refine:/"
+
+		10.1_Track-Points: (se refiere al resultado del track con la utilización de ej: 130/point)
+
+		10.2_Track-Lfetime-Min (vida mínima del punto de trackeo, esta opción es especialmente útil para seguir las variaciones del movimiento y rotación y escala)
+
+		10.3_Track-Lifetime-Avg (average de la vida mínima, crea una media entre la vida mínima y máxima entre los puntos de trackeo)
+
+		10.4_Track-Distance-Max (máxima distancia entre los puntos de trackeo, afecta la distancia relativa entre los puntos resultantes del trackeo)
+
+		10.5_Solve-keyframes (fotogramas almacenados)
+
+		10.6_Solve-Overall Error (errores encontrados y almacenados)
+
+		10.7_Solve-Margin of Error (errores alineados y almacenados)
+
+		10.8_Solve-per Frame Error-Avg (average de errores almacenados por fotograma)
+
+		10.9_Solve-Per Frame Error-Max (errores máximos almacenados por fotograma)
+
+		10.10_Solve-Per Track Error-Max (errores máximos almacenados por track/serguimiento)
+		
+		10.11_Threshold-Track-Lifetime-Min (umbral de la vida mínima por track/seguimiento)
+
+		10.12_Threshold-Track-Distance-Max (máxima distancia del umbral de seguimiento)
+
+		10.13_Threslhold-Solve-Frame Error-Max (umbral de los errores máximos almacenados por fotograma)
+
+		10.14_Threshold-Solve_Track Error-Max (umbral de los errores máximos almacenados por track/seguimiento)
+
+	
+	las opciones más revelantes para limitar el umbral alcanzado por proceso de trackeo, son las siguientes: (para hacer los ajustes pertinentes debemos activar las opción de visualización del mograph, shortcut: Shift+F3)
+
+		10.9_Solve-Per Frame Error-Max (debemos seleccion el ícono de la "curve edit", de esta propiedad para así, ver solamente esta propiedad activada en el mograph)
+
+		10.13_Threslhold-Solve-Frame Error-Max (luego devemos mover el valor de esta propidad hasta lograr una mejor resultado)
+
+		"al hacer este tipo de cambios de ajustes; debemos entonces volver ha aplicar la opción de CamaraTracker/Solver Camara"
+
+
+	11_al tener todo ya ajustados podemos ahora si, crear nuestra escena 3D, para esto, vamos "CamaraTracker/Create Scene", y allí le damos a "Create Scene"
+
+	esto nos creará una "cámara", y un "Null object", 
+
+	12_en este punto ya podemos utilizar las escena 3d, ya sea para crear puntos de referencia como lo son Null object, ó planos y así, como exportar a otras aplicaciones de producción y 3D
+
+	13_para crear geometría a través de los puntos de trackeo existentes en la escena, tenemos dos opciónes ó procesos 
+
+		(criterios generales: para crear un "Null Object", debemos seleccionar un punto de trackeo, dentro del panel de composición)
+
+		(para crear un plano debemos seleccionar múltiples punto de trackeo, en el panel de composición, esto lo hacemos haciendo "Mouse/left click + draw", de esta manera al ir a las opciones de creación nos aparecerán las opciones de "Create/Solid")
+
+		(al crear un "Null object", ó "plano/solid", debemos ajustarlo ó ubicarlo en la sección, lugar ó plano dentro de la escena para que tenga coherencia el plano respectivo)
+
+			13.1_seleccionar un punto de trackeo en el panel de composición, haciendo "Mouse left+click", y con este punto seleccionado hacer "Control + Mouse right+click", y seleccionar 
+		
+			una de las opciones del menú contextual
+
+			13.2_seleccionar un punto de trackeo en el panel de composición haciendo "Mouse left+click", y luego vamos al menú que agrega el plugins CamaraTracker, dentro del panel de composición,
+
+			en su parte inferior izquierda, allí podremos ir a Create/Nulls.. ó Solids...para crear planos dentro la escena
+
+	14_ya en este punto tenemos la posiblidad de exportar nuestro proyecto para ser utilizado ó continuar con el proceso de prodcción en Cinema 4D,
+
+	para seleccionamos el CamaraTracker, y vamos el "Menú/File/Export/Cinema 4D Exporter", esta es una opción que es agregada por el plugins para poder posar la escena, de la cámara y nulls y planos dentro de cinema 4D,
+
+	exportando así, un archivo .c4d, para luego ser importado por cinema 4d, y así, poder tener dentro de cinema 4d, la cámara y el seguimiento así, como nulls y planos creados en  After Effects, que servirán como los puntos de referencia del trackeo
+
+
+
+
+
+
+
+
+		
+
+		
+
+

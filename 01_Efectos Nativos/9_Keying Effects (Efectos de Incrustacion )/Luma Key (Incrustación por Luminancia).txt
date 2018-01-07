@@ -1,0 +1,155 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear un incrustamiento de color ó keygin, a través, de los valores de liminancia 
+
+	de la imágen un poco similar al efecto de "Effects/Keying/Extract", más el efecto de "Luma Key", nos permitirá
+
+	otros controles de oscilación del umbral de gamma de todo el rango tonal de la imágen el cuál, será graduable
+
+	y animable
+
+
+	_lo que nos permitirá crear efectos de chroma simples con imágenes con colores seleccionados con pocos problemas
+
+	de iluminación y demás defectos como arrugas, otros
+
+
+	_como también, nos permitirá hacer transiciones de mattes, con diferentes valores en rango de luminancia ó gamma 
+
+	para diferentes efectos de paso contínuo y otros procesos de producción
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Luma Key: (Incrustación por Luminancia)
+	_________
+
+
+		_Key Type:
+
+
+			_Key Out Brighter:
+
+				_ésta opción tomará como valores de luminancia primaria, las áreas con una mayor luminancia
+
+				ó áreas más claras de la imágen para la generación del matte, del proceso del efecto
+
+
+			_Key Out darker:
+
+				_ésta opción tomará como valores de luminancia primaria, las áreas con una menor luminancia
+
+				ó áreas más oscuras de la imágen para la generación del matte, del proceso del efecto
+
+
+			_Key Out Similar:
+
+				_ésta opción tomará como valores de luminancia primaria, las áreas con una luminancia más
+
+				grandes de la imágen, como el color de la piel, entre otros motivos posibles para la 
+
+				generación del matte, del proceso del efecto
+
+
+			_Key Out Dissimilar:
+
+				_ésta opción tomará como valores de luminancia primaria, las áreas inversar del proceso
+
+				de la opción anterior de "Key Out Similar"
+
+
+
+		_Threshold:
+
+			_ésta opcíon nos permitirá oscilar ó desplazar el "rango", del umbral de luminancia seleccionado ó
+
+			indicado lo que nos permitirá hacer animaciones de mmates, anidados entre otras muchas posibilidades
+
+			de producción y procesos de paso contínuo
+
+
+			_de ésta manera, ésta opcíon estará superditada a los valores indicados en las opciones de "Tolerance",
+
+			del valor siguiente
+
+
+		_Tolerance:
+
+			_ésta opción nos pemritirá indicar el "rango", ó umbral de luminancia seleccionado para que así, 
+
+			podamos marginar el rango de luminancia de trabajo el cuál, posteriormente podremos animar ó modificar
+
+			a través, del valor de "Threshold"
+
+
+		_Edge Thin:
+
+			_ésta opción nos permitirá extender ó retraer los bordes generados entre la imágen visible y la parte
+
+			de la imágen eliminada así, como también, nos permitirá generar un efecto de pseudo posterización
+
+
+		_Edge Feather:
+
+			_ésta opcíon nos permitirá generar el efecto de "Feather", ó disfuminado de los bordes lo que nos
+
+			permitirá crear un mejor calado entre la imágen visible y la parte de la imágen borrada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

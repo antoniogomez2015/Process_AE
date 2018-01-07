@@ -1,0 +1,161 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/utility-effects.html#grow_bounds_effect
+
+				https://helpx.adobe.com/es/after-effects/using/color-management.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+		Tutorial:
+
+			Extender limites de los objetos (Grow bounds) - After effects para principiantes
+				https://www.youtube.com/watch?v=qa8pdgAn-cY
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_Overbrights es una utilidad para identificar rápidamente áreas de colores excesivamente brillantes en 
+
+	proyectos de 32 bpc (flotador). 
+
+
+	_Puede elegir entre tres canales, RGB, Luminosidad o Luminosidad.
+
+
+	_Cada selección de canal ofrece dos opciones de visualización, recortadas o sólidas, donde las opciones 
+
+	recortadas muestra valores sobrebrillantes en el Color del clip seleccionado y extracto de opciones sólidas
+
+	y muestra solo valores sobrebrillantes, coloreados en rojo, verde y azul para identificarlos fácilmente en 
+
+	qué canal RGB fueron encontrados. Overbrights es el compañero perfecto para efectos tales como Niveles y 
+
+	Exposición, donde cada ajuste de los valores de sobrerreflexión puede verse al instante y controlarse con 
+
+	gran precisión. Este efecto no encontrará ningún colores sobrebrillantes en proyectos de 8 bpc y 16 bpc 
+
+	debido a su rango de color fijo.
+
+
+	Nota. Al usar opciones de Luminosidad o Luminosidad, los píxeles no están marcados como sobrerrelleno
+
+	aún puede contener valores sobrebrillantes en canales RGB individuales
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Overbrights: (CC Overbrights)
+	_______________
+
+
+		_Channel:
+
+
+			_RGB Solid:
+
+				_ésta opción nos permitirá indicarle al sistema un criterio ó algoritmo de trabajo,
+
+				en éste caso el sistema tomará el color RGB, de la imágen base
+
+
+			_Lightness Solid:
+
+				_ésta opción nos permitirá indicarle al sistema un criterio ó algoritmo de trabajo,
+
+				en éste caso el sistema tomará el brillo ó las altas luces de la imágen base
+
+
+			_Luminance Solid:
+
+				_ésta opción nos permitirá indicarle al sistema un criterio ó algoritmo de trabajo,
+
+				en éste caso el sistema tomará los valores de luminancia ó contraste, de la imágen 
+
+				base
+
+
+			_RGB Clip:
+
+				_ésta opción nos permitirá indicarle al sistema un criterio ó algoritmo de trabajo,
+
+				en éste caso al sistema le estaremos indicando que le asigne un color personalizado
+
+				en las áreas con un color excesivo dentro del RGB de la imágen base
+
+
+			_Lihtness Clip:
+
+				_ésta opción nos permitirá indicarle al sistema un criterio ó algoritmo de trabajo,
+
+				en éste caso al sistema le estaremos indicando que le asigne un color personalizado
+
+				en las áreas con más brillo y altas luces dentro de la imágen base
+
+
+			_Luminance Clip:
+
+				_ésta opción nos permitirá indicarle al sistema un criterio ó algoritmo de trabajo,
+
+				en éste caso al sistema le estaremos indicando que le asigne un color personalizado
+
+				en las áreas con valores de luminancia y contraste excesivos dentro de la imágen base
+
+
+
+		_Clip Color:
+
+			_ésta opción nos permitirá indicarle al sistema un color personalizado para que así, el 
+
+			sistema a través, de éste color nos indique lás áreas con valores excesivos en la imágen 
+
+			base
+
+
+			_para lo cuál, dispondremos de un picker, ó de un selector personalizado a través, del cuál,
+
+			podremos indicar un color personalizado
+
+
+
+
+
+
+
+
+
+
+
+
+

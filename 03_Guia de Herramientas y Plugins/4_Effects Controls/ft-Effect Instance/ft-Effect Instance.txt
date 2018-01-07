@@ -1,0 +1,92 @@
+
+
+
+
+ft-Effect Insstance
+
+
+	Referencia:
+
+		http://aescripts.com/ft-effect-instance/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar análisis de los efectos aplicados en una composición ó proyecto general ésto es especial
+
+	mente  útil para estudiar el impacto detalles de una composición para sus diferentes capas y efectos deseados
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite activar ó desactivar efectos de las layers, existentes sin la necesidad de que éstas layers, 
+
+	respectivas estén seleccionadas ó no
+
+
+	_ésto es especialmente útil para la edición y composición así, como para el estudio y comparación de layers,
+
+	con efecto y sin efecto determinado lo cuál, aumenta la productividad y desarrollo avanzado en producción
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_primero debemos crear una una composición base de trabajo
+
+
+	_luego debemos tener una layer, a la cuál, previamente le hemos aplicado el efecto el cuál, deseamos duplicar
+
+	de forma relacionada
+
+
+
+Copy Effect:
+
+	_así, luego procederemos ha seleccionar el efecto respectivo deseado, tanto el en el panel "efect control", como
+
+	en el timeline
+
+
+	_así, con el efecto seleccionado vamos al panel "ft-Effect Instance", y hacemos "Copy Effect"
+
+
+
+Paste instance:
+
+	_más ahora podremos crear una nueva composición ó en la misma composición y crear una nueva layer, a la cuál, le
+
+	aplicaremos el efecto a modo de instancia del original
+
+
+	_y así, con la nueva layer, seleccionada vamos al panel "ft-Effect Instance", y hacemos "Paste Instance"
+
+
+	_de ésta manera el efecto se pegará en la nueva layer, más con con todos sus parámetros relacionados para que
+
+	así, al hacer algún cambio en el efecto original éstos se vean reflejado en el efecto instancia
+
+
+
+Enable/Disable Link:
+
+	_ésta opción es muy importante ya que permite activar y desactivar el sistema temporalmente para efectos de disparidad
+
+	y correcciones entre otras opciones
+	
+

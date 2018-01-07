@@ -1,0 +1,99 @@
+
+
+
+
+	Tracker ó Rastreo en After Effects
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Panel "Track/rastreador; criterios" (options)
+	_____________________________________________
+
+
+	1. las opciones más importantes del panel "Track/seguimiento", son las siguientes a considerar:
+
+
+		1.1.Track Name: aqui podemos indicar un nombre para los diferentes trackeos que necesitemos hacer y 
+
+		recuperar
+
+
+		1.2.Tracker Plu-in: esta opcion permite selecciona plugins de terceros fabricantes 
+
+
+		1.3.Channel: esta opción permite indicar el criterio en el cual la aplicación va a realizar el muestreo 
+
+		de pixeles
+
+
+			1.3.1.RGB: esta opción permite indicar un muestreo que tiene los criterios de luminancia y 
+
+			saturación (esta opción es un poco más lenta pero más precisa)
+
+
+			1.3.2.Luminance: esta opción tiene como criterios los valores de iluminación para el cálculo y 
+
+			muestreo de los pixeles
+
+
+			1.3.3. Saturation: esta opción tiene como criterios la saturación del color como criterio cálculo 
+
+			para el muestreo de piexeles
+
+
+
+		1.4.Process Before Match/procesar antes de aplicar coincidencia: esta opción se utiliza con imágenes que 
+
+		tienen ruido, esta opción desenfoca y debemos indicar la cantidad de desenfoque para mejorar la precisión 
+
+		de la herramienta
+
+
+		1.5.Track Fields/campos de pista ó video entrelazado: esta opción permite indicarle a la herramienta el 
+
+		tipo de material a trackear; si el material es "entrelazado", debemos activar esta opción, si el material 
+
+		es "progresivo" debemos desactivar es opción
+
+
+		1.6.Subpixel Positioning/posicionamiento de subpixeles: esta opción activa permite una mayor presición a 
+
+		cambio de un pequeño relentizado en el tiempo de trackeo
+
+
+		5.7.Adapt Feature On Every Frame/adaptar características en cada fotograma: esta opción aplica para cuando 
+
+		el grupo de pixeles que estamos siguiendo se va a perder; deteniendo el trackeo temporalmente, luego debemos 
+
+		indicar los criterios a utilizar por la herramienta en el momento que aplique ésta cuando se pierdan los 
+
+		pixeles, estos son:
+
+
+			1.7.1.continue tracking/continuar seguimiento: al perderse los pixeles con esta opción seguiría el 
+
+			trackeo y sería lo mismo que si no activamos esta opción de "Adapt Feature On Every Frame"
+
+
+			1.7.2.Stop Tracking/detener movimiento: esta opción detiene el trackeo para que podamos hacer 
+
+			correcciones en el momento que se piertan los pixeles de muestreo
+
+
+			1.7.3.Extrapolate Motion/extrapolar movimiento: en base al movimiento que ya ha calculado, calcular 
+
+			las posiciones en las que debería estar los piexeles que estamos trackeando	cuando éstos han 
+
+			desaparecido para generar criterios con pixeles similares y continuar con el trackeo
+
+
+			1.7.4.If Confidence is Below/si la conincidencia es menor 80%: aqui indicamos el porcentaje de 
+
+			pixeles que deben desaparecer para que aplicaque la herramienta
+
+		

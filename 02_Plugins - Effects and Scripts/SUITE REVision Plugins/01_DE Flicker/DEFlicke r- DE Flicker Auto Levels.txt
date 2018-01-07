@@ -1,0 +1,330 @@
+
+
+
+Official Site:
+
+	http://revisionfx.com/
+
+		http://revisionfx.com/products/
+
+
+	YouTube Channel:
+
+		https://www.youtube.com/user/revisionfx/playlists
+
+
+		DEFlicker Tutorials/Playong List:
+
+			https://www.youtube.com/watch?v=ROG9Cx09xr4&list=PLJZE0COAfWUXTkWdhbkaO5GflW3hWJZ4h
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+DEFlicker:
+__________
+
+	_el plugins, deflickers, nos permite eliminar el efecto estroboscópicos en videos el cuál, puede producirse por
+
+	deferentes causas en un video	
+
+
+	_así, disponemos de tres variantes de éste plugins, las cuales son;
+
+
+		_High Speed
+
+		_Time Lapse
+
+		_Auto Levels
+
+
+	_la versión de plugins, "DE: Flicker Auto Levels", especialmente útil para flicker, producido por flashes, e 
+
+	intermitencias de iluminación general en la escena, entre otras posibilidades similares
+
+
+	_y sobre todo para trabajar en conjunto con la versión del plugins "DE: Flicker TimeLapse", ya que éste incrementa
+
+	las posbilidades de éste
+
+
+
+	Settings:
+	_________
+
+	_así, lo primero que hay que hacer es cargar el material de archivo ó source, ha after effects, para lo cuál debemos
+
+	hacer doble click, sobre el panel "Project", para que así, se abra el explorador a través, del cuál, podremos navegar
+
+	hasta la ubicación del archivo
+
+
+	_luego de haber importado el arvhivo de video, debemos de seleccionarlo en el panel project, para que así, éste nos 
+
+	muestre las información de éste video en el panel project, en la parte superior de éste
+
+
+	_de ésta manera, podremos ver por ejemplo que dimensiones en pixeles tiene el video así, como frame rate, si es un vodeo
+
+	de 24f, 30f, ó frames, por segundo
+
+
+	_de ésta manera, podremos verificar si hay algún problema de interpretación ó campatibilidad en la composición actual y 
+
+	el material de archivo, para lo cuál, contamos con el panel "Interpret Footage", y para acceder ha éste panel tendremos
+
+	que seleccionar el footage, ó video en el panel project, y con éste seleccionado aplicar el suiente shortcut; 
+
+	"Control + Alt + G"
+
+
+	_de ésta manera en éste panel podremos ajustar el frame rate, del video así, como también, los campos para videos 
+
+	entrelazados, el aspecto del pixel, como también, el perfil del color
+
+
+	_y leugo de haber configurado las propiedades del video es altamente recomendable crear un nueva composición a través, de
+
+	las propiedades del video para lo cuál, la opción más fácil es arrastrar el footage, ó material de archivo el ícono de 
+
+	"composition", en la parte inferior del panel project, para que el sistema cree una nueva composición a partir de los 
+
+	parámetros del video
+
+
+
+DE: Flicker Auto Levels:
+________________________
+
+	_así, luego de haber revisado y ajustado las propiedades del video ó source, y de haber creado una nueva composición, podremos
+
+	ahora aplicar el efecto de "Effects/RE:Vision Plugins/DE:Flicker Auto Levels", ésta opción es especialmente útil para casos en
+
+	donde el flicker, ó efecto estroboscópio es visible por elementos luminosos y de alto contraste
+
+
+	_a connuación se explicarán las características más importantes del plugins, ha tener en cuenta:
+
+
+	-------------------------------------------------------------------------------------------------------------------------------
+
+
+
+	_Analize:
+
+		_esta opción es requerida ya que el sistema requiere hacer un análisis previo del video el cuál, será fijado en los 
+
+		valores de "Analize Data", y así, como también, en "Reference channel amount", luego de haber hecho el análisis del video
+
+
+		_para ésta opción es recomendable editar el video en su diración previamente en un render para acortar el video de ser
+
+		requerido ya que el sistema no reconoverá la edición recortado nativa de after effects
+
+
+	_Analize Data:
+
+		_en ésta opción será volcado todo el análisis ha modo de keyframes, en cada uno de los parámetros  como los son:
+
+
+			_AvgColorR/G/B
+
+			_DegColorR/BG/B
+
+			_MinVal %
+
+			_MaxVal %
+
+
+		_a través, de los siguientes parámetros que tenemos que seleccionar antes de realizar el análisis:
+
+
+			_Analize all frames:
+
+				_ésta opción analizará todos los frames, de material de video
+
+
+			_Analize fom start to stop frames:
+
+				_ésta opción analizará los frames, desde el inicio hasta la detención del video
+
+
+			_Set Current Time as Start Frame:
+
+				_ésta opción tomará el tiempo ó frame, actual como primer frame, del análisis
+
+
+			_Set Current Time as Stop Frame:
+
+				_ésta opción tomará el tiempo ó frame, actual como primer frame, del análisis
+
+
+
+	_Reference channel amount:
+
+		_ésta opción es muy útil ya que nos muestra una visualización espectral a modo de gráfico en el graph editor,
+
+		del timeline, así, para poder ver ésta visualización debemos ir al timeline, y desplegar las opciones de plugins
+
+
+		_para ésto, debemos seleccionar el la layer, de video en el timeline, y aplicar el shortcut; "E/E", y desplegar
+
+		las opciones del plugins, y buscar la opción de "Reference channel amount"
+
+
+		_para leugo, con ésta opción seleccionada cambiar ha modo de visualización del tiemline, ha graph editor, shortcut;
+
+		"Shift + F3"
+
+
+		_de ésta manera, podremos tener una visualización de lás áreas con problemas a través, de los picos y depreciones 
+
+		en el graph editor
+
+
+	_Adjust Time Range (+/- frames):
+
+		_ésta opción nos permite indicar la cadencia ó intervalos de frames, de forma comparativa, la opción por dfecto es "2", 
+
+		la más recomendable
+	
+
+
+	_Adjust Mode:
+
+		_ésta opción nos permite indicar los creterios de acción sobre el video para el análisis así, podremos seleccioanr entre
+
+		los siguientes tipos de acción sobre el video:
+
+
+			_Off:
+			
+				_ésta opción nos tomará ajustes sobre el video para realizar el análisis
+
+
+			_Use Analysis to set Levels:
+
+				_ésta opción tomará ajustes sobre los niveles de luminancia para realizar el análisis
+
+
+			_Used Hystogram:
+
+				_ésta opción tomará los ajustes sobre la luminancia a través, del histograma para realizar el análisis
+
+
+			_Levels + Histogram:
+
+				_ésta opción tomara tanto la opción de niveles como de histograma para hacer los ajustes de luminancia
+
+				para realizar el análisis
+
+
+	_Adjust Frame Logic:
+
+		_ésta opción nos permite indicar una ayuda para los criterios del algoritno del cálculo del análisis así, podremos 
+
+		seleccionar entre las siguientes opciones:
+
+		
+			_Normal
+
+				_tomará elementos en la escena con una iluminación normal a la escena misma
+
+			_Only lighter than
+
+				_tomará elementos en la escena sólo con una iluminación mayor a la normal en la escena misma
+
+			_Only darker than
+
+				_tomará elementos en la escena sólo con una iluminación menor a la normal en la escena misma
+
+
+
+	_Mark Segments:
+
+		_ésta opción nos permite elegir entre diferentes criterios para los cortes realizados sobre el video para remuestrear las áreas
+
+		dle video con flicker, entre los cuales disponemos de:
+
+		
+			_Cut A
+
+			_Cut B
+
+			_Cut C
+
+			_Dissolve (Ingnore Local Correction)
+
+
+
+	_Filter Out Frames:
+
+		_ésta opción nos permite indicarle al sistema los criterios los frames, de descarte por detección de flicker, así, podremos elegir
+
+		entre los siguiente:
+
+
+			_Used all:
+
+				_ésta opción utilizará todos los frames, para calcular los frames, ha excluir que contengan flicker
+
+
+			_Use only odd frame number:
+
+				_ésta opción utilizará sólo los frames inpares, para calcular los frames, ha excluir que contengan flicker
+
+
+			_Use only even frame number:
+
+				_ésta opción utilizará sólo los frames pares, para calcular los frames, ha excluir que contengan flicker
+
+
+			_Use only ligher than:
+
+				_ésta opción utilizará sólo los frames, con una iliminación superior a la del resto de la escena de forma comparativa
+
+
+			_Use only darker than:
+
+				_ésta opción utilizará sólo los frames, con una iliminación inferior a la del resto de la escena de forma comparativa
+
+
+
+
+
+Plugins Conjuntos:
+__________________
+
+	_éste plugins, es altamente recomendable utilizarlo con la versión del plugins, "TimeLapse", como una opción extendida ó avanzada para que así, 
+
+	de ésta manera, hagamos el análisis avanzado con la versión del plugins, "Auto Levels", y leugo sobre ésta misma layer, de video y justo debajo
+
+	del plugins "Auto Levels", cargar la versión del plugins "Time Lapse", para que así, multipliquemos las posibilidades de acción ahora entre los
+
+	dos plugins, trabajando al mismo tiempo
+
+
+	_para que así, posteriormente podamos también aplicar todas las herramientas y posibilidades del plugins, Time Lpase, post análisis del plugins,
+
+	Auto Levels
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

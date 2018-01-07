@@ -1,0 +1,35 @@
+
+
+
+Herramientas de Texto para After Effects
+
+
+	Referencia
+
+		http://aescripts.com/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+ASCII Generator:
+________________
+
+	
+	Descripción: (instancias colaterales de animación para motion graphycs)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(D) / Panel Proyecto / Referencia (Panel Proyecto por default)
+
+
+	Referencia en la web: http://aescripts.com/ascii-generator/
+
+
+

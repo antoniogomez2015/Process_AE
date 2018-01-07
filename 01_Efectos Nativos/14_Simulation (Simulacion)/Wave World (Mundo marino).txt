@@ -1,0 +1,497 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+		mundo marino
+
+			https://www.youtube.com/watch?v=rmAD2T4ouXg
+
+
+		Crear líquidos - Tutorial After Effects
+
+			https://www.youtube.com/watch?v=vm_wt-CLpXE&t=1423s
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos pemritirá crear simulaciones de ondas de fluido ha modo de mapa de densidad para lograr
+
+	diferentes de producción y paso contínuo
+
+
+	_como también, diferentes patrones y comportamientos para diferentes efectos como por ejemplo; para la creación
+
+	de una cortina de fondo, de un fractal aleatorio, otros
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	Wave World: (Mundo marino)
+	___________
+
+
+		View:
+
+
+			_Wareframe Preview:
+
+				_ésta opción nos permitirá visualizar el sistema en forma alámbrica para que así, 
+
+				podamos tener una apreciación en tres dimensiones del sistema ondas generado así, como
+
+				también, del mapa de fondo ó mapa de distorsión e influencias en general del sistema
+
+
+			_Height Map:
+
+				_ésta opción nos pemritirá visualizar el mapa de densidad ó deep map, ha generar en dos
+
+				dimensiones, ésta opción también, nos permitirá ver variaciones de los ajustes de la
+
+				sección de "Height Map Controls", como brillo, contraste, gamma, los cuáles, se aplican 
+
+				sobre el mapa de densidad y no sobre la visualización de preview, ó wareframe
+
+
+
+		Wireframe Controls
+
+
+			_Horizontal Rotation:
+
+				_ésta opción nos permitirá hacer rotaciones 3d, del sistema en el eje horizontal ó eje
+
+				"X"
+
+
+			_Vertical Rotation:
+
+				_ésta opción nos permitirá hacer rotaciones 3d, del sistema en el eje vertical ó eje
+
+				"Y"
+
+				
+			_Vertical Scale:
+
+				_ésta opción nos permitirá aumentar ó disminuir la visualización del efecto de 
+
+				distorsión sobre el plano ó la creación de ondas, de ésta manera, podremos ver más ó 
+
+				menos acentuadas el sistema de ondas generado
+
+
+				_ya que ésta opción acercará los planos, tanto el plano de fondo como el plano 
+
+				distorsionado ó de ondas generadas
+
+
+				NOTA: ésta opción sólo afecta a la visualización en modo wareframe, no al deep map,
+
+				generado como render resultante
+
+
+
+		Height Map Controls
+
+
+			_Brightness:
+
+				_ésta opción nos permitirá aumentar el brillo en el mapa de densidad resultante lo que
+
+				lo hará más ó menos potente en su posterior aplicación
+
+
+				NOTA: es recomendable colocar la opción de "View", en "Height Map", para poder ver así,
+
+				ver los cambios aplicados en tiempo real
+
+
+			_Contrast:
+
+				_ésta opción nos permitirá aumentar el contraste en el mapa de densidad resultante lo 
+
+				que lo hará más ó menos potente en su posterior aplicación
+
+
+				NOTA: es recomendable colocar la opción de "View", en "Height Map", para poder ver así,
+
+				ver los cambios aplicados en tiempo real
+
+
+			_Gamma Adjustment:
+
+				_ésta opción nos permitirá aumentar la gama tonal en el mapa de densidad resultante lo 
+
+				que lo hará más ó menos potente en su posterior aplicación
+
+
+				NOTA: es recomendable colocar la opción de "View", en "Height Map", para poder ver así,
+
+				ver los cambios aplicados en tiempo real
+
+
+			_Render Dry Aras As:
+
+
+				NOTA: ésta opción nos permitirá indicarle el sistema como éste se comportará cuando la
+
+				superficie del fondo ó "background", se intercepte con el mapa de densidad ó sobresalga
+
+				por encima ó del mapa de distorsión generado sobre éste, lo cuál, es especialmente útil 
+
+				para diferentes efectos de producción y paso contínuo
+
+
+
+				_Solid:
+
+					_ésta opción no pemrite que el sistema de mapa de densidad generado no permita
+
+					transparencias en sus áreas más oscuras ó en su gama tonas en general
+
+
+				_Transparent:
+
+					_ésta opción si pemrite que el sistema de mapa de densidad generado no permita
+
+					transparencias en sus áreas más oscuras ó en su gama tonas en general
+
+
+			_Transparency:
+
+				_ésta opción nos permitirá controlar el grado de transparencia del mapa de densidad 
+
+				generado en relación a su grado de contraste y gamma tonal, ésta opcíon está superditada
+
+				por la opción de "Render Dry Aras As/Transparent", la cuál, deberá de estar activada
+
+				para que ésta opción tenga efecto
+
+
+
+		Simulation
+
+
+			_Grid Resolution:
+
+				_ésta opcíon nos pemrite controlar la resolución del ssitema a través, de una grilla la
+
+				cuál, representará el grado de definición ó detalle que tendrá el sistema en el modod 
+
+				de "wareframe", y a su vez, en gran medida en el modo de visualización de "Height Map"
+
+
+				_de ésta manera, lo más recomendable es crear y ajustar el sistema en una resolución 
+
+				medio ó baja y cuando el sistema esté terminado subir la resolución hasta lograr el
+
+				efecto deseado, de ésta manera, ahorraremos recursos del sistema y lograremos mojores
+
+				simulaciones
+
+
+			_Grid Res Downsamples:
+
+				_ésta opción nos permite duplicar la resolución del sistema de forma exponencial y sin
+
+				afectar el rendimiento del sistema, ya que ésta opción interpola la grilla simplificando
+
+				ésta y a su vez, el suavizando del mapa de densidad resultante 
+
+
+				_lo cuál, es especialmente útil para lograr mejores simulaciones ya que nos permite 
+
+				hacer simulaciones más complejas con una menor resolución en el apartado anterior de 
+
+				"Simulation/Grid Resolution"
+
+
+				NOTA: ésta opción nos es visible en el modo de "View/Wareframe"
+
+
+				NOTA: ésta opción combiene dejarla desactivada para trabajar en el modo "wareframe", ya
+
+				que de ésta manera, la grilla cobra una mayor resolución aparente, mientras que por el
+
+				contrario; si activamos ésta opcíon la grilla se simplificará perdiendo resolución 
+
+				aparente para lograr así, la interpolación en el modo de visualización de "Height Map"
+
+
+			_Wave Speed:
+
+				_ésta opción nos pemritirá graduar el comportamiento del sistema pudiendo así, hacer 
+
+				unas ondas más ó menos espaciadas en tre sí, como también, un sistema más rígido y
+
+				espaciado ó grande ó todo lo contrario, un sistema más líquido ó pegajoso, otros
+
+
+				_el valor por defecto de ésta opción es de "0.500", en el cuál, es donde el sistema
+
+				se comporta de la forma más líquida, pegajosa y ámplia posible en relación a la escala
+
+				de ampliación del plano base
+
+
+				_más, si colocamos valores cercanos ha "0", las ondas se harán casi imperceptibles lo
+
+				cuál, nos pemritirá hacer efectos más sutiles, otros
+
+
+				_más, por el contrario si colocamos valores mayor ha "1", ó valores superiores como "6",
+
+				ó "10", entonces lograremos sistema más ámplios y rígidos lo cuál, nos permitirá crear
+
+				efectos de superficies con comportamientos más complejos y estructurados para diferentes
+
+				efectos de producción y paso contínuo
+
+
+			_Damping:
+
+				_ésta opción nos permitirá controlar la velocidad de desplazamiento ó controlar la 
+
+				absorción de energía del sistema, lo que nos permitirá crear picos de indulaciones 
+
+				mayores ó menores, de ésta manera, podremos acentuar el sistema ó hacerlo más sutil
+
+
+			_Reflect Edges:
+
+
+				_None:
+
+					_ésta opción nos activa las opciones de rebotes de ondas sobre la escena
+
+
+				_All, left, right, top, buttom ....:
+
+					_Especifica cómo rebotan las olas en los bordes de la capa y vuelven a la 
+
+					escena
+
+
+
+
+			_Pre-roll(seconds):
+
+				_Especifican la viscosidad aparente del líquido y el tamaño aparente de la masa de 
+
+				líquido. Por ejemplo, las ondas se moverán más rápidamente en agua que en miel; las 
+
+				ondas de una pila se moverán y desaparecerán mucho más rápido que en un lago
+
+
+				_lo cuál, quiere decir, que con valores cercanos ha "0", el comportamiento de las ondas
+
+				será más similar al agua
+
+
+				_y con valores cercanos ó superiores ha "1", el comportamiento de las ondas será más
+
+				cercanos a fluidos más densos como la miel, aceites, otros
+
+
+
+		Ground
+
+
+			_Ground:
+
+				_ésta opción nos permitirá seleccionar una layer, de la composición respectiva la cuál,
+
+				hará de fondo del sistema el cuál, a través, de su densidad controlará ó hará de mapa
+
+				de densidad a través, del cuál, se crearán las áreas de acción ó influencia sobre el
+
+				wareframe, de distorsión sobre el sistema de ondas
+
+
+				_de ésta manera, a través, de un mapa de densidad podremos controlar ó modelar el 
+
+				sistema de ondas generado así, como también, podremos marcar éste patrón en el mapa de
+
+				de densidad generado por ele sistema ó en el modo de visualización de "height map"
+
+
+			_Steepness:
+
+				NOTA: "distancia entre el fondo y el wareframe"
+
+
+				_"Pendiente", justa la pendiente del fondo ampliando o contrayendo la altura de la 
+
+				estructura metálica desplazada. La red está bloqueada a nivel del negro, por lo que 
+
+				siempre crece desde el fondo 
+
+
+				_en otras palabras, no puede realizar ajustes para hacer que el fondo de un cañón sea 
+
+				más profundo, solo puede ajustar que el borde sea más alto. Para conseguir que el cañón 
+
+				sea más profundo, combine un ajuste Pendiente más alto con un ajuste de Altura más bajo
+
+
+			_Height:
+
+				NOTA: "altura ó longutud de la unfluencia de fondo en relación al wareframe"
+
+				_Controla la distancia entre la superficie del agua y el punto de mayor profundidad 
+
+				del fondo 
+
+
+
+				_Utilice este control para hacer que la masa de agua sea más o menos profunda, cuando 
+
+				cambie la profundidad del agua, las ondas se comportarán en consecuencia: 
+
+
+					_así, éstas se moverán más rápidamente en aguas profundas y más lentamente 
+
+					en aguas con poca profundidad 
+
+
+					_(Si ajusta el control de Altura cuando utilice la previsualización de la 
+	
+					estructura metálica, puede parecer que se reduce el nivel del fondo, pero la 
+
+					cámara de la estructura metálica siempre se mueve con el nivel del agua)
+
+
+
+			_Wave Strength:
+
+				NOTA: "fuerza y homogeneidad de la influencia ó longitud del fondo en relación al
+
+				wareframe
+"
+
+				_Controla cómo serán de grandes las ondas cuando se anime la altura o la pendiente 
+
+				del fondo. Un valor de 0 no produce ninguna onda.
+
+
+
+		Producer 1/2
+
+
+			Type
+
+				_Ring:
+
+					_ésta opción configura una emisión radial de ondas en el sistema generado 
+
+					de ondas
+
+
+				_Line:
+
+					_ésta opción configura una emisión lineal de ondas en el sistema generado 
+
+					
+
+
+			_Position:
+
+				_ésta opción a través, de un handle, directamente en el viewport, ó en el panel
+
+				"effects controls",  través, del cuál, podres mover y animar el sistema a través, del
+
+				tiempo
+
+
+			_Height/Length:
+
+				_Especifica la altura (vertical) de un productor de Aro y ajusta la longitud de un 
+
+				productor de tipo Línea también,
+
+
+			_Width:
+
+				_especifica la anchura (horizontal) del área del productor
+
+
+			_Angle:
+
+				_Especifica el ángulo del área del productor de ondas para los tipos Línea y Aro. Este 
+
+				control define la orientación de la línea y controla así la dirección inicial de las 
+
+				ondas, que emanan desde cualquier lado de la línea en perpendicular a su largo
+
+
+			_Amplitude:
+
+				_Controla la altura de la onda producida. Los valores mayores crean ondas más 
+
+				espectaculares pero pueden producir recortes, que se pueden reparar con los controles 
+
+				Brillo y Contraste
+
+
+			_Frequency:
+
+				_controla cuántas ondas se producen por segundo. Un valor de "1", causa el efecto 
+
+				de ondas que surcan la superficie cada segundo
+
+
+			_Phase:
+
+				_Especifica en qué parte de la fase de la onda comienza la onda. Por ejemplo, para 
+
+				el ajuste predeterminado de "0°", la primera perturbación en el líquido en una onda 
+
+				convexa (que se proyecta hacia arriba desde la superficie del agua). Con Fase definido 
+
+				a "180°", la primera perturbación en el líquido será una onda cóncava
+
+
+
+
+
+
+
+
+
+
+
+
+
+

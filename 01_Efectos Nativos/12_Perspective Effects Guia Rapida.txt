@@ -1,0 +1,179 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Perspective and Grain Effects:
+	______________________________
+
+
+	_3D Camara Tracker (Rastreador de Camra 3D)
+
+		_éste efecto nos permitirá recuperar la cámara con la cuál, se grabó el video al cuál, le hemos aplicado el
+
+		efecto para que así, podamos hacer un volcado de ésta cámara original en una nueva cámara en la composición 
+
+		respectiva la cuál, a su vez, emulará la cámara original y sus moviminetos y posiciones, otros
+
+		_más también, tendremos la posibilidad de crear planos y elementos en un punto determinado de la escena 
+
+		emulada ó generada para que así, podamos hacer diferentes tipos de montajes en producción y procesos de 
+
+		paso contínuo
+
+
+
+
+	_3D Classes (Gafas 3D)
+
+		_éste efecto nos permitirá generar el efecto de anaglifos entre otros efectos colaterales ha éste proceso
+
+		de ésta manera, podremos crear el efecto de lentes 3d, para diferentes procesos entre otros
+
+
+
+
+	_Bevel Alpha: (Biselar alfa)
+
+		_éste efecto nos permitirá biselar ó crear el efecto de extrusión de una layer, la cuál, tiene un contorno
+
+		definido a través, de un canal alpha, por defecto ó creado ó agregado por nosotros para que así, a través,
+
+		de éste contorno podremos biselar ésta layer, para que así, podamos emular un efecto de pseudo 3d
+
+		_de ésta manera, podremos emular la extrusión 3d, en layer, de tipo texto, shape, solid, imágen, otros,
+
+		sean éstas layers, con máscaras y pre composiciones, otros
+
+
+
+	_Bevel Edges: (Bordes biselados)
+
+		_éste efecto nos permitirá biselar ó extruir layers, con canal alpha, propio ó agregado por nosotros más
+
+		ésta opción a diferencia que el efecto "Bavel Alpha", el efecto de "Bevel Edges", nos permitirá crear ó
+
+		emular el efecto pseuso extrusión 3d, de forma geométrica
+
+		_lo que quiere decir, que ésta opción es más recomendada para layers, con canal alpha, de tipo rectangular
+
+		lo cuál, es especialmente útil layers, de tipo imágenes, sólidos, otros, las cuáles, sean cuadradas ó 
+
+		rectangulares
+
+		_ya que si aplicamos éste efecto en una layer, la cuál, tenga un canal alpha, irregular el efecto de biselado
+
+		se aplicará incorrectamente ya que éste mantendrá su proporción geométricamente cuadrada ó rectangular en
+
+		relación al "bounding box", del canal alpha, de la respectiva layer
+
+
+
+	_CC Cylinder: (Cilindro CC)
+
+		_éste efecto nos permitirá crear una forma cilíndrica 3d, a partir de la layer, de ésta manera, podremo 
+
+		crear una forma geométrica 3d, de forma práctiva y de forma nativa dentro de la aplicación
+
+		_éste cilindro 3d, que podremos generar se creará de forma cerrada, es decir; con un ángulo de creación de
+
+		360, grados exactos lo que quiere decir, que no podremos crear arcos ó parabanes abiertos en grados 
+
+		determinados
+
+		_así, como también, éste cilindro 3d, generado no se creará con las tapas ó "caps", superior ni inferior 
+
+		por defecto así, como tampoco, éste efecto dispone de éstas opciones en sus parámetros de control en el
+
+		panel effects controls
+
+
+
+
+	_CC Sphere: (Esfera CC)
+
+		_éste efecto nos permitirá crear una esfera 3d, a partir de la layer, de ésta manera, podremos crear una 
+
+		forma geométrica 3d, de forma práctiva y de forma nativa dentro de la aplicación 
+
+		_ésta esfera 3d, que podremos generar se creará de forma cerrada, es decir; con un radio de creación de 360, 
+
+		grados exactos lo que quiere decir, que no podremos crear domos ó medias lunas, otros abiertas en grados 
+
+		determinados
+
+
+
+
+	_CC Spotlight: (Foco CC)
+
+		_éste efecto nos permitirá crear un punto de luz realista sobre una layer, ó superficie la cuál, será la
+
+		layer, a la cuál, le hemos aplicado el efecto para que así, podamos emular una iluminación puntual muy 
+
+		realista con decaimiento y bordes suavizados
+
+
+
+
+	_Drop Shadow: (Sombra Paralela)
+
+		_éste efecto nos permitirá proyectar sombras realistas a partir de una layer, la cuál, tenga un área 
+
+		perimetral ó un canal alpha aplicado sea que éste canal alpha, esté incorporado en la respectiva layer,
+
+		ó que lo hayamos agregado nosotros a través, de una máscara ó por medio de un set matte, otros
+
+		_para que así, podamos crear una sombra realista junto con ésta layer, lo cuál, nos permitirá incorporar
+
+		mucho ésta layer, con las demás layers, de la composición respectiva
+
+
+
+
+	_Radial Shadow: (Sombra Radial)
+
+
+		_ésta opción a diferencia de la opción "Drop Shadow", la opción "Radial Shadow", nos permitirá crear 
+
+		sombras igualmente realistas más en éste caso tendremos más libertadad y más características y 
+
+		posibilidades de acción para la generación de la sombra generada
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

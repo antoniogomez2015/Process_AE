@@ -1,0 +1,171 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria crear en efecto de destello de luz concentrica en un punto de luz y a su vez,
+
+	acompañado de un espectro de la imágen a la cuál, le hemos apliado el efecto
+
+	
+	_éste efecto es similar ó trabajaría perfecto con el efecto "CC Light Burst 2.5: (Estallido de Liz 2.5 CC)",
+
+	lo cuál, ayudaría a la generación del efecto zoom, y luz espectral
+
+	
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Light Rays: (Rayos de Luz CC)
+	______________
+
+
+		_Intensity:
+
+			_ésta opción nos permitirá controlar la luz espectral emitida de forma homogenea por el sistema
+
+
+		_Center:
+
+			_ésta opcíon nos pemritirá indicar la ubicación de la generación del sistema ó su epicentro 
+
+			de emisión a través, de un handle, el cuál, podermos personalizar su ubicación
+
+
+		_Radius:
+
+			_ésta opción nos pemritirá aumentar ó disminuir el tamaño de la imágen espectral
+
+			obtenida de la imágen a la cuál, le hemos aplicado el efecto
+
+
+		_Warp Softness:
+
+			_ésta opcíon nos pemritirá graduar la distorsión sobre la imágen espectral obtenida
+
+			de la imágen a la cuál, le hemos aplicado el efecto
+
+
+			_lo que permitirá que podamos hacer diferentes efectos como el efecto "Zoom", ó "star treck",
+
+			así, como galaxias, otros
+
+
+
+		_Shape:
+
+
+			_Round:
+
+				_ésta opción nos permitirá indicar el método de la generación del sistema, la opción
+
+				"redondeada", es la opción por defecto y la más recomendada
+
+
+			_Square:
+
+				_ésta opción nos permitirá indicar el método de la generación del sistema, la opción
+
+				"Cuadratica", es una opción alternativa la que permitirá incluir variaciones al sistema
+
+				generado
+
+
+
+		_Direction:
+
+			_ya que la opción "Shape/Square", permitirá la incorporación de la dirección a la distorsión 
+
+			de la imágen espectral generada por el sistema
+
+
+			_de ésta manera, a través, de poder controlar la dirección de la distorsión podremos crear
+
+			puntos de tensión y de distorsión extra
+
+
+		_Color form Source:
+
+			_ésta opción nos pemritirá indicar que el sistema tome el color para la generación de los 
+
+			destellos, de la imágen a la cuál, le hemos aplicado el efecto, opción predeterminada
+
+
+		_Allow Brightering:
+
+			_ésta opción nos permitirá indicar la generación extra ó concentrada en el área más
+
+			central del sistema
+
+
+			_lo cuál, permitirá un destello más intenso en el epicentro del sistema, ésta opción
+
+			está activada por defecto
+
+
+		_Color:
+
+			_ésta opción nos permitirá indicar un color personalizado para la generación del sistema
+
+			de destellos a través, de un color personalizado, ésta opción estará activa con la opción
+
+			"Color form Source", desactivada
+
+
+		_Transfer Mode:
+
+			_ésta opción nos pemritirá indicar el modo de fusión ó transferencia de la imágen ó efecto
+
+			resltante con el imágen original a la cuál, le hemos aplicado el efecto, de ésta manera,
+
+			disponemos de los siguientes modos de funsión disponibles
+
+
+			_add, lighting, screen, none
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,141 @@
+
+
+
+Sliced Box
+
+
+	Referencia:
+
+		http://aescripts.com/sliced-box/	
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar un panel de "Slice", total mente animable y configurable a través, de módulos en 3d, así,
+
+	como también, permite animar a modo de screen, animable tanto una imágen de una layer, como una composición 
+
+	animada ó un simple texto, éste es especialmente útil para motion graphycs, así, como para diferentes tipos de
+
+	animación en producción, otros
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite hacer secuencias modulares de animación avanzadas a través, de una conformación de módulos 3d, 
+
+	altamente configurables los cuales podemos personalizar y animar al unísono como un todo para aplicaciones de
+
+	animación en producción que permiten la integración otro tipos de sistema de creación y animación, otros
+
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Bascs:
+______
+
+
+
+Input:
+
+
+	Columns:
+
+		_ésta opción permite indicar la cantidad de columnas en vertical que dividirán al sistema de slided box
+
+
+	Rows:
+
+		_ésta opción permite indicar la cantidad de filas en horizontal que dividirán al sistema de slided box
+
+	
+	Box Width:
+
+		_ésta opción permite indicar la profundidad que tendrán los módulos en la cordenada "Z"
+
+
+	SB Pseudo Effect:
+
+		_sin ésta opción activada todos los controles se mostrarán a través, de sliders, personalizados con
+
+		unos controles altamente configurables
+
+		_al activar ésta opción todos los controles se presentarán a modo de plugins nativo con controles
+
+		más formales más éstos estarán un poco más simplificados
+
+
+	Build:
+
+		_ésta opción permite construir el sistema de slided box, con las opciones configuradas previamente
+
+
+Lights & MB:
+
+
+	Cast Shadows:
+
+		_ésta opción permite hacer que el sistema soporte sombras colaterales de otros elementos
+
+
+	Acepts Shadows:
+
+		_ésta opción hace que el sistema acepte sombras de los sistemas de iluminación
+
+
+	Acepts Lights:
+
+		_ésta opción hace que el sistema acepte lices de los sistemas de iluminación
+
+
+	Enable Motion Blur:
+
+		_ésta opción hace que el sistema soporte el efecto de motion blur, de animación
+
+
+	Modify:
+
+		_ésta opción permite hacer modificaciones del sistema a través, de las opciones iniciales de
+
+		configuración del panel "sliced box", pos-creación del sistema, para ésto debemos seleccionar
+
+		en el timeline, la layer/composition, "MasterBox__SS_SlicedBox_1", previamente antes de aplicar
+
+		"Modify" 
+
+
+
+Animation:
+__________
+
+
+	_y para proceder ha animar los módulos y sistema en general debemos seleccionar en el timeline, la layer,
+
+	"Control_SS_SlicedBox_1", para cualquier de las versiones, tanto si a la hora de creación hemos seleccionado
+
+	la opción de "SB Pseudo Effect", ó no
+
+
+	_de ésta manera encontraremos a modos de efectos en ésta layer, en el panel effect control
+
+
+	
+
+
+	
+
+

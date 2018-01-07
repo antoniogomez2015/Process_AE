@@ -1,0 +1,200 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá hacer ajustes y cambios de HSL, ó tono, saturación y brillo de una imágen ó layer,
+
+	de forma global ó por canales
+
+
+	_las diferencias más notables ó resaltantes de éste efecto son las siguientes: 
+
+
+		_la primera es que ésta dispone de un gráfico espectral de la gamma tona 
+
+
+		_y que a su vez, éste nos permtirá trabajar con un rango de valores real de gamma, con valores de 
+
+		"0-255", los cuáles, son equivalentes a cualquier programa de edición y producicón tanto de animación,
+
+		de imágenes, editorial, otros, de ésta manera, podremos trabajar bajo un estándar 
+
+
+	_el efecto levels, dispone de un gráfio avanzado a través, del cuál, podremos ver el espectro de la gamma 
+
+	tonal de la imágen, luminancia, y saturación, tanto para la edición global como por canal individualmente
+
+
+	_el efecto de levels, es una variante del efecto de "Curves", el cuál, tiene una representación bidireccional
+
+	a través, de un plano el cual, tiene ancho y alto
+
+
+	_más el efecto de levels, tiene como espacio de trabajo sólo una dirección la cuál, es sólo una horizontal en
+
+	la cuál, podremos hacer ajustes de gamma de forma rápida y proporcionada 
+
+
+	_tomando en cuentra las demás áreas de la gamma como las altas luces, medios tonos y sombras ó saturación, de 
+
+	ésta manera, podremos tener una referencia gráfica 
+
+
+	_a través, de handles, ó manejadores como también, a través, de un gráfico del espectro de la gamma de la 
+
+	respectiva imágen
+
+
+	_de ésta manera, podremos hacer ajustas globales de tono, saturación y brillo, en la imágen en general como
+
+	también, a través, de la opciones de canales independientes podremos crear dominantes de color y virados de 
+
+	color
+
+
+
+
+	Workflow:
+
+	_el sistema de efecto de levels, está compuestos por dos barras de handles, a través, de las cuáles, podremos
+
+	hacer ajustes y variaciones sobre el tono, saturación y brillo, las cuáles, obedecen a los siguientes 
+
+	criterios:
+
+
+
+		Gamma de Entrada:
+
+		-la primera barra obedece ó representa la gamma de entrada ó espectro tonal de la imágen original y 
+
+		ésta barra será representada en el gráfico superior de la gamma tonal y de color respectivamente 
+
+		cuando se trabaja de forma referencial al RGB, compuesto y en la edición por canal
+
+
+		_de ésta manera, cuando hagamos modificaciones en la gamma de entrada, sea ésta en los tonos, 
+
+		saturación ó brilos de la imágen ésta será representara en directo en el gráfico superior
+
+
+		
+		Gamma de Salida:
+
+		_ésta barra inferior nos permitirá hacer un post ajuste, lo cuál, es opcional y útil sólo para 
+
+		algunos casos en los que es preciso que necesitemos marginar parte del especto posteriormente de 
+
+		haber realizado algún ajuste ó corrección de una imágen en su gamma tonal ó color respectivamente
+
+
+		_ésta barra inferior nos será representara en el gráfico superior por que el sistema infiere que
+
+		ésto es un post proceso al edición base del efecto
+
+
+
+		
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Levels: (Niveles)
+	_______
+
+
+		_Input Black:
+
+			_éste rando los nospermitirá indicar el punto de entrada de gamma ó "Gain", de 
+
+			la saturación, sombras ó negros de la imágen original a través, de un valor inicial 
+
+			de "0"
+
+
+		_Input White:
+
+			_éste rango los nos permitirá indicar el punto de salida de gamma ó "Pedestal", 
+
+			de los brillos, luminocidad ó blancos de la imágen original a través, de un valor 
+
+			inicial de "255"
+
+
+		_Gamma:
+
+			_éste rango los nos permitirá indicar el punto intermedio de "gamma", de los medios 
+
+			tonos de la imágen original a través, de un valor inicial de "1"
+
+
+		_Output Black:
+
+			_éste rango nos permitirá marginar la gamma tonal en punto de entrada ó "Gain", 
+
+			para marginar ó corregir el espectro y gamma resultante
+
+
+		_Output White:
+
+			_éste rango nos permitirá marginar la gamma tonal en punto de salida ó "Pedestal", 
+
+			para marginar ó corregir el espectro y gamma resultante
+
+
+		_Clip TO Output Black:
+
+			_ésta opción nos permitirá crear entrada de ganna, en alta resolución ha 32bits,
+
+			para el punto de entrada ó "Gain", ó saturación, sombras y negros de la imágen
+
+
+		_Clip To Output White:
+
+			_ésta opción nos permitirá crear salida de ganna, en alta resolución ha 32bits,
+
+			para el punto de salida ó "Pedestal", ó Brillos, altas luces ó blancos de la 
+
+			imágen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

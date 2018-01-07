@@ -1,0 +1,261 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos pertmiria representar fluidos en forma de puntos ó trayectorias de fluidos anamadas de ésta
+
+	manera, podremos emular ó simular fluidos ó efectos plásticos con diferentes comportamiento
+
+
+	_especialmente útil para diferentes procesos de paso contínuo para otros efectos más complejos a través,
+
+	de otros efectos y pre procesamientos
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Glue Gum: (Pistola de Pegamento CC)
+	_________
+
+
+		_Brush Position:
+
+			_ésta opción nos pemritirá indicar la posición que tendrá el sistema de ésta manera, si
+
+			indicamos una posición estática ó fija será representado un punto de líquido ó fluido
+
+
+			_más si pegamos un trazado ó trayectoria de animación sea ésta del path, de una máscara
+
+			ó de una shape layer, podremos así, animar el sistema de fluido dinámico el cuál, podrá
+
+			tener diferentes comportamientos
+
+
+		_Stroke Width:
+
+			_ésta opción nos pemritirá indicar la cantidad de fluido generado por el sistema de ésta 
+
+			manera, podremos crear un fluido más ó menos abundante y aglutinante
+
+
+			_lo cuál, hará que el fluido esté más separado ó mezclado entre si de ésta manera, lograremos
+
+			hacer gotas más pequeñas ó gotas más grandes lo cuál, hara un efecto más de tipo "Metaball"
+
+
+		_Density:
+
+			_ésta opción nos permitirá agregar más fluido de forma extra al sistema más sin influir en el
+
+			comportamiento y disposición del fluido ya existente
+
+
+			_ó por el contrario, con valores negativo si podremos variar ó marginar el comportamiento 
+
+			y cantidad de fluido generado por el sistema
+
+
+		_Time Span (Sec):
+
+			_ésta opción nos permitirá indicar el intervalo de dispersión del fluido a través, del tiempo
+
+			de ésta manera, podremos enervar el fluido a través, del tiempo
+
+
+		_Reflection:
+
+			_(indeterminado)
+
+
+		_Strength:
+
+			_ésta opción enmascara el fluido creando el efecto de retracción ó expansión del fluido lo cuál,
+
+			nos permitirá cambiar el comportamiento del fluido sin cambiar su características de la emisión
+
+			del fluido
+
+
+		Style:
+
+
+			_Paint Style:
+
+
+				_Plain:
+
+					_ésta opción nos pemritirá crear un fluido de tipo "cremoso", el cuál, no
+
+					se dispesará en gotas
+
+
+					_de ésta manera, podremos crear fluidos estáticos en un punto ó en trazados
+
+					para diferentes efectos de plásticos, cremosos, otros
+
+
+				_Wobby:
+
+					_ésta opción nos permitirá crear efectos de fluidos de tipo "aceitosos", ó
+
+					líquidos como agua ó ciroc, otros
+
+
+					_de ésta manera, a través, de ésta opcíon podremos configurar diferentes
+
+					comportamientos de diferentes tipos de materiales y fluidos complejos
+
+
+		Light:
+
+			_Using:
+
+
+				_Effect Light:
+
+					_ésta opción nos permitirá seleccionar el tipo de iluminación incorporada por
+
+					el efecto ó plugins, para la emulación del volúmen del fluido
+
+
+				_AE Light:
+
+					_ésta opción nos permitirá seleccionar el tipo de iluminación creada en 
+
+					after effects, a través, de luces agregadas por nosotros para la emulación 
+
+					del volúmen del fluido
+
+
+
+			_Light Intensity:
+
+				_ésta opcíon nos permitirá indicar la intensidad de la iluminación generada sobre el sistema
+
+				generado con la opción "Light/Using/Effect Light"
+
+
+			_Light Color:
+
+				_ésta opcíón nos pemritirá indicar un color para la iluminación generada por el sistema
+
+				sobre el fluido generado
+
+
+				_ésta opción sólo estará disponible cuando la opción de "Light/Using/", esté en la 
+
+				opción de "Effect Light"
+
+
+
+			_Light Type:
+
+
+				_Distant Light:
+
+					_ésta opción nos pemritirá seleccionar el tipo de iluminación de tipo "Spot"
+
+
+					_ésta opción sólo estará disponible cuando la opción de "Light/Using/", esté
+
+					en la opción de "Effect Light"
+
+
+				_Point Light:
+
+					_ésta opción nos pemritirá seleccionar el tipo de iluminación de tipo "Point"
+
+
+					_ésta opción sólo estará disponible cuando la opción de "Light/Using/", esté
+
+					en la opción de "Effect Light"
+
+
+
+			_Light Height:
+
+				_ésta opción nos permitirá indicar la cobertura de la iluminación generada sobre el 
+
+				sistema generado con la opción "Light/Using/Effect Light/Distant Light"
+
+
+			_Light Position:
+
+				_ésta opción nos permitirá indicar la cobertura de la iluminación generada a través,
+
+				de una handle, sobre el sistema generado con la opción 
+
+				"Light/Using/Effect Light/Point Light"
+
+
+		_Shading:
+
+
+			_Ambient:
+
+				_ésta opción nos perimtirá aumentar ó disminuir la luminancia "gamma/gain/pedestal" 
+
+				del sistema
+
+
+			_Diffuse:
+
+				_ésta opción nos perimtirá controlar el color difuso y la luminancia 
+
+				"gamma/gain/pedestal" 
+
+
+			_Specular:
+
+				_ésta opcíon nos permitirá controlar la cantidad de especularidad permitida por el
+
+				sistema
+
+
+			_Roughness:
+
+				_ésta opción nos permitirá controlar la capacidad de penetración de la especularidad
+
+				sobre el sistema
+
+
+			_Metal:
+
+				_ésta opción nos permitirá controlar el contraste de la especularidad sobre el sistema
+
+				ó efecto metálico ó más plástico
+
+
+
+

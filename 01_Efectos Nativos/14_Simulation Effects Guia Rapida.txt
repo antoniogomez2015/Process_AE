@@ -1,0 +1,295 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Guía rápida de efectos nativos:
+_______________________________
+
+
+
+	Simulation Effects:
+	___________________
+
+
+	_Card Dance: (Baile de Cartas)
+
+		_éste nos permite hacer diferentes afectos de dispersión y transiciones así, como también, efectos y 
+
+		comportamientos especiales a través, de mapas y degradados de información ó valores de luminancia, color y 
+
+		demás tipos de información para diferentes procesos de producción y paso continuo
+
+		_para lo cuál, debemos de crear previamente la layer, ó composición a la cuál, le vamos ha aplicar el efecto 
+
+		así, como también, la layer, que hará de reverso del sistema de fragmentos así, como los mapas ha integrar 
+
+		dentro del sistema para que éste interactue
+
+
+
+	_Caustic: (Caustico)
+
+		_el sistema de generación de cáusticas nos peritirá realizar diferentes efectos por separado y en conjunto
+
+		de ésta manera, podremos crear la superposición de texturas y su deformación a su vez, con una dominante
+
+		cromática
+
+		_como también, podremos hacer el efecto de replicación de una imágen ha modo del efecto de "Motion Tiler",
+
+		ó el efecto de "Hall of..", y "Prism...", "Strip..", otros
+
+
+		
+	_Ball Action: (Accion de Bola)
+
+		_éste efecto nos permitirá crear un sistema de partículas ha modo de grid, ó grilla a través, del cuál,
+
+		podremos crear diferentes efectos corpusculares y de paso contínuo y de producción para diferentes procesos
+
+		de paso contínuo
+
+		_a través, de una layer, base de tipo sólid, ó de tipo de imágen la cuál, será mapeará el sistema para la
+
+		generación del mismo
+
+		_así, podremos crear efectos de tipo cadenas de ADN, torciones de partículas, turbulencias, otros
+
+
+
+	_CC Bybbles: (CC Espuma)
+
+		_ésta opción nos pemritirá crear sistemas de partículas para diferentes propósitos como burbújas de jabón,
+
+		gotas de agua reflectiva, células, virus, partículas para paso contínuo y para producción para otros 
+
+		procesos, el sistema de partículas generado mapeará la imágen base a la cuál, se le ha aplicado el efecto, 
+
+		de ésta manera, ha modo de reflexiones y desplazamineto podrán crearse diferentes efectos en relación a las 
+
+		necesidades de producción y paso contínuo
+
+		NOTA: el sistema de partículas es limitado en relación a sus propiedades físicas, ya que éste sólo es 
+
+		generado con una gravedad negativa, lo que quiere decir, que las partículas sólo serán generadas hacia 
+
+		arriba
+
+
+
+	_CC Drizzle: (CC Llovizna)
+
+		_ésta opción nos pemritirá crear gotas ó una serie de ondulaciones y epicentros ha modo de impactos sobre
+
+		una layer, base
+
+
+
+	_CC Hair: (CC Cabello)
+
+		_ésta opción nos pemritirá crear sistemas de cabello, fibras, gramas, otros, como también, para diferentes
+
+		sistemas de producción y paso contínuo como partículas, otros
+
+
+
+	_CC Mr. Mercury: (CC Mercury)
+
+		_ésta opción nos pemritirá crear efectos de simulación de fluidos líquidos y acuosos como también, 
+
+		magmáticos entre otras muchas posibilidades como, yogurt, batidos, helados, cirocs, otros
+
+		_éste efecto como muchos otros de simulación enmascaran la layer, base la cuál, a su vez, puede ser una 
+
+		layer, de tipo solid, ó imágen compleja lo cuál, nos permitirá crear efectos complejos uncluso pre animados
+
+		a través, de una pre composición
+
+		_incluso prodremos utilizar el sistema generado para crear transiciones ha modo de tracks mattes, mattes, de
+
+		luminancia, otros
+
+
+
+	_CC Particle System II: (CC Sistema de Particulas II)
+
+		_ésta opción nos pemritirá crear simulaciones de partículas ó fragmentos mapeados de color ó a 
+
+		través, de la información extraida de un textura base a la cuál, le hemos aplicado el respectivo 
+
+		efecto
+
+		_de ésta manera, podremos crear simulaciones bases un poco más avanzadas que la opción de 
+
+		"Simulate/CC Mr. Mercury", más en éste caso dispondremos de más opciones
+
+		_de ésta manera, podremos crear efectos de simulación específicos y de paso contínuo y de producción
+
+
+
+	_CC Pixel Poly: (CC Polypixel)
+
+		_ésta opción nos pemritirá crear el efecto de "shatter", ó "Dispersión/Romper", pero de forma más simple y 
+
+		directa ya que ésta opción nos pemritirá destruir una layer, ha modo de desvanecimientos de partículas ó 
+
+		fragmentos
+
+		_de ésta manera, podremos utilizar éste efecto para crear fragmentados ha modo de partículas en forma de
+
+		cristales ó fractales entre otros
+
+		_como también, podremos utilizar éste efecto para la generación de efectos específicos como desvanecimientos
+
+		ha modo de evaporación de partículas entre otras posibilidades de producción y paso contínuo
+
+
+
+	_CC Rain: (CC Lluvia)
+
+		_ésta opción nos pemritirá crear efectos bases de lluvia, llovisnas, y similares más podremos configurarlo
+
+		de diferentes maneras para crear incluso un sistema de partículas y strands, otros
+
+		_para la creación de diferentes efectos de producción y paso contínuo de ésta manera, pdoremos crear efectos
+
+		de tipo star treck, lasers, otros
+
+
+
+	_CC Rainfall: (CC Rainfall)
+
+		_ésta opción nos pemritirá crear efectos bases de lluvia, llovisnas, y similares de forma más acudada que 
+
+		la opción del efecto "CC Rain/CC Llovisna" más podremos configurarlo de diferentes maneras para crear incluso
+
+		un sistema de partículas y strands, abstracciones, mattes, mapas, otros
+
+		_para la creación de diferentes efectos de producción y paso contínuo de ésta manera, pdoremos crear efectos
+
+		de tipo hair, fur, transiciones, rios, torrentes de agua, otros
+
+
+
+	_CC Scatterize: (CC Esparcir)
+
+		_ésta opción nos pemritirá crear efectos de partículas de tipo dispersión ó "Shatter", "CC Pixelpoly", ó 
+
+		también, de tipo "CC Ball Action", en ciertos comportamientos lo cuál, nos permitirá generar efectos de 
+
+		partículas de tipo desvanecimientos, esfervesencias, poluciones, cadenas de adn, otros
+
+
+
+	_CC Snow: (CC Nieve)
+
+		_ésta opción nos pemritirá crear sistemas de partículas capaces de representar tanto nieves sutiles ó
+
+		densas como también, sistema de átonos oscilantes, partículas microscópicas, otros
+
+
+		NOTA: éste sistma de partículas sólo funciona con gravedad aplicada positiva, osea con caida hacia abajo
+
+
+
+	_CC Snowfall: (CC Snowfall)
+
+		_ésta opción nos pemritirá crear partículas para generación de simulación de nieve, tormentas, fibras, 
+
+		poluciones, y diferentes procesos bases para producción y procesos de paso contínuo, otros
+
+
+
+	_CC Star Burst: (CC Lluvia de Estrellas)
+
+		_ésta opción nos pemritirá generar partículas en dirección a la cámara y de forma cónica para diferentes
+
+		efectos de producción y paso contínuo, a diferencia de los sistemas de partículas de tipo "Snow", en los 
+
+		cuáles, las partículas caen hacia abajo, en éste caso las partículas caerán hacia la vista del espectador
+
+
+
+	_Foam: (Espuma)
+
+		_ésta opción nos pemritirá crear sistemas de partículas los cuáles, emularán sistemas de burbujas, 
+
+		células, poluciones entre otros como también para procesos de producción y aso contínuo
+
+
+
+	_Particle Playground: (Animador de Objetos)
+
+		_éste efecto nos permitirá hacer emisiones de partículas ha modo de paso continuo para otros efectos 
+
+		dentro del flujo de producción
+
+		_así, como también, matrices configurables las cuales pueden ser intervenidas por mapas para generar 
+
+		alteraciones y anomalías para lograr animaciones complejas entre muchas otras posibilidades
+
+		_también, podremos hacer colisiones entre layers, externas y el sistema de partículas para generar 
+
+		por ejemplo efecto de nieve cayendo sobre objetos, otros
+
+
+
+	_Shatter: (Dispersion)
+
+		_ésta opción nos pemritirá realizar efectos de fragmentación de layers, y composiciones para diferentos y
+
+		procesos de paso contínuo y producción
+
+
+		_éste efecto nos permitirá una mayor control y características que el efecto base "CC Pixel Polly"
+
+
+
+
+
+	_Wave World: (Mundo marino)
+
+		_ésta opción nos pemritirá crear simulaciones de ondas de fluido ha modo de mapa de densidad para lograr
+
+		diferentes de producción y paso contínuo
+
+
+		_como también, diferentes patrones y comportamientos para diferentes efectos como por ejemplo; para la creación
+
+		de una cortina de fondo, de un fractal aleatorio, otros
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

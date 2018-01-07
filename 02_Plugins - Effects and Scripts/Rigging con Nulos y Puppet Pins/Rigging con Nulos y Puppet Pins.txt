@@ -1,0 +1,155 @@
+
+
+
+Tutorial: Canal de TutifrutiTV
+
+
+	Animar un personaje en After Effects Pt1
+		https://www.youtube.com/watch?v=mnvGyJ8rdWQ
+
+	Animar un personaje en After Effects Pt2
+		https://www.youtube.com/watch?v=dRYjZdBgLGU
+
+	Animar un personaje en After Effects PT3
+		https://www.youtube.com/watch?v=JuQ5n32WcSg
+
+
+
+
+	1_cargamos nuestro personaje "Character", en una composición directamente ó en una composición anidada si esta esta 
+
+	conformado por partes separadas
+
+
+	2_creamos un "Nulls Object", éste lo escalamos para que sea pequeño y no se super ponga con los demás nulos
+
+
+	3_este "Nulls Object", que y configuramos lo duplicamos y los ubicamos en las articulaciones del character, siguiendo 
+
+	la kinemática del mismo
+
+
+	4_ahora renombramos los nulls objects, que creamos con un nombre alusivo a la función que tendrá el mismo, ej: muñeca, 
+
+	antebrazo, brazo, cuello, cabeza..., otra opción para diferenciar el lado derecho del izquierdo es usando colores para 
+
+	los nulos, por ejmplo: left: blue, right: red
+
+
+	5_ahora procedemos a crear los "Puppet Pin", en cada articulación creada ó null creado
+
+
+	6_posteriormente debemos renombrar los pines creados para un mayor manejo y control de los mismo a la hora de relacionarlos, 
+
+	para esto vamos a: layer seleccionada/effects/Puppet/Mesh 1/Deform/Puppet Pin 1...2...3...
+
+
+	
+NOTA: 	la técnica de utilizar Nulls Object con la herramienta Puppet Pin, reside en la posibilidad del anidamiento, el cuál brinda 
+
+	la posibilidad de ir más allá del movimiento simple de la kinemática de una personaje; sino que permite lograr la kinematica 
+
+	invertida, ó lo que es lo mismo vincular ó hacer esclavo el movimiento de por ej: el ante brazo al movimiento del brazo, otros
+
+
+
+	7_ahora vamos a anidar el movimiento de los pines en su propiedad de posición a la propiedad de posición de posición de los 
+
+	nulls objects, respectivamente, quedando así, anidados ambos elementos en su posición
+
+
+	8_luego vamos a la propiedad del "layer seleccionada/effects/Puppet/Mesh 1/Deform/Puppet Pin/Position", y hacemos "Alt+Click", 
+
+	para desplegamos sus propiedades de expresiones
+
+
+	9_y a continuación en su campo de expresiones, pegamos el siguiente script: n=thisComp.layer(“CAMBIAR_ESTO"); 
+
+	nullpos=n.toComp(n.anchorPoint);fromComp(nullpos);
+
+
+	10_retomando el script, que hemos pegamos, debamos cambiar el atributo que dice ("CAMBIAR_ESTO"), por el nombre el 
+
+	"Null Object", que hemos desigando para que controle el Pin, así al mover el nulo, este moverá el pin
+
+
+	11_luego te tenemos todos los pines relacionados con todos sus respectivos nulos de control, es hora de hacer las herencias 
+
+	ó relacionacimiento ó herencias ó mejor dijeramos la kinemática invertida
+
+
+	12_ya con la kinemática invertica configurada correctamente podremos animar nuestro character, para esto no vamos ha utilizar 
+
+	las propiedades de posición como se haria con la técnica de Puppet Pin, si no que en vez utilizaremos la propiedad de rotación 
+
+	de los nulos, así evitaremos los más posible la deformación del character y lograremoa un movimiento de las partes mucho 
+
+	más real
+
+
+
+AUTOMATIZACIÓN:
+
+	tmbién tenemos la opción de la automatización de movimientos, para esto debemos crear un cotrolador al cuál, se asignaremos 
+
+	diferentes movimientos de los nulos para que éste los ejecute al unísino
+
+
+
+	13_para crea un controlador debemos crear un layer sea esta de texto referencial ó un Null Object
+
+
+	14_a la capa creada le aplicaremos un efecto, yendo ha "Effects/Expressions Control/Slider Control", este Slider Control, 
+
+	lo renombramos con un nombre alusivo a las acciones que éste realizará
+
+
+	15_ahora para relacionar las propiedades de rotación de un null object al slider control, debemos desplegar las propiedades 
+
+	de "rotation", del null object, respectivo y hacemos Alt+Click, para activar las propiedades de expresiones de la misma
+
+
+	16_a continuación en el campo de expresiones creamos una variable, a la cuál le asignaremos un nombre alusivo, ej: "torso", 
+
+	y le asignaremos un valor "=", el valor asignado será el valor del "Slider Control", creado, para poder asignarle el valor 
+
+	del Slider Control, arrastraremos el espiral de asignaciónes hasta el Slider Control, quedando así, relacionados ambos 
+
+	controles y a su vez, quedando el valor del Slider Control, como valor de "Torso = (Slider Control)", "quedando la expresión 
+
+	asi: "moto=thisComp.layer("controls").effect("Slider Control")("Slider")"
+
+
+	17_ahora hacemos tabulación para crear otra línea de código, dejando un espacio ó línea vacía de separación entre 
+
+	la expresión anterior y la que vamos a crear, luego arrastramos el espiral de asignación hasta la propiedad de rotación, 
+
+	para que esta se cargue como expresión ó escribimos manualmente "transform.rotation"
+
+
+	18_y a continuación digo que "transform.rotation+torso", indicando así que la propiedad de rotación "transform.rotation", 
+
+	será sumada "+", con la acción que realiza Slider Control "torso", asignado a la variable que creamos llamada torso
+
+
+	19_así mismo podría hacer para asignarle más operaciones ó acciones al Slider Controls, para que este autozatiza varias 
+
+	acciones a la vez
+
+
+	20_al asignale acciones similares pero de firma reflejada en acciones de derecha e izquierda por ej; el movimiendo simétrico 
+
+	de ambos brazos notaremos que la acción se realizará en sentidos opuestos, para solucionar esto podemos indicar en dicha 
+
+	expresión que realiza el acción en sentido contrario la siguiente modificación:
+
+	
+	21_digo que "transform.rotation+torso", como ya lo hemos configurado pero que en este caso lo haga a la inversa, para eso 
+
+	le indico que lo multiplique por menos 1, "*-1", quedando entonces asi: "transform.rotation+torso*-1", de esta manera 
+
+	la acción del movimiento de los brazos será simétria en el sentido correcto para ambos brazos
+
+
+	
+

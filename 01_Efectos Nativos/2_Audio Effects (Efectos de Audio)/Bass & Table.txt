@@ -1,0 +1,56 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+		https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá acentuar tanto los graves ó bajos como brillos ó agudos de forma por separada
+
+
+
+	Formatos:
+	_________
+
+	_los formatos más comúnes para el trabajo con audio son los siguientes en after effects:
+
+
+		_Mp3:
+
+			_éste es el formato más común y generalizado para la edición e intercambio de archivos de
+
+			audio
+
+
+		_Wav:
+
+			_éste es uno de los formatos más comúnes en el procesado e intercambio de archivos de audio
+
+
+
+	Bass & Table:
+	_____________
+
+	_Bass:
+
+		_ésta opción nos permitirá acentuar los graves ó bajos en el respectivo audio
+
+
+	_Treble:
+
+		_ésta opción nos permitirá acentuar los brillos ó agudos en el respectivo audio
+
+
+
+

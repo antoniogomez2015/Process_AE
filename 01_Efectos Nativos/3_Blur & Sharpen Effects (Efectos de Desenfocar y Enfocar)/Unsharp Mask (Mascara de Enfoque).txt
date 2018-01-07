@@ -1,0 +1,95 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permitirá más que hacer desenfoques directamente éste nos permitirá a su vez, generar el
+
+	efecto de AO; Ambient Occlusion, emulado
+
+
+	_así, como también, éste efecto nos servirá para acentuar y resaltar efectos de paso contínuo y efectos de
+
+	producción entre otras muchas otras posibilidades a través, de ese efecto de enmascarado de las áreas con
+
+	menos luminancia ó sombras
+
+	
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Unsharp Mask: (Mascara de Enfoque)
+	_____________
+
+	_Amount:
+
+		_éste valor nos permitirá indicar la cantidad ó intensidad del efecto de desenfoque ó efecto de AO,
+
+		lo que quiere decir es que mayor sea éste valor más negro ó intenso será el efecto de AO
+
+
+	_Radius:
+
+		_éste valor nos permitirá indicar el alcance ó capacidad de penetración del efecto de desenfoque ó
+
+		efecto de AO, lo que quiere decir es que entre mayor sea éste valor mayor será el área ennegrecida
+
+
+		_la cuál, se creará a partir de las áreas más oscuras de la imágen ó  partir de las áreas con menos
+
+		contraste y valor tonal
+
+
+	_Threslhold:
+
+		_el umbra nos permitirá indicar la cantidad de efecto ha aplicar ó el factor de igualación del 
+
+		efecto con la imágen real
+
+
+		_así, por ejemplo si el valor de "Amount", es de "90", y el valor de "Threshold", es de también, de
+
+		"90", entonces ambos valores será igualados y el efecto será neutralizado y la imágen se mostrará
+
+		como es ésta originalmente
+
+
+		_de ésta manera, podremos entender que para que el efecto sea acentuado correctamente debe de haber
+
+		diferencia entre el valor de "Amount", y "Threslhold"
+
+
+		_por ejemplo, si el valor de "Amount", es de "90", y el valor de "Threshold", es de "5", entonces la
+
+		cantidad de efecto presentado será en la imágen será muy acusado ó visible
+
+
+
+
+
+
+

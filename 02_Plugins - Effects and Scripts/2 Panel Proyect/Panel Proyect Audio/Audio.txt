@@ -1,0 +1,22 @@
+
+
+panel nativo de after effects
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Audio
+
+
+	Panel Proyecto/Audio
+
+
+		-éste panel nos permite ver gráficamente los picos en decibeles de las ondas de audio en la
+
+		reproducción del mismo en el timeline, así, como también, contralar éstos respectivos
+
+		decibeles
+	

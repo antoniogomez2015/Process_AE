@@ -1,0 +1,152 @@
+
+
+
+
+pt_framerestorer
+
+
+	Referencia:
+
+		http://aescripts.com/pt_framerestorer/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+Características:
+________________
+
+
+	-este nos permite reparar material de video y secuencias de imagenes importadas y agregadas
+
+	en el timeline
+
+
+
+
+Aplicaciones:
+_____________
+
+
+	_especialmente útil para restaurar material de archivo que tiene imperfecciones como rayaduras y animalías en
+
+	algunos frames, los cuáles pueden ser detectables y corregidos ó editados
+
+
+	_tamibén, tiene aplicaciones para corregir material de archivo con frames, missing, ó perdidos, de ésta manera
+
+	podremos emular éstos frames perdidos para que así, podamos recuperar el material de archivo y poder utilizarlo
+
+	correctamente
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+Basics:
+_______
+
+
+	_para ésto necesitamos una composición base de trabajo
+
+
+	_también, tendremos que haber importado el material de archivo ha trabajar, éste debe de estar compuesto
+
+	por una secuencia de imágenes
+
+
+
+
+Restore At Layer Markers: (restaurar fallos y desperfectos)
+-------------------------
+
+
+	_primero debemos hacer un reconocimiento del material moviendo el cabezal a traves, del timeline
+
+	y donde encontremos una 'anomalia', como un salto de frame (falta un frame), o un despecfecto 
+
+	como una rayadura que deseamos eliminar u otro despecfecto
+
+
+	_y en donde encontremos un salto de frame o desperfecto debemos colocar 'Marker' shortcut (*),
+
+	para marcar asi, su ubicacion en el tiempo de reproduccion
+
+
+	_luego de haber agregado markers, en los puntos deseados a corregir debemos seleccionar dicho
+
+	video o secuencia en el timeline, e ir al panel 'pt_framerestorer', y aplicar 'Apply'
+
+
+	_asi, dicho video o secuencia se convertira en una nueva composicion más los errores marcados
+
+	a través, de las markers, se habran suprimido (duplicando el frame anterior) limpiando nuestro 
+
+	video o secuencia deseada
+
+	
+
+
+Find Missing Frames: (encontrar frames, perdidos)
+---------------------
+
+
+	_esta opcion permite encontrar frames, missings/perdidos, de nuestro video o secuencia
+
+
+	_primero seleccionamos nuestro video o secuencia o video en el timeline
+
+
+	_y con este seleccionado vamos al panel 'pt_framerestorer', y aplicamos 'Find Missing Frames',
+
+
+	_asi, comenzara un análisis el cuál, agregara marcas/markers, en los puntos donde hayan frames,
+
+	perdidos o faltantes en el timeline, en relacion al video ó secuencia seleccionado
+
+
+
+
+Restore Missing Frames: (eliminación de frames, perdidos e identificados)
+-----------------------
+
+
+	
+	_esta opcion permite restaurar o eliminar los frames, perdidos o estraviados a traves de marcas
+
+	o markers, obtenidas "A PARTIR DEL PASO ANTERIOR"
+
+
+	_asi, nuestro video o secuencia quedará limpia de los frames perdidos y solicitados ya que éstos
+
+	serán eliminados (duplicando el frame anterior)
+
+
+
+
+Reduce To Layer Markers:
+------------------------
+
+
+
+	_esta opcion permite interpolar o hacer 'morpth', de los frames, indicados a través de 'markers', 
+
+	ya que éstos no son iguales o similares a los frames contiguos, tanto al anterior como 
+
+	al siguiente frame
+
+
+	_ésta opción es especialmente útil en secuencias muy rápidas-cortas en donde las transiciones
+
+	entre tomas, efectos y planos se producen a alta velocidad y no es posible ó aplica el duplicado
+
+	de frames, anteriores o posteriores si no, que hace fata ó aplicar la tecnica de interpolado
+
+	o morpth
+

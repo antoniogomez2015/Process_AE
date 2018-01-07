@@ -1,0 +1,59 @@
+
+
+
+
+Dua - Ac
+
+
+	Referencia:
+
+		http://duduf.net/?page_id=157  /  http://duduf.net/?page_id=2010
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite realizar grupos de acciones al mejor estilo de photoshop/actions, más en la práctiva se ha tenido
+
+	problemas para su implementación (hay que revisar hasta lograr su correcto funcionamiento)
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_éste permite automatizar procesos de efectos y procesos para agilizar los procesos de creación y de constructivismo
+
+	especialmente útil para procesos repetitivos y de cálculo, otros
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_primero debemos crear una una composición base de trabajo
+
+
+	
+
+	---------------------------------------------------------------------------------------------------------------
+
+
+
+proxi:
+______
+
+	_proof
+

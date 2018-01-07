@@ -1,0 +1,191 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá emplear ruido fractal para crear distorsiones turbulentas en una imagen. Por 
+
+	ejemplo, utilícelo para crear agua en movimiento, espejos de ferias y banderas ondeantes
+
+
+	_de ésta manera, éste efecto nos permitirá hacer distorsión fractal sobre una imágen a través, de 
+
+	diferentes algoritmos los cuáles, nos permitirán hacer múltiples tipos de distorsión en general
+
+
+	_así, como también, nos permitirá hacer distorciones fractal con ruido acusado para la generación de 
+
+	efectos más complejos como galaxias, cuarzo fractal, cristalizados, posterizados, otros, de imágens bases
+
+
+	
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Turbulent Displace: (Desplazamiento turbulento)
+	___________________
+
+
+		_Displacement:
+
+			_ésta opción nos permitirá seleccionar el tipo de algoritmo y criterio de deformación
+
+			de distorsión de turbulencia entre los cuáles, dispondremos de los siguientes:
+
+			
+				_Turbulent:
+
+					_éste algoritmo nos permitirá crear un tipo de distorsión fractal 
+
+					general sobre la imágen
+
+
+				_Bulge:					
+
+					_éste algoritmo nos permitirá crear un tipo de distorsión fractal 
+
+					suavisada en relación a los extremos de los fractales ó edges, generados 
+
+					sobre la imágen
+
+
+				_Twist:
+
+					_éste algoritmo nos permitirá crear un tipo de distorsión fractal 
+
+					de tipo torsión más acusada que las anteriores sobre la imágen
+
+
+				_Smoother:
+
+					_éste algoritmo nos permitirá crear un tipo de distorsión fractal 
+
+					suavisada en las mismas versiones anteriores que hemos visto hasta ahora 
+
+					sobre la imágen
+
+
+				_Vertical Displacement:
+
+					_éste algoritmo nos permitirá crear un tipo de distorsión fractal 
+
+					general limitada hasta cierto punto en el eje vertical sobre la imágen
+
+
+				_Horizontal Displacement:
+
+					_éste algoritmo nos permitirá crear un tipo de distorsión fractal 
+
+					general limitada hasta cierto punto en el eje horizontal sobre la imágen
+
+
+				_Cross Displacement:
+
+					_éste algoritmo nos permitirá crear un tipo de distorsión fractal 
+
+					general limitada hasta cierto punto en los ejes vertical y horizontal 
+
+					sobre la imágen
+
+
+		_Amount:
+
+			_éste valor nos permitirá indicar la cantidad de distorsión ha aplicar sobre la imágen
+
+
+		_Size:
+
+			_éste valor nos permitirá indicar el tamaño de ó escala de la distorsión sobre la imágen
+
+
+		_offset (Turbulence):
+
+			_ésta opción nos permitirá hacer desplazamiento del sistema a través, de un target, a
+
+			través, del cuál, podremos hacer desplazamientos libres del sistema sobre la imágen 
+
+
+		_Complexity;
+
+			_ésta opción nos permitirá indicar la complejidad del sistema lo que nos permitirá 
+
+			cambiar totalmente la perspectiva y tipos de efectos de fractal ha conseguir
+
+
+			_de ésta manera, a través, de ésta opión podremos crear distorsiones acusadas ó 
+
+			multiplicadas hasta elementos tan complejos como hasta galaxias, otros
+
+
+		_Exolution:
+
+			_ésta opción a través, de wheel, nos permnitirá poder animar de forma contínua el 
+
+			sistema de deformación fractal
+
+
+		_Evolution Options:
+
+			_ésta sección nos permitirá configurar las opciones de de "evolución", expresadas
+
+			en el paso anterior, donde podremos activar las opciones de ciclo, velocidad de 
+
+			envío inicial, reajuste del tamaño de la imágen, otros
+
+
+			_Panning:
+
+				_ésta opción nos permitirá indicar el redimensionamiento de la imágen en 
+
+				su área perimetral ó contorno para que éste nunca aparezca recortado, de
+
+				ésta manera, dispondremos de diferentes criterios y cordenadas de trabajo
+
+				en el selector de éstas opciones en relación al resultado deseado
+
+
+			_Antialiasing for Best Quality:
+
+				_ésta opción nos permitirá controlar la calidad del sistema entre las que
+
+				dispondremos de "Low", ó "High"
+
+
+				_las cuáles, podremos utilizar en relación a la complejidad del sistema,
+
+				el tamaño de la composición y las prestaciones de nuestro equipo
+
+
+
+
+
+
+

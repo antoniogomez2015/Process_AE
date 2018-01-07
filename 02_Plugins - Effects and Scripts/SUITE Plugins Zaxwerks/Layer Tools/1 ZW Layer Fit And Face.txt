@@ -1,0 +1,93 @@
+
+
+
+
+	Zaxwerks 3D Flags
+
+		Tutorial After Effects Plugins Zaxwerks
+			
+			https://www.youtube.com/watch?v=zWIn_mpk2NI
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Zaxwerks Layer Toold / ZW Layer Fit And Face:
+	_____________________________________________
+
+
+	_éste plugins, nos permitirá crear alineaciones avanzadas entre layers, y planos específicos así,
+
+	como también, de la cámara de una composición respectiva entre otras posibilidades
+
+
+
+	Workflow:
+	_________
+
+	_para lo cuál, lo primero será tener creada una composición de trabajo así, como al menos al menos
+
+	dos layers, ó más las cuales deseamos alinear
+
+
+	_así, como también, tendremos que crear un cámara en la respectiva composición de trabajo la cuál,
+
+	es requerida para generar el sistema
+	
+
+
+	ZW Layer Fit And Face:
+	______________________
+
+
+	_rotation - orientation:
+
+		_ésta opción nos permite indicarle al sistema sobre que propiedad deseamos que el sistema
+
+		haga las transformaciones ó modificaciones sobre las respectivas layers
+
+
+	_face:
+
+		_ésta opción hará que la respectiva layer, seleccionada mire a la cámara ó a la layer,
+
+		que hace de "face", a través, del botón "face/apply"
+
+
+	_camara:
+
+		_en ésta opción debemos indicarle al sistema la cámara de trabajo para generar el sistema
+
+
+	_fiting:
+
+		_ésta opción nos permite indicarle al sistema el criterio de alineado así, podremos 
+
+		alenear el sistema al tamño de la composición ó sólo a su alto ó ancho
+
+		
+
+
+	_fit ti view by scaling:
+
+		_ésta opción hará que la respectiva layer, seleccionada se escale hasta el tamaño de la
+
+		composición respectiva pero "sin mover la layer, de su posición inicial"
+
+
+	_fit to view translating:
+
+		_ésta opción logrará el mismo efecto que al caso de la anterior más ésta opción si moverá
+
+		la layer, acercandola hasta llenar el tamaño de la composición
+
+
+	_fit camara to layer:
+
+		_ésta opción noverá la cámara hasta alinearla con la layer, ó plano respectivo
+
+
+
+

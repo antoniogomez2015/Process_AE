@@ -1,0 +1,434 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		Tutorial After Effects 046 Cielo y nubes con Particle World
+			https://www.youtube.com/watch?v=Gx5Wc60FnqQ
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_Physics:
+
+			_Animation:
+
+				_éste selector nos permitirá indicar el tipo ó criterio de animación ha 
+
+				generar así, podremos seleccionar entre una serie de presets, ó algoritmos
+
+				de los diferentes tipos de animacíón ha generar entre los cuáles, disponemos:
+
+
+					_Explosive:
+
+						_ésta opción nos pemritirá hacer simulaciones de emisión 
+	
+						explosivas y aleatorias
+
+
+					_Direction Ais:
+
+						_ésta opción nos pemritirá hacer simulaciones de emisión 
+	
+						direccionales a través, de cordenadas personalizadas a través,
+
+						de las opciones de "Direction Axis", las cuáles, se encuentras
+
+						más abajo
+
+
+					_Cone Axis:
+
+						_ésta opción nos pemritirá hacer simulaciones de emisión 
+	
+						direccionales aunque a su vez, cónicas a través, de cordenadas 
+
+						personalizadas a través, de las opciones de "Direction Axis", las 
+
+						cuáles, se encuentras más abajo
+
+
+					_Viscouse:
+
+						_ésta opción nos permitirá hacer simulaciones de emisión de punto
+
+						no direccionales, la cuál, dispone de un efecto de retardo el cuál,
+
+						genera un efecto viscoso especialmente útil para efecto como volcanes
+
+						entre otras muchas posibilidades
+
+
+					_Twirl:
+
+						_ésta opción nos permitirá hacer simulaciones de emisión de punto no
+
+						dirección en forma de "giro", constante en todas direcciones, especial
+
+						para hacer efecto de tobellinos, aspas rotatorias, otros
+
+
+					_Twirly:
+
+						_éste efecto es idéntico al anterior de "Twirl", más éste sólo trabajará
+
+						ó creará el efecto de emisión de partículas en forma de giro en sólo dos
+
+						dimensiones lo que es especialmente útil para la mayoría de casos de 
+
+						simulación por ejemplo de galaxias, espirales, otros
+
+
+					_Vortex:
+
+						_éste efecto nos permitirá hacer simulaciones de emisión direccional de
+
+						partículas por medio de las opciones de "Direction Axis", las cuáles, están
+
+						más abajo, éste efecto es especialmente útil para la creación de tornados a
+
+						partir de un epicentro, tuneles simensionales, hollos negros, agujeros de 
+
+						gusano, otros
+
+
+					_Fire:
+
+						_éste efecto nos permtirá hacer simulaciones de emisión e punto de forma
+
+						pirulenta y aleatoria, ésta es más dinámica que la opción "Viscouse", y es
+
+						especialmente útl para la generación de todo tipo de efectos de fluidos y
+
+						sistema de energía, plasma, pseudo fluidos, otros
+
+
+					_Jet Sideways:
+
+						_éste efecto nos permitirá hacer simulaciones de emisión de punto de forma
+
+						radial y en dos dimensiones y de forma aleatoria y no ha modo de giro, como
+
+						la opción de "Twirly", así, la opción de "Jet Sideways", es especialmente
+
+						util para hacer efectos de válvulas de escape de fluidos, llamas, energía 
+
+						libre, otros
+
+
+					_Fractal Omni:
+
+						_éste efecto nos permtirá hacer simulaciones de emisión de punto de forma
+
+						aleatoria y turbulenta especialmente útil para todo tipo de emisión de tipo
+						
+						pseudo gaseosa a líquida, otros
+
+
+					_Fractal Uni:
+
+						_ésta opción es idéntica a la anterior de "Fratal Omni", más la opción de
+
+						"Fractal Uni", nos permtirá crear emisiones de partículas sólo en dos 
+
+						dimensiones lo cuál, es especialmente útil para la gran mayoría de efectos
+
+						integrados en una composición ortográfica, otros
+
+
+			_Velocity:
+
+				_ésta opción nos permitirá indicar la velocidad con la cuál, serán emitiras las partículas
+
+				del sistema
+
+
+			_Inherit Velocity %:
+
+				_éste valor nos permitirá indicar la cantidad de valocidad heredada en relación cuando el 
+
+				emisor de partículas está animado a través, del tiempo, de ésta manera, la velocidad del
+
+				emisor le será sumada a las partículas emitidas en el porcentaje indicao
+
+
+			_Gravity:
+
+				_ésta opción nos permitirá indicar la cantidad de gravedad que afectará al sistema así, de
+
+				ésta manera, la gravedad influyente en el sistema puede ser positiva ó negativa para así,
+
+				influir directamente en la dirección de las partículas
+
+
+			_Resistence:
+
+				_ésta opción nos pemritirá relentizar la emisión y comportamiento de las partículas para que
+
+				así, podamos crear un fricción ó viscosidad inyectada sobre el sistema para crear efectos de
+
+				movimientos de agua, fluidos densos, otros
+
+				
+
+
+			_Extra:
+
+				_ésta opción nos permitirá indicar un grado adicional de aleatoriedad sobre el sistema de
+
+				partículas animado a través, del tiempo, de ésta manera, podremos hacer el sistema más 
+
+				dinámico ó aleatorio, otros
+
+
+			_Extra Angle:
+			
+				_éste valor va en conjunción en el valor anterior de "Extra", para aumentar la aleatoriedad
+
+				del sistema de ésta manera, agregaremos más alternabilidad y aleatoriedad en su conjunto
+
+
+
+			_Floor:
+
+				_Floor Position:
+
+					_ésta opción hará de umbral ó filtro a partir del cuál, se comenzarán ha emitir las
+
+					partículas de ésta manera, podremos configurar para que las partículas se comiencen 
+
+					ha emitir a partir de una distancia determinada del plano ó floor, y no menos de allí
+
+
+					_lo cuál, es especialmente útil para una mejor visualización como también, para 
+
+					ahorrar recursos del sistema al no renderizarse partículas que estarán fuera del plano
+
+					ó toma de la escena en la dirección de las partículas de interés
+
+
+				_Particle Visibility:
+
+					_ésta opción nos pemritirá indicar el comportamienta y workflow, de las partículas y
+
+					su relación e interacción con el plano ó grilla de referencia, de ésta manera, 
+
+					podremos seleccionar entre los siguientes tipos de criterio ó acción:
+
+
+						_All:
+
+							_ésta opción es la opción por defecto y ésta trabajará en todas las
+
+							mensiones ó lo que es lo mismo no tomará en cuenta al plano ó grilla
+
+
+						_Above Floor:
+
+							_la opción "sobre el piso", nos permitirá indicarle al sistema que las
+
+							partículas que se encuentren por debajo del plano ó grid, más allá de
+
+							éste mieran ó se desvanezcan en éste punto, en relación al valor indicado
+
+							ó umbral en la opción de "Floor Position", en el paso de más arriba
+
+
+						_After Floor:
+
+							_la opción de "después del piso", es idéntica a la anterior de "Above Floor",
+
+							_más la opción de "After Floor", le indicará al sistema que las partículas 
+
+							que se encuentren por encima del plano sean eliminadas ó desvanecidas en 
+
+							relación al valor ó umbral indicado por "Floor Position", en las opciones de
+
+							más arriba
+				
+
+
+				_Render Animation:
+
+					_éstas opciones determinan como serán renderizadas las partículas en relación al plano de ésta
+
+					manera, dispondremos de los siguientes modos de renderización para el sistema:
+
+
+						_Normal:
+
+							_ésta opción renderizará las partículas tan cuál, éstas se emiten en relación
+
+							a su configuración y valores definidos en sus parámetros, de ésta manera, el 
+
+							grid ó plano será innorados en éste modo de renderización
+
+
+						_Reflected on Floor:
+
+							_ésta opción nos permitirá transpolar la emisión del emisor de partículas a la 
+
+							misma posición de éste de forma reflejada sobre el plano para que así, todo el
+
+							sistema funcione de forma reflejada, proyectando todo el sistema a partir del
+
+							plano ó grilla, ésto nos permitirá crear efectos especiales sin el emisor
+
+
+						_Projected on Floor:
+
+							_ésta opción nos permitirá crear el sistema de partículas el cuál, se proyectará 
+
+							sobre una cordenada del plano ó grilla lo cuál, es especialmente útil para crear 
+
+							simulaciones en una proyección axonométrica, de ésta manera, el emisor, físicas e 
+
+							interacciones se transpolarán al plano ó grid, sin variar ó cambiar sus 
+
+							caracteríscas e interacciones
+
+
+				_Floor Action:
+
+					_éstas opciones nos permtirá indicarle al sistema como interactuarán las partículas con el plano 
+
+					ó grid, al tocar ó atravezar éste, de ésta manera, podremos hacer que las partículas tengan un 
+
+					comportamiento u en relación al criterio de acción seleccionar entre los cuáles, dispondemos de:
+
+
+					NOTE: El control de "Fricción", está desactivado si se selecciona "Glue" o "Bounce" y Valores 
+
+					definidos ó animados, se ignoran. El "Viscouse, Twirl, Twirly, Vortex y Fire", los sistemas de 
+
+					animación ignoran "Bounce" y "Glue"
+
+
+						_None:
+
+							_ésta es la opción por defecto en la cuál, el piso ó floor ó grilla es ignorado 
+
+							y las partículas pasan a través, de el
+
+
+						_Ice:
+
+							_ésta opción permitie que las partículas colosionen con el plano ó grid, y se 
+
+							desplacen sobre éste de forma acumulativa pero a su vez, dinámica en relación a 
+
+							la dirección de la emisión de las partículas, ya que éstas seguirán ésta 
+
+							respectiva dirección sobre el plano ó grid, lo cuá, es especialmente útil para 
+
+							la mayoría de los casos de fluidos y simulación de elementos sobre un plano ó 
+
+							superficie
+
+
+						_Glue:
+
+							_ésta opción permitie que las partículas colosionen con el plano ó grid, y se 
+
+							desplacen sobre éste de forma acumulativa pero a su vez, estática sin importar 
+
+							la dirección de la emisión de las partículas, permaneciéndo casí inmóviles en 
+
+							el mismo putno donde éstas hicieron contacto con el plano ó grid, lo cuá, es 
+
+							especialmente útil para la mayoría de los casos de fluidos de tipo magma, fluidos 
+
+							densos y pesados, otros, y simulación de elementos sobre un plano ó superficie
+
+						_Bounce:
+
+							_ésta opción permitie que las partículas colosionen con el plano ó grid, y se 
+
+							desplacen sobre éste y que a su vez, reboten sobre éste de forma dinámica en 
+
+							relación a la dirección de la emisión de las partículas, ya que éstas seguirán ésta 
+
+							respectiva dirección sobre el plano ó grid, así, como también, éste sistema dispondrá 
+
+							de una sección de "Boundness/Random/Spread", lo cuá, es especialmente útil para la 
+
+							mayoría de los casos de simulación elementos más sólidos y densos lo cuáles, requieran
+
+							rebotar sobre una superficie y de elementos sobre un plano ó superficie en general
+
+
+				_Bounciness:
+
+					_ésta opción está disponible sólo para las opciones de "Physics/Floor/Floor Action/Bounce", y permite
+
+					indiar la cantidad ó alcance del rebote de las partículas sobre el plano ó grid
+
+
+				_Random Bounciness:
+
+					_ésta opción está disponible sólo para las opciones de "Physics/Floor/Floor Action/Bounce", y permite
+
+					indiar la cantidad de laeatoriedad del rebote de las partículas sobre el plano ó grid
+
+
+
+				_Bounce Spread:
+
+					_ésta opción está disponible sólo para las opciones de "Physics/Floor/Floor Action/Bounce", y permite
+
+					indiar la cantidad de dispersión y alcance del rebote de las partículas sobre el plano ó grid
+
+
+
+			_Direction Axis:
+
+				_ésta opción nos permitirá indicar la dirección del sistema de partículas, ésta opción tendrá efectos sólo para
+
+				los modos de emisión de partículas los cuáles, poseen las emisión direccional de algún modo, de ésta manera, 
+
+				podremos controlar ó indicar la dirección de la emisión de las partículas a través, de las cordenadas "X|Y|Z",
+
+				así, como también, a través, de una combinación de todas éstas cordenadas
+
+
+			_Gravity Vector:
+
+				_así, como también, podremos personalizar la fuerza la gravedad sobre el sistema de partículas así, como 
+
+				también, la dirección de ésta fuerza la cuál, ejercerá atracción sobre las cordenadas indicadas las cuáles, a 
+
+				su vez, podrán ser positivas ó negativas respectivamente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

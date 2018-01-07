@@ -1,0 +1,79 @@
+
+
+
+
+	Tracker ó Rastreo en After Effects
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Nota: es altamente recomendable crear una composición arrastrando el material a trackear sobre el ícono de 
+
+	composición para que así, se cree una composición con las dimensiones exactas como freme rate, aspecto de pixeles, 
+
+	otros, exactos del material tracker para lograr así, una garantía de que el trackeo se realizará correctamente
+
+
+
+
+	Opciones y usos del panel Tracker/seguimiento:
+	______________________________________________
+
+
+	1.cuando abrimos el panel tracker/seguimiento; "seleccionando el material y hacemos right+click/Track Motion",
+
+	este tiene arriba cuatro opciones, cuatro accesos directos, estos son: 
+
+
+		1.1.Track Camara/rastrear camara: este comando abrirá el efecto "Effect/Perspective/3d Camara Tracker", 
+
+		especialmente útil para recrear cámaras en un espacio 3d, emulada de una toma de un video para con éstos 
+
+		datos crear objetos nulos y sólidos trackeados y estabilizados con la camara
+
+
+		1.2.Warp Stabilizer/estabilizado de deformación: este comando abrirá el efecto 
+
+		"Effect/Distor/Warp Stabilizer VFX", este es especialmente útil para el estabilizado y reconfiguración del 
+
+		clip, con áreas recortadas ó sin áreas recortadas ni estiradas
+
+
+		1.3.Track Motion/seguir movimiento: (estabilizar un punto ó área determinada en un video a través de un 
+
+		punto de referencia, almacenando los movimientos de la cámara con la cuál fue grabado el video y los 
+
+		almacena en una capa determinada por nosotros para luego ser usados ubicando un nuevo elemento en la escena),
+
+		en esta opción el punto de origen "Motion Source/origen de movimiento", por lo general deberá ser diferente 
+
+		al punto de destino "Motion Target/destino de movimiento", el cuál debemos seleccionar 
+
+
+		1.4.Stabilize Motion/estabilizar movimiento: (estabiliza un video a partir de un punto de referencia, para 
+
+		eliminar movimientos de la camana con la cuál fue grabado el video), en esta opción "Stabilize Motion", el 
+
+		origen y el destino del trackeo "Motion Source/origen de movimiento (y) Motion Target/destino de movimiento"
+
+		será siempre la misma capa, esto quiere decir que "Current Track/Pista actual", ó "cálculo resultante del 
+
+		rastreo", se aplicará como propiedad al material de origen/destino "Tracker 1/seguimiento 1"
+
+
+	
+	2.las opciones "Track Type/tipo de pista": (si no deseamos utilizar los comando de arriba podemos seleccionar el 
+
+	tipo de track directamente aquí)
+
+
+		2.1.Transform: esta opción corresponde al tipo de trackeo "Track Motion/seguir movimiento",
+
+		2.2.Stabilize/estabilizar: esta opción corresponte al tipo de trackeo "Stabilize Motion/estabilizar 
+
+		movimiento"
+

@@ -1,0 +1,271 @@
+
+
+
+AfterEffects Plugins Para Motion Graphics
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+--------------------------------------------------------------------------------------------------------
+
+Interpolación de Keyframes:
+___________________________
+
+
+
+	_Menú Effects/Motion 2:
+
+
+		_éste 
+
+
+
+	_MatchRate:
+
+		_
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------
+
+Motion Graphics:
+________________
+
+
+
+	------------------------------------------------------------------------------------------------
+
+	_Menú Preview Overlap:
+
+
+		_éste permite lograr el efecto de cinemática ó princípios de animación, letardo, 
+
+		anticipación, squash, stretch,...
+
+
+		_para ésto, debemos tener creados elementos proxis ó duplicados del original que harán
+
+		de instancias del motivo u objeto principal
+
+
+
+	------------------------------------------------------------------------------------------------
+
+	_Menú Preview Link:
+
+		
+		_éste permite lograr el efecto de cinemática ó princípios de animación, letardo, 
+
+		anticipación, squash, stretch,..., preferiblemente con layers, de forma
+
+
+		_para ésto, debemos tener creados elementos proxis ó duplicados del original que harán
+
+		de instancias del motivo u objeto principal
+
+
+		_para ésto, el plugins, cuenta con un suiche, con el cuál, podemos seleccionar entre las
+
+		siguientes modalidades:
+
+
+
+
+	------------------------------------------------------------------------------------------------
+
+	_Videohive Cluster:
+
+	
+		_
+
+
+
+
+	------------------------------------------------------------------------------------------------
+
+	_Videohive Curva Script UI:
+
+		_
+
+
+
+	------------------------------------------------------------------------------------------------
+	
+	_Menú Effects/Bend Layers 1.2:
+
+
+		_ésta opción nos permite hacer modulaciones de una imágen ó composición en la escena
+
+
+		_tanto en horizontal como en vertical la cuál, podremos distorcionar y separar entre
+
+		sus partes así, hacer torciones ó twist, otros, lo cuál, es especialmente útil para
+
+		motion graphics
+
+
+		_es altamente aconsejable convertir las layers, deseadas en una composición así, tendremos
+
+		las posibilidades a la hora de hacer composiciones más complejas y elaboradas
+
+
+		_luego, seleccionamos la composición deseada en la escena y vamos ha 
+
+		"Menú Effects/Bend Layers 1.2"
+
+
+		Bend Layers 1.2:
+		________________
+
+
+		_Sagments:
+	
+			_en ésta opción debemos indicar los segmentar ó resolución que tendrá la modulación
+
+
+		_AnchPos:
+
+			_en ésta opción debemos indicar el punto de anclaje del controlador de la modulación
+
+
+		_Bending:
+
+			_en ésta opción debemos indicar el sentido de la modulación "horizontal ó vertical"
+
+
+		_Curve:
+
+			_en ésta opción debemos indicar el tipo de distorción básica, en "Curve/arc", ó "S"
+
+
+		_Pre-Comp/This COmp:
+
+			_es más recomendable indicar que realice todo el proceso en una "Pre-Comp", dentro de 
+
+			la escena así, tendremos las escena más limpia y despejada
+
+
+		_Bend!:
+
+			_en ésta opción debemos indicar la finalización del proceso
+
+
+
+
+
+	------------------------------------------------------------------------------------------------
+	
+	Centrum:
+
+
+		_
+
+
+
+	------------------------------------------------------------------------------------------------
+	
+	Vertex Tool:
+
+
+		_
+
+
+
+	------------------------------------------------------------------------------------------------
+	
+	Align to Path:
+
+
+		_
+
+
+	------------------------------------------------------------------------------------------------
+	
+	Vigoro v1.0:
+
+
+		_
+
+
+
+	------------------------------------------------------------------------------------------------
+	
+	EasySlideShow v1.0:
+
+
+		_
+
+
+
+	------------------------------------------------------------------------------------------------
+	
+	M_LinesCreator v1.01/1.35:
+
+
+		_
+
+
+
+	------------------------------------------------------------------------------------------------
+	
+	Mirrow & Offset:
+
+
+		_
+
+
+	------------------------------------------------------------------------------------------------
+	
+	Parrot:
+
+
+		_
+
+
+	------------------------------------------------------------------------------------------------
+	
+	Voronoi Shatter v2.2:
+
+
+		_
+
+
+	------------------------------------------------------------------------------------------------
+	
+	Divide & Corner v1.0:
+
+
+		_
+
+
+	------------------------------------------------------------------------------------------------
+	
+	Matrix:
+
+
+		_
+
+
+
+	------------------------------------------------------------------------------------------------
+	
+	Image Secuence Section Destroyer (COB_SSD):
+
+
+		_
+
+
+
+
+
+
+
+
+
+
+

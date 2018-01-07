@@ -1,0 +1,87 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá distorsiona la imagen haciendo rotar una capa en torno a su centro. La imagen se 
+
+	distorsiona más en el centro que en los bordes; si los ajustes son extremos, se produce un efecto de remolino 
+
+
+	_Como la distorsión de este efecto es significativa, After Effects emplea técnicas de suavizado para producir 
+
+	la mejor calidad de imagen. Como 
+
+
+	_éste efecto es especialmente útil para hacer torsiones como por ejemplo para emular un tornado en movimiento
+
+	en dos dimensiones gracias ha que podemos ver el epicentro del sistema
+
+
+	_para crear efectos de dinamismo y constructivismo visual para otros efectos en procesos de paso contínuo
+
+	entre otras posibilidades
+
+
+
+	
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Twirl: (Molinete)
+	______
+
+
+		_Angle:
+
+			_ésta opción nos permitirá indicar el radio ó cantidad del efecto de distorsión por
+
+			torsión
+
+
+		_Twirl Radius:
+
+			_ésta opción nos permitirá indicar el alcance ó radio en el cuál, podrá tener acción 
+			
+			el efecto sobre la imágen respectiva osobre la cuál, se ha aplicado el efecto
+
+
+		_Twirl Center:
+
+			_ésta opción nos permitirá indicar, ajustar y animar el epicentro ó vórtice del sistema
+
+			a través, del cuál, podremos controlar todo el sistema
+
+
+
+
+
+

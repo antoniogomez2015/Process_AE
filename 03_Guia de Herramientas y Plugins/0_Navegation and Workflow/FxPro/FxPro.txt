@@ -1,0 +1,50 @@
+
+
+
+
+FxPro
+
+
+	Referencia:
+
+		http://aescripts.com/ft-toolbar/
+
+
+	
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste hacer un effects list, de efectos y plugins, de primeros y terceros, especialmente útil para acceder
+
+	rápidamente a efectos y plugins
+
+
+	
+Aplicaciones:
+_____________
+
+
+	_éste en la versión 1, permite crear tags, con tópicos de efectos y plugins, maleables en la interface para 
+
+	tener un acceso más rápido aún
+
+
+	_y en la versión 2, podremos hacer listas más organizadas, otros
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+	
+	
+	_para ésto sólo necesitamos tener una escena ó composición de trabajo creada
+
+	_e ir ha "FxPro/", en "(F) Panel FxPro / Referencia (al lado derecho del Panel Proyecto por default)"
+

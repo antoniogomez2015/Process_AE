@@ -1,0 +1,525 @@
+GUIA DE EFFECTS AFTER EFFECTS
+
+	FUEGO/PLASTA/MAGMA
+
+		1.Image Lounge/Fractal Brimstone (expulsion de fluido direccional y configurable)
+
+		2.Image Lounge/Fractal Fire (llamaradas de fuego configurable)
+
+		3.1.Image Lounge/Fractal Clouds (cloud de fuego configurable en sus presets)
+
+	CLOUDS/NOISE/VOLUMEN
+
+		1.Image Lounge/Fractal Clouds (irregularidad nubosa)
+
+
+	CONTORNOS/PERIMETROS
+
+		1.Image Lounge/Border Patrol (creacion de contorno avanzado y configurable)
+
+	PIRITA/NOISE/DESGASTE/ACABADO
+
+		1.Image Lounge/Grunge (descaste, acabado corrosivo)
+		
+		2.BCC8 Art Looks/BCC Spray Paint Noise (ruido aleatorio tipo photoshop)
+
+		3.BCC8 Image Restoration/BCC Wire Remover (removedor de alambre "banda que permite difuninar mas ruido")
+		
+		
+	ESPACIOS 3D
+
+		1.Image Lounge/Fractal Tunnel
+
+		
+	OBJETOS 3D
+
+		1.BCC8 3D Objects/BCC Extruded EPS (extruye archivos EPS y AI-illustrator)
+		
+		2.BCC8 3D Objects/BBC Extruded Spline (extruye formas geometricas y mascaras de AE)
+
+		3.BCC8 3D Objects/BBC Extruded Text (crea texto 3d altamente configurable)
+
+		4.BCC8 3D Objects/BBC Type on Text (crea texto 3d más la propiedad "write on")
+
+		5.BCC8 3D Objects/BCC Layer Deformer (figuras geometricas 3d deformables más textura de capas)
+
+		6.Distort/Displacement Map (aplicar mapas de desplazamientos creados a capas para generar efectos de volúmen y desplazamientos 3d)
+
+	BUMP/RELIEVES
+
+		1.BCC8 Art Looks/BCC Bump Map (relive de imagen más ofset)
+
+	
+	3d cHANNEL
+		1.3D Channel/3D Channel Extract (para extraer un canal 3da un render, como un depth o alpha creado en aplicaciones 3d )
+
+		2.3D Channel/Depth Matte (Permite hacer visibles de un render canales auxiliares como escala de grises y depth, para ser utilizados como alphas mattes)
+
+		3.3D Channel/Depth Of Field (Para extraer un canal depth e informacion de camara de un render y crear proufndidad de campo)		
+
+		4.3D Channel/Fog 3D (sirve para incluir en la Z Depth de una capa un gradiente de fog o tubulencia o ruido)
+
+		5.3D Channel/ID Matte (es un identificador de ID Object de una canal 3d un render)
+
+		6.3D Channel/IDentifier (selector de canal como mattes, color, lumas, raw)
+
+	CHANNEL
+		1.Channel/Arithmetic (mezcal de canal con deferentes criterios; posterizado modos de fusion, entrelazado, otros)
+
+		2.Channel/Blend (mezcla 2 capas con 5 criterios diferentes manteniendo una recerba rectangular en el centro)
+
+		3.Channel/Calculations (combina canales de una capa con los canales de otra capa secundaria)
+
+		4.Channel/Channel Combiner (combinar canales seleccionables "From/To" de una capa o de 2 capas más modos de fusion)
+
+		5.Channel/Compound Arithmetic (combinador de propiedades de capas como rgb, modos de fusion y criterios)
+
+		6.Channel/Invert (invierte directamente la capa como una negatipo fotografico)
+
+		7.Channel/Set Channels (crea imagenes compuestas de diferentes canales de varias capas o archivos)
+
+		8.Channel/Shift Channels (permite mezclar canales, ejemplo: el alpha por el rojo, o el verde por el azul)
+
+		9.Channel/Solid Composite (permite crear una imagen con una canal dominante de color de una canal determinado)
+
+
+
+	CARTOON EFFECTS
+
+		1.BCC8 Art Looks/BCC Cartooner (reinterpreta imagen comic altamente conifgurable)
+
+		2.BCC8 Art Looks/BCC Charcoal Sketch (imagen en umbral tipo comic configurable)
+
+		3.BCC8 Art Looks/BCC Pencil Sketch (imagen en umbral tipo comic configurable)
+
+		
+	PHOTOSHOP EFFECTS
+
+		1.BCC8 Art Looks/BCC Halftone (tramado de puntos ofset)
+
+	PATRONES/MODULOS/SUPERMODULOS/MOSAICOS
+
+		1.BCC8 Art Looks/BCC Tile mosaic (mosaicos alta configurables y variables)
+
+	POSTERIZADOS/PASTEL/SPLATER
+
+		1.BCC8 Art Looks/BCC Cartoon Lock (posterizado suave tipo pastel)
+
+		2.BCC8 Art Looks/BCC Median (posterizado ultra suave e integrado tipo pastel)
+
+		3.BCC8 Art Looks/BCC Posterize (posterizado pronunciado configurable)
+
+		4.BCC8 Art Looks/BCC Water Color (posterizado configurable editable)
+
+		5.BCC8 Art Looks/BCC Artists Poster (posteriozado variable por color)
+
+		6.Channel/Minimax (mescla los colores mas cenrcanos a si mismos y crea un efectos posterizado)
+
+		7.Blur & Sharpen/CC Vecotr BLur (posterizado por proximidad de color y por capa seleccionada)
+
+	DESPLAZAMIENTO/REDIMENSIONES DE IMAGENES y FORMATOS
+
+		1.Image Lounge/Ultra Displacer (desplazamiento de imagen  y de plano integrada con original)
+
+		2.BCC8 Image Restoration/BCC UpRez (redimencionar capa en formato estandar como "SD, HDV, HD", animable)
+		
+		
+
+	COPIAS/REFLEXION/MIRROW/PATRONES/MODULOS
+
+		1.Image Lounge/Hall of Mirrors (copias, replicas, reflexion o espejo)
+
+		2.Image Lounge/Hall if Time (copias, replicas, reflexion o espejo animable)
+
+		3.Distort/CC Tiler (matríz modular escalable como módulos y supermódulos animable)
+
+		4.Distort/Offset (permite hacer modulos y supermódulos como matrices animables por un handle ó punto de referencia)
+
+	DESENFOQUES/BLURING
+
+		1.Image Lounge/True Camara Blur (desenfoque de camara)
+
+		2.Image Lounge/True Camara Rack Focus (desenfoque de camara)
+
+		3.Frischleft/FL Box Blur (desenfoque general)
+
+		4.Frischleft/FL Depth Of Field (desenfoque por planos)
+
+		5.Frischleft/FL Out Of Focus (desenfoque fuera de foco)
+
+		6.Frischleft/FL Radial Blur (Zoom Blur)
+
+		7.BCC8 Blur & Sharpen/BCC Directional Blur (desenfoque de foco y direccional)
+
+		8.BCC8 Blur & Sharpen/BCC Gaussian Blur (desenfoque de foco plano)
+
+		9.BCC8 Blur & Sharpen/BCC Lens Blur (desenfoque de lente y direccion)
+
+		10.BCC8 Blur & Sharpen/BCC Lens Shape (desenfoque de forma de la imagen y direccional)
+
+		11.BCC8 Blur & Sharpen/BCC Motion Blur (desenfoque de movimiento)
+
+		12.BCC8 Blur & Sharpen/BCC Pyramid Blur (desenfoque piramidal)
+
+		13.BCC8 Blur & Sharpen/BCC Radial Blur (desenfoque direccional por punto animable)
+
+		14.BCC8 Blur & Sharpen/BCC Spiral Blur (desenfoque espiral del horizonte por punto)
+
+		15.BCC8 Blur & Sharpen/BCC Unsharp Mask (desenfoque radial,ampliacion, posteriozar y canal)
+
+		16.BCC8 Blur & Sharpen/BCC Z-Blur (desenfoque de profundidad por planos y depth field "solo para video")
+
+		17.Blur & Sharpen/Bilateral Blur (desenfoque en los bordes de graficos de las imagenes, efecto de seudo movimiento)
+
+		18.Blur & Sharpen/Box Blur (desenfoque rapido o gaussian blur o plano)
+
+		19.Blur & Sharpen/Camara lens Blur (desenfoque de camara avanzado)
+
+		20.Blur & Sharpen/CC Cross Blur (desenfoque direccional por cordenadas "X", "Y")
+
+		21.Blur & Sharpen/CC Radial Blur (desenfoque radial)
+
+		22.Blur & Sharpen/CC Radial Fast Blur (desenfoque con punto de fuga en "Z")
+
+		23.Blur & Sharpen/Channel Blur (desenfoque por canal)
+
+		24.Blur & Sharpen/Compound Blur (desenfoque por capas seleccionadas)
+
+		25.Blur & Sharpen/Directional Blur (desenfoque direccional)
+
+		26.Blur & Sharpen/Fast Blur (desenfoque plano)
+
+		27.Blur & Sharpen/Gaussian Blur (desenfoque gaussiano, desenfoque mate)
+
+		28.Blur & Sharpen/Radial Blur (desenfoque radial por punto configurable)
+
+		29.Blur & Sharpen/Smart Blur (desenfoca, matiza y posteriza)
+
+	SHARPEN/ENFOCAR
+
+		1.Blur & Sharpen/Sharpen (enfocar)
+
+	TURBULENCIAS/DISTORCION
+
+		1.Image Lounge/Turbulent Distortion (turbulencia de gama amplia de imagen animable)
+
+		2.Image Lounge/Turbulent Distortion EZ (turbulencia de gama amplia por zoom animable)
+
+		3.Image Lounge/Turbulent Edges (turbulencia de glow de contornos animables)
+
+	DEFORMACIÓN EN EL ESPACIO DE UNA CAPA
+
+		1.Distort/Bezier Warp (eformación en el espacio de una capa con bezieres, nodos y manejadores en sus esquinas animables)
+
+		2.Distort/Mesh Wap (maya que permite a través puntos asignados generar pliegues y doblesces para generar volúmen y perspectiva 3d)
+
+	EFECTOS DE LUPA/ACERCAMIENTO/DETALLE
+
+		1.Distort/Bulge	(burbuja con efecto de lupa de acercamiento, animable)
+
+		2.Distort/Magnify (lupa en círculo con efecto de magnificación de la imágen dentro)
+
+		3.Distort/Spharize (permite generar un área circular en la cual se puede crear una efecto de esferizado ó burrbuja de acercamiento y distorción de la capa en el área determinada)
+
+	TRANSFORMACION/EDICION
+
+		1.Distort/Transform (permite recrear las propiedades basicas de edición de las capas dentro de las propiedades del efecto, tales como: Anchor Point/Position/Scale/Skew/Rotation/Opacity/Shutter Angle)
+
+
+	EFECTOS DE DISTORCIÓN Ó MODIFICACIÓN DE LA FORMA DE UNA CAPA
+
+		1.Distort/CC Bend It (torción vertical de la imágen en grados al mejor estilo 3d)
+
+		2.Distort/CC Bender (distorcionador de punto y animable especial para hacer fuego u otros fluidos simulados)
+
+		3.Distort/CC Blobbylize (efecto de posterizados diplicados y sintetizados)
+
+		4.Distirt/CC Flo Motion (atractor de 2 puntos de distorción animable)
+
+		5.Distort/CC Griddler (matríz configurable y editable que enmascara la capa ó la distorcionada, también puede hacer el efecto de inflado)
+
+		6.Distort/CC Lens (efecto de ojo de pez acelerado y configurable)
+
+		7.Distort/CC Slant (distorción vertical configurable)
+
+		8.Distort/CC Smear (efecto liquid con 2 punto manejadores, de un punto "a", a un punto "b")
+
+		9.Distort/Liquify (efecto de liquado al mejor estilo photoshop y con un punto animable)
+
+		10.Distort/CC Split (separar un capa en 2 a través de una avertura de un punto "a" un punto "b")
+
+		11.Distort/CC Split 2 (separar una capa en 2 a través de un avertira de un punto "a" un punto "b", controlando las averturas independientemente)
+
+		12.Distort/Polar Cordinates (emula en 2d un efecto circular que da la sensación de una esfera en sentido sentrífigo ó centrípeta)
+
+		13.Distort/Ripple (permite generar un efecto de ondas centrífugas como un eco de un impacto en un fluido)
+
+		14.Distort/Turbulent Displacer (permite generar una ondulación en una dirección dando la sensación de movimiento, volúmen, forma, perspectiva y 3d)
+
+		15.Distort/Twirl (permite generar una distorción en forma enroscada ó como un tornado a través de un punto de referencia configurable)
+
+		16.Distort/Warp (permite hacer distorciones a través de patrones seleccionables igual a Photoshop para distorciones controlables y animables)
+
+	
+	EFECTO BLEND SHAPE
+
+		1.Distort/Reshape (permite hacer un blend shape de capas intercambiando su máscaras para así cambiar la forma resultante)
+
+	TRANSICIONES 
+
+		1.Distort/CC Page Turn (efecto de transición de página)
+
+	MIRROR/REFLEJOS
+
+		1.Distirt/Mirror (permite hacer una imágen reflejo a partir de punto de referencia en el cual se puede rotar en la capa misma)
+
+
+	PERSPECTIVAS
+
+		1.Distort/CC Power Pin (generador de perspectiva y sketch a través de las poins en las esquinas de la capa)
+
+		2.Distort/Corner Pin (generador de perspectiva con puntos manejadores en las esquinas de la capa)
+
+		3.Distort/Optics Compensation (permite hacer una compensación entre la perspectiva del plano de la capa y el pano de la cámara haciendo una compensación en la perspectiva emulando un virado 3d)
+
+	MÁSCARAS/TRAZADOS
+
+		1.Distort/Smear (ermite extraer y proyectar selectivamente las máscaras de una capa sobre la misma para su utilización)
+
+
+	CORRECIÓN DE VIDEO
+
+		1.Distort/Rolling Shutter Repair (permite corregir el ruido causado por el movimiento de tomas hechas a mano alzada)
+
+	ALPHAS GENERADOS
+
+		1.Image Lounge/Alpha Ramp (punto de alpha animable)
+
+		2.Channel/Set Matte (permite asignarle un canal alpha por difernes criterios a un archivo o capa)
+
+	CHROMA KEYS
+		
+		1.BCC8 Key & Blend/BCC Chroma Key (chroma key por color seleccionado)
+
+	ALPHAS DE CHROMAS/AJUSTES/TRAMADOS
+
+		1.BCC8 Key & Blend/BCC Alpha Process (calado, intercalado, suavisado, contraste)
+
+		2.BCC8 Key & Blend/BCC Matte Cleanup (definir bien el matte tanto el blanco como el negro y tramado)
+
+		3.Color Correction/Change Color (cambiar un color seleccionado por otro, por Lightness y Saturation "para adaptar a chroma")
+
+		4.Color Correction/Change to Color (cambiar un color seleccionado por otro color seleccionado, por Tono,Lightness y Saturation "para adaptar a chroma")
+
+	ALPHAS - EFECTOS DE PRODUCCION
+
+		1.BCC8 Key & Blend/BCC Light Wrap (calado profesional sin perdida de alpha con layer de fondo)	
+
+	MODULACIONES/MATRICES/SUPERMODULOS
+
+		1.Frischleft/FL Amiga Rulez (modulaciones de imagenes en matrices animables)
+
+		2.BCC8 Color & Tone/BCC Color Palette (creacion de paleta de colores configurable en capa)
+
+	AJUSTES DE GAMMA
+
+		1.Frischleft/FL Curves - Absolute (curva gradual de gama de imagen)
+
+		2.Frischleft/FL Curves - Relative (curva relativa de gamma de imagen)
+
+		3.BCC8 Color & Tone/BCC Levels Gamma (correccion de niveles de gama de la imagen)
+
+		4.BCC8 Color & Tone/BCC Safe Colors (correcion del punto del blanco, negro, gamma, blur, sharpen + tracking)
+
+		5.Color Correction/CC Kernel (correcion de gamma)
+
+	GLOWS/MATIZADOS
+
+		1.Frischleft/FL Glow (glow physical ambiental)
+
+		2.BCC8 Film Damage/BCC Film Glow (efecto avanzado de glow amplio y complejo)
+
+	ESFERIZAR
+
+		1.Frischleft/FL Glas Sphere (gota de distorcion esferica, reflexion, refraction)
+
+	EXTRUCION DE LIGHT
+
+		1.Frischleft/FL Highlight (emanacion de luz y halo "muy bueno")
+
+		2.Knoll Kight Factory/LF Photon Spikeball (punto de destello)
+
+		3.Knoll Kight Factory/LF Poly Spikeball (punto de destello glow, suave)
+
+		4.Knoll Kight Factory/LF RandomFan (punto de destello glow, semi suave)
+
+		5.Knoll Kight Factory/LF Sparkle (punto de destello fino y amplio)
+
+		6.Knoll Kight Factory/LF Spikeball (punto de destello semi suave)
+
+		7.Knoll Kight Factory/LF Caustic (luz embolvente ambiental focalizada)
+
+		8.Knoll Kight Factory/LF Star Filter (punto de destello suave)
+
+	LUCES VOLUMETRICAS
+
+		1.Frischleft/FL Volumetrics
+
+	POINT LIGHT/optical flares
+
+		1.Knoll Kight Factory/Light Factory (point light)
+
+		2.Knoll Kight Factory/light Factory EZ (Optical flares)
+
+		3.Knoll Kight Factory/light Factory LE (optical flares)
+
+		4.Knoll Kight Factory/LF Chroma Hoop (punto o halo de arcoiris)
+
+		5.Knoll Kight Factory/LF Circle Spread (linear optical flares)
+
+		6.Knoll Kight Factory/LF Disc (point light)
+
+		7.Knoll Kight Factory/LF Elipse (un disco optical flares)
+
+		8.Knoll Kight Factory/LF Eliptical Caustic (un disco optical flares)
+
+		9.Knoll Kight Factory/LF Fadering (un halo tipo disco optical flares)
+
+		10.Knoll Kight Factory/LF Glow (point light)
+
+		11.Knoll Kight Factory/LF Poly Spread (linear optical flares)
+
+		12.Knoll Kight Factory/Single Poly (un disco optical flares suave)
+
+	LIGHTS/EFFECTS/GENERAR
+
+		1.Knoll Kight Factory/LF ChromaFan (ondas laterales de arcoiris)
+
+
+	DIFUMINAR/PIXELAR/DESVANECER
+
+		1.Frischleft/FL Mosaic Plane (Pixelar)
+
+	CORRECION DE IMAGEN (RUIDO/FOCO/NIVELES/CANALES/OTROS)
+
+		1.RE:Vision Plug-ins/DE:Noise (reduccion de ruido)
+
+		2.Channel/Remove COlor Matting (correccion de color como ruido en los bordes de graficos)
+
+		3.Blur & Sharpen/Reduce Interlace Flicker (reduce parpadeo de video entrelazado horizontal)
+
+		4.Blur & Sharpen/Unsharp Mask (desenfoca por mascara y contrasta los bordes y define el color)
+
+	CREACION DE FONDOS
+
+		1.BCC8 Color & Tone/BCC Color Plette (creacion de tonos y patrones animables por handle)
+
+		2.Color Correction/Colorama (modificacion de capa por sus espectro por canales, phases y capas o layers)
+
+	EFECTOS DE COLOR
+
+		1.BCC8 3D Objects/BCC Artists Poster (posterizado de color configurables)
+
+	CORRECCION DE COLOR DE IMAGEN
+
+		1.BCC8 Color & Tone/BCC 3 Way Color Grade (correcion de gama y color avanzado)
+
+		2.BCC8 Color & Tone/BCC Color Balance (correccion de color por canal)
+
+		3.BCC8 Color & Tone/BCC Color Correction (correcion de brillo, contraste, espacio de color, tono,saturacion, blanco y negro)
+
+		4.BCC8 Color & Tone/BCC Color MAtch (ajuste tonal de color)
+
+		5.BCC8 Color & Tone/BCC Colorize (panoramas de color aplicado, punto del blanco y negro, animable)
+
+		6.BCC8 Color & Tone/BCC Correct Select Color (coreccion de color selectiva, tono,brillo,contraste,gama, black, white)
+
+		7.BCC8 Color & Tone/BCC Hue-Sat-Lightness (correccion de color tono,saturacion y brillo aplicado)
+
+		8.BCC8 Color & Tone/BCC MultiTone Mix (aplicacion de colores de ajuste y multi imagen)
+
+		9.BCC8 Color & Tone/BCC Trione (dominante de color por colores aplicados y configurados)
+
+		10.BCC8 Film Damage/BCC Film Process (correcion por gamma, saturacion,brillo,contraste,lens, film tint preprocesado-posprocesado)
+
+		11.Color Correction/Auto Color (correccion de color por el punto del blanco y del negro y medios tonos)
+
+		12.Color Correction/Auto Levels (correccion del indice del punto de blanco de una imagen o capa)
+
+		13.Color Correction/Brightness & Contrast (ajuste del brillo y del contraste)
+
+		14.Color Correction/Broadcast Colors (correcion NTSC y PAl en reduccion de luminancia, saturacion y key)
+
+		15.Color Correction/CC Color Neutralizer (neutraliza colores por shadow, medios tonos y altos tonos)
+
+		16.Color Correction/Color Balance (por shadow, medios tonos, altos tonos en rojo, verde y azul)
+
+		17.Color Correction/Color Link (superposicion de color dominante por layer seleccionada a una capa o archivo)
+
+		18.Color Correction/Color Stabilizer(estabilizacion de color por puntos configurables con diferentes criterios de aplicacion)
+
+	Dominantes de color
+
+		1.Color Correction/CC Color Offset (desfase del red,green,blue, en modos wrap, solarize, polarize)
+
+		2.Color Correction/CC Toner (dominantes de color por ajustes Pantone,Tritone, Duotone,Solid y sus componente de cada uno)
+
+		3.Color Correction/Change Color (cambiar un color seleccionado por otro, por Lightness y Saturation)
+
+		4.Color Correction/Change to Color (cambiar un color seleccionado por otro color seleccionado, por Tono,Lightness y Saturation)
+
+		5.Color Correction/Channel Mixer (mezcla de colores mixtos pre configurados)
+
+	REESTAURACION DE IMAGEN
+		
+		1.BCC8 Image Restoration/BCC Dust and Scratches (corregir parches y rayaduras)
+
+		2.BCC8 Image Restoration/BCC DV Fixer (correguir definicion de television)
+
+		3.BCC8 Image Restoration/BCC Flicker Fixer (corregir parpadeo en video frame a frame)
+
+		4.BCC8 Image Restoration/BCC Noise Reduction (reduccion de ruido)
+
+		5.BCC8 Image Restoration/BCC Smooth Tone (coreccion y suavisazo de tono)
+
+		6.BCC8 Image Restoration/BCC Wire Remover (removedor de alambre "banda que permite difuninar")
+
+	RASTREO/TRACKING
+
+		1.BCC8 Image Restoration/BCC Motion Key (ratreo de movimiento "translation, rotation, zoom")	
+
+		2.BCC8 Image Restoration/BCC OPtical Stabilizer (estabilizacion optica "translation, rotation, zoom y combinadas")
+
+		3.BCC8 Image Restoration/BCC Pixel Fixer (muestreo de pixel por puntos de seguimientos configurables y animables)
+
+
+	BRILLO Y CONTRASTE
+
+		1.BCC8 Color & Tone/BCC Brightness-Contrast (brillo y contraste)
+
+	EFECTOS EN IMAGENES
+
+		1.BCC8 Color & Tone/BCC Invert Solarize (invertir gama y solarizar imagen)
+
+	EFECTOS DE TELEVISION/DANO/RUIDO/DESPERFECTO/DISTORCION/OTROS
+
+		1.BCC8 Film Damage/BCC Film Damage (efecto en color/flicker/shake/grain/dirt/hair/scratches/motion tracker)
+
+		2.BCC8 Film Damage/BCC Film Grain (grano de pelicula editable y animable)
+
+		3.BCC8 Film Damage/BCC Deinterlace (desentrelazado de canal)
+
+	ELEMENTOS PREDISEÑADOS
+
+		1.BCC8 Color & Tone/BCC Videoscope (graficos, histogramas de edicion de video)
+
+	FUSION/ENTRELAADO DE IMAGENES-LAYERS
+
+		1.BCC8 Key & Blend (fusión avanzada entre capas)
+
+	BLACK AND WHITE/BLANCO Y NEGRO
+
+		1.Color Correction/Black & White (conversion de imagen o capa a blanco y negro, acentuacion por canales de valores)
+
+
+

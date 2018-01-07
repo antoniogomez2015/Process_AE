@@ -1,0 +1,80 @@
+
+
+
+
+Animation Patterns
+
+
+	Referencia:
+
+		http://videohive.net/item/motion-mode/10117499
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite hacer interpolaciones de animaciones entre capas seleccionadas entre varias composiciones
+
+	de animación
+
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_especialmente útil para hacer transiciones de animaciones entre composiciones, muy útil para lograr efectos
+
+	complejos entre efectos y multicapas entre composiciones
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics: 
+_______
+
+	
+	_primero debemos crear una composición en la cuál, debemos crear las layers, deseadas ha interpolar su animación
+
+	y luego debemos animar éstas respectivas capas a interpolar posteriormente
+
+
+	_luego debemos crear otra composición en la cuál, debemos crear otras capas a las cuales deseamos interpolar su 
+
+	animación, por lo general serán el mismo tipo de capas y contenidos que en la primera composición para que así, 
+
+	haya correlación entre ambas composiciones
+
+
+	_luego debemos seleccionar las layers, deseadas de la primera composición ha interpolar y luego vamos al panel 
+
+	"Motion Mode", y aplicamos "Motion Mode" 
+
+
+	_para que así, se genere una nueva composición "Motion Mode", en la cuál, se encontrará hasta ahora la primera 
+
+	composición en forma de precomposición
+
+
+	_luego debemos repetir éste último paso con la segunda composición para así, ésta sea incorporada dentro de la
+
+	composición "Motion Mode", en forma de precomposición
+
+
+	_de ésta manera en la composición "Motion Mode", tendremos ambos composiciones bases, las cuales ahora podremos
+
+	superponer en el timeline, para que así, ambas animaciones se interpolen antre si
+
+
+	
+

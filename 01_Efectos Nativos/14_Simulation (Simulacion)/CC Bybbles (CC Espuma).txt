@@ -1,0 +1,203 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		After Effects 086 Simulacion y profundidad con baile de cartas
+
+			https://www.youtube.com/watch?v=QWU2pkqRFWw
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_ésta opción nos pemritirá crear sistemas de partículas para diferentes propósitos como burbújas de jabón,
+
+	gotas de agua reflectiva, células vivas, partículas para paso contínuo y para producción para otros procesos
+
+
+	_el sistema de partículas generado mapeará la imágen base a la cuál, se le ha aplicado el efecto, de ésta
+
+	manera, ha modo de reflexiones y desplazamineto podrán crearse diferentes efectos en relación a las 
+
+	necesidades de producción y paso contínuo
+
+
+	NOTA: el sistema de partículas es limitado en relación a sus propiedades físicas, ya que éste sólo es 
+
+	generado con una gravedad negativa, lo que quiere decir, que las partículas sólo serán generadas hacia arriba
+
+
+
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	
+
+	CC Bybbles: (CC Espuma)
+	___________
+
+
+		_Bubble Amount:
+
+			_ésta opción nos permitirá indicar la cantidad de partículas generadas por el sistema
+
+
+		_Bubble Speed:
+
+			_ésta opción nos permitirá indicar la velocidad del sistema de geneción de partículas de
+
+			ésta manera, podremos hacer que la emisión de partículas sea más rápida ó más lenta
+
+
+		_Wobble Amplitude:
+
+			_ésta opción nos permitirá controlar la oscilación de izquieda ha derecha de las partículas
+
+			generadas por el sistema lo cuál, nos permitirá a su vez, generar partículas con diferentes
+
+			comportamientos y no sólo de tipo burbujas oscilantes
+
+
+		_Wobble Frequency:
+
+			_ésta opción nos permitirá controlar la frecuencia ó intervalo de oscilación de las 
+
+			partículas generadas por el sistema lo cuál, estará superditado por los valores de la opción
+
+			de "Wobble Amplitude"
+
+
+			_de ésta manera, podremos crear oscilaciones más ó menos intermitentes ó repetitivas a través,
+
+			del tiempo
+
+
+		_Bubble Size:
+
+			_ésta opción nos permitirá controlar el tamaño de las partículas generadas por el sistema, 
+
+			de ésta manera, podremos crear partículas más ó menos grandes en relación a su vez, a la 
+
+			cantidad de partículas generadas por medio del valor de "Bubble Amount"
+
+
+		_Reflection Type:
+
+
+			_Liquid:
+
+				_ésta opción permitirá la generación del sistema de partículas con una baja cantidad
+
+				de especularidad casi imperceptible lo cuál, es especialmente útil para la mayoría
+
+				de procesos de generación de partículas
+
+
+			_Metal:
+
+				_ésta opción permitirá la generación del sistema de partículas con una alta cantidad
+
+				de especularidad lo cuál, podrá ser útil para cierto tipo de partículas para algunos
+
+				procesos muy específicos
+
+
+
+
+		_Shading Type:
+
+
+			_None:
+
+				_ésta opción nos permitirá generar partículas bases con la imágen base a la cuál, le
+
+				hemos aplicado el efecto ha modo de fondo ha modo de relexión esférica lo cuál, nos
+
+				permitirá crear efectos de tipo "células", entre otras posibilidades
+
+
+			_Lighten:
+
+				_ésta opción es idéntica a la opción anterior de "None", más la opción de "Lighten",
+
+				incluye la incorporación de un contorno blanco de liminancia especular lo cuál, nos 
+
+				permitirá integrar mejor el sistema de partículas generados en diferentes entornos
+
+				para diferentes procesos de producción y paso contínuo
+
+
+			_Darken:
+
+				_ésta opción es idéntica a la opción anterior de "None", más la opción de "Darken",
+
+				incluye la incorporación de un contorno negro de penumbra lo cuál, nos 	permitirá 
+
+				integrar mejor el sistema de partículas generados en diferentes entornos para 
+
+				diferentes procesos de producción y paso contínuo
+
+
+
+			_Fade Inwards:
+
+				_ésta es la opción por defecto la cuál, permite que el interior de cada partícula 
+
+				esté vacío, osea hueco, mientras que el área perimetral ó contorno de la partícula
+
+				sea visible
+
+
+				_y que a su vez, esté mapeado con la imágen de fondo ha modo de halo especular lo 
+
+				cuál, emulará una burbula de jabón, entre otros procesos de producción y paso 
+
+				contínuo
+
+
+			_Fade Outwards:
+
+				_ésta es una opción muy similar a la opción de "Darken"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

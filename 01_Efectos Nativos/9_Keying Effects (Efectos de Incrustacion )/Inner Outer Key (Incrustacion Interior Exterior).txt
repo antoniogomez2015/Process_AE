@@ -1,0 +1,272 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá crear un incrustamiento de color ó keygin, a través, de máscaras ha modo de el
+
+	efecto de "RE:VisionFX/PV Feather", a través, del cuál, podremos hacer rotoscopias y track-mattes, y en 
+
+	éste caso podremos hacer de forma colateral procesos de keygin
+
+
+	_así, como también, podremos utilizar éste proceso para la eliminación por valores de luminancia detro de una
+
+	máscara por ejemplo; edificios en un toma abierta delante de un cielo abierto y azul claro 
+
+
+	_para que así, podamos crear una máscara a groso modo el rededor de los edificios y poder así, a través, de los 
+
+	valores de luminancia eliminar los valores más claros del cielo de ésta manera, podamos eliminar ésta área no 
+
+	deseada
+
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Workflow:
+	_________
+
+
+	_el sistema requiere máscaras que harán de "Foreground", ó máscaras a través, de las cuáles, se conservarán 
+
+	visibles las áreas deseadas en la imágen
+
+
+		_lo más recomendable en éste caso es crear máscaras señidas en las áreas de interes ha conservar sibles, 
+
+		éstas máscaras es recomendable renombrarlas y asignarles un color visible fácilmente y distintivo como 
+
+		un color "amarillo"
+
+
+	_así, como también, el sistema requerirá máscaras que harán de "Background", ó máscaras a través, de las cuáles, 
+
+	se eliminarán las áreas ha eliminar de la imágen
+
+
+		_lo más recomendable en éste caso es no volver ha crear nuevamente máscaras contiguas a las máscaras señidas
+
+		que ya habíamos creado en el paso anterior si no que en vez de eso, debemos de hacer uso del plugins
+
+
+			_"RE:VisionFX/PV Feather", 
+
+
+				_Inside Mask:
+
+					_ésta opción nos permitirá referirnos ha una máscara que hará de "Foreground", de la
+
+					cuál, crearemos un réplica exacta más escalada hacia adentro ó hacia afuera la cuál,
+	
+					hará a su vez, de "Background", posteriormente
+
+
+				_Action:
+
+					_Duplicate and Offset Inner Mask:
+
+						_seleccionar ésta opción en las opciones de "Action", nos permitirá crear una
+
+						réplica de la máscara seleccionada en la opción de "Inside Mask", del paso 
+
+						anterior
+
+
+
+		_a través, del cuál, podremos crear un réplica perfecta de una máscara indicada, escalando ésta máscara hacia 
+
+		adentro ó hacia afuera y de forma automática en relación a la cantidad de "feather", ha generar entre ambas 
+
+		máscaras respectivamente
+
+
+
+		_para que así, una vez, hayamos creado las máscaras réplicas escaladas podamos renombrar éstas con un nombre
+
+		distintivo así, como también, de agregarles un color característico como el color "rojo"
+
+
+		_para que así, podamos utilizar éstas máscaras réplicas como áreas de interes ha eliminar ó áreas "Backgorund", 
+
+		en el proceso posteriormente
+
+
+
+
+	
+
+	Inner Outer Key: (Incrustacion Interior Exterior)
+	________________
+
+
+		_Foreground (Inside):
+
+			_ésta opción nos permitirá selecionar una máscara que hará de "Foreground", ó área principal de interés
+
+			ha conservar en la imágen
+
+
+		_Additional Foreground:
+
+
+			_Foreground 2,3,4,5,6,7,9,10:
+
+				_ésta opción nos permitirá seleccionar hasta "9", máscaras más adicionales de áreas a conservar
+
+				lo cuál, es especialmente útil en procesos ó motivos más complejos
+
+
+
+		_Background (Outside):
+
+			__ésta opción nos permitirá selecionar una máscara que hará de "Background", ó área principal de interés
+
+			ha eliminar en la imágen
+
+
+		_Additional Background:
+
+
+			_Background 2,3,4,5,6,7,9,10:
+
+				_ésta opción nos permitirá seleccionar hasta "9", máscaras más adicionales de áreas a eliminar
+
+				lo cuál, es especialmente útil en procesos de escenas y motivos más complejos
+
+
+		_Single Mask Hightlight Radius:
+
+			_(Indeterminado)
+
+
+		_Cleanup Foreground:
+
+			_las opciones de "Cleaup", nos permitirá refinar las máscaras los cuál, nos permitirá hacer sobre cada
+
+			máscara mejorar la calidad del matte, generado como también, podremos agregarle "Feather"
+
+
+			_Cleanup 1,2,3,4,5,6,7,8:
+
+
+				_Path:
+
+					_ésta opción nos pemritirá seleccionar una máscara ha refinar ó a una máscara a la 
+
+					cuál, deseamos retraer ó extender
+
+
+				_Brush Radius:
+
+					_ésta opción nos permitirá agrega el efecto de "Feather", a una máscara determinada
+
+					a partir de un valor mayor ha "0"
+
+
+				_Brush Pressure:
+
+					_ésta opción nos permitirá agregar extensión ó retracción leve de la máscara ó más ó 
+
+					menos precisión calidad del matte, generado en la máscara sobre el área que ésta 
+
+					circuscribe
+
+
+
+		_Cleanup Background:
+
+
+			_las opciones de "Cleaup", nos permitirá refinar las máscaras los cuál, nos permitirá hacer sobre cada
+
+			máscara mejorar la calidad del matte, generado como también, podremos agregarle "Feather"
+
+
+
+			_Cleanup 1,2,3,4,5,6,7,8:
+
+
+				_Path:
+
+					_ésta opción nos pemritirá seleccionar una máscara ha refinar ó a una máscara a la 
+
+					cuál, deseamos retraer ó extender
+
+
+				_Brush Radius:
+
+					_ésta opción nos permitirá agrega el efecto de "Feather", a una máscara determinada
+
+					a partir de un valor mayor ha "0"
+
+
+				_Brush Pressure:
+
+					_ésta opción nos permitirá agregar extensión ó retracción leve de la máscara ó más ó 
+
+					menos precisión calidad del matte, generado en la máscara sobre el área que ésta 
+
+					circuscribe
+
+
+
+		_Edge Thin:
+
+			_ésta opción nos permtirá extender ó retraer los mattes, de máscaras ha nivel global ó general
+
+
+		_Edge Feather:
+
+			_ésta opción nos permitirá agregar ó disminuir el efecto feather, de todas las máscaras del sistema
+
+
+		_Edge Threshold:
+
+			_ésta opción hará de un control mater, ó auxiliar al control de "Edge Thin", logrando el mismo efecto
+
+			ó intensificando ó multiplicando éste efecto
+
+
+		_Inver Extraction:
+
+			_ésta opción invertirá el matte, de todas las máscaras invirtiendo todo el efecto ha nival general
+
+
+		_Blend With Original:
+			
+			_ésta opción nos permitirá fusionar el efecto resultante con la imágen original
+
+
+
+
+
+
+
+

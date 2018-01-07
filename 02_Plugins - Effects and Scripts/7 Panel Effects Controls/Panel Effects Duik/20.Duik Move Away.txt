@@ -1,0 +1,99 @@
+
+
+http://duduf.net/index.php/products/after-effects/duik/
+
+	Referencia:
+
+		Tutorial basico de rigging con Duik
+			https://www.youtube.com/watch?v=3WiNMHMMduc
+
+		TUTORIAL: DUIK - ARTICULACIONES AUTOMATIZADAS EN AFTER EFFECTS
+			https://www.youtube.com/watch?v=Oi4G1-p59uI
+
+		DUIK 15 full tutorial overview Part 1 Rigging character tools
+			https://www.youtube.com/watch?v=2-m0Mc0ZTP8&list=PLL1LC1tW73eUOt7qjWvn3nYOkYOoQscmy
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Duik
+
+
+	Duik:
+
+
+	-este nos permite hacer sistema de kinemática y cinemática de character, y otros tipos de animaciones
+
+	así, como también, riggings, completos y asistidos con diferentes tipos de controles, limitadores y
+
+	disparadores ó trigers, de animación, otros
+
+
+	_ésta opción de hacer el proceso de rigging, de forma manual, es especialmente útil en characters, en 
+
+	los cuales requiere un especial cuidado ó éste es especialmente diferente a los estándares de posición 
+
+	de éste ó si éste no es un bípedo ó posee unas características únicas
+
+
+	_de ésta manera, el sistema "IK", nos permitirá configurar extremidades con kinemática inversa y directa
+
+	las cuales podremos integrar con otras extremidades y characters, ya realizados ó en proceso, otros
+
+
+	_como también, nos permite tener aplicaciones en máquinas ó otros elementos mecánicos, otros, que no son
+
+	characters, ni obedecen a ningún estandar de animación
+
+
+
+
+
+	Workflow:
+	_________
+
+
+	Descripción:
+
+	_la opción de "Move Away", ésta opción nos permite emparentar el movimiento entre dos layers, lo cuál, es 
+
+	muy impotante para diferentes procesos de animación ya hace práctico e interactivo el seguimiento de 
+
+	una layer, animada así, como preciso
+
+
+	_para ésto, debemos de tener un composición y al menos dos layers, de interés creadas y para que una 
+
+	layer, pueda seguir a la otra es necesario hacer un emparentamiento previo al proceso
+
+
+	_de ésta manera, debemos emparentar la layer, seguidora ha la layer, seguida, para ésto, debemos abrir 
+
+	las opciones de emparentamiento de after effects, shortcut, "Shift + F4"
+
+
+	_para posteriormente seleccionar la layer, seguidora y con ésta seleccionada ir al panel "Duik/Automation/",
+
+	y darle al botón de "Mode Away", para que así, el sistema agrege ha ésta layer, un efecto controlador del
+
+	sistema así, como también, una expresión a la propiedad de "position"
+
+
+	_de ésta manera, a través, de éste efecto controlador podremos controlar el sistema por medio de los 
+
+	siguientes controles:
+
+
+		Distance from parent:
+
+			_a través, de una slider, podremos aumentar ó disminuir la distancia entre ambas layers,
+
+			con una proporción equidistante entre ambas así, como algularidad
+
+			
+			_ésta propiedad es totalmente animable
+
+
+

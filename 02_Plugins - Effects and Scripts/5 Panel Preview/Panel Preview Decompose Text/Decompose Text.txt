@@ -1,0 +1,85 @@
+
+
+http://aescripts.com/decomposetext/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Preview/Decompose Text:
+
+
+
+	_éste permite que tengamos la posibilidad de descomponer una palabra ó párrafo a través, de diferentes
+
+	criterios ó necesidades para convertirlas en diferentes layers, ó capas
+
+
+	
+	Workflow:
+	_________
+
+
+	_primero debemos de tener creada una composición de trabajo
+
+
+	_así, como tambíen, al menos una layer, de texto ó párrafo
+
+
+	_de ésta manera, debemos seleccionar la layer, de texto deseada e ir al panel "Decompose Text", y 
+
+	configurar las siguientes funciones ó criterios de acción
+
+
+	Decompose into:
+	_______________
+
+		_Characters:
+
+			_ésta opción nos permite descomponer el texto en letras ó carácteres independientes
+
+
+		_Words:
+
+			_ésta opción nos permite descomponer el texto en palabras enteras independientes
+
+
+		_Lines:
+
+			_ésta opción nos permite descomponer el texto en lineas de párrafo enteras independientes
+
+
+
+	Original position using expressions:
+	____________________________________
+
+		_ésta opción permite obtener que letra, palabra ó línea obtenida preserve el mismos ancho ó canvas
+
+		de su texto ó párrafo original, ésto es especialmente útil para procesos de animación ya que ésta 
+
+		opción no permite que el texto separado se desajuste ya que éste mantendrá el mismo aspecto y 
+
+		proporción
+
+
+		_así, como también es útil para hacer animación donde las palabras, líneas ó letras cambiar sus
+
+		caracteres en el tiempo mientras que mantienen si posición proporción en relación a su conformación
+
+		original
+
+
+
+	Approx. position without expressions:
+	_____________________________________
+
+		_ésta opción permite que el canvas ó tamaño del nuevo character generado sea dimensionado al tamaño
+
+		de dicha palabra, letra ó línea de caracteres, lo cuál, es muy útil para prácticamente todo tipo de
+
+		funciones y procesos
+
+
+		

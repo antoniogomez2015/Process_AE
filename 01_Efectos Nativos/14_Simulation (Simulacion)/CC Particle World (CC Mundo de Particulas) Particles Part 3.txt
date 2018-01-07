@@ -1,0 +1,755 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+		Tutorial After Effects 046 Cielo y nubes con Particle World
+			https://www.youtube.com/watch?v=Gx5Wc60FnqQ
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_Particle:
+
+			_Particle Type:
+
+				_ésta opción a partir de un selector nos permitirá indicar como se vializarán ó renderizarán las partículas así,
+
+				como también, como se comportarán éstas en relación a su tipo y características en relación al sistema, plano y 
+
+				grid, en general
+
+
+					_Line:
+
+						_ésta opción nos permitirá seleccionar el tipo de partículas de forma de stands, ó con estelas
+
+						no suavizadas, especialmente útil para hacer efectos de soldadura, rayos luminosos ó luces 
+
+						nocturnas, otros
+
+
+					_Star:
+
+						_ésta opción nos permitirá seleccionar el tipo de partículas de forma de estrellas de cuatro 
+
+						puntas difuminadas, especialmente útil para hacer efectos de lluvia de estrellas y similares, 
+
+						otros
+
+
+					_Shaded Sphere:
+
+						_ésta opción nos permitirá seleccionar el tipo de partículas de forma esféricas rellenas ó con 
+
+						un shader, y con los bordes sombreados u oscuros, y semi difuminados especialmente útil para hacer 
+
+						efectos de moléculas, químicos, partículas, moléculas disueltas, otros
+
+
+					_Faded Sphere:
+
+						_ésta opción nos permitirá seleccionar el tipo de partículas de forma esféricas rellenas ó con 
+
+						un shader, y con los bordes difumninados, especialmente útil para hacer efectos de partículas 
+
+						luminicentes, chispas, otros
+
+		
+						NOTE: ésta es la opción más recomendada y utilizada para crear sistemas gaseosos, nuves, humo, 
+
+						fuego, otros
+
+
+					_Darkened & Faded Sphere:
+
+						_ésta opción nos permitirá seleccionar el tipo de partículas de forma esféricas rellenas ó con 
+
+						un shader, y con los bordes difumninados con más acutancia en los bordes que la opción anterior 
+
+						de "Faded Sphere", especialmente útil para hacer efectos de partículas luminicentes metálicas, 
+
+						chispas de alto contrate, otros
+
+
+					_Bubble:
+
+						_ésta opción nos permitirá seleccionar el tipo de partículas de forma esféricas rellenas ó con 
+
+						un shader, y con los bordes definidos y en el centro ó interior de éstas desvanecido hasta llegar
+
+						hasta la transparencia de éstas con más acutancia en los bordes lo cuál, es especialmente útil 
+
+						para hacer efectos de partículas de tipo burbujas de diferentes tipos, células, ojuelas, lentes
+
+						convexas, otros
+
+
+					_Motion Polygon:
+
+						_ésta opción nos permitirá seleccionar el tipo de partículas de forma triángulos con una forma 
+
+						aguda y rellenos con un shader, y con los bordes definidos, éstos estarán direccionados en relación 
+
+						a la dirección de las partículas lo cuál, es especialmente útil para hacer efectos de partículas de 
+
+						tipo fractales 	simétricos ó triángulos base abstractos para diferentes procesos de paso contínuo por 
+
+						ejemplo; para el efecto de post proceso como "vector blur", otros, como para procesos de producción
+
+
+
+					_Motion Square:
+
+						_ésta opción nos permitirá seleccionar el tipo de partículas de forma cuadrados rellenos con un 
+
+						shader, y con los bordes definidos, éstos estarán direccionados en relación a la dirección de las 
+
+						partículas lo cuál, es especialmente útil para hacer efectos de partículas de tipo líquidos fluidos
+
+						modulaciones fractales simétricos ó cuadrados base abstractos para diferentes procesos de paso 
+
+						contínuo; por ejemplo; para el efecto de post proceso como "vector blur", otros, como para procesos 
+
+						de producción
+
+
+						NOTE: la velocidad de las partículas afectará el tamaño de las partículas ó en éste caso de las 
+
+						rectángulos ó cuadrados
+
+
+
+					_TriPolygon:
+
+						_ésta opción nos permitirá seleccionar el tipo de partículas de forma triangular simétrica rellenos 
+
+						con un shader, y con los bordes definidos, éstos "NO", estarán direccionados en relación a la dirección 
+
+						de las 	partículas lo cuál, es especialmente útil para hacer efectos de partículas de tipo líquidos 
+
+						fluidos virulentos y dispersos y más complejos y asimétricos, como también, de forma base, podremos 
+
+						hacer triángulos astractos para diferentes procesos de paso contínuo; por ejemplo; para el efecto de 
+
+						post proceso como "vector blur", otros, como para procesos de producción
+
+
+						NOTE: éstos disponen de las opciones adicionales de "Rotation/Speed/Initial/Axis", en las cuáles, es
+
+						posible configurar la cordenada de trabajo, velocidad ó aleatoriedad inicial, otros, de ésta manera,
+
+						podremos ver que ésta opción puede trabajar de forma aleatoria "Any Axis", ó en una cordenada 
+
+						específica e incluso con cordenadas ó dirección combinadas u oblícuas "Initial Rotation"
+
+
+
+					_QuadPolygon:
+
+						_ésta opción nos permitirá seleccionar el tipo de partículas de forma triangular simétrica rellenos 
+
+						con un shader, y con los bordes definidos, éstos "NO", estarán direccionados en relación a la dirección 
+
+						de las 	partículas lo cuál, es especialmente útil para hacer efectos de partículas de tipo líquidos 
+
+						fluidos virulentos y dispersos y más complejos y asimétricos, como también, de forma base, podremos 
+
+						hacer triángulos astractos para diferentes procesos de paso contínuo; por ejemplo; para el efecto de 
+
+						post proceso como "vector blur", otros, como para procesos de producción
+
+
+						NOTE: éstos disponen de las opciones adicionales de "Rotation/Speed/Initial/Axis", en las cuáles, es
+
+						posible configurar la cordenada de trabajo, velocidad ó aleatoriedad inicial, otros, de ésta manera,
+
+						podremos ver que ésta opción puede trabajar de forma aleatoria "Any Axis", ó en una cordenada 
+
+						específica e incluso con cordenadas ó dirección combinadas u oblícuas "Initial Rotation"
+
+
+
+					_Textured TriPolygon / QuadPolygon:
+
+						_éstas dos opciones son idénticas a las ociones de "TriPolygon", y "_QuadPolygon", y éstas tienen las 
+
+						mismas prestaciones y opciones más el adicional de que podemos rellenas éstas formas a través, de un
+
+						shader, personalizado a través, de una layer, auxiliar 
+
+
+						_la cuál, puede estar conformada por una imágen sólida normal ó con máscara si es una precomposición ó 
+
+						una forma personalizada de tipo shape layer, otros la cuál, tiene transparencias y alphas, para que así 
+
+
+						_de ésta manera, podremos definir un motivo el cuál, interacturá con el sistema de partículas formando 
+
+						éste tanto en relación a la forma y color del motivo ó prixi ha utilizar por el sistema como partícula 
+
+						generadora
+
+
+						_de ésta manera, se activarán las opciones de "Texture", dichas opciones se encuentras en más abajo en la
+
+						sección de "Particle", a través, de las cuáles, podremo configurar la layer, que hará de proxi, la cuál, 
+
+						será utilizada como motivo por el sistema de partículas
+
+
+
+					_Tetrahedron / Cube:
+
+						_ésta opción nos permitirá seleccionar el tipo de partículas de forma triangular ó cúbica simétrica con 
+
+						rellenos con un shader, pero de forma tridimensional y con los bordes definidos, éstos "NO", estarán 
+
+						direccionados en relación a la dirección de las partículas lo cuál, es especialmente útil para hacer 
+
+						efectos de partículas de tipo corpúsculos, aglutinados compuestos y complejos y dispersos con diferentes 
+
+						comportamientos y direcciones los cuáles, pueden ser simétricos ó asimétricos, como también, de forma 
+
+						base, triangulares y tridimensionales astractos para diferentes procesos de paso contínuo; por ejemplo; 
+
+						para el efecto de post proceso como "vector blur", otros, como para procesos de producción
+
+
+						NOTE: éstos disponen de las opciones adicionales de "Rotation/Speed/Initial/Axis", en las cuáles, es
+
+						posible configurar la cordenada de trabajo, velocidad ó aleatoriedad inicial, otros, de ésta manera,
+
+						podremos ver que ésta opción puede trabajar de forma aleatoria "Any Axis", ó en una cordenada 
+
+						específica e incluso con cordenadas ó dirección combinadas u oblícuas "Initial Rotation"
+
+
+
+					_Lens Convex / Lens Concave:
+
+						_ésta opción nos permitirá seleccionar el tipo de partículas de forma circular-pseudo esféricas y 
+
+						rellenas con un shader, y con los bordes definidos y sin volúmen, ésta estarán direccionados en 
+
+						relación a la dirección de las 	partículas de forma neutral lo cuál, es especialmente útil para hacer 
+
+						la mayoría de efectos de partículas de tipo líquidos fluidos más complejos y comúnes asimétricos, como 
+
+						también, de forma base, podremos hacer "Fleres", astractos para diferentes procesos de paso contínuo; 
+
+						por ejemplo; para el efecto de post proceso como "vector blur", otros, como para procesos de producción
+
+
+
+					_Lens Fade / Lens Darken Fade:
+
+						_ésta opción nos permitirá seleccionar el tipo de partículas de forma circular-pseudo esféricas y 
+
+						rellenas con un shader, y con los bordes disfunidados a diferentes niveles y con volúmen, ésta estarán 
+
+						direccionados en relación a la dirección de las partículas de forma neutral lo cuál, es especialmente 
+
+						útil para hacer la mayoría de efectos de partículas de tipo líquidos fluidos más complejos y comúnes 
+
+						con una sensación de profundidad, colúmen ó densidad de depth field, más acusada  y efectos asimétricos, 
+
+						como también, de forma base, podremos hacer "Pseudo Fleres", astractos para diferentes procesos de paso 
+
+						contínuo; por ejemplo; para el efecto de post proceso como "vector blur", otros, como para procesos de 
+
+						producción
+
+
+
+					_Lens Bubble:
+
+						_ésta opción nos permitirá seleccionar el tipo de partículas de forma circular-pseudo esféricas y 
+
+						rellenas con un shader, y con los bordes definidos y su interior difuminado y con transparencias a 
+
+						diferentes niveles y con volúmen inverso, ésta opción es más sutíl obedece mejor al color de la layer,
+
+						en relación el efecto sólo de "Bubble", y ésta estarán direccionados en relación a la dirección de las 
+
+						partículas de forma neutral lo cuál, es especialmente útil para hacer la mayoría de efectos de partículas 
+
+						de tipo líquidos fluidos más complejos y comúnes con una sensación de profundidad, colúmen ó densidad de 
+
+						depth field, más acusada  y efectos asimétricos, como también, de forma base, podremos hacer "Pseudo Fleres", 
+
+						astractos para diferentes procesos de paso contínuo; por ejemplo; para el efecto de post proceso como 
+
+						"vector blur", otros, como para procesos de producción
+
+
+
+					_Texture Square:
+
+						_éstas opción es similar a las ociones de Textured: "TriPolygon", y "_QuadPolygon", y éstas tienen las 
+
+						mismas prestaciones y opciones más el adicional de que podemos rellenas éstas formas a través, de un
+
+						shader, personalizado a través, de una layer, auxiliar de forma más dedicada y libre
+
+
+						_ésta opción no dispone de las opciones de "Rotation Speed/Initial/Axis", de ésta manera, el sistema 
+
+						obedecerá a la dirección intrínsica de las propias partículas y su dirección
+
+
+						_por énde ésta opción es especialmente útil para cuando el motivo ó proxi es el que está animado 
+
+						previamente y por aparte
+
+
+						_ésta opción es la menos deformación le ofrece al motivo ó layer, auxiliar ya que trata de mantener la
+
+						forma original lo más fielmente posible
+
+
+						_la cuál, puede estar conformada por una imágen sólida normal ó con máscara si es una precomposición ó 
+
+						una forma personalizada de tipo shape layer, otros la cuál, tiene transparencias y alphas, para que así 
+
+
+						_de ésta manera, podremos definir un motivo el cuál, interacturá con el sistema de partículas formando 
+
+						éste tanto en relación a la forma y color del motivo ó prixi ha utilizar por el sistema como partícula 
+
+						generadora
+
+
+						_de ésta manera, se activarán las opciones de "Texture", dichas opciones se encuentras en más abajo en la
+
+						sección de "Particle", a través, de las cuáles, podremo configurar la layer, que hará de proxi, la cuál, 
+
+						será utilizada como motivo por el sistema de partículas
+
+
+
+					_Textured Disc:
+
+						_éstas opción es similar a las ociones de Textured: "TriPolygon", y "_QuadPolygon", y éstas tienen las 
+
+						mismas prestaciones y opciones más el adicional de que podemos rellenas éstas formas a través, de un
+
+						shader, personalizado a través, de una layer, auxiliar de forma más dedicada y libre
+
+
+						_ésta opción dispone de las sólo las opciones de "Rotation Speed/Initial", "NO AXIS", de ésta manera, 
+
+						el sistema obedecerá a la dirección intrínsica de las propias partículas y su dirección como también, 
+
+						a las indicadas en las opciones de "Rotation inicial/Speed", y más avanzada que la opción de 
+
+						"Texture Square"
+
+
+						_por énde ésta opción es especialmente útil para cuando el motivo ó proxi es genérico y puede ó no 
+
+						estar animado y como también, estar sujeto a variaciones de forma no calada ó sin difuminación
+
+
+						_ésta opción ofrece cierto tipo de deformación sobre el motivo ó layer, auxiliar, donde el sistema
+
+						 tratará de mantener la forma original hata cierto punto lo más fielmente posible
+
+
+						_la cuál, puede estar conformada por una imágen sólida normal ó con máscara si es una precomposición ó 
+
+						una forma personalizada de tipo shape layer, otros la cuál, tiene transparencias y alphas, para que así 
+
+
+						_de ésta manera, podremos definir un motivo el cuál, interacturá con el sistema de partículas formando 
+
+						éste tanto en relación a la forma y color del motivo ó prixi ha utilizar por el sistema como partícula 
+
+						generadora
+
+
+						_de ésta manera, se activarán las opciones de "Texture", dichas opciones se encuentras en más abajo en la
+
+						sección de "Particle", a través, de las cuáles, podremo configurar la layer, que hará de proxi, la cuál, 
+
+						será utilizada como motivo por el sistema de partículas
+
+
+
+
+					_Textured Faded Disc:
+
+						_éstas opción es similar a las ociones de Textured: "TriPolygon", y "_QuadPolygon", y éstas tienen las 
+
+						mismas prestaciones y opciones más el adicional de que podemos rellenas éstas formas a través, de un
+
+						shader, personalizado a través, de una layer, auxiliar de forma más dedicada y libre
+
+
+						_ésta opción dispone de las sólo las opciones de "Rotation Speed/Initial", "NO AXIS", de ésta manera, 
+
+						el sistema obedecerá a la dirección intrínsica de las propias partículas y su dirección como también, 
+
+						a las indicadas en las opciones de "Rotation inicial/Speed", y más avanzada que la opción de 
+
+						"Texture Square"
+
+
+						_por énde ésta opción es especialmente útil para cuando el motivo ó proxi es genérico y puede ó no 
+
+						estar animado y como también, estar sujeto a variaciones de forma, como también, calado ó difuminación,
+
+						de ésta manera, como podremos ver ésta es la opción más avanzada para crear partículas personalizadas
+
+
+						_ésta opción ofrece cierto tipo de deformación sobre el motivo ó layer, auxiliar, donde el sistema
+
+						 tratará de mantener la forma original hata cierto punto lo más fielmente posible
+
+
+						_la cuál, puede estar conformada por una imágen sólida normal ó con máscara si es una precomposición ó 
+
+						una forma personalizada de tipo shape layer, otros la cuál, tiene transparencias y alphas, para que así 
+
+
+						_de ésta manera, podremos definir un motivo el cuál, interacturá con el sistema de partículas formando 
+
+						éste tanto en relación a la forma y color del motivo ó prixi ha utilizar por el sistema como partícula 
+
+						generadora
+
+
+						_de ésta manera, se activarán las opciones de "Texture", dichas opciones se encuentras en más abajo en la
+
+						sección de "Particle", a través, de las cuáles, podremo configurar la layer, que hará de proxi, la cuál, 
+
+						será utilizada como motivo por el sistema de partículas
+
+
+
+
+
+
+
+				_Texture:
+
+
+					_Texture Layer:
+
+						_ésta opción nos permitirá seleccionar una layer, ó composición la cuál, hará de motivo ó proxi a partir 
+
+						del cuál, se conformará todo el sistema de partículas, en relación al tipo de partículas que soporte
+
+						texturizado personalizado
+
+
+					_Scatter:
+
+						_este control recolecta partes aleatorias de la textura fuente para su uso como textura de partícula
+
+						La textura de partícula usada será menor que la capa fuente cuando Scatter es aumentado. Con Scatter 
+
+						ajustado a 75, cada textura de partícula será un cuadrado al azar de un cuarto del tamaño recortado de la 
+					
+						textura fuente 
+
+
+					_Texture Time:
+
+						_utilice este control para determinar qué frames, utilizar durante la vida útil de las partículas.
+
+						Cuando la capa de textura seleccionada no es un video o una composición que contiene animación, este 
+
+						control debe establecerse en "Current" (valor predeterminado). Si contiene un video / animación, elija 
+
+						una de las tres opciones del menú emergente
+
+
+							_Current:
+
+								_El frame, actual de la capa de textura se utiliza para todas las partículas
+
+
+							_Birth:
+
+								_Las partículas usan el frame, del video / animación, de la layer, de textura en el 
+
+								momento cuando nacieron como una textura estática durante su vida útil
+
+
+								_lo que quiere decir es que cada partícula tomará una instantánea de de la layer, 
+
+								proxi animada y mantendrá ésta apariencia durante toda la vida de la respectiva 
+
+								partícula
+
+
+							_From Start:
+	
+								_La edad de cada partícula estará determina por que fotograma se utilizará en la layer, 
+
+								animada que hará de proxi en ese momento, esta opción Permite personalizar la forma de 
+
+								la vida, el color y la opacidad de la partículas. Tenga en cuenta que el frame de 
+
+								nacimiento / inicio, es el tiempo de la capa de efecto, no el mismo que de la layer, 
+
+								que hará textura ó proxi, establezca el tiempo de in-time de la capa de textura al 
+
+								mismo tiempo que la layer, de el efecto para comenzar desde el primer frame, en ambas 
+
+								animaciones
+
+
+					_Aligh To Direction:
+
+
+						NOTE: ésta opción sólo estará disponible para los modos de texturizado por "Disc"
+
+						_ésta opción permite de las partículas se elinien en relación a la trayectoria de animación, Sugerencia: 
+
+						Ajuste la velocidad de rotación y la rotación inicial a cero si desea que todas las partículas alinear 
+
+						de una manera similar. P.ej. Partículas en forma de gota que siguen la trayectoria
+
+
+					_Rotation Speed:
+
+						_ésta opción sólo estará disponible para los sistemas de partículas con opciones avanzadas de control
+
+						de dirección, velocidad y rotación configurables
+
+
+						_ésta opción nos permtirá indicarle al sistema una velocidad inicial para cada partícula independiéntemente
+
+						a las demás partículas y a su vez, intependiéntemente de la dirección de las partículas de demás partes del 
+
+						sistema
+
+
+					_Initial Rotation:
+
+						_ésta opción sólo estará disponible para los sistemas de partículas con opciones avanzadas de control
+
+						de dirección, velocidad y rotación configurables
+
+
+						_ésta opción nos permtirá indicarle al sistema una rotación inicial para cada partícula independiéntemente
+
+						a las demás partículas y a su vez, intependiéntemente de la dirección de las partículas de demás partes del 
+
+						sistema
+
+
+					_Rotation Axis:
+
+						_ésta opción sólo estará disponible para los sistemas de partículas con opciones avanzadas de control
+
+						de dirección, velocidad y rotación configurables
+
+
+						_ésta opción nos permitirá indicarle al sistema un sistema de cordenadas de trabajo el cuál, puede
+
+						estar compuesto por una cordenada en específico ó u conjunto de ellas para crear así, eleatoriedad
+
+
+			_Birth Size:
+
+				_ésta opción nos permitirá indicarle al sistema el tamaño de la partícula, sea ésta texturizada ó no
+
+
+			_Death Size:
+
+				_ésta opción nos permitirá indicarle al sistema el tamaño de cada partícula antes de ésta morir en relación a su 
+
+				tamaño original ó de nacimiento en relación a su vez, al tiempo ó animación resultante
+
+
+			_Size Variation:
+
+				_ésta opción nos permtirá indicarle al sistema el tamaño de la partículas en relación de unas ha otras lo cuál, 
+
+				creará aleatoriedad en el tamaño general de las partículas
+
+
+			_Max Opacity:
+
+				_Utilice este control para determinar la opacidad máxima de las partículas durante su vida útil la opacidad de las 
+
+				partículas cambia a lo largo de su vida según la mapa de opacidad. Se pueden crear mapas de opacidad personalizados 
+
+				con el control Mapa de opacidad.
+
+
+			_Opacity Map:
+
+				_éstas opciones nos permtirá indicarle al sistema el tipo de mapeado de color y forma que deseamos para el 
+
+				sistema los cuáles, obecen a determinados criterios y algoritmos:
+		
+
+				_Color Map:
+				
+					_en éste selector podremos seleccionar el tipo de criterio ó algoritmo:
+
+
+						_Birth to Death:
+
+							_Las partículas aparecen con el color de nacimiento especificado y se desplazan 
+
+							hacia el color especificado  como color de la Muerte, cambiando completamente justo 
+
+							antes de que desaparezcan
+
+
+						_Orion to Death:
+
+							_Las partículas aparecen con un color muestreado de la capa fuente original y el cambio
+
+							Hacia el Color de la Muerte especificado
+
+
+						_Birth to Orion:
+
+							_Las partículas aparecen con el color de nacimiento especificado y se desplazan hacia 
+
+							un color muestreado desde la capa fuente subyacente ó layer, sobre la cuál, está 
+
+							aplicado el efecto
+
+
+						_Orion Constant:
+
+							_Las partículas mantienen un color muestreado de la capa fuente subyacente para su
+
+							Vida entera
+
+
+						_Custom:
+
+							_Esta opción permite el uso de mapas de color personalizados, creados en Opciones 
+
+							Color Map, donde se pueden seleccionar hasta cinco colores diferentes. Las partículas
+
+							Cambian entre los colores especificados durante su vida útil
+
+
+				_Birth Color:
+
+					_selector de color para el nacimiento de las partículas así, como también, éste control dispone de un
+
+					picker, selector
+
+
+				_Death Color:
+
+					_selector de color para la muerte de las partículas así, como también, éste control dispone de un
+
+					picker, selector
+
+
+
+			_Custom Color Map:
+
+				_Color At Birth:
+
+					_selector de color para el nacimiento de las partículas así, como también, éste control dispone de un
+
+					picker, selector
+
+
+
+				_Color At 25%:
+
+					_selector de color para el 25%, de vida de las partículas así, como también, éste control dispone de 
+
+					un picker, selector
+
+
+
+				_Color At 50%:
+
+					_selector de color para el 50%, de vida de las partículas así, como también, éste control dispone de 
+
+					un picker, selector
+
+
+				_Color At 75%:
+
+					_selector de color para el 75%, de vida de las partículas así, como también, éste control dispone de 
+
+					un picker, selector
+
+
+				_Color At Death:
+
+					_selector de color para la muerte de las partículas así, como también, éste control dispone de un
+
+					picker, selector
+
+
+			_Volume Shade (approx):
+
+				_Utilice este control para aplicar sombreado de volumen aproximado a partículas para un aumento acusado de la 
+
+				profundidad 3D. No utilizado por todos los sistemas de animación y partículas
+
+
+			_Transfer Mode:
+
+				_ésta opciónes le indicarán al sistema como se comportará una partícula sobre otra en relación a su vez, a las 
+
+				demás layers, de la respectiva composición
+
+
+					_Composite:
+
+						_éste es el modo más recomendado en la mayoría de los casos y el que permite que el sistema de 
+
+						partículas siempre mantenga su aspecto origina sin importar a las layers, de fondo en la pilar 
+
+						de layers, del timeline
+
+
+					_Screen:
+
+						_ésta opción hará del modo de fusión del sistema de Screen, ó pantalla aumentando así, la gamma
+
+						de las luces ó "Pedestal"
+
+
+					_Add:
+
+						_ésta opción hará del modo de fusión del sistema de Add, ó agergar aumentando así, de forma 
+
+						multiplicada la gamma de las luces ó "Pedestal"
+
+
+
+					_Black Matte:
+
+						_ésta opción hará del modo de fusión del sistema de Black Matte, ó stencil negro el cuál, podrá
+
+						utilizarse posteriormente como parte de un matte, de luminancia, otros
+
+
+
+		

@@ -1,0 +1,88 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Mosaico rellena una capa con rectángulos de color sólido, pixelando la imagen original. Este 
+
+	efecto resulta útil para simular pantallas de baja resolución y para oscurecer lados. También puede 
+
+	animarlo para una transición. En Calidad óptima, los bordes de los rectángulos aparecen suavizados.
+
+
+	Este efecto funciona con colores de 8 bpc y 16 bpc.
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Mosaic: (Mosaico)
+	_______
+
+
+		_Horizontal Blocks:
+
+			_ésta opción nos permitirá indicarle al sistema en cuantos segmentos deseamos dividir el 
+
+			ancho de la layer, ó imágen de la composición respectiva, de ésta manera, podremos obtener
+
+			más ó menos segmentos ó figuras cuadradas ó rectangulares respectivamente
+
+
+		_Vertical Blocks:
+			
+			_ésta opción nos permitirá indicarle al sistema en cuantos segmentos deseamos dividir el 
+
+			alto de la layer, ó imágen de la composición respectiva, de ésta manera, podremos obtener
+
+			más ó menos segmentos ó figuras cuadradas ó rectangulares respectivamente
+
+
+		_Sharp Colors:
+
+			_ésta opción nos permitirá generar un sistema de de tipo mosaico más ó menos enfocado ó 
+
+			definido, de ésta manera, el sistema aumentará la acutancia y el contraste entre los colores
+
+			ó mtices de la imágen así como también, afectará a los tonos de los mismos
+
+
+
+
+
+
+
+
+
+
+

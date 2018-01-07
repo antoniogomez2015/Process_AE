@@ -1,0 +1,20 @@
+
+
+http://aescripts.com/align-3d/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Align3D
+
+
+	Panel Proyecto/Align3D
+
+
+		-especialmente util para distribuir y animar capas en el espacio 2d, 3d de forma aleatoria
+
+		a través, de diferentes criterios como escala, rotación, opacidad, otros
+	

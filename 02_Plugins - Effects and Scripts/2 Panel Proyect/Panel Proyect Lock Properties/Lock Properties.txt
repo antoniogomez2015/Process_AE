@@ -1,0 +1,37 @@
+
+
+http://aescripts.com/lockproperties/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Lock Properties
+
+
+	Panel Proyecto/Lock Properties
+
+
+		-especialmente util para procesos de animación ya que permite bloquear determinadas propiedades
+
+		animadas para que éstas no nos nolesten ó imposibiliten la edición de un determinado elemento ó
+
+		layer
+
+
+		_ej; para que una layer, no se mueva cuando ésta tiene su propiedad de "transform", animada, de
+
+		ésta manera podremos editar la layer, sin que ésta se mueva y luego volver ha activar la propiedad
+
+		que previamente ha sido desactivada así, como también, éste plugins aplica para expresiones
+
+
+		_para ésto, debemos seleccionar la respectiva propiedad en el timeline, e ir al panel y aplicar
+
+		"Lock", y al finalizar la edición, debemos darle ha "UnLock"
+
+
+
+	

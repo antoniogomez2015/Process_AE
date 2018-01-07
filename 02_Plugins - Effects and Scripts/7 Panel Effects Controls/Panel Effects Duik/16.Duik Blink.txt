@@ -1,0 +1,119 @@
+
+
+http://duduf.net/index.php/products/after-effects/duik/
+
+	Referencia:
+
+		Tutorial basico de rigging con Duik
+			https://www.youtube.com/watch?v=3WiNMHMMduc
+
+		TUTORIAL: DUIK - ARTICULACIONES AUTOMATIZADAS EN AFTER EFFECTS
+			https://www.youtube.com/watch?v=Oi4G1-p59uI
+
+		DUIK 15 full tutorial overview Part 1 Rigging character tools
+			https://www.youtube.com/watch?v=2-m0Mc0ZTP8&list=PLL1LC1tW73eUOt7qjWvn3nYOkYOoQscmy
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Duik
+
+
+	Duik:
+
+
+	-este nos permite hacer sistema de kinemática y cinemática de character, y otros tipos de animaciones
+
+	así, como también, riggings, completos y asistidos con diferentes tipos de controles, limitadores y
+
+	disparadores ó trigers, de animación, otros
+
+
+	_ésta opción de hacer el proceso de rigging, de forma manual, es especialmente útil en characters, en 
+
+	los cuales requiere un especial cuidado ó éste es especialmente diferente a los estándares de posición 
+
+	de éste ó si éste no es un bípedo ó posee unas características únicas
+
+
+	_de ésta manera, el sistema "IK", nos permitirá configurar extremidades con kinemática inversa y directa
+
+	las cuales podremos integrar con otras extremidades y characters, ya realizados ó en proceso, otros
+
+
+	_como también, nos permite tener aplicaciones en máquinas ó otros elementos mecánicos, otros, que no son
+
+	characters, ni obedecen a ningún estandar de animación
+
+
+
+
+
+	Workflow:
+	_________
+
+
+	Descripción:
+
+	_la opción de "Blink", éste opción nos permite emular el efecto de animación de "Hold keyframe", más ésta
+
+	opción nos brinda opciones más cotrolables y animables que la opción nativa del programa
+
+
+	_de esta manera, podremos hacer animaciones sostenidas entre su comienzo y su finalización
+
+
+
+	Blink:
+
+	_de ésta manera, debemos animar al menos una propiedad de animación, ej; "Position", para que así, de ésta
+
+	manera tendremos que seleccionar ésta propiedad respectiva ó sus keyframes, determinados
+
+
+	_y con éstas propiedades ó keyframes, vamos al panel "Duik/Automation/", y le damos al botón de "Blink", para
+
+	que así, el sistema le agrege a la propiedad un script, y a su vez, le agrege a la layer, un efecto controlador
+
+	del sistema, el cuál, nos ofrece los siguientes controles:
+
+
+	
+		Property Blink:
+
+	
+			Frequency:
+
+				_ésta opción se refiere a la cantidad de repeticiones que se realizará la animación
+
+				desde su principio ha fin
+
+
+			Time On:
+
+				_ésta opción se refiere en que punto del timeline, desde el principio ha fin de ésta 
+
+				comenzará ha realizarse la animación, ej: "en el 50%", de la duración del timeline, 
+
+				ó de la animación
+
+
+			Offset:
+
+				_ésta opción permite hacer desfaces espaciales en el viewport, de la layer, respectiva
+
+
+			X Off Value:
+
+				_indeterminado
+
+
+			Y Off Value:
+
+				_indeterminado
+
+
+
+

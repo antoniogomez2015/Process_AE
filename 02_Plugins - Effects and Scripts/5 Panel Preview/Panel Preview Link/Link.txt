@@ -1,0 +1,193 @@
+
+
+http://www.mtmograph.com
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Link 1.5
+
+
+__________________________________________________________________________________________________________
+
+
+Criterio, Funcionamiento y Lógica:
+
+
+	_éste permite lograr el efecto de cinemática ó princípios de animación, letardo, 
+
+	anticipación, squash, stretch,..., preferiblemente con layers, de forma
+
+
+	_para ésto, debemos tener creados elementos proxis ó duplicados del original que harán
+
+	de instancias del motivo u objeto principal
+
+
+	_para ésto, el plugins, cuenta con un suiche, con el cuál, podemos seleccionar entre las
+
+	siguientes modalidades:
+
+
+	"Link", con el cuál, podremos enlazar ó emparentar layers, en la escena para
+
+	manejarlas con un controlador master con el cuál, podremos controlar los efectos de princípio
+
+	de animación, ésta opción permite trabajar con layers, personalizadas y no sólo con instancia
+
+	identicas del motivo principal
+
+
+	"Duplicate Layer", en ésta sección podemos indicar la cantidad de instancias que deseamos crear
+
+	del objecto de esta forma no necesitaremos crear instancias del objecto de forma manual a menos
+
+	que éstas sean diferentes a el original
+
+
+
+__________________________________________________________________________________________________________
+
+
+Parámetros y Atributos:
+
+
+	_el panel del plugins cuenta en sus dos modalidades, tanto en la de "Link", como en la de
+
+	"Duplicate Layer", cuenta con la activación de los siguientes parámetros de control
+
+
+	_Position Icon:
+
+		_ésta opción activa las opciones de posición
+
+
+	_Scale Icon:
+
+		_ésta opción activa las opciones de escala
+
+
+	_Rotate Icon:
+
+		_ésta opción activa las opciones de rotación
+
+
+	_Opacity Icon:
+
+		_ésta opción activa las opciones de opacidad
+
+
+
+__________________________________________________________________________________________________________
+
+
+Link Section Workflow:
+
+
+	_primero debemos tener seleccionadas las siguientes opciones
+
+		_Add Keyframe
+
+		_Shy Linked Layers
+
+
+	_luego debemos seleccionar las propiedades ha emparentar entre las cuales tenemos
+
+		_Position
+
+		_Scale
+
+		_Rotation
+
+		_Opacity
+
+
+	_luego debemos seleccionar las layers, ha emparentar, más debemos seleccionar primero la
+
+	layer, que hará de padré/driven, ó que servirá de controladora de las demás layers, luego,
+
+	debemos seleccionar las demás layers, de forma contigua ó siguiente a la principal
+
+
+	_y, por último, debemos hacer "mouse left click", sobre el ícono "Link", así, las layers,
+
+	deseadas quedarán emparentadas a la principal
+
+
+	_de ésta manera las layers, emparentadas "hijas", se les asignará un efecto esclavo más
+
+	la layer, manejadora/driven, se le asignará un efecto controlador con todos los parámetros
+
+	de animación
+
+
+
+
+__________________________________________________________________________________________________________
+
+
+Path Stroke Workflow:
+
+
+	_tambén, tenemos la posibilidad de crear trazados por medio de la herramienta de "Pluma", creando
+
+	así, "Stroke", con un color determinado y un grosor determinadas por las opciones de la herramienta
+
+	a través, de una layer, de forma ó "shape", sin relleno ó "Fill", sólo dejando el "Stroke", activado
+
+
+	_ahora vamos a las opciones de la shape, creada "Shape Layer 1/Contents/Add/", y agregamos 
+
+	"Trim Paths", éstas son opciones de animación de trazado las cuales nos servirán para éste proceso
+
+
+	_ahora seleccionamos las opciones de "Shape Layer 1/Contents/Trim Paths/"Start-End-Offset"
+
+
+	_luego con las opciones "Start-End-Offset", seleccionadas vamos ha "Link v1.5/", a la sección de
+
+	"Duplicate Layers:" y desactivamos las opciones de relacionamiento "Position/Scale/Rotate/Opacity", 
+
+	para que así sólo se realize el duplicado de las propiedades seleccionadas anteriormente 
+
+	"Start-End-Offset", (de ésta manera ó modalidad sólo se relacionarán los controles de "Delay",
+
+	y "Correction")
+
+
+	_ahora debemos indicar la cantidad de instancias a crear, en éste ejemplo indicaremos "6", así, se
+
+	crearán 6, nuevas layers, de shape, con las propiedades indicadas "Start-End-Offset", y relacionadas
+
+
+	_por último procedemos ha animar las propiedades "Start-End-Offset", y así, podremos ver las 
+
+	propiedades de delay, en funcinamiento de las demás instancias que hemos creado
+
+
+
+__________________________________________________________________________________________________________
+
+
+NOTE:
+
+
+	_a través, de los effects, aplicados a las distancias podemos agregar "Delay", adición así,
+
+	como también, hacer ajuste de color sobre las instancias
+
+
+	_otra opción posible para agregar aleatoriedad sobre el patrón ó comportamiento de las instancias
+
+	es intercambiar su posición en el timeline, es decir, subir ó bajar un layer, sobre las demás
+
+	alternado así, el orden establecido a la hora de crear el relacionamiento original entre las
+
+	layer, y su conformación como instancias seriadas y contiguas
+
+
+	_
+

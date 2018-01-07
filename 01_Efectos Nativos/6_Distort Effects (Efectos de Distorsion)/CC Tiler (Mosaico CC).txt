@@ -1,0 +1,82 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+	_éste efecto nos permitirá hacer modulaciones de la layer, base, para que así, hagamos distorsión de tipo
+
+	fractal simétrico de ésta manera, podremos dividir la layer, original en un sin número de instancias a 
+
+	partir de un punto central determinado
+
+
+	_lo cuál, es especialmente útil para el motion graphycs, procesos de producción y paso contínuo entre otras
+
+	muchas posibilidades de animación y constructivismo visual
+
+
+
+
+
+		
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	CC Tiler: (Mosaico CC)
+	________
+
+
+		_Scale:
+
+			_ésta opción nos permitirá indicar la cantidad de instancias ó escalas ha aplicar sobre
+
+			la ayer, base, en proporción al ancho y alto de la layer, base
+
+
+		_Center:
+
+			_ésta opción nos permitirá indicar el centro a partir del cuál, se escalará la layer,
+
+			base a través, de un handle, ó target
+
+
+		_Blend w. Original:
+
+			_ésta opción nos permitirá hacer fusión por opacidad entre el sistema y las demás layers,
+
+			de la composiciónrespectiva
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,74 @@
+
+
+http://aescripts.com/animationpatterns/
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express
+
+
+	Animation Patterns
+
+
+	-este nos permite hacer comportamientos de animación así, como transiciones de animacione entre diferentes
+
+	keyframes, entre otras posibilidades
+
+
+
+	Workflow:
+
+
+	_primero debemos hacer activa la composición deseada 
+
+
+	_luego debemos tener una ó más layers, con propiedades animadas ó keyframes, como "position", por ejemplo
+
+
+	_luego debemos seleccionar las layers, animadas deseadas dentro de la composición e ir al panel "animationPatterns"
+
+
+	_y allí en el panel darle al bottón "Create animationPatters layers", para que así, nos aparezca el siguiente mensaje 
+
+	en una ventana contextual, "AnimationPatterns, layer in composición Comp 1 created", al cuál, le daremos "ok"
+
+
+	_de ésta manera se creará una nueva capa en la composición la cuál, llevará por nombre "Animation Patterns", la cuál,
+
+	contendrá todos los controles de animación los cuales controlares a través, del panel "animationPatterns", no de forma
+
+	manual a través, del panel effects controls
+
+
+	_así, al volver al panel "animationPatterns", podremos ver ahora que al desplegar las opciones de "-AE default-", podremos
+
+	ver que ahora existen en éste una serie de opciones de animación las cuales podremos aplicar sobre nuestras layers, animadas
+
+
+	_ahora para aplicar éstas propiedades y comportamientos de animación ha nuestras layers, animadas debemos primero seleccionar
+
+	éstas respectivas layers, y sus respectivas propiedades animadas, ej: "position", y luego con las propiedades deseadas seleccionadas
+
+	ir al panel "animationPatterns", para luego seleccionar uno de los comportamientos existentes, ej, "Bounce Out", y por último darle
+
+	a la opción de "apply Pattern", de ésta manera se aplicará el comportamiento de animación a través de un controlador de expresiones
+
+
+	_y al reproducir la animación podremos ver dicho comportamiento aplicado sobre la layer, y la propiedad animada ej, "position"
+
+
+	_también, tenemos la posibilidad de aplicar diferentes comportamientos de animación ha un mismos elemento el cuál, está animado en el
+
+	tiempo, para ésto debemos seleccionar los respectivos keyframes, y ha éstos aplicarles un comportamiento específico deseado
+
+
+
+
+
+	
+
+	

@@ -1,0 +1,25 @@
+
+
+http://aescripts.com/set-render-queue-time-span/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Composition / Set Render Queve Time Spans
+
+
+	Set Render Queve Time Spans:
+
+
+	-este nos permite hacer procesos de renders en modo bundle, especialmente útil para hacer muestras de
+
+	render las cuales tengan todas un tiempo determinado, ej, 5, segundos, otros
+
+
+	_éste aplica a todas composiciones enviadas al render queve process
+
+
+

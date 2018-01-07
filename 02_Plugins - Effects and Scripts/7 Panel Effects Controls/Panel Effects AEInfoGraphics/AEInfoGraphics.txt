@@ -1,0 +1,112 @@
+
+
+http://aescripts.com/aeinfographics/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Infocharts CreatorAEInfoGraphics
+
+
+	AEInfoGraphics:
+
+
+	-este nos permite hacer gráficos de valores de forma personalizada para así, podamos representar datos de nuestras
+
+	animaciones de forma gráfica y comparativa entre otras posibilidades y aplicaciones
+
+	
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener un composición de trabajo así, ésta composición puede estar vacía ó no lo cuál, no es
+
+	requerido
+
+
+
+	Dates CSV:
+	__________
+
+	_el sistema nos brinda dos posibilidades de operar con el sistema, la primera es importar un archivo de extensión
+
+	".CSV", de tipo "Excel", el cuál, podremos crear y cargar los datos ha representar en el en forma de tablas
+
+
+
+	Dates Manual:
+	_____________
+
+	_ó también, el sistema nos brinda una interface, dentro de after effects, en la cuál, podemos introducir manualmente
+
+	valores los cuales tomará el sistema para representarlos como datos del sistema
+
+	
+	_para lo cuál, en las opciones de "Popilation Density", escogeremos el valor de "First Value"
+
+
+	_y en la barra media de botones encontraremos opciones de "+ / - / X / Arrows", a través, de los cuales podremos 
+
+	intriducir valores al sistema, así, a través, del botón "+", podremos agregar un nombre de atributo a través, de una
+
+	ventana modal que nos indicará "Enter Item Name", para que así, a continuación nos aparezca otra ventana modal 
+
+	indicandonos "Enter First Value", para que así, sea conformado el primer elemento de la tabla el cuál, será 
+
+	representado en la lista de elementos
+
+
+	_de ésta manera, podremos repetir éste proceso hasta completar los valores deseados ha introducir en el sistema ha
+
+	animar a través, del gráfico de valores
+
+
+
+	Colors:
+	_______
+
+	_más a continuación podre seleccionar entre cuatro colores disponibles para crear el sistema por defecto, entre los 
+
+	cuales dispondremos de los colores; blanco, negro, azul, rojo, más el color de forndo lo podremos ajustar posterior
+
+	mente ha la creación del sistema e indicar un calor personalizado
+
+
+	
+	Graphyc:
+	________
+
+	_así, como también, podremos escoger que tipo de gráfico será creado a partir de los valores creados ó indicados en la 
+
+	lista de valores
+
+
+	_de ésta manera, podremos seleccionar entre diferentes tipos de gráficos como circulares, lineales, oblicuos, barras,
+
+	triangulares, otros
+
+
+	_así, con sólo hacer click, en uno de éstos será creado el sistema automáticamente en la composición activa en la cuál,
+
+	se creará un layer, de tipo null, de nombre "PARENT", a través, de la cuál, podremos hacer ajustes en el sistema
+
+
+	_de ésta manera, seleccionando la layer, generada por el sistema "Parent", podremos ir al panel effects controls, 
+
+	shortcut; "F3", y modificar los parámetros del sistema como los son la posición de éste, los colores de las líneas de los
+
+	valores e informaciones así, como la de los gráficos entre otras posibilidades de edición de color y distribución, otro
+			
+
+
+	
+
+
+

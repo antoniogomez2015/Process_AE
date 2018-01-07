@@ -1,0 +1,271 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/text-effects.html#numbers_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_"CC Time Blend Fx", A diferencia de el efecto "CC Time Blend", el efecto "CC Time Blend Fx", nos permitirá 
+
+	crear strands, ó ecos de efectos específicos sobre una layer, ó composición repectiva
+
+
+	_ya que el efecto "CC Time Blend", aplica a todos los efecto y demás ainmaciones aplicadas a un layer, ó
+
+	composición respectiva
+
+
+	_¡Precaución! El principio de este efecto contradice el diseño de After Effects y varios tipos de problemas 
+
+	pueden ocurrir al usarlo. Lea las instrucciones cuidadosamente para prevenir los problemas más comunes.
+
+
+	_Time Blend FX, es un filtro de copiar / pegar. Necesita dos Time Blend FX, aplicado para ver el efecto, uno 
+
+	configurado para Pegar y el otro configurado para Copiar, y algo entre esos dos efectos que se repetirán 
+
+	(o repetirán) 
+
+	
+	_Cuando se usa solo una instancia con Pegar seleccionado, esto creará un efecto similar a Time Blend,
+
+	(para uso, consulte Time Blend), pero no usará toda la potencia de Time Blend FX. 
+
+
+	_Básicamente lo que sucede es que el que está configurado para Copiar, copia el búfer de datos y el que está 
+
+	configurado para Pegar, pega qué hay en el búfer de datos en el siguiente fotograma. 
+
+
+	_Necesita combinar Time Blend FX, con algún otro efecto o animación. Algo necesita procesarse, copiarse y 
+
+	luego pegado nuevamente para ser procesado nuevamente. Este puede ser otro parámetro de efectos.
+
+
+	_Por ejemplo, aplique Desplazamiento a la capa de origen y muévalo entre los dos Tiempos Mezcla instancias 
+
+	de efectos FX. Establecer Shift Center Para compensar 5 píxeles para X e Y y presionar Avance. Como verá, 
+
+	se repite el desplazamiento de 5 píxeles y se crea un camino sin establecer ningún fotograma clave. Puede 
+
+	controlar la opacidad del camino, así como también el camino debe ser mezclado o compuesto. Tienes varias 
+
+	opciones de composición para elegir de.
+
+
+	Notas: Dado que Time Blend FX, acumula cada fotograma procesado, no es posible dar un paso en la línea de 
+
+	tiempo para obtener una vista previa del resultado en ese momento. La representación debe tomar colocar de 
+
+	una manera secuencial. Como AE, guarda en caché los fotogramas para ahorrar tiempo de representación, es 
+
+	posible que Time Blend FX, no obtenga todas las entradas necesarias, incluso cuando renderiza secuencial. 
+
+	
+	_Para asegurarse de que el almacenamiento en caché no codifica la secuencia de entrada, debe siempre borre 
+
+	manualmente todo el caché antes de renderizar las vistas previas o el resultado final. 
+
+
+	_los el buffer, de acumulación no puede cambiar de tamaño sin borrar su contenido. Para evitar perder el 
+
+	camino acumulado es necesario restringir el uso de efectos que dinámicamente cambiar el tamaño de la capa 
+
+	fuente. Desenfoque rápido, o en ese caso aplique Time Blend, a un ajuste capa en su lugar.
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	Workflow:
+	_________
+
+	_primero debemos de aplicarle a la layer, respectiva el efecto de "CC Time Blend Fx"
+
+
+		_para a continuación configurar el efecto en "Instance/Copy"
+
+
+	_para a contnuación seguido ha éste efecto aplicar los efectos que deseamos interpolar para crear strands,
+
+	de éstos sólamente
+
+
+	_para posteriormente aplicar otro efecto de "CC Time Blend Fx", en la parte final de la pila de efectos  en 
+
+	el panel effects controls
+
+
+		_para a continuación configurar el efecto en "Instance/Paste"
+
+
+		_y colocar la opción de "Transfer/", en una de las opciones disponibles
+
+
+	_de ésta manera, podremos ver cuando reproducimos el timeline, que los efectos entre ambos "CC Time Blend Fx",
+
+	aparezcan simulados como strands, en el viewport, del panel compositing
+
+
+
+	
+
+	CC Time BLend FX: (Fusion de TiempoFX CC)
+	_________________
+
+
+		_Instance:
+
+
+			_Intro: Use este menú emergente para seleccionar si desea que el complemento Time Blend FX,
+
+			Copie datos del búfer o pegue datos en el búfer
+
+
+
+			_Copy:
+
+				_ésta opción nos permitirá copiar el buffer, de la información de los efectos en la 
+
+				de la parte superior de la pila de efectos del panel effects controls
+
+
+			_Paste:
+
+				_ésta opción nos permitirá pegar el buffer, de la información de los efectos en la 
+
+				de la parte inferior de la pila de efectos del panel effects controls, y procesar
+
+				éstos con los parámetros de transfer, indicados, otros
+
+
+		_Transfer:
+
+
+			_Blend:
+
+				_Este frame, se mezcla con el buffer de acumulación.
+
+
+			_Composite Over:
+
+				_Este frame está compuesto sobre el buffer de acumulación.
+
+
+
+			_Composite Under:
+
+				_Este frame, está compuesto bajo el buffer de acumulación
+
+
+
+			_Mix:
+
+				_ésta opción nos permitirá seleccionar la gran mayoría de modos de fusión disponibles
+
+				de forma nativa por el sistema de la aplicación, ej: add, screen, overlay, softlight
+
+
+			_Luminocity:
+
+				_ésta opción nos permitirá indicarle al sistema que utilize la luminocidad para la
+
+				conformación del buffer
+
+
+			_Blend Classic:
+
+				_Este frame, se mezcla con el buffer de acumulación, de una forma más estable y
+
+				predecible así, como también, activa las opciones de "Clear To"
+
+
+			_Composite Over Classic:
+
+				_Este frame está compuesto sobre el buffer de acumulación, de una forma más estable 
+
+				y predecible
+
+
+			_Composite Under CLassic:
+
+				_Este frame, está compuesto bajo el buffer de acumulación, de una forma más estable 
+
+				y predecible
+
+
+		_Accumulation:
+
+			_Use este control para determinar cuánto debe retener el buffer de acumulación cada frame, 
+
+			Los valores más altos crean recorridos más largos
+
+
+
+		_Clear To:
+
+			_Intro: Este control solo tiene efecto cuando se selecciona la opción de "Transfer/Blend",
+
+			en el control de Transferencia
+			
+
+			_Transparent:
+
+				_Borra el buffer de acumulación a transparente.
+
+
+
+			_Curent Frame:
+
+				_Carga el buffer de acumulación con el frame actual			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

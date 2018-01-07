@@ -1,0 +1,37 @@
+
+
+http://aescripts.com/colorlibrary/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / Color Library
+
+
+	Color Library:
+
+
+	-este nos permite crear y guardar y utilizar muestras de colores ó swatches, en diferentes formatos
+
+	así, como también, diferentes modos de obtención de color para crear un flujo de trabajo práctivo
+
+	y funcional
+
+
+	_en éstos momentos el plugins, se encuentra fuera de stock, en aescripts.com, y el plugins, trabaja
+
+	con su servidor para la administración de las muestras de color, por ende no se puede utilizar del 
+
+	todo y por éstas razones da algunos defectos en su funcionamiento
+
+
+
+
+	Workflow:
+	_________
+
+
+	_

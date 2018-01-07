@@ -1,0 +1,90 @@
+
+
+
+Proceso de alpha Personalizado
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+EFX Luma select:
+
+
+	_para ésto, seleccionamos la layers, a la cuál, deseamos crearle el alpha, y le aplicamos el plugins,
+
+	"Effects/EFX Keying-Alpha/EFX Luma select"
+
+
+	_y así, moviendo el valor de:
+
+		
+		_Min luma:
+
+			_podremos ajustar el umbral de alpha, generado sobre la imágen el cuál, podremos utilizar
+
+			sobre la misma imágen directamente como su propio canal alpha generado personalizado
+
+
+
+	_Min luma falloff:
+
+		_más en ésta opción dispondremos la opción de hacer un fundido de grises en la imágen que en la 
+
+		opción de "Threshold", no es posible
+
+
+	_invert:
+
+		_no
+
+	
+	_Mode:
+
+		_full luma
+
+
+	_Original alpha:
+
+		_replace
+
+
+_de ésta manera tendremos a nuestra disposición un matte, de luminancia personalizado al cuál, podremos también, 
+
+agregarle máscaras entre otras posibilidades para completar el matte, en imágenes complejas
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+Threshold: (alternativo no muy recomendado)
+
+
+	_ésta opción nos permite hacer una posteriozación sintetizada de la imágen la cuál, nos permitirá hacer 
+
+	hacer un mapa de luminancia de forma práctica
+
+
+
+	_para ésto primero aplicamos el effecto de:
+
+		
+		_"Effects/Stylize/Threshold"
+
+
+	_para que así, podamos ajustar el umbral de matte generado sobre una imágen compleja, así, éste 
+
+	respectivo matte, de luminancia generado lo podremos aplicar ha otra imágen que no disponga de canal
+ 
+	alpha, ó como matte, de luminancia
+
+
+
+
+
+
+
+

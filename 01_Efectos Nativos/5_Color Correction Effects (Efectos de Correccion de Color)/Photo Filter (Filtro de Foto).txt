@@ -1,0 +1,91 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste efecto nos permtirá teñir ó agregar una dominante sobre una imágen ó layer, especialmente
+
+	útil para la edición de color en fotografías 
+
+
+	_ya que permite la corrección o creación de dominantes de color a través, de presets, de filtros de fotografía
+
+
+	_aunque también, se podría utilizar de forma personalizada en la cuál, podríamos indicar colores con 
+
+	domninantes personalizadas la cuál, la podríamos ajustar con la densidad u opacida de éstas
+
+
+	_de ésta manera, éste efecto podría lograr los mismos resultados que el efecto de "Tint", ó "Trotone"
+
+		
+
+
+
+	Tipos de Layers:
+	________________
+
+	_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+
+	Photo Filter: (Filtro de Foto)
+	_____________
+
+
+		_Filter:
+
+			_en éste selector podremos seleccionar entre una serie de presets, equivalentes ha
+
+			filtros reales de fotografía
+
+
+			también, podremos seleccionar la opción de custom, para crear colores personalizados
+
+
+		_Density:
+
+			_ésta opción nos permitirá graduar la densidad u opacidad ó influencia que tendrá el 
+
+			el efecto sobre la imágen ó layer, original
+
+
+		_Preserve Luminosity:
+		
+			_ésta opción limitará al sistema para que sea cuál, sea el efecto aplicado siempre 
+
+			procure conservar la luminocidad de la imágen original
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,129 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+		https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+	_éste nos permitirá utilizar la información de "ID Object", que realicemos en aplicaciones así, como 
+
+	también, en algunos es a través, de la segmentación de elementos por medio de layers
+
+
+	_de ésta manera, podremos crear mattes, ha modos de "Isolates", en relación a los elementos y las 
+
+	segmentaciones de éstos realizadas en las aplicaciones 3d, otros
+
+
+	Formatos:
+	_________
+
+	_para trabajar con éste tipo de modalidad requeriremos trabajar con los siguientes tipos de archivos de
+
+	proceso e intercambio entre las aplicaciones 3d, y after effects, éstas son las siguientes:
+
+
+	NOTE: en principaio éste efecto esta listo para funcionar con todo tipo de formato de archivo de 
+
+	intercambio de información 3d, la cuál, pueda ser usada dentro de after effects, de ésta manera, éstos 
+
+	archivos de intercambio pueden ó no estar generados dentro de una aplicación 3d
+
+
+	_los archivo de tipo de intercambio más útiles y utilizados son:
+
+
+		_.prf
+
+			_archivo de tipo intercambio, es el más antiguo y no está disponible en todas las 
+
+			aplicaciones de forma nativa, éste da muy buenos resultados, éste formado está relacionado
+
+			principalmente en aplicaciones como softimage xsi
+
+
+		_OpenEXR:
+
+			_archivo de tipo intercambio, éste es el más común y está disponible en todas las 
+
+			aplicaciones modernas y actualizadas
+
+
+		_RLA / RPF:
+
+			_archivo de tipo intercambio, bastante funcional y está disponible principalmente en la
+
+			aplicación cinema 4d
+
+
+
+
+
+	ID Matte: (ID de Mate)
+	_________
+
+	_Aux Channel:
+
+		_éste nos permitirá escoger entre dos variantes ó criterios de acción "Object ID", y "Material ID",
+
+		en relación a la configuración en las aplicaciones 3d
+
+
+			_donde "Object ID", funciona en relación en la segmentación de objetos en la escena
+
+			_mientras "Material ID", funciona en relación a los materiales en la escena y su 
+
+			interacción
+
+
+	_ID Selection:
+
+		_ésta opción nos pemrite seleccionar un grupo de elementos respectivos lo que seleccionará dichos
+
+		objetos y hará invisibles a los demás
+
+
+		_funcioana haciendo el efecto de enmascarado ó isolate, de ésta manera, en éste slider, ó control
+
+		podremos indicar números enteros para ir así, pasando de grupo en grupo hasta encontrar el grupo
+
+		que necesitemos
+
+
+	_Feather:
+
+		_ésta opción nos pemrite hacer un calado para suavizar así, el selección del grupo respectivo lo
+
+		cuál, nos permitirá lograr una integración de la extracción respectiva con los demás elementos de
+
+		la escena
+
+
+	_Invert:
+
+		_ésta opción nos permitirá hacer inversión de grupos en relación al grupo seleccionado y a los 
+		
+		demás grupos existentes
+
+
+	_Use Coverage:
+
+		_ésta opción nos permite extender los alcances del mapa en el grupo seleccionado
+
+
+		NOTE: ésta opción no siempre da buenos resultados
+
+
+
+

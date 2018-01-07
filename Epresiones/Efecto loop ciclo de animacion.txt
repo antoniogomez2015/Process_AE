@@ -1,0 +1,32 @@
+
+
+
+
+
+Expresiones para After Effects
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+hacer loops con efecto pingpong
+
+
+	1_primero debemos animar una propiedad, ej: "Position"
+
+
+	2_luego, ha ésta respectiva propiedad debemos activarle las opciones de expresiones, 
+
+	"Alt + mouse left click", sobre el ícono de cronómetro de la propiedad
+
+
+	3_para luego aplicar la siguientes expresión 
+
+		
+		loopOut("cycle")
+
+
+	_de ésta manera el elemento de la propiedad hará su acción y luego la reperitá de forma infinita

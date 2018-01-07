@@ -1,0 +1,37 @@
+
+Render Process, para After Effects
+
+
+	Referencia
+
+		http://aescripts.com/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Durend: DuDuF Renderer
+_______
+
+	
+	Descripción: (intercambio y transpolación de máscaras entre layers, para producción)
+
+
+	Ubicación: AfterEffects CC 2014 Configuracion Pro.txt
+
+		(D) / Panel Proyecto / Referencia (Panel Proyecto por default)
+
+
+	Referencia en la web: http://duduf.net/?page_id=177  /  http://duduf.net/?page_id=2010
+
+
+ 
+
+
+
+

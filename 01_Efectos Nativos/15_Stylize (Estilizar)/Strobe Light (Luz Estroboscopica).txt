@@ -1,0 +1,160 @@
+
+
+
+	
+	Lynda.com After Effects CS3 Effects
+
+
+		Referencia:
+
+			https://helpx.adobe.com/es/after-effects/using/effect-list.html
+
+				https://helpx.adobe.com/es/after-effects/using/stylize-effects.html#brush_strokes_effect
+
+			http://www.cycorefx.com/downloads/cfx_hd_std/CycoreFX%20HD%201.7.1%20Manual.pdf
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	
+
+	Características:
+	________________
+
+
+	_El efecto Luz estroboscópica lleva a cabo una operación aritmética sobre una capa o hace que la capa 
+
+	aparezca transparente en intervalos aleatorios o periódicos. Por ejemplo, cada cinco segundos una capa puede 
+
+	llegar a ser totalmente transparente durante una décima de segundo, o los colores de la capa pueden 
+
+	invertirse en intervalos aleatorios.
+
+
+	_Este efecto funciona con colores de 8 bpc.
+
+
+
+
+	Tipos de Layers:
+	________________
+
+		_éste aplica tanto en layers, de tipo shape, text, images, comps
+
+
+
+
+	
+
+	Strobe Light: (Luz Estroboscopica)
+	_____________
+
+
+		_Strobe Color:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el color de relleno que se le
+
+			aplicará a la layer, sobre la cuál, se aplicó el efecto, para la generación del efecto 
+
+			estroboscópico cuando la opción de "Strobe/Operates On Color Only", esté seleccionada
+
+
+		_Blend Width Original:
+
+			_ésta opción nos permitirá indicarle al sistema un nivel de opacidad del sistema con la layer,
+
+			base 
+
+
+			_de ésta manera podremos fusionar todo el sistema con la layer, base para lograr así, una 
+
+			mayor integración entre el sistema y las demás layers, de la composición respectiva
+
+
+		_Strobe Duration (secs):
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la duración del efecto en cada
+
+			intervalo ó intermitencia ó iteración
+
+
+			_de ésta manera, tendremos la posibilidad de indicar los segundos que durará cada iteración
+
+
+		_Strobe Period (secs):
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el período previo ó antes de 
+
+			ejecutarse la siguiente iteración
+
+			
+			_de ésta manera, podremos controlar cuáles, serán los intervalores entre cada iteración del
+
+			sistema
+
+
+		_Random Strobe Probability:
+
+			_ésta opción nos permitirá indicarle al sistema una ponderación de probabilidades de que una
+
+			interación se aplique ha un fotograma determinado
+
+
+			_de ésta manera, podremos agregar aleatoriedad al sistema para que así, podamos hacer sistemas
+
+			más orgánicos y menos predictivos
+
+
+
+		_Strobe:
+
+			_Makes Layer Transparent:
+
+				_ésta opción nos permite indicarle al sistema que en cada iteración haga transparente
+
+				la layer, sobre la cuál, se ha aplicado el efecto, en vez de rellenar la layer, con
+
+				color determinado
+
+
+			_Operates On Color Only:
+
+				_ésta opción nos permitirá indicarle al sistema que en cada iteración rellene la 
+
+				layer, de un color sólido el cuál, podremos escoger en la opción de "Strobe Color"
+
+
+	
+		_Strobe Operator
+
+
+			_Mix:
+
+				_ésta opción nos permite indicarle al sistema que cree ó fusione el sistema con las
+	
+				demás layers, de la composición a través, de los modos de fusión proporcionados por
+			
+				el sistema nativo como por ej, "scree, add, multiply..."
+
+
+		_Random Seed:
+
+			_ésta opción nos permite indicarle al sistema que comience ha realizar iteraciones previamente
+
+			antes de comenzar la animación ó la simulación
+
+
+			_de ésta manera, podremos agregar dinamismo al sistema así, como también, habremos eliminado
+
+			la curva de aceración de una animación inicial
+
+
+
+
+
+
+
+

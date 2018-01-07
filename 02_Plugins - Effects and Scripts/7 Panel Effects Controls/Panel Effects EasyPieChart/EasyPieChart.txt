@@ -1,0 +1,137 @@
+
+
+http://aescripts.com/easy-pie-chart/
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Effects Controls / EasyPieChart
+
+
+	EasyPieChart:
+
+
+	-este nos permite hacer un gráfico de valores de forma  circular personalizable para así, podamos representar 
+
+	datos de nuestras animaciones de forma gráfica y comparativa entre otras posibilidades y aplicaciones
+
+	
+
+
+
+	Workflow:
+	_________
+
+
+	_primero, debemos de tener un composición de trabajo así, ésta composición es recomendable que esté vacía 
+
+
+
+	Dates CSV / TXT / XML:
+	______________________
+
+	_el sistema nos brinda tres posibilidades de operar con el sistema, la primera es importar un archivo de extensión
+
+	".CSV", de tipo "Excel", el cuál, podremos crear y cargar los datos ha representar en el en forma de tablas así, 
+
+	como también, a través, de archivos de texto .txt, como también, archivos de tipo .xml
+
+
+
+	Dates Manual:
+	_____________
+
+	_ó también, el sistema nos brinda una interface, dentro de after effects, en la cuál, podemos introducir manualmente
+
+	valores los cuales tomará el sistema para representarlos como datos del sistema
+
+
+	Imput Value:
+	____________
+	
+	_para lo cuál, en las opciones de "Enter a value and a label name:", tendremos dos campos de texto ha nuestro 
+
+	disposición en los cuales podremos indicar un valor y un nombre para el valor
+
+
+	_así, en el primer campo, debemos de indicar el valor del atributo ej; "01", el cuál, siempre tendrá que ser expresado
+
+	en números, éstos pueden ser enteros ó con decimales, ej; "10", ó "10.3"
+
+
+	Imput Label:
+	____________
+
+	_así, como también, justo contiguo al campo de "Value", expresado anteriormente dispondremos de otro campo de texto el
+
+	cuál, nos permitirá indicar un nombre para el atributo e identificar el valor ha animar así, podremos indicar un nombre
+
+	como por ejemplo; "Single1"
+
+
+	
+	Add Values:
+	___________
+
+	_así, cuando hayamos introducido tanto el valor como el nombre del atributo podremos hacer uso del botón "Add", el cuál,
+
+	se encuentra justo debajo de los campos de texto expresados anteriormente
+
+
+	_de ésta manera, se agregará dicho parámetro en la lista de atributos del sistema ha animar "por favor hacer caso asmiso
+
+	al ver que en la lista de atributos dice en la sección de (Value) [Undfined]", por que el sistema estará reconociendo los
+
+	valores que hemos introducido correctamente
+
+
+	_de ésta manera, podremos repetir éste proceso para ir agregando los demás valores deseados ha animar por el sistema
+
+	
+
+	Create System:
+	______________
+
+	_y cuando hayamos agregado todos los valores deseados al sistema podremos entonces generar el sistema para lo cuál, 
+
+	dispondremos de un botón en la parte inferior del panel, éste botón es "Create", de ésta manera, el sistema generará una
+
+	serie de layer, partes del sistema en composición activa
+
+
+
+	Settins System:
+	_______________
+	
+	_de ésta manera, el sistema generará princialmente dos tipos de controles ha nuestra disposición los cuales son:
+
+
+	_creará una layer, llamada "[Labe 1..]" para cada hablador ó líneas guías de cada valor animado los cuales podremos 
+
+	ajustar en el panel de effects control, shortcut, "F3"
+
+
+	_así, como también, creará un control principal llamado "[Control]", el cuál, será una layer, de tipo null, y estará en 
+
+	modo de layer guide, más ésta layer, en sus controles en el panel effects controls, nos brindará todos los controles
+
+	para ajustar el sistema
+
+
+	_así, a través, de éstos parámetros podremos ajustar lo ancho de las partes de la "Diana", así, los colores de cada una
+
+	de sus partes entre posibilidades como hacer reserva separadas de otras, así, como también, cambiar el tamaño de unas 
+
+	secciones de otras, otros
+
+	
+
+
+
+	
+
+
+

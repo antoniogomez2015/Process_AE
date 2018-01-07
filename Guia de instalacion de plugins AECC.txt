@@ -1,0 +1,310 @@
+GUÍA DE INSTALACIÓN DE PLUGINS, SCRIPT Y COMPLEMENTARIOS PARA AFTER EFFECTS CC
+
+
+1.instalar REVision.Effects
+
+	guia de instalacion:
+
+	a) seleccionar instalar para otras aplicaciones solamente
+
+	b) seleccionar la ruta de instalacion en: C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins
+
+	c) en User Name colocar: TEAM X-FORCE 2010
+
+	d) en Registration Code: colocar el serial respectivo a cada plugins
+
+	e) luego seleccionar la opcion de instalacion "Install registered GUI version"
+
+	2.1.instalar RevisionFX.DeNoise
+
+	2.2.instalar RevisionFX.FieldsKit
+
+	2.3.instalar RevisionFX.PV.Feather
+
+	3.4.instalar RevisionFX.REFill
+
+	3.5.instalar RevisionFX.REFlex
+
+	3.6.instalar RevisionFX.REMap
+
+	3.7.instalar RevisionFX.Shade.Shape
+
+	3.8.instalar RevisionFX.SmoothKit
+
+	3.9. instalar RevisionFX.Twixtor
+
+	3.10.instalar RevisionFX.Video.Gogh
+
+
+
+2.instalar Digital Films Tools: 
+
+	4.1.DFT.FilmStocks.v1.5 
+
+	4.2.DFT.PhotoCopy.v1.0.2.2
+
+	4.3.DFT.Power.Matte.v.2.0.1.3
+
+	4.4.DFT.Power.Stroke.v.1.0.7.2
+
+	4.5.DFT.Rays.v1.0.2.2
+
+	4.6.DFT.reFine.v1.01.2
+
+	4.7.DFT.v.Tiffen.Dfx.v3.010.2
+
+	4.8.DFT.zMatte.v3.0.0.1
+
+	4.9.DFT.CompositeSuite.Pro.v1.0.1.1
+
+
+
+3.instalar CycoreFX
+
+	5.1.instalar CycoreFC Cs5-6-CC (elegir instalacion manual en las versiones de after effects e indicar: C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins)
+
+	5.2.instalar CycoreFX HD 1.6.1 ()
+
+
+
+4.instalar Digieffects
+
+	6.1.Delirium v2.5.1, ubicado en: 6_DigiEffects\Digieffects MegaSuite v2.5.1 - AE CS6 (Win) Fixed Version\Fix for Digieffects Delirium v2.5.1 - CS6\"Delirium"
+
+	6.2.Damage v2.5.1 (introducir serial respectivo e instalar como Cs6 y luego copiar y pegar la carpeta "Damage", en la ruta C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins)
+
+	6.3.BuenaDepthCue 2.5.1 (introducir serial respectivo e instalar como Cs6 y luego copiar y pegar la carpeta "Damage", en la ruta C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins)
+
+
+
+5.instalar NewBlue TotalFX 3.0 
+	
+	7.1.ejecutar "NewBlueTotalFXForWindowsSetup30-130725" (la instalacion incluye crackeado aumatico en la misma instalacion),
+
+		7.1.1.las suites del instalador bundle, se instalarán en dos diferentes rutas de instalación, estas son:
+
+		7.1.2.C:\Program Files\Adobe\Adobe After Effects\Support Files\Plug-ins\Effects\NewBlueFX
+
+		7.1.3.C:\Program Files\Adobe\Adobe After Effects CS6\Support Files\Plug-ins\Effects\NewBlueFX
+
+		7.1.4.las diferentes suites se instalaran como versiones habilitadas como "after effects" y "after effects cs6" en plugins/"NewBlueFx", debemos copiar las carpetas
+
+		de las suites de una de las rutas de instalación en las cuales se realizó la instalación y, luego,  pegarlas en la ruta de instalación del after effects cc, en: C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\"NewBlueFx"
+
+		7.1.5.luego debemos borrar ambas instalaciones previas donde se instalaron las suites a través del instalador bundle, para evitar conflictos y peso de copias innecesarias
+
+
+
+
+6.instalar Zaxwerks.3D.ProAnimator.v5.0 ("hay 2 opciones ó versiones de la suite, seleccionar una de ellas e intalar")
+
+	8.1.instalador "Zaxwerks.3D.ProAnimator.v5.0", este ofrece un "menu  de herraminetas" a través en un solo plugins:
+
+		8.1.1.copiar la carpeta "Zaxwerks.3D.ProAnimator.v5.0", ubicada en: Plugins After Effects CC\Plugins After Effects CC Part1-2\8_Zaxwerks\"Zaxwerks.3D.ProAnimator.v5.0"
+
+		8.1.2.luego pegar la carpeta "Zaxwerks.3D.ProAnimator.v5.0", en la ruta de unstalacion del programa en su sección de plugins, en: C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\"Zaxwerks.3D.ProAnimator.v5.0"
+
+
+	8.2.instalador "Zaxwerks CS5", este es más amplio e instala "3D Invigorator Pro", "3D Reflector", "3D Serpentine", "Falloff 3D Reflector", "ProAnimator" ("Recomendado")
+
+		8.2.1.copiar la carpeta "Zaxwerks CS5", ubicada en: Plugins After Effects CC\Plugins After Effects CC Part1-2\8_Zaxwerks\"Zaxwerks CS5"
+
+		8.2.2.luego pegar la carpeta "Zaxwerks CS5", en la ruta de unstalacion del programa en su sección de plugins, en: C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\"Zaxwerks CS5"
+
+
+
+
+
+7.instalar Data Glitch (leer instrucciones)
+
+
+
+
+8.instalar Crazubump multi trial (activar el CrazyBump Trial reset, cada vez que se use el programa)
+
+
+
+
+9.instalar FilmConvert Pro 1.34 plugin (After Effects-Premiere)
+
+	11.1.el plugins se instalará en la ruta habilitada para plugins comunes entre adter effects y premiere pro, esta es:
+
+	C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\"FilmConvertPro.aex"
+
+	11.2.luego debemos copiar el archivo "FilmConvertPro.aex", ubicado en: Plugins After Effects CC\Plugins After Effects CC Part1-2\11_FilmConvert Pro 1.34 plugin (After Effects-Premiere)\Crack\"FilmConvertPro.aex"
+
+	y pegarlo y reemplazarlo en la ruta de instalación del plugins en: C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\"FilmConvertPro.aex"
+
+
+
+
+10.instalar Boris Continuum Complete 8 AE v8.3.0 for CS5.x, CS6, CC (desactivar internet) (seguir indicaciones en crack)
+
+	12.1.el plugins se instalará en la ruta habilitada para plugins comunes entre adter effects y premiere pro, esta es:
+
+	C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\"Boris Continuum Complete 8"
+
+
+
+
+11.instalar Mettle
+
+	13.1.crear una carpeta llamada "Mettle", en: C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\"Mettle"
+
+	13.2.copiar los archivos "Mettle_FreeFormPro.aex", y "Mettle_ShapeShifter.aex", ubicados en: Plugins After Effects CC\Plugins After Effects CC Part1-2\13_Mettle crack\"Mettle_FreeFormPro.aex", y "Mettle_ShapeShifter.aex"
+
+	13.3.luego pegar los archivos copiados en la carpeta "Mettle", que creamos en la ruta de instalación de plugins en: C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\"Mettle"
+
+	13.4.ahora copiamos los archivos del crack, ubicados en: Plugins After Effects CC\Plugins After Effects CC Part1-2\13_Mettle crack\Shapeshifter.2.5.key.code.generator\
+
+	13.5.luego los pegamos en la ruta de unstalación donde pegamos los plugins, en: C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\Mettle\
+
+
+
+
+12.instalar Frischluft_All_Products (licencia crack incluida en los archivos de los plugins)
+
+	14.1.crear una carpeta llamada "Frischluft" en C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\"Frischluft"
+
+	14.2.crear una carpeta en C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\Frischluft\Flair\, y pegar en ella la version del plugins a 64bits
+
+	14.3.crear una carpeta en C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\Frischluft\FreshCurves\, y pegar en ella la version del plugins a 64bits
+
+	14.4.crear una carpeta en C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\Frischluft\Lanscare\, y pegar en ella la version del plugins a 64bits
+
+	14.5.crear una carpeta en C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\Frischluft\NormaliZe\, y pegar en ella la version del plugins a 64bits
+
+	14.6.crear una carpeta en C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\Frischluft\Zborn Toy\, y pegar en ella la version del plugins a 64bits
+
+
+
+
+13.instalar Misc Plugins (Gutsblow - minning.de Normality - Rowbyte)
+
+	15.1.crear una carpeta llamada "Misc Plugins" en C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\"Misc Plugins"
+
+	15.2.crear una carpeta en C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\Misc Plugins\Bad TV Binaries, y pegar en ella la version del plugins Window/CS5
+
+	15.3.crear una carpeta en C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\Misc Plugins\normality, y pegar en ella la version del plugins Window/CS5
+
+	15.4.crear una carpeta en C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\Misc Plugins\Rowbyte Plexus 2, y pegar en ella la version del plugins Window/CS5
+
+	15.5.crear una carpeta en C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\Misc Plugins\Separate_RGB, y pegar en ella la version del plugins Window/CS5
+
+
+
+
+14.instalar GenArts
+
+	instalar perticle illusion
+	
+		16.1.instalar particleillusion-ae-install-1.041 (seguir indicaciones de Crack_V1.1)
+
+		16.2.instalar pI_additional_emitter_libraries
+
+	instalar Moster Gt 7
+
+		16.3.instalar GENARTS Monsters GT 7.03 for AE CS6 (mirar guia de instalacion general y "crack")
+
+	instalar GenArts Sapphire 6.14
+
+		16.4.instalar Sapphire  6.14 AE CS6 (mirar guia de instalacion general y "crack")
+
+
+
+
+15.instalar Tiffen DFX CS5 (seguir instrucciones de instalacaión)
+
+
+
+
+16.Maxwell Render - v.2.7.20 - win64 (copiar y reemplazar el contenido de la carpeta crack en la ruta de instalación del plugins)
+
+
+
+
+17.instalar Video Copilot plugins
+
+	1.1.instalar Optical Flares (ver video tutorial para instalar optical flares y trapcode)
+
+	1.2.instalar Twitch (copiar los archivos en : C:\Archivos de programa\Adobe\Adobe After Effects CC\Support Files\Plug-ins\Effects)
+
+	1.3.instalar ELEMENT 3D Y PRO SHADER
+
+	1.4.instalar Film Magic Pro VideoCopilot (copiar lar carpeta "Film Magic Pro VideoCopilot", y pegarla en C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Presets)
+
+	1.5.instalar Sure Target 2 (copiar el plugins version Window a 64bits en: C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\VideoCopilot\"SureTarget")
+
+	1.6.1.5.instalar VCReflect (copiar el plugins version Window a 64bits en: C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Plug-ins\VideoCopilot\"VCReflect")
+
+
+
+
+18.instalar The Foundry CS5 (seguir guía de instalación del pligins)
+
+	Camera Tracker v1.0v1
+
+		17.1.instalar Camera Tracker v1.0v1 (seguir indicaciones en la carpeta crack)
+
+	Kronos
+
+		17.1.instalar Kronos v5.0v1 (seguir indicaciones en la carpeta crack) (solucionar problemas con multi crack o sobre escritura)
+
+	Rolling Shutter
+
+		17.1.instalar Rolling Shutter 1.1v2 (seguir indicaciones en la carpeta crack) (solucionar problemas con multi crack o sobre escritura)
+
+
+
+
+19.Particle Illusion aplicación
+
+	20.1.copiar la carpeta "ParticleIllusion3", ubicada en: Plugins After Effects CC\Plugins After Effects CC Part3-4\20_Particle Illustion 3 (aplicacion)\"ParticleIllusion3"
+
+	20.2.y pegarla en: C:\Program Files\"ParticleIllusion3"
+
+	20.3.luego, entrar a la carpeta que pegamos "ParticleIllusion3", y crear un acceso directo en el escritorio del archivo: "particleIllusion.exe"
+
+
+
+20.Instalar Red Giant Suites
+
+	3.1.instalar trapcode suite
+
+	3.2.instalar Red_Giant_Magic_Bullet_Suite_11.4.4_WiN
+
+	3.3 instalar Red_Giant_Keying_Suite_11.0.2_WiN
+
+	3.4.instalar Red Giant Guru Presets (copiar la carpeta "Red Giant Guru Presets", en C:\Program Files\Adobe\Adobe After Effects CC\Support Files\Presets\"Red Giant Guru Presets")
+
+
+
+
+21_Topaz B&W Effects v2.2.0 for Adobe Photoshop with Key [TorDigger] (para generar mapas Depth)
+
+
+
+
+
+22_Aescript Plugins (seguir insdicaciones de cada plugins ó script)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

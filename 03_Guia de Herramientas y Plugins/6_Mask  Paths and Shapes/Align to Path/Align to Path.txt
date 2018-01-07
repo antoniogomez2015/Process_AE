@@ -1,0 +1,158 @@
+
+
+
+
+Align to Path
+
+
+	Referencia:
+
+		http://aescripts.com/align-to-path/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Características:
+________________
+
+
+	_éste permite hacer animaciones de layers, a través, de trayectorias por medio de máscaras y shape paths
+
+	
+
+Aplicaciones:
+_____________
+
+
+	_ésto es especialmente útil para hacer animaciones complejas y precisas bajo demandas específicas del cliente
+
+	entre otras posibilidades
+
+	_aunado ha ésto, el sistema también, permite la actulización del path, esto es especialmente util pues permite
+
+	animar el trazado aumentando las posibilidades como también, para hacer correcciones posteriores sobre la 
+
+	animación ya realizada
+
+
+
+Performances:
+---------------------------------------------------------------------------------------------------------------------
+
+
+Basics:
+_______
+
+	
+	_primero debemos tener un composición base creada
+
+
+	_luego debemos tener una  ó varias layers, creadas las cuáles serán el motivo ha animar, ej: una "shape/arrow"
+
+
+	---------------------------------------------------------------------------------------------------------------
+
+
+
+Keep Position Offset:
+
+	_ésta opción permite guardar la posiciones originales de ambos elementos, tanto el motivo animado como la del path,
+
+	ésta opción es util para cierto tipo de acciones y elementos de animación
+
+
+
+Auto - Orient to Path:
+
+	_ésta opción permite que motivo animado se siña a la dirección del trazado ó path
+
+
+	_NOTE: en ocaciones será necesario animar el efecto aplicado sobre el motivo, éste efecto es:
+
+	"Motion Path Complete", para que así, se logre ver el efecto a "auto orient"
+
+
+
+Align to Path(s):
+
+	_ésta opción es la más importante por es la que permite crear el sistema
+
+
+	_así, que para ésto, debemos primero crear una "new/solid layer", éste los podemos renombre ej, proxi
+
+
+	_y ha éste proxi, debemos crearle una máscara la cuál, hará de trazado/path, ó trayectoria de animación
+
+	en relación a la lógica de la escena y motivo ha animar
+
+
+	_para luego si seleccionar primero la layer, del motivo para luego seleccionar la máscara ó path, de la 
+
+	layer proxi, que creamos y configuramos previamente con una máscara
+
+
+	_para que así, con ambos elementos seleccionados en ese orden hacer "Align to Path(s)", para que asi creemos
+
+	el sistema
+
+
+	_y a partir de éste punto, de la creación del sistema se agregarán a la composición y timeline, una layer, de
+
+	tipo "null object"
+
+
+	_así, como también, a la layer, del motivo animado se habrán agregado los siguientes efectos controladores
+
+	del sistema:
+
+
+		_Motion Path Complete:
+
+			_éste es un slider de animación sobre el trazado ó path
+
+
+		_Complete Sequientially:
+
+			_(indeterminado)
+
+
+		_Mask alter:
+
+			_ésta opción controla la fuerza relativa entre diferentes paths, de animación, ésta opción 
+
+			tiene función ó aplicación cuando varios trazados de animación para un motivo
+
+
+
+Paths:
+
+	_ésta opción muestra la lista paths, implicados ó en utilización por el sistema
+
+
+
+Update:
+
+	_ésta opción es muy importantes ya que nos permite tanto animar el path, ó trazado así, como hacer correcciones
+
+	animables sobre éste
+
+
+	_así, cuando hayamos modificado el path, respectivo de animación podemos en cualquier momento seleccionar éste en
+
+	la sección "Path List", del paso anterior para luego hacer "Update", para que así, la animación sea reajustada al
+
+	nuevo trazado y siga la nueva trajectoria de animación modificada
+
+
+
+Clear:
+
+	_ésta opción permite eliminar path, de animación del campo ó "Path List", de la sección de Paths, ésta opción es 
+
+	muy útil por que podremos cambiar de paths, de animación en cualquier momento
+
+
+
