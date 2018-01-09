@@ -1,0 +1,264 @@
+
+
+
+
+	http://www.frischluft.com/flair/index.php
+
+
+	
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá crear diferentes sistemas como por ejemplo, texturas a través, de la
+
+		modulación de una layer, ha modo de "tiles"
+
+
+		_como también, para la generación de texturas y módulos y super módulos, mapas, otros
+
+
+		_la cuál, a su vez, la podremos utilizar como plano infinito ó floor, como también, para lograr
+
+		diferentes efectos de producción y paso contínuo y composición
+
+
+		
+
+
+	Frichluft AFL Amiga Rulez:
+	_________________________
+
+
+		_Alternative Layer:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos utilizar otra layer, a la cuál,
+
+			deseamos aplicar el efecto
+
+
+			_de no indicar una layer, de la respectiva composición, el efecto se aplicará sobre la misma
+
+			layer, sobre la cuál, se ha aplicado el efecto
+
+
+		_Origin:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el origen ó epicentro a través, 
+
+			del cuál, se generará todo el sistema
+
+
+		_Orientation:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el grado de rotación 2d, del 
+
+			sistema generado
+
+
+		_Size:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la escala ó tamaño que tendrá el
+
+			sistema generado lo que a su vez, indicará la modulación ó repetición de la layer, ha modo
+
+			"tiles"
+
+
+		_Repeat X | Y:
+
+			_ésta opción nos permitirá indicarle al sistema que ésta extienda la modulación del sistema
+
+			más allá de los valores de la composición por defecto de la layer, base, tanto en la 
+
+			cordenada "X", con en la cordenada "Y"
+
+
+			_de ésta manera, podremos crear animaciones y simulaciones más ámplias en relación a nuestras
+
+			necesidades de producción
+
+
+		_Origin Offset X | Y:
+
+			_ésta opción nos permitirá indicarle al sistema que realize un desplazamiento del sistema
+
+			en la cordenada "X", como en la cordenada "Y"
+
+
+			_lo cuál, a su vez, estará superditado por la opción anterior de "Repeat X | Y", en relación
+
+			a nuestras necesidades de producción
+
+
+		_Rotation Offset X | Y:
+
+			_ésta opción nos permitirá indicarle al sistema la rotación del sistema generado en las 
+
+			cordenadas X, y Y, respectivamente mientras que a su vez, es desplazado el sistema en la 
+
+			misma dirección en la cuál, rota el sistema
+
+
+		_Aspect:
+
+			_ésta opción nos permitirá indicarle al sistema la reación de pixeles ó también, relación
+
+			de distorsión del sistema generado
+
+
+			_de ésta manera, podremos crear distorsiones sobre el sistema generado
+
+
+		_Shear Axis:
+
+			_ésta opción nos permitirá indicarle al sistema el grado de cordenadas para el efecto de
+
+			estiramiento del sistema generado del parámetro siguiente "Shear Stretngh"
+
+
+		_Shear Strengh:
+
+			_ésta opción nos permitirá indicarle al sistema la cantidad ó umbral de estiramiento sobre
+
+			el sistema generado y en relación al ángulo de cordenadas indicado en el paso anterior de
+
+			"Shear Axis"
+
+
+		_Plane:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste combierta el plano ó
+
+			sistema generado en un elemento 3d 
+
+
+			_para que así, podamos crear un plano horizontal 3d, con efecto de "falloff", ó 
+
+			desvanecimiento ó deep map, en su prolongación más lejana y sobre el cuál, podremos colocar
+
+			otras layers, y diferentes elementos de la composición respectiva
+
+
+			_lo cuál, nos permitirá construir diferentes elementos y enviroments, de producción y paso
+
+			contínuo
+
+
+		_Z Axis:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos rotar el plano 3d, en la 
+
+			cordenada "Z", de cara al eje de la cámara del viewport, del panel compositing
+
+
+		_Distance Falloff:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el umbral a través, del cuál,
+
+			podremos indicarle al sistema la cantidad de penumbra ó desvanecimiento aplicado sobre el
+
+			sistema generado
+
+
+			_de ésta maenra, podremos desvanecer más ó menos el sistema generado como también, integrar 
+
+			éste con las demás layers, de la composición respectiva
+
+		
+		_Falloff Curve:
+
+			_ésta opción nos permitirá indicarle al sistema el gradiente ó penetración del umbral de
+
+			falloff, ó desvanecimiento indicado en el parámetro anterior de "Distance FallOff"
+
+
+
+		_Outside X | Y Assume:
+
+
+			NOTA: al ser éstos parámetros por separado nos permitirá poder hacer combinaciones de éstos
+
+			de ésta manera, podremos crear módulos repetidos pero a su vez, reflejados, otros
+
+
+
+
+			_Border Color:
+
+				_ésta opción nos permitirá indicarle al sistema que estire los pixeles de unos de los
+
+				bordes de la imágen base
+
+
+				_lo que permitirá que creemos diferentes efectos como la creación de cortinas, 
+
+				texturas, módulos, otros
+
+
+				_lo cuál, lo podremos crear tanto en la cordenada X, como en la cordenada Y
+
+
+			_Mirroed Image:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos que éste refleje la 
+
+				imáge base en la misma cordenada seleccionada, sea ésta la cordenada X, Y
+
+
+			_Repeated Image:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos que éste repira ó
+
+				module la imáge base en la misma cordenada seleccionada, sea ésta la cordenada 
+
+				X, Y
+
+
+		_Outside Color:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será el color aplicado el fondo ó al
+
+			área en penumbra, por defecto el color es negro
+
+
+			_más tendremos la posibilidad de seleccionar un color personalizado a través, de un picker,
+
+			ó a través, de un selector de color
+
+
+		_Outside Color(Alpha):
+
+			_ésta opción nos permitirá indicarle al sistema el grando de transparencia al fondo de color
+
+			generado por el sistema en el área depenumbra y el área fuera del sistema generado
+
+
+			_lo que nos permitirá integrar el sistema con las demás layers, de la composición respectiva
+
+
+		_Antialias:
+
+			_ésta opción nos permitirá indicarle al sistema el umbral ó grado de suavizado global del
+
+			sistema generado
+
+
+		
+
+			
+		
+
+
+
+
+
+
+

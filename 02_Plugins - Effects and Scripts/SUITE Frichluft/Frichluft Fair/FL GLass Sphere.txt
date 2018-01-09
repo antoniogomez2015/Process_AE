@@ -1,0 +1,317 @@
+
+
+
+
+	http://www.frischluft.com/flair/index.php
+
+
+	
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá crear el efecto "Bulge", ó burbuja el cuál, nos permitirá crear a su 
+
+		vez, crear diferentes procesos de producción y paso contínuo
+
+
+		
+
+
+	Frichluft FL GLass Sphere:
+	__________________________
+
+
+		_Origin:
+
+			_ésta opción nos permitirá indicarle al sistema el epicentro a partir del cuál, se generará
+
+			el sistema el cuál, podremos animar a través, del tiempo
+
+
+		_Direction:
+
+			_ésta opción nos permitirá indicarle al sistema la dirección ó grado de rotación del
+
+			sistema generado en caso de que éste no sea totalmente circular
+
+
+		_Radius X  Y:
+
+			_ésta opción nos permitirá indicarle al sistema el radio, tamaño y proporción del sistema
+
+			generado, de ésta manera, el sistema podrá ser circular ó en forma de óvalo así, como 
+
+			también, éste podrá ser más grande ó más pequeño
+
+
+		_Refraction:
+
+			_ésta opción nos permitirá indicarle al sistema el índice de refracción en relación a las
+
+			necesidades de producción y paso contínuo
+
+
+			_para lo cuál, dispondremos de tablas en internet, de los diferentes índices de refracción
+
+			para los diferentes tipos de materiales ha emular como plástico, vidrio, metal, otros
+
+
+		_Antialias:
+
+			_ésta opción nos permitirá indicarle al sistema la cantidad ó umbral de suavizado sobre el
+
+			sistema generado
+
+
+		_Outside Assume:
+
+
+			_Border Color:
+
+				_ésta opción nos permitirá indicarle al sistema que genere el sistema de refracción
+
+				a través, de los bordes de color generados por el volúmen emulado por la forma
+
+				cóncava creada
+
+
+			_Mirror Image:
+
+				_ésta opción nos permitirá indicarle al sistema que genere el sistema de refracción
+
+				a través, de la imágen reflejada sobre si misma por el volúmen emulado por la forma
+
+				cóncava creada
+
+
+			_Repear Image:
+
+				_ésta opción nos permitirá indicarle al sistema que genere el sistema de refracción
+
+				a través, de la forma modulada ó repetida en relación a su vez, por el volúmen 
+
+				emulado por la forma cóncava creada
+
+
+			_Outside Color:
+
+				_ésta opción nos permitirá indicarle al sistema que genere el sistema de refracción
+
+				a través, de un color personalizado, sin tener en cuenta así, el volúmen emulado por 
+
+				la forma cóncava creada
+
+
+		
+		_Outside Color:
+
+			_ésta opción nos permitirá indicarle al sistema un color personalizado a la opción anterior
+
+			de "Outside Color", para cuál, dispondremos de un picker, ó un selector de color
+
+
+		_Refraction Layer:
+
+			_ésta opción nos permitirá indicarle al sistema que éste utilize una layer, de la 
+
+			composición respectiva la cuál, el sistema utilizará como proxi, para la generación del 
+
+			efecto de reflacción
+
+
+		_Lighting:
+
+
+			_Direction:
+
+				_ésta opción nos permitirá indicarle al sistema la dirección de la luz para la 
+
+				generación del efecto de refracción
+
+
+			_Inclination:
+
+				_ésta opción nos permitirá indicarle al sistema la inclinación del efecto de 
+
+				refracción generado lo que cambiará a su vez, la apariencia y características y
+
+				volúmen del sistema generado
+
+
+			_Color:
+
+				_ésta opción nos permitirá indicarle al sistema el color de la refracción generada
+
+				en relación a las necesidades de producción y paso contínuo
+
+
+				_para lo cuál, dispondremos de un picker, ó un selector de color a través, del cuál,
+
+				podremos indicar un color personalizado
+
+
+			_Diffuse:
+
+				_ésta opción nos permitirá indicarle al sistema las características del material 
+
+				así, podremos generar un sistema más difuso ó transparente, lo cuál, es similar a la
+
+				propiedad de "roughtness"
+
+
+			_Specular:
+
+				_ésta opción nos permitirá indicarle al sistema el tamaño y cantidad de área 
+
+				especular por zonas refrejantes de la superficie respectiva
+
+
+				_de ésta manera, podremos crear un sistema con reflexiones especulares más acusadas
+
+				y visibles ó más finas y detalladas
+
+
+			_Glossiness:
+
+				_ésta opción nos permitirá indicarle al sistema la intensidad limínica de las áreas
+
+				con especularidad
+
+
+				_de ésta manera, con un valor cercano ha "0", el brillo escular será superior y, con
+
+				valores superiores ó cercanos ha "1", el valor de brillo especular será inferior
+
+
+			_Back Light:
+
+				_ésta opción nos permitirá indicarle al sistema la capacidad del material de 
+
+				absorber la iliminación ambiente y direccional aplicada sobre el sistema, ó lo que
+
+				es lo mismo, su propiedad caustica
+
+
+				_lo que a su vez, afectará a la capacidad de reflacción del material, de ésta 
+
+				manera, con valores cercanos ha "0", la propiedad caustica será nula y por ende el
+
+				material no tendrá propiedades especulares, más con valores cercanos ha "1", la 
+
+				capacidad especular estará en el máximo 
+
+
+			_Fresnel:
+
+				_ésta opción nos permitirá indicarle al sistema la perdida de absorción de la 
+
+				iluminación generada por la curvatura ó concavidéz generada por el sistema
+
+
+				_de ésta manera, la áreas más curvadas en su periferia tendrán más perderá  de 
+
+				ilmunación y se presentarán más oscuras que el resto de áreas
+
+
+				_así, con un valor cercano ha "0", el efecto fresnel, será inexistente y el 
+
+				material no presentará decaimiento limínico en las áreas con más curvatura ó 
+
+				concavidéz, más con valores cercanos ha "1", el efecto fresnel será total
+
+
+			_Fresnel Curve:
+
+				_ésta opción nos permitirá indicarle al sistema la gradación del decaimiento de la
+
+				capacidad de absorsión de la iluminación entre las áreas con concavidéz y las áreas
+
+				planas
+
+
+				_de ésta manera, podremos crear transiciones suavez ó abructas de decaimiento 
+
+				lumínico
+
+
+		_Material:
+
+
+			_Color:
+
+				_ésta opción nos permitirá indicarle al sistema el color del material base para lo
+
+				cuál, dispondremos de un picker, ó un selector de color a través, del cuál, podremos
+
+				seleccionar un color personalizado
+
+
+			_Color Fresnel:
+
+				_ésta opción nos permitirá indicarle al sistema las características con que es
+
+				disperso el color sobre la superficie generada en relación a su vez, de la 
+
+				convavidad de la forma del sistema generado
+
+
+			_Color Curve:
+
+				_ésta opción nos permitirá indicarle al sistema la gradación del color entre las
+
+				áreas más planas y las áreas con mayor concavidez
+
+				_de ésta manera, podremos cambiar el tipo de material generado y su color en 
+
+				general
+
+
+			_Transparency:
+
+				_ésta opción nos permitirá indicarle al sistema el tipo de material en su conjunto
+
+				és decir, ésta opcíon nos permitirá indicar la translucidéz ó lo opaco del material 
+
+				
+				_así, podremos crear materiales que emulen más el plástico, gomas, metales, 
+
+				critales, otros
+
+
+			_Tranparency Fresnel:
+
+				_ésta opción nos permitirá indicarle al sistema las características con que es
+
+				dispersa la opacidad sobre la superficie generada en relación a su vez, de la 
+
+				convavidad de la forma del sistema generado
+
+
+
+			_Fresnel Curve:
+
+				_ésta opción nos permitirá indicarle al sistema la gradación de la opacidad entre
+
+				las áreas más planas y las áreas con mayor concavidez
+
+
+				_de ésta manera, podremos cambiar el tipo de material generado y su densidad en 
+
+				general
+
+		
+
+
+
+
+
+
+

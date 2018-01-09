@@ -1,0 +1,62 @@
+
+
+Official Site: http://www.frischluft.com/frischluft/index.php
+
+			
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	------------------------------------------------------------------------------------------------------------------
+
+	Frichluft AFL Amiga Rulez:
+	__________________________
+
+
+	_este efecto nos permitirá crear diferentes sistemas como por ejemplo, texturas a través, de la
+
+	modulación de una layer, ha modo de "tiles"
+
+
+	_como también, para la generación de texturas y módulos y super módulos, mapas, otros
+
+
+	_la cuál, a su vez, la podremos utilizar como plano infinito ó floor, como también, para lograr diferentes 
+
+	efectos de producción y paso contínuo y composición
+
+
+
+	
+	------------------------------------------------------------------------------------------------------------------
+
+	Frichluft FL Fox Blur:
+	______________________
+
+	
+	_este efecto nos permitirá crear desenfoques sobre la imágen base más la opción de mapear ó limitar
+
+	el desenfoque a través, de una layer, auxiliar la cuál, hará de proxi para influencias en las
+
+	características del desenfoque creado por el sistema
+
+
+
+	
+	------------------------------------------------------------------------------------------------------------------
+
+	Frichluft FL GLass Sphere:
+	__________________________
+
+	
+	_este efecto nos permitirá crear el efecto "Bulge", ó burbuja el cuál, nos permitirá crear a su vez, crear 
+
+	diferentes procesos de producción y paso contínuo
+
+
+
+
+
+

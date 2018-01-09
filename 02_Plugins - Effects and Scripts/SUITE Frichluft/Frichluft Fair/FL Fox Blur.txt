@@ -1,0 +1,201 @@
+
+
+
+
+	http://www.frischluft.com/flair/index.php
+
+
+	
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá crear desenfoques sobre la imágen base más la opción de mapear ó limitar
+
+		el desenfoque a través, de una layer, auxiliar la cuál, hará de proxi para influencias en las
+
+		características del desenfoque creado por el sistema
+
+
+		
+
+
+	Frichluft FL Fox Blur:
+	______________________
+
+
+		_Radius:
+
+			_ésta opción nos permitirá indicarle al sistema el umbral ó la cantidad de desenfoque creado
+
+			por el sistema generado
+
+
+			_de ésta  manera, podremos crear un efecto más ó menos acusado de desenfoque sobre la imágen
+
+			base
+
+
+		_Aspect:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que éste genere un desenfoque
+
+			direccional en vez de un desenfoque homogeneo
+
+
+		_Gama Correction:
+
+			_ésta opción nos permitirá indicarle al sistema que realize una corrección tonal sobre la
+
+			imágen base para que así, la luminancia de la imágen no se afecta por el sistema de 
+
+			desenfoque generado
+
+
+		_Outside X | Y Assume:
+
+
+			_Border Color:
+
+				_ésta opción nos permitirá indicarle al sistema que realize el desenfoque de la
+
+				imágen tomando como criterio ó algoritmo, los bordes color entre los diferentes
+
+				elementos que conforman la imágen base
+
+
+			_Mirroed Image:
+
+				_ésta opción nos permitirá indicarle al sistema que refleje partes de la imágen para
+
+				generación del efecto de desenfoque
+
+
+				_ésta opción aplica sobre todo cuanto se lecciona una layer, en la opción de
+
+				"Offset Layer"
+
+
+			_Repeated Image:
+
+				_ésta opción nos permitirá indicarle al sistema que module partes de la imágen 
+
+				para generación del efecto de desenfoque
+
+
+				_ésta opción aplica sobre todo cuanto se lecciona una layer, en la opción de
+
+				"Offset Layer
+
+
+		_Mode:
+
+			_Normal:
+
+				_ésta opción nos permitirá indicarle al sistema que realize el desenfoque de modo
+
+				normal sobre la superfie de los elementos que conforman la imágen base
+
+
+			_Abberative:
+
+				_ésta opción nos permitirá indicarle al sistema que realize el desenfoque de modo
+
+				normal más aberración cromática lo cuál, nos permitirá crear diferentes efectos de
+
+				producción y paso contínuo
+
+
+		_Invert Gradient X:
+
+			_ésta opción nos permitirá indicarle al sistema que invierta la dirección de la aberración
+
+			cromática generada en la cordenada "X"
+
+
+			_ésta opción estará disponible sólo cuando la opción de "Mode/Abberative", esté activada
+
+
+		_Invert Gradient Y:
+
+			_ésta opción nos permitirá indicarle al sistema que invierta la dirección de la aberración
+
+			cromática generada en la cordenada "Y"
+
+
+			_ésta opción estará disponible sólo cuando la opción de "Mode/Abberative", esté activada
+
+
+		_Offset Layer:
+
+			_ésta opción nos permitirá indicarle al sistema que utilize una layer, de la composición
+
+			respectiva a modo de proxi, de la cuál, se tomará la información de luminancia para la
+
+			generación selectiva del efecto
+
+
+		_Offset Channel:
+
+
+			_Liminance:
+
+				_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo de trabajo
+
+				para la generación del sistema, en éste caso será a través, de la luminancia de la
+
+				layer, que hará de proxi, para la generación del sistema
+
+
+			_Alpha Channel:
+
+				_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo de trabajo
+
+				para la generación del sistema, en éste caso será a través, del canal alpha de la
+
+				layer, que hará de proxi, para la generación del sistema
+
+
+			_Red | Green | Blue Channel:
+
+				_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo de trabajo
+
+				para la generación del sistema, en éste caso será a través, de la información de 
+
+				los canales R/G/B, respectivamente de la layer, que hará de proxi, para la 
+
+				generación del sistema
+
+
+				_ésta opción estará disponible sólo cuando la opción de "Offset Layer", esté 
+
+				activada ó se haya seleccionado una layer, de la respectiva composición						-
+
+
+		_Focus:
+
+			_ésta opción nos permitirá indicarle al sistema el umbral de pre-desenfoque el cuál, se
+
+			le aplicará a la imágen que hará de proxi, para la generación del sistema
+
+
+			_ésta opción estará disponible sólo cuando la opción de "Offset Layer", esté activada ó se 
+
+			haya seleccionado una layer, de la respectiva composición		
+
+			
+		
+
+
+
+
+
+
+
