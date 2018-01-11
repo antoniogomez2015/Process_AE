@@ -1,0 +1,463 @@
+
+
+
+
+	http://www.frischluft.com/flair/index.php
+
+
+	
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá 
+
+
+		
+
+
+	Frichluft FL Glow:
+	__________________
+
+
+		_Show:
+
+
+			_Normal:
+
+				_ésta opción nos permitirá indicarle al sistema que éste nos muestre la aplicación
+
+				del efecto sobre la layer, base de manera, normal ó por defecto es efecto
+
+
+			_Selected Footage:
+
+				_ésta opción nos permitirá indicarle al sistema que éste nos muestre la layer, base
+
+				sobre la cuál, se ha aplicado el efecto
+			
+
+			_Selection Only:
+
+				_ésta opción nos permitirá indicarle al sistema que éste nos muestre la sección de
+
+				mapa de liminancia generado a través, de la sección de "Selection"
+
+
+
+		_Radius:
+
+			_ésta opción nos permitirá indicarle al sistema el umbral ó extensión ó capacidad de 
+
+			penetración del efecto generado
+
+
+		_Amount:
+
+			_ésta opción nos permitirá indicarle al sistema la cantidad de efecto aplicado sobre las
+
+			áreas más claras ó brillantes de la imágen base sobre la cuál, hemos aplicado el efecto
+
+
+		_Gamma:
+
+			_ésta opción nos permitirá indicarle al sistema el expectro tonal del efecto de dispersión
+
+			de ésta maenra, podremos restringir el efecto para que éste no se disperse tanto a partir 
+
+			de las áreas más claras y áreas con brillo de la imágen
+
+
+			_de ésta manera, comprimiremos los tonos claros generados por el sistema sobre la imágen
+
+			base, de ésta manera, podremos crear efecto más selectivos y a su vez, potentes y efectivos
+
+
+		_Aspect:
+
+			_ésta opción nos permitirá indicarle al sistema que genere el efecto de forma direccional
+
+			de ésta manera, podremos cambiar el aspecto del pixel generado por el efecto
+
+
+		_Aspect Angle:
+
+			_ésta opción nos permitirá indicarle al sistema el ángulo  direccional del efecto generado
+
+			para que así, podamos indicar un grado ó rotación del efecto generado en relación a los
+
+			requerimientos de producción y paso contínuo
+
+
+		_Glow Mode:
+
+
+			_Standar:
+
+				_ésta opción nos permitirá indicarle al sistema que genere el efecto glow, de forma
+
+				normal ó estandar
+
+	
+			_Angular:
+
+				_ésta opción nos permitirá indicarle al sistema que tome más áreas claras de la 
+
+				imágen base, ampliando así, el especto de aplicación del efecto
+
+
+			_Box:
+
+				_ésta opción nos permitirá indicarle al sistema que sintetize la gamma de los 
+
+				negros de la imágen eliminando éstos de la imágen así, como también, posterizando 
+
+				la imágen base
+
+
+				_lo cuál, nos permnitirá crear un si número de efecto de diferentes procesos de
+
+				producción y paso contínuo
+
+
+			_Abberative:
+
+				_ésta opción nos permitirá indicarle al sistema que genere en las áreas efectadas
+
+				por efecto aberración cromática como efecto colateral al efecto glow
+
+
+				_lo cuál, nos permnitirá crear un si número de efecto de diferentes procesos de
+
+				producción y paso contínuo
+
+
+
+
+		_Blend Mode:
+
+			_ésta opción nos permitirá indicarle al sistema que utilize los modos de fusión nativos
+
+			del sistema así, como también, modos éxtras más complejos 
+
+
+			_lo cuál, nos permitirá crear diferentes efectos de producción y paso contínuo
+
+
+
+		_Selection:
+
+
+			_Enable:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos habilitar las opciones
+
+				de mapa de liminancia a través del cuál, podremos acentuar ciertas áreas para crear
+
+				efectos más resaltados del efecto glow, entre otros efectos colaterales
+
+
+			_Selection Layer:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la layer, de la 
+
+				composición respectiva que hará de proxi, y de la cuál, se extraerá la información
+
+				de luminancia para la generación del sistema
+
+
+			_Lightness:
+
+
+				_Lightness Start:
+
+					_ésta opción nos permitirá indicarle al sistema el umbral de luminancia de
+
+					la imágen en valores dentro de un rango de niveles de "0-255"
+
+
+					_a través, del cuál, determinaremos el rango ó unbral de entrada asignado
+
+					para el mapa de densidad generado
+
+
+				_Lightness End:
+
+					_ésta opción nos permitirá indicarle al sistema el umbral de luminancia de
+
+					la imágen en valores dentro de un rango de niveles de "0-255"
+
+
+					_a través, del cuál, determinaremos el rango ó unbral de salida asignado
+
+					para el mapa de densidad generado
+
+
+				_Lightness Climax:
+
+					_ésta opción nos permitirá indicarle al sistema que aumente el contraste y 
+
+					la acutancia entre los tonos del mapa de densidad generado
+
+
+					_lo que a su vez, determinará si el mapa de densidad tendrá tonos ó será un
+
+					estencil unicolor
+
+
+					_y a su vez, determinará la defición de las formas al compactar los tonos y
+
+					áreas sintetizadas de la imágen lo cuál, permitirá diferentes efectos
+
+
+					NOTA: ésta opción será visible y apreciable cuando el parámetro de 
+
+					"Lightness Soften", tenga algún valor aplicado
+
+
+				_Lightness Soften:
+
+					_ésta opción nos permitirá indicarle al sistema que interpole los tonos del
+
+					map de densidad resultante, de ésta manera, se aumentará la gamma tonal 
+
+					resultante y a su vez, se ampliará la cantidad de forma resultantes, otros
+
+
+				_Lightness Offset:
+
+					_ésta opción nos permitirá indicarle al sistema que haga un desplazamiento
+
+					de la gamma tonal del mapa de densidad resultante
+
+
+					_de ésta manera, podremos correr la gamma tonal hasta conseguir el efecto
+
+					deseado dentro del espectro tonal requerido para lograr así, la densidad
+
+					buscada de formas, otros
+
+
+
+			_Hue:
+
+				
+				_Hue Star:
+
+					_ésta opción nos permitirá indicarle al sistema el nivel de ganancia 
+
+					inicial del rango, en relación al virato de tonos de la imágen utilizada 
+
+					como referencia para que así, a través, de ésta opción influir en el mapa 
+
+					de densidad generado
+
+
+				_Hue End:
+
+					_ésta opción nos permitirá indicarle al sistema el nivel de ganancia 
+
+					final del rango, en relación al virato de tonos de la imágen utilizada 
+
+					como referencia para que así, a través, de ésta opción influir en el mapa 
+
+					de densidad generado
+
+
+				_Hue Climax:
+
+					_ésta opción nos permitirá indicarle al sistema que aumente el contraste y 
+
+					la acutancia entre los tonos del mapa de densidad generado
+
+
+					_lo que a su vez, determinará si el mapa de densidad tendrá tonos ó será un
+
+					estencil unicolor
+
+
+					_y a su vez, determinará la defición de las formas al compactar los tonos y
+
+					áreas sintetizadas de la imágen lo cuál, permitirá diferentes efectos
+
+
+					NOTA: ésta opción será visible y apreciable cuando el parámetro de 
+
+					"Lightness Soften", tenga algún valor aplicado
+
+
+
+				_Hue Soften:
+
+					_ésta opción nos permitirá indicarle al sistema que interpole los tonos del
+
+					map de densidad resultante, de ésta manera, se aumentará la gamma tonal 
+
+					resultante y a su vez, se ampliará la cantidad de forma resultantes, otros
+
+
+
+				_Hue Offset:
+
+					_ésta opción nos permitirá indicarle al sistema que haga un desplazamiento
+
+					de la gamma tonal del mapa de densidad resultante
+
+
+					_de ésta manera, podremos correr la gamma tonal hasta conseguir el efecto
+
+					deseado dentro del espectro tonal requerido para lograr así, la densidad
+
+					buscada de formas, otros
+
+
+
+	
+			_Saturation:
+
+
+				_Saturation Star:
+
+					_ésta opción nos permitirá indicarle al sistema el nivel de ganancia 
+
+					inicial del rango, en relación a la saturación de la imágen utilizada como 
+
+					referencia para que así, a través, de ésta opción influir en el mapa de 
+
+					densidad generado
+
+
+				_Saturation End:
+
+					_ésta opción nos permitirá indicarle al sistema el nivel de ganancia 
+
+					final del rango, en relación a la saturación la imágen utilizada como 
+
+					referencia para que así, a través, de ésta opción influir en el mapa de 
+
+					densidad generado
+
+
+				_Saturation Climax:
+
+					_ésta opción nos permitirá indicarle al sistema que aumente el contraste y 
+
+					la acutancia entre los tonos del mapa de densidad generado
+
+
+					_lo que a su vez, determinará si el mapa de densidad tendrá tonos ó será un
+
+					estencil unicolor
+
+
+					_y a su vez, determinará la defición de las formas al compactar los tonos y
+
+					áreas sintetizadas de la imágen lo cuál, permitirá diferentes efectos
+
+
+					NOTA: ésta opción será visible y apreciable cuando el parámetro de 
+
+					"Lightness Soften", tenga algún valor aplicado
+
+
+
+				_Saturation Soften:
+
+					_ésta opción nos permitirá indicarle al sistema que interpole los tonos del
+
+					map de densidad resultante, de ésta manera, se aumentará la gamma tonal 
+
+					resultante y a su vez, se ampliará la cantidad de forma resultantes, otros
+
+
+
+				_Saturation Offset:
+
+					_ésta opción nos permitirá indicarle al sistema que haga un desplazamiento
+
+					de la saturación del mapa de densidad resultante
+
+
+					_de ésta manera, podremos correr la gamma tonal hasta conseguir el efecto
+
+					deseado dentro del espectro tonal requerido para lograr así, la densidad
+
+					buscada de formas, otros
+
+
+
+		_Channel Control:
+
+
+			_Enable:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos que éste active las
+
+				opciones de ajustes por canal respectivamente
+
+
+				NOTA: ésta opción sólo estará disponible cuando la opción "Show/Normal", esté
+
+				seleccionada
+
+
+			_Red / Green / Blue / Alpha:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos intensificar y virar
+
+				los colores de la imágen base a través, de canales de color independientes como
+
+				también, del canal alpha
+
+
+
+		_Color Bias:
+
+
+			_Enable:
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos que éste active las
+
+				opciones de ajustes de interpolado y suavizado del color del sistema resultante
+
+
+				NOTA: ésta opción sólo estará disponible cuando la opción "Show/Normal", esté
+
+				seleccionada
+
+
+
+			_Hue:
+
+				_ésta opción nos permitirá indicarle al sistema que realize ajustes y virado sobre
+
+				la gamma tonal del sistema resultante
+
+
+			_Saturation:
+
+				_ésta opción nos permitirá indicarle al sistema que realize ajustes y virado sobre
+
+				la saturación tonal del sistema resultante
+
+
+			_Lightness:
+
+				_ésta opción nos permitirá indicarle al sistema que realize ajustes y virado sobre
+
+				la luminancia del sistema resultante
+
+
+
+
+
+
+
+

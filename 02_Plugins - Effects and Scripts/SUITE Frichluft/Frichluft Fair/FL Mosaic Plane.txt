@@ -1,0 +1,220 @@
+
+
+
+
+	http://www.frischluft.com/flair/index.php
+
+
+	
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá 
+
+
+		
+
+
+	Frichluft FL Mosaic Plane:
+	__________________________
+
+
+		_Origin:
+
+			_ésta opción nos permitirá indicarle al sistema el epicentro a partir del cuál, se 
+
+			comenzará ha generar el sistema
+
+
+		_Orientation:
+
+			_ésta opción nos permitirá indicarle al sistema el grado de rotación y orientación del
+
+			sistema generado
+
+
+		_Resolution:
+
+			_ésta opción nos permitirá indicarle al sistema indicarle la escala ó tamaño del sistema
+
+			generado en relación al tamaño del viewport, ó composición respectiva
+
+
+			_de ésta manera, podremos generar una modulación más grande ó más pequeña en relación a
+
+			nuestras necesidades de producción			
+
+
+		_Origin Offset X | Y:
+
+			_ésta opción nos permitirá indicarle al sistema el desplazamiento del sistema modular
+
+			generado sobre la imágen base
+
+
+			_de ésta manera, podremos animar el efecto generado por el sistema en las cordenadas
+
+			X, Y, respectivamente
+
+
+		_Rotation Offset X | Y:
+
+			_ésta opción nos permitirá indicarle al sistema el desplazamiento y rotación del sistema 
+
+			modular generado sobre la imágen base
+
+
+			_de ésta manera, podremos animar el efecto generado por el sistema en las cordenadas
+
+			X, Y, respectivamente
+
+
+
+		_Aspect:
+
+			_ésta opción nos permitirá indicarle al sistema la proporción de la modulación generada
+
+			por el sistema
+
+
+			_de ésta manera, podremos indicar si ésta modulación será cuadrático ó rectangular en una
+
+			porporción determinada por nosotros en relación a las necesidades de producción
+
+
+		_Share axis:
+
+			_ésta opción nos permitirá indicarle al sistema el ángulo de estiramiento de la imágen ó
+
+			del sistema generado
+
+
+			_éste efecto será visible sólo cuando se aplique el parámetro de "Share Strengh"
+
+
+		_Share Strengh:
+
+			_ésta opción nos permitirá indicarle al sistema el grado ó umbral de distorsión sobre el
+
+			sistema generado
+
+
+		_Plane:
+
+			_ésta opción nos permitirá indicarle al sistema el grado de inclinación ó rotación en el
+
+			eje "X", del sistema generado para que así, podamos generar un plano sobre el cuál, 
+
+			podamos crear diferentes efecto de producción y paso contínuo
+
+
+			_ya que con éste plano haremos que el efecto cobre un aspecto y propiedades 3d
+
+
+		_Z Axis:
+
+			_ésta opción nos permitirá indicarle al sistema el grado de inclinación ó rotación en el
+
+			eje "Y", del sistema generado
+
+
+		_Antialis:
+
+			_ésta opción nos permitirá indicarle al sistema la cantidad de suavizado aplicado sobre
+
+			los bordes generados por el sistema generado y en los diferentes cambios de acutancia 
+
+			entre los diferentes tonos y maticez generados
+
+
+		_Offset Layer:
+
+
+			_Offset Layer:
+
+
+				_ésta opción nos permitirá indicarle al sistema una layer, de la composición
+
+				respectiva la cuál, hará de proxi, para el desplazamiento y distorsión del sistema
+
+				generado
+
+
+				_es recomendable que la layer, contenga una información geométrica y ordenada 
+
+				para que así, la distorsión obtenida sobre el sistema no sea profusa y aleatoria
+
+
+			_Alter:
+
+
+				_Size:
+
+					_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo
+
+					para el desplazamiento y distorsión genera por la layer "Offset Layer"
+
+					
+					_en éste caso el efecto se generará a través, de las diferencia de tamaño
+
+					de los elementos contenidos ó identificados en la imágen proxi
+
+
+				_Rotation:
+
+					_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo
+
+					para el desplazamiento y distorsión genera por la layer "Offset Layer"
+
+					
+					_en éste caso el efecto se generará a través, de la rotación de los 
+
+					elementos contenidos ó identificados en la imágen proxi
+
+				
+				_Plane:
+
+					_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo
+
+					para el desplazamiento y distorsión genera por la layer "Offset Layer"
+
+					
+					_en éste caso el efecto se generará a través, de la yuxtaposición de los 
+
+					elementos contenidos ó identificados en la imágen proxi
+
+
+				_Axis:
+
+					_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo
+
+					para el desplazamiento y distorsión genera por la layer "Offset Layer"
+
+					
+					_en éste caso el efecto se generará a través, de la del cambio de las
+
+					cordenadas de los elementos contenidos ó identificados en la imágen proxi
+
+
+
+
+			_Offset Scale:
+
+				_ésta opción nos permitirá indicarle al sistema el umbral de desplazamiento y 
+
+				distorsión de las opciones de "Offset Layer"
+
+
+
+
+
+
+

@@ -57,6 +57,43 @@ Official Site: http://www.frischluft.com/frischluft/index.php
 
 
 
+	------------------------------------------------------------------------------------------------------------------
+
+	Frichluft FL Mosaic Plane:
+	__________________________
+
+
+	_este efecto nos permitirá crear efectos de enborronado por pixeleación también conocidos como efecto de 
+
+	mosaico
+
+
+	_así, como para la generación de texturas, módulos y supermódulos entre otras posibilidades de producción 
+
+	y paso contínuo
+
+
+
+
+	------------------------------------------------------------------------------------------------------------------
+
+	Frichluft FL Glow:
+	__________________
+
+
+	_este efecto nos permitirá crear efecto de glow, y diferentes efectos de producción y paso contínuo como 
+
+	también, para la generación de mattes, y mapas de diferentes tipos entre otras muchas funciones de 
+
+	producción y paso contínuo
+
+
+
+
+
+
+
+
 
 
 

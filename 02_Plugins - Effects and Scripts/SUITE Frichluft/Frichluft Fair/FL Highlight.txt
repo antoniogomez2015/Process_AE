@@ -1,0 +1,75 @@
+
+
+
+
+	http://www.frischluft.com/flair/index.php
+
+
+	
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá 
+
+
+		
+
+
+	Frichluft FL Highlight:
+	_______________________
+
+
+		_Show:
+
+			_
+
+
+		_Radius:
+
+			_
+
+
+		_Amount:
+
+			_
+
+
+		_Gamma:
+
+			_
+
+
+		_Streak Count:
+
+			_
+
+
+		_Angle:
+
+			_
+
+
+		_Blend Mode:
+
+			_
+
+
+		_Selection:
+
+
+			_
+
+
+
+
+
+
+
