@@ -1,0 +1,342 @@
+
+
+
+
+	http://www.frischluft.com/flair/index.php
+
+
+	
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá
+
+
+		
+
+
+	Frichluft FL Depth Of Field:
+	____________________________
+
+
+
+		_Show:
+
+
+			_Normal Blur:
+
+				_
+
+
+			_Iris:
+
+				_
+
+
+			_Depth-Buffer:
+
+				_
+
+
+			_Highlight, Selection:
+
+				_
+
+
+			_Highlight, Selection Only:
+
+				_
+
+
+			_Info Density:
+
+				_
+
+
+			_Sharp Zone:
+
+				_
+
+
+
+		_Depth Layer:
+
+			_
+
+
+		_Depth Layer:
+
+			_
+
+
+		_Focal Point:
+
+			_
+
+
+		_Select Depth:
+
+			_
+
+
+		_Highlight Intensity:
+
+			_
+
+
+		_Gamma Correction:
+
+			_
+
+
+
+		_Depth Buffer:
+
+
+			_Invert:
+
+				_
+
+
+			_Curve:
+
+				_
+
+
+			_Take Depth From:
+
+
+				_Luminance:
+
+					_
+
+
+				_Alpha Channel:
+
+					_
+
+
+				_Red / Green / Blue Channel:
+
+					_
+
+
+			_Black Point:
+
+				_
+
+
+			_White Point:
+
+				_
+
+
+			_Auto Range:
+
+				_
+
+
+
+		_Iris:
+
+
+			_Facets:
+
+				_
+
+
+			_Angle:
+
+				_
+
+
+			_Rounded Facets:
+
+				_
+
+
+			_Relative Border Brightness:
+
+				_
+
+
+			_Border Thickness:
+
+				_
+
+
+			_X-Y Aspect:
+
+				_
+
+
+
+		_Highlight Selection:
+
+
+			_Enable:
+
+				_
+
+
+			_Alternative Selection Layer:
+
+				_
+
+
+			_Lightness:
+
+
+				_Lightness Start:
+
+					_
+
+
+				_Lightness End:
+
+					_
+
+
+				_Lightness Climax:
+
+					_
+
+
+				_Lightness Softness:
+
+					_
+
+
+				_Lightness Offset:
+
+					_
+
+
+			_Hue:
+
+			
+				_Hue Start:
+
+					_
+
+			
+				_Hue End:
+
+					_
+
+
+				_Hue Climax:
+
+					_
+
+
+				_Hue Softness:
+
+					_
+
+
+				_Hue Offset:
+
+					_
+
+
+
+			_Saturation:
+
+
+				_Saturation Start:
+
+					_
+
+
+				_Saturation End:
+
+					_
+
+
+				_Saturation Climax:
+
+					_
+
+
+				_Saturation Softness:
+
+					_
+
+
+				_Saturation Softness:
+
+					_
+
+
+
+			_Outside Image:
+
+				
+				_Horizontal Assume:
+
+
+					_Border Color:
+
+						_
+
+		
+					_Mirrored Image:
+
+						_
+
+
+					_Repeated Image:
+
+						_
+
+
+					_Color:
+
+						_
+
+
+
+				_Vertical Assume:
+
+
+					_Border Color:
+
+						_
+
+		
+					_Mirrored Image:
+
+						_
+
+
+					_Repeated Image:
+
+						_
+
+
+					_Color:
+
+						_
+
+
+				_Outside Color Alpha:
+
+					_
+
+
+			
+			
+
+
+
+
+

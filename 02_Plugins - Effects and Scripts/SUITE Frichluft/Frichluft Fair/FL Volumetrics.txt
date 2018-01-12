@@ -17,21 +17,20 @@
 	________________
 
 
-		_este efecto nos permitirá crear resaltados de las altas luces de una imágen sumado el efecto de
+		_este efecto nos permitirá crear el efecto de Zomm Light / Blur, así, como también, para generar
 
-		dispersión de luz ó glow
+		diferentes efectos de producción y paso contínuo
 
 
-		_así, como también, para la generación diferentes efectos de producción y paso contínuo y 
+		_éste efecto es más eficáz e intenso que el efecto "FL Radial Blur", para la generación de efectos
 
-		composición
-
+		volumétricos de luz, otros
 
 		
 
 
-	Frichluft FL Highlight:
-	_______________________
+	Frichluft FL Volumetrics:
+	_________________________
 
 
 		_Show:
@@ -43,13 +42,29 @@
 				de manera normal
 
 
+				_como también, usar el modo "Selection", para la generación de mapas de densidad 
+
+				auxiliares en el efecto "FL Radial Blur", creará a su vez, una mezcla ó fusión 
+			
+				entre ambas layers
+
+			
+				_de ésta manera, la layer, sobre la cuál, se ha aplicado el efecto se convertirá 
+
+				en rayos ó estelas despedidas 
+
+
+				_y la layer, auxiliar hará de fondo en el cuál, se integrarán los rayos generados 
+
+				a paritr de la layer, original sobre la cuál, se aplicó el efecto
+
+
+
 			_Selected Footage:
 
-				_ésta opción nos permitirá indicarle al sistema que muestre la layer, que hemos
+				_ésta opción nos permitirá indicarle al sistema que muestre la layer, sobre la 
 
-				utilizado como proxi, para la generación del mapa de densidad alternativo para
-
-				la generación del sistema
+				cuál, hemos aplicado el efecto
 
 
 			_Selection Only:
@@ -60,70 +75,73 @@
 
 
 
+		_Origin:
+
+			_ésta opción nos permitirá indicarle al sistema el epicentro a partir del cuál, se 
+
+			comenzará ha generar el sistema el cuál, también, podremos animar a través, del tiempo
+
+
+		_Intensity:
+
+			_ésta opción nos permitirá indicarle al sistema la fuerza de los rayos generados así, como
+
+			también, de la cantidad de área efectada por la distorsión de los rayos generados por el
+
+			sistema
+
+
+		_Ray Length:
+
+			_ésta opción nos permitirá indicarle al sistema la longitud de los rayos generado por el
+
+			sistema, de ésta manera, podremos crear diferentes efectos controlando la longitud de los
+
+			rayos generados por el sistema
+
+
 		_Radius:
 
-			_ésta opción nos permitirá indicarle al sistema el umbral ó extensión del efecto más allá
+			_ésta opción nos permitirá indicarle al sistema la amplitud ó dispersión de la luminancia
 
-			de las áreas de la imágen base más blancas, claras ó brillantes
+			del efecto sobre la layer, base de ésta manera, el efecto será más invasivo y será más
 
-
-			_de ésta manera, podremos hacer que el efecto de glow, de extienda generando así, una 
-
-			atmósfera más envolvente
+			notable
 
 
-		_Amount:
+		_Contrast:
 
-			_ésta opción nos permitirá indicarle al sistema la cantidad de glow, sobre las áreas de la
+			_ésta opción nos permitirá indicarle al sistema que agrege valores de luminancia sobre el
 
-			imágen más blancas, claras ó brillantes lo cuál, nos permitirá intensificar el efecto
+			sistema generado lo cuál, hará que la imágen en general vaya ganando pasos de F-Stop, 
+
+			velando así, toda la imágen
 
 
 		_Gamma:
 
-			_ésta opción nos permitirá indicarle al sistema que comprima ó extienda los tonos de las
+			_ésta opción nos permitirá indicarle al sistema que aumente los niveles de la luminancia
 
-			áreas afectadas y las áreas no efectadas 
+			del efecto generado para que así, el efecto cobre más fuerza e intensidad
 
+		
 
-			_de ésta manera, podremos crear un efecto con más ó menos contraste ó acutancia, con más 
+		_Mode:
 
-			ó menos transición entre las áreas más luminosas y las áreas menos luminosas ó en 
+			_Straight:
 
-			penumbras
+				_ésta opción nos permitirá indicarle al sistema que genere el sistema de rayos de
 
-
-			_de ésta manera, podremos crear efectos colaterales como posteriozaciones, mapas, como
-
-			también, diferentes efectos de producción y paso contínuo
+				forma bien definidos y con una acutancia bien marcada entre rayos
 
 
-		_Streak Count:
+			_Smooth:
 
-			_ésta opción nos permitirá indicarle al sistema la concentración y cantidad de rayos para
+				_ésta opción nos permitirá indicarle al sistema que genere los rayos de forma
 
-			la generación del sistema
+				interpolada ó suavizada, de ésta forma podremos crear un efecto más integrado 
 
-
-			_de ésta manera, con valores superiores ha "7", el la dispersión de rayos será homogénea
-
-			más con valores inferiores ha "7", llegando ha "1", los rayos podrán concentrarse hasta
-
-			un sólo rayo 
-
-
-			_lo cuál, permitirá la direccionalidad de los rayos y del efecto lo cuál, a su vez, le 
-
-			brindará la posibilidad de acción a la propiedad de "Angle"
-
-
-		_Angle:
-
-			_ésta opción nos permitirá indicarle al sistema la dirección de los rayos y del efecto en
-
-			general, para lo cuál, la propiead de "Streak Count", tendrá que tener un valor de entre
-
-			"1-7"
+				ó disfuminado
 
 
 		_Blend Mode:
@@ -133,6 +151,47 @@
 			nativos de la aplicación así, como también, otros modos de fusión para producción y otros
 
 			efectos de paso contínuo y composición
+
+
+		_Light Color:
+
+			_Low Color:
+
+				_ésta opción nos permitirá indicarle al sistema un color personalizado para la luz
+
+				ambiente generada por el sistema la cuál, teñirá toda la imágen en general
+
+	
+				_para lo cuál, dispondremos de un picker, y un selector de color a través, del
+
+				cuál, podremos indicar un color personalizado
+
+
+			_High Color:
+
+				_ésta opción nos permitirá indicarle al sistema un color personalizado para la luz
+
+				de la raíz del efecto generada por el sistema la cuál, parte de la base de los
+
+				rayos generados sobre la imágen en general 
+
+	
+				_para lo cuál, dispondremos de un picker, y un selector de color a través, del
+
+				cuál, podremos indicar un color personalizado
+
+
+			_Color Balance:
+
+				_ésta opción nos permitirá indicarle al sistema que fusiones el color de la base
+
+				ó raíz del efecto con el color ambiente
+
+
+				_de ésta manera, podremos crear un sistema de eluminación y del efecto más 
+
+				integrado y fusionado en su totalidad
+
 
 
 		_Selection:

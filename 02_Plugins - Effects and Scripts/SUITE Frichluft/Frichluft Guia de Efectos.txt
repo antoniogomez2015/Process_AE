@@ -8,6 +8,12 @@ Official Site: http://www.frischluft.com/frischluft/index.php
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	Frichluft Fair Suite:
+
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 	------------------------------------------------------------------------------------------------------------------
 
@@ -86,6 +92,139 @@ Official Site: http://www.frischluft.com/frischluft/index.php
 	también, para la generación de mattes, y mapas de diferentes tipos entre otras muchas funciones de 
 
 	producción y paso contínuo
+
+
+
+	------------------------------------------------------------------------------------------------------------------
+
+	Frichluft FL Highlight:
+	_______________________
+
+
+	_este efecto nos permitirá crear resaltados de las altas luces de una imágen sumado el efecto de
+
+	dispersión de luz ó glow
+
+
+	_así, como también, para la generación diferentes efectos de producción y paso contínuo y composición
+
+
+
+	------------------------------------------------------------------------------------------------------------------
+
+	Frichluft FL Radial BLur:
+	_________________________
+
+	
+	_este efecto nos permitirá crear el efecto zoom light / blur, a través, de los cuáles, podremos crear 
+
+	diferentes efectos de luz y desenfoques para diferentes aplicaciones dentro de la producción y efectos 
+
+	de paso contínuo
+
+
+
+
+	------------------------------------------------------------------------------------------------------------------
+
+	Frichluft FL Volumetrics:
+	_________________________
+
+
+	_este efecto nos permitirá crear el efecto de Zomm Light / Blur, así, como también, para generar 
+
+	diferentes efectos de producción y paso contínuo
+
+
+	_éste efecto es más eficáz e intenso que el efecto "FL Radial Blur", para la generación de efectos
+
+	volumétricos de luz, otros
+
+
+
+
+
+
+
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	Frichluft Fresh Curve Suite:
+
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	------------------------------------------------------------------------------------------------------------------
+
+	Frichluft FL Curves - Relative:
+	_______________________________
+
+
+	_este efecto nos permitirá hacer correcciones y ajustes de diferenes valores y propiedades de una layer, 
+
+	ó imágen
+
+
+	_a través, de una gráfica multibandas totalmente editable y ajustable a nuestras necesidades de producción
+
+	y estándares de edición
+
+
+	_lo cuál, es especialmente útil para la edición de niveles de la imágen como también, para el ajuste y 
+
+	corrección del color
+
+
+	_como también, para la creación de material de producción y paso contínuo como por ejemplo para la 
+
+	creación de mapas de densidad, mapas de luminancia, bumps, otros
+
+
+
+
+
+	------------------------------------------------------------------------------------------------------------------
+
+	Frichluft FL Curves - Relative:
+	_______________________________
+
+
+	_este efecto nos permitirá hacer correcciones y ajustes de diferenes valores y propiedades de una layer, 
+
+	ó imágen
+
+
+	_a través, de una gráfica multibandas totalmente editable y ajustable a nuestras necesidades de producción
+
+	y estándares de edición
+
+
+	_lo cuál, es especialmente útil para la edición de niveles de la imágen como también, para el ajuste
+
+	y corrección del color
+
+	
+
+
+
+
+
+
+
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	Frichluft Lenscare Suite:
+
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	------------------------------------------------------------------------------------------------------------------
+
+	Frichluft FL Curves - Relative:
+	_______________________________
+
+	
+	_
+
 
 
 

@@ -1,0 +1,270 @@
+
+
+
+
+	http://www.frischluft.com/flair/index.php
+
+
+	
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá hacer correcciones y ajustes de diferenes valores y propiedades de una
+
+		layer, ó imágen
+
+
+		_a través, de una gráfica multibandas totalmente editable y ajustable a nuestras necesidades de
+
+		producción y estándares de edición
+
+
+		_lo cuál, es especialmente útil para la edición de niveles de la imágen como también, para el ajuste
+
+		y corrección del color
+
+
+		
+
+
+	Frichluft FL Curves - Relative:
+	_______________________________
+
+
+		_Channel:
+
+
+			_Brightness:
+
+				_ésta opción nos permitirá indicarle al sistema que ajuste ó cambie los valores 
+
+				específicamente en éste caso de los brillos de la imágen
+
+
+			_Saturation:
+
+				_ésta opción nos permitirá indicarle al sistema que ajuste ó cambie los valores 
+
+				específicamente en éste caso de la saturación de la imágen
+
+
+			_Hue:
+
+				_ésta opción nos permitirá indicarle al sistema que ajuste ó cambie los valores 
+
+				específicamente en éste caso que hara virados de los maticez de la imágen
+
+
+			_RGB:
+
+				_ésta opción nos permitirá indicarle al sistema que ajuste ó cambie los valores 
+
+				específicamente en éste caso a través, de los colores globales de la imágen
+
+
+			_Red / Green / Blue:
+
+				_ésta opción nos permitirá indicarle al sistema que ajuste ó cambie los valores 
+
+				específicamente en éste caso en cualquiera de los canales de color de la imágen
+
+
+				_como por ejemplo, de los canales rojo, verde y azul respectivamente en relación
+
+				a nuestras necesidades de producción de realizar ajustes selectivos por canal
+
+
+			_Alpha:
+
+				_ésta opción nos permitirá indicarle al sistema que ajuste ó cambie los valores 
+
+				específicamente en éste caso del canal alpha, de la imágen
+
+
+			
+
+		_Curve:
+
+			_ésta opción nos permitirá indicarle al sistema a través, de una gráfica la curva del umbral
+
+			ha aplicar para la generación del efecto deseado, en relación a los cambios que vayamos 
+
+			visualizando en el viewport, en panel compositing
+
+
+		_Scale:
+
+
+			_Decimal (0.0-1.0):
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos que éste genere la 
+
+				curva de ajuste a través, de una escala que vaya a partir de la esquina inferior
+
+				izquierda hacia el eje "X", y el eje "Y", de "0", ha "1"
+
+
+			_8-bpc (0-255):
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos que éste genere la 
+
+				curva de ajuste a través, de una escala que vaya a partir de la esquina inferior
+
+				izquierda hacia el eje "X", y el eje "Y", de "0", ha "255"
+
+
+				_ésta opción es más detallada y hace símil con los valores de luminancia de la
+
+				imágen que también, se manejan en valores entro de un rango de "0-255"
+
+
+
+			_10-bpc (0-1023):
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos que éste genere la 
+
+				curva de ajuste a través, de una escala que vaya a partir de la esquina inferior
+
+				izquierda hacia el eje "X", y el eje "Y", de "0", ha "1023"
+
+
+				_entre mayor sea el número de la escala hace que la curva sea más específica y 
+
+				ajustable para parámetros mínimos a través, de los controles manuales en el panel 
+
+				effects controls, y no a través, de la gráfica directamente
+
+
+
+			_16 bpc (0-32768):
+
+				_ésta opción nos permitirá indicarle al sistema que deseamos que éste genere la 
+
+				curva de ajuste a través, de una escala que vaya a partir de la esquina inferior
+
+				izquierda hacia el eje "X", y el eje "Y", de "0", ha "32768" 
+
+
+				_ó punto flotante lo que hace ésta curva más específica y ajustable para ajustes 
+
+				mínimos a través, de los controles manuales en el panel effects controls, y no a 
+
+				través, de la gráfica directamente
+
+
+		_Node X (Input):
+
+			_ésta opción nos permitirá indicarle al sistema que mueva el nodo ó vextex, seleccionado
+
+			de la curva generado en relación a la escala indicada en el parámetro de "Scale"
+
+
+			_de ésta manera, para la escala "Decimal (0.0-1.0)", la escala se realizará de "0", ha "1",
+
+			lo que nos indica es que entonces podremos mover el valor del nodo en éste caso en el eje
+
+			"X", de "0", que equivaldría ha al borde izquierdo del gráfico de curvas, y "1", equivaldría
+
+			al borde derecho del gráfico de curvas
+
+
+			_de ésta manera, a través, de valores intermedios podremos hacer ajustes específicos y 
+
+			a medida y totalmente replicables en otros gráficos de curvas
+
+
+			NOTA: ésta opción estará activa sólo cuando existan nodos ó vertex, creados sobre la curva
+
+			generada en la gráfica de curvas así, como también, cuando tengamos uno de esos respectivos
+
+			nodos seleccionados
+
+
+		_Node Y (Input):
+
+			_ésta opción nos permitirá indicarle al sistema que mueva el nodo ó vextex, seleccionado
+
+			de la curva generado en relación a la escala indicada en el parámetro de "Scale"
+
+
+			_de ésta manera, para la escala "Decimal (0.0-1.0)", la escala se realizará de "0", ha "1",
+
+			lo que nos indica es que entonces podremos mover el valor del nodo en éste caso en el eje
+
+			"Y", de "0", que equivaldría ha al borde inferior del gráfico de curvas, y "1", equivaldría
+
+			al borde superior del gráfico de curvas
+
+
+			_de ésta manera, a través, de valores intermedios podremos hacer ajustes específicos y 
+
+			a medida y totalmente replicables en otros gráficos de curvas
+
+
+			NOTA: ésta opción estará activa sólo cuando existan nodos ó vertex, creados sobre la curva
+
+			generada en la gráfica de curvas así, como también, cuando tengamos uno de esos respectivos
+
+			nodos seleccionados
+
+
+		_Select Node X (Input):
+
+			_ésta opción nos permitirá indicarle al sistema un tono de la gamma tonal para un nodo
+
+			determinado que esté seleccionado 
+
+
+			_y a su vez, el sistema nos estará mostrando el tono actual en gris que representa el nodo 
+
+			seleccionado dentro del gráfico de curvas
+
+
+			_de ésta manera, a través, de un picker, ó selector de color podremos indicarle al sistema
+
+			un tono determinado para que así, el nodo salte hasta la ubicación respectiva al tono que
+
+			le hemos indicado de foma manual y a su vez, específica
+
+
+
+		_Select Node Y (Input):
+
+			_ésta opción nos permitirá indicarle al sistema un tono de la gamma tonal para un nodo
+
+			determinado que esté seleccionado 
+
+
+			_y a su vez, el sistema nos estará mostrando el tono actual en gris que representa el nodo 
+
+			seleccionado dentro del gráfico de curvas
+
+
+			_de ésta manera, a través, de un picker, ó selector de color podremos indicarle al sistema
+
+			un tono determinado para que así, el nodo salte hasta la ubicación respectiva al tono que
+
+			le hemos indicado de foma manual y a su vez, específica
+
+
+
+		_Invert All:
+
+			_ésta opcion nos permitirá indicarle al sistema que invirta el gráfico de curvas generado
+
+			para que así, los valores de niveles y demás parámetros sean invertido automáticamente
+
+			
+
+
+
+
+

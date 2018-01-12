@@ -17,20 +17,16 @@
 	________________
 
 
-		_este efecto nos permitirá crear resaltados de las altas luces de una imágen sumado el efecto de
+		_este efecto nos permitirá crear el efecto zoom light / blur, a través, de los cuáles, podremos
 
-		dispersión de luz ó glow
+		crear diferentes efectos de luz y desenfoques para diferentes aplicaciones dentro de la producción
 
-
-		_así, como también, para la generación diferentes efectos de producción y paso contínuo y 
-
-		composición
-
+		y efectos de paso contínuo
 
 		
 
 
-	Frichluft FL Highlight:
+	Frichluft FL Radial BLur:
 	_______________________
 
 
@@ -43,13 +39,28 @@
 				de manera normal
 
 
+				_como también, usar el modo "Selection", para la generación de mapas de densidad 
+
+				auxiliares en el efecto "FL Radial Blur", creará a su vez, una mezcla ó fusión 
+			
+				entre ambas layers
+
+			
+				_de ésta manera, la layer, sobre la cuál, se ha aplicado el efecto se convertirá 
+
+				en rayos ó estelas despedidas 
+
+
+				_y la layer, auxiliar hará de fondo en el cuál, se integrarán los rayos generados 
+
+				a paritr de la layer, original sobre la cuál, se aplicó el efecto
+
+
 			_Selected Footage:
 
-				_ésta opción nos permitirá indicarle al sistema que muestre la layer, que hemos
+				_ésta opción nos permitirá indicarle al sistema que muestre la layer, sobre la 
 
-				utilizado como proxi, para la generación del mapa de densidad alternativo para
-
-				la generación del sistema
+				cuál, hemos aplicado el efecto
 
 
 			_Selection Only:
@@ -60,23 +71,83 @@
 
 
 
-		_Radius:
+		_Origin:
 
-			_ésta opción nos permitirá indicarle al sistema el umbral ó extensión del efecto más allá
+			_ésta opción nos permitirá indicarle al sistema el epicentro a partir del cuál, se 
 
-			de las áreas de la imágen base más blancas, claras ó brillantes
-
-
-			_de ésta manera, podremos hacer que el efecto de glow, de extienda generando así, una 
-
-			atmósfera más envolvente
+			comenzará ha generar el sistema el cuál, también, podremos animar a través, del tiempo
 
 
-		_Amount:
+		_Intensity:
 
-			_ésta opción nos permitirá indicarle al sistema la cantidad de glow, sobre las áreas de la
+			_ésta opción nos permitirá indicarle al sistema la fuerza de los rayos generados así, como
 
-			imágen más blancas, claras ó brillantes lo cuál, nos permitirá intensificar el efecto
+			también, de la cantidad de área efectada por la distorsión de los rayos generados por el
+
+			sistema
+
+
+		_Strengh:
+
+			_ésta opción nos permitirá indicarle al sistema la longitud de los rayos generados por el
+
+			sistema lo que nos permitirá a su vez, controlar el comportamiento del sistema en relación
+
+			a nuestras necesidades de producción
+
+
+		_Start:
+
+			_ésta opción nos permitirá indicarle al sistema el punto de inicio ó repliegación para la 
+
+			generación del sistema 
+
+
+			_éste valor estará superditado por el valor de "Holdout Radius", ya que éste valor 
+
+			indicará la relación ó alcance del efecto sobre un área determinado 
+
+
+			_y a su vez, por el epicentro a partir del cuál, se generará el sistema
+
+
+			_de ésta manera, éstas características nos permitirán crear diferentes efectos colaterales
+
+			como radios perimetrales, disorsiones periféricas, entre otros efectos de producción y
+
+			paso contínuo
+
+
+			_así, con valores altos mayores ha "1-10", el efecto se cerrará hasta el área perimetral
+
+			mínima y, con valores cercanos ha "0-0.5", los rayos se expanderá a partir del epicentro
+
+			hacia afuera generando el efecto zoom light blur
+
+
+		_Holdout Radius:
+
+			_ésta opción nos permitirá indicarle al sistema el radio de acción mínimo a partir del
+			
+			cuál, se podrá comenzar ha generar el efecto
+
+
+			_de ésta manera, podremos hacer que el efecto mantenga un área mínima intacta al rededor
+
+			del epicentro a partir del cuál, se generará el efecto
+
+
+			_en relación a nuestras necesidades de producción y paso contínuo, otros
+
+
+
+		_Contrast:
+
+			_ésta opción nos permitirá indicarle al sistema que agrege valores de luminancia sobre el
+
+			sistema generado lo cuál, hará que la imágen en general vaya ganando pasos de F-Stop, 
+
+			velando así, toda la imágen
 
 
 		_Gamma:
@@ -86,44 +157,70 @@
 			áreas afectadas y las áreas no efectadas 
 
 
-			_de ésta manera, podremos crear un efecto con más ó menos contraste ó acutancia, con más 
+			_de ésta manera, podremos hacer que el sistema genera se oscurezca indicando valores 
 
-			ó menos transición entre las áreas más luminosas y las áreas menos luminosas ó en 
-
-			penumbras
+			cercanos demtro del rango de "0-1"
 
 
-			_de ésta manera, podremos crear efectos colaterales como posteriozaciones, mapas, como
+			_más con valores superiores ha "1", el sistema comenzará a subir de valores de "F-Stop",
 
-			también, diferentes efectos de producción y paso contínuo
-
-
-		_Streak Count:
-
-			_ésta opción nos permitirá indicarle al sistema la concentración y cantidad de rayos para
-
-			la generación del sistema
+			velando así, el sistema generado
 
 
-			_de ésta manera, con valores superiores ha "7", el la dispersión de rayos será homogénea
+		_Gamma Correction:
 
-			más con valores inferiores ha "7", llegando ha "1", los rayos podrán concentrarse hasta
+			_ésta opción nos permitirá indicarle al sistema igualar los tonos de la imágen en relación
 
-			un sólo rayo 
-
-
-			_lo cuál, permitirá la direccionalidad de los rayos y del efecto lo cuál, a su vez, le 
-
-			brindará la posibilidad de acción a la propiedad de "Angle"
+			a los valores colocados en "Gamma", del parámetro anterior 
 
 
-		_Angle:
+			_de ésta manera, ésta opción tratará de igual los tonos de blanco homogenizando los mismos
 
-			_ésta opción nos permitirá indicarle al sistema la dirección de los rayos y del efecto en
+		
 
-			general, para lo cuál, la propiead de "Streak Count", tendrá que tener un valor de entre
+		_Mode:
 
-			"1-7"
+			_Normal:
+
+				_ésta opción nos permitirá indicarle al sistema que genere el sistema de rayos de
+
+				manera normal ó convencional
+
+
+			_Abberative:
+
+				_ésta opción nos permitirá indicarle al sistema de manera que genere los rayos de
+
+				forma normal ó convencional más la inclusión de la generación de aberración 
+
+				cromática
+
+
+				_lo cuál, nos permitirá generar múltiples efectos de producción y paso contínuo
+
+				y de composición
+
+
+		_Invert Gradient:
+
+			_ésta opción nos permitirá indicarle al sistema que inverta el mapa de densidad auto
+
+			generado para la generación del efecto de aberración cromática
+
+
+			_de ésta manera, los colores virados en las estelas de aberración cromática generada 
+
+			serán invertirdos 
+
+
+			_de ésta manera, tendremos una alternativa de configuración para la aberración cromática 
+
+			generada por el sistema
+
+
+			NOTA: ésta opción sólo estará disponible cuando el parámetro de "Mode/Abberative", esté
+
+			seleccionado
 
 
 		_Blend Mode:
@@ -133,6 +230,47 @@
 			nativos de la aplicación así, como también, otros modos de fusión para producción y otros
 
 			efectos de paso contínuo y composición
+
+
+		_Light Color:
+
+			_Low Color:
+
+				_ésta opción nos permitirá indicarle al sistema un color personalizado para la luz
+
+				ambiente generada por el sistema la cuál, teñirá toda la imágen en general
+
+	
+				_para lo cuál, dispondremos de un picker, y un selector de color a través, del
+
+				cuál, podremos indicar un color personalizado
+
+
+			_High Color:
+
+				_ésta opción nos permitirá indicarle al sistema un color personalizado para la luz
+
+				de la raíz del efecto generada por el sistema la cuál, parte de la base de los
+
+				rayos generados sobre la imágen en general 
+
+	
+				_para lo cuál, dispondremos de un picker, y un selector de color a través, del
+
+				cuál, podremos indicar un color personalizado
+
+
+			_Color Balance:
+
+				_ésta opción nos permitirá indicarle al sistema que fusiones el color de la base
+
+				ó raíz del efecto con el color ambiente
+
+
+				_de ésta manera, podremos crear un sistema de eluminación y del efecto más 
+
+				integrado y fusionado en su totalidad
+
 
 
 		_Selection:
