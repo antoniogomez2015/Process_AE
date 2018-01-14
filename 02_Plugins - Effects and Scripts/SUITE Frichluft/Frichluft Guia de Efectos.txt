@@ -219,11 +219,62 @@ Official Site: http://www.frischluft.com/frischluft/index.php
 
 	------------------------------------------------------------------------------------------------------------------
 
-	Frichluft FL Curves - Relative:
-	_______________________________
+	Frichluft FL Depth Of Field:
+	____________________________
 
 	
-	_
+	_este efecto nos permitirá generar defencoque de cámara ó de óptica fotográfica lo cuál, nos permitirá 
+
+	agregar realismo a una escena ya que ésta opción nos permitirá emular una óptica fotografica con 
+
+	profundidad de campo
+
+
+
+
+	------------------------------------------------------------------------------------------------------------------
+
+	Frichluft FL Out Of Focus:
+	__________________________
+
+
+	_este efecto nos permitirá efectos de desenfoques ha modo de rackfocus, ó desenfoque de cámaras reales 
+
+	sobre un fondo ó plano
+
+
+	_de ésta manera, podremos crear desenfoques de cámraras más realistas en los cuáles, se emule el diafragma
+
+	del objetivo, el bokeh, en las altas luces a través, de mapas de densidad personalizados
+
+
+	_entre otros controles que nos permitirán crear diferentes efectos de producción y paso contínuo		
+
+
+
+
+
+
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	Frichluft Taronites Suite:
+
+	//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	------------------------------------------------------------------------------------------------------------------
+
+	Frichluft Normalize:
+	____________________
+
+	
+	_este efecto nos permitirá generar ó emular de forma personalizada mapa de normal map ó bump map
+
+
+	_para que así, podamos utilizar éstos mapas simulados en diferentes procesos de producción y paso contínuo
+
+
+
 
 
 

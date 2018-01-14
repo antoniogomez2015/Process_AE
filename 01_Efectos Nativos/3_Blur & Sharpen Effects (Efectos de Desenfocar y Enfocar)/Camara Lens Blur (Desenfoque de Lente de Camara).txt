@@ -33,7 +33,7 @@
 
 	_así, como también, podremos utilizar layers, editadas y compuestas directamente en after effects, las
 
-	cuáles, deben de ser precompuestas para su correcta implementación
+	cuáles, deben de ser pre compuestas para su correcta implementación
 
 
 	_más también, podremos utilizar mapas de depth map, y depth field, creados en aplicaciones 3d, otros
@@ -54,7 +54,7 @@
 		utilizaremos posteriormente como mapa de desenfoque en el efecto de "Cama Lens Blur"
 
 
-	_ó incluso podríamos emular éste efecto crear una composición por a parte en la cuál, a través, de
+	_ó incluso podríamos emular éste efecto y crear una composición por a parte en la cuál, a través, de
 
 	layers, de tipo shape, crear formas en el sentido del desenfoque y a las cuáles, debemos aplicarles
 
@@ -75,6 +75,7 @@
 	Camara Lens Blur: (Desenfoque de Lente de Camara)
 	_________________
 
+
 	_Blur Radius:
 
 		_éste valor nos permitirá indicar la cantidad de desenfoque ha aplicar
@@ -93,22 +94,26 @@
 
 		_Roundness:
 
-			_ésta opción puede conseguir un desenfoque más suave ó más cremoso
+			_ésta opción puede conseguir un desenfoque más ó menos suave ó más cremoso
 
 
 		_Aspect Ratio:
 
-			_ésta opción nos permitirá conseguir un efecto de pseudo-directionamiento del 
+			_ésta opción nos permitirá conseguir un efecto de desenfoque pseudo direcionado de 
 
-			desenfoque conseguido, siendo "1", un desenfoque porporcionado y, un valor menor que
+			de ésta manera, a través, un valor de "1", conseguiremos un desenfoque porporcionado 
 
-			"1", lograremos un desenfoque vertical y, un valor mayor ha "1", lograremos un 
+			ó cuadrático 
 
-			desenfoque horizontal aunque más emborronado
+
+			_y con un valor menor que "1", lograremos un desenfoque vertical y con un valor mayor ha 
+
+			"1", lograremos un desenfoque horizontal aunque más emborronado
+
 
 		_Rotation:
 
-			_ésta opción nos permite indicarle ángulo de rotación al desenfoque y por énde éste
+			_ésta opción nos permite indicar el ángulo de rotación al desenfoque y por énde, éste
 
 			efecto aplica sólo cuando cambiamos el aspecto del desenfoque en el paso anterior
 
@@ -133,18 +138,19 @@
 
 			depth map, entre los cuáles, disponemos de los siguientes:
 
-				_luminance/red/gren/blue/alpha, diendo liminance y alpha, los más importantes
+
+				_luminance/red/gren/blue/alpha, donde liminance y alpha, son los más importantes
 
 				para éste tipo de trabajos
 
 
 		_Placement:
 
-			_ésta opción nos permite estigmatizar el tipo de desenfoque conseguido ya que en ésta
+			_ésta opción nos permite estigmatizar el tipo de desenfoque conseguido ya que a través,
 
-			opción podremos prestablecer que el desenfoque se concentrará e irá direccionado hacia
+			de ésta opción podremos prestablecer que el desenfoque se concentrará e irá direccionado 
 
-			el centro de la composición ó irá distribuido en todo el área de la escena
+			hacia el centro de la composición ó se irá distribuido en todo el área de la escena
 
 
 			_para lo cuál, ésta opción cuenta con dos opciones las cuáles, son:
@@ -164,11 +170,12 @@
 
 			_ésta opción nos permitirá recorrer la imágen a través, del desenfoque a través, de la 
 
-			información del mapa degradado del depth map, todo el área posible de desenfoque, 
+			información del mapa degradado del depth map 
 
-			pasando así, por el área desenfocada inicial hasta el área de desenfoque final ó área 
 
-			enfocada
+			_todo el área posible de desenfoque, pasando así, por el área desenfocada inicial hasta 
+
+			el área de desenfoque final ó área enfocada
 
 
 			_hasta llegar el punto de caso la inversión del desenfoque
@@ -176,14 +183,14 @@
 
 		_Invert Blur Map:
 
-			_ésta opción es muy útil ya que nos permite de forma práctiva invertir la información 
+			_ésta opción es muy útil ya que nos permite de forma práctica invertir la información 
 
 			del mapa de profundidad ó depth map
 
 
 	_Hightlight:
 
-		_éstas opciones nos permiten ajustar las características del mapa de profundidad ó depth map,
+		_éstas opciones nos permitirán ajustar las características del mapa de profundidad ó depth map,
 
 		pudiéndo así, intensificar éste ó hacerlo más suave y sutíl
 
@@ -207,7 +214,7 @@
 			anteriores de hightlight
 
 
-		_Edge Behavios:
+		_Edge Behavior:
 
 			_ésta opción activa la opción del control del comportamiento de los bordes en el 
 
@@ -216,9 +223,10 @@
 
 		_Repeater Edge Pixels:
 
-			_ésta opción permite repetir los bordes en los extremos de la composición, otros lo
+			_ésta opción permite repetir los bordes en los extremos de la composición, otros 
 
-			cuál, no bueno resultado en algunos casos
+
+			_lo cuál, no da buenos resultados en algunos casos
 
 
 		_Use Linear Working Spa:

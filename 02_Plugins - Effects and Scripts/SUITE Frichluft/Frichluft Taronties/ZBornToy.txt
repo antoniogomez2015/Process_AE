@@ -1,0 +1,554 @@
+
+
+
+
+	http://www.frischluft.com/flair/index.php
+
+
+	
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá 
+
+
+		
+
+
+	Frichluft ZBornToy:
+	___________________
+
+
+
+		_Render Mode:
+
+
+			_All:
+
+				_
+
+
+			_Refraction Only:
+
+				_
+
+
+			_Caustix Only:
+
+				_
+
+
+			_Shadow Only:
+
+				_
+
+
+			_Highlight Only:
+
+				_
+
+
+			_Normal Map:
+
+				_
+
+
+			_Depth Map:
+
+				_
+
+			
+			_Surface Color:
+
+				_
+
+
+
+		_Depth Factor:
+
+			_
+
+
+		_Perspective Perception:
+
+			_
+
+
+		_Gamma Correction:
+
+			_
+
+
+
+		_Lights:
+
+
+			_Direct Light:
+
+				
+				_Light Intensity:
+
+					_
+
+
+				_Light Color:
+
+					_
+
+
+				_Light Size:
+
+					_
+
+
+				_Direct Light Angle:
+
+					_
+
+
+				_Light Forward Angle:
+
+					_
+
+
+				_Shadows:
+
+					_
+
+
+				_Shadows Softness:
+
+					_
+
+
+
+			_Point Light:
+
+			
+				_Light Intensity:
+
+					_
+
+			
+				_Light Color:
+
+					_
+
+
+				_Light Size:
+
+					_
+
+
+				_Light Falloff:
+
+					_
+
+
+				_Attenuation Color:
+
+					_
+
+
+				_Position:
+
+					_
+
+
+				_Z Position:
+
+					_
+
+
+				_Shadows:
+
+					_
+
+
+				_Shadows Softness:
+
+					_
+
+
+			
+			_Enviroment:
+
+			
+				_Enviromental Image:
+
+					_
+
+
+				_Enviroment Type:
+
+
+					_Panoramic:
+
+						_
+
+
+					_Spherical:
+
+						_
+
+
+				_Reflection Amount Texture:
+
+					_
+
+
+				_Reflection Amount:
+
+					_
+
+
+				_Bias Reflection Bright:
+
+					_
+
+
+				_Illumination Amount:
+
+					_
+
+
+				_Blur Illumination:
+
+					_
+
+
+				_Quick Mode:
+
+					_
+
+
+				_Occlusion Radius:
+
+					_
+
+
+
+		_Original Image:
+
+
+			_Additive Mix:
+
+				_
+
+
+			_Color Mix:
+
+				_
+
+
+			_Saturation:
+
+				_
+
+
+			_Depth Bias:
+
+				_
+
+
+			_Depth Gain:
+
+				_
+
+
+
+		_Geometry:
+
+		
+			_Normal Texture:
+
+				_
+
+
+			_Depth Channel:
+
+
+				_Luminance:
+
+					_
+
+
+				_Red / Green / Blue:
+
+					_
+
+
+				_Alpha:
+
+					_
+
+
+			_Pre Blur Strengh:
+
+				_
+
+
+			_Pre Blur Threshold:
+
+				_
+
+
+			_Pre Blur Iterations:
+
+				_
+
+
+			_Discontinuity Detection:
+
+				_
+
+
+			_Discontinuity Threshold:
+
+				_
+
+
+			_Front Level:
+
+				_
+
+
+			_Back Level:
+
+				_
+
+
+
+		_Shading:
+
+
+			_Surface Color:
+
+				_
+
+
+			_Surface Color Texture:
+
+				_
+
+
+			_Surface Tint Amount:
+
+				_
+
+
+			_Glossiness Amount Texture:
+
+				_
+
+
+			_Glossiness:
+
+				_
+
+
+			_Specular Color Texture:
+
+				_
+
+
+			_Specular Tint Amount:
+
+				_
+
+
+			_Translucency Amount Texture:
+
+				_
+
+
+			_Translucency:
+
+				_
+
+
+			_Translucency Color Texture:
+
+				_
+
+
+			_Translucency Color:
+
+				_
+
+
+			_Shadow Softness:
+
+				_
+
+
+
+		_Transparency:
+
+
+			_Background:
+
+				_
+
+
+			_Transparency Texture:
+
+				_
+
+
+			_Transparency:
+
+				_
+
+
+			_Colorize:
+
+				_
+
+
+			_Refraction Type:
+
+
+				_Accurate:
+
+					_
+
+
+				_Normalized:
+
+					_
+
+
+				_Wicked:
+
+					_
+
+
+				_Whatever:
+
+					_
+
+
+
+			_Invert Refraction:
+
+				_
+
+
+			_Refraction Texture:
+
+				_
+
+
+			_Refraction:
+
+				_
+
+
+			_Refraction Depth Texture:
+
+				_
+
+
+			_Refraction Depth Multiplicate:
+
+				_
+
+
+			_Cautix:
+
+				_
+
+
+			_Blur Transparency:
+
+				_
+
+
+			_Link Blur to Glossiness:
+
+				_
+
+
+			_Alpha Clipping:
+
+				_
+
+
+			_Alpha Fading:
+
+				_
+
+
+
+		_Quality:
+
+
+			_Override All:
+
+
+				_ -:
+
+					_
+
+
+				_Off:
+
+					_
+
+
+				_Low (1X):
+
+					_
+
+
+				_Sharp (2X):
+
+					_
+
+
+				_Smooth (3X):
+
+					_
+
+
+
+			_Caustics Antialias:
+
+				_
+
+
+			_Refraction Antialias:
+
+				_
+
+
+			_Enviroment Antialias:
+
+				_
+
+
+			_Oversampling Illumination:
+
+				_
+
+
+
+		_Blend With Original:
+
+				_
+
+			
+
+
+
+
+

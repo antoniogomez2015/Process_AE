@@ -17,19 +17,14 @@
 	________________
 
 
-		_este efecto nos permitirá generar defencoque de cámara ó de óptica fotográfica lo cuál, nos 
-			
-		permitirá agregar realismo a una escena ya que ésta opción nos permitirá emular una óptica
-
-		fotografica con profundidad de campo
-		
+		_este efecto nos permitirá 		
 
 
 		
 
 
-	Frichluft FL Depth Of Field:
-	____________________________
+	Frichluft FL Out Of Focus:
+	__________________________
 
 
 
@@ -53,20 +48,6 @@
 				_de ésta manera, a través, de ésta visualización podremos configurar el iris
 
 				generado a través, de los controles de la sección iris
-
-
-			_Depth-Buffer:
-
-				_ésta opción nos permitirá indicarle al sistema el mapa de luminancia que hemos
-
-				indicado como layer, proxi, de la composición respectiva
-
-
-				_de ésta manera, a través, de ésta visualización podremos configurar el el mapa
-
-				de luminancia que hemos indicado a través, de los controles de la sección 
-
-				Depth Buffer, en relación a nuestras necesidades
 
 
 			_Highlight, Selection:
@@ -97,142 +78,36 @@
 				highlight section
 
 
-			_Info Density:
 
-				_ésta opción nos permitirá indicarle al sistema que muestre a través, de guías por
-
-				medio de líneas de color rojo sobre fondo negro, las áreas con más densidad ó
-
-				foco sobre la imágen resultantes del sistema generado
-
-
-			_Sharp Zone:
-
-				_ésta opción nos permitirá indicarle al sistema que muestre el área enfocada por
-
-				el sistema en relación a las cordenadas del parámetro "Select Depth", 
-
-
-				_para que así, podamos tener una referencia exacta del comportamiento del sistema 
-
-				generado en un punto concreto dentro del viewport, del panel compositing
-
-
-		_Depth Layer:
-
-			_ésta opción nos permitirá indicarle al sistema una layer, de la composición respectiva la
-
-			cuál, hará de proxi, y de la cuál, se extraerá información de luminancia para la 
-
-			generación del sistema
-
-
-			_ésta puede ser una layer, compuesta ó simplemente un gradiente en relación a las 
-
-			necesidades de producción y demás efectos de paso contínuo
-
-
-			NOTA: por lo general ésta layer, deberá ser pre compuesta para que así, ésta tenga efecto
-
-			dentro del sistema generado del efecto FL Depth Of Field
-
-
+		
 		_Radius:
 
-			_ésta opción nos permitirá indicarle al sistema la expansión del área ó banda enfocada lo
+			_ésta opción nos permitirá indicarle al sistema la cantidad ó umbral de desenfoque sobre
 
-			que a su vez, emulará será la distancia de trabajo entre el plano del sensor digital y el
-
-			motivo fotográfico
+			la imágen base
 
 
-			_de ésta manera, si hacemos el área ó banda de enfoque más ancha estaremos emulando una
+		_Preservative Highlight:
 
-			distancia de trabajo superior ó más lejana (más ésta opción creará menos desenfoque)
+			_ésta opción nos permitirá indicarle al sistema que se preserven las altas luces de la
 
+			imágen base sobre las altas luces generadas por el mapa de densidad generado por la 
 
-			_más si indicamos un área ó banda de enfoque más angosta estaremos emulando una distancia
-
-			de trabajo más cercana (más ésta opción creará más desenfoque)
-
-
-			_y para poder apreciar éstos cambios en tiempo real podremos hacer uso del modo de 
-
-			visualización del parámetro "Show/Sharp Zone"
-
-			
-
-		_Focal Point:
-
-			_ésta opción nos permitirá indicarle al sistema que deseamos emular una focal optica así,
-
-			podremos hacer que el área ó banda enfocada a partir del parámetro "Select Depth"
+			sección de "Highlight Section"
 
 
-			_se desplaze hacia abajo ó hacia arriba lo que afectará a su vez, al ancho del área ó
+		_Additive Highlight:
 
-			banda enfocada emulando así, la propiedad de profundidad de campo y las ópticas 
+			_ésta opción nos permitirá indicarle al sistema el valor exponencial ó umbral de 
 
-			fotográficas
+			intensidad agregado por el sistema de altas luces auxiliar de la sección 
 
-
-				_así, si desplazamos ésta banda hacia abajo, ésta se comprimirá emulando así,
-
-				un teleobjetivo fotográfico lo que a su vez, colateralmente hará que franja de
-
-				enfoque ahora sea más pequeña para lo cuál, debemos de indicar valores bajos 
-
-				entre "0-30", por ejemplo
+			"Highlight Section"
 
 
-				_más si desplazamos ésta banda hacia arriba, ésta banda se expanderá cubirendo 
+			_de ésta manera, podremos crear un bokeh, más acusado con altas luces en las cuáles, se
 
-				ahora más área enfocada lo cuál, emulará un objetivo fotográfico gran angular lo
-
-				que a su vez, ampliará el ancho del área ó banda enfocada
-
-
-			_y para poder apreciar éstos cambios en tiempo real podremos hacer uso del modo de 
-
-			visualización del parámetro "Show/Sharp Zone"
-
-
-
-		_Select Depth:
-
-			_ésta opción nos permitirá indicarle al sistema el punto a partir del cuál, se comenzará
-
-			ha generar el área enfocada
-
-
-			_de ésta manera, a través, de un handle, directamente en el viewport, del panel 
-
-			compositing, podremos indicar el área que deseamos que esté en foco
-
-
-			_así, el sistema enfocará una línea ó banda horizontal a partir del punto que indiquemos
-
-			para que así, toda ésta áreas esté enfocada y las demás áreas por ende estarán 
-
-			desenfocadas
-
-
-		_Highlight Intensity:
-
-			_ésta opción nos permitirá indicarle al sistema la intensidad de las altas luces creadas
-
-			por el mapa de densidad que hemos creado a través, de la sección de "highlight section",
-
-			por medio de una layer, de la composición respectiva
-
-
-			_para lo cuál, nos podremos ayudar con el modo de visualización de "Show/Info Density" 
-
-
-			_para que así, a través, de unas líneas guía de color rojo sobre fondo negro poder
-
-			verificar en que parte se encuetra el punto focal
-
+			ve más el efecto por el iris ó diafragma emulado
 
 
 		_Gamma Correction:
@@ -249,122 +124,19 @@
 			"Show/Normal Blur"
 
 
+		_Background Layer:
 
-		_Depth Buffer:
+			_(Indeterminado)
 
 
-			_Invert:
+		_Background Distortion:
 
-				_ésta opción nos permitirá indicarle al sistema que invierta el mapa de densidad
+			_(Indeterminado)
 
-				que hemos creado cuando seleccionamos una layer, de la composición respectiva en
 
-				las opciones de "Depth Layer"
+		_Distortion Antialias:
 
-
-				_de ésta manera, invertiremos el sentido y orientación del mapa generado
-
-
-				_para visualizar mejor éstos cambios es recomendado colocar el parámetro de
-
-				"Show/Depth-Buffer"
-
-
-			_Curve:
-
-				_ésta opción nos permitirá indicarle al sistema que genere una transición mucho
-
-				más ó menos ámplica entre los tonos más claros y los tonos más oscuros de la 
-
-				layer, hemos seleccionado como proxi, en las opciones de "Depth Layer", la cuál,
-
-				hará de mapa de densidad y a partir de la cuál, se generará el efecto de 
-
-				desenfoque
-
-
-				_de ésta manera, compriremos los tonos aumentando a su vez, la acutancia entre
-
-				éstos
-
-
-				_para visualizar mejor éstos cambios es recomendado colocar el parámetro de
-
-				"Show/Depth-Buffer"
-
-
-			_Take Depth From:
-
-
-				_Luminance:
-
-					_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo
-
-					de acción ó trabajo a partir del cuál, el sistema generará el mapa de
-
-					densidad a parir de la layer, que hemos seleccionado de la composición
-
-					respectiva en las opciones de "Depth Layer", la cuál, a su vez, hará de 
-
-					proxi, para la generación del sistema de desenfoque
-
-
-					_y en éste caso, el sistema tomará la luminancia y contraste de ésta para
-
-					la generación del sistema
-
-
-				_Alpha Channel:
-
-					_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo
-
-					de acción ó trabajo a partir del cuál, el sistema generará el mapa de
-
-					densidad a parir de la layer, que hemos seleccionado de la composición
-
-					respectiva en las opciones de "Depth Layer", la cuál, a su vez, hará de 
-
-					proxi, para la generación del sistema de desenfoque
-
-
-					_y en éste caso, el sistema tomará los valores del canal alfa de ésta 
-
-					para la generación del sistema
-
-
-				_Red / Green / Blue Channel:
-
-					_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo
-
-					de acción ó trabajo a partir del cuál, el sistema generará el mapa de
-
-					densidad a parir de la layer, que hemos seleccionado de la composición
-
-					respectiva en las opciones de "Depth Layer", la cuál, a su vez, hará de 
-
-					proxi, para la generación del sistema de desenfoque
-
-
-					_y en éste caso, el sistema tomará la información de uno de los canales
-
-					de color rojo, verde y azul, respectivamente de ésta imágen para la 
-
-					generación del sistema
-
-
-			_Black Point:
-
-				_(Indeterminado)
-
-
-			_White Point:
-
-				_(Indeterminado)
-
-
-			_Auto Range:
-
-				_(Indeterminado)
+			_(Indeterminado)
 
 
 

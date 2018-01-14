@@ -1,0 +1,110 @@
+
+
+
+
+	http://www.frischluft.com/flair/index.php
+
+
+	
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá generar ó emular de forma personalizada mapa de normal map ó bump map
+
+
+		_para que así, podamos utilizar éstos mapas simulados en diferentes procesos de producción y paso
+
+		contínuo
+
+		
+
+
+	Frichluft Normalize:
+	____________________
+
+
+
+		_Tilt Forward:
+
+			_ésta opción nos permitirá indicarle al sistema que vaya rellenando la imágen base de
+
+			color Cyan, ó azul para la generación del sistema
+
+
+			_de ésta manera, con valores cercanos ha "0", el efecto será casi imperceptible más con
+
+			valores cercanos ha "1", el efecto de relleno de color será práctivamente absoluto
+
+
+		_Tilt Sideways:
+			
+			_ésta opción nos permitirá indicarle al sistema que vaya rellenando la imágen base de
+
+			color Red, ó rojo para la generación del sistema
+
+
+			_de ésta manera, con valores cercanos ha "0", el efecto será casi imperceptible más con
+
+			valores cercanos ha "1", el efecto de relleno de color será práctivamente absoluto
+
+
+		_Tilt Upwards:
+
+			_ésta opción nos permitirá indicarle al sistema que vaya rellenando la imágen base de
+
+			color Green, ó verde para la generación del sistema
+
+
+			_de ésta manera, con valores cercanos ha "0", el efecto será casi imperceptible más con
+
+			valores cercanos ha "1", el efecto de relleno de color será práctivamente absoluto
+
+
+		_Invert X (Red):
+
+			_ésta opción nos permitirá indicarle al sistema que el canal rojo por su color 
+
+			complementario del sistema generado
+
+
+		_Invert X (Green):
+
+			_ésta opción nos permitirá indicarle al sistema que el canal verde por su color 
+
+			complementario del sistema generado
+
+
+		_Invert X (Blue):
+
+			_ésta opción nos permitirá indicarle al sistema que el canal azul por su color 
+
+			complementario del sistema generado
+
+
+		_Invert All:
+
+			_ésta opción nos permitirá indicarle al sistema que invierta todos los canales de color 
+
+			por su color complementario del sistema generado
+
+
+		_Traditional Format:
+
+			_ésta es una opción alternativa la cuál, funciona mejor indicando valores negativos en 
+
+			los valores de rellenado de color por canal
+			
+			
+
+
+
+
+
