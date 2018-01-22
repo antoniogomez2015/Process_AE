@@ -1,0 +1,99 @@
+
+
+
+
+	https://www.videocopilot.net/
+
+
+	
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá 
+
+
+
+
+		
+
+
+	Video Copilot VC Reflect:
+	_________________________
+
+
+
+		_Floor Position:
+
+			_
+
+
+		_Reflection Angle:
+
+			_
+
+
+		_Reflection Distance:
+
+			_
+
+
+		_Reflection Falloff:
+
+			_
+
+
+		_Skew:
+
+			_
+
+
+		_Tint:
+
+			_
+
+
+		_Opacity:
+
+			_
+
+
+		_Blur Type:
+
+			_
+
+
+		_Blur Amount:
+
+			_
+
+
+		_Blur Offset:
+
+			_
+
+
+		_Blur Falloff:
+
+			_
+
+
+		_Blend Style:
+
+			_
+
+
+
+
+
+
+
+
+
+

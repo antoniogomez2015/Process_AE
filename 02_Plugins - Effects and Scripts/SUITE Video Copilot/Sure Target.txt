@@ -6,9 +6,16 @@
 
 
 		101 - Sure Target 2
-
 			https://www.youtube.com/watch?v=3FudZs4fQ0g
-	
+
+
+		Kinetic Text_Sure Target Tutorial 1 • Animating Text the Sure Target Plugin
+			https://www.youtube.com/watch?v=0j5XL_zvqTA	
+
+
+		Kinetic Text_Sure Target Tutorial 2 • Completing the Sure Target Animation
+			https://www.youtube.com/watch?v=8xAqn0iSh2M
+
 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -20,7 +27,197 @@
 	________________
 
 
-		_este efecto nos permitirá 
+		_este efecto nos permitirá crear el efecto de kinetic, fácilmente a través, de un sistema y método
+
+		concreto a través, del cuál, el sistema controlará la creación y rotación de la cámara y auto 
+
+		orientación de los elementos ó layers, en la escena
+
+
+		_de ésta manra, el sistema controlará toda la mecánica e interpolaciones del sistema generado como
+
+		también, éste nos permitirá agregar más efectos de animación y comportamientos
+
+
+		_así, como también, éste nos permitirá hacer ajustes personalizados de animación, y adicionalmente
+
+		podremos combinar éste efecto con otros efectos nativos ó efectos de terceros
+
+
+
+
+	Workflow:
+	_________
+
+
+		Diseño de Kinetic:
+		__________________
+
+		_es recomendable primeramente crear todas las layers, que conformarán el sistema de kinetic, a través,
+
+		de layers, de texto, gráficos, fotografías, otros, antes de crear el sistema
+
+
+		_para a continuación convertir éstas layers, ha layers, 3d, las cuáles, a su vez, tendremos que 
+
+		organizar y configurar en el espacio 3d, en la posición y orientación deseada en relación a la lógica
+
+		y dinámica del sistema y mensaje deseado ha comunicar
+
+
+		_por lo general, cuando el sistema está conformado por layers, de tipo text, éstas se posicionan en
+
+		relación a la lectura y conexión semántica de la lectura del contexto en relación a su vez, a los 
+
+		gráficos y efectos con que éstas interactuarán a través, del tiempo
+
+
+
+	
+		Crear el Sistema:
+		_________________
+
+		_para crear el sistema lo más recomendable es crear primeramente una layer, de tipo null, a la cuál,
+
+		le aplicaremos el efecto de "Sure Target"
+
+
+		_para que así, de ésta manera, podremos aplicar ele efecto yendo ha
+
+		"Effects/Video Copilot/Sure Target"
+
+
+		_de ésta manera, el sistema a partir de éste punto creará una nueva cámara con el nombre de "Sure Target Camara", 
+
+		en la composición respectiva
+
+
+		_y a su vez, a la layer, de tupo null, sobre la cuál, hemos aplicado el efecto de "sure target", se
+
+		le han aplicado expresiones sobre la propiedad de "Position", a través, de las cuáles, el sistema 
+
+		controlará la cámara y las demás layers, de la composición respectiva las cuáles, se hayan 
+
+		relacionado con el sistema generado
+
+
+		_para ver las expresiones aplicadas sobre el null object, shortcut, "E/E"
+
+
+
+
+
+		Configurar el Sistema:
+		______________________
+
+		_una vez hemos creado el sistema cargando el efecto sure target, en una layer, de la composición
+
+		respectiva
+
+		
+		_es hora de relacionar la layers, que deseamos sean parte del sistema generado dentro de la 
+
+		composición respectiva, para lo cuál, lo más práctico y rápido es seleccionar el efecto de 
+
+		"Sure Target", en el panel effects controls
+
+
+		_para a continuación una vez que hemos seleccionado el efecto dentro de la lista de efectos del 
+
+		panel effects controls, podremos seleccionar las layers, deseadas en el orden cronológico según la
+
+		lógica de la composición deseada en el panel timeline, las cuáles, deseamos sean parte del sistema 
+
+		generado
+
+
+		_para luego ir al panel effect controls, y en las opciones del efecto 
+
+		"Sure Target/Target Layers/Auto-Populate/Execute"
+
+
+		_para que así, las respectivas layers, seleccionadas sean cargadas en el orden seleccionada al 
+
+		sistema, más también, podremos realizar éste proceso manualmente, agregando las layers, una ha una
+
+
+		_a partir de éste punto, el sistema ya estará listo para comenzar ha realizar las animaciones y 
+
+		ajustes y demás interacciones dentro de la composición respectiva
+
+
+
+
+		Audio:
+		______
+
+		_lo más común y recomendable es en éste punto incorporar en la parte superior de la composición 
+
+		respectiva una layer, de tipo audio 
+
+
+		_de la cuál, se tomarán referencia de los picos de audio a través, de marcas ó "Marks", shortcut,
+
+		"*", ó asterisco
+
+
+		_para que así, a través, de éstas marcas poder crear posteriormente las animaciones de las layers,
+
+		de las cuáles, está conformado el sistema
+
+
+
+
+
+		Animación del Sistema:
+		______________________
+
+		_una vez hemos creado y configurado el sistema de sure target, podremos entonces animar éste para
+
+		que así, el sistema realize las animaciones, interpolaciones y demás efectos y parámetros indicados
+
+
+		_para lo cuál, primeramente debemos de ir al panel effects controls, e ir a las opciones del efecto
+
+		"Sure Target/Sure Target", y una vez allí, darle a la opción de relojito para que así, podamos
+
+		animar ésta propiedad a través, del tiempo
+
+
+		_de ésta manera, la propiedad "Sure Target", comenzará en un valor de "1", lo cuál, representará la 
+
+		layer, parte del sistema correspondiente ha "Sure Target/Layer Target/Target 1"
+
+
+		_en éste caso corresponderá a la layer, de tipo nulo que creamos para que así, el sistema comience
+
+		a través, de una layer, vacía, de ésta manera, el sistema no comenzará de una manera abructa
+
+
+		
+
+
+
+
+
+
+		Background:
+		___________
+
+		_una vez ya hemos creado y configurado las layers, de text, u otras layers, en el espacio 3d, de la 
+
+		composición respectiva podremos ahora crear una layer, por lo general de tipo "solid", sobre la cuál,
+
+		podremos crear por ej, un sistema de partículas como por ejemplo "Particle Word"
+
+
+		_ésta layer, que hemos creado y a partir de la cuál, hemos generado un sistema de partículas la 
+
+		debemos de colocar al final de la composición respectiva para que así, ésta layer, haga de fondo del
+
+		sistema generado de sure target
+
+
 
 
 		
@@ -31,7 +228,155 @@
 
 
 
-		_
+		_Sure Target:
+
+			_
+
+
+		_Ease Targets:
+
+	
+			_None:
+
+				_
+
+
+			_Ease:
+
+				_
+
+
+			_Ease-Out:
+			
+				_
+
+
+			_Ease-In:
+
+				_
+
+
+		_Auto Rotate:
+
+			_
+
+
+		_Wiggle:
+
+
+			_Wiggle Spped:
+
+				_
+
+
+			_Wiggle Amount:
+
+				_
+
+
+			_Wiggle Seed:
+
+				_
+
+
+
+		_Inertia:
+
+
+			_Inertial Amount:
+
+				_
+
+
+			_Inertia Decay:
+
+				_
+
+
+		_Camara Roll:
+
+
+			_Enable Roll:
+
+				_
+
+
+			_Roll Amount:
+
+				_
+
+
+
+		_Auto-Focus:
+
+
+			_Focus Targets:
+
+				_
+
+
+			_Depth of Field:
+
+				_
+
+
+			_Aperture:
+
+				_
+
+
+			_Blur Level:
+
+				_
+
+
+
+		_Dolly:
+
+
+			_Enable Dolly:
+
+				_
+
+
+			_Dolly 1,2,3,4,5,6,7,8,9,10:
+
+				_
+
+
+		_Target Layers:
+
+
+			_Number Targets:
+
+				_
+
+
+			_Auto-Populate:
+
+				_
+
+
+			_Target 1,2,3,....:
+
+				_
+
+
+		_Create Baked Camara:
+
+
+			_Ececute:
+
+				_
+
+
+
+		_Refresh Expressions:
+
+			
+			_Execute:
+
+				_
 
 
 

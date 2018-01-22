@@ -1,0 +1,60 @@
+
+
+https://www.videocopilot.net/
+
+			
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	------------------------------------------------------------------------------------------------------------------
+
+	Video Copilot Sure Target: (no funciona en versiones superiores ha CC)
+	__________________________
+
+
+	_este efecto nos permitirá crear el efecto de kinetic, fácilmente a través, de un sistema y método concreto 
+
+	a través, del cuál, el sistema controlará la creación y rotación de la cámara y auto orientación de los 
+
+	elementos ó layers, en la escena
+
+
+	_de ésta manra, el sistema controlará toda la mecánica e interpolaciones del sistema generado como también, 
+
+	éste nos permitirá agregar más efectos de animación y comportamientos
+
+
+	_así, como también, éste nos permitirá hacer ajustes personalizados de animación, y adicionalmente podremos 
+
+	combinar éste efecto con otros efectos nativos ó efectos de terceros
+
+
+
+
+
+	------------------------------------------------------------------------------------------------------------------
+
+	Video Copilot VC Color Vibrance:
+	________________________________
+
+
+	_este efecto nos permitirá teñir ó rellenar una layer, de color específico así, como tambien, de hacer 
+
+	ajustes sobre la luminancia, brillo y tono de la imágen resultante
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,117 @@
+
+
+
+
+	https://www.videocopilot.net/
+
+
+	
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá teñir ó rellenar una layer, de color específico así, como tambien, de
+
+		hacer ajustes sobre la luminancia, brillo y tono de la imágen resultante
+
+
+
+
+		
+
+
+	Video Copilot VC Color Vibrance:
+	________________________________
+
+
+
+		_Color:
+
+			_ésta opción nos permitirá indicarle al sistema un color personalizado a través, de un 
+
+			picker, ó un selector de color a través, del cuál, podremos seleccionar un color 
+
+			personalizado por medio del cuál, se teñirá la layer, sobre la cuál, se ha aplicado 
+
+			el efecto
+
+
+		_Vibrance:
+
+			_ésta opción nos permitirá indicarle al sistema la intensidad ó umbral del color indicado
+
+			dentro de un rango de valores que van de "0-2", de ésta manera, podremos controlar ó ajustar
+
+			la dominante de color aplicada sobre la layer, base
+
+
+		_Preserve Luminance:
+
+			_ésta opción nos permitirá indicarle al sistema que conserve, ajuste ó haga modificaciones
+
+			sobre la luminancia original de la imágen base, de ésta manera, podremos conservas la 
+
+			luminancia de la imágen ó cambiar ésta en relación a las necesidades de producción ó paso
+
+			contínuo
+
+
+		_Brightness:
+
+			_ésta opción nos permitirá indicarle al sistema que conserve, ajuste ó haga modificaciones
+
+			sobre el brillo ó altas luces de la imágen base, de ésta manera, podremos conservas las 
+
+			altas luces ó brillo de la imágen ó cambiar ésta en relación a las necesidades de producción 
+
+			ó paso contínuo
+
+
+		_Gamma:
+
+			_ésta opción nos permitirá indicarle al sistema que conserve, ajuste ó haga modificaciones
+
+			sobre la gama tonal original de la imágen base, de ésta manera, podremos conservas los
+
+			tonos de la imágen ó cambiar ésta en relación a las necesidades de producción ó paso
+
+			contínuo
+
+
+		_Fill Empty BG:
+
+			_(Indeterminado)
+
+
+		_Invert:
+
+			_ésta opción nos permitirá indicarle al sistema que invierta los colores generados en la
+
+			imágen como resultado del efecto aplicado
+
+
+		_Matte Alpha:
+
+			_(Indeterminado)
+
+
+		_Alpha Boost:
+
+			_(Indeterminado)
+
+
+
+
+
+
+
+
+
+
+
