@@ -16,7 +16,16 @@
 	________________
 
 
-		_este efecto nos permitirá 
+		_este efecto nos permitirá crear layers, reflejadas ha modo de espejo ó en un grado determinado
+
+		a partir de un punto de referencia
+
+
+		_lo cuál, nos permitirá crear una layer, reflejada con decaimiento de la luz, así, como también,
+
+		con una opacidad controlable y un fundido ha modo de gradiente entre la layer, base y el sistema
+
+		generado
 
 
 
@@ -31,62 +40,134 @@
 
 		_Floor Position:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema el punto de referencia a partir del cuál,
+
+			se generará la layer, reflejada
 
 
 		_Reflection Angle:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema el ángulo de rotación a partir del cuál,
+	
+			se generará el sistema de layer, reflejada
 
 
 		_Reflection Distance:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema la longitud de canal alpha, gradiente 
+
+			generado 
+
+
+			_el cuál, limitará la visualización de la layer, refledaja a partir del punto de referencia 
+
+			hacia afuera ó hacia el extremo de la respectiva layer
 
 
 		_Reflection Falloff:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema el rango ó acutancia tonal del grandiente
+
+			utilizado para la generación del canal alpha, auto generado
+
+
+			_para que así, podamos hacer un desvanecimiento de la layer, reflejada más suavizado ó más
+
+			abrupto
 
 
 		_Skew:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema el grado sesgado ó inclinación de la layer,
+
+			reflejada lo que nos permitirá emular una perspectiva sobre una superficie reflejada en 
+
+			relación a su vez, al ángulo de la layer, base
 
 
 		_Tint:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema un color para el teñir ó rellenar la layer,
+
+			reflejada por el sistema
 
 
 		_Opacity:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema el grado ó umbral
 
 
 		_Blur Type:
 
-			_
+
+			_Directional:
+
+				_ésta opción nos permitirá indicarle al sistema el algoritmo de desenfoque para la
+
+				layer, reflejada por el sistema generado
+
+
+			_FallOff:
+
+				_ésta opción nos permitirá indicarle al sistema el algoritmo de desenfoque para la
+
+				layer, reflejada por el sistema generado
 
 
 		_Blur Amount:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema la cantidad ó umbral de desenfoque aplicado
+
+			a la layer, reflejada en relación al algotimo seleccionado en las opciones de "Blur Type"
+
+
+			NOTA: ésta opción estará superditada por la opción de "Blur Falloff", ya que se ésta opción
+
+			se encuentra en un valor de "1", el efecto de desenfoque de la layer, reflejada no será 
+
+			apreciable, más un valores inferiorse ha "1", el efecto comenzará ha ser visible
 
 
 		_Blur Offset:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema desplazar el umbral de rango del mapa de
+
+			densidad auto generado para el desenfoque de la layer, reflejada, de ésta manera, podremos
+
+			hacer que la layer, reflejada sea desenfocada en área limitada ó a través, de un área mayor
 
 
 		_Blur Falloff:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema el umbral de desenfoque aplicable en relación
+
+			a tamaño ó longitud de la layer, lo cuál, permitirá que exista un rango tonal en el canal
+
+			alpha, auto generado para la generación del desenfoque
 
 
 		_Blend Style:
 
-			_
+
+			_Composite:
+
+				_ésta opción nos permitirá indicarle al sistema que renderiza la layer, base más
+
+				la layer, generada por el sistema y a su vez, las demás layers, de la composición
+
+				respectiva
+
+
+			_Blend With Original:
+
+				_(Indeterminado)
+
+
+			_Reflection Only:
+
+				_ésta opción nos permitirá indicarle al sistema que renderiza sólo la layer, 
+
+				generada por el sistema y a su vez, las demás layers, de la composición respectiva
 
 
 

@@ -46,6 +46,24 @@ https://www.videocopilot.net/
 	ajustes sobre la luminancia, brillo y tono de la imágen resultante
 
 
+	
+
+	------------------------------------------------------------------------------------------------------------------
+
+	Video Copilot VVC Reflect:
+	__________________________
+
+
+	_este efecto nos permitirá crear layers, reflejadas ha modo de espejo ó en un grado determinado a partir de 
+
+	un punto de referencia
+
+
+	_lo cuál, nos permitirá crear una layer, reflejada con decaimiento de la luz, así, como también, con una 
+
+	opacidad controlable y un fundido ha modo de gradiente entre la layer, base y el sistema generado
+
+
 
 
 

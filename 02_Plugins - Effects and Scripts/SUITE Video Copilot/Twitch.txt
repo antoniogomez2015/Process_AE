@@ -1,0 +1,354 @@
+
+
+
+
+	https://www.videocopilot.net/
+
+
+	
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá
+
+
+
+
+		
+
+
+	Video Copilot Twitch:
+	_____________________
+
+
+
+		_Amount:
+
+			_
+
+
+		_Speed:
+
+			_
+
+
+		_Enable:
+
+
+			_Blur | Color | Light | Scale | Slide | Time:
+
+			_
+
+
+		_Behaviour:
+
+
+			_Ease In:
+
+				_
+
+
+			_Ease Out:
+
+				_
+
+
+			_Border:
+
+
+				_Mirror:
+
+					_
+
+				_Tile:
+
+					_
+
+
+				_Ignore:
+
+					_
+
+
+				_Expand:
+
+					_
+
+
+			_Show Twitch Only:
+
+				_
+
+
+			_Seed:
+
+				_
+
+
+			_Randomize Minimum:
+
+				_
+
+
+
+		_Operator Controls:
+
+
+			_Blur:
+
+
+				_Blur Amount:
+
+					_
+
+
+				_Blur Twitches [Sec]:
+
+					_
+
+
+				_Blur Tint:
+
+					_
+
+
+				_Blur Holdout:
+
+					_
+
+
+				_Blur Holdout Sharpne:
+
+					_
+
+
+				_Blur Boost:
+
+					_
+
+
+				_Blur Opacity:
+
+					_
+
+
+				_Blur Transfer Mode:
+
+					_
+
+
+				_Blur Aspect:
+
+					_
+
+
+				_Use Lens Blur:
+
+					_
+
+
+				_Unique Blur Seed:
+
+					_
+
+
+
+			_Color:
+
+
+				_Color Amount:
+
+					_
+
+
+				_Color Twitches [Sec]:
+
+					_
+
+
+				_Colorize:
+
+					_
+
+
+				_Color Randomize:
+
+					_
+
+
+				_Unique Color Seed:
+
+					_
+
+
+
+			_Light:
+
+
+				_Light Amount:
+
+					_
+
+
+				_Light Twitches [Sec]:
+
+					_
+
+
+				_Light Behaviour:
+
+
+					_Brighter:
+
+						_
+
+
+					_Darker:
+
+						_
+
+
+					_Both:
+
+						_
+
+
+				_Unique Light Seed:
+
+					_
+
+
+
+			_Scale:
+
+
+				_Scale Amount:
+
+					_
+
+
+				_Scale Twitches [Sec]:
+
+					_
+
+
+				_Scale Origin:
+
+					_
+
+
+				_Scale Origin Randomized:
+
+					_
+
+
+				_Scale Motion Blur:
+
+					_
+
+
+				_Unique Scale Seed:
+
+					_
+
+
+
+			_Slide:
+
+
+				_Slide Amount:
+
+					_
+
+
+				_Slide Twitches [Sec]:
+
+					_
+
+
+				_Slide Direction:
+
+					_
+
+
+				_Slide Spread:
+
+					_
+
+
+				_Slide Tendency:
+
+					_
+
+
+				_Slide RGB Split:
+
+					_
+
+
+				_Slide Motion Blur:
+
+					_
+
+
+				_Unique Slide Seed:
+
+					_
+
+
+
+			_Time:
+
+
+				_Time Amount:
+
+					_
+
+
+				_Time Twitch [Sec]:
+
+					_
+
+
+				_Time Direction:
+
+					_
+
+
+				_Unique Time Seed:
+
+
+					_Both:
+
+						_
+
+
+					_Forward Only:
+
+						_
+
+
+					_Backward Only:
+
+						_
+
+
+				_Unique Time Seed:
+
+					_
+
+
+
+
+
+
+
+
+
