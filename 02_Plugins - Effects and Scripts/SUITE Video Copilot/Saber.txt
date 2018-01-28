@@ -1,0 +1,340 @@
+
+
+
+
+	https://www.videocopilot.net/
+
+
+	
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá 
+
+
+
+
+		
+
+
+	Video Copilot Saber:
+	____________________
+
+
+
+		_Preset:
+
+			_
+
+
+		_Enable Glow:
+
+			_
+
+
+		_Glow Color:
+
+			_
+
+
+		_Glow Itensity:
+
+			_
+
+
+		_Glow Spread:
+
+			_
+
+
+		_Glow Bias:
+
+			_
+
+
+		_Core Size:
+
+			_
+
+
+		_Core Start:
+
+			_
+
+
+		_Core End:
+
+			_
+
+
+	
+		_Customize Core:
+
+
+			_Core Type:
+
+
+				_Saber:
+
+					_
+
+
+				_Layer Masks:
+
+					_
+
+
+				_Text Layer:
+
+					_
+
+
+			_Text Layer:
+
+				_
+
+
+			_Mask Evolution:
+
+				_
+
+
+			_Start Size:
+
+				_
+
+
+			_Start Offset:
+
+				_
+
+
+			_End Size:
+
+				_
+
+
+			_End Offset:
+
+				_
+
+
+			_End Roundness:
+
+				_
+
+
+			_Offset Size:
+
+				_
+
+
+			_Halo Intensity:
+
+				_
+
+
+			_Halo Size:
+
+				_
+
+
+			_Core Softness:
+
+				_
+
+
+
+		_Ficker:
+
+
+			_Flicker Intensity:
+
+				_
+
+
+			_Flicker Speed:
+
+				_
+
+
+			_Mask Randomization:
+
+				_
+
+
+			_Random Seed:
+
+				_
+
+
+
+		_Distortion:
+
+
+			_Glow Distortion:
+
+				_
+
+
+			_Core Distortion:
+
+				_
+
+
+
+		_Glow Settings:
+
+			
+			_Glow Intensity Multiplier:
+
+				_
+
+
+			_Glow Size Multiplier:
+
+				_
+
+
+			_Glow Pre Gamma:
+
+				_
+
+
+			_Glow 1 Intensity:
+
+				_
+
+
+			_Glow 1 Size:
+
+				_
+
+
+			_Glow 2 Intensity:
+
+				_
+
+
+			_Glow 2 Size:
+
+				_
+
+
+			_Glow 3 Intensity:
+
+				_
+
+
+			_Glow 3 Size:
+
+				_
+
+
+			_Glow 4 Intensity:
+
+				_
+
+
+			_Glow 4 Size:
+
+				_
+
+
+
+		_Render Settings:
+
+
+			_Motion Blur:
+
+
+				_On/Off:
+
+					_	
+
+	
+				_Composition:
+
+					_
+
+
+				_Motion Blur Multiplier:
+
+					_
+
+
+				_Motion Blur Phase:
+
+					_
+
+
+				_Motion Blur Clamp:
+
+					_
+
+
+			_Gamma:
+
+				_
+
+
+			_Brightness:
+
+				_
+
+
+			_Saturation:
+
+				_
+
+
+			_Alpha Boost:
+
+				_
+
+
+			_Composite Settings:
+
+
+				_Transparent:
+
+					_
+
+
+				_Black:
+
+					_
+
+
+				_Add:
+
+					_
+
+
+			_Alpha Mode:
+
+				_
+
+
+			_Invert Masks:
+
+				_
+
+
+			_Use Text Alpha:
+
+				_
+
+
+
+
+
+
+

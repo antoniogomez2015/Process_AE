@@ -16,9 +16,19 @@
 	________________
 
 
-		_este efecto nos permitirá
+		_este efecto nos permitirá crear y aplicar diferentes efecto sobre la imágen base como desenfoque, 
+
+		iluminación, escala, sesgado y tiempo
 
 
+		_de ésta manera, podremos agregar éstas características y hacer que éstas varien y oscilen a través,
+
+		del tiempo para emular defectos y tensión sobre la imágen para generar alteraciones sobre la imágen 
+
+		ó video base
+
+
+		_éste efecto es complementario para la creación de transiciones efectos de tv, otros
 
 
 		
@@ -31,12 +41,21 @@
 
 		_Amount:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema la cantidad ó umbral de efecto global
+
+			aplicado sobre la layer, base
+
+
+			_de ésta manera, tendremos un control global de la cantidad de efecto aplicado
 
 
 		_Speed:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema el timming, de animación de la cantidad
+
+			de intervalos por segundo a través, del tiempo de todos los efectos aplicados por el
+
+			plugins, ha nivel global
 
 
 		_Enable:
@@ -44,7 +63,9 @@
 
 			_Blur | Color | Light | Scale | Slide | Time:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema la cantidad de efectos que se aplicarán 
+
+			sobre la layer, base a la vez ó por separado
 
 
 		_Behaviour:
@@ -52,12 +73,20 @@
 
 			_Ease In:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema la curva de interpolación de 
+
+				animación de entrada de las animaciones generadas por los diferentes efectos
+				
+				aplicados por el plugins, sober la layer, base
 
 
 			_Ease Out:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema la curva de interpolación de 
+
+				animación de salida de las animaciones generadas por los diferentes efectos
+				
+				aplicados por el plugins, sober la layer, base
 
 
 			_Border:
@@ -65,31 +94,76 @@
 
 				_Mirror:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo
+
+					de interpretación de los bordes modificados por los efectos del plugins,
+
+					sobre la imágen base
+
+
+					_en éste caso, el sistema reflejará los bordes repitiéndo éstos hacia
+
+					los mismos bordes del canvas ó composición respectiva
 
 				_Tile:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo
+
+					de interpretación de los bordes modificados por los efectos del plugins,
+
+					sobre la imágen base
+
+
+					_en éste caso, el sistema modulará los bordes repitiéndo éstos hacia
+
+					los mismos bordes del canvas ó composición respectiva
 
 
 				_Ignore:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo
+
+					de interpretación de los bordes modificados por los efectos del plugins,
+
+					sobre la imágen base
+
+
+					_en éste caso, el sistema ignorará los bordes 
 
 
 				_Expand:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo
+
+					de interpretación de los bordes modificados por los efectos del plugins,
+
+					sobre la imágen base
+
+
+					_en éste caso, el sistema extenderá ó estirará los bordes repitiéndo éstos 
+
+					hacia los mismos bordes del canvas ó composición respectiva
 
 
 			_Show Twitch Only:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que visualize la layer, base sólo
+
+				ésta tenga algún efecto a través, del tiempo
+
+
+				_más de lo contrario mantenga la layer, invisible dejando ver así, las demás layers,
+
+				de la composición respectiva
 
 
 			_Seed:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que ésta posea una animación previa
+
+				al inicio del timeline, para que así, el sistema no tenga que realizar una curva
+
+				de animación inicial partiendo desde cero ó desde un punto estático
 
 
 			_Randomize Minimum:
@@ -106,57 +180,114 @@
 
 				_Blur Amount:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la cantidad de desenfoque
+
+					aplicado sobre la layer, base
 
 
 				_Blur Twitches [Sec]:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el timming, de intervalos
+
+					de desenfique aplicado a la layer, base a partir de la reproducción del
+
+					timeline, desde el inicial de la composición respectiva
 
 
 				_Blur Tint:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el color del desenfoque
+
+					sobre la layer, base
+
+
+					_de ésta manera, podremos teñir la layer, base de un color para lo cuál,
+
+					dispondremos de un picker, ó un selector personalizado
 
 
 				_Blur Holdout:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que retenga el color 
+
+					aplicado sobre el enfoque generado por el sistema
+
+
+					_de ésta manera, podremos retener el color aplicado sobe la layer, base con
+					
+					calores cercanos ha "0", más con valores cercanos ha "50", el color se hará
+
+					práctivamente inexistente
+
+
+					NOTA: ésta opción estará superditada por la opicón de "Blur Holdout Sharpne",
+
+					la cuál, deberá tener un valor de mínimo "1", ya que si ésta tiene un valor
+
+					de "0", la opción de "Blur Holdout", no tendrá efecto
 
 
 				_Blur Holdout Sharpne:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que active la retención del
+
+					color sobre la layer, base
+
+
+					_de ésta manera, con valores cercanos ha "0", la retención del color será
+
+					absoluta más con valores cercanos ha "20", la retención del color será
+
+					práctivamente nula
 
 
 				_Blur Boost:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el umbral de la luminocidad
+
+					sobre el color aplicado sobre la layer, base
+
+
+					_de ésta manera, con valores cercanos ha "0", la luminocidad corresponderá
+
+					con un clave baja, más con valores cercanos ha "200", la luminocidad 
+
+					corresponderá con una clave alta
 
 
 				_Blur Opacity:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la opacidad del color 
+
+					aplicado sobre la layer, base
 
 
 				_Blur Transfer Mode:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el modo de fusión los cuáles,
+
+					corresponden a la mayoría de los disponibles con los modos de fusión nativos
 
 
 				_Blur Aspect:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste genere un 
+
+					desenfoque direccional, específicamente un desenfoque horizontal
 
 
 				_Use Lens Blur:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste genere un 
+
+					desenfoque de tipo vector blur
 
 
 				_Unique Blur Seed:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste genere un animación
+
+					previa antes de inicializar la reproducción del timeline
 
 
 
@@ -165,27 +296,46 @@
 
 				_Color Amount:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la cantidad de desenfoque
+
+					aplicado sobre la layer, base
 
 
 				_Color Twitches [Sec]:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el timming, de intervalos
+
+					de color aplicado a la layer, base a partir de la reproducción del
+
+					timeline, desde el inicial de la composición respectiva
 
 
 				_Colorize:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el color ha aplicar
+
+					sobre la layer, base
+
+
+					_de ésta manera, podremos teñir la layer, base de un color para lo cuál,
+
+					dispondremos de un picker, ó un selector personalizado
 
 
 				_Color Randomize:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste separe los canales
+
+					de color en r,g,b, para que así, se genere un virado de color de forma
+
+					alternada y aleatoria
 
 
 				_Unique Color Seed:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste genere un animación
+
+					previa antes de inicializar la reproducción del timeline
 
 
 
@@ -194,12 +344,18 @@
 
 				_Light Amount:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la cantidad de luz
+
+					aplicada sobre la layer, base
 
 
 				_Light Twitches [Sec]:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el timming, de intervalos
+
+					de iluminación aplicado a la layer, base a partir de la reproducción del
+
+					timeline, desde el inicial de la composición respectiva
 
 
 				_Light Behaviour:
@@ -207,22 +363,42 @@
 
 					_Brighter:
 
-						_
+						_ésta opción nos permitirá indicarle al sistema el algoritmo del
+
+						tipo de luminancia aplicado sobre la layer, base
+
+
+						_en éste caso la luminancia aplicada corresponderá a una clave alta
 
 
 					_Darker:
 
-						_
+						_ésta opción nos permitirá indicarle al sistema el algoritmo del
+
+						tipo de luminancia aplicado sobre la layer, base
+
+
+						_en éste caso la luminancia aplicada corresponderá a una clave baja
 
 
 					_Both:
 
-						_
+						_ésta opción nos permitirá indicarle al sistema el algoritmo del
+
+						tipo de luminancia aplicado sobre la layer, base
+
+
+						_en éste caso la luminancia aplicada corresponderá tanto a una 
+
+						clave alta como ha una clave baja, de forma consecutiva y alternada
 
 
 				_Unique Light Seed:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste genere un animación
+
+					previa antes de inicializar la reproducción del timeline
+
 
 
 
@@ -231,76 +407,129 @@
 
 				_Scale Amount:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la cantidad de rescalo
+
+					aplicada sobre la layer, base
 
 
 				_Scale Twitches [Sec]:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el timming, de intervalos
+
+					de iluminación aplicado a la layer, base a partir de la reproducción del
+
+					timeline, desde el inicial de la composición respectiva
 
 
 				_Scale Origin:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el punto de origin a partir
+
+					del cuál, la layer, base será rescalada
+
+
+					_el cuál, podremos animar para agregar más interacción sobre el sistema
+
+					generado
 
 
 				_Scale Origin Randomized:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste modifique el punto
+
+					el punto de anclaje de forma aleatoria para que así, el sistema tenga más
+
+					alternatividad
 
 
 				_Scale Motion Blur:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste agrege motion blur,
+
+					cada vez que la layer, base es rescalada
 
 
 				_Unique Scale Seed:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste genere un animación
+
+					previa antes de inicializar la reproducción del timeline
+
 
 
 
 			_Slide:
 
 
-				_Slide Amount:
+				_Scale Amount:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la cantidad de desplamiento
+
+					aplicada sobre la layer, base
 
 
-				_Slide Twitches [Sec]:
+				_Scale Twitches [Sec]:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el timming, de intervalos
+
+					de iluminación aplicado a la layer, base a partir de la reproducción del
+
+					timeline, desde el inicial de la composición respectiva
+
 
 
 				_Slide Direction:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la dirección del 
+
+					desplazamiento de la layer, base
 
 
 				_Slide Spread:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la aleatoriedad del
+
+					desplazamiento de la layer, base
 
 
 				_Slide Tendency:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el desface del 
+
+					desplazamiento sobre la layer, base
+
+
+					_para lo cuál, dispondremos de un valor de entre "-1 - 1", de ésta manera,
+
+					podremos hacer que el desplazamiento sea desde una dirección ó de la 
+
+					dirección opuesta
 
 
 				_Slide RGB Split:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste realize una 
+
+					separación de los canales de color en r,g,b
+
+
+					_lo cuál, nos permitirá generar el efecto de aberración cromática
 
 
 				_Slide Motion Blur:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste agregue el efecto
+
+					de motion blur, cada vez que el sistema genere desplazamiento sobre la 
+
+					imágen base
 
 
 				_Unique Slide Seed:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste genere un animación
+
+					previa antes de inicializar la reproducción del timeline
 
 
 
@@ -309,46 +538,51 @@
 
 				_Time Amount:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la cantidad de desplamiento
+
+					de tiempo aplicado sobre la layer, base
 
 
-				_Time Twitch [Sec]:
+				_Time Twitches [Sec]:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el timming, de intervalos
+
+					de iluminación aplicado a la layer, base a partir de la reproducción del
+
+					timeline, desde el inicial de la composición respectiva
 
 
+				
 				_Time Direction:
-
-					_
-
-
-				_Unique Time Seed:
 
 
 					_Both:
 
-						_
+						_ésta opción nos permitirá indicarle al sistema que genere el
+
+						desplazamiento del tiempo en ambas direcciones, tanto hacia adelante
+
+						como hacia atras de forma alternada y aleatoria
 
 
 					_Forward Only:
 
-						_
+						_ésta opción nos permitirá indicarle al sistema que genere el
+
+						desplazamiento del tiempo sólo hacia adelante
 
 
 					_Backward Only:
 
-						_
+						_ésta opción nos permitirá indicarle al sistema que genere el
+
+						desplazamiento del tiempo sólo hacia atras
 
 
 				_Unique Time Seed:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste genere un animación
 
-
-
-
-
-
-
+					previa antes de inicializar la reproducción del timeline
 
 

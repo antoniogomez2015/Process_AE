@@ -1,0 +1,323 @@
+
+
+
+
+	https://www.videocopilot.net/
+
+
+	
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá generar un sistema de ojos de alta calidad y totalmente personalizables
+
+		y animables para un sistema de characters
+
+
+
+
+		
+
+
+	Video Copilot Glass Eyes:
+	_________________________
+
+
+
+		_Position Left:
+
+			_ésta opción nos permitirá indicarle al sistema la ubicación del ojo izquierdo para lo
+
+			cuál, dispodnremos de una handle, directamente en el viewport, del panel compositing, ó
+
+			a través, del panel effects controls
+
+
+		_Position Right:
+
+			_ésta opción nos permitirá indicarle al sistema la ubicación del ojo derecho para lo
+
+			cuál, dispodnremos de una handle, directamente en el viewport, del panel compositing, ó
+
+			a través, del panel effects controls
+
+
+		_Size Left:
+
+			_ésta opción nos permitirá indicarle al sistema el tamaño del ojo izquierdo
+
+
+		_Size Right:
+
+			_ésta opción nos permitirá indicarle al sistema el tamño del ojo derecho
+
+
+		_Eye Color:
+
+			_ésta opción nos permitirá indicarle al sistema el color del iris de ambos ojos
+
+			_para lo cuál, dispondremos de picker, ó un selector de color
+
+
+
+		_Pupil Type:
+
+			
+			_Default:
+
+				_ésta opción nos permitirá indicarle al sistema el tipo ó algoritmo de reflexión 
+
+				del ojo a nivel global lo cuál, afectará de cierta manera, la visualización del 
+
+				iris del ojo
+
+
+				_en éste caso la refleción se encuentra más alrededor de la esclerótica del ojo
+
+
+			_Outside:
+
+				_ésta opción nos permitirá indicarle al sistema el tipo ó algoritmo de reflexión 
+
+				del ojo a nivel global lo cuál, afectará de cierta manera, la visualización del 
+
+				iris del ojo
+
+
+				_en éste caso la refleción se encuentra más sobre el iris del ojo
+
+
+			_Interior:
+
+				_ésta opción nos permitirá indicarle al sistema el tipo ó algoritmo de reflexión 
+
+				del ojo a nivel global lo cuál, afectará de cierta manera, la visualización del 
+
+				iris del ojo
+
+
+				_en éste caso la refleción se encuentra más sobre el iris del ojo
+
+
+			_Sparkle:
+
+				_ésta opción nos permitirá indicarle al sistema el tipo ó algoritmo de reflexión 
+
+				del ojo a nivel global lo cuál, afectará de cierta manera, la visualización del 
+
+				iris del ojo
+
+
+				_en éste caso la refleción se encuentra más sobre el iris del ojo, aunque ésta
+
+				opción resaltará más el iris del ojo que las opciones anteriores
+
+
+		_Glass Type:
+
+
+			_Inside:
+
+				_ésta opción nos permitirá indicarle al sistema el mapa a través, del cuál, se
+
+				generará la reflexión sobre la esclerótica, iris y el ojo en general
+
+
+				_en éste caso se utilizará el mapa de color blanco utilizado en la esclerótica 
+
+				del ojo
+
+
+			_Library:
+
+				_ésta opción nos permitirá indicarle al sistema el mapa a través, del cuál, se
+
+				generará la reflexión sobre la esclerótica, iris y el ojo en general
+
+
+				_en éste caso se utilizará el mapa de una librería
+
+
+			_City:
+
+				_ésta opción nos permitirá indicarle al sistema el mapa a través, del cuál, se
+
+				generará la reflexión sobre la esclerótica, iris y el ojo en general
+
+
+				_en éste caso se utilizará el mapa de una ciudad
+
+
+			_Hall:
+
+				_ésta opción nos permitirá indicarle al sistema el mapa a través, del cuál, se
+
+				generará la reflexión sobre la esclerótica, iris y el ojo en general
+
+
+				_en éste caso se utilizará el mapa de un sombrero
+
+
+			_Outside:
+
+				_ésta opción nos permitirá indicarle al sistema el mapa a través, del cuál, se
+
+				generará la reflexión sobre la esclerótica, iris y el ojo en general
+
+
+				_en éste caso se utilizará el mapa de un imágen de un exterior al aire libre
+
+
+			_Sample:
+
+				_ésta opción nos permitirá indicarle al sistema el mapa a través, del cuál, se
+
+				generará la reflexión sobre la esclerótica, iris y el ojo en general
+
+
+				_en éste caso se utilizará el mapa de unos screen, ó pantallas de luz
+
+
+			_Room:
+
+				_ésta opción nos permitirá indicarle al sistema el mapa a través, del cuál, se
+
+				generará la reflexión sobre la esclerótica, iris y el ojo en general
+
+
+				_en éste caso se utilizará el mapa de una habitación cerrada
+
+
+		_Pupil Size Left:
+
+			_ésta opción nos permitirá indicarle al sistema el tamaño de la pupila izquierda en relación
+
+			al tamaño de la esclerótica del ojo
+
+
+			_lo que nos permitirá animar las expresiones del ojo respectivamente
+
+
+		_Pupil Size Right:
+
+			_ésta opción nos permitirá indicarle al sistema el tamaño de la pupila derecha en relación
+
+			al tamaño de la esclerótica del ojo
+
+
+			_lo que nos permitirá animar las expresiones del ojo respectivamente
+
+
+
+		_Look Offset:
+
+			_ésta opción nos permitirá indicarle al sistema que éste haga rotaciones de los ojos en su
+
+			conjunto a través, del panel effects controls
+
+
+			_por medio de dos parámetros, donde el primer parámetro hará que los ojos orbiten sobre su 
+
+			propio eje ó centro respectivamente lo cuál, les permitirá mirar ha ambos ojos en una misma
+
+			dirección
+
+
+			_y a través, del segundo parámetro podremos hacer que los ojos miren hacia arriba ó miren 
+
+			hacia abajo respectiamente ambos al unísono
+
+
+		_Cross-Eyed Offset:
+
+			_ésta opción nos permitirá indicarle al sistema desfazar los ojos de ésta manera, podremos
+
+			hacer que ambos ojos giren en sentido opuesto tanto hacia los lados como hacia arriba como
+
+			hacia abajo
+
+
+			_lo que permitirá a su vez, que los ojos puedan encontrarse mirando hacia la misma dirección
+
+			ó por el contrario, hacer que éstes se distancien generando efecto y expresiones avanzadas
+
+			de animación sobre un character
+
+
+		_Pupil Rotation:
+
+			_ésta opción nos permitirá indicarle al sistema que cada ojo rote sobre su propio eje "Z",
+
+			de ésta manera, podremos hacer que las pupilas y escleróticas giren al unísono
+
+
+		_Shadow Rotation:
+
+			_ésta opción nos permitirá indicarle al sistema que la sombra rote al mismo ritmo que 
+
+			podrían rotar los ojos en las cordenada "Z", como también, rotar a una velocidad diferente
+
+
+		_Shadow Opacity:
+
+			_ésta opción nos permitirá indicarle al sistema el nivel ó umbral de opacidad de las sombras
+
+			generadas por ambos ojos
+
+
+		_Glass Opacity:
+
+			_ésta opción nos permitirá indicarle al sistema el nivel ó umbral de la reflexión existente
+
+			en la esclerótica y pupila del ojo
+
+
+		_Goody Amount:
+
+			_(Indeterminado)
+
+
+		_Goody Speed:
+
+			_(Indeterminado)
+
+
+		_Swap Render Overlap:
+
+			_ésta opción nos permitirá indicarle al sistema que active el intercambio de superficie?
+
+
+		_Composite:
+
+
+			_On Transparent:
+
+				_ésta opción nos permitirá indicarle al sistema que genere un canal alpha, para que
+	
+				así, las demás layers, de la composición respectiva sean visibles debajo del sistema
+
+				generado de ojos
+
+
+			_Over Original:
+
+				_ésta opción nos permitirá indicarle al sistema que mantenga visible la layer, base
+
+				sobre la cuál, se ha aplicado el sistema de ojos generados lo cuál, no permitirá que
+
+				sean visibles las demás layers, de la composición respectiva
+
+
+
+
+
+
+
+

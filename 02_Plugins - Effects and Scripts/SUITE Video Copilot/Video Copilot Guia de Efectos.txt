@@ -66,6 +66,46 @@ https://www.videocopilot.net/
 
 
 
+	------------------------------------------------------------------------------------------------------------------
+
+	Video Copilot Twitch:
+	_____________________
+
+
+	_este efecto nos permitirá crear y aplicar diferentes efecto sobre la imágen base como desenfoque, 
+
+	iluminación, escala, sesgado y tiempo
+
+
+	_de ésta manera, podremos agregar éstas características y hacer que éstas varien y oscilen a través, del 
+
+	tiempo para emular defectos y tensión sobre la imágen para generar alteraciones sobre la imágen ó video base
+
+
+	_éste efecto es complementario para la creación de transiciones efectos de tv, otros
+
+
+
+
+
+	------------------------------------------------------------------------------------------------------------------
+
+	Video Copilot Glass Eyes:
+	_________________________
+
+
+	_este efecto nos permitirá generar un sistema de ojos de alta calidad y totalmente personalizables
+
+	y animables para un sistema de characters
+
+
+
+
+
+
+
+
+
 
 
 
