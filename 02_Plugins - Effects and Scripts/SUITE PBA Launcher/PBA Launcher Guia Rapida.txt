@@ -1,0 +1,114 @@
+
+
+
+	Pixel Bender Accelerator
+		https://aescripts.com/pixel-bender-accelerator/
+
+			
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	------------------------------------------------------------------------------------------------------------------
+
+	Pixel Bender Accelerator PBA aeAngle.pbk: 
+	_________________________________________
+
+
+	_
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	------------------------------------------------------------------------------------------------------------------
+	Directorio FxPro:
+	------------------------------------------------------------------------------------------------------------------
+
+
+	_PBA aeAngle 1,pbk -> FxPro/Transformation
+
+	_PBA aeAngle 2.pbk -> FxPro/Transformation
+
+	_PBA aeColor.pbk -> FxPro/Color | Fill-ter
+
+	_PBA aeOneChannelColor.pbk -> FxPro/Color | Fill-ter
+
+	_PBA aePoint.pbk -> FxPro/Shape | Forms
+
+	_PBA aePopup.pbk -> FxPro/Channels
+
+	_PBA AngleDegrees.pbk -> FxPro/Distortion | Mix
+
+	_PBA color.pbk -> FxPro/Generar | General
+
+	_PBA enum.pbk -> FxPro/Color | Fill-ter
+
+	_PBA aePercentSlider.pbk -> FxPro/Levels | Exposer
+
+	_PBA ft-AutoWhiteBalance.pbk -> FxPro/Color | Change
+
+	_PBA ft-Brightness Check.pbk -> FxPro/Levels | Exposer
+
+	_PBA ft-Clamp.pbk -> FxPro/Color | Sampling
+
+	_PBA ft-CombineRGBA.pbk -> FxPro/Channels
+
+	_PBA ft-CubitDistortion.pbk -> FxPro/Distortion | Mix
+
+	_PBA ft-Filmc Contrast.pbk -> FxPro/Levels | Exposer
+
+	_PBA ft-PPass2Matte.pbk -> FxPro/3D | Composite
+
+	_PBA ft-Technicolor.pbk -> FxPro/Color | Grading
+
+	_PBA ft-UVPass.pbk -> FxPro/3D | Composite
+
+	_PBA ft-Vignetting.pbk -> FxPro/Vignette
+
+	_PBA percentage.pbk -> FxPro/Color | Virado
+
+	_BPA position.pbk -> FxPro/Distortion | Bulge
+
+	_PBA qp_Bars.pbk -> FxPro/Color | Testing
+
+	_PBA qp_ChromaSubSample.pbk -> FxPro/Keyging | Extract
+
+	_PBA YY_BitExtender.pbk -> FxPro/Composition | projects and Files
+
+	_PBA YY_MagicKey.pbk -> FxPro/Keyging | Extract
+
+	_PBA YY_MorphShake.pbk -> FxPro/Distortion | Stretch
+
+	_PBA YY_Seamless.pbk -> FxPro/3D | Composite
+
+	_PBA YY_UVMapper.pbk -> FxPro/3D | Composite
+
+	_PBA YY_Voronoi.pbk -> FxPro/Generar | General
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
