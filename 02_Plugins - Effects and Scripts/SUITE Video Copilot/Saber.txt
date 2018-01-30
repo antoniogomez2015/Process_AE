@@ -5,6 +5,10 @@
 	https://www.videocopilot.net/
 
 
+
+	New Plug-in: SABER + Tutorial! 100% Free
+		https://www.youtube.com/watch?v=reSXGxkyr0k
+
 	
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -31,47 +35,119 @@
 
 		_Preset:
 
-			_
+			_ésta opción nos permitirá disponer de una serie de presets, a disposición para la creación
+
+			de forma rápida de diferentes configuraciones de producción como fiego, neones, plasmas,
+
+			radiación, estelas, electricidad, fuego, otros, a partir de los cuáles, podremos crear 
+
+			efectos aún más complejos y altamente personalizados
 
 
 		_Enable Glow:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema que active ó desactive las opciones de 
+
+			glow, ó dispersión
+
+
+			_la cuál, es indispensable para el proceso del efecto saber, ya que si desactivamos ésta 
+
+			opción el efecto se hará prácticamente inapreciable
 
 
 		_Glow Color:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema un color a través, del cuál, se teñirá el
+
+			efecto de saber
+
+			
+			_para lo cuál, dispondremos de un picker, ó un selector de color a través, del cuál, 
+
+			podremos indicar un color personalizado
 
 
 		_Glow Itensity:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema el valor ó umbral de luminancia a través,
+
+			del cuál, podremos cambiar la connotación del efecto
+
+
+			_así, como también, cambiar la gamma y tono del color y del efecto en general, de ésta
+
+			manera, podremos crear un efecto más apagado ó más ténue ó un efecto más intenso
 
 
 		_Glow Spread:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema la dispersión del efecto glow, de ésta 
+
+			manera, podremos aumentar ó disminuir la acutancia de la luminancia y la gamma tonal
+
+
+			_así, podremos crear efectos más envolventes ó por el contrario, efectos más separados y
+
+			distinguidos del fondo como también, con un rango dinámico muy ámplio y en clave alta
 
 
 		_Glow Bias:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema que atenúe la fuerza general del efecto
+
+
+			_de ésta manera, a través, de valores cercanos ha "0", el efecto será casi imperceptible
+
+			más con valores cercanos ha "5", el efecto será muy intenso y estará a su máxima expresión			
 
 
 		_Core Size:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema el núcleo ó dureza del efecto lo que se
+
+			traducirá en un cambio en gamma tonal del efecto así, como también, de la luminancia de éste
+
+
+			_de ésta manera, podremos controlar la intensidad y acutancia de los tonos y la luminancia
+
+			del efecto, lo que atenuará el efecto ó lo intensificará más a su vez, generará una clave
+
+			alta hasta reventar los blancos de la imágen resultante
 
 
 		_Core Start:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema la ubicación del punto inicial del sistema
+
+			lineal generado
+
+
+			_para lo cuál, dispondremos de un handle, directamente en el viewport, del panel compositing,
+
+			ó a través, del panel effects controls, a través, de valores específicos
+
+
+			NOTA: ésta opción estará activa sólo si la opción de "Customize Core/Core Type", está en el
+
+			valor de "Saber"
 
 
 		_Core End:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema la ubicación del punto final del sistema
+
+			lineal generado
+
+
+			_para lo cuál, dispondremos de un handle, directamente en el viewport, del panel compositing,
+
+			ó a través, del panel effects controls, a través, de valores específicos
+
+
+			NOTA: ésta opción estará activa sólo si la opción de "Customize Core/Core Type", está en el
+
+			valor de "Saber"
 
 
 	
@@ -83,72 +159,238 @@
 
 				_Saber:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que cree el sistema base
+
+					por defecto 
 
 
+					_el cuál, consta de un sistema lineal a partir de la intercepción de entre 
+
+					dos puntos los cuáles, podremos manipular y animar a través, del tiempo
+
+					
 				_Layer Masks:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste genere el sistema
+
+					a partir de una máscara aplicada sobre la layer, base
+
+
+					_de ésta manera, podremos crear formas personalizadas tanto formas abiertas
+
+					como formas cerradas
+
+
+					_como también, podremos animar y manipular éstas formas a través, de 
+
+					máscaras geométricas ó formas personalizadas
+
 
 
 				_Text Layer:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que genere el sistema a
+
+					partir de una layer, de tipo texto dentro de la composición respectiva
+
+
+					_de ésta manera, el sistema se generará a partir de la forma ó trazo del
+
+					texto ha modo de proxi
+
+
+					_más el sistema no sólo tomará la información del trazado del texto, si no 
+
+					que también, tomará la posición y escala de ésta layer, auxiliar
+
+
+					_lo cuál, nos permitirá también, animar éstos parámetros para aumentar las
+
+					posibilidades de adición y animación a través, del tiempo en relación a las
+
+					necesidades de producción y paso contínuo
 
 
 			_Text Layer:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema una layer, de tipo texto dentro de
+
+				la composición respectiva la cuál, se utilizará ha modo de proxi para la generación
+
+				del sistema
+
+
+				NOTA: ésta opción sólo estará disponible si la opción de "Customize Core/Core Type",
+
+				está en la opción de "Text Layer"
 
 
 			_Mask Evolution:
 
-				_
+				_(Indeterminado)
 
 
 			_Start Size:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que aumente ó disminuya el tamaño
+
+				del efecto en la parte inicial del trazado ó sistema
+
+
+				_lo que nos permitirá animar la evolución y generación del sistema desde su parte
+
+				inicial hasta su parte final ó a la inversa
 
 
 			_Start Offset:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que desplaze ó desface la 
+
+				configuración del tamaño del sistema inicial hacia las partes medias y finales
+
+				del sistema
+
+
+				_de ésta manera, podremos hacer que el sistema aparezca ó desaparezca de forma
+
+				gradual ó progresiva a través, del tiempo
+
+
+				_lo que nos permitirá animar más fácilmente el sistema, manteniendo el tamaño 
+
+				inicial el cuál, sólo moveríamos para hacer ajustes y correcciones respectivamente
 
 
 			_End Size:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que aumente ó disminuya el tamaño
+
+				del efecto en la parte final del trazado ó sistema
+
+
+				_lo que nos permitirá animar la evolución y generación del sistema desde su parte
+
+				final hasta su parte inicial ó a la inversa
+
 
 
 			_End Offset:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que desplaze ó desface la 
+
+				configuración del tamaño del sistema final hacia las partes medias e iniciales
+
+				del sistema
+
+
+				_de ésta manera, podremos hacer que el sistema aparezca ó desaparezca de forma
+
+				gradual ó progresiva a través, del tiempo
+
+
+				_lo que nos permitirá animar más fácilmente el sistema, manteniendo el tamaño 
+
+				inicial el cuál, sólo moveríamos para hacer ajustes y correcciones respectivamente
+
 
 
 			_End Roundness:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que redondee los bordes de los
+
+				extremos del sistema generado, tanto el punto de entrada como del punto de salida
+
+
+				_de ésta manera, podremos generar un sistema más estilizado con los bordes más
+
+				redondeados o con unos mejores acabados
+
+
+				NOTA: ésta opción cobrará sentido para el sistema base así, como también, para 
+
+				máscaras abiertas
 
 
 			_Offset Size:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que podremos hacer que la 
+
+				interpolación ó acutancia entre las áreas en offset, ó visibles tanto en el punto de 
+
+				entrada como del punto de salida
+
+				
+				_de ésta manera, podremos crear una transición más suave ó integrada ó por el 
+
+				contrario pdremos hacer una transición más diferenciada y con una mayor acutancia y
+
+				con menos profundidad y por ende con más rango dinámico y contraste
 
 
 			_Halo Intensity:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que podremos hacer que el que el 
+
+				trazado del path, ó contorno generado por la máscara de referencia sea visible a 
+
+				través, de la intensidad limínica
+
+
+				_de ésta manera, con valores inferiores ha "100", el halo ó trazado será 
+
+				imperceptible
+
+
+				_más con valores superiores ha "100", el halo comenzará ha verse de manera sutíl y
+
+				muy delgado
+
+
+				_así, de hasta con un valor de "1000", el halo será mucho más grueso e intenso de 
+
+				ésta manera, podremos generar diferentes efectos em relación a los requerimientos 
+
+				de producción y paso contínuo
 
 
 			_Halo Size:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que podremos hacer que el sistema 
+
+				gradue el tamaño ó grosor del halo generado por el sistema a partir del trazado 
+
+				de la máscara utilizada
+
+
+				_de ésta manera, con un valor cercano ha "0", el halo será imperceptible, en 
+
+				relación a su vez, al valor indicado por la opción anterior de "Halo Intensity"
+
+
+				_más con valores cercanos ha "100", el grosor del halo generado llegará a su climax
+
+				opteniendo así, el máximo grosor posible
+
+
+				_más con valores de hasta "300", el halo irá decayendo en grosor paulatinamente 
+
+				hasta su desvanecimiento total, valores superiores ha "300", no tienen ninguna
+
+				aplicación práctiva
 
 
 			_Core Softness:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que podremos hacer que éste realize 
+
+				y genere un mejor y más definido halo, permitiéndo así, que éste se integre mejor 
+
+				en el sistema generado
+
+
+				_de ésta manera, con valores cercanos ha "0", el suavizado será inexistente más con
+
+				valores cercanos ha "25", el suavizado será el máximo disponible
 
 
 
@@ -157,22 +399,49 @@
 
 			_Flicker Intensity:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que podremos hacer que éste active 
+
+				la opción de intervalos de intensidad de forma alternada
+
+
+				_de ésta manera, podremos hacer que el sistema altere de forma alternada su 
+
+				intensidad a través, de picos ascendentes y descendentes
+
+
+				_de ésta forma podremos agregar aleatoriedad sobre la generación del sistema
+
 
 
 			_Flicker Speed:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que altere la velocidad ó cantidad 
+
+				de intervalos por segundo aplicado sobre el sistema generado
+
+
+				_de ésta manera, podremos generar un sistema más rápido ó trepidante ó lento y 
+
+				pausado
 
 
 			_Mask Randomization:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que aumente exponencialmente el 
+
+				efecto de intervalos de intensidad de luminancia de forma aguda e intensa
 
 
 			_Random Seed:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que realize una animación previa
+
+				al inicio de la reproducción del timeline
+
+
+				_lo que nos permitirá evitar la curva de animación inicial y comerzar ha reproducir
+
+				el sistema con una animación previamente inicializada
 
 
 
@@ -181,12 +450,231 @@
 
 			_Glow Distortion:
 
-				_
+
+				_Distortion Amount:
+
+					_ésta opción nos permitirá indicarle al sistema que active dispersión ó la 
+
+					cantidad de efecto fractal sobre el sistema
+
+
+					_lo que a su vez, activará indefinidamente la animación para éste efecto 
+
+					fractal para la generación de diferentes efectos como fuego, plasma, otros
+
+
+				_Distortion Type:
+
+
+					_Smoke:
+
+						_ésta opción nos permitirá indicarle al sistema que genere el 
+
+						sistema de ruido fractal estandar el cuál, es el más acusado y
+
+						polulante el cuál, nos permitirá generar la mayoría de los efectos
+
+						de tipo fuego, plasta, humo, otros
+
+
+					_Fluid:
+
+						_ésta opción nos permitirá indicarle al sistema que genere el
+
+						sistema de ruido fractal más posterizado y contrastado el cuál, nos
+
+						permitirá hacer efectos más líquidos ó magmáticos como también, nos
+
+						permitirá hacer algunos tipos de fuegos, electricidad, otros
+
+
+					_Energy:
+
+						_ésta opción nos permitirá indicarle al sistema que genere el 
+
+						el sistema más estilizado y refinado ó límpio lo cuál, es 
+
+						especialmente útil para la generación de efectos eléctricos así,
+
+						como también, para la generación de efectos tipo elásticos, semi
+
+						acuosos, otros
+
+
+
+
+				_Composite:
+
+
+					_Distortion:
+
+						_ésta opción nos permitirá indicarle al sistema que mantenga lo
+
+						máximo posible las características aplicadas por las opciones de
+
+						"Distortion Type", del paso anterior
+
+
+						_de ésta manera, el sistema mantendrá su apariencia sin tomar en
+
+						cuenta las demás layers, de la composición respectiva
+
+
+					_Multiply:
+
+						_ésta opción nos permitirá indicarle al sistema que simplifique las
+
+						características aplicadas por las opciones "Distortion Type", para
+
+						que así, el sistema se integre mejor con las demás layers, de la
+
+						composición respectiva
+
+
+				_Invert:
+
+					_ésta opción nos permitirá indicarle al sistema que invierta el mapa de
+
+					liminancia ó depth máp, utilizado para la generación del fractal noise
+
+
+					_de ésta manera, podremos hacer variaciones sobre el sistema generado
+
+
+				_Wind Speed:
+
+					_ésta opción nos permitirá indicarle al sistema la velocidad que tendrá
+
+					la simulación del ruido fractal generado a partir de la activación de las
+
+					opciones de "Glow Distortion/Distortion Amount"
+
+
+				_Wind Direction Offset:
+
+					_ésta opción nos permitirá indicarle al sistema la dirección que tendrá el
+
+					avance del ruido fractal, por defecto el ruido fractal se dirige hacia 
+
+					arriba
+
+
+					_más tendremos la posibilidad de indicar otra dirección a través, de grados
+
+					específicos por medio de un slider ó wheel
+
+
+				_Noise Speed:
+
+					_
+
+
+				_Noise Scale:
+
+					_
+
+
+				_Noise Bias:
+
+					_
+
+
+				_Noise Complexity:
+
+					_
+
+
+				_Noise Aspect Ratio:
+
+					_
+
+
+				_Motion Blur:
+
+					_
+
+
+				_Random Seed:
+
+					_
+
+
+				_Lock Noise to Saber:
+
+					_
+
 
 
 			_Core Distortion:
 
-				_
+				_Distortion Amount:
+
+					_
+
+
+				_Distortion Type:
+
+					_
+
+
+				_Wind Speed:
+
+					_
+
+
+				_Wind Direction Offset:
+
+					_
+
+
+				_Invert:
+
+					_
+
+
+				_Noise Speed:
+
+					_
+
+
+				_Noise Scale:
+
+					_
+
+
+				_Noise Bias:
+
+					_
+
+
+				_Noise Complexity:
+
+					_
+
+
+				_Noise Aspect Ratio:
+
+					_
+
+
+				_Motion Blur:
+
+					_
+
+
+				_Random Seed:
+
+					_
+
+
+				_Lock Noise to Saber:
+
+					_
+
+
+				_Blend on Top:
+
+					_
 
 
 
