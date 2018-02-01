@@ -20,7 +20,12 @@
 	________________
 
 
-		_este efecto nos permitirá 
+		_este efecto nos permitirá generar diferentes efectos como trazados de luz, rayos, strands, fuego,
+
+		llamas, otros
+
+
+		_así, como también, efectos compuestos de producción y paso contínuo
 
 
 
@@ -458,9 +463,9 @@
 					cantidad de efecto fractal sobre el sistema
 
 
-					_lo que a su vez, activará indefinidamente la animación para éste efecto 
+					_lo que a su vez, activará la animación para éste efecto fractal para la 
 
-					fractal para la generación de diferentes efectos como fuego, plasma, otros
+					generación de diferentes efectos como fuego, plasma, otros
 
 
 				_Distortion Type:
@@ -566,115 +571,369 @@
 
 				_Noise Speed:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la velocidad de emisión del
+
+					efecto fractal
+
+
+					_lo que nos permitirá hacer éste efecto animable ó dinámico ó por el 
+
+					contrario nos permitirá hcer éste efecto estático ó muy sutil en relación
+
+					a las necesidades de producción
+
+
+					_de ésta manera, con valores cercanos ha "0", el movimiento del efecto 
+
+					fractal será casi inapreciable
+
+
+					_más con valores cercanos ha "5", el efecto fractal será porulento y 
+
+					vertiginosos
 
 
 				_Noise Scale:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la escala de fractal noise
+
+					generado, de ésta manera, podremos ajustar ó adaptar el mapa de densidad
+
+					para la generación del ruido fractal en relación a las necesidades de 
+
+					producción y paso contínuo
 
 
 				_Noise Bias:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el comportamiento y 
+
+					caracerísticas que tomará el ruido fractal lo que nos permitirá crear
+
+					diferentes efectos
+
+
+					_de ésta manera, con valores cercanos ha "0", el efecto de ruido fractal se
+
+					tornará posterizado y con alto contraste y acutancia lo cuál, nos permitirá
+
+					crear efectos como plásticos, elásticos, otros
+
+
+					_más con valores cercanos ha "1", el efecto de ruido fractal se tornará en
+
+					su climax, de suavizado e interpolado lo que nos permitirá realizar efectos
+
+					como humo, magma, fuego, fluidos, otros
+
+
+					_y con valores cercanos ha "3", el efecto de ruido fractal se tornará más
+
+					estilizado y refinado lo que nos permitirá generar efectos de tipo stands,
+		
+					ó estelas de aceites, semi líquidos, otros
 
 
 				_Noise Complexity:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la escala de fractalidad
+
+					del sistema generado sober el efecto de ruido fractal
+
+
+					_lo que nos permitirá hacer combinaciones para la creación de diferentes
+
+					efectos de producicón y paso contínuo
+
+
+					_de ésta maenra, con valores cercanos ha "0 a 4", podremos crear efectos 
+
+					más de tipo fuego, estelas, llamas, flamas, gases,otros
+
+
+					_más ocn valores cercanos ha "5, a 10", poluciones de pseudo líquidos, 
+
+					fluidos elásticos, otros					
 
 
 				_Noise Aspect Ratio:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que deseamos cambiar el
+
+					aspecto ó proporción del efecto ruido fractal sobre el sistema generado
+
+				
+					_de ésta manera, podremos estirar el efecto de ruido fractal de forma 
+
+					vertical para lograr diferentes efectos colaterales y compuestos como 
+
+					llamas, filamentos, otros
 
 
 				_Motion Blur:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que active las opciones 
+
+					de motion blur, lo cuál, nos permitirá gerarar strands, ó estelas en los
+
+					movimientos generados por el sistema a través, del tiempo
+
+
+					_de ésta manera, podremos trackear un source, de video para la creación
+
+					de compositing, para que así, el sistema cobre realismo al interpretar 
+
+					también, el desenfoque natural de cámara por medio de motion blur
 
 
 				_Random Seed:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste realize una 
+
+					animación previa antes de inicializar la reproducción del timeline, lo que
+
+					permitirá que evitemos una curva de acelación inicial de la animación
 
 
 				_Lock Noise to Saber:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que bloquee la apariencia
+
+					del efecto en relación a los movientos de los handles, del efecto cuando
+
+					éste en "Customize Core/Core Type/Saber"
 
 
 
 			_Core Distortion:
 
+
 				_Distortion Amount:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la cantidad de distorsión
+
+					de halos geneados adicionales ha modo de strands, extras sobre el path,
+
+					base de la máscara utilizara para la generación del sistema
+
 
 
 				_Distortion Type:
 
-					_
+
+					_Smoke:
+
+						_ésta opción nos permitirá indicarle al sistema el criterio ó 
+
+						algoritmo ha utilizar para la generación del sistema
+
+
+						_en éste caso, se generará strands, homogéneas especialmente útiles
+
+						para la generación de fuego, estelas, tensiones, otros
+
+
+					_Fluid:
+
+						_ésta opción nos permitirá indicarle al sistema el criterio ó 
+
+						algoritmo ha utilizar para la generación del sistema
+
+
+						_en éste caso, se generará strands, más extremas y con ondulaciones
+
+						más agudas y consecutivas lo cuál, nos permitirá generar efectos
+
+						de tipo onas eléctricas, ondas espectrales, ondas plasmáticas, otros
+
+					_Energy:
+
+						_ésta opción nos permitirá indicarle al sistema el criterio ó 
+
+						algoritmo ha utilizar para la generación del sistema
+
+
+						_en éste caso, se generará strands, más sinuosas con ondas mucho
+
+						más largas y estilizadas
+
+
+						_lo cuál, es especialmente útil para la generación de efectos
+
+						eléctricos como rayos, ondas eléctricas, efectos cáusticos, fuegos
+
+						magmas, elásticos, otros
 
 
 				_Wind Speed:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la velocidad de las strands,
+
+					generadas sobre el sistema así, podremos generar un sistema de strands, 
+
+					adicionales más pululento ó vertiginoso ó por el contrario podremos generar
+
+					un sistema más sutíl y suavizado
 
 
 				_Wind Direction Offset:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la dirección del movimiento
+
+					de los strands, los cuáles por defecto tienen un movimiento hacia arriba
+
+					más podremos hacer que los strands, dispongan de un movimiento personalizado 
+
+					el cuál, podremos indicar en grados específicos
 
 
 				_Invert:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que invierta el sentido de
+
+					los strands, así, los strands, que estaban mirando hacia arriba ahora 
+
+					estarán mirando hacia abajo y por el contrario, los strands, que estaban
+
+					mirando hacia abajo ahora estarán mirando hacia arriba
 
 
 				_Noise Speed:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la velocidad de ruido ó
+
+					profusión aplicado sobre el sistema de strands, generado por el sistema
+
+
+					_lo cuál, afectará el movimiento y aspecto de los strands, en general
 
 
 				_Noise Scale:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el tamaño ó escala del mapa
+
+					de densidad para la generación del ruido fractal utilizado para la 
+
+					generación de las strands
+
+
+					_lo que nos permitirá generar un sistema de strands, más profuso ó complejo
+
+					ó al contrario, más estilizado y suavizado en relación a las necesidades
+	
+					de producción
 
 
 				_Noise Bias:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el comportamiento del mapa
+
+					de densidad ya que con valores cercanos ha "0", el ruido fractal aplicado
+
+					sobre los strands, generados será totalmente posterizado, segmentado y con
+
+					alto contraste y acutancia lo cuál, nos permitirá generar efectos como
+
+					fuegos, espectros otros
+
+
+					_más con valores cercanos ha "0", obtendremos una interpolación por defecto
+
+					la cuál, nos permitirá generar la mayoría de los efectos como rayos, estelas,
+
+					plasmas, otros
+
+
+					_y con valores de hasta "3", podremos generar efectos más estilizados y 
+
+					señidos al path, ó trabajo base lo cuál, nos permitirá generar efectos más
+
+					sutiles y estilizados anervaciones, tensiones, otros
 
 
 				_Noise Complexity:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la profusión ó complejidad
+
+					de las ondas ó ruido fractal aplicado sober los strands, generados
+
+					
+					_de ésta manera, podremos generar stragns, más complejas ó más estilizadas
+
+					ó suavizadas
+				
 
 
 				_Noise Aspect Ratio:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la proporción del ruido 
+
+					fractal generado por el sistema 
+
+
+					_de ésta manera, podremos generar sistemas de ondulaciones verticales lo 
+
+					cuál, nos permitirá generar efectos senoseidales, entre otros tipos de ondas
+
+					y profuciones ondulatorias
 
 
 				_Motion Blur:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que active las opciones de
+
+					desenfoque de movimiento para las opciones de strands, generadas a partir
+
+					del path, ó trazado principal a partir del cuál, se generará todo el sistema
+
+
+					_de ésta manera, podremos emular el desenfoque de movimiento por medio del
+
+					trackeo del movimiento a través, de un source, de video, otros
 
 
 				_Random Seed:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que genere una animación 
+
+					previa a la reproducción del timeline, de las strands, adicionales al path,
+
+					principal general del sistema
+
+
+					_de ésta manera, podremos evitar la curva de aceleración inicial en el punto
+
+					de partir de la animación
 
 
 				_Lock Noise to Saber:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que mantenga la apariencia
+
+					del ruido fractal generado sólo en la opción de "Customize Core/Core Type/",
+
+					"Saber"
+
+
+					_para que así, el sistema mantenga su aspecto visual a la hora de mover los
+
+					handles, a través, del espacio dentro del canvas ó viewport, del panel
+
+					compositing
 
 
 				_Blend on Top:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema la intensificación de los
+
+					valores de luminancia sobre el path, a partir del cuál, se ha generado el
+
+					sistema
+
+
+					_lo que nos permitirá resaltar el trazado ó máscara a través, de la cuál,
+
+					se genero todo el sistema principal
 
 
 
@@ -745,47 +1004,127 @@
 
 				_On/Off:
 
-					_	
+					_ésta opción nos permitirá indicarle al sistema que active las opciones 
 
-	
-				_Composition:
+					de motion blur, ó desenfoque de movimiento
 
-					_
 
+					_lo cuál, nos permitirá hacer que el sistema generado cree strands, ó
+
+					estelas de movimiento a través, del tiempo, lo que nos permitirá lograr que
+
+					el sistema generado siga el movimiento natural de elementos trackeados en la
+
+					escena a través, del desenfoque de movimiento de cámra		
+				
 
 				_Motion Blur Multiplier:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el umbral ó rango de 
+
+					desenfoque de movimiento a través, del tiempo en relación al desenfoque
+
+					de movimiento existente en la escena ha emular
 
 
 				_Motion Blur Phase:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que desface, hacia atras
+
+					ó hacia adelante el desenfoque de movimiento generado a través, del tiempo
+
+
+					_lo que nos permitirá generar ajustes de tipo timming, a través, del tiempo
+
+					como también, para cubrir imperfecciones en la composición, otros en
+
+					relación al source, de referencia
 
 
 				_Motion Blur Clamp:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que mantenga el movimiento
+					
+					de frames, anteriores
 
 
 			_Gamma:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que realize variaciones sobre los
+
+				valores de luminancia del efecto ruido fractal de la propiedad:
+
+				"Distortion/Glow Distortion"
+
+
+				_de ésta manera, con valores cercanos ha "0", la luminancia de la imágen resultante
+
+				será lavada y blanquecina ó será una clave alta
+
+
+				_más con valores cercanos ha "1", se conseguirá una luminancia equilibrada ó 
+
+				técnicamente correcta
+
+
+				_y con valores superiores de entre "2-10", podremos suprimir los niveles de la 
+
+				imágen resultante hasta lograr un clave baja ó apagar la luminocidad del sistema
+
+				generado
+
+				
 
 
 			_Brightness:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema la luminancia de la imágen 
+
+				resultante pero específicamente las altas luces y brillos sobre el sistema generado
+
+
+				_de ésta manera, podremos desplazar el rango de niveles de tonos de la imágen,
+
+				intensificando así, el contraste e impacto del sistema generado así, como también,
+
+				infuir sobre la gamma y luminancia general de la imágen generada
+
+
+				_de ésta manera, con valores cercanos ha "0", la luminancia y visilidad de la imágen
+
+				será nula ó inexistente
+
+
+				_más con valores cercanos ha "1", la luminancia, brillo, contraste y gamma tonal de 
+
+				la imágen base serán los estándar generada por el sistema
+
+
+				_más con valores superiores de entre "2-5", podremos elevar el contraste, brillo y
+
+				las altas luces de la imágen resultante por la generación del sistema
 
 
 			_Saturation:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema la saturación ó desaturación del
+
+				sistema generado
+
+
+				_así, con valores cercanos ha "0", la desaturación del sistema será total llegando
+
+				ha convertir el sistema ha blanco y negro
+
+
+				_más con valores de hasta "2", la saturación de los colores generados por el sistema
+
+				puede duplicarse en saturación e intensidad de los colores
 
 
 			_Alpha Boost:
 
-				_
+				_(Indeterminado)
 
 
 			_Composite Settings:
@@ -793,32 +1132,114 @@
 
 				_Transparent:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que genere el sistema con
+
+					el fondo transparente lo que permitirá a su vez, que las demás layers, de
+
+					la composición respectiva sean visibles
 
 
 				_Black:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que genere el sistema a 
+
+					través, de sólo los trazados existentes en la layer, base, sean éstos 
+
+					trazados abiertos ó trazados cerrados
+
+
+					_así, como también, generará el sistema en fondo negro absoto ignorando la
+
+					información de la layer, base así, como también, la demás información de
+
+					las demás layers, de la composición respectiva
 
 
 				_Add:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste sume el sistema
+
+					global del efecto saber, con otros efectos saber, dupilcados en la misma
+
+					layer, lo cuál, nos permitirá multiplicar las capacidades del efecto 
+
+					inicial e incrementar la potencia del efecto generado
+
+
+					_así, como también, nos permitirá fusionar variantes de efectos como 
+
+					también, mezclar diferentes efectos sobre un mismo trazados, otros
+
+
+					_así, como también, ésta opción dejará ver la layer, base como las demás
+
+					layers, de la composición respectiva
 
 
 			_Alpha Mode:
 
-				_
+
+				_Enable Mask:
+
+					_ésta opción nos permitirá indicarle al sistema que circuscriba el efecto
+
+					dentro del área de una máscara cerrada, por ende ésta opción sólo aplica 
+
+					en máscaras trazados ó paths, cerrados
+
+
+				_Enable Core:
+
+					_ésta opción nos permitirá indicarle al sistema que comtemple las máscaras
+
+					extras generadas sobre la layer, base y que a su vez, éste genere un spill,
+
+					del efecto glow, sobre el área interna del área de reserva incluida dentro
+
+					de la máscara extra agregada sobre la layer, base
+
+
+					_lo que nos permitirá agregar un realismo extra para los diferentes procesos
+
+					de composición y producción y paso contínuo
+
+
+				_Mask Glow:
+
+					_ésta opción nos permitirá indicarle al sistema que cirscuscriba el efecto
+
+					sobre el path, respectivo de la máscara
+
+
+					_de ésta manera, el efecto se generará dentro de la máscara cerrada como
+
+					también, sobre el área perimetral de ésta hacia afuera lo que generará 
+
+					formas más realistas y naturales
+
+
+				_Disable:
+
+					_ésta opción nos permitirá indicarle al sistema que no contemple las 
+
+					máscaras extras agregadas sobre la layer, base a parte de la máscara 
+
+					utilizada para la generación del sistema en tal caso
+
 
 
 			_Invert Masks:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que invierta el sentido de las 
+
+				máscaras aplicadas al sistema de forma extra, de ésta manera, podremos hacer que
+
+				una layer, en vez de ser aditiva, que ahora sea sustractiva
 
 
 			_Use Text Alpha:
 
-				_
+				_(Indeterminado)
 
 
 
