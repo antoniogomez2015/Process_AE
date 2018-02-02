@@ -1,0 +1,222 @@
+
+
+
+
+	https://www.videocopilot.net/
+
+
+		
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá 
+
+
+
+
+
+
+
+	Video Copilot Heat Distortion:
+	______________________________
+
+
+
+		_Noise Pattern:
+
+
+			_Fire:
+
+				_ésta opción nos permitirá indicarle al sistema el algoritmo ó método a través,
+
+				del cuál, se generará el efecto de distorsión
+
+
+				_en éste caso, el efecto tratará de emular las deformaciones generadas por las
+
+				temperaturas ó por el fuego
+
+			
+			_Smoke:
+
+				_ésta opción nos permitirá indicarle al sistema el algoritmo ó método a través,
+
+				del cuál, se generará el efecto de distorsión
+
+
+				_en éste caso, el efecto tratará de emular las deformaciones generadas por las
+
+				temperaturas ó por el humo
+
+
+			_Incendiary:
+
+				_ésta opción nos permitirá indicarle al sistema el algoritmo ó método a través,
+
+				del cuál, se generará el efecto de distorsión
+
+
+				_en éste caso, el efecto tratará de emular las deformaciones generadas por las
+
+				temperaturas ó elementos incendiarios ó piroplásticos, otros
+
+
+
+		_Distortion Amount:
+
+			_ésta opción nos permitirá indicarle al sistema el umbral ó cantidad de distorsión fractal
+
+			global aplicada sobre la layer, base
+
+
+		_Heat Amount:
+
+			_ésta opción nos permitirá indicarle al sistema el umbral de áreas afectas por el desenfoque
+
+			a través, del tiempo
+
+
+			_de ésta manera, podremos generar áreas de desenfoque más grandes ó más pequeñas en relación
+
+			al efecto deseado
+
+
+		_Heat Bias:
+
+			_
+
+		
+		_Noise Scale:
+
+			_
+
+
+		_Noise Speed:
+
+			_
+
+
+		_Advanced Options:
+
+
+			_Heat Softness:
+
+				_
+
+
+			_Noise Offset:
+
+				_
+
+
+			_Noise Complexity:
+
+				_
+
+
+			_Noise Gamma:
+
+				_
+
+
+			_Noise Aspect Ratio:
+
+				_
+
+
+
+		_Wind Speed:
+
+			_
+
+
+		_Wind Direction:
+
+			_
+
+
+
+		_Render Settings:
+
+
+			_Layer Mask:
+
+				_
+
+
+			_Mask Mode:
+
+
+				_Alpha:
+
+					_
+
+
+				_Luminance:
+
+
+					_
+
+
+				_Alpha Inverted:
+
+					_
+
+
+				_Luminance Inverted:
+
+					_
+
+
+
+			_Override Alpha:
+
+				_
+
+
+			_Clip Bounds:
+
+				_
+
+
+
+		_Render:
+
+
+			_All:
+
+				_
+
+
+			_Displacement:
+
+				_
+
+
+			_Heat:
+
+				_
+
+
+			_Noise Pattern:
+
+				_
+
+
+
+
+
+
+
+
+
+
+

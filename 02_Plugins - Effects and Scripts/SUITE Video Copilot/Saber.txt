@@ -942,57 +942,79 @@
 			
 			_Glow Intensity Multiplier:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema la intensidad de la luminancia del
+
+				efecto fractal noise generado por el sistema
+
+
+				_de ésta manera, con valores cercanos ha "0". la visualización del efecto fractal
+
+				noise alrededor del path, ó trazado será imperceptible
+
+
+				_más con valores cercanos ha "100", la luminancia de la imágen resultantes a través,
+
+				del efecto fractal noise, será plena y con el mayor rango dinámico 
+
+
+				_más también, podremos aumentar el contraste, brillos y altas luces a través, de
+
+				valores de entre "100-1000", y superiores
 
 
 			_Glow Size Multiplier:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que extienda ó retraiga la gamma
+
+				tonal y luminancia de la imágen generada del fractal noise, en relación a su vez,
+
+				al área acupada por el path, ó trazado a partir del cuál, se ha generado el sistema
+
+
+				_de ésta manera, con valores cercanos ha "0", la gamma tonal y luminancia serán 
+
+				retraidas al mínimo en relación al ruido fractal más cercanos al path, ó trazado
+
+				generador del sistema
+
+
+				_y con valores cercanos ha "3", el rango dinámico y el rango tonal de la imágen y
+
+				luminancia serán plenos
+
+
+				_más con valores cercanos ha "10-30", el rango tonal, contraste y luminancia serán
+
+				muy ténues y sutiles
+
+
+				_de ésta manera, controlar controlar la connotación y fuerza del efecto resultante
 
 
 			_Glow Pre Gamma:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema un control de "levels", global de 
+
+				luminancia del sistema de fractal noise, alrededor de path, ó trazado base
 
 
-			_Glow 1 Intensity:
+			_Glow 1,2,3,4 Intensity:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema una intensidad de la luminancia 
 
-
-			_Glow 1 Size:
-
-				_
+				extra para la generación del efecto fractal noise generado por el sistema
 
 
-			_Glow 2 Intensity:
 
-				_
+			_Glow 1,2,3,4 Size:
 
+				_ésta opción nos permitirá indicarle al sistema una extensión ó retracción 
 
-			_Glow 2 Size:
+				extra la gamma tonal y luminancia de la imágen generada del fractal noise, en 
 
-				_
-
-
-			_Glow 3 Intensity:
-
-				_
-
-
-			_Glow 3 Size:
-
-				_
-
-
-			_Glow 4 Intensity:
-
-				_
-
-
-			_Glow 4 Size:
-
-				_
+				relación a su vez, al área acupada por el path, ó trazado a partir del cuál, 
+	
+				se ha generado el sistema
 
 
 
