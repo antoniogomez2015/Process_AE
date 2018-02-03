@@ -1,0 +1,284 @@
+
+
+
+
+	https://www.videocopilot.net/
+
+
+	
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá 
+
+
+
+		
+
+
+	Video Copilot Optical Flares:
+	_____________________________
+
+
+
+		_Position XY:
+
+			_
+
+
+		_Center Position:
+
+			_
+
+
+		_Brightness:
+
+			_
+
+
+		_Scale:
+
+			_
+
+
+		_Rotation Offset:
+
+			_
+
+
+		_Color:
+
+			_
+
+
+		_Color Mode:
+
+			_
+
+
+		_Animation Evolution:
+
+			_
+
+
+		_GPU:
+
+			_
+
+
+		_Positioning Mode:
+
+
+			_Source Type:
+
+
+				_2D:
+
+					_
+
+
+
+				3D:
+
+					_
+
+
+				_Track Lights:
+
+					_
+
+
+				_Mask:
+
+					_
+
+
+				_Luminance:
+
+					_
+
+
+
+		_Foreground Layers:
+
+
+			_Layer 1,2,3,4,5:
+
+
+				_Source Layer:
+
+					_
+
+
+				_Time Sampling:
+
+
+					_Sill Frame:
+
+						_
+
+					_Current Time:
+
+						_
+
+
+
+			_Sample Color:
+
+				_
+
+
+			_Sample Method:
+
+
+				_Alpha:
+
+					_
+
+
+				_Alpha Invert:
+
+					_
+
+
+				_Luma:
+
+					_
+
+
+				_Luma Invert:
+
+					_
+
+
+			_Light Radius:
+
+				_
+
+
+
+		_Flicker:
+
+
+			_Type:
+
+
+				_Smooth:
+
+					_
+
+
+				_Sharp:
+
+					_
+
+
+
+			_Speed:
+
+				_
+
+
+			_Amount:
+
+				_
+
+
+			_Randomize Multiple Flare:
+
+				_
+
+
+			_Random Seed:
+
+				_
+
+
+
+		_Custom Layers:
+
+
+			_Custom Layer 1,2,3,4,5:
+
+
+				_Source Layer:
+
+					_
+
+
+				_Time Sampling:
+
+
+					Still Frame:
+
+						_
+
+
+					_Current Time:
+
+						_
+
+
+
+			_Preview BG Layer:
+
+				_
+
+
+
+		_Motion Blur:
+
+
+			_Motion BLur:
+
+
+				_Comp Settings:
+
+
+					_Comp Settings:
+
+						_
+
+
+					_Off:
+
+						_
+
+
+			_Samples:
+
+				_
+
+
+			_Render Mode:
+
+
+				_On Black:
+
+					_
+
+
+				_On Transparent:
+
+					_
+
+
+				_Over Original:
+
+					_
+
+
+
+
+
+
+
+
+

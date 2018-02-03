@@ -17,7 +17,14 @@
 	________________
 
 
-		_este efecto nos permitirá 
+		_este efecto nos permitirá generar efectos de tipo distorsión específicamente efectos de tipo
+
+		dispersión de ondas de temperatura
+
+
+		_lo cuál, nos permitirá emular estelas de calor de jets, fuego, espejusmos entre otras posibilidades
+
+		de producción y paso contínuo
 
 
 
@@ -91,17 +98,55 @@
 
 		_Heat Bias:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema el tipo ó características del desenfoque
+
+			aplicado sobre el sistema generado
+
+
+			_de ésta manera, con valores cercanos ha "0", podremos lograr desenfoques homogeneos y 
+
+			casi totales sobre la imágen base
+
+
+			_más con valores medios como "0.5", el cuál, es el valor por defecto podremos lograr 
+
+			desenfoques más parciales ó segmentados en relación a su vez a la distorsión generada
+
+
+			_y con valores cercanos ha "1", podremos lograr desenfoques sutiles al punto de ser 
+
+			imperceptibles
 
 		
 		_Noise Scale:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema la escala ó tamaño de las ondulaciones de
+
+			la distorsión generada
+
+
+			_de ésta manera, podremos generar sistemas de distorsión más profuso ó sistemas más olgados
+
+			y ámplios lo cuál, nos permnitirá generar diferentes efectos con diferentes velocidades
+
+			y connotaciones en relación a las necesidades de producción y paso contínuo
 
 
 		_Noise Speed:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema el umbral ó rango del timming, inicial y
+
+			progresivo de la distorsión generada por el sistema generado
+
+
+			_de ésta manera, podremos generar un sistema más suavizado y sutíl ó más vertiginoso, ésta
+
+			opción es especialmente útil para realizar correlaciones con la escala del efecto deseado
+
+			así, como también, del tipo de efecto emulado
+
+
+			_para lo cuál, dispondremos de un rango de acción que va desde los "0-5", como escala
 
 
 		_Advanced Options:
@@ -109,38 +154,129 @@
 
 			_Heat Softness:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema un umbral de interpolación de entre
+
+				las áreas en distorsión y las áreas que no han sido afectadas temporalmente
+
+
+				_de ésta manera, podremos lograr una interpolación más suavizada para lograr mejores
+
+				resultados e integraciones entre ambos tipos de áreas
 
 
 			_Noise Offset:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema el desplazamiento del sistema de
+
+				distorsión generado sobre el sistema
+
+
+				_de ésta manera, a través, de un handle, directamente en el viewport, del panel
+
+				compositing, ó a través, del panel effects controls, por medio de controles 
+
+				específicos
+
+
+				_lo cuál, nos permitirá hacer ajustes sobre la distorsión así, como también, 
+
+				realizar animaciones sobre la distorsión
 
 
 			_Noise Complexity:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema un umbral de variaciones del estado
+
+				actual del mapa de densidad a través, del cuál, se realizará la distorsión sobre el
+
+				sistema generado
+
+
+				_lo cuál, nos permitirá generar alteraciones aleatorias sobre la distorsión lo que
+
+				nos permitirá poder alegir ó hacer variaciones extras sobre el sistema generado a 
+
+				través, del tiempo
+
+
+				_para lo cuál, dispondremos de un rango de entre "1-10", como margen de trabajo
 
 
 			_Noise Gamma:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema la cantidad de desenfoque de entre
+
+				las áreas afectadas por el desenfoque y entre las áreas no afectadas por el 
+
+				desenfoque
+
+
+				_de ésta manera, con valores cercanos ha "0", el desenfoque será total sobre toda
+
+				la imágen dentro del canvas ó viewport, del panel compositing
+
+
+				_y con valores cercanos ha "1", la distrubición de las áreas en desenfoque y las 
+
+				áreas enfocadas serán proporcionales y aleatorias en relación a su vez,	a la 
+
+				distorsión a través, del tiempo
+
+
+				_y con valores de hasta de "5", las áreas enfocadas se hará mínimas mientras que 
+
+				las áreas desenfocadas casi cubrirán todo el canvas del viewport, del panel 
+
+				compositing
+
+
+				_de ésta manera, con valores superiores ha "1", podremos ampliar la zonas enfocadas
+
+				a través, del tiempo
 
 
 			_Noise Aspect Ratio:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema la proporsión del aspecto de las
+
+				áreas tanto enfocadas como desenfocadas
+
+
+				_así, con valores cercanos ha "0", las áreas respectivas tendrán un aspecto regular
+
+				ó proporcional entre si
+
+
+				_más con valores cercanos ha "1", las áreas se tornarán más alargadas lo cuál, es
+
+				especialmente útil para la generación de estelas de fuego, espejismos, otros
 
 
 
 		_Wind Speed:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema la velocidad de la distorsión generada 
+
+			sobre el sistema
+
+
+			_de ésta manera, con valores cercanos ha "0", la velocidad de la distorsión será lenta ó
+
+			estandar
+
+
+			_más con valores de dentre "1-100", podremos acelerar la reproducción de la distorsión a
+
+			través, del tiempo en relación del efecto deseado
 
 
 		_Wind Direction:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema la dirección sugerida de la distorsión
+
+			generada la cuál, podremos personalizar por medio de valores en grados a través, de un 
+
+			wheel
 
 
 
@@ -149,7 +285,7 @@
 
 			_Layer Mask:
 
-				_
+				_(Indeterminado)
 
 
 			_Mask Mode:
@@ -157,34 +293,34 @@
 
 				_Alpha:
 
-					_
+					_(Indeterminado)
 
 
 				_Luminance:
 
 
-					_
+					_(Indeterminado)
 
 
 				_Alpha Inverted:
 
-					_
+					_(Indeterminado)
 
 
 				_Luminance Inverted:
 
-					_
+					_(Indeterminado)
 
 
 
 			_Override Alpha:
 
-				_
+				_(Indeterminado)
 
 
 			_Clip Bounds:
 
-				_
+				_(Indeterminado)
 
 
 
@@ -193,22 +329,22 @@
 
 			_All:
 
-				_
+				_(Indeterminado)
 
 
 			_Displacement:
 
-				_
+				_(Indeterminado)
 
 
 			_Heat:
 
-				_
+				_(Indeterminado)
 
 
 			_Noise Pattern:
 
-				_
+				_(Indeterminado)
 
 
 
