@@ -16,7 +16,12 @@
 	________________
 
 
-		_este efecto nos permitirá 
+		_este efecto nos permitirá generar efectos limínicos de punto de tipo destello y efecto flares de
+
+		lente de cámara
+
+
+		_así, como también, podremos generar diferentes efectos de producción y paso ocntínuo, otros
 
 
 
@@ -37,6 +42,17 @@
 
 			_así, como también, a través, del panel effects controls, por medio de controles específicos
 
+
+		_Position Z:
+
+			_ésta opción nos permitirá indicarle al sistema la escala del sistema a través, de la
+
+			cordenada "Z"
+
+
+			NOTA: ésta opción sólo estará disponible cuando la opción de "Positioning Mode/Soure Type/",
+
+			"3D"
 
 
 		_Center Position:
@@ -137,28 +153,77 @@
 
 				_2D:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que deseamos generar el 
 
-
-
-				3D:
-
-					_
+					sistema sólo en dos dimensiones "2D", el cuál, es la opción por defecto
 
 
 				_Track Lights:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste se genere a través,
+
+					de la primera layer, de tipo light, en la composición respectiva
 
 
+					_de ésta manera, podremos generar y controlar el sistema a través, de layers,
+
+					externas a la cuál, se ha aplicado el sistema
+
+
+					_así, podremos disponer de más parámetros 3d, así, como también, 
+
+					dispondremos la influencia de la luz, emitida por la layer, de tipo light,
+
+					respectiva
+
+
+					NOTA: ésta opción pone disponibles las opciones de "Track Light Options"
+
+
+					
 				_Mask:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste se genere a través,
+
+					del trazado ó path, de una máscara aplicada sobre la layer, base sobre la
+
+					cuál, se ha aplicado el sistema
+
+
+					_con la característica ó diferencia de ésta opción nos permitirá animar el
+
+					el sistema a través, del recorrido del path, ó trazado generado por la 
+
+					máscara respectiva a través, del tiempo
+
+
+					_y dicho trazado a su vez, podrá ser animado y modificado a través, del 
+
+					tiempo
+
+
+					NOTA: ésta opción habilita las opciones de "Mask Option/Mask Position"
 
 
 				_Luminance:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que éste genere el sistema
+
+					a través, de una layer, auxiliar de la composición respectiva y de la cuál,
+	
+					se tomará la información de luminancia, y que ésta layer, hará de mapa de
+
+					densidad
+
+
+					_de ésta manera, podremos generar un composición con layers, las cuáles,
+
+					delimiten áreas más claras y áreas más oscuras las cuáles, a su vez podremos
+
+					animar a través, del tiempo
+
+
+					NOTA: ésta opción activará las opciones de "Luminance Options"
 
 
 
@@ -170,25 +235,55 @@
 
 				_Source Layer:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que a través, de una layer,
+
+					de la composición respectiva podremos indicar áreas las cuáles, harán de
+
+					áreas de reserva 
+
+
+					_y que a través, de éstas áreas no podrá ser visible el sistema, de ésta 
+
+					manera, podremos limitar la visualización del sistema por medio de la 
+
+					generación de mapas de densidad personalizados 
+
+
+					_ó a través, de imágenes de las cuáles, se tomará la información de la 
+
+					luminancia de la imágen
 
 
 				_Time Sampling:
 
 
-					_Sill Frame:
+					_Still Frame:
 
-						_
+						_ésta opción nos permitirá indicarle al sistema que éste muestree 
+
+						la layer, que hará de mapa de densidad a través, del primer 
+
+						fotograma para la generación de todo el proceso
 
 					_Current Time:
 
-						_
+						_ésta opción nos permitirá indicarle al sistema que éste muestree 
+
+						la layer, que hará de mapa de densidad a través, fotograma actual
+
+						para la generación de todo el proceso
 
 
 
 			_Sample Color:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que éste samplee también el color
+
+				de la layer, proxi, de la composición respectiva y de la cuál, se tomará la 
+
+				información de luminancia y en éste caso también, la información de color para su
+
+				utilización en el proceso de generación de una layer, "foreground"
 
 
 			_Sample Method:
@@ -196,28 +291,67 @@
 
 				_Alpha:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el método ó criterio a 
+
+					traves, del cuál, será utilizada la layer, proxi, de la composición 
+
+					respectiva para el proceso de "foreground"
+
+
+					_y en éste caso se utilizará el canal alpha, generado sobre el sistema
+
+					por ésta layer, proxi ó auxiliar
 
 
 				_Alpha Invert:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el método ó criterio a 
+
+					traves, del cuál, será utilizada la layer, proxi, de la composición 
+
+					respectiva para el proceso de "foreground"
+
+
+					_y en éste caso se utilizará el canal alpha, invertido generado sobre el 
+
+					sistema por ésta layer, proxi ó auxiliar
 
 
 				_Luma:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el método ó criterio a 
+
+					traves, del cuál, será utilizada la layer, proxi, de la composición 
+
+					respectiva para el proceso de "foreground"
+
+
+					_y en éste caso se utilizará sólo la información de luminancia generada 
+
+					sobre el sistema por ésta layer, proxi ó auxiliar
 
 
 				_Luma Invert:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el método ó criterio a 
+
+					traves, del cuál, será utilizada la layer, proxi, de la composición 
+
+					respectiva para el proceso de "foreground"
+
+
+					_y en éste caso se utilizará sólo la información de luminancia invertida 
+
+					generada sobre el sistema por ésta layer, proxi ó auxiliar
 
 
 			_Light Radius:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema un umabral ó rango como parámetro 
 
+				para la extracción de información por luminancia y por canales alphas, auto 
+
+				generados
 
 
 		_Flicker:
@@ -228,33 +362,53 @@
 
 				_Smooth:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el tipo de flicker, generado
 
+					en éste caso el flicker, generado será interpolado ó suavizado entre cada
+
+					inverlado generado
 
 				_Sharp:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el tipo de flicker, generado
 
+					en éste caso el flicker, generado será de tipo no interpolado ó suavizado 
+
+					entre cada inverlado generado
 
 
 			_Speed:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema la recurrencia ó duración de los 
+
+				intervalores del flicker, generado por el sistema
 
 
 			_Amount:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema la frecuencia de intervalores ó la
+
+				velocidad ó frecuencia de la intermitencia del flicker, generado por el sistema
+
 
 
 			_Randomize Multiple Flare:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que genere el tipo de flicker, de
+
+				forma aleatoria a través, del tiempo
 
 
 			_Random Seed:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema que éste genere una animación previa
+
+				a la reproducción del timeline
+
+
+				_de ésta manera, evitaremos la curva de aceleración del sistema al inicio de la 
+
+				animación del sistema generado
 
 
 
@@ -266,7 +420,7 @@
 
 				_Source Layer:
 
-					_
+					_(Indeterminado)
 
 
 				_Time Sampling:
@@ -274,18 +428,18 @@
 
 					Still Frame:
 
-						_
+						_(Indeterminado)
 
 
 					_Current Time:
 
-						_
+						_(Indeterminado)
 
 
 
 			_Preview BG Layer:
 
-				_
+				_(Indeterminado)
 
 
 
@@ -300,17 +454,27 @@
 
 					_Comp Settings:
 
-						_
+						_ésta opción nos permitirá indicarle al sistema el criterio para la
+
+						generación del motion blur, en éste caso, el sistema heredará la
+
+						configuración nativa de la aplicación after effects
 
 
 					_Off:
 
-						_
+						_ésta opción nos permitirá indicarle al sistema que omita la 
+
+						configuración de motion blur, nativa del sistema así, como 
+
+						tampoco el efecto agregará un adicional motion blur
 
 
 			_Samples:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema la cantidad de sampleos para el
+
+				aumento de la calidad del render resultante del proceso generado por el sistema
 
 
 			_Render Mode:
@@ -318,23 +482,290 @@
 
 				_On Black:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que el sistema sea generado
+
+					bajo fondo de color negro
+
+
+					_lo cuál, no permitirá la visualización de las demás layers, de la 
+
+					composición respectiva
 
 
 				_On Transparent:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que el sistema sea generado
+
+					con un fondo transparente ó un canal alpha, auto generado
+
+
+					_lo que nos permitirá a su vez, visualizar las demás layers, de la 
+
+					composición respectiva
 
 
 				_Over Original:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema que el sistema sea generado
+
+					sobre la layer, base
+
+
+					_lo que permitirá que sólo la layer, base sobre la cuál, se ha aplicado el
+
+					sea visible con la emisión del efecto flare
+
+
+					_lo cuál, no permitirá la visualización de las demás layers, de la 
+
+					composición respectiva
 
 
 
 
+--------------------------------------------------------------------------------------------------------------------
+Parámetro adicionales:
+______________________
 
 
+	3D:
+	___
+
+
+		_Position Z:
+		
+			_ésta opción nos permitirá indicarle al sistema que deseamos generar el sistema en tres 
+
+			dimensiones, es decir, que ahora el sistema contará con control extra para la cordenada "Z"
+
+
+
+	Track Light Options:
+	____________________
+
+
+		_Select Lights:
+
+
+			_All:
+
+				_ésta opción nos permitirá indicarle al sistema que utilize todas las layers, de 
+
+				tipo lights, existentes en la compositión respectiva
+
+
+				NOTA: ésta opción aplica cuando la opción "Name Starts Width/", tiene una selección
+
+				de tipo letra, ej: "I", lo cuál, a su vez, requerirá que las layers, de tipo light,
+
+				respectivas también, deberán estar renombradas con la sigla indicada
+
+
+			_On/Off:
+
+				_ésta opción nos permitirá indicarle al sistema que sólo tome las layers, de tipo
+
+				light, que tengas las siguientes características
+
+
+				_así, las layers, que tengan el "Switche/Video", en "On", serán sólo las layers,
+
+				contempladas para la generación del sistema
+
+
+				_más las layers, que tengan el "Switche/Video", en "Off", serán sólo las layers,
+
+				contempladas para la generación del sistema
+
+
+
+		_Name Starts Width:
+
+			_ésta opción nos permitirá indicarle al sistema el prefijo a través, del cuál, el sistema
+
+			identificará a las layers, de tipo light
+
+
+			_de ésta manera, podremos renombrar las layers, con uno de los nombres ó frefijos 
+
+			determinados por el efecto ó utilizar la opción genérica de "light", ó la opción de
+
+			"Anywhere"
+
+
+			_de ésta manera, el sistema utilizará todas las layers, de tipo light, que coincidan con
+
+			el prefijo ó criterio seleccionado por nosotros
+
+
+		_Disable 3D Perspective:
+
+			_ésta opción nos permitirá indicarle al sistema que éste contemple la perspectiva real de
+
+			layer, de tipo light, lo cuál, puede afectar a las refracciones de la luz y su intensidad
+
+
+			_lo más recomendado es dejar ésta opción desactivada
+
+
+		_Use Light Intensity:
+
+			_ésta opción nos permitirá indicarle al sistema que utilize ó no, el indicatipo de 
+
+			"intensity", de la layer, de tipo light, respectiva
+
+
+			_ó por el contrario, que el sistema utilize el valor "Brightness", nativo del efecto
+
+
+		_Use Scale From Intensity:
+
+			_ésta opción nos permitirá indicarle al sistema que genere la escala del sistema en relación
+
+			al parámetro de "Intensity", de la layer, de tipo light, respectiva
+
+
+		_Use Light Color:
+
+			_ésta opción nos permitirá indicarle al sistema que active la fusión de colores, de ésta
+
+			manera, el sistema mezclará el color indicado en el efecto nativo de Optical Flares, con
+
+			color emitido por la layer, de tipo light, respectiva
+
+
+		_Randomize Lights:
+
+			_ésta opción nos permitirá indicarle al sistema que active la intensidad de las luces
+
+			emitidas por el sistema de forma aleatoria a través, del tiempo
+
+
+			_ésta opción aplicará solo cuando hayan más de un punto de luz, en la escena
+
+
+
+	Masks OPtions:
+	______________
+
+
+		_Mask:
+
+			_ésta opción nos permitirá indicarle al sistema una máscara aplicada sobre la layer, base
+
+			sobre la cuál, se ha aplicado el efecto
+
+
+		_Mask Position:
+
+			_ésta opción nos permitirá indicarle al sistema que el punto de luz generado por el sistema
+
+			avance a través, del path, ó trazado a través, del tiempo
+
+
+			_el cuál, partirá a partir del punto de entrada de la máscara hasta el punto de salida
+
+			respectivamente
+
+
+	
+	Luminance Options:
+	__________________
+
+
+		_Source Layer:
+
+			_ésta opción nos permitirá indicarle al sistema una layer, de la respectiva composición la
+
+			cuál, hará de mapa de densidad y de la cuál, se extraerá informa de luminancia y densidad
+
+
+			_para la generación del sistema, de ésta manera, en relación a las áreas con mayor 
+
+			luminancia se generarán más ó menos puntos de luz
+
+
+			_en relación a la composición he hayamos creado como mapa de densidad el cuál, a su vez,
+
+			podrá ser animado a través, del tiempo
+
+
+		_Sampling:
+
+
+			_Full:
+
+				_ésta opción nos permitirá indicarle al sistema el sampleo ó cantidad de análisis
+
+				sobre la layer, ó composición que hemos indicado como mapa de densidad
+
+
+				_en éste caso el sampleo será de la máxima calidad e intensidad
+
+
+			_Half:
+
+				_ésta opción nos permitirá indicarle al sistema el sampleo ó cantidad de análisis
+
+				sobre la layer, ó composición que hemos indicado como mapa de densidad
+
+
+				_en éste caso el sampleo será a la mitad de la calidad e intensidad
+
+
+			_Quarter:
+
+				_ésta opción nos permitirá indicarle al sistema el sampleo ó cantidad de análisis
+
+				sobre la layer, ó composición que hemos indicado como mapa de densidad
+
+
+				_en éste caso el sampleo será de un cuarto de la calidad e intensidad
+
+
+
+		_Threshold:
+
+			_ésta opción nos permitirá indicarle al sistema el umbral ó rango a través, del cuál, el
+
+			sistema contemplará sobre la layer, ó composición respectiva que hará de mapa de densidad
+
+
+			_de ésta manera, el sistema podrá ser más ó menos sensible en relación a las necesidades de
+
+			producción y paso contínuo
+
+
+		_Track Brightness:
+
+			_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo de trabajo para la
+
+			generación del sistema
+
+
+			_en éste caso el sistema comtemplará el luminancia y el brillo de la imágen ó composición
+
+			respectiva
+
+
+		_Track Scale:
+
+			_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo de trabajo para la
+
+			generación del sistema
+
+
+			_en éste caso el sistema comtemplará escala de la imágen ó composición respectiva
+
+
+		_Track Color:
+
+			_ésta opción nos permitirá indicarle al sistema el criterio ó algoritmo de trabajo para la
+
+			generación del sistema
+
+
+			_en éste caso el sistema comtemplará el color de la imágen ó composición respectiva
 
 
 

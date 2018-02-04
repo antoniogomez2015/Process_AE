@@ -121,6 +121,18 @@ https://www.videocopilot.net/
 
 
 
+	------------------------------------------------------------------------------------------------------------------
+
+	Video Copilot Optical Flares:
+	_____________________________
+
+
+	_este efecto nos permitirá generar efectos limínicos de punto de tipo destello y efecto flares de lente de 
+
+	cámara
+
+
+	_así, como también, podremos generar diferentes efectos de producción y paso ocntínuo, otros
 
 
 
