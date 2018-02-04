@@ -30,47 +30,103 @@
 
 		_Position XY:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema la posición del sistema de emisión general
+
+			a través, de un handle, directamente en el viewport, del panel conpositing, y canvas
+
+
+			_así, como también, a través, del panel effects controls, por medio de controles específicos
+
 
 
 		_Center Position:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema la posición ó dirección de la proyección de 
+
+			los rayos de luz parásita de lente a través, de un handle, directamente en el viewport, 
+
+			del panel conpositing, y canvas
+
+
+			_así, como también, a través, del panel effects controls, por medio de controles específicos
+
 
 
 		_Brightness:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema la cantidad ó umbral de brillo ó cantidad 
+
+			de luminancia
+
+			
+			_de ésta manera, podremos aumentar la cantidad de luz emitida así, como la extensión de la
+
+			luz
 
 
 		_Scale:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema la escala de la luz global del sistema de 
+
+			ésta manera, podremos crear un sistema más invasiva ó más sutil
 
 
 		_Rotation Offset:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema un rango de rotación a través, del cuál,
+
+			podremos indicar un umbral de rotación personalizado en radios de rotación
 
 
 		_Color:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema un color a través, del cuál, se generará el
 
+			sistema
+
+
+			_de ésta manera, a través, de un picker, ó un selector de color podremos indicar un color
+
+			personalizado para la generación del sistema
+	
 
 		_Color Mode:
 
-			_
+	
+			_Tint:
+
+				_ésta opción nos permitirá indicarle al sistema el modo de fusión del sistema de luz
+
+				generada, en éste caso, el modo de fusión será el agregar el cuál, mantendrá las
+
+				mismas características de luz emitida en relación a las demás layers, de la 
+
+				composición respectiva
+
+
+			_Multiply:
+
+				_ésta opción nos permitirá indicarle al sistema el modo de fusión del sistema de luz
+
+				generada, en éste caso, el modo de fusión será el de multiplicar el cuál, permite
+
+				una mejor integración del sistema de luz generado con las demás layers, de la
+
+				composición respectiva
 
 
 		_Animation Evolution:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema la evolución del destello de la luz, 
+
+			generada por el sistema
 
 
 		_GPU:
 
-			_
+			_ésta opción nos permitirá indicarle al sistema que active las opciones de acelración por
+
+			gpu, ó aceleración a través, de la tarjeta gráfica 3d
 
 
 		_Positioning Mode:
