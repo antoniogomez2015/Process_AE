@@ -1,0 +1,278 @@
+
+
+
+
+	https://www.videocopilot.net/
+
+
+	
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá
+
+
+
+
+		
+
+
+	Video Copilot VC Element - Output:
+	__________________________________
+
+
+		_Output:
+
+
+			_Show:
+
+				_Composite:
+
+					_
+
+
+				_Z Depth:
+
+					_
+
+
+				_Z Depth no AA:
+
+					_
+
+
+				_Normals:
+
+					_
+
+
+				_Ambient Occlusion:
+
+					_
+
+
+				_Diffuse:
+
+					_
+
+
+				_Specular:
+
+					_
+
+
+				_Refraction:
+
+					_
+
+
+				_Reflection:
+
+					_
+
+
+				_Lighting:
+
+					_
+
+
+				_Illumination:
+
+					_
+
+
+				_Focus:
+
+					_
+
+
+				_Glow:
+
+					_
+
+
+				_World Position:
+
+					_
+
+
+				_Shadows:
+
+					_
+
+
+				_SSS:
+
+					_
+
+
+				_Shading:
+
+					_
+
+
+				_Blend Mode:
+
+					_
+
+
+				_Wireframe:
+
+					_
+
+
+				_Dynamic Reflection:
+
+					_
+
+
+			_Polygon Mode:
+
+
+				_Normal:
+
+					_
+
+
+				_Wireframe:
+
+					_
+
+
+				_Point Cloud:
+
+					_
+
+
+			_Multisampling:
+
+				_
+
+
+			_Supersampling:
+
+				_
+
+
+			_Enhanced Multisampling:
+
+				_
+
+
+			_Highlight Compression:
+
+				_
+
+
+			_Specular Commpressión:
+
+				_
+
+
+
+			_Sampling & Aliasing:
+
+
+				_FXAA Smoothing:
+
+					_
+
+
+				_Compress Textures:
+
+					_
+
+
+				_Subsample Post Effects:
+
+					_
+
+
+				_Gamma:
+
+					_
+
+
+				_Texture Gamma:
+
+					_
+
+
+
+			_Multi-Pass Mixer:
+
+
+				_Diffuse:
+
+					_
+
+
+				_Specular:
+
+					_
+
+
+				_Ambient Lighting:
+
+					_
+
+
+				_Reflectivity:
+
+					_
+
+
+				_Refraction:
+
+					_
+
+
+				_Illumination:
+
+					_
+
+
+				_Shadows:
+
+					_
+
+
+				_SSS:
+
+					_
+
+
+			_Render Mode:
+
+
+				_Full Render:
+
+					_
+
+
+				_Preview:
+
+					_
+
+
+				_Draft:
+
+					_
+
+
+				_Unfied:
+
+					_
+
+				
+
+
+
+

@@ -1,0 +1,351 @@
+
+
+
+
+	https://www.videocopilot.net/
+
+
+	
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá
+
+
+
+
+		
+
+
+	Video Copilot VC Element - Groups - Particle Look:
+	__________________________________________________
+
+
+		_Particle Look:
+
+			_Particle Size:
+
+				_
+
+
+			_Particle Size Random:
+
+				_
+
+
+			_Particle Size XYZ:
+
+				_
+
+
+			_Particle Rotation:
+
+
+				_Orientation:
+
+
+					_Along Surface:
+
+						_
+
+
+					_Force Camara:
+
+						_
+
+
+					_Fixed:
+
+						_
+
+
+				_X | Y | Z Rotation Particles:
+
+					_
+
+
+				_Rotation Random:
+
+					_
+
+
+				_Rotation Random XYZ:
+
+					_
+
+
+				_Randomize Angle:
+
+					_
+
+
+				_Rotation Noise:
+
+					_
+
+
+				_Color Tint:
+
+					_
+
+
+				_Force Opacity:
+
+					_
+
+
+			Baked Animation:
+
+
+				_Loop Mode:
+
+
+					_Loop:
+
+						_
+
+	
+					_Random Loop:
+
+						_
+
+
+					_Freeze at End:
+
+						_
+
+
+					_Mirrow:
+
+						_
+
+
+				_Playback Speed:
+
+					_
+
+
+				_Frame Offset:
+
+					_
+
+
+				_Frame Offset Random:
+
+					_
+
+
+				_Random Seed:
+
+					_
+
+
+			_Multi-Object:
+
+
+				_Enable Multi-O:
+
+					_
+
+
+				_Noise Amount Multi XYZ:
+
+					_
+
+
+			_Deform:
+
+				_Enable:
+
+					_
+
+
+				_Taper:
+
+					_Enable:
+
+						_
+
+
+					_Amount:
+
+						_
+
+
+					_Curve:
+
+						_
+
+
+					_Symetrical:
+
+						_
+
+
+
+				_Twist:
+
+					_Enable:
+
+						_
+
+
+					_Twist XYZ:
+
+						_
+
+
+					_Phase XYZ:
+
+						_
+
+
+				_Blend:
+
+
+					_Enable:
+
+						_
+
+
+					_Bend Axis:
+
+
+						_
+
+
+					_Bend Angle:
+
+						_
+
+
+					_Bend Direction:
+
+						_
+
+
+					_Center:
+
+						_
+
+
+					_Origin:
+
+
+						_Orientation XZY:
+
+							_
+
+
+						_Offset XYZ:
+
+							_
+
+
+					_Noise:
+
+
+						_Enable:
+
+							_
+
+
+						_Method:
+
+
+							_Noise:
+
+								_
+
+
+							_Distortion:
+
+								_
+
+
+							_3D Distortion:
+
+								_
+
+
+						_Intensity:
+
+							_
+
+
+						_Scale:
+
+							_
+
+
+
+						_Advanced:
+
+
+							_Offset:
+
+								_
+
+
+							_Exponent:
+
+								_
+
+
+							_Clamp Min:
+
+								_
+
+
+							_Clamp Max:
+
+								_
+
+
+							_XYZ Intensity:
+
+								_
+
+
+							_Evolution:
+
+								_
+
+
+							_Random Seed:
+
+								_
+
+
+
+						_Deform Offset:
+
+							_Offset XYZ:
+
+							_
+
+
+						_Reset:
+
+							_
+
+
+					_Random Seed:
+
+						_
+
+
+
+
+
+
+
+
+

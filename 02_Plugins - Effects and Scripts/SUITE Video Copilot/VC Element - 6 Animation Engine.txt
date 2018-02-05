@@ -1,0 +1,288 @@
+
+
+
+
+	https://www.videocopilot.net/
+
+
+	
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá
+
+
+
+
+		
+
+
+	Video Copilot VC Element - Animation Engine:
+	____________________________________________
+
+
+		_Enable:
+
+			_
+
+
+		_Group Selection:
+
+
+			_Start Group:
+
+				_
+
+
+			_Finish Group:
+
+				_
+
+
+		_Animation TYpe:
+
+
+			_Uniform:
+
+				_
+
+
+			_Directional:
+
+				_
+
+
+			_Radial:
+
+				_
+
+
+			_Random:
+
+				_
+
+
+			_Shape Order:
+
+				_
+
+
+		_Animation:
+
+			_
+
+
+		_Smoothness:
+
+			_
+
+
+		_Randomness:
+
+			_
+
+
+		_Ease Type:
+
+
+			_Off:
+
+				_
+
+
+			_Ease:
+
+				_
+
+
+			_Ease In/Out:
+
+				_
+
+
+		_Group Direction:
+
+
+			_Forward:
+
+				_
+
+
+			_Backwards:
+
+				_
+
+
+		_Particle Count From:
+
+
+			_Start Group:
+
+				_
+
+
+			_Finish Group:
+
+				_
+
+
+			_Deform From:
+
+
+				_Blend:
+
+					_
+
+
+				_Start Group:
+
+					_
+
+
+				_Finish Group:
+
+					_	
+
+
+			_Disconnect Multi-Object:
+
+				_
+
+
+			_Seed:
+
+				_
+
+
+			_Directional Options:
+
+
+				_Yaw (Horizontal):
+
+					_
+
+
+				_Pitch (Vertical):
+
+					_
+
+
+			_Dual Animation Mode:
+
+
+				_Dual Animation Type:
+
+
+					_Off:
+
+						_
+
+
+					_Uniform:
+
+						_
+
+
+					_Directional:
+
+						_
+
+
+					_Radial:
+
+						_
+
+
+					_Random:
+
+						_
+
+
+					_Shape Order:
+
+						_
+
+
+			_Time Delay:
+
+			
+				_Position Duration:
+
+					_
+
+
+				_Position Offset:
+
+					_
+
+
+				_Rotation Duration:
+
+					_
+
+
+				_Rotation Offset:
+
+					_
+
+
+				_Scale Rutation:
+
+					_
+
+
+				_Scale Offset:
+
+					_
+
+
+				_Material Offset:
+
+					_
+
+
+				_Multi-Object:
+
+
+					_Position Duration:
+
+						_
+
+
+					_Position Offset:
+
+						_
+
+
+					_Rotation Duration:
+
+						_
+
+
+					_Rotation Offset:
+
+						_
+
+
+					_Scale Duration:
+
+						_
+
+
+					_Scale Offset:
+
+						_
+
+
+
+
+
+
+

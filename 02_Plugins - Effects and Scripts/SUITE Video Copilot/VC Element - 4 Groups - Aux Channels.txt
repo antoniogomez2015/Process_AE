@@ -1,0 +1,82 @@
+
+
+
+
+	https://www.videocopilot.net/
+
+
+	
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá
+
+
+
+
+		
+
+
+	Video Copilot VC Element Groups - Aux Channels:
+	_______________________________________________
+
+
+		_Aux Channels:
+
+		
+			_Channel 1,2,3..10:
+
+				
+				_Position:
+
+					_CH1 Position XYZ:
+
+						_
+
+
+				_CH Scale:
+
+					_
+
+
+				_Rotation:
+
+
+					_CH Rotation XYZ:
+
+						_
+
+
+				_CH1 Force Opacity:
+
+					_
+
+
+				_CH1 UV Offset U:
+
+					_
+
+
+				_CH1 UV Offset V:
+
+					_
+
+
+			_Reset:
+
+				_
+
+
+
+
+
+
+
+

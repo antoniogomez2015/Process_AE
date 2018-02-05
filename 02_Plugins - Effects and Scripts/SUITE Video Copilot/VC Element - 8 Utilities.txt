@@ -1,0 +1,81 @@
+
+
+
+
+	https://www.videocopilot.net/
+
+
+	
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá
+
+
+
+
+		
+
+
+	Video Copilot VC Element - Utilities:
+	_____________________________________
+
+
+		_Utilities:
+
+
+			_Generate 3D Position:
+
+
+				_Select 2D Position:
+
+					_
+
+
+				_Orient to Surface:
+
+					_
+
+
+				_Create 3D Null:
+
+					-
+
+
+			_Group Export:
+
+				
+				_Group to Export:
+
+
+					_
+
+
+				Export Obj:
+
+					_
+
+	
+			_Reset;
+
+
+				_Reset Render Settings:
+
+					_
+
+
+				_Reset Output Settings:
+
+					_
+
+
+
+
+

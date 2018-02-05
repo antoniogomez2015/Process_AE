@@ -1,0 +1,734 @@
+
+
+
+
+	https://www.videocopilot.net/
+
+
+	
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá
+
+
+
+
+		
+
+
+	Video Copilot VC Element - Render Settings:
+	___________________________________________
+
+
+		_Render Settings:
+
+
+			_Physical Enviroment:
+
+		
+				_Exposure:
+
+					_
+
+
+				_Gamma:
+
+					_
+
+
+				_Tint:
+
+					_
+
+
+				_Lighting Influence:
+
+					_
+
+
+				_Override Layer:
+
+					_
+
+
+				_Show in BG:
+
+					_
+
+
+				_Rotate Enviroment:
+
+					_
+
+
+			_Lighting:
+
+			
+				_Use Comp Lights:
+
+					_
+
+
+				_Light Falloff:
+
+					_
+
+
+				_Add Lighting:
+
+					_
+
+
+				_Additional Lighting:
+
+
+					_Brightness Multiplier:
+
+						_
+
+
+					_Rotation:
+
+						_
+
+
+			_Shadows:
+
+	
+				_Enable:
+
+					_
+
+
+				_Shadow Mode:
+
+
+					_Shadow Mapping:
+
+
+						_Shadow Mapping:
+
+							_
+
+
+						_Ray Traced:
+
+							_
+
+
+				_Shadow Maps:
+
+
+					_Map Size:
+
+						_
+
+
+					_Shadow Samples:
+
+						_
+
+
+					_Blur Radius:
+
+						_
+
+
+					_Spot Light:
+
+						_
+
+
+					_Parallel Light:
+
+						_
+
+
+					_Advanced:
+
+
+						_Gamma:
+
+							_
+
+
+						_Blur Scale:
+
+							_
+
+
+						_Blur Bias:
+
+							_
+
+
+						_Smooth Sampling:
+
+							_
+
+
+						_Use Backfaces:
+
+							_
+
+
+			_Suvsurface Scattering:
+
+
+				_Enable:
+
+					_
+
+
+				_Samples:
+
+					_
+
+
+				_Intensity:
+
+					_
+
+
+				_Scattering:
+
+					_
+
+
+				_Absorption:
+
+					_
+
+
+				_Falloff:
+
+					_
+
+
+				_Light Color Tint:
+
+					_
+
+
+
+			_Ambient Occlusion:
+
+
+				_Enable AO:
+
+					_
+
+
+				_AO Mode:
+
+					_
+
+
+				_SSAO:
+
+					_SSAO Quality Preset:
+
+
+						_Select:
+
+							_
+
+	
+						_Fast:
+
+							_
+
+
+						_Medium:
+
+							_
+
+
+						_Hight:
+
+							_
+
+
+						_Ultra (Slower):
+
+							_
+
+
+					_SSAO Color:
+
+						_
+
+
+					_SSAO Color Mode:
+
+						_
+
+
+					_SSAO Intensity:
+
+						_
+
+
+					_SSAO Samples:
+
+						_
+
+
+					_SSAO Multisampling:
+
+						_
+
+
+					_SSAO Radius:
+
+						_
+
+
+					_SSAO Distribution:
+
+						_
+
+
+					_SSAO Gamma:
+
+						_
+
+
+				_SSAO Adaptive Blur:
+
+
+					_SSAO Blur Intensty:
+
+						_
+
+
+					_SSAO Blur Blend:
+
+						_
+
+
+					_SSAO Mask Multisampling:
+
+						_
+
+
+					_SSAO Normal Threshold:
+
+						_
+
+
+					_SSAO Z Threshold:
+
+						_
+
+
+					_SSAO Darken Pass:
+
+						_
+
+
+
+				_Advanced options:
+
+
+					_SSAO PXAA:
+
+						_
+
+
+					_Cur-off:
+
+						_
+
+
+					_AO Light Influence:
+
+						_
+
+
+					_AO Depth Influence:
+
+						_
+
+
+					_AO Fog Influence:
+
+						_
+
+
+					_AO Ilumination Influence:
+
+						_
+
+
+					_Matte Intensity:
+
+						_
+
+
+			_Matte Shadow:
+
+
+				_Enable:
+
+					_
+
+
+				_Shadow Opacity:
+
+					_
+
+
+				_Shadow Tint:
+
+					_
+
+
+				_Affect Lighting:
+
+					_
+
+
+			_Reflection:
+
+
+				_Enable Mirror Surface:
+
+					_
+
+
+				_Enable Spherical:
+
+					_
+
+
+				_Spherical Map Resolution:
+
+					_
+
+
+				_Mirror Surface Quality:
+
+
+					_Normal:
+
+						_
+
+
+					_High:
+
+						_
+
+
+			_Fog:
+
+
+				_Enable Fog:
+
+					_
+
+
+				_Fog Color:
+
+					_
+
+
+				_Fog Opacity:
+
+					_
+
+
+				_Fog Start Distance:
+
+					_
+
+
+				_Fog Range:
+
+					_
+
+
+				_Fog Falloff Type:
+
+
+					_Linear:
+
+						_
+
+
+					_Exponential:
+
+						_
+
+
+					_Taper:
+
+						_
+
+
+
+			_Motion Blur:
+
+
+				_Motion Blur:
+					_Comp Setting:
+
+						_
+
+
+					_On/Off:
+
+						_
+
+
+				_Motion Blur Samples:
+
+					_
+
+
+
+			_Depth of Field:
+
+
+				_Depth of Field:
+
+
+					_Comp Setting:
+
+						_
+
+
+					_Off:
+
+
+				_DOF Mode:
+
+
+					_Preview Blur:
+
+						_
+
+
+					_Continous Blur:
+
+						_
+
+
+					_Pixel Blur:
+
+						_
+
+
+					_Multi Pass (Slower):
+
+						_
+
+
+					_Focus Indicator:
+	
+						_
+
+
+				_DOF Depth Threshold:
+
+					_
+
+
+				_DOF Preview Samples:
+
+					_
+
+
+				_DOF Radius Multiplier:
+
+					_
+
+
+
+			_GLow:
+
+			
+				_Enable GLow:
+
+					_
+
+
+				_Glow From:
+
+					_
+
+
+				_Glow Intensity:
+
+					_
+
+
+				_Glow Radius:
+
+					_
+
+
+				_Glow Aspect Ratio:
+
+					_
+
+
+				_Glow Threshold:
+
+					_
+
+				_Glow Threshold Softness:
+
+					_
+
+
+				_Glow Tint:
+
+					_
+
+
+				_Glow Tint Mode:
+
+
+					_Multiply:
+
+						_
+
+
+					_Tint:
+
+						_
+
+
+				_Glow Saturation:
+
+					_
+
+
+				_Glow Gamma:
+
+					_
+
+
+				_Glow Quality:
+
+					_
+
+
+				_Glow Alpha Boost:
+
+					_
+
+
+				_Chromatic Diffraction:
+
+
+					_Intensity:
+		
+						_
+
+
+					_Spread:
+
+						_
+
+
+					_Soften:
+
+						_
+
+
+
+				_Highlights:
+
+
+					_Hightlights Intensity:
+
+						_
+
+
+					_Hightlights Radius:
+
+						_
+
+
+					_Hightlights Threshold:
+
+						_
+
+
+					_Hightlights Threshold SOftness:
+
+						_
+
+
+					_Background Glow:
+
+						_
+
+
+				_Ray-Tracer:
+
+
+					_Transparency:
+
+
+						_Sample:
+
+							_
+
+
+						_Opaque:
+
+							_
+
+
+						_Tranlucent:
+
+							_
+
+
+					_Transparency Samples:
+
+						_
+
+
+				_Camara Cut-Off:
+
+
+					_Camara Near Plane:
+
+						_
+
+
+					_Camara Far Plane:
+
+						_
+
+
+					_Render Order:
+
+
+						_Pixed:
+
+							_
+
+
+						_Depth Sorted:
+
+							_
+
+
+				
+
+
+
+

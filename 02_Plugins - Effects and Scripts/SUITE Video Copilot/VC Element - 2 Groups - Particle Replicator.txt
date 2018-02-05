@@ -1,0 +1,180 @@
+
+
+
+
+	https://www.videocopilot.net/
+
+
+	
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Características:
+	________________
+
+
+		_este efecto nos permitirá
+
+
+
+
+		
+
+
+	Video Copilot VC Element - Groups - Particle Replicator:
+	________________________________________________________
+
+
+		_Particle Replicator:
+
+
+			_Particle Count:
+
+				_
+
+
+			_Replicator Shape:
+
+
+				_Point:
+
+					_
+
+
+				_3D Grid:
+
+					_
+
+
+				_Plan:
+
+					_
+
+
+				_Sphere:
+
+					_
+
+
+				_Ring:
+
+					_
+
+
+				_Layer:
+
+					_
+
+
+				_3D Object:
+
+					_
+
+
+				_Layer Grid:
+
+					_
+
+
+			_Position XY:
+
+				_
+
+
+			_Position Z:
+
+				_
+
+
+			_Rotation X | Y | Z:
+
+				_
+
+
+			_Shape Options:
+
+
+				_Particle Order:
+
+
+					_Fordward:
+	
+						_
+
+
+					_Backwards:
+
+						_
+
+
+					_Mirrow:
+
+						_
+
+
+					_Random:
+
+						_
+
+
+
+				_Particle Repeat:
+
+					_
+
+
+				_Particle Offset:
+
+					_
+
+
+			_Replicator Effects:
+
+
+				_Scatter:
+
+					_Scatter:
+
+						_
+
+
+					_Scatter X | Y | Z:
+
+						_
+
+
+				_Position Noise:
+
+
+					_Noise Evolution:
+
+						_
+
+
+					_Noise Amount:
+
+						_
+
+
+					_Noise Amount XYZ:
+
+						_
+
+
+					_Noise Scale:
+
+						_
+
+
+
+
+
+
+
+
+
+
+
