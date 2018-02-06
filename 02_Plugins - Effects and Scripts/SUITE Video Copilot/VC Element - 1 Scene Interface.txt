@@ -4,6 +4,9 @@
 
 	https://www.videocopilot.net/
 
+	
+		Baking Textures in Cinema 4D for Element 3D
+			https://www.youtube.com/watch?v=qu35Q1wtOrU
 
 	
 
@@ -29,10 +32,35 @@
 
 
 
-		_
+
+	Funcionalismo:
+	______________
+
+	_el sistema funciona a partir de la generación a través, de layers, y elementos de tipo:
+
+
+		_Layer Text
+
+		_Layers / Mask
+
+		_Elemento Geométricos Básicos
+
+		_.obj
+
+		_.e3d
+
+		_.c4d
 
 
 
+
+	
+
+	Workflow:
+	_________
+
+
+	_
 
 
 

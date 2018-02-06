@@ -28,12 +28,28 @@
 	________________________________________________________
 
 
+		_Enable:
+
+			_ésta opción nos permitirá indicarle al sistema que active las opciones del gurpo "1",
+
+			en éste caso para la generación de uno ó más elementos 3d
+
+
 		_Particle Replicator:
 
 
 			_Particle Count:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema la cantidad de elementos que 
+
+				conformarán el grupo 1,
+
+
+				_por defecto el sistema creará un sólo elemento ha modo de instancia el cuál, 
+
+				podremos replicar y modular a través, de todas las opciones de configuración del
+
+				grupo respectivo
 
 
 			_Replicator Shape:
@@ -41,22 +57,57 @@
 
 				_Point:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el patrón ó la matrís a 
+
+					través, de la cuál, se modularán los elementos 3d, creados
+
+
+					_en éste caso el modo de "Point", es especialmente útil para generación de
+
+					elementos únicos
+
+
+					_más en ésta modalidad también, es posible dispersar manualmente elementos
+
+					modulados a partir de original ó elementos base
 
 
 				_3D Grid:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el patrón ó la matrís a 
+
+					través, de la cuál, se modularán los elementos 3d, creados
 
 
-				_Plan:
+					_en éste caso el modo de "Point", es especialmente útil para generación de
 
-					_
+					elementos únicos
+
+
+				_Plane:
+
+					_ésta opción nos permitirá indicarle al sistema el patrón ó la matrís a 
+
+					través, de la cuál, se modularán los elementos 3d, creados
+
+
+					_en éste caso el modo de "Plane", es especialmente útil para generación de
+
+					elementos modulados en forma de lineal en relación a la forma del plano del
+
+					canvas del viewport, del panel compositing
 
 
 				_Sphere:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el patrón ó la matrís a 
+
+					través, de la cuál, se modularán los elementos 3d, creados
+
+
+					_en éste caso el modo de "Sphere", es especialmente útil para generación de
+
+					elementos modulados en forma de esférica 
 
 
 				_Ring:
