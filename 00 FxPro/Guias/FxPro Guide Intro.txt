@@ -1,0 +1,807 @@
+
+
+	ft-toolbar2
+
+		https://aescripts.com/ft-toolbar/
+
+		
+
+	FxPro Guide:
+	____________
+
+	
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+	3D | Composite:
+	_______________	
+
+
+		_
+
+	
+
+	3D | Generate:
+	______________
+
+
+		_
+
+	
+
+	3D | Maps:
+	__________
+
+
+		_
+
+
+
+
+	3D | Transform:
+	_______________
+
+
+		_
+
+
+	3D | Production:
+	________________
+
+
+		_
+
+
+	3D | Anaglyph:
+	______________
+
+
+		_
+
+
+	Align:
+	______
+
+
+		_
+
+
+	Audio:
+	______
+
+
+		_
+
+
+	Alpha | Composite:
+	__________________
+
+
+		_
+
+
+	Auto | Color - Levels - Contrast:
+	_________________________________
+
+
+		_
+
+
+	Alpha | Grow - Shring:
+	______________________
+
+
+		_
+
+
+	Anchor Point:
+	_____________
+
+
+		_
+
+
+	Blur XX:
+	________
+
+
+		_
+	
+
+	Backgrounds | Modulos:
+	______________________
+
+
+		_
+
+
+	Black & White:
+	______________
+
+
+		_
+
+
+	Color | LUT:
+	____________
+
+
+		_
+
+
+	Color | Neutral:
+	________________
+
+
+		_
+
+
+	Color | Extract:
+	________________
+
+
+		_
+
+
+	Color | Fill-ter:
+	_________________
+
+
+		_
+
+
+	Color | Spill Suppressor:
+	_________________________
+
+
+		_
+
+
+	Color | Matcher:
+	________________
+
+
+		_
+
+
+	Color | Adjustment:
+	___________________
+
+
+		_
+
+
+	Color | Virado:
+	_______________
+
+
+		_
+
+
+	Color | Change:
+	_______________
+
+
+		_
+
+
+	Color | Grading:
+	________________
+
+
+		_
+
+
+	Color | Sampling:
+	_________________
+
+
+		_
+
+
+	Color | Stabilizer:
+	___________________
+
+
+		_
+
+
+	Color | Testing:
+	________________
+
+
+		_
+
+
+	Comp | Commands:
+	________________
+
+
+		_
+
+
+	Comp | Projects and Files:
+	__________________________
+
+
+		_
+
+
+	Character | Parts:
+	__________________
+
+
+		_
+	
+
+	Channels:
+	_________
+
+
+		_
+
+
+	Dev | Script:
+	_____________
+
+
+		_
+
+
+	Displace XX:
+	____________
+
+
+		_
+
+
+	Distribute Layers:
+	__________________
+
+
+		_
+
+
+	Distortion | Stretch:
+	_____________________
+
+
+		_
+
+
+	Distortion | Bulge:
+	___________________
+
+
+		_
+	
+
+	Distortion | Mix:
+	_________________
+
+
+		_
+
+
+	Depth Of Field | Rack Focus:
+	____________________________
+
+		
+		_
+
+
+	Extrude | Volumen:
+	__________________
+
+
+		_
+
+
+	Effects | Plugins:
+	__________________
+
+
+		_
+
+
+	Effects | Switches | Controls:
+	______________________________
+
+
+		_
+
+
+	Entrelazado y Conversiones:
+	___________________________
+
+
+		_
+
+
+	Expresion:
+	__________
+
+
+		_
+
+
+	Envoriment | Floor:
+	___________________
+
+
+		_
+
+
+	Edge | Extend:
+	______________
+
+
+		_
+
+
+	Edge | Bisel:
+	_____________
+
+
+		_
+
+
+	Fractal | Vitral:
+	_________________
+
+	
+		_
+	
+
+	Fusion de Capas:
+	________________
+
+
+		_
+	
+
+	Frame Rate:
+	___________
+
+
+		_
+	
+
+	Fluid | Fx:
+	___________
+
+
+		_
+	
+
+	Feather:
+	________
+
+
+		_
+
+
+	Flicker Parpadeo:
+	_________________
+
+
+		_
+
+
+	Fleres | Refract:
+	_________________
+
+
+		_
+
+
+	Geo | Maps:
+	___________
+
+
+		_
+
+
+	Generar | General:
+	__________________
+
+
+		_
+
+
+	Glow XX:
+	________
+
+
+		_
+
+
+	HDR | Safe Area:
+	________________
+
+
+		_
+
+
+	Histogram | Scopes:
+	___________________
+
+
+		_
+
+
+	Infografias:
+	____________
+
+
+		_
+
+
+	IK:
+	___
+
+
+		_
+
+
+	Kinetic:
+	________
+
+
+		_
+
+
+	Keyframe | Controls:
+	____________________
+
+
+		_
+
+
+	Keyging | Extract:
+	__________________
+
+
+		_
+
+
+	Levels | Exposser:
+	__________________
+
+
+		_
+	
+
+	Lock:
+	_____
+
+
+		_
+
+
+	Layer | Control:
+	________________
+
+
+		_
+
+
+	Layers:
+	_______
+
+
+		_
+
+	
+	Mirrow | Reflect:
+	_________________
+
+		
+		_
+
+
+	Motion Graphycs:
+	________________
+
+
+		_
+
+
+	Modular Layer Connection:
+	_________________________
+
+		
+		_
+
+
+	Matte | Refine:
+	_______________
+
+
+		_
+	
+
+	Matte | Create:
+	_______________
+
+
+		_
+
+
+
+	Morphs:
+	_______
+
+
+		_
+
+
+	Modulo | Repeat:
+	________________
+
+
+		_
+
+
+	Marks:
+	______
+
+
+		_
+
+
+	Motion Blur:
+	____________
+
+
+		_
+
+
+	Mask Paths and Shapes:
+	______________________
+
+
+		_
+
+
+	Mosaico | Components:
+	_____________________
+
+
+		_
+
+
+	Nav | Workflow:
+	_______________
+
+
+		_
+
+
+	Noise Reduction:
+	________________
+
+
+		_
+
+
+	Visualizacion de Capas y Rendimiento:
+	_____________________________________
+
+
+		_
+
+
+	Production | Composite:
+	_______________________
+
+
+		_
+
+
+	Prevew | Sheet:
+	_______________
+
+
+		_
+
+
+	Physics and Cinematics:
+	_______________________
+
+
+		_
+
+
+	Path | Fx:
+	__________
+
+		
+		_
+
+
+	Path - Mask | Edit:
+	___________________
+
+
+		_
+
+
+	Render | Process:
+	_________________
+
+
+		_
+
+
+	Rotoscopia | Masks:
+	___________________
+
+
+		_
+
+
+	Rigging Character Cinematic:
+	____________________________
+
+
+		_
+
+
+	Restaurar Aninar Alpha:
+	_______________________
+
+
+		_
+
+
+	Remapeo 3D:
+	___________
+
+
+		_
+	
+
+	ReMap | ReScale:
+	________________
+
+
+		_
+	
+
+	Scripts Actions:
+	________________
+
+
+		_
+
+
+	SD - HD:
+	________
+
+
+		_
+
+
+	Strands | Tails:
+	________________
+
+
+		_
+
+
+	Sources | Procesos:
+	___________________
+
+
+		_
+
+
+	Shadows:
+	________
+
+
+		_
+
+
+	Shapes | Forms:
+	_______________
+
+
+		_
+
+
+	Scopes | Motitor:
+	_________________
+
+
+		_
+	
+
+	Text | Edit:
+	____________
+
+
+		_
+	
+
+	Time Remaping:
+	______________
+
+
+		_
+	
+
+	Time-Line:
+	__________
+
+
+		_
+
+
+	Tracking:
+	_________
+
+
+		_
+
+
+	Thunder | Rays:
+	_______________
+
+
+		_
+	
+
+	Tv | Fx:
+	________
+
+
+		_
+
+
+	Transformation:
+	_______________
+
+
+		_
+
+	
+	vFx:
+	____
+
+
+		_
+	
+
+	Video Editcion:
+	______________
+
+
+		_
+	
+
+	Vignette:
+	_________
+
+
+		_
+	
+
+	VersionUp:
+	__________
+
+
+		_
+
+
+	Zoom Light | Blur:
+	__________________
+
+
+		_
+
+
+

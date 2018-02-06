@@ -1,0 +1,3752 @@
+
+
+	ft-toolbar2
+
+		https://aescripts.com/ft-toolbar/
+
+		
+
+	FxPro Guide:
+	____________
+
+	
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	3D | Composite:
+	_______________	
+
+
+		_PBA YY UVMapper.pbk
+
+			_
+
+
+		_PBA YY Seamless.pbk
+
+			_
+
+
+		_PBA ft-UVPass.pbk
+
+			_
+
+
+		_PBA ft-PPass2Matte.pbk
+
+			_
+
+
+		_FL ZbornyToy
+
+			_
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	3D | Generate:
+	______________
+
+
+		_BCC Extrude Spline
+
+			_
+
+
+		_Zaxwerks 3D Invigorator Pro
+
+			_
+
+
+		_Zaxwerks Pro Animator
+
+			_
+
+
+		_Element 3D
+
+			_
+
+
+		_E3D Mografer Fx
+
+			_
+
+
+		_CC Cylinder
+
+			_
+
+
+		_CC Sphere
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	3D | Maps:
+	__________
+
+
+		_FL Normalize
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	3D | Transform:
+	_______________
+
+
+		_Basic 3D
+
+			_
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	3D | Production:
+	________________
+
+
+		_BR Projection
+
+			_
+
+
+		_obj-vertex-export
+
+			_
+
+
+		_Elementary
+
+			_
+
+
+		_CINEWARE Proxy:
+
+			_
+
+
+		_Location
+
+			_
+
+
+		_EFX Z_Depth Compose
+
+			_
+
+
+		_EFXZ_Depth Shadow
+
+			_
+
+
+		_EFX_ID Blur 10
+
+			_
+
+
+		_EFX_ID Blur 20
+
+			_
+
+
+		_EFX_ID Blur 40
+
+			_
+
+
+		_EFX ID-Z_Depth Blur 10
+
+			_
+
+
+		_EFX ID-Z_Depth Blur 20
+
+			_
+
+
+		_EFX ID-Z_Depth Blur 40
+
+			_
+
+
+		_EFX ID Edge Blur 2
+
+			_
+
+
+		_EFX Z Depth Cut
+
+			_
+
+
+		_EFX Velocity Select
+
+			_
+
+
+		_EFX ID Select
+
+			_
+
+
+		_EFX 1 Shadow Fix
+
+			_
+
+
+		_EFX Alpha Streaks
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	3D | Anaglyph:
+	______________
+
+
+		_EvilTwinStereo3D
+
+			_
+
+
+		_EvilTwinStereo3D v1.0.2
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Align:
+	______
+
+
+		_AlignLayers
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Audio:
+	______
+
+
+		_textsyncr
+
+			_
+
+
+		_BeatAssistant
+
+			_
+
+
+		_AwkwardPause
+
+			_
+
+
+		_Audio To Markers
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Alpha | Composite:
+	__________________
+
+
+		_Set Matte
+
+			_
+
+
+		_DE Alpha Tool
+
+			_
+
+
+		_bs-Smart Set Matte
+
+			_
+
+
+		_Position Matte
+
+			_
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Auto | Color - Levels - Contrast:
+	_________________________________
+
+
+		_Auto Color
+
+			_
+
+
+		_Auto Levels
+
+			_
+
+
+		_Auto Contrast
+
+			_
+
+
+		_Shadow Highlights
+
+			_
+
+
+		_Equalize
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Alpha | Grow - Shring:
+	______________________
+
+
+		_Simple Chocker
+
+			_
+
+
+		_RE VisionFX RE Fill Choke
+
+			_
+			
+
+
+		_RE VisionFX RE Fill Alpha
+
+			_
+
+
+		_Matte Choke
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Anchor Point:
+	_____________
+
+
+		_Move Anchor Point V3
+
+			_
+
+
+		_Move Anchor Point V2
+
+			_
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Blur XX:
+	________
+
+
+		_FL Box Blur
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Backgrounds | Modulos:
+	______________________
+
+
+		_FL Amiga Rulez
+
+			_
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Black & White:
+	______________
+
+
+		_Black & White
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Color | LUT:
+	____________
+
+
+		_Apply Color LUT
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Color | Neutral:
+	________________
+
+
+		_CS Color Neutralizer
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Color | Extract:
+	________________
+
+
+		_Leave Color
+
+			_
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Color | Fill-ter:
+	_________________
+
+
+		_VC Vibrance
+
+			_
+
+
+		_Fill
+
+			_
+
+
+		_Tint
+
+			_
+
+
+		_CC Toner
+
+			_
+
+
+		_TriTone
+
+			_
+
+
+		_Photo Filter
+
+			_
+
+
+		_DigiFx Colorize
+
+			_
+
+
+		_Hue / Saturation
+
+			_
+
+
+		_Colorama
+
+			_
+
+	
+		_Paint Bucket
+
+			_
+
+	
+		_PBA aeColor.pbk
+
+			_
+
+
+		_PBA aeOneChannelColor.pbk
+
+			_
+
+
+		_PBA wnum.pbk (Fill R/G/B)
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Color | Spill Suppressor:
+	_________________________
+
+
+		_Spill Suppressor
+
+			_
+
+
+		_Advanced Spill Suppressor
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Color | Matcher:
+	________________
+
+
+		_RE: Match Color
+
+			_
+
+
+		_RedG Color Matcher
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Color | Adjustment:
+	___________________
+
+
+		_FL Curves-Relative
+
+			_
+
+	
+		_FL Curves-Absolute
+
+			_
+
+
+		_Channel Mixer
+
+			_
+
+
+		_Color Balance
+
+			_
+
+
+		_Selective Color
+
+			_
+
+
+		_Vibrance
+
+			_
+
+
+		_Hue / Saturation
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Color | Virado:
+	_______________
+
+
+		_Color Balance (HLS)
+
+			_
+
+
+		_CC Color Offset
+
+			_
+
+
+		_Hue / Saturation
+
+			_
+
+
+		_PBA percentage.pbk
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Color | Change:
+	_______________
+
+
+		_Change Color
+
+			_
+
+
+		_Change to Color
+
+			_
+
+
+		_PBA ft-AutoWhiteBalance.pbk
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Color | Grading:
+	________________
+
+
+		_PBA ft-Clamp.pbk
+
+			_
+
+
+		_DFT Telecine
+
+			_
+
+
+		_DFT Ozone
+
+			_
+
+
+		_DFT Temperature
+
+			_
+
+
+		_DFT Selective
+
+			_
+
+
+		_DFT Printer Points
+
+			_
+
+
+		_DFT Color Correct
+
+			_
+
+
+		_RedG Zone HLS
+
+			_
+
+		
+		_Film Convert Pro2
+
+			_
+
+
+		_BCC WayColor Grade
+
+			_
+
+
+		_Color Finesse 3
+
+			_
+
+
+		_NWBL Color Fast
+
+			_
+
+
+		_BCC Film Process
+
+			_
+
+
+		_Gamma/Pedesta/Gain
+
+			_
+
+
+		_DFT Fstop
+
+			_
+
+
+		_SelectiveColor
+
+			_
+
+
+		_NWBL FilmColor
+
+			_
+
+
+		_MagicB LookSuite v3
+
+			_
+
+
+		_Hue / Saturation
+
+			_
+
+
+		_PBA ft-Technicolor.pbk
+
+			_
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Color | Sampling:
+	_________________
+
+
+		_Eyedropper Fill
+
+			_
+
+
+		_Color Link
+
+			_
+
+
+		_PBA ft-Clamp.pbk
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Color | Stabilizer:
+	___________________
+
+
+		_Color Stabilizer
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Color | Testing:
+	________________
+
+
+		_PBA qp_Bars.pbk
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Comp | Commands:
+	________________
+
+
+		_NthLayerSelector,jsx
+
+			_
+
+
+		_loadProjectSetup.jsx
+
+			_
+
+
+		_loadProject.jsx
+
+			_
+
+
+		_CreateProxies.jsx
+
+			_
+
+
+		_DuplicateFrameRemover.jsx
+
+			_
+
+
+		_MochaImport.jsx
+
+			_
+
+
+		_compsFromSpreadsheet.jsx
+
+			_
+
+
+		_AutoOrientCamara.jsx
+
+			_
+
+
+		_PhotoOrientationFixer.jsx
+
+			_
+
+
+		_Smart Import.jsx
+
+			_
+
+
+		_Scale Composition,jsx
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Comp | Projects and Files:
+	__________________________
+
+
+		_rd_CompSetter
+
+			_
+
+
+		_PBA YY BitExtender.pbk
+			
+			_
+
+
+		_Layer Library
+
+			_
+
+
+		_pt_OpenSesame
+
+			_
+
+
+		_Version Up
+
+			_
+
+
+		_Project Cleaner
+
+			_
+
+
+		_Trim Comp To Contents
+
+			_
+
+
+		_Crop PreComps
+
+			_
+
+
+		_Auto Crop
+
+			_
+
+
+		_Pre-compose Geek
+
+			_
+
+
+		_Save Comp As Project
+
+			_
+
+
+		_Dynamic Comp
+
+			_
+
+
+		_Project Sync
+
+			_
+
+
+		_compCode
+
+			_
+
+		_Export For Client
+
+			_
+
+
+		_Contact Sheet
+
+			_
+
+
+		_Comps From Spread Sheet
+
+			_
+
+
+		_Project Info List Exporter
+
+			_
+
+
+		_Batch Search-n-Replace Paths
+
+			_
+
+
+		_Templater
+
+			_
+
+
+		_Conform Studio
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Character | Parts:
+	__________________
+
+
+		_VC Class Eyes
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Channels:
+	_________
+
+
+		_PBA ft-CombineRGBA.pbk
+
+			_
+
+
+		_PBA aePopup.pbk (B/W/C)
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Dev | Script:
+	_____________
+
+
+		_Dojo Scripting Utility
+
+			_
+
+
+		_Expression Universalizer2
+
+			_
+
+
+		_Expression Timeline
+
+			_
+
+	
+		_iExpression
+
+			_
+
+
+		_MaskVertexExpression
+
+			_
+
+		
+		_rd_GimmePropInfo
+
+			_
+
+
+		_Extend Script
+
+			_
+
+
+		_rd_SampleConsole
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Displace XX:
+	____________
+
+
+		_RE Map Displace
+
+			_
+
+
+		_Turbulent Displace
+
+			_
+
+
+		_Displacement Map
+
+			_
+
+
+		_RE Map Distort
+
+			_
+
+
+		_Time Displacement
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Distribute Layers:
+	__________________
+
+
+		_GridGuide (Alineacion grilla)
+
+			_
+
+
+		_Alphabet
+
+			_
+
+
+		_Solidity
+
+			_
+
+
+		_Vector Icons
+
+			_
+
+
+		_Align 3D
+
+			_
+
+
+		_Align Layers
+
+			_
+
+
+		_Randomizer
+
+			_
+
+
+		_Automate to Sequence
+
+			_
+
+
+		_LayerSlayer
+
+			_
+
+
+		_Obsessive Layers
+
+			_
+
+
+		_Mirror & Offset
+
+			_
+
+
+		_Rift
+
+			_
+
+
+		_Centrum
+
+			_
+
+
+		_Heads NTrails
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Distortion | Stretch:
+	_____________________
+
+
+		_PBA YY MorphShake.pbk
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Distortion | Bulge:
+	___________________
+
+
+		_FL Glass Sphere
+
+			_
+
+
+		_Bulge
+
+			_
+
+
+		_PBA position.pbk
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Distortion | Mix:
+	_________________
+
+
+		_PBA angleDegree
+
+			_
+
+
+		_PBA ft-cubicDistortion.pbk
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Depth Of Field | Rack Focus:
+	____________________________
+
+		
+		_FL Depth Of Field
+
+			_
+
+
+		_Camara Lens Blur
+
+			_
+
+
+		_FL Out Of Focus
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Extrude | Volumen:
+	__________________
+
+
+		_Bevel Alpha
+
+			_
+
+
+		_Color Emboss
+
+			_
+
+
+		_Bevel Edges
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Effects | Plugins:
+	__________________
+
+
+		_Scripts
+
+			_
+
+
+		_Effect Manager
+
+			_
+
+
+		_rd_ScriptLauncher2
+
+			_
+
+
+		_ScriptsManager
+
+			_
+
+
+		_RigFast_Web_Browsers
+
+			_
+
+
+		_PBA_Launcher
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Effects | Switches | Controls:
+	______________________________
+
+
+		_Du-Fx
+
+			_
+
+
+		_djRenderHogs
+
+			_
+
+
+		_Quick Preview
+
+			_
+
+
+		_ft-Effect Instance
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Entrelazado y Conversiones:
+	___________________________
+
+
+		_Fieldskit Deinterlacer
+
+			_
+
+
+		_Fieldkit Reinterlacer
+
+			_
+
+
+		_Fieldkit PullDown
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Expresion:
+	__________
+
+
+		_pt_AutoExpress.jsx
+
+			_
+
+
+		_MaskVertexExpression.jsx
+
+			_
+
+
+		_ExpressionToolbox.jsx
+
+			_
+
+
+		_ExpressionTimeline_v1_2.jsx
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Envoriment | Floor:
+	___________________
+
+
+		_FL Amiga Rulez
+
+			_
+
+
+		_CC Enviroment
+
+			_
+
+
+		_Horizon
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Edge | Extend:
+	______________
+
+
+		_RedG Grow Bounds
+
+			_
+
+
+		_Grow Bounds
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Edge | Bisel:
+	_____________
+
+
+		_Color Emboss
+
+			_
+
+
+		_Bevel Alpha
+
+			_
+
+
+		_Emboss
+
+			_
+
+
+		_Texture
+
+			_
+
+
+		_Find Edges
+
+			_
+
+
+		_CC Glass
+
+			_
+
+
+		_CC Plastic
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Fractal | Vitral:
+	_________________
+
+	
+		_aw_Triangulator
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Fusion de Capas:
+	________________
+
+
+		_RE Match Stereo
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Frame Rate:
+	___________
+
+
+		_Posterize Time
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Fluid | Fx:
+	___________
+
+
+		_CC Blobbylize
+
+			_
+
+
+		_CC Vector Blur
+
+			_
+
+
+		_CC Glass
+
+			_
+
+
+		_CC Plastic
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Feather:
+	________
+
+
+		_RE VisionFx Feather
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Flicker Parpadeo:
+	_________________
+
+
+		_DE Flicker Time Lapse
+
+			_
+
+
+		_DE Flicker High Speed
+
+			_
+
+
+		_DR Flicker Auto Levels
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Fleres | Refract:
+	_________________
+
+
+		_VC Optical Flares
+
+			_
+
+
+		_Lens Flare
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Geo | Maps:
+	___________
+
+
+		_Locations
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Generar | General:
+	__________________
+
+
+		_PBA YY Voronoi.pbk
+
+			_
+
+
+		_CC Scale Wipe
+
+			_
+
+
+		_RE Fill Frame Borders
+
+			_
+
+
+		_PBA Color (Cheker)
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Glow XX:
+	________
+
+
+		_FL Highlight
+
+			_
+
+
+		_FL Glow
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	HDR | Safe Area:
+	________________
+
+
+		_Broadcast Colors
+
+			_
+
+
+		_HDR Compander
+
+			_
+
+
+		_HDR Highlight Compression
+
+			_
+
+
+		_CC Overbringhts
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Histogram | Scopes:
+	___________________
+
+
+		_QP_GradeAssistant
+
+			_
+
+
+		_BCC6 VideoScope
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Infografias:
+	____________
+
+
+		_Infocharts Creator
+
+			_
+
+
+		_AEInfoGraphics
+
+			_
+
+
+		_EasyPieChart
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	IK:
+	___
+
+
+		_Duilk
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Kinetic:
+	________
+
+
+		_VC Sure Target
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Keyframe | Controls:
+	____________________
+
+
+		_Dojo Toolkit v1.2
+
+			_
+
+
+		_PropertyEffector
+
+			_
+
+
+		_Lock Properties
+
+			_
+
+
+		_KeyBoard
+
+			_
+
+
+		_Wind
+
+			_
+
+
+		_Motion 2
+
+			_
+
+
+		_SpringFx
+
+			_
+
+
+		_Duilk
+
+			_
+
+
+		_QuickDraw
+
+			_
+
+
+		_3D to 2D Screen Space
+
+			_
+
+
+		_Match Rate
+
+			_
+
+
+		_KeyTweak
+
+			_
+
+
+		_Find and Replace keyframes
+
+			_
+
+
+		_Animation Patterns
+
+			_
+
+
+		_Motion Mode
+
+			_
+
+
+		_Mirrow & Offset
+
+			_
+
+
+		_Easy and Wizz
+
+			_
+
+
+		_Good Parents
+
+			_
+
+
+		_TimeRemap-Source
+
+			_
+
+
+		_BVH Importer
+
+			_
+
+
+		_Riff (no funciona)
+
+			_
+
+
+		_Keysmith (no funciona)
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Keyging | Extract:
+	__________________
+
+
+		_PBA qp_ChomaSubsample.pbg
+
+			_
+
+
+		_DFT Power Matte v2
+
+			_
+
+
+		_YY_MagicKey
+
+			_
+
+
+		_PBA YY MagicKey.pbk
+
+			_
+
+
+		_DFT zMatter Keyer
+
+			_
+
+
+		_Color Range
+
+			_
+
+
+		_Refine Soft Matte
+
+			_
+
+
+		_Keylight (1.2)
+
+			_
+
+
+		_Color Key
+
+			_
+
+
+		_Extract
+
+			_
+
+
+		_Luma Key
+
+			_
+
+
+		_RE PV Feather
+
+			_
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Levels | Exposser:
+	__________________
+
+
+		_PBA ft-Brightness Check.pbk
+
+			_
+
+
+		_FL Curves-Relative
+
+			_
+
+
+		_FL Curves-Absolute
+
+			_
+
+
+		_Curves
+
+			_
+
+
+		_Levels
+
+			_
+
+
+		_Exposure
+
+			_
+
+
+		_Gamma/Pedestal/Gain
+
+			_
+
+
+		_Levels Individual Controls
+
+			_
+
+
+		_CC Kernel
+
+			_
+
+
+		_HDR Compander
+
+			_
+
+
+		_PS Arbitrary Map
+
+			_
+
+
+		_PBA ft-Film Contrast.pbk
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Lock:
+	_____
+
+
+		_Pixelan FilmTouch Pro
+
+			_
+
+
+		_DFT Film Stock v1.5
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Layer | Control:
+	________________
+
+
+		_Layer Group 2
+
+			_
+
+
+		_Du-gr
+
+			_
+
+
+		_Lebels
+
+			_
+
+
+		_Prism
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Layers:
+	_______
+
+
+		_Layer Marker Rename and Number.jsx
+
+			_
+
+
+		_LayerChain.jsx
+
+			_
+
+
+		_LayerHandles.jsx
+
+			_
+
+
+		_LayerRandomShifter.jsx
+
+			_
+
+
+		_Layers2Grid.jsx
+
+			_
+
+
+		_rimToLayerBelow.jsx
+
+			_
+
+
+		_CreateTrimmedAdjustmentLayer.jsx
+
+			_
+
+
+		_CreateTrimmedAdjustmentLayer.jsx
+
+			_
+
+
+		_CreateSeveralTrimmedAdjustmentLayers.jsx
+
+			_
+
+
+		_SequenceLayers.jsx
+
+			_
+
+
+		_Add Parented Null to Each Selected Layer.jsx
+
+			_
+
+
+		_Add Parented Null to Selected Layers.jsx
+
+			_
+
+
+		_Scale Selected Layers.jsx
+
+			_
+
+
+		_Sort Layers by In Point.jsx
+
+			_
+
+
+		_3D_layer_distributor.jsx
+
+			_
+
+
+		_LockProperties.jsx
+
+			_
+
+
+		_rd_Slicer.jsx
+
+			_
+
+
+		_rd_Scooter.jsx
+
+			_
+
+
+		_rd_Movement.jsx
+
+			_
+
+
+		_rd_KindaSorta.jsx
+
+			_
+
+
+		_rd_Approximate.jsx
+
+			_
+
+
+		_LayerRandomShifter.jsx
+
+			_
+
+
+		_RepositionAnchorPoint.jsx
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Mirrow | Reflect:
+	_________________
+
+		
+		_VC Reflect
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Motion Graphycs:
+	________________
+
+
+		_Cloners+Effectors
+
+			_
+
+
+		_Color Rules
+
+			_
+
+
+		_Ray Dynamic Color
+
+			_
+
+
+		_Chameleon
+
+			_
+
+
+		_Overlap
+
+			_
+
+
+		_Link
+
+			_
+
+
+		_Curva Script
+
+			_
+
+
+		_Pastiche (Pro)
+
+			_
+
+
+		_Leyer Monkey
+
+			_
+
+
+		_Montion Monkey
+
+			_
+
+
+		_Vigoro
+
+			_
+
+
+		_Origami
+
+			_
+
+		
+		_Divide and Corner
+
+			_
+
+
+		_Voronoi Shatter
+
+			_
+
+
+		_Easy Rules
+
+			_
+
+
+		_Parrot
+
+			_
+
+
+		_Vertex Tool
+
+			_
+
+
+		_Matrix
+
+			_
+
+
+		_PolyLine
+
+			_
+
+
+		_AE Sweets
+
+			_
+
+
+		_aw_Triangulator
+
+			_
+
+
+		_SpeedLines
+
+			_
+
+
+		_Slice It Up
+
+			_
+
+
+		_Sliced Box
+
+			_
+
+
+		_3D Oaoer Jam
+			
+			_
+
+
+		_3D Flip Book
+
+			_
+
+
+		_EasySlideShow
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Modular Layer Connection:
+	_________________________
+
+		
+		_LinerCreator
+
+			_
+
+
+		_Cluster
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Matte | Refine:
+	_______________
+
+
+		_Refine Soft Matte
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Matte | Create:
+	_______________
+
+
+		_Paint Bucket
+
+			_
+
+
+		_Threshold
+
+			_
+
+
+		_Time Difference
+
+			_
+
+
+		_Gradient Wipe
+
+			_
+
+
+		_FL Glow | Colateral
+
+			_
+
+
+		_FL Curvaes-Relative
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Morphs:
+	_______
+
+
+		_RE Flex Wrap
+
+			_
+
+
+		_RE Flex Morph
+
+			_
+
+
+		_RE Flex Motion Morph
+
+			_
+
+
+		_CC WrarpMatic
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Modulo | Repeat:
+	________________
+
+
+		_CC Tiler
+
+			_
+
+
+		_Motion Tile
+
+			_
+
+
+		_CC RepeTile
+
+			_
+
+
+		_CC Kaleida
+
+			_
+
+
+		_Hall of Mirroes
+
+			_
+
+
+		_Hall of Time
+
+			_
+
+
+		_S_WrapRepeat
+
+			_
+
+
+		_S_WrapChoma
+
+			_
+
+
+		_S_BlurMoCurves
+
+			_
+
+
+		_Video Feedback
+
+			_
+
+
+		_FL Amiga Rulez
+
+			_
+
+
+		_M_ClipTex
+
+			_
+
+
+		_MBlue_Picture Grid
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Marks:
+	______
+
+
+		_BeatAssistnat
+
+			_
+
+
+		_AudioMarkers
+
+			_
+
+
+		_Markers Sync
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Motion Blur:
+	____________
+
+
+		_Pixel Motion Blur
+
+			_
+
+
+		_CC Force Motion Blur
+
+			_
+
+
+		_Foundry Motion Blur
+
+			_
+
+
+		_RSMB
+
+			_
+
+
+		_RSMB pro
+
+			_
+
+
+		_RSMB Pro Vectors
+
+			_
+
+
+		_Echo
+
+			_
+
+
+		_CC Time Blend
+
+			_
+
+
+		_CC Time Blend Fx
+
+			_
+
+
+		_CC Wide Time
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Mask Paths and Shapes:
+	______________________
+
+
+		_Mask Tracker Plus +
+
+			_
+
+
+		_Tracker 2 Mask
+
+			_
+
+
+		_Simplify Mask
+
+			_
+
+
+		_Center Masks
+
+			_
+
+
+		_Center Masks
+
+			_
+
+
+		_Copy Mask 2 Layer 2
+
+			_
+
+
+		_Mask Vertex Expression
+
+			_
+
+
+		_QuickDraw
+
+			_
+
+
+		_Explode Shape
+
+			_
+
+
+		_Align to Path:
+
+			_
+
+
+		_Advanced Mask Editor
+
+			_
+
+
+		_Perspective_Changer Plugins
+
+			_
+
+
+		_Perspective_Changer Fx
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Mosaico | Components:
+	_____________________
+
+
+		_FL Mosaic Plane
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Nav | Workflow:
+	_______________
+
+
+		_SmartSelector
+
+			_
+
+
+		_Bingo
+
+			_
+
+
+		_The Commander
+
+			_
+
+
+		_Quick Menu
+
+			_
+
+
+		_Effects Manager
+
+			_
+
+
+		_Script Launcher2
+
+			_
+
+
+		_PBA Launcher
+
+			_
+
+
+		_Simple Camara Rig v2.05
+
+			_
+
+
+		_BR_Widget_v1.02
+
+			_
+
+
+		_BR_Horizon_v1.05
+
+			_
+
+
+		_BR_Grid_v1.04
+
+			_
+
+
+		_OrientWorld
+
+			_
+
+
+		_FontList+
+
+			_
+
+
+		_Dojo ToolKit v1.2
+
+			_
+
+
+		_Dojo Toolkit v2.1
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Noise Reduction:
+	________________
+
+
+		_RE VisionFx Noise
+
+			_
+
+
+		_RE VisionFxFrame Average
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Visualizacion de Capas y Rendimiento:
+	_____________________________________
+
+
+		_Ray Dynamic Color
+
+			_
+
+
+		_Chameleon
+
+			_
+
+
+		_Lebels
+
+			_
+
+
+		_Prism
+
+			_
+
+
+		_Layer Group 2
+
+			_
+
+
+		_Quick Preview
+
+			_
+
+
+		_Dugr
+
+			_
+
+
+		_Layer Storage
+
+			_
+
+
+		_Layer Manager
+
+			_
+
+
+		_rd_Stateman
+
+			_
+
+
+		_Quick Preview
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Production | Composite:
+	_______________________
+
+
+		_Buena Depth Cue Camara Mapper
+
+			_
+
+
+		_Buena Depth Cue Depth
+
+			_
+
+
+		_Buena Depth Cue RackFocus
+
+			_
+
+
+		_Buena Depth Cue Atmosphere
+
+			_
+
+
+		_Buena Depth Cue FalloffLighting
+
+			_
+
+
+		_pt_Multiplane
+
+			_
+
+
+		_pt_Panorama
+
+			_
+
+
+		_Normality
+
+			_
+
+
+		_Pexel Cloud
+
+			_
+
+
+		_Zborn Toy
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Prevew | Sheet:
+	_______________
+
+
+		_exportForClient v1.01
+
+			_
+
+
+		_pt_ContactSheet
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Physics and Cinematics:
+	_______________________
+
+
+		_Newton 2
+
+			_
+
+
+		_Toy Bricks
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Path | Fx:
+	__________
+
+		
+		_VC Saber
+
+			_
+
+
+		_VC Optical Flares
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Path - Mask | Edit:
+	___________________
+
+
+		_Vertex Tool
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Render | Process:
+	_________________
+
+
+		_BG Renderer
+
+			_
+
+
+		_Set Render Queve Time Spans
+
+			_
+
+
+		_sb autoRender
+
+			_
+
+
+		_Batch Processor
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Rotoscopia | Masks:
+	___________________
+
+
+		_MamoWord Tracker2Mask
+
+			_
+
+
+		_ManoWord MaskTrackerPlus
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Rigging Character Cinematic:
+	____________________________
+
+
+		_AutoSway
+
+			_
+
+
+		_Joysticks_n_Sliders
+
+			_
+
+
+		_Duilk
+
+			_
+
+
+		_Talking Head
+
+			_
+
+
+		_bg_HeadRig
+
+			_
+
+
+		_Lipsyncr
+
+			_
+
+
+		_Leems Animation Tools
+
+			_
+
+
+		_PuppetTools
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Restaurar Aninar Alpha:
+	_______________________
+
+
+		_RE VisionFx RE Fill GrowShrink
+
+			_
+
+
+		_RE VisionFx Re Fill Area Fill
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Remapeo 3D:
+	___________
+
+
+		_RE Map UV
+
+			_
+
+
+		_ft-UVPass
+			
+			_
+
+
+		_YY_UVmapper
+
+			_
+
+
+		_RE Map Inverse UV
+
+			_
+
+
+		_YY_Seamless
+
+			_
+
+
+		_RE Map Planar
+
+			_
+
+
+		_RE VisionFx Motion Vectors Create
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	ReMap | ReScale:
+	________________
+
+
+		_Detail-Preserving UpScale
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Scripts Actions:
+	________________
+
+
+		_Dojo Toolkit v1.2
+
+			_
+
+
+		_AEScripts LIC
+
+			_
+
+
+		_Du-Ac
+
+			_
+
+
+		_iExpressions
+
+			_
+
+
+		_Expression Timeline2
+
+			_
+
+
+		_Translate Expressions
+
+			_
+
+
+		_Expression Universalizer2
+
+			_
+
+
+		_Extend Script Developer Utility
+
+			_
+
+
+		_rd_GimmePropInfo
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	SD - HD:
+	________
+
+
+		_Dojo Toolkit v1.2
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Strands | Tails:
+	________________
+
+
+		_CC Time Blend Fx
+
+			_
+
+
+		_CC Time Blend
+
+			_
+
+
+		_CC Wide Time
+
+			_
+
+
+		_Echo
+	
+			_
+
+
+		_Time Difference
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Sources | Procesos:
+	___________________
+
+
+		_pt_FrameRestorer
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Shadows:
+	________
+
+
+		_Adobe Drop Shadow
+
+			_
+
+
+		_Adobe Radial Shadow
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Shapes | Forms:
+	_______________
+
+
+		_PBA aePoint
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Scopes | Motitor:
+	_________________
+
+
+		_BCC VideoScopes
+
+			_
+
+
+
+		_qp Grade Assistant 2
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Text | Edit:
+	____________
+
+
+		_Dojo Text Generator
+
+			_
+
+
+		_Basic Text
+
+			_
+
+
+		_rd_EditText
+
+			_
+
+
+		_FontList +
+
+			_
+
+
+		_Descompose Text
+
+			_
+
+
+		_Paragraph on a Path
+
+			_
+
+
+		_Asci Generator
+
+			_
+
+
+		_pt_SSAKaraokeAnimator
+
+			_
+
+
+		_Import Subtitles
+
+			_
+
+
+		_td_Notation
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Time Remaping:
+	______________
+
+
+		_Timewrarp
+
+			_
+
+
+		_Kronos 5
+
+			_
+
+
+		_Twistor
+
+			_
+
+
+		_Twistor Pro
+
+			_
+
+
+		_Twistor Pro Vectors In
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Time-Line:
+	__________
+
+
+		_rd_KeyMarkers.jsx
+
+			_
+
+
+		_Name_Stamp.jsx
+
+			_
+
+
+		_The LoopMarker.jsx
+
+			_
+
+
+		_Time-Reverse Keyframes.jsx
+
+			_
+
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Tracking:
+	_________
+
+
+		_PaintPut
+	
+			_
+
+
+		_BR Projection
+
+			_
+
+
+		_Mocha ImportPlus5
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Thunder | Rays:
+	_______________
+
+
+		_Lightning
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Tv | Fx:
+	________
+
+
+		_VC Twitch
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Transformation:
+	_______________
+
+
+		_PBA aeAngle.pbk
+
+			_
+
+
+		_PBA aeAngle2.pbk
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	vFx:
+	____
+
+
+		_CC WrarpoMatic
+
+			_
+
+
+		_CC Scale Wipe
+
+			_
+
+
+		_CC Radial ScaleWipe
+
+			_
+
+
+		_CC Light Wipe
+
+			_
+
+
+		_CC Glass Wipe
+
+			_
+
+
+		_Mercury
+
+			_
+
+
+		_Holomatrix
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Video Editcion:
+	______________
+
+
+		_Automated VideoEditing
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Vignette:
+	_________
+
+
+		_FilmTouch Pro
+
+			_
+
+
+		_BCC Vignette
+
+			_
+
+
+		_ft-Vignetting Pro
+
+			_
+
+
+		_HitFilm Vignette
+
+			_
+
+
+		_NewBlue Vignette
+
+			_
+
+
+		_Red Giant MisFire Vignette
+
+			_
+
+
+		_Sapphire Vignette
+
+			_
+
+
+		_Tiffen Dfx v4 Vignette
+
+			_
+
+
+		_PBA ft_Vignetting.pbk
+
+			_
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	VersionUp:
+	__________
+
+
+		_Up
+
+			_
+
+
+		_Up Letter
+
+			_
+
+
+		_Up Maximum
+
+			_
+
+
+		_Down
+
+			_
+
+
+		_Down Letter
+
+			_
+
+
+		_Down Maximum
+
+			_
+
+
+		_Settings
+
+			_
+
+
+
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Zoom Light | Blur:
+	__________________
+
+
+		_FL Volumetrics
+
+			_
+
+
+		_FL Radial Blur
+
+			_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
