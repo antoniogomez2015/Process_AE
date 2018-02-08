@@ -62,9 +62,9 @@
 					través, de la cuál, se modularán los elementos 3d, creados
 
 
-					_en éste caso el modo de "Point", es especialmente útil para generación de
+					_en éste caso el modo de "Point", es especialmente útil para la generación 
 
-					elementos únicos
+					de elementos únicos
 
 
 					_más en ésta modalidad también, es posible dispersar manualmente elementos
@@ -79,9 +79,9 @@
 					través, de la cuál, se modularán los elementos 3d, creados
 
 
-					_en éste caso el modo de "Point", es especialmente útil para generación de
+					_en éste caso el modo de "Point", es especialmente útil para la generación 
 
-					elementos únicos
+					de elementos únicos
 
 
 				_Plane:
@@ -91,11 +91,11 @@
 					través, de la cuál, se modularán los elementos 3d, creados
 
 
-					_en éste caso el modo de "Plane", es especialmente útil para generación de
+					_en éste caso el modo de "Plane", es especialmente útil para la generación 
 
-					elementos modulados en forma de lineal en relación a la forma del plano del
+					de elementos modulados en forma de lineal en relación a la forma del plano 
 
-					canvas del viewport, del panel compositing
+					del canvas del viewport, del panel compositing
 
 
 				_Sphere:
@@ -105,44 +105,101 @@
 					través, de la cuál, se modularán los elementos 3d, creados
 
 
-					_en éste caso el modo de "Sphere", es especialmente útil para generación de
+					_en éste caso el modo de "Sphere", es especialmente útil para la generación
 
-					elementos modulados en forma de esférica 
+					de elementos modulados en forma de esférica 
 
 
 				_Ring:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el patrón ó la matrís a 
+
+					través, de la cuál, se modularán los elementos 3d, creados
+
+
+					_en éste caso el modo de "Ring", es especialmente útil para la generación 
+
+					de elementos modulados en forma de cilíndrica ó circular
+
 
 
 				_Layer:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el patrón ó la matrís a 
+
+					través, de la cuál, se modularán los elementos 3d, creados
+
+
+					_en éste caso el modo de "Layer", es especialmente útil para la generación 
+
+					de elementos modulados 
+
+
+					_a través, de una forma personalizada a través, de un mapa de densidad por 
+
+					medio de una layer, auxiliar de la composición respectiva
+
 
 
 				_3D Object:
 
-					_
+					_(Indeterminado)
+
 
 
 				_Layer Grid:
 
-					_
+					_ésta opción nos permitirá indicarle al sistema el patrón ó la matrís a 
+
+					través, de la cuál, se modularán los elementos 3d, creados
+
+
+					_en éste caso el modo de "Layer Grid", es especialmente útil para 
+
+					generación de elementos modulados en forma distribuida por todo el entorno
+
+					del canvas
+
 
 
 			_Position XY:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema las cordenadas XY, grupo respectivo
+
+				de elemenetos 3d, generados por el sistema
 
 
 			_Position Z:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema las cordenadas Z, grupo respectivo
+
+				de elemenetos 3d, generados por el sistema
+
+
+			_Shape Scale
+
+				_ésta opción nos permitirá indicarle al sistema la escala de la forma seneccionada
+
+				en la opción de "Replicator Shape"
+
+
+				_de ésta manera, la relación e interacción de los elementos 3d, modulados variará
+
+				en relación a la escala de la forma seleccionada en la opción de "Replicator Shape"
 
 
 			_Rotation X | Y | Z:
 
-				_
+				_ésta opción nos permitirá indicarle al sistema la rotación por cordenadas 
+
+				específicas como "X,Y,X", del grupo respectiva y por ende de las formas 3d,
+
+				generadas por el sistems
+
+			
+				_lo cuál, permitirá la interacción con los elementos 3d, modulados en el grupo 
+
+				respectivo
 
 
 			_Shape Options:
