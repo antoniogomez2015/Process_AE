@@ -34,9 +34,12 @@ panel Effects Controls / Duik
 	Duik:
 
 
-	-este nos permite hacer sistema de kinemática y cinemática de character, y otros tipos de animaciones
+	_este nos permite hacer sistemas de kinemática y cinemática inversa de characters, y otros tipos de 
 
-	así, como también, riggings, completos y asistidos con diferentes tipos de controles, limitadores y
+	animaciones 
+
+
+	_Así, como también, riggings, completos y asistidos con diferentes tipos de controles, limitadores y
 
 	disparadores ó trigers, de animación, otros
 

@@ -1,0 +1,159 @@
+
+
+
+
+
+
+	Guia de Efectos
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	_A continuación se enuncia el orden los paneles de efectos del top de la interface:
+
+
+		_Gn1.jsx
+
+		_Sc.jsx
+
+		_3D.jsx
+
+		_Emit.jsx
+
+		_Ajs.jsx
+
+		_Colr.jsx
+
+		_Cor1.jsx
+
+		_Cor2.jsx
+
+		_Cor3.jsx
+
+		_Chn.jsx
+
+		_Sdl.jsx
+
+		_Key.jsx
+		
+		_Mt.jsx
+
+		_Mt2.jsx
+
+		_T.jsx
+
+		_T-1.jsx
+
+		_T-2.jsx
+
+		_T-3.jsx
+
+		_Ligt.jsx
+
+		_Stly.jsx
+
+		_Glw.jsx
+
+		_Fx.jsx
+
+		_Bl.jsx
+
+		_Bl2.jsx
+
+		_Bl3.jsx
+
+		_Ps.jsx
+
+		_Ton.jsx
+
+		_bq_ShapeLayerNavigator.jsxbin
+
+
+
+
+
+
+
+
+
+
+
+
+	_A continuación se enuncia el orden los paneles de efectos del bottom de la interface:
+
+
+		_T.jsx
+
+		_Trck.jsx
+
+		_Img.jsx
+
+		_Vd.jsx
+
+		_Tx.jsx
+
+		_Com.jsx
+
+		_pFx.jsx
+
+		_pFx2.jsx
+
+		_VFx.jsx
+
+		_Mg.jsx
+
+		_Mg2.jsx
+
+		_Wp.jsx
+
+		_Wp2.jsx
+
+		_Wp3.jsx
+
+		_Nod.jsx
+
+		_Ren.jsx
+
+		_Nois.jsx
+
+		_Sim.jsx
+
+		_Fler.jsx
+
+		_Anm.jsx
+
+		_Au.jsx
+
+		_Abs.jsx
+
+		_Mask.jsx
+
+		_Lok.jsx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

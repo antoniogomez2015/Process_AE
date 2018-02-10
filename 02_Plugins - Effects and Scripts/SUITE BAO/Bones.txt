@@ -1,0 +1,309 @@
+
+
+
+
+
+
+	BAO Bones
+
+		https://aescripts.com/bao-bones/
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	BAO Bones:
+	__________
+
+
+
+		_éste efecto nos permitirá generar rigs, de kinemática inversa de forma orgánica, es decir, en una 
+
+		sóla layer
+
+
+		_
+
+
+
+
+
+
+
+	Workflow
+	________
+
+
+
+		_primeramente debemos de aplicar el efecto "bones", sobre la layer, a la cuál, deseamos articular
+
+		con kinemática inversa
+
+
+		_para a continuación ir a las opcoines de "Quick Bone Set", en la cuál, podremos selecciona la
+
+		opción de "Set!", para que así, el sistema sea generado sobre la layer, respectiva
+
+
+		_de ésta manera, el sistema se ajustará al tamaño de la layer, creando el "root", "joints", y el 
+
+		"handles", de forma distribuida en relación al tamaño vertical de la layer, respectiva 
+
+
+
+
+
+
+
+
+
+	Bones
+	_____
+
+
+
+		_Mesh
+
+			_Radius
+
+				_
+
+
+			_Mesh Definition
+
+				_
+
+
+			_Mask 1
+
+				_
+
+
+			_Mask 2
+
+				_
+
+
+
+		_Points
+
+
+			_Show
+
+				_Selection & Distortion
+
+					_
+
+
+				_Selection Only
+
+					_
+
+
+
+				_Ditortion Only
+
+					_
+
+
+			_Select 1,2,3
+
+				_
+
+
+			_Distor 1,2,3
+
+				_
+
+
+			_Copy
+
+				_
+
+
+			_Points Scales
+
+
+				_Scale Point 1,2,3
+
+					_
+
+
+				_Auto-Scale (Squash & Stretch)
+
+					_
+
+
+
+		IK
+
+	
+			_IK Scale
+
+				_
+
+
+			_IK Mode
+
+				_
+
+
+			_Clamp Max Size
+
+
+				_Auto
+
+					_
+
+
+				_Manual
+
+					_
+
+
+				_None (2 point)
+
+					_
+
+
+				_Flip
+
+					_
+
+
+
+				_IK Proportion (Left/Right)
+
+					_
+
+
+				_IK Proportion (Up/Down)
+
+					_
+
+
+				_Invert Color
+
+					_
+
+
+				_Keep Original Bend
+
+					_
+
+			
+				_Bending Minimum
+
+					_
+
+
+				_Bending Maximum
+
+					_
+
+
+				_Un-Bend at Start
+
+					_
+
+
+
+			_Source
+
+
+				_Source 1
+
+					_
+
+
+
+			_Child Parameters
+
+
+				_Child Source
+
+					_
+
+
+			_Advanced Settings
+
+
+				_Auto Key
+
+					_
+
+
+				_Use Rounded Time
+
+					_
+
+
+				_Auto Set Anchor Points
+
+					_
+
+
+				_Show Bone
+
+					_
+
+
+				_Bone Color
+
+					_
+
+		
+				_Bone Handles Size
+
+					_
+
+
+
+		_Render Parameters
+
+
+			_Opacity
+
+				_
+
+
+			_ALpha Blending
+
+				_
+
+
+			_Composite Mode
+
+				_
+
+
+			_Quick Bone Set
+
+				_
+
+
+			_Add Child
+
+				_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
