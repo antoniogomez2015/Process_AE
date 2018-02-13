@@ -1,0 +1,134 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+
+	Duik:
+	_____
+
+
+
+	Workflow:
+	_________
+
+
+	_la opción de "Bones", nos permite crear controles de rigging, sobre una única layer, a diferencia de la opción
+
+	de rig automático
+
+
+	_la cuál, requiere que todas las piezas ó joints, ó articulaciones del character, sean una layer, independiente
+
+
+	_de ésta manera, podremos dividir una layer, en varios bones, ó huesos para que de ésta manera, el sistema no 
+
+	la interprete como un sólo bone, ó hueso
+
+
+	_ésto es especialmente útil para la generación práctica de characters, los cuales no están totalmente divididos
+
+	en layers, individuales
+
+
+	_como también, para hacer animaciones sobre layers, con deformaciones altamente configurables y animables 
+
+
+	_entendiendo así, que el sistema generará un handle, ó layer, de tipo null, por cada "puppet pin", que hayamos
+
+	generado sobre la layer, respectiva
+
+
+	_de ésta manera, el sistema colocará un handle sobre la posición de cada puppet pin, creado así, como también,
+
+	emparentará cada puppet pin, ha cada handle, respectivamente
+
+
+	_para que así, podamos deformar las partes de la respectiva layer, a través, de cada uno de los handles, 
+
+	generados por el sistema
+
+
+
+	
+	Puppet Pin:
+	___________
+
+	_para éste proceso, necesitamos de la implementación de la herramienta puppet tool, a través, de la cuál, el 
+
+	sistema podrá reconocer cuantos bones, ó puntos de control ó deformación deseamos agregar ha la layer, así, 
+
+	como también, de su posición en relación al espacio del viewport, del panel compositing, como de la layer, 
+
+	en cuestión
+
+
+	_por ejemplo, para hacer un rig, de un chest, ó torax, debemos agregar un "Pin", a la altura del neck, ó 
+
+	cuello, otro pin, a la altura media del torax, ó chest, y otro al final a la altura del hips, ó cadera
+
+
+	_para ésto, debemos de activar la herramienta de puppet tools, shortcut, "Control + P"
+
+
+	_éstos pins, que hemos creado es recomendable renombrarlos con un nombre descriptivo y técnico, éstos
+
+	son: 
+
+
+		"Neck / Chest / Hips"
+
+
+	para ésto, debemos ir hasta sus opciones de efectos, yendo ha "Effects/Puppet/Mesh 1/Deform/Puppet Pin 1.."
+
+
+
+
+
+	Bones:
+	______
+
+	_luego, tendremos que seleccionar la respectiva layer, a la cuál, le hemos agregado los puppet pins, y con 
+
+	ésta seleccionada ir al panel de "Duik/Rigging/", y darle al botón de "Bones", 
+
+
+	_de ésta manera el sistema agregará a la composición activa cuantas layers, en relación cuando puppet pins, 
+
+	hayamos agregado en la layer, respectiva
+
+
+	_éstas layers, generadas serán layers, de tipo null object, y estarán en modo "guide", a través, de las cuales
+
+	podremos hacer deformación ó rig, sobre la respectiva layer 
+
+
+	_de ésta manera éstas layers, harán de bones, ó huesos sobre la layer, para un sistema más complejo y 
+
+	posterior de rigging, y kinemátiva inversa y directa
+
+
+
+
+
+
+
+
+

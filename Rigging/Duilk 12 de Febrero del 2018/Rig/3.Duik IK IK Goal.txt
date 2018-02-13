@@ -1,0 +1,101 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+
+
+	Workflow:
+	_________
+
+
+	_la opción de IK Goal, nos permitirá emular el peso ó gravedad de los elementos dentro de la kinemática 
+
+	inversa, al hacer un relacionamiento kinemático entre layers, que emularán las físicas implicitas en el 
+
+	movimiento que haría una objeto que lleváramos entre las manos mientras caminamos
+
+
+	_como por ejemplo; una bolsa rellena con cierto peso dentro ó cartera colgante, de ésta manera, las fuerzas 
+
+	centrífiga y la centrípeta compensarían el movimiento haciendo que la bolsa ó cartera siempre esté de cara al
+
+	suelo y no oscile
+
+
+	_ésto es especialmente útil para la configuración de partes móviles ó intercambiables de un characters, en un
+
+	momento determinado
+
+
+	_así, como también, para la animación en general donde deseamos por ejemplo que una serie de layers, 
+
+	emparentadas con otras, y al rotarlas ó moverlas éstas a su vez, mantengan su orientación relativa a su
+
+	posición orignal, ésto quiere decir que éstas layers, no cambiarán su orientación en relación a la layer, 
+
+	sobre cuál, rotan ó se mueven
+
+
+
+	Parents:
+	________
+
+	_para ésto, debemos hacer los emparentamientos deseados según la lógica del character, ó animación en general
+
+	para luego aplicar el sistema de "IK Goal", a las layers, que deseamos que mantengan su orientación original
+
+	
+	_es decir, si desemoas que un caracter, lleve en una de sus manos una bolsa mientras camina, entonces en éste
+
+	caso, tendremos que emparentar la bolsa con la layer, que hará de mano ó "L_hand", respectivamente para que
+
+	así, ésta bolsa siga el movimiento de la animacíón del brazo ó extremidad a través, de la IK
+
+
+
+	IK Goal:
+	________
+
+	_de ésta manera, debemos seleccionar una layer, la cuál, hará de bolsa y a la cuál, deseamos aplicarle el 
+
+	sistema de "IK Goal" 
+
+
+	_de ésta manera, con ésta layer, seleccionada vamos al panel "Duik/rigging/", y debemos darle al botón 
+
+	"IK Goal", para que así, se le agrege ha ésta layer, el efecto de control de "Goal/Checkbox", el cuál, podremos
+
+	activar ó desactivar en cualquier momento e incluso animar éste control
+
+
+	_de ésta manera, podremos repetir éstos pasos para el resto de layers, a las cuales deseamos aplicarle el 
+
+	sistema de Ik Goal, para que así, éstas layers, mantengan su orientación original de cara a la layers, de la
+
+	cuál, estan emparentadas
+
+
+
+
+

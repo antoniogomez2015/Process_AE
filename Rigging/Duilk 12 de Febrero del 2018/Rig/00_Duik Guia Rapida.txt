@@ -1,0 +1,189 @@
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+
+		Tutoriales
+
+
+			Guia Master:
+
+				DUIK 15 full tutorial overview Part 1 Rigging character tools
+
+
+
+			Basicos:
+			________
+
+
+				Procesos sin Duik
+				_________________
+
+
+				Animar un personaje en After Effects Pt1
+
+					https://www.youtube.com/watch?v=mnvGyJ8rdWQ
+
+				Animar un personaje en After Effects Pt2
+
+					https://www.youtube.com/watch?v=dRYjZdBgLGU
+
+				Animar un personaje en After Effects PT3
+
+					https://www.youtube.com/watch?v=JuQ5n32WcSg
+
+
+			Con Duik:
+			_________
+
+		
+			Animación de Personaje en After Effects con duik tools
+
+				https://www.youtube.com/watch?v=WGYMdDfaOQ8
+
+
+			After Effects Animación de Personaje - Duik Tools (actualización) ***************************
+
+				https://www.youtube.com/watch?v=SVb8YTQVVmY
+
+
+			Tutorial Avanzado de DUIK - Rig de cinemática inversa
+
+				https://www.youtube.com/watch?v=VSkcd4LUQmQ
+
+
+
+
+			Avanzados:
+			__________
+
+
+			RIGGING DE PERSONAJE CON DUIK / AFTER EFFECTS (de frente)
+
+				https://www.youtube.com/watch?v=alXl3SrdW5E
+
+
+
+			CICLO DE CAMINADO PERSONAJE CON DUIK / AFTER EFFECTS (lateral)
+
+				https://www.youtube.com/watch?v=5UAnd9aLc-c
+
+
+			
+			Rigging de Personaje Totoro con Duik / Parte #1 /After Effects
+
+				https://www.youtube.com/watch?v=Ay31ShAEMPI
+
+
+			Animación de Personaje Totoro con Duik / Parte #2 /After Effects
+
+				https://www.youtube.com/watch?v=oN0e564NBBc
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Duilk
+	_____
+
+
+
+		1.Rig Automático
+
+			_
+
+
+		2.Duik IK Personalizado
+
+			_Crear extremidades con IK, de forma separadas ó independiente, ésta opción es especialmente 
+
+			útil para crear carácteres complejos, por ejmplo, personales con más de dos brazos, animales,
+
+			entre otras posibilidades en relación a los requerimientos de producción
+
+
+		3.Duik IK IK Goal
+
+			_ésta opción nos permitirá emular la gravedad para elementos portados temporalmente por un
+
+			character
+
+
+		4.Duik IK Bezier IK
+
+			_ésta opción nos permitirá crear sistemas IK, flexibles como también, sistemas de torsión como
+
+			tentáculos, sistemas orgánicos, sistemas físicos onculantes, otros
+
+	
+		5.Duik Rot Morph
+
+
+			_ésta opción nos permitirá animar "paths" de layers, de tipo shape, como también, de masks,
+
+			para la emulación de "muscle system", a través, de controladores externos como efectos
+
+
+
+		6.Duik Bones
+
+			_ésta opción nos permitirá generar rigs/bones, sobre una única layer, a través, de puppet pins,
+
+			nativos de la aplicación para la deformación ó rigging, por medio de handles, a través, de
+
+			layers, auxiliares para crear rigs, más grandes y complejos por lo general ó sobre characters,
+
+			muy simplificados
+
+
+
+		7.Duik Zero
+
+			_ésta opción nos permite hacer el proceso de "Initial Pose", ó "Pose Library", de una 
+
+			character, ó de alguna layer, en una animación determinada
+
+
+
+		8.Duik List
+
+			_la opción de "List", este nos permite hacer extendibles las propiedades animadas de una layer,
+
+			de ésta manera, podremos por ejemplo ahora relacionar la propiedad de animación a través, de 
+
+			expresiones, con otras propiedades de ésta manera influir y controlar otras layers, y otras 
+
+			propiedades, otros
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

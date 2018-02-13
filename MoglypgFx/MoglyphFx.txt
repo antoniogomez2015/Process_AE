@@ -1,0 +1,229 @@
+
+
+
+
+
+	MoglypgFx
+
+
+		https://aescripts.com/moglyph-fx/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	MoglypgFx:
+	__________
+
+
+
+		_éste efecto nos permitirá
+
+
+
+
+
+
+
+
+
+	Generate:
+	_________
+
+
+		Spline Cloner:
+		______________
+
+			_ésta opción nos permitirá indicarle al sistema la generación del mismo a través, de un path,
+
+			ó trazado el cuál, podrá ser de una máscara ó shape
+
+
+
+		Linear Cloner:
+		______________
+
+			_ésta opción nos permitirá indicarle al sistema la generación del mismo a través, de un patrón
+
+			lineal de clonación, a través, del cuál, se clonarán todas las formas ó módulos sobre éste
+
+			patrón genérico
+
+
+
+		Radial Grid:
+		____________
+
+			_ésta opción nos permitirá indicarle al sistema la generación del mismo a través, de un patrón
+
+			de tipo grilla de clonación, a través, del cuál, se clonarán todas las formas ó módulos sobre 
+
+			éste patrón genérico
+
+		
+
+		Honeycomp Cloner:
+		_________________
+
+			_ésta opción nos permitirá indicarle al sistema la generación del mismo a través, de un patrón
+
+			exagonal de clonación, a través, del cuál, se clonarán todas las formas ó módulos sobre éste
+
+			patrón genérico
+
+
+
+
+	Fonts:
+	______
+
+
+		MoGlyph-basicGeometry:
+		______________________
+
+			_
+
+
+
+		MoGlyph-C_Radial:
+		_________________
+
+			_
+
+
+
+		MoGlyph-C_Spline:
+		_________________
+
+			_
+
+
+
+		MoGlyph-directionnal:
+		_____________________
+
+			_
+
+
+
+		MoGlyph-iconOutlined:
+		_____________________
+
+			_
+
+
+		MoGlyph-iconcSolid:
+		___________________
+
+			_
+
+
+		MoGlyph-people:
+		_______________
+
+			_
+
+
+		NoText (custom font):
+		_____________________
+
+			_
+
+
+
+
+
+	Glyph Cloning:
+	______________
+
+
+		_Manual (mixed editable font):
+		
+			_
+
+
+		_Procedural (Single MG-font):
+
+			_
+
+
+		_Add New Glyph:
+
+			_
+	
+
+
+
+
+
+
+
+	Animate:
+	________
+
+
+
+
+		Plain:
+		______
+
+		_
+
+
+		Delay:
+		______
+
+		_
+
+
+		Formula:
+		________
+
+		_
+
+
+		Random:
+		_______
+
+		_
+
+
+		Step:
+		_____
+
+		_
+
+
+		Time:
+		_____
+
+		_
+
+
+		
+		_Randomize Falloff order:
+
+			_
+
+
+		_Rows based (not glyphs):
+
+			_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

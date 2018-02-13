@@ -1,0 +1,161 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+
+	Duik:
+	_____
+
+
+
+	Workflow:
+	_________
+
+
+	_la opción de "Rot Morph", nos permite efectos de "Muscle Sistem", ó también, efecto de animación orgánica
+
+	en la cuál, los elementos evolucionan ó se transforman a través, del tiempo entre otras muchas otras 
+
+	posibilidades de animación
+
+
+
+	Layers:
+	_______
+
+	_para ésto, debemos de tener una composición de trabajo así, como las layers, a las cuales desemos animar
+
+	ó deformar de forma controlada
+
+
+		
+	Animation shape:
+	________________
+
+	_de ésta manera, tendremos que animar la layer, ha animar, ésta layer, debe de ser de tipo "Shape", ó una
+
+	"Mask", sobre otra layers 
+
+
+	_de ésta manera, entraremos a sus opciones de "Contents/Shape 1/Path 1/Path", y animaremos en dos posiciones 
+
+	ó keyframes, ambos estados que tendrá ésta respectiva layer, por ejemplo, una layer, correspondiente ha un 
+
+	brazo ó arm
+
+
+	_de ésta manera, por ejemplo; para realizar la animación de un foreArm, ó brazo, específicamente de un biset, 
+
+	el cuál, tiene dos estados:
+
+
+		_estado de reposo ó estado natural ó extendido
+
+
+		_estado de retraido ó contraido ó flexionado
+
+
+	_así, procederemos ha animar los points, de path, respectivo que correspondan con los del biset, en el estado
+
+	de reposo en un keyframe, ó fotograma inicial
+
+
+	_y a continuación en un punto más allá en el tiempo, animar los points, de path, en la nueva posición del brazo
+
+	ya flexionado y con el biset, contraido generando así, un nuevo keyframe, en el path
+
+
+	_de ésta manera, habremos animados los estados de la animación necesarios para la generación del sistema
+
+
+
+
+	
+	Rot Morph:
+	__________
+
+	_de ésta manera, colocaremos el cabezal de animación del timeline, en el primer keyframe, que hemos generado 
+
+
+	_y leugo, seleccionaremos ambos keyframes, generados y con éstos seleccionados vamos al panel de 
+
+	"Duik/Rigging/", y le damos al botón "Rot Morph", ó "deformación de rotación", para que así, se genere el 
+
+	sistema y ha ésta layer, le sean agregados los siguientes efectos de control:
+
+
+
+		Path Rotation Morph:
+
+			Reference Layer:
+
+				_ésta opción relaciona automáticamente la layer, ha deformar
+
+
+			Min. Angle:
+
+				_ésta opción permite graduar la interacción de la animación realizada por nosotros
+
+				previamente sobre la forma ó path
+
+
+				_y es altamente recomendable colocarle un valor de "-14"
+
+
+			Ma. Angle:
+
+				_ésta opción nos permitirá controlar la animación del muscle, entre sus dos estados
+
+				tanto el de acción como el de reposo
+
+
+				_para ésto, es recomendable manerase entre valores entre "0 y 90", de ésta manera,
+
+				podremos animar el músculo a través, del tiempo 
+
+		
+				_y no a través, de los keyframes, que le colocamos a la layer, en el timeline ya que a 
+
+				través, de éste sistema, la animación realizada sobre la layer, quedará inactiva
+	
+
+
+	_de ésta manera, éste sistema nos permitirá controlar mejor y de forma más graduada y precisa las animaciones
+
+	de deformación para la emulación de muscle system, a través, del panel effects controls
+
+
+	_entre otras posibilidades de deformación de ropa, superficies, entre otras posibilidades
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

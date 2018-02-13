@@ -1,0 +1,86 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+
+	Duik:
+	_____
+
+
+
+	Workflow:
+	_________
+
+
+	Descripción:
+
+	_la opción de "Zero", ésta opción nos permite hacer efecto de "set/free tranformation", de las aplicaciones 
+
+	3d, de ésta manera podremos volver a situar facilmente ha una layer, en un su posición original 
+
+
+	_ésta opción nos permite hacer el proceso de "Initial Pose", ó "Pose Library", de una character, ó de alguna 
+
+	layer, en una animación determinada
+
+
+	NOTA: ésta solución no funciona de forma automática ya que tendremos que seleccionar todas las propiedades
+
+	animadas, ej: "position", y con éstas seleccionadas colocar sus valores respectivos en "0"
+
+
+	_para que así, el sistema coloque las layers, en la misma posición en la cuál, fue muestrada a la hora de
+
+	generar el sistema de "Zero"
+
+
+
+
+
+	Zero:
+	_____
+
+	_de ésta manera, tendremos que seleccionar las layers, a la cuáles, deseamos fijarle su posición en el 
+
+	viewport, del panel compositing, y con éstas layers, seleccionadas vamos al panel "Duik/Rigging/", y le damos 
+
+	al botón de "Zero"
+
+
+	_de ésta manera. el sistema generará una ó más layers, a la composición respectiva, las cuáles, tendrán un
+
+	prefijo, ej: "Zero_C_Name", ésta serán layers, de tipo null object, y estarán en modo de guide 
+
+
+	_más éstas no estarán visibles y a su vez, estarás bloqueadas y se ubicarán en el punto de anclaje de la layer,
+
+	a la cuál, ésta le hará de set position
+
+
+	_de ésta manera, podremos desplegar la propiedad de "Position", de la layer, ha setear ó a la layer, a la 
+
+	cuál, le hemos aplicado el set position
+
+	
+
+
+
+

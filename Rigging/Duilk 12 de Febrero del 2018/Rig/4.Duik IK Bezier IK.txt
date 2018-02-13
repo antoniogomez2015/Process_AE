@@ -1,0 +1,180 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik
+
+
+	Duik:
+	_____
+
+
+
+	Workflow:
+	_________
+	
+
+	_la opción de "Beizer IK", nos permite hacer animación avanzada ó compleja al permitirnos unir varias layers,
+
+	como un todo para hacer una función compleja
+
+
+	_de ésta manera, podremos hacer efectos  orgánicos y con gravedad entre otras fuerzas posibles ha aplicar como
+
+	la fuerza cintrífuga y la fuerza centrípeta entre otras posibles
+
+	
+	_de ésta manera, podremos hacer elemento articulados como una látigo ó elementos basculantes, elementos 
+
+	elásticos, colantes, entre otras posibilidades de animación y simulación
+
+
+
+	Layers:
+	_______
+
+	_para ésto, debemos de tener una composición de trabajo así, como también, una serie de layers, por lo general
+
+	organizadas en el viewport, de forma consecutiva ó contigua la una de la otra ha modo de fila ó columna, para 
+
+	que así, éstas puedan ser relacionadas y tener una correlacción que les permita interactuar como un todo
+
+
+	
+	
+	Controller:
+	___________
+
+	_ahora debemos agregar una estructura de "Controllers", a través, del sistema, a la primera y última layer, que 
+
+	conforman la fila ó columnas de layers, lo cuál, es "requerido", por el sistema (obligatorio)
+
+
+	_de ésta manera, el primer handle, ó "L arm1", corresponderá el "root", del arm, por ejemplo el cuál, nos 
+
+	permitirá unir el brazo al torso y otra parte del character
+
+
+	_y el segundo handle, corresponderá ha "L hand", ó la mano del character, a través, de la cuál, podremos 
+
+	controlar toda la kinemática de la extremidad
+
+
+	_de ésta manera, tendremos ahora que seleccionar la primera layer, de la fila ó columna, layer, "L hand", la 
+
+	cuál, correspondería a la layer, que representa la mano ó "hand", por ejemplo de una extremidad ó brazo ó arm
+
+
+	_y con ésta seleccionada ir al panel "Duik/Rigging/", y darle al botón "Controller", de ésta manera, nos 
+
+	aparecerán  una serie de opciones de configuración que por lo general es mejor dejar por defecto y darle al 
+
+	botón "Create"
+
+
+	_para que así, el sistema genere una nueva layer, de tipo "shape", y en modo "guide", con la forma de una cruz,
+
+	con la cuál, podremos mover el sistema una vez esté creado posteriormente
+
+
+	_de ésta manera, éste proceso lo debemos repetir también, para la layer, del final de la fila ó columna, layer, 
+
+	"L arm1", la cuál, hará de "root", ó conexión el shoulder, en éste caso
+
+
+
+	
+	Parent:
+	_______
+
+	_ahora debemos emparentar éstas layers, que ha generado el sistema en el paso anterior con las layers, ejemplo:
+
+	"C_L arm1", y "C_L Hand", respectivamente
+
+
+	_para ésto, debemos hacer visibles las opciones de "Parent", de after effects, shortcut, "Shift + F4", de ésta 
+
+	manera, emparentaremos la layer, "L arm1", con la layer, handle, de "C_L arm1", y haremos lo mismo para la 
+
+	layer, "end", respectivamente con la layer, "C_L hand"
+
+
+	_para que así, los handles, generados por el sistema en forma de "cruz", arrastren las layers, "L arm1/L Hand",
+
+	respectivamente en el proceso posteriormente
+
+
+
+
+	Bezier IK:
+	__________
+
+	_para a continuación hacer una selección de las layer, de forma ordenada según la lógica de las layers, 
+
+	de ésta manera, seleccionaremos las layers, desde la última "L Hand", hasta la primera "L arm1" 
+
+
+	_y por último, seleccionaremos las layers, de control "C_L hand" y luego la layer, de "C_L arm1"
+
+
+	_y con todas éstas layers, seleccionadas vamos al panel "Duik/Rigging/", y le daremos al botón "Bezier IK", 
+
+	de ésta manera nos aparecerá un menú de opciones en el cuál, podremos elegir entre las opciones de curva de 
+
+	animación entre las cuales dispondremos de las siguientes:
+
+
+
+		Single:
+
+			_de ésta manera el sistema nos generará una nueva layer, de control de tipo shape, en modo de 
+
+			guide, a través, de la cuál, podremos controlar el sistema en nodo de arco
+
+
+		Curve:
+
+			_de ésta manera el sistema nos generará dos nuevas layers, de control de tipo shape, en modo 
+
+			de guide, a través, de la cuál, podremos controlar el sistema en nodo de "S"
+
+
+
+	_para por último darle ha "create", para que así, el sistema sea generado
+
+
+	_de ésta manera, a partir de éste punto el sistema generará un controlador adicional "C_end_curve", a través,
+
+	del cuál, podremos controlar la torsión del brazo ó la modalidad del "elbow", ó codo
+
+
+	_así, como también, a partir de éste punto ya los otros dos controladores ó handles, tendrá efecto tanto sobre
+
+	la mano ó efector "effect/hand", del sistema como también, del "root/arm"
+
+
+
+
+
+
+
+
+
+
+
+
+
