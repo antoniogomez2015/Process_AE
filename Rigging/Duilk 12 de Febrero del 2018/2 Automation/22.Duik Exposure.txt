@@ -1,0 +1,166 @@
+
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+
+
+	Workflow:
+	_________	
+
+	_la opción de "Exposure", ésta opción nos permite cambiar el frame rate, de animación de una propiedad de 
+
+	una layer, en relación el frame rate, de la composición respectiva
+
+
+	_de ésta manera, podremos variar el frame rate, de un propiedad animada para lograr efectos de aumento de la
+
+	velocidad de animación así, como también, de bajarla hasta incluso lograr el efecto de stop motion
+
+
+	_para ésto, debemos de seleccionar una propiedad animada de una layer, por ejemplo "Position", y con ésta 
+
+	propiedad seleccionada vamos al panel "Duik/Automation/", y le damos al botón "Exposure", para así, el sistema
+
+	nos muestre un panel contextual de opciones de configuraciones y preferencias de acción de la herramienta
+
+	las cuales son:
+
+
+		
+		_Adaptative:
+		
+			_ésta opción nos permite indicar los criterios de interpolación de keyframes, a través, de los
+
+			siguientes parámetros, lo cuales nos generarán una configuración del efecto de control muy 
+
+			diferente a las de la opción de fixed
+
+
+
+			Adaptative:
+
+
+				Lower exp limit:
+
+					_límite más bajo de interpolación de keyframes
+
+
+				Upper exp limit:
+	
+					_límite más alto de interpolación de animación
+
+
+				Precision:
+
+					_envios ó "seed", de animación entre más bajo sea el valor se logrará más el
+
+					el efecto de stop motion
+
+
+				Detect:
+
+					_ésta opción le permite al sistema auto detectar ó calcular una reducción de 
+
+					frames, que a su vez, mantenga el mismo timming, de animación y aspecto natural
+
+					de la animación existente, lo cuál es un buen punto de partida, y altamente 
+
+					recomendable				
+
+
+				Sync:
+
+					_ésta opción permite activar las propiedades de sincronización entre propiedades
+
+					y layers, y el sistema
+
+
+				By Layer:
+
+					_ésta opción le permite al sistema filtrar elementos por layers,
+
+
+				All:
+
+					_ésta opción le permite al sistema utilizar todas las layers, y propiedades 
+
+					existentes ó disponibles por el sistema
+
+
+				_de ésta manera, el sistema hace un volcado de animación a través, de los keyframes,
+
+				ha modo de "Hold Keyframes", sobre la trayectoria de animación, ésta modalidad no 
+
+				agrega efectos adicionales al sistema
+
+
+			Fixed:
+				
+				_por el contrario la opción de "fixed", no nos ofrece parámetros de configuración en el
+
+				panel contexutal, si no que directamente nos ofrece la opción de generación del sistema
+
+
+				_de ésta manera, éste le agrega a la propiedad seleccionada, ej; "Position", un script,
+
+				y a su vez, a ésta respectiva layer, le agrega un nueva efecto controlador el cuál, nos
+
+				brinda los siguientes controles de configuración y animación, éstos son:
+
+
+
+					Property Eposire:
+
+						Exposire (frames):
+
+							_donde el factor de producción normal es "1", podremos ir 
+
+							variando ó multiplicando éste factor para ir logrando el mismo 
+
+							efecto de stop motion, de la opción anterior "adaptative", de 
+
+							ésta manera, si agregamos un valor de "6", habremos bajado la 
+
+							velocidad de reproducción seis veces
+
+
+							_aunque ésta opción es preferible que la anterior por que nos 
+
+							permite variar el factor de la velocidad de reproducción así 
+
+							como animar ésta posteriormente de haber creado el sistema, 
+
+							que la opción "adaptative", no nos lo permite
+
+
+
+		From Footage:
+
+
+			_ésta opción no se ha explorado y queda pendiente para una futura revisión
+
+
+
+

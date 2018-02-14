@@ -1,0 +1,64 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+
+	
+	Workflow:
+	_________
+
+
+	_la opción de "Orient to Path", ésta opción emula a través, de un script, la opción nativa de auto 
+
+	orientación de una layer, en una trayectoria de animación
+
+
+	_para lo cuál, tendremos que animar una layer, y su propiedad de "Position", para luego seleccionar ésta
+
+	ó sus keyframes, y con éstos seleccionados ir al panel "Duik/Automation/", y hacer click, en el botón
+
+	"Orient to Path" 
+
+
+	_para que así, el sistema agrege un script, a la propiedad "Position", el cuál controlará la dirección que 
+
+	tomará la layer, respectiva a través, del tiempo y en el especio del viewport, del panel compositing
+
+
+	_en relación a su vez, a la dirección del path, ó trayecto de animación que hemos creado previamente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

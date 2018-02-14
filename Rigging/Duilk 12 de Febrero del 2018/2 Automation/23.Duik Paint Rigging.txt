@@ -1,0 +1,92 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+
+
+	Workflow:
+	_________
+
+	_la opción de "Paint Rigging", ésta opción nos permite animar trazados de ha herramienta de pintura lo cuál,
+
+	es muy práctico y útil para animar diferentes procesos para mostrar efectos y procesos en así, como también,
+
+	para lograr efectos colaterales como el de write on, otros
+
+
+	_para lo cuál, tendremos que tener una composición de trabajo así, como también, una layer, de tipo solid, ó
+
+	una imágen de trabajo
+
+
+	_luego, debemos hacer doble click, sobre ésta layer, para que entremos e su modo de edición y se abra el panel
+
+	"Layer"
+
+
+	_y a continuación actibemos la herramienta de puntura, shortcut: "Control + B", y procedamos ha puntar sobre 
+
+	ésta layer, pudiendo previamente configurar el pincel y los criterios de pintura como canal alpha, otros
+
+
+
+
+	Paint Rigging:
+	______________
+
+	_para luego, al haber terminado el proceso de pintura seleccionar ésta layer, y con ésta seleccionada ir al 
+
+	panel "Duik/Automation/", y darle al botón de "Paint Rigging", para que así, el sisteme le agrege ha ésta 
+
+	layer, un nuevo efecto de control el cuál, nos ofrece los siguientes controles de parámetros de animación 
+
+	y edición:
+
+
+
+		Paint Rig:
+
+			
+			Start:
+
+				_a través, de ésta opción podremos animar los trazados de pintura desde su comienzo 
+
+				hasta su finalización
+
+			End:
+
+				_a través, de ésta opción podremos animar los trazados de pintura desde su finalización
+
+				hasta su comienzo
+
+
+			Diameter:
+
+				_ésta opción nos permite variar el diámetro ó espesor que tendrán los trazados 
+
+				finalmente
+
+
+
+

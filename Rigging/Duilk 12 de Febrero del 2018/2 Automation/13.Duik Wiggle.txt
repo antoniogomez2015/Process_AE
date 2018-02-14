@@ -1,0 +1,114 @@
+
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+	
+
+	Workflow:
+	_________
+	
+
+	_la opción de "Wiggle", ésta nos permite emular el efecto de wiggle, ó deformación ó alteración aletoria 
+
+	de una propiedad
+
+
+	_de ésta manera, el sistema le agrega a la layer, respectiva una serie de efectos a través, de los cuales
+
+	podremos controlar y personalizar al detalle el efecto de wiggle
+
+
+	_más ésta opción no hace el efecto de wiggle, a través, de expresiones directas de cara ha nosotros si no 
+
+	que aplica las expresiones a la propiedad respectiva y a nosotros nos brinda un control más agradable y 
+
+	sobre todo graduable y animable a través del panel efects controls
+
+
+
+
+	Wiggle:
+	_______
+
+	_de ésta manera, debemos animar la layer, deseada para leugo seleccionar la propiedad ha relacionar con el
+
+	sistema, ej; la propiedad de "Position"
+
+
+	_de ésta manera, debemos seleccionar ésta propiedad "Position", y con ésta propiedad seleccionada vamos al
+
+	panel de "Duik/Automation/", y le damos al botón "Wiigle", para que así, el sistema agrege los scripts, a
+
+	la propiedad respectiva y le agrege por otro lado los efectos a la respectiva layer
+
+
+	_más antes de ésto el sistema nos presentará un panel contextual en el cuál, nos preguntará si deseamos las
+
+	dimensiones separadas ó si deseamos todas las dimensiones juntas, para luego indicar "Wiggle", para que así,
+
+	sea generado el sistema
+
+
+	_para lo cuál, es altamente recomendable en el paso anterior seleccionar la opción de "Separate Dimensions",
+
+	para que así, el sisteme nos desglose las propiedades ha controlar de forma más específica, las cuales son:
+
+
+	
+		Property Wiggle:
+
+			Amplitudes:
+
+				X Amp:
+
+					_deformación en "X"
+
+
+				Y Amp:
+
+					_deformación en "Y"
+
+
+			Frequencies:
+
+				X Freq:
+
+					_amplitud de la deformación en "X"
+
+				
+				Y Freq:
+
+					_amplitud de la deformación en "Y"
+
+
+			Loop Duration(s):
+
+				_intervalo de duración de animación
+
+
+
+
+
+

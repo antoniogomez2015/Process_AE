@@ -1,0 +1,170 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+	
+
+	Workflow:
+	_________
+
+	_la opción de "Paint Group", ésta opción nos permite animar trazados de ha herramienta de pintura lo cuál,
+
+	es muy práctico y útil para animar diferentes procesos para mostrar efectos y procesos en así, como también,
+
+	para lograr efectos colaterales como el de write on, otros
+
+
+	_la cuál, es una variante de la herramienta anterior "Paint Rigging", la diferencia con ésta primera es que
+
+	ésta última permite hacer selecciones de trazados y animar éstos como un grupo aparte y los otros trazados 
+
+	de pintura como otros grupos
+
+
+	_de ésta manera, podremos hacer desfaces de animación así, como también, distinciones de colores y tonoes
+
+
+	_para lo cuál, tendremos que tener una composición de trabajo así, como también, una layer, de tipo solid, ó
+
+	una imágen de trabajo
+
+
+	_luego, debemos hacer doble click, sobre ésta layer, para que entremos e su modo de edición y se abra el panel
+
+	"Layer"
+
+
+	_y a continuación actibemos la herramienta de puntura, shortcut: "Control + B", y procedamos ha puntar sobre 
+
+	ésta layer, pudiendo previamente configurar el pincel y los criterios de pintura como canal alpha, otros
+
+
+
+
+	Paint Rigging:
+	______________
+
+	_para luego, al haber terminado el proceso de pintura seleccionar ésta layer, tendremos que desplagar sus 
+
+	opciones de efectos, shorcut "E", y el efecto de "Paint"
+
+
+	_y proceder ha seleccionar los trazados ha animar como un grupo ajeno a los demás trazados y con éstos 
+
+	seleccionados ir al panel "Duik/Automation/", y darle al botón de "Paint Group", para que así, el sisteme 
+
+	le agrege ha ésta layer, un nuevo efecto de control el cuál, nos ofrece los siguientes controles de 
+
+	parámetros de animación y edición:
+
+
+
+		Brush 8 Paint Group:
+
+			
+			Stroke Options:
+
+				_a través, de ésta opción podremos animar los trazados de pintura desde su comienzo 
+
+				hasta su finalización así, como también ajustar su diámetro como ésta modalidad de 
+
+				"Group", agrega la posibilidad de controlar la transformación, es decir, que ahora 
+
+				podremos mover y animar los grupos sobre los demás grupos así, como también, pintar 
+
+				éstos de colores
+
+
+
+				Start:
+					_a través, de ésta opción podremos animar los trazados de pintura desde su 
+
+					inicio hasta su finalización
+
+
+
+				End:
+
+					_a través, de ésta opción podremos animar los trazados de pintura desde su 
+
+					finalización hasta su comienzo
+
+			
+				Color:
+
+					_ésta opción nos permite asignarle un color ha éste respectivo grupo con lo 
+
+					cuál, se pintarán sus respectivos trazados de éste color seleccionado
+
+
+					_más si a cada grupo le vamos asignando un nuevo color ha cada uno de éstos se 
+
+					creará una gerarquización en las cuales el primer grupo creado será el 
+
+					principal el cuál, podra controlar a los demás grupos creados posteriormente
+
+
+					_más los demás grupos creados posteriormente y con colores diferentes podrán 
+
+					moverse y animarse de forma independiente entre si y al grupo principal
+
+
+					_ésto es especialmente útil para procesos de animación de characters, a través, 
+
+					de trazados de pintura, otros
+
+
+				Diameter:
+
+					_ésta opción nos permite variar el diámetro ó espesor que tendrán los trazados 
+
+					finalmente
+
+
+
+			Transform:
+
+				_Anchor Point:
+
+					_ésta opción nos permite animar el punto de anchaje del grupo
+
+
+				_Position:
+
+					_ésta opción nos permite animar la posición del grupo
+
+
+				_Scale:
+
+					_ésta opción nos permite animar la escala del grupo
+
+
+				_Rotation:
+
+					_ésta opción nos permite animar la rotación del grupo
+
+
+
+

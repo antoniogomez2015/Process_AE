@@ -1,0 +1,63 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+
+	
+	Workflow:
+	_________	
+
+	_la opción de "Time Remap", ésta opción nos permite hacer un remapeo del tiempo con un keyframe, extra el 
+
+	cuál, podremos invertir con el keyframe, generado por el sistema de "time remap", por default, de ésta manera,
+
+	podremos hacer el efecto de loop, de forma práctica y pre fabricada
+
+
+	_para ésto, debemos hacer una pre composición con las layer, ha remapear su tiempo, así, con ésta pre 
+
+	composición seleccionada vamos ha "Duik/Automation/", y le damos al botón "Time Remap", para que así, nos 
+
+	aparezca un panel contextual con opciones y características, las cuales son:
+
+
+
+		Loop:
+
+			Loop Out:
+
+				_ésta opción nos permite hacer hacer loop, de salida
+
+
+			Loop In:
+
+				_ésta opción nos permite hacer hacer loop, de entrada
+
+
+	_de ésta manera, podremos colocar éste keyframe, extra generado por el sistema y hacer loop, de entrada ó de 
+
+	salida respectivamente
+
+
+

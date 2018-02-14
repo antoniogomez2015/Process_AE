@@ -1,0 +1,124 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+
+	
+	Workflow:
+	_________
+	
+
+	_la opción de "Wheel", ésta opción nos permite calcular distancias de rotación para hacer el efecto de 
+
+	animación de la rotación de rueda ó "wheel", sobre una superficie y emular el movimiento de rotación y 
+
+	desplazamiento a través, del espacio
+
+
+	_para lo cuál, es recomendable que tengamos creada una layer, de referencia que haga de suelo ó floor,
+
+	el cuál hará de referencia espacial y de trayectoria ha seguir por la layer, motivo
+
+
+	_así, como también, tendremos que tener una layer, motivo la cuál, por lo general emulará ha una rueda ó 
+
+	wheel, la cuál, animaremos en una trayectoria horizontal en relación a la topología de la superficie de 
+
+	la layer, que hará de floor, ó suelo, ya que ésta demarcará la trayectoria de animación horizontal que 
+
+	tendrá la layer, motivo para que así, podamos obtener un efecto visual más realista
+
+
+
+
+	Wheel:
+	______
+
+	_de ésta manera, debemos de seleccionar la layer, del motivo y con ésta seleccionada ir al panel 
+
+	"Duik/Automation/", y hacer click, en el notón "Wheel", sin la necesidad de seleccionar ninguna propiedad
+
+	previamente; para que así, el sistema nos muestre un panel contextual con más opciones las cuales son:
+
+
+
+		Radius:
+
+			_en la versión de Duik 15.05, ya obtiene el radio automáticamente, más si ésto no fuese
+
+			posible también, hay posibilidad la cuál, es 
+
+
+			_crear una layer, de tipo null object, de referencia para luego colocar ésta layer, en 
+
+			la posición del perímetro de la layer, motivo para luego seleccionar ésta layer, proxi y 
+
+			la layer, del motivo y con ambas layers, seleccionar hacer "Duik/Automation/Wheel/Measure", 
+
+			para que así, el sistema pueda obtener el tamaño relactivo del motivo
+
+
+		Movement:
+
+			Horizontal:
+
+				_ésta opción permite indicar si la simulación de rotación será totalmente 
+
+				horizontal
+
+
+			Curve:
+
+				_ésta opción permite indicar si la simulación de rotación será en una superficie
+
+				irregular ó variable
+
+
+
+	_así, como también, el sistema agregará a la layer, motivo un efecto controlador del sistema, el cuál, nos
+
+	ofrece los siguientes controles y parámetros de animación y configuración:
+
+
+
+		Wheel:
+
+
+			Radius:
+
+				_ésta opción nos permite indicar el radio de la wheel, ha emular ésto quiere decir
+
+				que una rueda más pequeña rotará más rápido, de ésta manera podremos graduar y 
+
+				calibrar la rotación real de la layer, motivo con la layer, que hará de superficie
+
+				ó floor, del sistema para que así, el movimiento coincida y se logre el realismo
+
+
+			Reverse:
+
+				_ésta opción nos permite invertir el movimiento de la rotación
+
+
+

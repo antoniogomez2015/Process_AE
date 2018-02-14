@@ -1,0 +1,148 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+
+	
+	Workflow:
+	_________	
+
+	_la opción de "Randomize", ésta opción nos permite hacer el efecto de "slide elements", de ésta manera
+
+	podremos hacer slide, de layer, en el timeline, así, como también, directamente ha propiedades animadas
+
+	ó también, podríamos referirlos el timming, de animación, otros
+
+
+
+
+	Slide Layers:
+	_____________
+
+	_de ésta manera, debemos seleccionar un grupo de layer, en el timeline, a las cuales deseamos cambiarle 
+
+	ó desfazar el punto inicio de ésta layers, en relación a la posición actual del cabezal del timeline
+
+
+	_para ésto, seleccionamos las layers, y con éstas seleccionadas vamos al panel "Duik/Automation/", y le
+
+	damos al botón de "Randomize", para que así, se nos abra un panel contextual de opciones y cacterísticas
+
+	las cuales son:
+
+
+		Selected properties:
+
+			_ésta opción aplica sobre propiedades animadas ej, sobre la propiedad de "Scale", de ésta 
+
+			manera, seleccionaremos las propiedades de "Scale", de un conjunto de layers, y luego 
+
+			ajustaremos los parámetros de acción de "X/Y/Z", en sus atributos de "Max/Min", de ésta
+
+			manera, podremos ver que el factor de la escala para cada una de las layers, ahora es 
+
+			diferente y totalmente aleatorio
+
+
+		Layers:
+
+			Start times:
+
+				_ésta opción nos permite desplazar la ubicación en el timeline, en relación al
+
+				punto de inicio de la composición respectiva, de ésta manera podremos hacer el
+
+				efecto de slide layers
+
+
+			In points:
+
+				_ésta opción nos permite variar el punto de entrada ó inicio de una layer, en el
+
+				timeline, de ésta manera podremos lograr un efecto similar al anterior creando
+
+				un slide layers
+
+
+			Out points:
+
+				_ésta opción nos permite variar el punto de salida ó inicio de una layer, en el
+
+				timeline, de ésta manera podremos lograr un efecto similar al anterior creando
+
+				un slide layers
+
+
+
+		Selected Keyframes:
+
+
+			Times:
+
+				_ésta opción nos permite crear alatoriedad en la posición de los keyframes, 
+
+				seleccionados en el timeline, desfazando éstos entre si, haciendo el efecto
+
+				de slide keyframes
+
+
+			Values:
+
+				_más ésta opción nos hace desface directamente de los keyframes, en el timeline,
+
+				sino hace un cambio directamente en el valor de cada propiedad, de ésta manera, 
+
+				por ejemplo; para la propiedad de "Scale", así, todas las layers, tendrán una
+
+				escala diferente entre si más sus keyframes, se mantendrán en el mismo lugar
+
+
+	_de ésta manera el sisteta trabajo sobre propiedades en dos y en tres dimensiones "X,Y,Z", sobre las cuales 
+
+	podremos interactura e incluencias sus relaciones y características de animación y acción:
+
+
+		_X/Y/Z:
+
+			Max:
+
+				_opción de desface ó desplazamiento máximo para ésta cordenada
+
+
+			Min:
+
+				_opción de desface ó desplazamiento mínimo para ésta cordenada
+
+
+		_From current value:
+
+			_ésta opción indica que el sistema sólo contemplará para su sistema el tiempo actual
+
+			indicado por el cabezal del timeline, ó si tomará toda la duración del timeline, como
+
+			criterio de acción
+
+
+
+

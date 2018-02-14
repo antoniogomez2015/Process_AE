@@ -2,18 +2,14 @@
 
 
 	Duilk
+	_____
 
 		https://rainboxprod.coop/en/tools/duik/duik-download/
-
 
 			Ref animacion: http://clterryart.tumblr.com/
 
 
-
-
-
 		Tutoriales
-
 
 			Guia Master:
 
@@ -24,10 +20,8 @@
 			Basicos:
 			________
 
-
 				Procesos sin Duik
 				_________________
-
 
 				Animar un personaje en After Effects Pt1
 
@@ -44,23 +38,18 @@
 
 			Con Duik:
 			_________
-
 		
 			Animación de Personaje en After Effects con duik tools
 
 				https://www.youtube.com/watch?v=WGYMdDfaOQ8
 
-
 			After Effects Animación de Personaje - Duik Tools (actualización) ***************************
 
 				https://www.youtube.com/watch?v=SVb8YTQVVmY
 
-
 			Tutorial Avanzado de DUIK - Rig de cinemática inversa
 
 				https://www.youtube.com/watch?v=VSkcd4LUQmQ
-
-
 
 
 			Avanzados:
@@ -71,24 +60,17 @@
 
 				https://www.youtube.com/watch?v=alXl3SrdW5E
 
-
-
 			CICLO DE CAMINADO PERSONAJE CON DUIK / AFTER EFFECTS (lateral)
 
 				https://www.youtube.com/watch?v=5UAnd9aLc-c
-
-
 			
 			Rigging de Personaje Totoro con Duik / Parte #1 /After Effects
 
 				https://www.youtube.com/watch?v=Ay31ShAEMPI
 
-
 			Animación de Personaje Totoro con Duik / Parte #2 /After Effects
 
 				https://www.youtube.com/watch?v=oN0e564NBBc
-
-
 
 
 
@@ -169,6 +151,34 @@
 			expresiones, con otras propiedades de ésta manera influir y controlar otras layers, y otras 
 
 			propiedades, otros
+
+
+		9.Duik Rename
+
+			_ésta opción nos permitirá renombrar en lote ó bundle, layer, puppet pins, y archivos del panel
+
+			project, como también, nos permitirá agregar sufijos y prefijos, otros
+
+
+		10.Duik Measure
+
+			_ésta opción nos permitirá medir la distancia entre dos layers, para que el así, el panel 
+
+			contextual del plugins, nos muestre numéricamente la distancia entre ambas layers, indicadas
+
+
+		11.Duik Replace
+
+			_ésta opción nos permitirá buscar y rastrear layers, archivos, expresiones, composiciones y 
+
+			proyectos por lote ó bundle, para reemplazar, renombrar nombres y datos, otros
+
+
+		12.Duik Lock Property
+
+			_ésta opción nos permitirá blouquear propiedades animadas para poder hacer ediciones y ajustes
+
+			temporales, a través, de expresiones las cuáles, podremos eliminar posteriormente
 
 
 

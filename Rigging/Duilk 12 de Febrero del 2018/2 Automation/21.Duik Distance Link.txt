@@ -1,0 +1,104 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+
+
+	Workflow:
+	_________
+
+	_la opción de "Distance Link", ésta opción permite superditar el comportamiento de una propiedad en relación
+
+	al valor de la propiedad de otra layer, lo cuál, es muy importante para diferentes procesos de 	animación y 
+
+	de producción en relacionamiento avanzado y workflow, entre layers
+
+
+	_ésta opción es especialmente útil para el motion graphycs, y para controlar layers, dusplicadas en series
+
+	así, como también, para procesos complejos de riggings, y animaciones de characters
+
+
+	_para ésto, debemos primero tener una composición de trabajo y al menos dos layers, creadas las cuales 
+
+	deseamos relacionar entre si a través, de propiedades
+
+
+	_para luego desplegar la propiedad de la layer, ha relacionar, por ejemplo la propiedad de "Scale", para luego
+
+	seleccionar ésta propiedad de ejemplo "scale", y luego proceder ha seleccionar la otra layer, con la cuál,
+
+	relacionaremos ésta propiedad
+
+
+	_de ésta manera, la propiedad seleccionada de la primera layer,  se relacionará con la propiedad "Position", 
+
+	de la segunda layer, seleccionada
+
+
+	_para luego, con la primera propiedad seleccionada y la segunda layer, seleccionada vamos al panel 
+
+	"Duik/Automation/", y le damos al botón de "Dist. Link", para que así, el sistema le aplique un expresión
+
+	a la propiedad primera seleccionada en éste ejemplo la propiedad de "Scale", y así, como también, ha ésta misma
+
+	layer, le agrege un efecto controlar para controlar el sistema
+
+
+	_dicho efecto controlador aplicado tiene las siguientes características y elementos de control:
+
+
+
+		Property Distance Link:
+
+			
+			Range:
+
+				Minimum Distance:
+
+					_ésta opción nos permite indicar un rango mínimo de acción entre 
+
+					ambas layers
+
+
+				Maximum Distance:
+
+					_ésta opción nos permite indicar un rango máximo de acción entre 
+
+					ambas layers
+
+		
+				Reverse:
+
+					_ésta opción nos permite invertir el sentido de la propiedad relacionada
+
+
+				Falloff:
+
+					_ésta opción nos permite hacer una mayor transición de deformación de 
+
+					la propiedad relacionada
+
+
+

@@ -1,0 +1,149 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+		Getting started with DUIK 15 full tutorial overview Part 2 Automation tools
+
+			https://www.youtube.com/watch?v=WWIEZHCYUu8
+
+				00:14 Wiggle, 00:38 Swing, 01:06 Spring, 03:10 Blink, 03:34 Orient to path, 04:05 Wheel 
+				05:16 Lens, 05:59 Move away, 06:48 Distance link, 07:39 Exposure, 08:39 Paint rigging,
+				09:17 Paint group, 09:46 Randomize, 10:41 Time remap
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Duilk
+	_____
+
+
+
+		13.Duik Wiggle
+
+			_ésta opción nos permitirá seleccionar una propiedad y aplicarle "wiggle", pero a través,
+
+			de un efecto aplicado en el panel effects controls directamente y altamente controlable,
+
+			(no requiere animación previa)
+
+
+		14.Duik Swing
+
+			_ésta opción nos permitirá hacer el efecto pulso ó intermitencia en la escala sobre un 
+
+			propiedad, (no requiere animación previa)
+
+
+		15.Duik Spring
+
+			_ésta opción nos permitirá crear efecto de rebote de pelota sobre una propiedad ó keyframes,
+
+			seleccionados así, en la finalización de la acción se realizará el efecto de rebote de pelota,
+
+			(se requieren al menos dos keyframes)
+
+
+		16.Duik Blink
+
+			_ésta opción nos permitirá convertir la animación entre dos keyframes, ha "Hold Keyframes", y
+
+			repetir ésta animación indefinidamente y modificar ésta animación a través, de un efectos por
+
+			medio del panel effects controls, a través, del tiempo, (se requieren al menos dos keyframes)	
+
+
+		17.Duik Orient to Path
+
+			_ésta opción nos pemritirá emular la opción nativa de "Auto-Orient/Orient Along Path", 
+
+			shortcut, "Control + Alt + O", sobre la trayectoria de animación de una layer, y de una 
+
+			propiedad, (se requieren al menos dos keyframes de la propiedad Position)
+
+
+		18.Duik Wheel
+
+			_ésta opción nos permitirá realizar animaciones de ruedas sobre una superficie totalmente 
+
+			sincronizadas a través, del tiempo y espacio (se requiere una animación y escena, otros)
+
+
+
+		19.Duik Lens
+
+			_ésta opcíon nos permitirá crear el efecto Flere, a través, de layers, en línea dentro de la
+
+			composición respectiva
+
+
+		20.Duik Move Away
+
+			_ésta opción nos permite hacer que dos layers, emparentadas previamente puedan acercarse y 
+
+			alejarse a través, de un efecto por medio del panel effects controls
+
+
+		21.Duik Distance Link
+
+			_ésta opción nos permitirá poder influenciar una propiedad de una layer, a través, del estado
+
+			de otra propiedad de otra layer, así, si movemos una layer, podremos afectar la escala de otra
+
+			layer, por ejemplo, otros (sólo se requiere seleccionar una propiedad de cada layer)
+
+
+		22.Duik Exposure
+
+			_ésta opción nos permitirá poder hacer frame rate, de una propiedad ó keyframes, seleccionados
+
+			de forma dinámica a través, del panel effects controls como un efecto agregado, así, como 
+
+			también, de hacer volcados de frame rates generados
+
+
+		23.Duik Paint Rigging
+
+			_la opción de "Paint Rigging", ésta opción nos permite animar trazados de ha herramienta de 
+
+			pintura lo cuál, es muy práctico y útil para animar diferentes procesos para mostrar efectos 
+
+			y procesos en así, como también, para lograr efectos colaterales como el de write on, otros
+
+
+		24.Duik Paint Group
+
+			_la opción "Paint Group", es una variante de la herramienta anterior "Paint Rigging", la 
+
+			diferencia con ésta primera es que ésta última permite hacer selecciones de trazados y animar 
+
+			éstos como un grupo aparte y los otros trazados de pintura como otros grupos
+
+
+		24.Duik Randomize
+
+			_ésta opción nos permitirá hacer random, de diferentes elementos como layers, tanto 
+
+			espacialmente como de contenido, como también, de propiedades y valores, otros
+
+
+		25.Duik Time Remap
+
+			_ésta opción nos permitirá crear un remapeo de tiempo en una pre composición que hayamos 
+
+			creado de las layers, ó layer, que deseamos remapear de tiempo
+
+
+
+

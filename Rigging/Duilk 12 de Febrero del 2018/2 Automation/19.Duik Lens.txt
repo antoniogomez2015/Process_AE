@@ -1,0 +1,117 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+
+	
+	Workflow:
+	_________
+
+	_la opción de "Lens", nos permite emular el efecto de lens, flere, a través, de layers, en la composición
+
+	respectiva
+
+
+	_de ésta manera podremos hacer éste efecto de forma personalizada y totalmente ajustable
+
+
+	_para ésto, debemos de tener una composición creada y una serie de layers, las cuáles, conformarán la apariencia
+
+	y posición del flere, ha generar ó emular, por lo general layers, de tipo shape,
+
+
+	_de ésta manera, crearemos entre unas 6, ha 9, layers, las cuales conformaremos en línea, éstas layers, 
+
+	las podemos escalar y colocar en una conformación similar a los flares, al igual que su conformación de 
+
+	color
+
+
+
+
+	Lens:
+	_____
+
+	_de ésta manera, tendremos que seleccionar las layers, con las cuales se conformará el sistema, más primero
+
+	tendremos que seleccionar la layer, del medio ó la layer, que se encuentre en el punto centrico de ésta 
+
+	fila ó columna de layers, para luego, proceder ha seleccionar el resto de layer, tratando de llevar un 
+
+	orden cronológico al seleccionar éstas de forma consecutiva
+
+
+	_y así, con todas las layers, deseadas seleccionar vamos al panel "Duik/Automation/", y le damos click, al 
+
+	botón "Lens", para que así, el sistema organice las layers, de una forma gerárquica, colocando la layer,
+
+	del medio en un extremo del sistema y las demás layers, de forma contigua así, como también, le agregará
+
+	a cada una de las layer, un efecto de control
+
+
+	_con la diferencia que al resto de las layers, le ha agregado un efecto de:
+
+
+		Lens Flare:
+
+			Distance:
+
+				_ésta opción nos permite hacer un desplazamiento entre layers, contiguas ha modo
+
+				de offset, entre éstas layers
+
+
+	_y a la layer, media ó principal le ha agregado un efecto de:
+
+
+		Lens Flare:
+
+			Intensity:
+
+				_ésta opción nos permite configurar la opacidad que tendrán todas las layers, del 
+
+				sistema de forma global
+
+
+			Scale:
+
+				_ésta opción nos permite configurar que escala tendrán todas las layers, dentro
+
+				de el sistema lo cuál, afectará sobre la escala relativa entre layers
+		 
+	
+
+	_de ésta manera, si movemos la layer, del medio ó la master, podremos mover todo el sistema el cuál, tendrá
+
+	como conjunto un comportamiento que emulará ha un efecto de lens flare
+
+
+
+
+
+
+
+
+

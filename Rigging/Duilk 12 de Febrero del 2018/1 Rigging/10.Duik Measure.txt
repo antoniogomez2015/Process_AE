@@ -1,0 +1,55 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+
+	
+	Workflow:
+	_________
+
+	
+	_la opción de "Measure", nos permite obtener medidas entre layers, en pixeles, como medida lo cuál, es muy
+
+	útil para diferentes procesos de producción y animación y proceso
+
+
+	_para lo cuál, tendremos que seleccionar dos layers, y con éstas seleccionadas ir al panel "Duik/Rigging/", 
+
+	y darle al botón "Measuse"
+
+
+	_para que así, nos aparezca un panel contetual con el resultado del cálculo de la distancia entre ambas 
+
+	layers, seleccionadas
+
+
+
+
+
+
+
+
+
+
+

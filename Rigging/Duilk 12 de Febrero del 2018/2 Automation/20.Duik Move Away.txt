@@ -1,0 +1,74 @@
+
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+	
+
+	Workflow:
+	_________
+
+	_la opción de "Move Away", ésta opción nos permite hacer que dos layers, emparentadas previamente puedan
+
+	acercarse y alejarse a través, de un efecto por medio del panel effects controls, lo cuál, es muy 
+
+	impotante para diferentes procesos de animación y hace práctico e interactivo el seguimiento de una layer, 
+
+	animada así, como preciso
+
+
+	_para ésto, debemos de tener un composición y al menos dos layers, de interés creadas y para que una 
+
+	layer, pueda seguir a la otra es necesario hacer un emparentamiento previo al proceso
+
+
+	_de ésta manera, debemos emparentar la layer, seguidora ha la layer, seguida, para ésto, debemos abrir 
+
+	las opciones de emparentamiento de after effects, shortcut, "Shift + F4"
+
+
+	_para posteriormente seleccionar la layer, seguidora y con ésta seleccionada ir al panel "Duik/Automation/",
+
+	y darle al botón de "Mode Away", para que así, el sistema agrege ha ésta layer, un efecto controlador del
+
+	sistema así, como también, una expresión a la propiedad de "position"
+
+
+	_de ésta manera, a través, de éste efecto controlador podremos controlar el sistema por medio de los 
+
+	siguientes controles:
+
+
+		Distance from parent:
+
+			_a través, de una slider, podremos aumentar ó disminuir la distancia entre ambas layers,
+
+			con una proporción equidistante entre ambas así, como algularidad
+
+			
+			_ésta propiedad es totalmente animable
+
+
+
