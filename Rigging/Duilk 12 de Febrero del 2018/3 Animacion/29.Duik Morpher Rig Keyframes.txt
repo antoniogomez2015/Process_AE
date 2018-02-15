@@ -1,0 +1,78 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+	
+
+	Morpher/Rig Keyframes:
+	______________________
+
+	_ésta opción nos permite la modalidad de vincular ó relacionar dos propiedades de animación para que así, una 
+
+	de éstas sea controlada por la otra ha modo de rig, para que así, cuando se reproduzca una animación también, 
+
+	se reproduzca otra por defecto ó de forma esclava
+
+
+	_para ésto, debemos de tener dos layers, con propiedades animadas, ej, que la primera layer, tenga la propiedad 
+
+	de "Position", animada y que la segunda layer, tenga la propiedad de "Scale", animada
+
+
+	_de ésta manera, primero seleccionaremos la propiedad de la primera layer, "Position", con la 	cuál, deseamos 
+
+	controlar la otra propiedad, para leugo seleccionar la otra propiedad ha controlar de la segunda layer, ésta 
+
+	es la propiedad "Rotation"
+
+
+	_para luego, con ambas propiedades seleccionardas en orden ir al panel "Duik/Animation/Tool", y darle al botón 
+
+	"morpher", para que así, ha ambas propiedades les sea agregado una expresión, más a la primera layer, la de la 
+
+	propiedad "Position", ó propiedad controladora del sistema se le agregará un efecto controlador a través, del 
+
+	cuál, podremos controlar el sistema el cuál, nos brinda los siguientes controles y características:
+
+
+
+	Morpher:
+	________
+
+	_de ésta manera, al desplazar el slider, podremos mover la primera layer, a través, de su propiedad de 
+
+	"position", como también, haremos rotar la segundad layer, a través, de su propiedad ahora esclava de "Rotation"
+
+
+	_más si desplazamos el cabezal del timeline, ambas layers, realizarán sus animaciónes normalmente y de forma 
+
+	individual sin ninguna intervención
+
+
+		
+
+
+
+
+

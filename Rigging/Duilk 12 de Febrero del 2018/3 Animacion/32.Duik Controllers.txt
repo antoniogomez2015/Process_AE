@@ -29,9 +29,9 @@ ______________________________
 	Controllers:
 	____________
 
-		_ésta son opciones que nos permite crear layer, a modos de íconos los cuales podremos utilizar en 
+	_ésta son opciones que nos permite crear layer, a modos de íconos los cuales podremos utilizar en diferentes 
 
-		diferentes procesos de rig, así, como en diferentes procesos de animación y producción, otros
+	procesos de rig, así, como en diferentes procesos de animación y producción, otros
 
 
 

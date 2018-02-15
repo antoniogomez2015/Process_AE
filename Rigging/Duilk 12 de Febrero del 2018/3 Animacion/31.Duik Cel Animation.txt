@@ -1,0 +1,171 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+
+
+	Cel Animation:
+	______________
+
+	_ésta opción nos permite la modalidad de animación cuadro ha cuadro, con interpolación posterior, muy similar 
+
+	al modo de "video layers", de photoshop, así, como también, lo es el modo step motion
+
+
+	_de ésta manera, crearemos una nueva composición e iremos al penel "Duik/Animation/Tool/", y le daremos a el 
+
+	botón "Cel Animation", para que así, se nos abra un panel contextual con las opciones y controles de animación, 
+
+	éstos son:
+
+
+
+		New Cel:
+		________
+
+		_éste es un acceso directo para crear un sólido de color negro para trabajar como layer, de trabajo
+
+
+		_de ésta manera, crearemos un solid, y haremos doble click, sobre ésta y entraremos en el modo de 
+
+		edición de la layer, para que así, se abra el panel "Layer"
+
+
+		_y para a continuación activar la herramienta de pincel de pintura, shortcut: "Control + B", para 
+
+		comenzar ha pintar sobre el lienzo ó layer, el primer keyframe, de nuestra aninación
+
+
+		_para que así, cuando hayamos terminado de pintar nuestro primer keyframe, sobre el lienzo ó layer, 
+
+		debemos ir nuevamente al panel:
+
+
+
+			_"Duik/Animation/Tool/" 
+
+
+		_y le daremos a el botón "Cel Animation", y le daremos al botón ">", para que avencemos 1, frame, 
+
+		creando un nuevo keyframe, de trabajo de animación sobre el lienzo
+
+				
+		_de ésta manera, podremos ver el boceto en marca de agua del fotograma anterior que hemos dibujado para 
+
+		tener una referencia y mantener la continuidad en el dibujo
+
+
+		_de ésta manera podremos continuar hacendo "frame, to frame", todas nuestra animación sobre el lienzo 	
+
+				
+		_y para previsualiza el resultado de nuestra animación debemos volver al panel "composition", y hacer 
+
+		un preview, de animación de está manera, podremos que el sistema hará transiciones entre los frames, 
+
+		anteriores a través, de las marcas de agua generada a través, de éstos
+
+
+
+		Single Layer:
+		_____________
+
+			_indeterminado
+
+
+
+		Option Skin:
+		____________
+
+			_intervalo de animación ó cantidad de frames, que tendrá el sistema para hacer una transición 
+
+			entre boceto y boceto ó entre dibujo y dubujo que vayamos dibujando en el lienzo
+
+
+
+		In Opacity:
+		___________
+
+			_cantidad de opacidad de entrada que aplicará el sistema para hacer las transiciones entre 
+
+			boceto y boceto de animación
+
+
+
+		Out Opacity:
+		____________
+
+			_cantidad de opacidad de salida que aplicará el sistema para hacer las transiciones entre 
+
+			boceto y boceto de animación
+
+
+
+		Get current Orion Skin:
+		_______________________
+
+			_ésta opción nos permite obtener un intervalo de animación de cualquier propiedad animada para 
+
+			transpolarla a la animación de bocetos "Orion Skin"			
+
+
+
+		Apply Orion Skin:
+		_________________
+
+			_ésta opción nos permite pegar un intervalo de animación obtenido de cualquier propiedad de 
+
+			animación como valor de frame rate, de animación para el sistema de "Orion Skin"
+
+
+
+		Arrow key left:
+		_______________
+
+			_ésta opción nos permie volver ha estados previos de animación, tanto para su visualización 
+
+			como pra hacer correcciones y modificaciones sobre éstos
+
+
+
+		Arrow forkey right:
+		___________________
+
+			_ésta opción nos permite crear nuevos keyframes, ó lienzos de animación vacíos para aplicarle 
+
+			el proceso de pintura y animación
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		

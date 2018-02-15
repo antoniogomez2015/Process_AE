@@ -1,0 +1,98 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+
+
+	Keyframe Velocity:
+	__________________
+
+	_así, como también, contamos con unos slider, que representarán a las opciones del panel "Keyframe Velocity",
+
+	shortcut "Control + Shift + K"
+
+
+	_y para tener un control absoluto de los sliders, es recomendable darle al botón de "UnLink", para que podamos
+
+	editar los sliders, de forma independiente el uno del otro
+
+
+	_de ésta manera, el primer slider, representa a la opción de:
+
+
+		Incoming/Outgoing Velocity:
+
+			Speed: 897 pixels/sec
+
+
+	_mientras que el segundo slider, representa la opción de:
+
+		
+		Incomung Valocity:
+
+			Influence: 89%
+
+
+	_y por último el tercer slider, representa la opción de:
+
+
+		Outgoing Velocity:
+
+			Influence: 19%
+
+
+	de ésta manera podremos tener el panel de velocidad siempre a la mano la cuál, permite hacer animaciones
+
+	altamente configurables interactivas y animables así, como práctivas de realizar
+
+
+	_así, como también, en ésta misma sección disponemos de dos asistentes para el trabajo árduo con 
+
+	interpolaciones de desaceleración de entrada y de salida "Easy Ease", de ésta manera, éste sistema nos 
+
+	permitirá obtener "Get", un keyframe "Easy Ease", y pegarlo ó convertir ha otro keyframe, en otro keyframe,
+
+	del tipo "Easy Ease", configurando "Set", éste último seleccionándolo ó haciendo una especie de función 
+
+	"pegar", seteo ó keyframe
+
+
+	_de ésta manera, podremos ir multiplicando los keyframes, en modo "Easy Ease", cuando lo necesitemos 
+
+	garantizando así, que todos tendrán la misma configuración de velocidad, otros
+
+
+
+
+
+
+
+
+
+
+
+
+
+

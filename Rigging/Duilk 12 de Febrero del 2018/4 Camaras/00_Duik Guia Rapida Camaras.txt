@@ -1,0 +1,54 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+		DUIK 15 Full Tutorial Overview Part 4 Camera tools & Settings
+
+			https://www.youtube.com/watch?v=qWWqt7807hA
+
+				
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Duilk
+	_____
+
+
+		34.Duik ControlCam
+
+			_ésta opción nos permitirá hacer un rig, de cámara para disponer así, de todos los controles
+
+			de target, como de cámara libre a través, de layers, auxiliares
+
+
+
+		34.Duik Scale Z-Link
+
+			_ésta opción nos permitirá escalar un plano como un fondo de nuestra escena a través, del
+
+			movimiento de la cámara en el eje "Z", lo cuál, es especialmente útil para proceso de 
+
+			"camara mapping"
+
+
+		35.Duik 2D Multiplane
+
+			_
+
+
+
+
+
+
+

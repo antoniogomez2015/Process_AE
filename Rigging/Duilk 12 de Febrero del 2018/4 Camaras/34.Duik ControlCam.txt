@@ -1,0 +1,72 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+
+	
+	Workflow:
+	_________	
+
+	_La opci'on de "controlCam", nos permitirá hacer un rig, de cámara especialmente útil para la animación de
+
+	cámara en dos modalidades a la vez, tanto con la opción y manejo de target, como también, con la modalidad
+
+	de cámara libre
+
+
+	_de ésta manera, el sistema de rig, generado generará las siguientes layers, de control:
+
+
+
+
+	Control_Camara1:
+	________________
+
+	_éste handle, ó control nos pemritirá mover y rotar toda la cámara con todos los demás handles, ó controles 
+
+	al unísono y de forma libre
+
+
+
+
+	Camara 1 Position:
+	__________________
+
+	_éste handle, ó control nos pemritirá mover la cámara en relación a la posición del handle, "Camara 1 Target",
+
+	de ésta manera, la cámara rotará colateralmente en relación al target, de la cámara
+
+
+
+
+	Camara 1 Target:
+	________________
+
+	_éste handle, ó control nos pemritirá mover el target, de la cámara lo cuál, influenciará colateralmente en la
+
+	dirección de la cámara
+
+
+
+

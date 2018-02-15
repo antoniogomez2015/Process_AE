@@ -1,0 +1,147 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+
+
+	Workflow:
+	_________	
+
+	_la sección de "2D Multiplane", ésta opción nos permite hacer el efecto de paralax, especialmente útil para
+
+	el proceso de animación 2d
+
+
+	_de ésta manera, tendremos que hacer las layer, de nuestra composición que lo por lo general van ha ser las 
+
+	layers, de fondo que representarán diferentes planos
+
+
+	_luego, deseleccionaremos todas las layers, del timeline, e iremos al panel "Duik/Camaras/", y le daremos al 
+
+	botón "2D Multiplane", para que así, el sistema nos muestra un panel contextual de opciones y configuración, 
+
+	éste es:
+
+
+
+
+	Layers:
+	_______
+
+	_en ésta opción, debemos indicar la cantidad de layers, que tiene nuestro sistema ó composición para conformar 
+
+	el paralaje, por ejemplo, si colocamos 3, layers, éstas deberan coincidir con las layers, de nuestra composición,
+
+	ej: "follage, pradera, sky"
+
+
+	_ya que a partir de éste paso, es que el sistema generará las layers, de control, de ésta manera, si indicamos 
+
+	3, layer, entonces el sistema generará 3, layers, de punto de control ó conexión, las cuales tendrán el prefijo 
+
+	de "Zero"
+
+
+
+	
+	_ésta nuevas layers, que ha generado el sistema nos permitirán controlar y configurar el sistema de paralaje,
+
+	éstas son:
+
+
+	
+		L03:
+		____
+
+			_ésta es una de las layers, controladoras del sistema la cuál, tendrá un efecto aplicado,
+
+			"Camara Influence"
+
+
+
+		L02 cam:
+		________
+
+			_ésta es la layer, que tendrá los elementos controlares principales del sistema, éstos son:
+
+
+			Miltiplane:
+
+				_Pan:
+
+					_opción para paneos de cámara
+
+
+				_Zoom:
+
+					_opción para hacer zoom, de cámara
+
+
+				_Truck In Out:
+
+					_opción para el desplazamiento de planos
+
+
+				_Tilt:
+
+					_opción para el efecto roll
+
+
+		L01:
+		____
+
+			_ésta es una de las layers, controladoras del sistema la cuál, tendrá un efecto aplicado,
+
+			"Camara Influence"
+
+
+
+		Zero_L01:
+		_________
+
+			_layer, que hace de bridge, ó puente del sistema a través, de la cuál, tendremos que emparentar
+
+			la primera layer, ó la más próxima de la composición con ésta layer, receptora del sistema
+
+	
+
+		Zero_L02 cam:
+		_____________
+
+			_layer, que hace de bridge, ó puente del sistema a través, de la cuál, tendremos que emparentar
+
+			la primera layer, ó la más próxima de la composición con ésta layer, receptora del sistema
+
+
+
+		Zero_L03:
+		_________
+
+			_layer, que hace de bridge, ó puente del sistema a través, de la cuál, tendremos que emparentar
+
+			la primera layer, ó la más próxima de la composición con ésta layer, receptora del sistema
+
+
+

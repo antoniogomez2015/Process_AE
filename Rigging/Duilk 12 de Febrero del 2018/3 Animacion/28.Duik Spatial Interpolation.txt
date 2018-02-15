@@ -1,0 +1,61 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+
+
+	Spatial Interpolation:
+	______________________
+
+	_así, también, disponemos de dos asistentes de interpolación espacial, de ésta manera, podremos rápidamente
+
+	convertir uno ó más keyframes, seleccionados en el vieport, del panel composition, en keyframes, de 
+
+	interpolación espacial "lineal", ó "bezier", ó curva, a través, de dos botones que fungen como accesos directos
+
+	éstos botones son:
+
+
+		_Linear:
+
+		_Bezier:
+
+
+	que es lo mismo que haríamos con el panel de "Keyframe Interpolación", shortcut: "Control + Alt + K"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

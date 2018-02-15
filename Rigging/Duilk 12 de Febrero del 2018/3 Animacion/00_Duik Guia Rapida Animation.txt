@@ -26,9 +26,79 @@
 
 
 
-		13.Duik Wiggle
+		26.Duik Time Keyframe Assistent
 
-			_ésta opción nos permitirá 
+			_ésta opción nos permitirá tener un acceso directo al asistente de fotogramas y a su vez,
+
+			disponer de una representación visual yendo más allá de los shortcut, de "F9, Shift + F9.."
+
+
+		27.Duik Keyframe Velocity
+
+			_ésta opción nos permitirá tener un acceso directo al panel "Keyframe Velocity", shortcut 
+
+			"Control + Shift + K", y con la ventaja de disponer de sliders, para ajustes más precisos,
+
+			de prests, y obtención de valores actuales "Get", de fotogramas seleccionados
+
+
+		28.Duik Spatial Interpolation
+
+			_ésta opción nos pemritirá cambiar rápidamente el tipo de interpolación espacial, sea ha linear
+
+			ó bezier. de un point, de una path, seleccionado directamente en el viewport, ó en el timline
+
+
+		29.Duik Morpher Rig Keyframes
+
+			_ésta opción nos permite la modalidad de vincular ó relacionar dos propiedades de animación para 
+
+			que así, una de éstas sea controlada por la otra ha modo de rig
+
+
+		30.Duik Copy Paste Animation
+
+			_ésta opción nos permitirá replicar una layer, animada en una composición en otra, renombrando
+
+			la nueva layer, de la otra composición con el mismo nombre de la primera y pegando la animación
+
+
+		31.Duik Cel Animation
+
+			_ésta opción nos permite la modalidad de animación cuadro ha cuadro, con interpolación posterior, 
+
+			muy similar al modo de "video layers", de photoshop, así, como también, lo es el modo step motion
+
+
+		32.Duik Controllers
+
+			_ésta opción nos permitirá crear layers, de tipo "guide", con formas de tipo cruz, para la 
+
+			creación de handles
+
+
+		33.Duik Import rig un comp
+
+			_ésta opción nos permite importar ó hacer una instancia de una composición ya existente 
+
+			previamente la cuál, tiene un character, configurado con el sistema de rigging, de duik, ésta 
+
+			opción es muy similar ha duplicar la composición original
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
