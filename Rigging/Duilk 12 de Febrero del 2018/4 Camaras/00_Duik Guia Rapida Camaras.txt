@@ -33,7 +33,7 @@
 
 
 
-		34.Duik Scale Z-Link
+		35.Duik Scale Z-Link
 
 			_ésta opción nos permitirá escalar un plano como un fondo de nuestra escena a través, del
 

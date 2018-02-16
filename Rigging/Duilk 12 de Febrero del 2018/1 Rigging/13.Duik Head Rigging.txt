@@ -1,0 +1,186 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+		COMPARANDO PLUGIN I DUIK VS. RUBBERHOSE
+
+			https://www.youtube.com/watch?v=2cHV3hBGKz4
+
+			(a partir del minuto: "20:30")
+
+
+
+
+	NOTA: no me funcionó la útlima parte de la expresión
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+	_tenemos la posibilidad a través, de scripts, ó expresiones y layers, auxiliares de poder hacer riggings,
+
+	de las partes móviles del rostro de un character, e incluso de poder deformar partes del character, en
+
+	relación a los movimientos propios del rostro
+
+
+
+
+
+	
+	Workflow:
+	_________
+
+
+	
+
+	Handle Face:
+	____________
+
+	_primeramente debemos de crear una layer, cuál, hará de handle controlador de todos los elementos del rostro,
+
+	ésta layers, la podremos crear con el mismo plugins Duik, como una layer, de tipo controler, con una de las 
+
+	formas predeterminadas
+
+
+	_la cuál, renombraremos ej, "Handle Face", y a su vez, la haremos hija con la tecla "shift", pulsada mientras
+
+	arrastramos el quick parent picker, hasta relacionarla con la layer, "cara", siguiendo el ejemplo de mario ó de 
+
+	la layer, del contorno del rostro
+
+
+	_para que así, la layer, handle face, tome la posición de la layer, cara ó la layer, del contorno del rostro
+
+	así, como sus cordenadas globales
+
+
+	_para posteriormente proceder ha hacer visibles la propiedad de "Position", de la layer, "handle face", para 
+
+	que así, podamos resetear ésta propiedad, colocando sus valores en "0/0"
+
+
+	_para finalmente desplagar la propiedad de "Anchor Point", de la layer, "handle face", y poder así, colocar 
+
+	ésta layer, a un costado del rostro del character, y no nos obtsaculize las animaciones posteriormente
+
+
+
+
+	
+
+	Settings:
+	_________
+
+	_primeramente debemos de seleccionar la layer, que hemos creado con el nombre de "Handle Face", y desplegar 
+
+	su propiedad de "Position", para tener ésta propiedad disponible para su posterior relacionamiento
+
+
+	_para posteriormente
+
+
+
+
+
+	Expresiones:
+	____________
+
+	_para a continuación proceder ha seleccionar las layers, por tipo de elementos del rostro, ej, los ojos del
+
+	character
+
+
+	_y con éstas layers, seleccionadas correspondientes a los ojos proceder ha desplegar sus propiedades de 
+
+	"Position", a la cuáles, a su vez, debemos crearles nuevos keyframes, shortcut, "Shift + Alt + P"
+
+
+	_y a su vez, debemos desplegar las opciones de expresiones para ésta propiedad de "Position", para lo cuál,
+
+	debemos de hacer "Alt + Mouse Left Click", sobre el reloj de ésta propiedad
+
+
+	_a partir de éste punto a cada layer, que le hemos activado las expresiones en la propiedad "Position", se le
+
+	habrán agregado las expresiones:
+
+
+
+		_transform.position
+
+
+
+	_para que así, posteriormente podamos agregarle al final de ésta expresión el signo "+", quedando de la
+
+	siguiente manera:
+
+
+
+		_transform.position+
+
+
+
+	_seguidamente hacemos click, fuera del campo de expresiones para que así, podamos continuar con el proceso
+
+
+	_de ésta manera, podremos ahora seleccionar el espiral de las opciones de "Expression Pick", shortcut, "E/E",
+
+	para que así, a través, de éste espiral podamos arrastrar hasta la propiedad de "Position", de la layer, 
+
+	"Handle Face", para que así, podamos relacionar ambas propiedades con todas las layers, de los ojos en éste
+
+	caso
+
+
+	_quedando la expresión ahora de la siguiente manera:
+
+
+
+		_thisComp.layer("handle face").transform.position
+
+
+
+
+	Factor de Multiplicación:
+	_________________________
+
+	_más ésta expresión hasta éste punto la debemos de multiplicar con un factor, donde "*1", equivaldrá ha igual,
+
+	es decir, el movimiento resultante sería igual no presentando variaciones en su relacionamiento
+
+
+	_más si deseamos que el movimiento sea más acusado ó rápido ó ámplido tendremos que multiplicarlo por un factor
+
+	menos, ej: "*0.5", éste caso es especialmente útil para elementos que estén más próximos al rostro como pueden
+
+	ser la naríz y labios, mentón otros
+
+
+	_más si deseamos que el movimiento sea más lento ó sutil tendremos que multiplicarlo por un factor mayor, ej:
+
+	"*2", éste caso es especialmente útil para elemento más distantes en el rostro del character, por ejemplo, las
+
+	orejas, pelo, cintillos, audifonos, accesorios, otros
+
+
+
+
+

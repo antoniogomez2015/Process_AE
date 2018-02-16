@@ -1,0 +1,264 @@
+
+
+
+
+
+	Joysticks 'n Sliders
+
+		https://aescripts.com/joysticks-n-sliders/
+
+
+
+
+	Tutorial:
+
+
+		Rigging Facial Mario en Español / After Effects
+
+			https://www.youtube.com/watch?v=TwjVb7E_XPc
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	
+	Joysticks:
+	__________
+
+	_éste plugins, nos permitirá realizar diferentes riggings, faciales así, como también, realizar diferentes
+
+	controladores para diferentes partes del cuerpo y del mismo rostro a la vez
+
+
+	_de ésta manera, podremos hacer rig, también, de los ojos, bocas otros, como también, crear diferentes 
+
+	handles, a través, de sliders, personalizados para tener así, controles aún más avanzados para crear así,
+
+	un sistema más completo y articulado
+
+
+
+
+
+
+	Rigging Face Workflow:
+	______________________
+
+	
+
+	Composition:
+	____________
+
+	_debemos de tener un composición de trabajo con las layers, que conformarán el face, del character, de ésta
+
+	manera, tendremos el cortorno base de la cara y por separado también, tendremos la naríz, ojos, pupilas, orejas,
+
+	patillas, bigote, boca, mentón, gorra, bicera, otros, en diferentes layers, unas de las otras
+
+
+
+
+	Masking:
+	________
+
+	_una vez tengamos las layers, que conforman el character, organizadas según la lógica de animación y expresión
+
+	del character
+
+
+	_entonces procederemos ha duplicar la layer, base que conforma el contorno principal de la cabeza ó head
+
+
+	_ésta layer, es aconsejable cambiarle el color de referencia de layer, así, como también, es aconsejable 
+
+	renombrar ésta layer, ej: "mask-face"
+
+
+	_para a continuación ir duplicando ésta layer, e ir colocándolas sobre las layers, que van ha tener movimiento
+
+	hacia los lados como por ejemplo; "patillas, nariz, cejas, bicera, otros", y que posiblemente vayan ha salirse 
+
+	del rosto al animar dichas layers, al emular parte de la rotación del rostro
+
+
+	_para posteriormente proceder ha seleccionar ahora todas las layers, a las cuáles, les hemos puesto encima las
+
+	layers, que hemos renombrados como "mask-face", y con éstas seleccionadas vamos a las opciones de "TrackMatte",
+
+	shortcut, "Shift + F4"
+
+
+	_y allí, con las respectivas layers, seleccionadas procederemos ha escoger la opción de "Alpha Matte", para que
+
+	así, el sistema genere un matte, sobre cada una de las layers, para que así, ésta nos se desborden del cortorno
+
+	del rostro a la hora de realizar las animaciones posteriormente
+
+
+	_más ésta misma operación la tendremos que repetir con los ojos, de ésta manera, duplicaremos la layers, que
+
+	conforma la esclerótica del ojo y la colocaremos sobre la layer, de la pupila para luego hacer un "Track Matte"
+
+
+	_para luego seleccionar la opción de "Alpha Matte", para que así, la pupila ya no se desborde más allá de la 
+
+	esclerótica a la hora de animar el ojo, éste mismo proceso lo debemos de repetir para ambos ojos
+
+
+
+
+	Joystick:
+	_________
+
+	_una vez hemos configurados las layers, que conformará el sistema es hora de generar el sistema de animación
+
+	para lo cuál, tendremos que seleccionar todas las layers, que conforman el character, shortcut, "Control + A", 
+
+	y con éstas seleccionadas vamos ha generar el sistema:
+
+
+	
+	Joystick Setup:
+	_______________
+
+	_primero debemos de colocar el cabezal del timeline, en el frame "0", y allí generar un keyframes, de todas 
+
+	las layers, shortcut, "Shift + Alt + P"
+
+
+	_para posteriormente abrir el plugins "Joystick'n Sliders", y con todas las layers, seleccionadas darle a la
+
+	opción de "Setup/Origin", para que así, el sistema setee la primera posición base del sistema
+
+
+	_para posteriormente avanzar al siguiente keyframe, ó fotograma, shortcut, "Control + Arrow Right", y a 
+
+	continuación volver ha aplicar "Joystick'n Sliders/Setup/Origin", lo cuál, tendremos que repetir en el 
+
+	siguiente keyframe, hasta que tengamos seteados "5", keyframes, ó fotogramas consecutivos de ésta manera
+
+
+	_lo cuál, nos garantiza que en cada keyframe, generado por el sistema siempre tendremos todas las layers,
+
+	del character, centradas para la posterior animación
+	
+
+	_para que así, el sistema del plugin, genere todos los fotogramas de los diferentes estados que conformarán 
+
+	el sistema, de ésta manera, tendremos setedos los fotogramas "0-1-2-3-4"
+
+
+
+
+	Joystick Animation:
+	___________________
+
+	_una vez dispongamos de los keyframes, ó fotogramas configurados procederemos ha realizar las animaciones para
+
+	estado del sistema ha generar
+
+
+
+	DuGr:
+	_____
+
+	_en éste punto es altamente recomendable organizar las layers, ha animar en grupos fácilmente seleccionables
+
+	para un mejor y rápido proceso de animación para lo cuál, podremos hacer uso del plugin "Du-gr", el cuál, nos
+
+	permitirá crear grupos de layers, como "face, gorro, orejas, ojos, otros", lo cuál, nos pemritirá crear 
+
+	movimientos de layers, precisas y rápidos
+
+
+	_de ésta manera, nos ubicaremos en el keyframe, "1", y una vez allí, procederemos ha seleccionar todas las 
+
+	layers móviles del rostro como los son los ojos, cejas, naris, gorra, bicera, vigote, boca, mentón, patillas,
+
+	orejas, otros
+
+
+
+	Animaciones:
+	____________
+
+	
+	_y con éstas seleccionadas procederemos ha desplazar éstas hacia nuestra izquierda ó la derecha del personaje
+
+	en relación a cuanto deseamos virar el rostro del character, lo más recomendado con cuatro "arrows", del teclado
+
+	
+	_y en el siguiente keyframe, ó fotograma repetir la operación pero ésta vez, hacia nuestra derecha ó izquierda
+
+	del personaje, virando así, el rostro hacia el sentido opuesto
+
+
+	_y en el siguiente keyframe, ó fotograma proceder ha animar todas las layers, hacia arriba, virando el rostro
+
+	hacia arriba
+
+
+	_y por último, en el siguiente keyframe, ó fotograma debemos mover todas las layers, hacia abajo virando el 
+
+	rostro hacia abajo
+
+
+
+
+	Generar el Sistema:
+	___________________
+
+	_de ésta manera, una vez ya hemos animados los cuatros estados de la animación del character, es hora de
+
+	generar el sistema
+
+
+	_para lo cuál, debemos de seleccionar todas las layers, del character, shortcut, "Control + A", y con éstas 
+
+	layers, seleccionadas debemos de ir a las opciones de "Joystick'n Sliders/Joystick Tools/", y allí, seleccionar
+
+	la opción de "Create New Joystick!"
+
+
+	_para que así, el sistema genere un nuevo sistema de rig, el cuál, podremos reposicionar y escalar en relación
+
+	a nuestras necesidades
+
+
+	_y a través, del cuál, podremos animar el character con todos los movimientos en conjunto ó al unísono de las 
+
+	cuatro animaciones que hemos realizados previamente
+
+
+
+
+	Update:
+	_______
+
+	_más también, tendremos la posibilidad de reajustar el sistema una vez lo hayamos generado lo cuál, es 
+
+	especialmente útil para hacer modificaciones de animación de última hora del cliente, otros
+
+
+	_para lo cuál, debemos de seleccionar la layer, que corresponde al handle, del "JoystickName", y con ésta
+
+	layers selecciona vamos a las opciones de "Joystick'n Sliders/UnBlinds Layers", para que así, el sistema
+
+	desvincule el sistema temporalmente y poder así, hacer ajustes en las layers, en cada una de las posiciones
+
+	ó estados de animación
+
+
+	_y una vez hemos terminado de realizar los ajustes de animación en las layers, respectivas debemos de volver
+
+	a las opciones de "Joystick'n Sliders/", y darle a la opción de "Blinds Layers", para que así, el sistema 
+
+	re haga nuevamente el sistema
+
+
+	
+
+
+
