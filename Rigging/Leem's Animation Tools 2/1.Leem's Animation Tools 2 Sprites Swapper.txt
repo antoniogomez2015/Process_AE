@@ -1,0 +1,202 @@
+
+
+
+
+
+
+	http://aescripts.com/leemsanimationtools/#/discussion/embed
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+panel Express / Leem's Animation Tools 2
+
+
+	Leem's Animation Tools 2:
+
+
+	-este nos brinda una serie de herramientas para realizar diferentes procesos del rigging, de un character,
+
+	en sus diferentes facetas de producción
+
+
+	_éstas herramientas las tendremos divididas en paneles ó secciones las cuales cumplen diferentes funciones
+
+	en el tiempo y en diferentes procesos de workflow
+
+
+
+
+	Workflow:
+	_________
+
+
+	Sprites Swapper:
+
+	_éste módulo nos brinda la posibilidad de poder intercambiar contenido ó posiciones de un character, en un 
+
+	momento determinado de la animación, ésto es especialmente útil para hacer cambios de planos de personajes
+
+	en animaciones 2d, por ej, cuando éste hace un giro y similares
+
+
+	_ésta herramienta es especialmente útil para integrarla con el plugins, "bq_HeadRig", el cuál, permite hacer
+
+	cinemáticas y movimiento de cabezas ó head, de un character, no brinda un soporte tan robusto para los 
+
+	intercambios de la base del personaje así, como tampoco para los elementos complementarios como cabello y
+
+	accesorios, otros
+
+
+	_primero, debemos de tener una composición de trabajo creada así, como también, las layers, que conforman 
+
+	las diferentes partes del character
+
+
+	_de ésta manera, el sistema nos brinda dos opciones de configuración ó asístencia para controlar la 
+
+	información, éstos son:
+
+
+
+	Apilamiento vertical:
+
+	_ésta es la modalidad innovadora a la convencional ó lineal ó horizontal, ésta nueva modalidad permite hacer
+
+	una disposición de layers, apiladas al modo de photoshop, las cuales podrán aparecer y ocultarse a voluntad
+
+	a través, de un sofisticado panel dedicado para tal fin
+
+
+	_para ésto, tendremos que tener creada una composición de trabajo así, como también, las layers, ha 
+
+	intercambiar en el proceso de animación
+
+	
+	_es recomendable que éstas layers, correspondiente a la cinemática del personaje estén por lo general colocadas
+
+	en el mismo lugar en la composición y apiladas unas sobre otras así, como también, perfectamente renombradas
+
+
+	_por ejemplo; podríamos tener las layers, del cabello de un personaje el cuál, cambiará en relación ha cuando
+
+	el personaje ó character, haga rotaciones con la cabeza, hacia la izquierda y derecha, arriba y abajo, de ésta
+
+	manera cada una de éstas direcciones de acción requerirá una versión del cabello en relación a su perspectiva e
+
+	incluso puede que también, sea necesario hacer uso de la técnica del paralaje para hacer compensaciones visuales
+
+
+	_y a continuación, tendremos que seleccionar todas las layers, ó estados del character, y hacer una precomposición
+
+	de éstos la podremos renombrar con un nombre distintivo
+
+
+	_luego, con ésta precomposición seleccionada vamos al panel "Leem's Animation Tools/", a la sección de 
+
+	"Sprites Swapper", y le damos al botón de apilamiento vertical, ó "Create a new layer, based Swapper", éste ícono
+
+	también, lo reconoceremos por las flechas verticales de "apilamiento vertical"
+
+
+	_y a partir de éste punto, el sistema creará una nueva layer, en la composición activa la cuál, tendrá un sufijo
+
+	de "_SSCTRL", y será una layer, de tipo null object
+
+
+	_ésta nueva layer, generada tendrá un nueva effect, aplicado el cuál, permitirá controlar el sistema, éste efecto
+
+	es:
+
+
+		nombreDeLaLayer_SS
+
+			Slider:
+
+
+	de ésta manera podremos ver que ahora sólo quedará visible en la precomposición una de sus layers, nativas que 
+
+	conforman ésta precomposición, ya que ahora el sistema es quién ahora controla la visualización de éstas layers
+
+
+	_y lo hace a través, del efecto expresado anteriormente, ésto lo hacemos indicando en éste "slider", valores
+
+	enteros, ej: "0,1,2,3,4,...", y de ésta manera ahora podremos ir cambiando ó intercambiando entre las diferentes
+
+	layers, existente en el sistema
+
+
+	_más también, alternativamente dispondremos de una panel más sofisticado para el control de las sprites, para lo
+
+	cuál, tendremos que ir al panel "Leem's Animation Tools/", a la sección de "Sprites Swapper/", y darle al botón
+
+	"Open Library", para que así, se abra el panel contextual "Leem's Sprites library", en el cuál, nos aparecerá un
+
+	listado con todos los sistemas creados, más también, podremos entrar en cada uno de éstos sistemas y hacer click,
+
+	sobre cada una de sus layers, que los componen para hacer visible éstas y ocultar las demás
+
+
+	_ésto nos permite una flexibilidad inucitada y altamente flexible para el manejo, visualización y animación más
+
+	funcional en el workflow, en el manejo de characters
+
+
+
+	Apilamiento Horizontal:
+
+	_ésta es la modalidad clásica, en la que tenemos los estados del character, en layers, de manera secuenciada de
+
+	forma horizontal, al mismo modo como lo hace el sistema de "LipSyncr2", que secuencia los estados del character,
+
+	forma horizontal en el timeline
+
+
+	_de ésta manera, luego de tener todas las layers, del character, de forma secuenciada en el timeline, con una 
+
+	duracción por layer, por lo general de un fotograma ó frame, así, como también, será recomendable hacer la
+
+	composición ha éste mismos tamaño del workarea
+
+
+	_ahora tendremos que seleccionar todas las layers, que conforman los estados de nuestro character, que hemos
+
+	secuenciado en el timeline, y con éstas layers, seleccionadas procedemos ha crear una precomposición la cuál,
+
+	llamaremos con un nombre descriptivo
+
+
+	_luego, con ésta precomposición seleccionada vamos al panel "Leem's Animation Tools/", a la sección de 
+
+	"Sprites Swapper", y le damos al botón "Create a New frame-based Swapper", para que así, sea creado el sistema
+
+
+	_más ahora con las siguientes variaciones; que ahora la precomposición se ha creado con el efecto "Time Remap", 
+
+	e igualmente también, se ha agregado una nueva layer, de tipo null object, llamada "nombre_SSCTRL", con el efecto
+
+	de "nombre_SS/Slider", al igual que el sistema ó caso anterior
+
+
+	_y a su vez, a las layer, de la precomposición se le ha agregado una nueva layer, de tipo null object, con unas
+
+	nuevas marcas, correspondientes a las ubicaciones de las layers, de los estados del sistema y character
+
+
+	_y que en éste caso se ha abierto el panel contextual "Open Libray", de forma automática con el sistema respectivo
+
+	cargado automáticamente y listo para usar
+
+
+	
+
+
+
+
+

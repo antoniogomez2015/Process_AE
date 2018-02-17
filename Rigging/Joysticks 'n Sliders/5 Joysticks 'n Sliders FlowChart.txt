@@ -1,0 +1,54 @@
+
+
+
+
+
+	Joysticks 'n Sliders
+
+		https://aescripts.com/joysticks-n-sliders/
+
+
+
+
+	Tutorial:
+
+
+		Rigging Facial Mario en Español / After Effects
+
+			https://www.youtube.com/watch?v=TwjVb7E_XPc
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	
+	Flowchart:
+	__________
+
+	_más también, tendremos la posibilidad una vez hayamos realizado el proceso de creación de un joystick, de
+
+	poder migrar éste joystic, a una composición anidada ó padre
+
+
+	_de ésta manera, podremos disponer del joystic, en diferentes composiciones mientras las layers, se encuentran
+
+	en su composición respectiva
+
+
+	_lo cuál, amplia las posibilidades de animación y de producción del sistema generado
+
+
+	_para lo cuál, dispondremos de las siguientes opciones:
+
+
+		_Move Joystick to Parent Comp:
+
+
+			_to Parent:
+
+
+			_to Child:
+
+

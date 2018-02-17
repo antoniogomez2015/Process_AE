@@ -1,0 +1,42 @@
+
+
+
+
+
+	Joysticks 'n Sliders
+
+		https://aescripts.com/joysticks-n-sliders/
+
+
+
+
+	Tutorial:
+
+
+		Rigging Facial Mario en Español / After Effects
+
+			https://www.youtube.com/watch?v=TwjVb7E_XPc
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	
+	Delay:
+	______
+
+	_más también dispondremos de efecto adicional el cuál, nos permitirá crear retardos de animación sobre una ó
+
+	más layers, seleccionadas
+
+
+	_de ésta manera, el sistema le agregará un efecto a las layers, seleccionadas a través, del cuál, pdoremos
+
+	generar efectos de delay, de animación para lograr efectos más realistas de animación
+
+
+
+
+

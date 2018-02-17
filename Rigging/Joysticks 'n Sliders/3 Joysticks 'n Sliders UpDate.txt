@@ -1,0 +1,44 @@
+
+
+
+
+
+	Joysticks 'n Sliders
+
+		https://aescripts.com/joysticks-n-sliders/
+
+
+
+
+	Tutorial:
+
+
+		Rigging Facial Mario en Español / After Effects
+
+			https://www.youtube.com/watch?v=TwjVb7E_XPc
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	
+	Update:
+	_______
+
+	_más cuando realizados cambios más complejos de animación y shape, máscaras, timming, y demás elementos de forma
+
+	más compleja, dispondremos en esos caso de la opción de:
+
+
+	
+		_"Update All Rigig Shaped Path Properties"
+
+
+
+	_para que así, todas las layers, sean actualizadas 
+
+	
+
+

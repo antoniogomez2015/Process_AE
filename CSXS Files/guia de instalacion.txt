@@ -1,0 +1,13 @@
+
+
+
+
+	Try these steps:
+
+
+		Go to regedit -> HKEY_CURRENT_USER -> SOFTWARE -> Adobe -> CSXS.5 (or CSXS.6, or CSXS.7, or CSXS.8) 
+
+		and create registry entry "PlayerDebugMode" with String value 1 for all "CSXS.x" you have.. 
+
+
+		Then restart After Effects and try it again..

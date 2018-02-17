@@ -1,0 +1,61 @@
+
+
+
+
+
+	Joysticks 'n Sliders
+
+		https://aescripts.com/joysticks-n-sliders/
+
+
+
+
+	Tutorial:
+
+
+		Rigging Facial Mario en Español / After Effects
+
+			https://www.youtube.com/watch?v=TwjVb7E_XPc
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	
+	Edit:
+	_____
+
+	_más también, tendremos la posibilidad de reajustar el sistema una vez lo hayamos generado lo cuál, es 
+
+	especialmente útil para hacer modificaciones de animación de última hora del cliente, otros
+
+
+	_para lo cuál, debemos de seleccionar la layer, que corresponde al handle, del "JoystickName", y con ésta
+
+	layers selecciona vamos a las opciones de:
+
+
+		
+		_"Joystick'n Sliders/UnBlinds Layers", 
+
+
+	_para que así, el sistema desvincule el sistema temporalmente y poder así, hacer ajustes en las layers, en cada 
+
+	una de las posiciones ó estados de animación
+
+
+	_y una vez hemos terminado de realizar los ajustes de animación en las layers, respectivas debemos de volver
+
+	a las opciones de "Joystick'n Sliders/", y darle a la opción de: 
+
+
+
+		_"Blinds SelectedLayers" 
+
+
+	_para que así, el sistema re haga nuevamente el sistema
+
+
+
