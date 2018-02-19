@@ -1,0 +1,140 @@
+
+
+
+
+
+	Joysticks 'n Sliders
+
+		https://aescripts.com/joysticks-n-sliders/
+
+
+
+
+	Tutorial:
+
+
+		Rigging Facial Mario en Español / After Effects
+
+			https://www.youtube.com/watch?v=TwjVb7E_XPc
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	
+	Switch Templates:
+	_________________
+
+	_más también tendremos la posibilidad de hacer variaciones de layers, de forma opciónal para los sistema
+
+	creados de tipo Joystick 
+
+
+	_de ésta manera, podremos agregar más realismo yendo más allá de sólo las posibilidades de la generación 
+
+	de los pseudo planos
+
+
+	_lo que nos permitirá hacer variaciones de planos de por ejemplo; la boca, rostro, orejas otros, de ésta
+
+	manera, podremos emular tanto los planos de frente, de lado, atras, arriba, abajo, respectivamente
+
+
+
+
+	Workflow:
+	_________
+
+	_de ésta manera, una vez hemos generado una sistema de Joystick, podremos darle a la opción de:
+
+
+		_Switch Templates/Create
+
+
+	_para que así, se nos abra una venana contextual en la cuál, podremos indicar un nombre a la composición 
+
+	que generará el sistema
+
+
+	_así, la nueva composición generada por el sistema estará vacia y la cuál, representará a cada posición
+
+	posible del joystick, tanto en el eje vertical como en el eje vectical
+
+
+	_de ésta manera, podremos pegar dentro de ésta composición generada por el sistema layers, en la 
+
+	disposición espacial que desiemos que sean interceptadas y mostradas a su vez, por el joystick, principal 
+
+	e inicial que hemos creado previamente
+
+
+
+	Instancias:
+	___________
+
+	_de ésta manera, debemos de diseñar los gráficos ó vectores de éstas instancias en las diferentes posiciones
+
+	deseadas
+
+
+	_para posteriormente cargarlos dentro de la composición generada por el sistema para luego, ubicalas según la
+
+	lógica y perspectiva de los cambios de posición del character
+
+
+	_las cuáles, pueden ser cuando el character, haga un giro hacia la izquierda, derecha, mire hacia abajo ó hacia
+
+	arriba
+
+
+	_más también, dispondremos de todo el espacio en el cuál, podremos modular cuantas instancias desiemos para
+
+	crear transiciones muchos más complejas y más realistas
+
+
+
+
+
+	Bind:
+	_____
+
+	_un vez hemos modulado las layers, en la composición generada por el sistema podremos ahora de conformar el
+
+	sistema para lo cuál, debemos de seleccionar las layers, pegadas con la composición generada por el sistema
+
+	y con éstas layers, seleccionadas ir a las opciones de
+
+
+		_Connected Choices Switches Templates...
+
+
+	_para que así, el sistema quede relacionado, de ésta manera, una vez movamos el handle, de joystick, principal
+
+	también, cambiarán a su vez, las instancias generadas por el sistema de "Switch Templates"
+
+
+	
+	UnBlind:
+	________
+
+	_más para editar la disposición e instancias del sistema dispondremos de la opción de:
+
+
+		_Disconect Switeches Groups...
+
+
+	_así, una vez hemos hecho los ajustes respectivos podremos volver ha hacer 
+
+
+		_Connected Choices Switches Templates...
+	
+	
+
+	
+
+
+
+
+

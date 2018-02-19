@@ -1,0 +1,156 @@
+
+
+
+
+
+	Joysticks 'n Sliders
+
+		https://aescripts.com/joysticks-n-sliders/
+
+
+
+
+	Tutorial:
+
+
+		Rigging Facial Mario en Español / After Effects
+
+			https://www.youtube.com/watch?v=TwjVb7E_XPc
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Rig Eyes:
+	_________
+
+	_tenemos la posibilidad de hacer rig, de ambos eyes, a través, de dos controles de tipo yostick, a través,
+
+	de los cuáles, podremos controlar ó manejar el movimeinto orbital de los ojos así, como también, el 
+
+	movimiento y expresión de los párpados
+
+
+
+
+	
+	Workflow:
+	_________
+
+
+
+	Joystick Orbital:
+	_________________
+
+	_el primer controlador de tipo jostick, lo conformaremos con el movimiento orbital de los ojos a través, de
+
+	las cuatro posiciones de los ojos más la posición base ó estática
+
+
+	_primeramente duplicaremos la layers, que corresponde con las esclerótica de cada ojo y éstas layers, la
+
+	colocaremos sobre las pupulas respectivamente así, como también, es recomendable renombrar ésta layers, como
+
+	"L_matte_sclero", u otra nomenclatura
+
+
+	_para posteriormente hacer seleccionar las layers, de las pupilas y con éstas seleccionadas hacer un 
+
+	"AlphaMatte", desplegando éstas opciones, trackMatte, shortcut, "F4"
+
+
+	_para que así, de ésta manera, las pupilas no se desborden del área perimetral de la esclerótica
+
+
+	_de ésta manera, procederemos ha realizar los pasos de animación de los cinco estados ó steps, para la
+
+	generación del sistema de joystick rig
+
+
+
+		_así, en el frame "0", corresponderá a la posición estática ó vista al frente ó la posición "Set Orion"
+
+
+		_para luego en el frame "1", colocar la pupila de los ojos hacia la izquierda del personaje o nuestra
+
+		derecha de cara al viewport
+
+
+		_para luego en el frame "2", colocar la pupila de los ojos hacia la derecha del personaje o nuestra
+
+		izquierda de cara al viewport
+
+
+		_para luego en el frame "3", colocar la pupila de los ojos hacia arriba del personaje 
+
+
+		_para luego en el frame "4", colocar la pupila de los ojos hacia abajo del personaje
+
+
+
+	_para luego proceder ha seleccionar todas la layres, de la esclerótico y las pupilas y con éstas layers, 
+
+	seleccionadas aplicar "Create New Joystick", para la generación del sistema
+
+
+
+
+
+
+	Joystick Parpadeo:
+	__________________
+
+	_una hemos realizado el joystick orbital procederemos ha realizar el joystick, del parpadeo y expresiones
+
+	de los ojos
+
+
+	_así, procederemos ha seleccionar las layers, de los párpados tanto superiores como inferiores y con éstos
+
+	seleccionados crearemos un keyframe, en el frame, "0", tanto en las propiedades de "Position", como de
+
+	"Rotation"
+
+
+
+		_para a continuación aún con éstas layers, seleccionadas hacer "Set Orion"
+
+		
+		_y a continuación en el frame, "1", rotar los párpados hacia adentro para emular un rago de disgusto
+
+		del character
+
+
+		_y a continuación en el frame, "2", rotar los párpados hacia afuera para emular un rago de tristeza
+
+		del character
+
+
+		_y a continuación en el frame, "3", mover ó dejar los párpados en la posición por defecto ó totalmente 
+
+		abiertos para emular un rago de asombro del character
+
+
+		_y a continuación en el frame, "4", mover los párpados hacia adentro para emular un rago de parpadeo,
+
+		sueño ó suspicacia del character
+
+
+	
+	_para luego proceder ha seleccionar todas la layres, de la esclerótico y las pupilas y con éstas layers, 
+
+	seleccionadas aplicar "Create New Joystick", para la generación del sistema
+
+
+
+
+
+
+
+
+
+
+
