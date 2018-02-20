@@ -1,0 +1,285 @@
+
+
+
+
+
+	AutoSway
+
+		https://aescripts.com/autosway/
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	AutoSway:
+	_________
+
+	_éste plugins, nos pemritirá emular el efecto de las fuerzas centrífugas y centrípetas y a su vez, de las
+
+	físicas de materiales en elementos estáticos influenciados por el viento y no por el movimiento
+
+
+	_por el contrario de los plugins, de "Overlap", y "Rubberize It", que si trabajan directamente con las
+
+	propiedades de position, scale, rotation
+
+
+	_éste plugin, funciona en layers, con máscaras aplicadas como también en layers, de tipo shape, ó 
+
+	vectores ó imágenes importados
+
+
+	_de ésta manera, éste plugins, nos pemritirá crear efectos de cabelo en movimiento constante, 
+
+	articulaciones en movimiento pasivo, budandas, cortinas, telas, tentáculos, entre otras posibilidades 
+
+	para creación de elementos y partes de characters
+
+
+
+
+
+	Workflow:
+	_________
+
+	_primeramente debemos determinar la layer, a la cuál, deseamos aplicar el plugins, sea ésta una layer,
+
+	con una máscara aplicada, una forma personalizada de tipo shape, ó vector importado ó imágen
+
+
+	_para a continuación proceder ha aplicarle puntos de control a través, de la herramienta de puppet tools
+
+
+	_de ésta manera, una vez hemos aplicados los puppet pins, sobre la layer, respectiva podremos proceder
+
+	ha seleccionar la respectiva layer, e ir a las opciones del plugins "AutoSways/PuppetPinTool Mode", y 
+
+	darle a la opción de "Apply"
+
+
+	_para que así, a partir de éste punto el sistema generará un layer, de tipo null, por cada puppet pin,
+
+	que hayamos creado sobre la layer, respectiva ó layer, base sobre la cuál, hemos aplicado el sistema
+
+
+	_dichas layers, guide, harán de handles, a través, de los cuáles, el sistema controlará la distorsión de
+
+	la layer, base
+
+
+	_más en la primera layers, ó la layer, superior del timeline, ésta layer, contendrá ha modo de efectos
+
+	los controladores del sistema a través, del panel effects controls
+
+
+
+
+
+
+	Controls:
+	_________
+
+
+
+
+		_Sway Distance:
+
+			_ésta opción nos permitirá indicarle al sistema la distancia de oscilación a mover por
+
+			el viento 
+
+
+			_de ésta manera, con valores cercanos ha "0", el movimiento generado por el sistema
+
+			será casi inapreciable más con valores cercanos ha "100", el movimiento será ámplio y
+
+			dinámico
+
+
+		_Sway Roundness:
+
+			_ésta opción nos permitirá indicarle al sistema lo elástico y flexible del movimiento
+
+			generado 
+
+
+			_así, con valores cercanos ha "0", el movimiento será menor y más rígido, más con valores 
+
+			cercanos ha "100", el movimiento será más suavizado ó flexible ó elástico y ámplio a su vez,
+
+			ó emulará un movimiento mucho más ámplio
+
+
+		_Sway Speed:
+
+			_ésta opción nos permitirá indicarle al sistema la velocidad ó intervalo del moviemiento
+
+			generado
+
+
+			_así, con valores cercanos ha "0", el movimiento del sistema será casi imperceptible más
+
+			con valores cercanos ha "100", el movimiento será rápido y durará intervalores de menor
+
+			duración y por ende éstos intervalos se repetirán más número de veces		
+
+
+		_Sway Decay:
+
+			_ésta opción nos permitirá indicarle al sistema una atenuación adicional del sistema,
+
+			como un todo
+
+
+			_de ésta manera, podremos mermar el movimiento generado por el efecto hasta llegar hasta
+
+			desaparecerlo
+
+
+			_de ésta manera, podremos tener un control alternativo del sistema generado
+
+
+		_Offset:
+
+			_ésta opción nos permitirá indicarle al sistema un desface de animación inicial lo que 
+
+			nos permitirá personalizar el punto inicial a partir del cuál, se comenzará ha generar 
+
+			la simulación del sistema a través, del tiempo
+
+
+		_Lag Factor:
+
+			_ésta opción nos permitirá indicarle al sistema las características del material ha
+
+			emular
+
+
+			_así, el material podrá ser más rígido ó más elástico entre otras posibidades
+
+
+			_de ésta manera, con valores cercanos ha "0", el material será totalmente rígido como
+
+			el metal
+
+
+			_más con valores medio de entre "500", el material será ligero como la seda y altamente
+
+			influenciable por el viento
+
+
+			_y con valores cernos ha "1000", el material parecerá caucho ó goma y se moverá en ciclo
+
+			vertiginosamente varias veces por segundo
+
+
+	
+		_Adjustment:
+
+		
+			_Curves Into Straight Line:
+
+				_ésta opción nos permitirá indicarle al sistema que mantenga ó force la dirección 
+
+				del material ó layer, hacia abajo por efecto de gravedad aplicada
+	
+		
+			_Curve Adjustment:
+
+				_ésta opción nos permitirá indicarle al sistema la curvatura aplicada a la layer,
+
+				para emular la influencia base del viento sobre el sistema y layer
+
+
+			_Rotation(All):
+
+				_ésta opción nos permitirá indicarle al sistema la rotacaión principal del sistema
+
+				y de la layer, base a partir del primer "pin", ó layer, generada por el sistema 
+
+				como layer, handle
+
+
+				_de éste manera, podremos personalizar la rotación del sistema en general
+
+
+			_Scale X:
+
+				_(Indeterminado)
+
+
+			_Scale Y:
+
+				_(Indeterminado)
+
+
+
+
+		_Wind Settings:
+
+
+			_Wind Strength:
+
+				_ésta opción nos permitirá indicarle al sistema la fuerza que tendrá el viento
+
+				sea ésta fuerza positiva ó negativa
+
+
+				_lo cuál, determinará la forma como se moverá todo el sistema generado
+
+
+			_Wind Inverval:
+
+				_ésta opción nos permitirá indicarle al sistema el intervalo ó punto inicial
+
+				de la simulación del sistema sobre la layer, base como deformación global
+
+
+			_Wind Loop Period (Second):
+
+				_ésta opción nos permitirá indicarle al sistema el ciclo del movimiento generado
+
+				a través, del tiempo así, éste intervalo de acción del tiempo podrá ser más ó 
+
+				menos rápido
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

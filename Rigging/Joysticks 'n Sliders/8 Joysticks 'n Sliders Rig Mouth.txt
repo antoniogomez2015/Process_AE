@@ -1,0 +1,162 @@
+
+
+
+
+
+	Joysticks 'n Sliders
+
+		https://aescripts.com/joysticks-n-sliders/
+
+
+
+
+	Tutorial:
+
+
+		Rigging Facial Mario en Español / After Effects
+
+			https://www.youtube.com/watch?v=TwjVb7E_XPc
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	
+	Create Mount:
+	_____________
+
+	_primeramente debemos de crear una layer, de tipo solid, con una máscara con la forma de la boca y a través,
+
+	de una layer, tipo shape
+
+
+	_ésta forma de boca lo más recomendables es que esté formada por "8", vertex, donde dos de éstos se 
+
+	encuentren a los extremos, uno a cada lado de la boca 
+
+
+	_seguido de un vertex, en la parte intermedia de la boca en el labio superior y otro en la parte media 
+
+	exactamente 
+
+
+	_lo mismo debemos de repetirlo en el labio inferior de la boca
+
+
+
+
+	Set Orion:
+	__________
+
+	_una vez ya hemos creado la forma de la boca en la layer, base es hora de crear la pose base de la boca la
+
+	cuál, será la boca cerrada, para lo cuál, juntaremos todos los vertex, en la parte de la línea media de la
+
+	boca
+
+
+	_para a continuación ir a las opciones del plugins, hasta las opciones de "Joystick/Setup/Orion", con la 
+
+	respectiva layer, seleccionada
+
+	
+	_para que así, el sistema guade la posición de los vertex, de la layer, como pose base del sistema a la cuál,
+
+	podremos acceder posteriormente
+
+
+
+
+
+	Blocking:
+	_________
+
+	_de ésta manera, podremos proceder ha realizar las poses de los diferentes estados de la boca como por ejemplo,
+
+	la boca abierta, cerrada, sonrisa de un lado, sonrosa del otro lado, la boca arqueada hacia abajo como triste,
+
+	ó la boca arqueada hacia arriba como alegre, otros
+
+
+	_dichas poses las debemos generar en fotogramas ó keyframes, seguidos unos de otros para generar así, los 
+
+	estados de animación
+
+
+
+	
+	Joystick:
+	_________
+
+	_para a continuación decidir si realizar uno ó más joystick, en los casos en los que las poses de animación
+
+	sean más de 4, ó 5
+
+
+	_de ésta manera, pdoremos almacenar todas las poses en diferentes joystick, controladores de todas las 
+
+	expresiones de la boca respectivamente
+
+
+
+
+	Sliders:
+	________
+
+	_más también, tendremos la posibildiad de generar todo el sistema de poses a través, de los sliders, los cuáles,
+
+	se crearán ha modo de efecto a través, del panel effects controls
+
+
+	_la ventaja de los sliders, es que éstos pueden contener una indefinida cantidad de controladores a la vez 
+
+
+	_y a su vez, éstos pueden tener una representación visual directamente en el viewport, del panel compositing, al 
+
+	igual que la opción de joystick, si así, lo deseamos
+
+
+
+
+
+
+
+	NOTA: cuando se trabaja con layers, de tipo "shape", ó "másks", será necesario una vez hemos generado el sistema
+
+	sea a través, de las opciones de Joystick, ó Sliders
+
+
+
+	_la aplicación de la opción de: 
+
+
+
+		_"Updates all riged pathShapes Properties"
+
+
+
+	_para que así, el sistema realize un volcado de animación de todos los keyframes, posibles en relación a la 
+
+	duración del timeline
+
+
+	_de ésta manera, el sistema de deformación sobre el path, de la boca, u otros, ya se reproducirá normalmente
+
+	sin la necesidad de un refresco manual de nuestra parte
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

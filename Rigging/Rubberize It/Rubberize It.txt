@@ -1,0 +1,188 @@
+
+
+
+
+
+	Rubberize It
+
+		https://aescripts.com/rubberize-it/
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Rubberize It:
+	_____________
+
+	_éste plugins, nos permitirá generar simulaciones colaterales de elementos de blandos a partir de la 
+
+	herramienta puppet tool, y de animaciones existentes de tipo; position, scale, rotation
+
+
+	_de ésta manera, podremos emular los efecto de las fuerzas centrífugas y centrípetas en elementos pseudo
+
+	blandos, abstractos ó en partes characters orgánicos, otros
+
+
+	_ésta herramienta también, es similar al plugins, Overlap, hasta cierto punto
+
+
+
+
+
+	Workflow:
+	_________
+
+	
+	_primeramente debemos de cargar la layers, a la cuál, deseamos aplicarle el sistema a la composición 
+
+	respectiva
+
+
+	NOTA: el sistema sólo se podrá generar a partir de una sóla layer, de ésta manera, si es un character,
+
+	éste deberá estar conformado sólo por una layer
+
+
+	_para a continuación proceder ha aplicarle ha ésta layer, puntos de control a través, de la herramienta
+
+	puppet tool, shortcut, "Control + p"
+
+
+	_de ésta manera, procederemos ha aplicar puppet pins, en las áreas de interés ó en las articulaciones
+
+	del character, u objeto
+
+
+	_para luego proceder ha realizar la animación de la layers, respectiva, entendiéndo así, que para generar
+
+	el sistema debemos de haber creado previamente al menos dos keyframes, a través, del tiempo de una propiedad 
+
+	como:
+
+
+
+		_Position
+
+		_Scale
+
+		_Rotation
+
+
+
+
+
+
+
+
+
+	Plugin:
+	_______
+
+
+		Material:
+		_________
+
+		_ésta opción nos pemritirá seleccionar entre una serie de presets, que nos pemritirá emular 
+
+		diferentes tipos de materiales como gomas, plástico, vinil, esponja, otros, de forma 
+
+		preconstruidos dentro del sistema
+
+
+
+		Freq:
+		_____
+
+		_ésta opción nos permitirá indicarle al sistema el umbral de rebote y oscilación por segundo
+
+
+
+		Decay:
+		______
+
+		_ésta opción nos permitirá indicarle al sistema cuán rápido la oscilación decae y muere a 
+
+		través, del tiempo
+
+
+
+		Amp:
+		____
+
+		_ésta opción nos permitirá indicarle al sistema el umbral ó grado de amplitud del motimiento
+
+		general generado por el sistema
+
+
+
+		Chaos:
+		______
+
+		_ésta opción nos permitirá indicarle al sistema si deseamos activar ó no, la turbulencia del
+
+		movimiento aleatorio sobre el sistema
+
+
+		_lo cuál, puede ser útil para la generación de materiales personalizados los cuáles, requieren
+
+		ser más gelatinosos, otros
+
+
+
+		Fórmula:
+		________
+
+		_la fórmula "A", hará que todos los puppet pins, creados oscilen el movimiento al rededor del
+
+		epicentro de la forma ó ancha de la layer, respectiva
+
+
+		_la fórmula "B", hará que todos los puupet pins, creados oscinalen independientemente sin tomar
+
+		en cuenta el ancha de la layer, respectiva
+
+
+
+		Rubberize!:
+		___________
+
+		_ésta opción nos permitirá generar el sistema con todos los puppet pins, seleccionados previamente
+
+		de la layers, respectiva
+
+
+
+		Bake:
+		_____
+
+		_ésta opción nos pemritirá indicarle al sistema que realize un volcado de las expresiones generadas
+
+		por el sistema ha keyframes, en el timeline, a través, del tiempo
+
+
+
+
+		Clean:
+		______
+
+		_ésta opción nos pemritirá indicarle al sistema que elimine todos los script, de los puppet pins, 
+
+		seleccionados
+		
+
+
+
+
+
+
+
+
+
+	

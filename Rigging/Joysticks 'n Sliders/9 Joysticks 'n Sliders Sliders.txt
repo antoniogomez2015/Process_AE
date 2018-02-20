@@ -1,0 +1,93 @@
+
+
+
+
+
+	Joysticks 'n Sliders
+
+		https://aescripts.com/joysticks-n-sliders/
+
+
+
+
+	Tutorial:
+
+
+		Rigging Facial Mario en Español / After Effects
+
+			https://www.youtube.com/watch?v=TwjVb7E_XPc
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	
+	Sliders:
+	________
+
+	_la opción de generación de sliders, funciona exactamente igual que la opción de joystick, con la 
+
+	diferencia de que los sliders, se generarán como un efecto en el panel effects controls, como también, que
+
+	los sliders, no tiene límites de controladores ha generar
+
+
+
+
+	Workflow:
+	_________
+
+	_de ésta manera, debemos de crear estados de animación desde el frame, "0", en adelante de frame to frame,
+
+	generando así, un blocking, de aninación
+
+
+	_la cantidad de keyframes, que generemos corresponderá en relación a nuestras necesidades y no a las del
+
+	sistema como si es el caso de la modalidad de joystick
+
+
+	_de ésta manera, una vez hemos creado todos los estados de animación en las layers, respectivas, debemos de
+
+	seleccionar éstas layers, y con éstas seleccionadas debemos de hacer:
+
+
+
+		_Sliders Tool/Create New Sliders Null..
+
+
+
+	_para que así, el sistem genere una nueva layer, de tipo null, en la cuál, se encontrarán todos los controlares
+
+	ha modo de efectos a través, del panel effects controls
+
+
+	_más si deseamos renderizar éstos controladores para disponder de éstos directamente en el viewport, del panel
+
+	compositing, debeos de hacer:
+
+
+
+		_UI Slider/Create Sliders
+
+
+
+	_de ésta manera, ahora podremos controlar los sliders, del sistema de forma gráfica en el viewport, del panel
+
+	compositing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
