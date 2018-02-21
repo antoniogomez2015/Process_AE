@@ -1,0 +1,101 @@
+
+
+
+
+
+
+	BAO Bones
+
+		https://aescripts.com/bao-bones/
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Workflow:
+	_________
+
+
+
+
+	Creación de un Sistema Base:
+	____________________________
+
+
+	_primeramente debemos de tener una composición de trabajo así, como también, debemos de tener cargada en 
+
+	la composición respectiva la layer, a la cuál, deseamos aplicarle el sistema
+
+
+	_para a continuación proceder ha aplicar el efecto de "Effects/BAO/Bones", para que así, el sistema se 
+
+	aplicado sobre la layer, base
+
+
+	
+
+	Setting:
+	________
+
+
+	_el crear el sistema sobre la layer, base ésta estará conformado por tres points, ó handles, los cuáles, 
+
+	nos permitirán mover el sistema en ángulo y en posición
+
+
+	_así, como también, éstos handles, nos permitirá la posición exacta en la cuál, serán generados las 
+
+	articulaciones que conformarán el sistema
+
+
+	_otro factor ó característica que debemos configurar inicialmente es la opción de:
+
+
+
+		_Mesh/Radius 
+
+
+	_la cuál, configurará el rango ó umbral de alcance del sistema sobre los pixeles de la layer, base, de 
+
+	ésta manera, podremos ajustar éste umbral hasta que éste se siña lo major posible al ancho de la layer, 
+
+	base
+
+
+
+
+	Generar el Sistema:
+	___________________
+
+	_una vez hemos indicado posición de los puntos de articulación y a su vez, hemos indicado el umbral del
+
+	alcance del sistema en los pasos anteriores
+
+
+	_entonces podremos generar el sistema para lo cuál, debemos de ir a las opciones de:
+
+
+
+		_Quick Bone Set/
+
+
+
+	_en la cuál, debemos de seleccionar la opción inicial de "Set!"
+
+
+	_para que así, el sistema nativo sea generado el cuál, a su vez, estará conformado por dos handles, por 
+
+	medio de los cuáles, podremos articular la extremidad a través, de kinemática inversa
+
+
+
+
+
+
+
+		
