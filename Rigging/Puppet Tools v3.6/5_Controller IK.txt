@@ -1,0 +1,76 @@
+
+
+
+
+
+	Puppet Tools
+
+		https://aescripts.com/puppettools/
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Controller IK:
+	______________
+
+
+	_una vez hemos creado el sistema FK, correctamente con la opción activada de "Master Parent Null" 
+
+
+	_y de posteriormente de haber creado el sistema de IK, correctamente con tres nulls, ó handles, 
+
+	seleccionados en orden descendente en relación a la lógica y sentido de la articulación respectiva
+
+
+	_entonces a partir de éste punto dispondremos de una layer, extra la cuál, tendrá como nombre de:
+
+
+		_"nameCONTROLLER"
+
+
+	_la cuál, tendrá un sufijo seguido del nombre que le hayamos indicado a la layer, base, ej:
+
+
+		_"L_LegCONTROLLER"
+
+
+	_ésta layer, nos permitirá mover toda la articulación así, como también, emparentar ésta con otras
+
+	layers, ó rigs
+
+
+	_así, como también, el sistema le habrá agregado ha ésta layer, un efecto a través, del panel effects
+
+	controls, con el nombre de "FLIP IK"
+
+
+	_a través, del cuál, podremos controlar el sentido de la articulación ó IK, generado por el sistema
+
+
+	de ésta manera, podremos controlar el sentido del IK, ó articulación así, como también, hacer cambios
+
+	y ajustes de animación al cambiar el sentido u orientación de la brazo ó articulación en general
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

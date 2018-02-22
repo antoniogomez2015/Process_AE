@@ -1,0 +1,282 @@
+
+
+
+
+
+	Puppet Tools
+
+		https://aescripts.com/puppettools/
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Puppet Tools:
+	_____________
+
+	_éste plugins, nos permitirá crear rigs, de characters, ó parte de characters, a través, de la herramiento
+
+	puppet pins, nativa de la aplicación
+
+
+	_ésta herramienta nos permitirá crear rigs, a través, de articulaciones en una sóla layer, de ésta manera,
+
+	una extremidad conformada por brazo, antebrazo y hasta mano, pueden estar conformada en una misma layer,
+
+	ó composición respectiva
+
+
+	_de ésta manera, a través, de layers, auxiliares de tipo null, éste plugin, nos generará un sistema de
+
+	rigging, automática y totalmente animable
+
+
+
+
+
+	Properties:
+	___________
+
+
+	_Parent Chain Nulls:
+
+
+		_Top Down:
+
+			_ésta poción nos permitirá indicarle al sistema el criterio ó algoritmo de emparentamiento
+
+			de los handles, ó puntos de control de rig, generados por el sistema
+
+
+			_en ésta caso, será a partir del primer "Puppet Pin", que hayamos creado sobre la layer,
+
+			base, el cuál, emparentará al siguiente puppet pin, generado y así, suscesivamente
+
+
+			_de ésta manera, los sigueinte puppet pins, y posteriormente handles, serán hijos del
+
+			puppet pin, que creamos primero y así, suscesivamente con los demás handles, ha modo de
+
+			cascada uno emparentados con los otros
+
+
+		_Bottom Up:
+
+			_ésta opción es similar a la opción anterior, más ésta opción lo hará a la inveras, es
+
+			decir, que el último punto de control ó handle, creado albergará ó será padre del anterior
+
+			punto de control ó handle, que hayamos creado
+
+
+		_Alphabetical:
+
+			_ésta opción relacionará los puntos de control ó handles, a través, de su nomenclatua ó 
+
+			nombre en relación a su orden alfabético
+
+
+			_de ésta manera, se irán emparentando unos elementos con otros en relación a la gerarquía
+
+			cronológica del alfabeto
+
+
+
+	_Null Size:
+
+		_ésta opción nos permitirá indicarle al sistema el tamaño estandar que tendrán los handles, creados
+
+		por el sistema
+
+
+		_de ésta manera, podremos controladores ó handles, más grandes ó más pequeños en relación al tamaño
+
+		del character, y su complejidad
+
+
+	_Name:
+
+		_ésta opción nos permitirá crear controladores y handles, de articulaciones con nombres 
+
+		personalizados para lo cuál, debemos de seguir la siguiente nomenclatura:
+
+
+			_(name,pin)
+
+			_(L_ArmHandle,pin)
+
+
+		_éste punto es indispensable ya que si creamos más una articulación con el mismo nombre del por
+
+		defecto u otro
+
+
+		_el sistema se generará ha modo de duplicado tomando la misma posición y características del
+
+		primer sistema generado, creando así, errores
+
+
+	_Master Parent Null:
+
+
+		NOTA: ésta opción es obligatoria si deseamos tener en el sistema generado un controlador para poder 
+
+		invertir el sentido de la articulación a través, de un "check"
+
+
+		
+		_First Pin:
+
+			_ésta opción nos permitirá indicarle al sistema en que punto de control ó handle, deseamos
+
+			crear el controlador master
+
+
+			_en éste casó, el controlador se agregarán en la posición del primer punto de control ó
+
+			handle, creado
+
+
+		_Last Pin:
+
+			_ésta opción nos permitirá indicarle al sistema en que punto de control ó handle, deseamos
+
+			crear el controlador master
+
+
+			_en éste casó, el controlador se agregarán en la posición del último punto de control ó
+
+			handle, creado
+
+
+		_Layer Center:
+
+			_ésta opción nos permitirá indicarle al sistema en que punto de control ó handle, deseamos
+
+			crear el controlador master
+
+
+			_en éste casó, el controlador se agregarán en la posición del punto de control ó
+
+			handle, central creado
+
+
+	_Pins To Solids:
+
+		_ésta opción nos permitirá indicarle al sistema que a través, de los puntos de control creados a
+
+		través, de los puppet pins, creados
+
+
+		_en vez de generar layers, de tipo null, genere layers, de tipo "Solids", para la creación de los
+
+		handles, para controlar el sistema generado
+
+
+	_Lock and Shy Artwork:
+
+		_ésta opción nos permitirá indicarle al sistema que al generar el sistema de puntos de controls,
+
+		y handles, bloquee la layer, con el switch, de "Lock", ó el candado y a su vez, se active el tímido
+
+		"Shy", de forma automática a la layer, base a la cuál, se le ha aplicado el sistema
+
+
+		_para que así, podamos automatizar tareas a la hora de organizar el proyecto ó composición 
+
+		respectiva posteriormente
+
+
+
+
+	Pins To Nulls:
+
+		_una vez hemos creado ó aplicado los respectivos puppets pins, sobre la layer, base debemos de
+
+		desplegar las efectos de ésta layer, shortcut, "E"
+
+
+		_para que así, podamos seleccionar el efecto "Puppet", y una vez con éste seleccionado podremos 
+
+		ir a las opciones de "Pins To Nulls" 
+
+
+		_para que así, los handles, sean creados a partir de las posiciones de los puntos de control 
+
+		creados a paritr de los puupet pins, creados previamente
+
+
+		_de ésta manera, a prtir de éste punto habremos creado un sistema de rig, de kinemática directa
+
+		ó "forward kinematic", el cuál, ya podremos animar
+
+
+
+	_Create IK:
+
+		_más si deseamos crear un sistema de kinemática inversa ó "IK", debemos de primeramente haber
+
+		creado un sistema de forward kinematic, en la paso anterior
+
+
+		_para que así, podamos proceder ha seleccionar los handles, ó nulls, creado por el sistema en el
+
+		paso anterior
+
+
+		_de ésta manera, debemos seleccionar éstos en el orden de su gerarquía de emparentamiento en el 
+
+		cuál, fueron creados
+
+
+	_Layer To Loop:
+
+
+		_Loop:
+
+			_ésta opción nos permitirá indicarle al sistema el intervalo ó cantidad de loops, que 
+
+			deseamos sean repetidas las animaciones existentes en el character ó articulación respectiva
+
+
+	_Layer to Loop:
+
+		_ésta opción nos permitirá indicarle al sistema que deseamos que éste aplique un script, para que
+
+		así, todas las animaciónes existentes en el character, ó articulación se repitan la cantidad de
+
+		intervalos indicados en el paso anterior
+
+
+	_?:
+
+		_ésta opción nos permitirá indicarle al sistema que éste nos muestre un caja de diálogo con las
+
+		instrucciones del efecto ó plugin
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

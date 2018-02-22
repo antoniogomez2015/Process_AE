@@ -1,0 +1,101 @@
+
+
+
+
+
+	Puppet Tools
+
+		https://aescripts.com/puppettools/
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Puppet Pins:
+	____________
+
+
+
+
+	Preparación:
+	____________
+
+	_primeramente debemos de tener le character, separado por layers, las cuáles, conformen articulaciones
+
+	enteras ó extremidades como brazos, piernas, colas, otros
+
+
+	_ya que los demás elementos más simples como cabeza, cuello, orejas, otros, simplemente se emparentarán
+
+	a su elemento ó layer, padre en relación la lógica y cinemática del character, respectivo
+		
+
+
+	Pins:
+	_____
+
+	_para posteriormente proceder ha seleccionar la layer, base a la cuál, deseamos aplicar el sistema de rig
+
+
+	_y con ésta layer, seleccionada debemos de activar la herramienta de Puppet Pin, shortcut, "Control + P"
+
+
+	_para posteriormente proceder ha aplicar "puppet pins", en los puntos de articulaciones los cuáles, por 
+
+	lo general son por ejemplo para un brazo, "Root/ElBow/ForeArm", en éste ejemplo, la mano ó hand, debería
+
+	ser una layer, a parte la cuál, se emparentaría al brazo posteriormente
+
+
+	_los puppet pins, debemos de crearlo en relación a la gerarquía deseada ó en forma de cascada, ya que de 
+
+	crearlos de forma aleatoria el sistema daría error
+
+
+
+
+
+
+	NOTA: en un mismo sistema de rig, como por ejemplo el de un brazo entero podremos crear un gerarquía 
+
+	completa la cuál, exceda los tres puntos de controls, ó handles, normales de un sistema de IK
+
+
+	_de ésta manera, podremos crear pins, para el "Root/Arm/ForeArm/Hand/Fingers", y posteriormente crear el 
+
+	proceso de forward kinematic, generando así, los handles, controls
+
+	
+	_y para posteriormente sólo seleccionar tres handles, en orden descendente para la generación del proceso
+
+	de inverse kinematic, ó IK
+
+
+	_para que así, los handles, adicionales no utilizados en el proceso de IK, queden emparentados al sistema
+
+	siguiendo ha éste copiando la rotación y demás movimientos del sistema en general 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

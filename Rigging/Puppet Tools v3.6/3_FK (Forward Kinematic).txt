@@ -1,0 +1,58 @@
+
+
+
+
+
+	Puppet Tools
+
+		https://aescripts.com/puppettools/
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Forward Kinematic:
+	__________________
+
+
+	_una vez hemos creado ó aplicado los respectivos puppets pins, sobre la layer, base debemos de desplegar 
+
+	las efectos de ésta layer, shortcut, "E"
+
+
+	_para que así, podamos seleccionar el efecto "Puppet", y una vez con éste seleccionado podremos ir a las 
+
+	opciones de "Pins To Nulls" 
+
+
+	_para que así, los handles, sean creados a partir de las posiciones de los puntos de control creados 
+
+	a paritr de los puupet pins, creados previamente
+
+
+	_de ésta manera, a prtir de éste punto habremos creado un sistema de rig, de kinemática directa ó 
+
+	"forward kinematic", el cuál, ya podremos animar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

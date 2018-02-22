@@ -1,0 +1,53 @@
+
+
+
+
+
+	Puppet Tools
+
+		https://aescripts.com/puppettools/
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Inverse Kinematic:
+	__________________
+
+
+	_más si deseamos crear un sistema de kinemática inversa ó "IK", debemos de primeramente haber creado un 
+
+	sistema de forward kinematic, en la paso anterior
+
+
+	_para que así, podamos proceder ha seleccionar los handles, ó nulls, creado por el sistema en el paso 
+
+	anterior
+
+
+	_de ésta manera, debemos seleccionar éstos en el orden de su gerarquía de emparentamiento en el cuál, 
+
+	fueron creados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
