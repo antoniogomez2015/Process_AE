@@ -1,0 +1,107 @@
+
+
+
+
+	bq_HeadRig
+
+		https://aescripts.com/head-rig/
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	bq_HeadRig:
+	___________
+
+
+	1.HEAD NULL:
+	____________
+
+
+
+	Crear NUll:
+	___________
+	
+	_ahora, en éste punto ya con la composición de trabajo creada así, como con las layers, que conforman el 
+
+	character, dentro de ésta composición y así, como también, después de haber creado las tres "Marks",
+
+	respectivamente en los frames "0f-10f-20f"
+
+
+	_sólo en entonces iremos al panel "bq_HeadRig", hasta el paso "1.HEAD NULL/", y sin ninguna layer, 
+
+	seleccionada le daremos al botón "Create Head Null" 
+
+
+	_para que así, el sistema agrege una nueva layer, de tipo "Null Object", con el nombre de "HEAD NULL",
+
+	ésta nueva layer, de tipo null, contiene agregado como efectos los siguientes sliders:
+
+
+
+		_LEFT/RIGHT Head Control
+
+			_
+
+
+		_UO/DOWN Head Control:
+
+			_
+
+
+	_y ésta nueva layer, "HEAD NULL", la podemos reubicar por ejemplo a la altura del mentón del character
+
+
+
+
+	Parent Null:
+	____________
+
+	_leugo, procederemos ha seleccionar todas las layers, que conforman el rostro excepto la layer, del contorno 
+
+	del rostro ó layer, base y con todas las demás layers, seleccionadas vamos nuevamente al panel "bq_HeadRig/",
+
+	"1:HEAD NULL" 
+
+
+	_y le damos ha "Parent to Head Null", para que así, todas las layers, que conforman el face, del character, 
+
+	ahora queden relacionadas con el null, "HEAD NULL", que se ha creado ó ha agregado a la escena el sistema
+
+
+
+	NOTA: éste paso también, lo podremos hacer de forma manual seleccionando las layers, respectivas y 
+
+	emparentándolas directamente a la layer, "HEAD NULL"
+
+
+
+
+	Acción Selecter:
+	________________
+
+	_de ésta manera al mover el "null object", también, se moverá todo el character
+
+
+	_más ahora dispondremos de un acceso directo para ésta layer, "HEAD NULL", para lo cuál, debemos de ir a
+
+	las opciones de "bq_HeadRig/1.HeadRig/", y darle a la opción de: "Select Head Null" 
+
+
+	_ya que al seleccionar ésta layers, se seleccionarán todas las layers, del sistema de forma automática
+
+
+
+
+
+
+
+
+
+
+

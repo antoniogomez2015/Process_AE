@@ -1,0 +1,56 @@
+
+
+
+
+
+	Talking Head
+
+		https://aescripts.com/talking-head/
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Animation and Workflow:
+	_______________________
+
+
+	_en el primer cargar el primer elemento ó layer, ó composición dentro de las opciones del pluging, como
+
+	por ejemplo, una ceja
+
+
+	_el sistema automáticamente creada una layer, de tipo "Null", en la cuál, irá volcando los slider, de
+
+	control del sistema de cada parte del rostro del character
+
+
+	_a través, de los cuáles, podremos acceder y controlar el sistema en general
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

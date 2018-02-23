@@ -1,0 +1,104 @@
+
+
+
+
+	bq_HeadRig
+
+		https://aescripts.com/head-rig/
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Adjustment:
+	___________
+
+
+	_una vez hemos generado todo el sistema de "bq_HeadRog", podremos acceder nuevamente a partes de éste 
+
+	proceso para hacer ajustes, modificaciones y cambios en el resultado final
+
+
+	_de ésta manera, podremos realizar cambios de última hora así, como también, cambios realizados por el
+
+	cliente, otros
+
+
+
+
+	UNRIG Master:
+	_____________
+
+
+	_la opción "bq_HeadRig/4 HEAD CONTROLLER/UNRIG" ,nos permitirá deshacer la configuración del control 
+
+	maestro del sistema ó de la layer, generada "HEAD CONTROL"
+
+
+	_de ésta manera, a través, de éste punto podremos volver ha hacer los pasos de: 
+
+	"bq_HeadRig/4 HEAD CONTROLLER", pudiendo así, volver ha repetir los pasos de "MID/RIG/UP", para que así,
+
+	podamos volver ha reposicionar ésta layer, en relación a las layers, del face, del character
+
+
+
+
+	RIG/UNRIG Layers:
+	_________________
+
+	_más también, tendremos la posibilidad de hacer ajustes en las configuraciones de las layers, y de sus 
+
+	animaciones en los procesos de creación de "LEFT/RIGHT", y "UP/DOWN"
+
+
+	_para lo cuál, dispondremos de un botón en cada una de éstas secciones el cuál, es: "RIG/UNRIG", para 
+
+	que así, podamos hacer ajustes en las posiciones de las layers 
+
+
+	_como de también, de agregar ó eliminar más ó menos propiedades de animación, hacer ajutes de color, 
+
+	otros
+
+
+	NOTA: éstas opciones desactivan el controlador del sistema master temporalmente
+
+
+
+
+	Toggle Animations:
+	__________________
+
+	_más también, tendremos la posibilidad de activar ó desactivar las animaciones realizadas en los procesos 
+
+	de "LEFT/RIGHT", y "UP/DOWN"
+
+
+	_para los cuál, en dichas secciones respectivamente dispondrán de un botón en forma de rombo ó keyframe,
+
+	a través, del cuál, podremos activar ó desactivar las animaciones ó acciones de esa sección respectivamente
+
+
+	_de ésta manera, podremos privar la sistema generado de una de sus acciones ó moviemiento así, las layers,
+
+	móviles del head, del character, podran moverse sólo hacia los costados ó sólo hacia arriba y abajo 
+
+	temporalmente
+ 
+
+	
+
+
+
+
+	
+
+
+
+
+

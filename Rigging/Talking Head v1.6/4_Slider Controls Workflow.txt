@@ -1,0 +1,244 @@
+
+
+
+
+
+	Talking Head
+
+		https://aescripts.com/talking-head/
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Slider Controls Workflow:
+	_________________________
+
+
+	_una vez hemos creado el sistema correctamente respectando la lógica y el arquetipo de un rostro impuesto
+
+	por el sistema a través, de layers, ó composiciones anidadas
+
+
+	_podremos entonces proceder ha controlar y animar el rostro del character, para lo cuál, debemos de 
+
+	primeramente seleccionar la layer, generada por el sistema con el nombre de: 
+
+
+
+		_"Talking Head Controls"
+
+
+	_para que así, podamos acceder a las opciones de los sliders, a través, del panel effects controls,
+
+	de ésta manera, podremos hacer ajustes sobre las partes del rostro así, como también, setear los 
+
+	elementos ha animar a través, del tiempo por medio del timeline, y de layers, de audio
+
+
+
+
+
+	Sliders:
+	________
+
+
+	_Audio Amplitude:
+
+		_(Parámetro controlado por el sistema)
+
+
+	_Mouth Open Threshold:
+
+		_ésta opción nos permitirá indicarle al sistema el umbral de la periosisdad para la apertura de la
+
+		boca en relación a los picos de audio detectados por el sistema
+
+	
+	_Link Mouth Shape to Volume:
+
+		_ésta opción nos permitirá indicarle al sistema la activación del sistema del habla del character,
+
+		en relación al volúmen ó intensidad del audio detectado por el sistema
+
+
+	_Mouth Open Count:
+
+		_(Parámetro controlado por el sistema)
+
+
+	_Mouth Scale Factor:
+
+		_ésta opción nos permitirá indicarle al sistema la escala ó amplitud de la boca en el proceso del
+
+		habla generado por el sistema
+
+
+	_Mouth Shape Open:
+
+		_(Parámetro controlado por el sistema)
+
+
+	_Mouth Shape Closed:
+
+		_(Parámetro controlado por el sistema)
+
+
+	_Jaw Scale Factor:
+
+		_ésta opción nos permitirá indicarle al sistema la escala ó movimiento realizado por el mentón
+		
+		ó quizajda ó mandíbula en el proceso de emulación del habla a través, de los picos de audio 
+
+		detectados por el sistema
+
+
+	_Look Direction:
+
+		_ésta opción nos permitirá indicarle al sistema la ubicación ó mirada del character, 
+
+		específicamente de la posición de ambas pupilas del rostro
+
+
+		_de ésta manera, si movemos el controlador hacia la derecha ó izquierda, en la misma manera y
+
+		proporción moveremos las pupilas de los ojos en ésta misma dirección respectivamente
+
+
+		_más si movemos el controlador hacia arriba ó hacia abajo, también, moveremos las pupilas hacia
+
+		arriba ó hacia abajo respectivamente
+
+
+	_Look Skew:
+
+		_ésta opción nos permitirá indicarle al sistema el movimiento de los ojos en su conjunto
+
+
+		_así, si a través, de una handle, directamente en el viewport, dentro de la layer, de tipo
+
+		null object
+
+
+		_o directamente en el panel effects controls, "Talking Head Controls/Look Skew"
+
+
+		_de ésta manera, moviendo éste control hacia la derecha podremos juntar los ojos hacia el centro 
+
+		del character, emulando que el character, es bisco
+
+
+		_más si movemos el control hacia la izquierda podremos separa los ojos hacia los costados del rostro
+
+
+		_más si por contrario movemos el control hacia arriba ó hacia abajo moveremos ambos ojos de forma
+
+		alternacia hacia arriba y hacia abajo
+
+
+	_Blink Interval:
+
+		_ésta opción nos permitirá indicarle al sistema el intervalo de modulación de la boca en relación
+
+		a su vez, a los picos de audio detectados por el sistema
+
+
+	_Blink Speed:
+
+		_ésta opción nos permitirá indicarle al sistema la velocidad de los intervalos de la modulación de
+
+		la boca en relación a su vez, a los picos de audio detectados por el sistema
+
+
+	_Squint:
+
+		_ésta opción nos permitirá indicarle al sistema cuán abiertos ó cuán cerrados estarán los ojos en
+
+		su conjunto
+
+		
+		_así, con valores cercanos ha "0", los ojos estarán abiertos en su posición normal ó por defecto
+
+
+		_más con valores negativos los ojos se abrirán más de lo normal para emular el asombro del personaje
+
+
+		_y con valores positivos los ojos se cerrarán en su conjunto de forma gradual igualmente
+
+
+	_Squint Offset:
+
+		_ésta opción nos permitirá indicarle al sistema el alternado del tamaño de los ojos en su conjunto
+
+
+		_de ésta manera, podremos crear efectos de asombro y choques emocionales del character
+
+
+	_Eyebrows Tilt:
+
+		_ésta opción nos permitirá indicarle al sistema el acentuado de las cejas para que así, podamos
+
+		lograr efectos de rabia ó fuerza como de tristeza, en relación al sentido en el que arquiemos las
+
+		cejas, otros
+
+
+	_Eyebrows Raise:
+
+		_ésta opción nos permitirá indicarle al sistema la altura ó posición de las cejas en su conjunto
+
+		lo que nos permitirá emular efectos de sispicacia ó asombro ó susto
+
+
+		_así, como también, el poder reubicar ó ajustar las sejas cuando se utiliza la opción anterior de 
+
+		"Eyebrow Tilt"
+
+
+	_Eyebrows Offset:
+
+		_ésta opción nos permitirá indicarle al sistema el alternado de la posición de las cejas en su
+
+		conjunto, es decir, que podremos subir de bajar las cejas de forma alternada para emular la
+
+		situaciones de duda del character, en su interacción
+
+
+	_Eyebrows Pinch:
+
+		_ésta opción nos permitirá indicarle al sistema el poder juntar las cejas al centro del face,
+
+		ó por el contrario, el alejamiento de las cejas hacia el perímetro del rostro
+
+
+		_lo cuál, también, nos permitirá el ajuste de las posición de las cejas relación a los demás
+
+		cotroles en movimiento y animación
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

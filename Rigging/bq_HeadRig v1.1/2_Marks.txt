@@ -1,0 +1,63 @@
+
+
+
+
+	bq_HeadRig
+
+		https://aescripts.com/head-rig/
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	bq_HeadRig:
+	___________
+
+
+	Time:
+	_____
+
+
+	_primeramente debemos de reducir la visualización del tiemele, a través, del "Workarea", ha sólo "20",
+
+	frames, para la correcta generación del sistema
+
+
+	_como también, podremos recortar la composición a sólo "20", frames, respectivamente
+
+
+
+
+	Marks:
+	______
+
+	_ahora, debemos crear tres marcas de animación en 3, tres puntos específicos, una al inicio, otra a la 
+
+	mitad y otra final
+
+
+	_para lo cuál, posicionaremos en el cabezal del timeline, por ejemplo en el frame, "0", y sin ninguna
+
+	layer, seleccionada aplicamos el shortcut, "*", para que así, una "Mark", sea generada en éste punto
+
+
+	_éste proceso lo debemos de repetir para los frames, "0f-10f-20f", respectivamente
+
+	
+	_éste paso se refiere sólo hacer ó crear marcas en el nivel principal de la composición no en ninguna 
+
+	layers, específica así, como tampoco se refiere hacer ningún tipo de animación sobre ninguna layer
+
+
+
+
+
+
+
+
+
+

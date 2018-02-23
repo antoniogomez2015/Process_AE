@@ -1,0 +1,70 @@
+
+
+
+
+	bq_HeadRig
+
+		https://aescripts.com/head-rig/
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	bq_HeadRig:
+	___________
+
+
+	bq_HeadRig:
+
+
+	_éste  pluging, nos permite hacer rig, y cinemática de todo el rostro de un character, de una forma fácil 
+
+	y totalmente animable y con la interpolación gráfica mínima
+
+
+	_
+
+
+
+
+	General:
+	________
+
+	_para ésto, debemos de tener una composición de trabajo especialmente dedicada para éste rig, de head,
+
+	el cuál, es recomendado que tenga una duración de "20f", de veinte fotogramas solamente, ó 
+
+	alternativamente podrías seleccionar esa longitud de tiempo a través, del workarea
+
+
+	_así, como también, las layers, iniciales que conforman el rostro ó face, de nuestro character, la cuáles,
+
+	por lo general están conformadas de las siguientes layers:
+
+
+		_rostro
+
+		_cabello 
+
+		_ojo izquierdo
+
+		_ojo derecho 
+
+		_boca
+
+		_y alternativamente orejas
+
+
+
+
+
+
+
+
+
+
+

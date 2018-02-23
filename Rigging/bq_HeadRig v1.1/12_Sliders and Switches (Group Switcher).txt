@@ -1,0 +1,84 @@
+
+
+
+
+	bq_HeadRig
+
+		https://aescripts.com/head-rig/
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Group Switcher:
+	_______________
+
+	_ésta opción nos permitirá indicarle al sistema que deseamos relacionar instancias de grupos a través,
+
+	layers, de tipo	"Shape Layer", ha otra layer, a través, de controladores agregados como efectos, a los 
+
+	cuáles, podremos acceder a través, del panel effects controls
+
+
+	_de ésta manera, debemos de crear diferentes instancias ó grupos vectoriales por ejemplo; de la layer, base 
+
+	del rostro ó layer, ó contorno de la cara 
+
+
+
+		_creando así, por ejemplo:
+
+
+			_faceFromGroup
+
+			_faceLeftGroup
+
+			_faceRightGroup
+
+
+
+	_de ésta manera, debemos de seleccionar la layer, base del rostro en la cuál, hemos creado los diferentes
+
+	grupos vectoriales como instancias del face, en éste caso
+
+
+	_para posteriormente seleccionar una layer, de la cuál, deseamos extrapolar y relacionar éstas instancias
+
+	del face, ó grupos vectoriales
+
+
+	_y con éstas layers, seleccionadas podremos ir al panel "bq_HeadRig/TOOLS/Toggle Controls/", y darle a la 
+
+	opción de "Group Switcher" 
+
+
+	_para que así, un nuevo efecto sea agregado a la última layer, seleccionada ó la layer, de destino
+
+
+	_de ésta manera, a través, de éste control de tipo slider, podremos controlar los grupos vectoriales
+
+	relacionadas
+
+
+	_pudiendo así, apagar y prender grupos a través, de "Números", en cascada, es decir, que el número "1",
+
+	corresponderá al grupo, y que el número "2", corresponderá el grupo dos y así, suscesivamente para los
+
+	demás grupos
+
+
+	_de ésta manera, podremos animar éste parámetro a través, del tiempo e ir cambiando de instancia del rostro
+
+	en éste caso relación a la lógica del character
+
+
+	
+
+
+
+
+

@@ -1,0 +1,161 @@
+
+
+
+
+	bq_HeadRig
+
+		https://aescripts.com/head-rig/
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Tools:
+	______
+
+
+	_más también, dispondremos de diferentes herramientos que nos facilitarán el trabajo y desarrollo del
+
+	proceso de rig, del head, del character:
+
+
+
+
+
+	1_Center Anchor Point:
+
+		_ésta opción nos permitirá indicarle al sistema que centre el anchor point, de una layer 
+
+		seleccionada
+
+
+		_más si aplicamos éste mismos control con "Shift", sostenido sobre una layer, seleccionada, ésta 
+
+		layer, se posicionará en el centro del viewport, del panel compositing
+
+
+	2_Quickly Rename:
+
+		_ésta opción nos permitirá indicarle al sistema que deseamos renombrar varias layers, seleccionadas
+
+		a la vez 
+
+
+		_de ésta manera, se abrirá una ventana contextual en la cuál, podremos ir renombrando las layers, 
+
+		seleccionadas una ha una
+
+
+		_más si aplicamos ésta opción con "Shift", sostenido se abrirá un panel de opciones contextual a
+
+		través, del cuál, podremos hacer procesos más avanzados como los siguientes:
+
+
+			_podremos buscar layers, a través, de nombres previos específicos
+
+
+			_como también, podremos renombrar éstos nombre por otros
+
+
+			_más también, podremos agregar prefijos y sufijos ha éstas layers, seleccionadas y 
+
+			detectadas por el sistema a través, de sus nombres
+
+
+	3_Select Parents:
+
+		_ésta opción nos permitirá indicarle al sistema que deseamos seleccionar la layer, padre a la cuál,
+
+		está emparentada una layer, seleccionada
+
+
+		_más si utilizamos ésta opción son "Shift", sostenido podremos sumar selecciones posteriores
+
+
+	4_Select Childrens:
+
+		_ésta opción nos permitirá indicarle al sistema que deseamos seleccionar todas las layers, las 
+
+		cuáles, son hijas ó están emparentadas a la layer, seleccionada
+
+
+		_más si utilizamos ésta opción son "Shift", sostenido podremos sumar selecciones posteriores
+
+
+	5_Select LEFT/RIGHT Keys:
+
+		_ésta opción nos permitirá indicarle al sistema que deseamos seleccionar todas las propiedades
+
+		animadas de las layers, implicadas en el proceso de animación de "LEFT/RIGHT"
+
+
+	6_Select UP/DOWN Keys:
+
+		_ésta opción nos permitirá indicarle al sistema que deseamos seleccionar todas las propiedades
+
+		animadas de las layers, implicadas en el proceso de animación de "UP/DOWN"
+
+
+	7_Select UNRIGED Keys: (No HeadRig Expressions)
+
+		_ésta opción nos permitirá indicarle al sistema que deseamos seleccionar las layers, que no 
+
+		contienen expresiones y que se han "UNRIG", del sistema
+
+
+	8_Toggle Selected Expression On/Off:
+
+		_ésta opción nos permitirá indicarle al sistema que deseamos activar ó desactivar las expresiones
+
+		de layers, seleccionadas
+
+
+	9_Copy Selected HeadRig:
+
+		_ésta opción nos permitirá indicarle al sistema que deseamos copiar todas las propiedades y 
+
+		settings, de un character terminado
+
+
+		_para lo cuál, tendremos que seleccionar la layer, "HEAD CONTROL", y con ésta layer, seleccionada
+
+		hacer "Copy Selected HeadRig"
+
+
+	10_Replace Selected HeadRig Layers With Copied Selected HeadRig Layers:
+
+		_para posteriormente ir a otra composición en la cuál, también, tendamos otro character terminado
+
+		para que así, podamos también en ésta composición podamos seleccionar la layer, "HEAD CONTROL"
+
+
+		_y poder así, aplicar el comando "Replace Selected HeadRig Layers With...", para que así, todas las
+
+		propiedades de animación seteadas en el primer character, vayan ahora también, al segundo characte
+
+
+	11_Toggle Controllers Buttons:
+
+		_éste es un swiche, a tavés, del cuál, podemos visualizar una serie de opciones para la generación
+
+		de controles adicionales como también 
+
+
+		_para la generación de instancias de layers, para realizar animaciones más completas y compuestas 
+
+		de characters, más complejos
+	
+
+
+
+
+	
+
+
+
+
+

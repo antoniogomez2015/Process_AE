@@ -1,0 +1,56 @@
+
+
+
+
+
+	Talking Head
+
+		https://aescripts.com/talking-head/
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Audio Sync:
+	___________
+
+
+	_los estados de la boca, tanto la boca abierta como la boca cerrada las podremos controlar de forma
+
+	manual más también, tendremos la posibilidad de hacerlo a través, de una layer, de "Audio", 
+
+
+	_y a través, de los picos de audio el sistema podrá alternar tanto la boca abierta como la boca 
+
+	cerrada para emular así, el habla y gesticulación del personaje respectivo
+
+
+	_para lo cuál, debemos de importar un layer, de tipo audio a la composición respectiva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,90 @@
+
+
+
+
+	bq_HeadRig
+
+		https://aescripts.com/head-rig/
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	bq_HeadRig:
+	___________
+
+
+	2.LEFT / RIGHT:
+	_______________
+
+	_ahora debemos animar los diferentes estados que tendrá el character, en su animación, en éste caso el 
+
+	sistema soporta hasta tres estados, donde el central ó punto medio será el estado natural ó estado de 
+
+	reposo del character
+
+
+	_para ésto, debemos seleccionar las layers, móviles del character, menos la layer base del character, 
+
+	osea la layer, "head" 
+
+
+	_y así, con todas las layers, móbiles del character, como lo son las layers, de "los ojos, narís, boca, 
+
+	orejas", con éstas seleccionadas
+
+	
+	_procedemos ha hacer la animación en los tres pasos corespondientes a las tres marcas que realizamos 
+
+	inicialmente según la lógica del character 
+
+
+	_para ésto iremos el frame, 1, procederemos ha animar la propiedad de "Position", moviendo el conjundo de 
+
+	layers, hacia la izquierda del character 
+
+
+	_para luego repetir éstos pasos para el frame, 20, dejando como punto intermedio el frame, 10f, el cuál,
+
+	corresponde al estado de reposo del character
+
+
+	_ahora, debemos relacionar las layers, animadas con el sistema, para ésto, debemos seleccionar todos los 
+
+	keyframes, que hemos animado en todas las layers, respectivas, para ésto es conveniente desplegar todos los 
+
+	keyframes, animados a través, del shortcut "uu"
+
+
+	_de ésta manera, procedemos ha seleccionar todos los keyframes, animados y con todos éstos seleccionados 
+
+	vamos ha el panel"bq_HeadRig/2LEFT/RIGHT", y hacemos "Set Left/Right KFs" 
+
+
+	_para que así, expresiones sean agregadas a las layers, para que así, las layers, queden sin animación y 
+
+	ésta sea pasada al sistema para ser controlada por éste a través, del slider, seguido a continuación en el 
+
+	panel  
+
+
+	_de ésta manera podremos ver que ahora al mover el cabezal del timeline, no hay animación más si movemos 
+
+	ahora el slider, de la sección del panel "bq_HeadRig/2LEFT/RIGHT", veremos que el sistema se mueve 
+
+	controlando la animación de las layers, a voluntad
+
+
+
+
+
+
+
+
+
+
+

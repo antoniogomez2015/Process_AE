@@ -1,0 +1,89 @@
+
+
+
+
+	bq_HeadRig
+
+		https://aescripts.com/head-rig/
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Miscelaneos:
+	____________
+
+	_
+
+
+
+	
+	Update:
+	_______
+
+	_
+
+
+
+
+	Reload Existent bq_HeadRig:
+	___________________________
+
+	_
+
+
+
+
+
+	Time:
+	_____
+
+	_
+
+
+
+
+	Name:
+	_____
+
+	_
+
+
+
+
+	Motion Path:
+	____________
+
+	_ésta opción nos permitirá agregarle un efecto de tipo controlador a un handle, controlador del sistema
+
+	como por ejemplo al del movimiento de "UP/DOWN", llamado "Mouth Close UP/DOWN"
+
+
+	_de ésta manera, el sistema le agregará ha ésta layer, el efecto de: "Sacle Never Zero", el cuál, podremos
+
+	activar y desactivar a través, del checker
+
+
+	_de ésta manera, podremos hacer interacciones con las layers, móviles del face, del character, pudiendo
+
+	escalar la layer, en éste caso "Mouth Close UP/DOWN", así, como también, invertir la escala de ésta layer
+
+
+	_de ésta manera, podremor invertir las trayectorias de animación por ejemplo, de los ojos para lograr así,
+
+	más expresiones del character, emulando así, expresiones de tristeza, alegría, otros
+
+
+
+
+
+
+
+
+
+
+

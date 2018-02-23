@@ -1,0 +1,70 @@
+
+
+
+
+	bq_HeadRig
+
+		https://aescripts.com/head-rig/
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Sliders and Switches:
+	_____________________
+
+
+	_éstas opciones nos fascilitarán los procesos de controles avanzados para realización de characters, más
+
+	completos y complejos	
+
+
+
+
+
+	Value Controller:
+	_________________
+
+	_ésta opción nos permitirá indicarle al sistema que deseamos relacionar propiedades de una layer, ha otra 
+
+	layer, a través, de controladores agregados como efectos, a los cuáles, podremos acceder a través, del panel
+
+	effects controls
+
+
+	_de ésta manera, debemos de seleccionar una layer, de la cuál, deseamos extrapolar y relacionar propiedades, 
+
+	de ésta  manera, podremos desplegar por ejemplo; las propiedades de "Color", u "Opacity", de ésta layer, 
+
+	respectiva
+
+
+	_y con éstas propiedades, seleccionada procedemos ha seleccionar otra layer, a la cuál, deseamos relacionar 
+
+	éstas propiedades seleccionadas
+
+
+	_de ésta manera, podremos ir al panel "bq_HeadRig/TOOLS/Toggle Controls/", y darle a la opción de 
+
+	"Value Controller", para que así, un nuevo efecto sea agregado a la última layer, seleccionada ó la layer, 
+
+	de destino
+
+
+	_de ésta manera, a través, de éste control de tipo slider, podremos controlar la propiedad ó propiedades
+
+	relacionadas
+
+
+
+
+	
+
+
+
+
+

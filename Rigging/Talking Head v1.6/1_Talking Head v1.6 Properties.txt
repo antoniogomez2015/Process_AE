@@ -1,0 +1,198 @@
+
+
+
+
+
+	Talking Head
+
+		https://aescripts.com/talking-head/
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Talking Head:
+	_____________
+
+	_éste plugins, nos permitirá crear sistemas de rig, para el rostro ó face, para que así, las partes
+
+	expresivas del rostro queden rigieadas
+
+
+	_como por ejemplo, los ojos, las cejas, el mentón ó barbilla y la boca, la cuál, podrá tener tres estados
+
+	los cuáles, pidrían ser la boca abierta, la boca cerra y la boca contraida
+
+
+	_el sistema creará un controlador principal a partir de una layer, de tipo "Null", en la cuál, se 
+
+	encuentrará en su interior un handle, a través, del cuál, podremos manejar todos los sliders, del sistema
+
+	de forma manual y gráfica directamente en el viewport, del panel compositing
+
+
+	_de ésta manera, sólo tendremos que seleccionar el slider, del panel effects control, deseado y con éste
+
+	seleccionado vamos al viewport, del panel compositing, para que así, podamos realizar modificaciones y
+
+	animación de ésta slider, en específico
+
+
+
+
+	NOTA: el sistema requerirá un layer, de tipo audio de la cuál, el sistema estraerá los picos de audio para 
+
+	la generación del sistema de audio luego de haber realizado el proceso de rig
+
+
+
+	NOTA: la interface, del pluging, toma como referencia nuestro punto de vista y no del character, para la
+
+	ubicación de los elementos izquierdos y derechos del rostros
+
+
+	_es decir, que lo que vemos nosotros que está en el lado derecho y el panel del pluging, dice "left",
+
+	será para el character, realmente lo que está en el lado derecho
+
+
+	_por otra parte, una vez generado el sistema, éste no respetará los nombres de los elementos ó layers, 
+
+	asignados por nosotros para la generación del sistema 
+
+
+	_lo que quiere decir, que el sistema renombrará algunas layers, del sistema así, como también, duplicará 
+
+	otras layers, para la complementación del sistema, creará mattes, entre la esclerótica y las pupilas de 
+
+	ambos ojos respectivamente
+
+
+
+
+
+	Properties:
+	___________
+
+
+		_Eyebrow Left:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la layer, ó composición 
+
+			correspondiente a la ceja izquierda
+
+
+		_Eyebrow Right:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la layer, ó composición 
+
+			correspondiente a la ceja derecha
+
+
+		_Pupil Left:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la layer, ó composición 
+
+			correspondiente a la pupila del ojo izquierdo
+
+
+		_Pupil Right:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la layer, ó composición 
+
+			correspondiente a la esclerótica del ojo derecho
+
+
+		_Eye Left:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la layer, ó composición 
+
+			correspondiente a la esclerótica del ojo izquierdo
+
+
+		_Eye Right:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la layer, ó composición 
+
+			correspondiente a la pupila del ojo derecho
+
+
+		_Face:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la layer, ó composición 
+
+			correspondiente a la a la cara ó rostros del character, sólo a parte superior sin la 
+
+			parte de la mandíbula ó mentón 
+
+
+		_Jaw:
+
+			_ésta opción nos permitirá indicarle al sistema cuál, será la layer, ó composición 
+
+			correspondiente a la barbulla, mentón ó mandíbula del character, por separado del rostro
+
+
+
+		_Mouth:
+
+
+			_Open:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la layer, ó composición 
+
+				correspondiente a la boca abierta del character
+
+
+				_más en ésta opción podremos seleccionar dos layers, a la vez, donde la primera
+
+				layer, corresponda a la boca abierta y la segunda layer, corresponda a la boca
+
+				cerrada
+
+
+				_de ésta manera, a nivel general ambas layers, corresponderán a las letras 
+
+				generales de la "A", y la "O"
+
+				
+
+
+			_Closed:
+
+				_ésta opción nos permitirá indicarle al sistema cuál, será la layer, ó composición 
+
+				correspondiente a la boca cerrada del character
+
+
+				_de ésta manera, a nivel general ésta layers, corresponderán a la boca en estado
+
+				reposo ó en el character con una expresión seria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

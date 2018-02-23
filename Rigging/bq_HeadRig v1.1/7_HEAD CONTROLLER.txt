@@ -1,0 +1,107 @@
+
+
+
+
+	bq_HeadRig
+
+		https://aescripts.com/head-rig/
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	bq_HeadRig:
+	___________
+
+
+	4.HEAD CONTROLLER:
+	__________________
+
+
+
+	HEAD CONTROL:
+	_____________
+	
+	_ahora vamos ha hacer "Twaking Rigs", para obtener un control maestro con las limitaciones del character, 
+
+	necesarias para aumentar la potencia del sistema y rig, en general
+
+	
+	_ahora para crear el controlador principal, debemos de seleccionar la composición respectiva en el panel
+
+	timeline, e ir al panel "bq_HeadRig/4.HEAD CONTROLLER/", y hacer "Create Head Controller" 
+
+
+	_para que así, sea agregado a la composición respectiva una nueva layer, de tipo null object, con el nombre 
+
+	de "HEAD CONTROL", la cuál, podremos ajustar de tamaño cambiando éste al tamaño del rostro por ejemplo, ésta
+
+	layer, no poseerá efectos de tipo controlador
+
+
+
+
+	Setting:
+	________
+
+	_ahora debemos configurar éste controlador principal "HEAD CONTROL", para que éste se corresponda 
+
+	espacialmente con las layers, existentes del character, y a las dimensiones de éste
+
+
+	_para ésto, debemos de tener la layer, "HEAD CONTROL", del controlador principal seleccionada para leugo ir 
+
+	al panel "bq_HeadRig/", "HEAD CONTROLLLER", y hacer "SET MID"
+
+
+	_para que así, quede asentado el estado medio ó de reposo ó vista al frente del character, y nos envíe a la 
+
+	nueva posición ha determinar que será la posición del lado derecho del rostro "SET Right" 
+
+
+	_para lo cuál, tendremos que mover el null object, "HEAD CONTROL", hacia el lado derecho del character
+
+
+	_para que así ésta posición quede asentada y nos envíe hacia la nueva posición ha determinar que será la 
+
+	posición superior ó "SET UP", para la cuál, tendremos que mover el null object "HEAD CONTROL", hacia arriba
+
+	
+	_de ésta manera el sistema detectará ó definirá las demás posiciones por defecto en relación a las demás 
+
+	posiciones elegidas anteriormente
+
+
+
+
+	RIG HEAD CONTROLLER:
+	____________________
+
+	_y por último justo a continuación de haber terminado el proceso de seteado del proceso anterior y con
+´
+	la composición respectiva del timeline, seleccionada, darle al botón "RIG HEAD CONTROLLER", para que así, 
+
+	el rig, máster quede totalmente configurado y listo para usar
+
+
+	_para que así, ahora al mover manualmente la layer, "HEAD CONTROL", directamente en el viewport, del panel
+
+	compositing, ahora podremos mover y animar todo el sistema de las layers, móviles del face, del character
+
+
+	_éste sistema respetará el área estática del rostro con área de acción para que así, los elementos no se 
+
+	salgan del rostro ha animar lo cuál, es especialmente útil y práctico
+
+
+
+
+
+
+
+
+

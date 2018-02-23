@@ -1,0 +1,92 @@
+
+
+
+
+	bq_HeadRig
+
+		https://aescripts.com/head-rig/
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	bq_HeadRig:
+	___________
+
+
+	3.UP/DOWN:
+	__________
+
+
+
+	Mouth Close UP/DOWN:
+	____________________
+
+	_primeramente debemos seleccionar todas las layers, móviles que conforman el head, del character, excepto 
+
+	la layer, "HEAD NULL", creada por el sistema previamente
+
+
+	_y con todas éstas layers, seleccionadas debemos ir a las opciones de "bq_HeadRig/3.UP/DOWN", y allí, darle 
+
+	a la opción de "Create Up/DOWN Null",
+
+
+	_para que así, el sistem cree otra nueva layer, de tipo null, la cuál, el sistema nos sugerirá que le 
+
+	asignemos un nombre, ej: "Mouth Close UP/DOWN", ésta layer, generada no tendrá efectos de control aplicados
+
+
+
+
+
+	Animation:
+	__________
+
+	_así, animaremos ésta nueva layer, generada por el sistema con el nombre de "Mouth Close UP/DOWN", en su 
+
+	propiedad de "Position"
+
+
+	_igualmente que en el caso anterior de "LEFT/RIGHT", en el que el frame "0f", en el frame "10f", y en el 
+
+	frame "20f", son animados respectivamente
+
+
+	_de ésta manera, en el frame, "10f", corresponderá a la forma normal ó en el estado de repopo ó cuando el 
+
+	character, está mirando hacia el frante, en éste caso sólo agregaremos un keyframe, sin mover las layers
+
+
+	_y en el frame "0f", corresponderá cuando el character, esté mirando hacia arriba, por ende debemos de mover
+
+	las layers, móviles del face, del character, hacia arriba para generar así, un keyframe, en ésta posición
+
+
+	_y en el frame "20f", corresponderá cuando el character, esté mirando hacia abajo, por ende debemos de mover
+
+	los layers, móviles del face, del character, hacia abajo para generar así, un keyframe, en ésta posición
+
+
+
+
+	Setting:
+	________
+
+	_así, posteriormente debemos de seleccionar ésta propiedad de "position", de la layer, "Mouth Close UP/DOWN",
+
+	que hemos animado e ir al panel "bq_HeadRig/3.UP/DOWN", y hacer "Set Up/Doen KFs", para que así, a través, 
+
+	de éste paso podamos controlar el sistema de arriba hacia abajo y viceversa
+
+
+
+
+
+
+
+
