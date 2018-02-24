@@ -10,24 +10,27 @@
 
 
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 
-panel Express / Leem's Animation Tools 2
+Panel Express / Leem's Animation Tools 2
+
+
 
 
 	Leem's Animation Tools 2:
+	_________________________
 
 
-	-este nos brinda una serie de herramientas para realizar diferentes procesos del rigging, de un character,
+	_este pluging, nos brinda una serie de herramientas para realizar diferentes procesos del rigging, de un 
 
-	en sus diferentes facetas de producción
+	character, en sus diferentes facetas de producción
 
 
-	_éstas herramientas las tendremos divididas en paneles ó secciones las cuales cumplen diferentes funciones
+	_éstas herramientas las tendremos divididas en paneles ó secciones las cuales cumplen diferentes 
 
-	en el tiempo y en diferentes procesos de workflow
+	funciones en el tiempo y en diferentes procesos del workflow
 
 
 
@@ -36,7 +39,10 @@ panel Express / Leem's Animation Tools 2
 	_________
 
 
+
+
 	Sprites Swapper:
+	________________
 
 	_éste módulo nos brinda la posibilidad de poder intercambiar contenido ó posiciones de un character, en un 
 
@@ -65,7 +71,9 @@ panel Express / Leem's Animation Tools 2
 
 
 
+
 	Apilamiento vertical:
+	_____________________
 
 	_ésta es la modalidad innovadora a la convencional ó lineal ó horizontal, ésta nueva modalidad permite hacer
 
@@ -149,7 +157,10 @@ panel Express / Leem's Animation Tools 2
 
 
 
+
+
 	Apilamiento Horizontal:
+	_______________________
 
 	_ésta es la modalidad clásica, en la que tenemos los estados del character, en layers, de manera secuenciada de
 

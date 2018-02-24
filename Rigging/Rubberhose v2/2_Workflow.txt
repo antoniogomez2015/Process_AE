@@ -1,0 +1,134 @@
+
+
+
+
+
+	Rubberhose 2
+
+		http://www.battleaxe.co/rubberhose/
+
+
+		Tutorial:
+
+			Motion+ - Rubber Hose V2 Rigging Script Tutorial - After Effects
+
+				https://www.youtube.com/watch?v=vYXFviD_IZ0&t=464s
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Workflow:
+	_________
+
+	
+
+
+	Opción 1 Rubberhose:
+	____________________
+
+
+	_para generar éste sistema no tendremos que seleccionar ninguna layer, previamente de ésta manera,
+
+	simplemente debemos de ir a las opciones del pluging, yendo ha "Build/Rubberhose" 
+
+
+	_para que así, el sistema sea generado automáticamente el cuál, podremos configurar y reposicionar
+
+	posteriormente así, como también, podremos relacionarlo con otros sistemas hasta conformar un character,
+
+	en su conjunto de ser requerido
+
+
+
+
+	Opción 2 RubberRig:
+	___________________
+
+	_para generar éste sistema debemos de tener las layers, respectivas que conforman ésta extremidad ó
+
+	articulación por separado, es decir, que las partes que conforman ésta extremidad estén en layers,
+
+	diferentes
+
+
+	_así, como también, es necesario que éstas layers, en su conjunto y conformación ocupen el alto de la
+
+	composición respectiva para que así, el sistema generado coincida lo más posible con las layers, de la
+
+	respectiva articulación ó extremidad, de los contrario habrán conflictos con el sistema
+
+
+	_de ésta manera, para generar el sistema procederemos ha selecionar primeramente la layer, correspondiente
+
+	al "root", y a continuación procederemos ha seleccionar la layer, correspondiente al efector
+
+
+	_para que así, una vez con ambas layers, seleccionadas procedemos ha ir a las opciones del pluging, yendo
+
+	ha "Build/RubberRig", para que así, el sistema sea generado a partir de éste punto
+
+
+
+
+
+	Opción 3 RubberPin:
+	___________________
+
+	_para generar éste sistema debemos de tener las layers, que conforman la extremidad ó articulación de forma
+
+	unificada, es decir, que las partes que conforman la articulación ó extremidad estén conformadas en una 
+
+	sóla layer
+
+
+	_para a continuación a través, de la herramienta puppet pin, shortcut, "Control + P", proceder ha crear 
+
+	puppet pins, en las articulaciones del sistema
+
+
+	_de ésta manera, debemos de crear el primer puppet pin, en el "root", del sistema, el siguiente puppet pin,
+
+	lo debemos de crear en la articulación media ó en el punto de la flexión principal del sistema
+
+
+	_y el tercer y último puppet pin, lo debemos de colocar en el "efector", del sistema ó en el otro extremo
+
+	del root, del sistema 
+
+
+	_de ésta manera, una vez hemos generado los respectivos puppet pins, podremos seleccionar los keyframes,
+
+	generados por el efecto puppet pin, para lo cuál, debemos de desplegar los keyframes, de la layer, 
+
+	respectiva
+
+
+	_para lo cuál, dispondremos del siguiente comando "U/U", de ésta manera, podremos seleccionar los keyframes,
+
+	generados por los puppet pin, creados anteriormente
+
+
+	_y con éstos keyframes, seleccionados podremos ir a las opciones del plugin, hasta las opciones de
+
+	"Build/RubberPin"
+
+
+	_para que así, el sistema sea generado a partir de éste punto
+
+
+
+	
+
+
+
+
+
+
+
+
+	

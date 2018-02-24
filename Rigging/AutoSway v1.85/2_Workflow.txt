@@ -1,0 +1,57 @@
+
+
+
+
+
+	AutoSway
+
+		https://aescripts.com/autosway/
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Workflow:
+	_________
+
+	_primeramente debemos determinar la layer, a la cuál, deseamos aplicar el plugins, sea ésta una layer,
+
+	con una máscara aplicada, una forma personalizada de tipo shape, ó vector importado ó imágen
+
+
+	_para a continuación proceder ha aplicarle puntos de control a través, de la herramienta de puppet tools
+
+
+	_de ésta manera, una vez hemos aplicados los puppet pins, sobre la layer, respectiva podremos proceder
+
+	ha seleccionar la respectiva layer, e ir a las opciones del plugins "AutoSways/PuppetPinTool Mode", y 
+
+	darle a la opción de "Apply"
+
+
+	_para que así, a partir de éste punto el sistema generará un layer, de tipo null, por cada puppet pin,
+
+	que hayamos creado sobre la layer, respectiva ó layer, base sobre la cuál, hemos aplicado el sistema
+
+
+	_dichas layers, guide, harán de handles, a través, de los cuáles, el sistema controlará la distorsión de
+
+	la layer, base
+
+
+	_más en la primera layer, ó la layer, superior del timeline, ésta layer, contendrá ha modo de efectos
+
+	los controladores del sistema a través, del panel effects controls
+
+
+
+
+
+

@@ -1,0 +1,218 @@
+
+
+
+
+
+	Rubberhose 2
+
+		http://www.battleaxe.co/rubberhose/
+
+
+		Tutorial:
+
+			Motion+ - Rubber Hose V2 Rigging Script Tutorial - After Effects
+
+				https://www.youtube.com/watch?v=vYXFviD_IZ0&t=464s
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Rigs from Shape Nodes: (Rubberhose)
+	______________________
+
+	_para generar un sistema, articulación ó extremidad debemos simplemente ir a las opciones del efectos sin
+
+	ninguna layer, seleccionada previamente y darle a la opción del ícono de:
+
+
+		_Build/Ruberhose
+
+
+	_para que así, el sistema genere tres layers, en la composición respectiva las cuáles, son las siguientes:
+
+
+		_Hose 1::End
+
+
+		_Hose 1::Start
+
+		
+		_Hose 1
+
+
+
+	_de ésta manera, la layer, "Hose 1::End", corresponderá al efector del sistema a través, del cuál, podremos
+
+	articular ó mover el sistema generado
+
+
+	_y a su vez, en ésta layer, se habrán agrgado efectos controladores del sistema los cuáles, son:
+
+
+
+		_Hose Length:
+
+			_ésta opción nos permitirá indicarle al sistema la longitud del sistema ó articulación en
+
+			su totalidad 
+
+
+			_de ésta manera, podremos controlar el tamaño global de todo el sistema así, como también, 
+
+			colateralmente podremos graduar cuán articula un character, una extremidad en un momento 
+
+			determinado a través, del tiempo
+
+
+		_Bend Radius:
+
+			_ésta opción nos permitirá indicarle al sistema lo rígida y articulada que podrá ser la
+
+			articulación ó lo blanda y orgánica
+
+
+			_de ésta manera, con valores cercanos ha "0", la extremidad será totalmente rígida, y
+
+			articulada
+
+
+			_más con valores cercanos ha "100", ó superiores la extremidad será blanda y orgánica
+
+
+		_Realism:
+
+			_ésta opción nos permitirá indicarle al sistema un plus de estiramiento de la extremidad
+
+			el cuál, funcional de cierta manera con la opción de "Length", aunque más limitada
+
+
+		_Bend Direction:
+
+			_ésta opción nos permitirá indicarle al sistema la dirección ó sentido de la articulación
+
+			generado
+
+
+			_de ésta manera, con valores cercanos ha "-100", el sentido de la articulación ó extremidad
+
+			será hacia la izquierda
+
+
+			_y con valores cercanos ha "100", el sentido de la articulación ó extremidad será hacia la 
+
+			derecha 
+
+
+			_de ésta manera, podremos hacer transiciones de animación de forma gradual mientras el 
+
+			character, cambia de sentido de orientación de las articulaciones ó extremidades a través,
+
+			del tiempo
+
+
+		_Auto Rotate Start:
+
+			_ésta opción nos permitirá indicarle al sistema que al mover la articulación ó extremidad
+
+			también, rote el "root", del sistema, osea la layer, "Hose 1::End"
+
+
+			_lo cuál, a su vez, podrá afectar a las layers, emparentadas ha éstos de manera, si 
+
+			activamos ésta opción las layers, emparentadas emularán la rotación del sistema a través,
+
+			del tiempo
+
+
+			_más si desactivamos ésta opción, la layer, anidada siempre mantendrá su orientación 
+
+			original a través, del tiempo
+
+
+		_Auto Rotate End:
+
+			_ésta opción nos permitirá indicarle al sistema que al mover la articulación ó extremidad
+
+			también, rote el "efector", del sistema, osea la layer, "Hose 1::Start"
+
+
+			_lo cuál, a su vez, podrá afectar a las layers, emparentadas ha éstos de manera, si 
+
+			activamos ésta opción las layers, emparentadas emularán la rotación del sistema a través,
+
+			del tiempo
+
+
+			_más si desactivamos ésta opción, la layer, anidada siempre mantendrá su orientación 
+
+			original a través, del tiempo
+
+
+
+		_Math Stuff:
+
+
+			_A:
+
+				_(Opción controlada por el sistema)
+
+
+
+			_B:
+
+				_(Opción controlada por el sistema)
+
+
+			_Outer Radius:
+
+				_(Opción controlada por el sistema)
+
+
+			_Inner Radius:
+
+				_(Opción controlada por el sistema)
+
+
+			_Straight:
+
+				_(Opción controlada por el sistema)
+
+
+			_Base Rotation:
+
+				_(Opción controlada por el sistema)
+
+
+			_AutoFlop:
+
+				_(Opción controlada por el sistema)
+
+
+			_Parent Scale:
+
+				_(Opción controlada por el sistema)
+
+
+
+	
+
+	_y la layer, "Hose 1::Start", corresponderá a al "Root", del sistema de la articulación ó extremidad
+
+
+	_y la layer, "Hose", corresponderá al shape node, base a través, del cuál, es generado el path, de la
+
+	forma vectorial del sistema en general
+
+
+
+
+
+
+
+
+	

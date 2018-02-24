@@ -1,0 +1,232 @@
+
+
+
+
+
+	Rubberhose 2
+
+		http://www.battleaxe.co/rubberhose/
+
+
+		Tutorial:
+
+			Motion+ - Rubber Hose V2 Rigging Script Tutorial - After Effects
+
+				https://www.youtube.com/watch?v=vYXFviD_IZ0&t=464s
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	RubberRig: (Split Layers)
+	__________
+
+
+
+	General:
+	________
+
+	_primeramente debemos de tener una composición con las layers, por separado las cuáles, conformarán el 
+
+	character, ó la extremidad ó articulación respectiva
+
+
+	_es recomendable que éstas layers, tengan el punto de anclaje ó anchor point, en el root, de cada
+
+	articulación respectivamente, previamente antes de realizar el proceso de rig
+
+
+	NOTA: si éstas layers, estarán conformadas por layers, de tipo "Shape", ó "Masks", es recomendable pre
+
+	componer éstas layers, para evitar así, comportamientos inesperados de éstas layers, dentro del sistema
+
+
+	
+
+
+	Sistem:
+	_______
+
+	_para generar el sistema, primeramente debemos de seleccionar las layers, que conformarán la articulación
+
+	ó extremidad de forma ordenada, según la lógica y cinemática del character, es decir, por ejemplo para una
+
+	pierna ó leg
+
+
+	_en ésta caso, primero tendremos que seleccionar la layer, correspondiente al femur, y luego debemos de
+
+	seleccionar la layer, correspondiente a la tibia, (ésta layer, también, podrá contener el pie ó foot/toe)
+
+
+	_y con ambas layers, seleccionadas vamos a las opciones de "Build/RubberRig", para que así, el sistema a
+
+	partir de éste punto genere las siguientes layers, a través, de las cuáles, podremos controlar el sistema
+
+	generado
+
+
+
+		_Hose 2::Ankle
+
+		_Hose2::Hip
+
+		_Hose2::Center
+
+
+
+	_éstas layer, tratarán en lo posible de ubicarse en las articulaciones de la extremidad, es decir, una en 
+
+	la parte superior con el nombre de "Hose2::Hip", la cuál, hará de "root", del sistema
+
+
+	_y la siguiente layer, Hose2::Cente hará del punto de articulación central del sistema, por ejemplo en una
+
+	articulación de un brazo hará de "elbow", ó codo del sistema
+
+
+	_y por último la layer, "Hose 2::Ankle", hará de niñeca siguiendo el ejemplo, del brazo a través, de la cuál,
+
+	podremos articular todo el sistema al unísono
+
+
+
+
+	Effects Controls:
+	_________________
+
+	_las layers, generadas por el sistema en su mayoría dispondrán de controladores ha modo de efectos aplicados
+
+	a través, de los cuáles, podremos controlar todo el sistema generado
+
+
+
+	_Hose 2::Ankle:
+
+
+		_Hose Length:
+
+			_ésta opción nos permitirá indicarle al sistema la longitud del sistema ó extremidad generada
+
+			_de ésta manera, podremos hacer un sistema más largo ó extendido ó más corto y reducido
+
+
+		_Bend Radous:
+
+			_(ésta opción está controlada por el sistema), ya que el sistema no está conformado por
+
+			una layer, nodal de tipo shape, personalizada por el sistema
+
+
+		_Realism:
+
+			_ésta opción nos permitirá indicarle al sistema el punto de inflexión a partir del cuál,
+
+			la articulación se flexionará
+
+
+		_Bend Direction:
+
+			_ésta opción nos permitirá indicarle al sistema la dirección de la articulación a través,
+
+			del tiempo, la cuál, podrá sre graduable y suavizada
+
+
+		_Auto Rotate Start:
+
+			_ésta opción nos permitirá indicarle al sistema la rotación de la layer, "root", en éste
+
+			caso la layer, con el nombre de "HOSE 2::Hip" 
+
+
+			_lo que permitirá a su vez, que las layers, que se emparenten ha ésta layer, también, 
+
+			heredarán la rotación del sistema al éste ser articulado a través, del tiempo
+
+
+		_Auto Rotate End:
+
+			_ésta opción nos permitirá indicarle al sistema la rotación de la layer, "efector", en éste
+
+			caso la layer, con el nombre de "HOSE 2::Ankle" 
+
+
+			_lo que permitirá a su vez, que las layers, que se emparenten ha ésta layer, también, 
+
+			heredarán la rotación del sistema al éste ser articulado a través, del tiempo
+
+
+		
+		_Math Stuff:
+
+
+			_A:
+
+				_(ésta opción está controlada por el sistema)
+
+
+			_B:
+
+				_(ésta opción está controlada por el sistema)
+
+
+			_Outer Radius:
+
+				_(ésta opción está controlada por el sistema)
+
+
+			_Inner Radius:
+
+				_(ésta opción está controlada por el sistema)
+
+
+			_Straight:
+
+				_(ésta opción está controlada por el sistema)
+
+
+			_Base Rotation:
+
+				_(ésta opción está controlada por el sistema)
+
+
+			_AutoFlop:
+
+				_(ésta opción está controlada por el sistema)
+
+
+			_Parent Scale:
+
+				_(ésta opción está controlada por el sistema)
+
+
+
+
+	_Hose2::Hip:
+
+		_ésta layer, no dispone de efectos agregados
+
+
+	_Hose2::Center:
+
+
+		_Center Bias:
+
+			_ésta opción es un slider, que nos permitirá controlar la altura de la articulación ó 
+
+			flexión del sistema generado 
+
+
+			_de ésta manera, podremos personalizar y animar la altura e interacción de la articulación
+
+
+
+
+
+
+
+	

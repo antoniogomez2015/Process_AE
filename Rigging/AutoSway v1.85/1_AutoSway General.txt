@@ -1,0 +1,54 @@
+
+
+
+
+
+	AutoSway
+
+		https://aescripts.com/autosway/
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	AutoSway:
+	_________
+
+	_éste plugins, nos pemritirá emular el efecto de las fuerzas centrífugas y centrípetas y a su vez, de las
+
+	físicas de materiales en elementos estáticos influenciados por el viento y no por el movimiento
+
+
+	_por el contrario de los plugins, de "Overlap", y "Rubberize It", que si trabajan directamente con las
+
+	propiedades de position, scale, rotation
+
+
+	_éste plugin, funciona en layers, con máscaras aplicadas como también en layers, de tipo shape, ó 
+
+	vectores ó imágenes importados
+
+
+	_de ésta manera, éste plugins, nos pemritirá crear efectos de cabelo en movimiento constante, 
+
+	articulaciones en movimiento pasivo, bufandas, cortinas, telas, tentáculos, entre otras posibilidades 
+
+	para creación de elementos y partes de characters
+
+
+	_de ésta manera, una vez, heamos generado el sistema y al reproducir el timeline, la animación y simulación 
+
+	sobre la layer, sobre la cuál, aplicamos el efecto será visible a simple vista 
+
+
+	_y ésta tendrá todas las propiedades de simulación d una tela ó elemento blando u orgánico
+
+
+

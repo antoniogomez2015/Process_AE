@@ -1,0 +1,64 @@
+
+
+
+
+
+	Rubberize It
+
+		https://aescripts.com/rubberize-it/
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Workflow:
+	_________
+
+	
+	_primeramente debemos de cargar la layers, a la cuál, deseamos aplicarle el sistema a la composición 
+
+	respectiva
+
+
+	NOTA: el sistema sólo se podrá generar a partir de una sóla layer, de ésta manera, si es un character,
+
+	éste deberá estar conformado sólo por una layer
+
+
+	_para a continuación proceder ha aplicarle ha ésta layer, puntos de control a través, de la herramienta
+
+	puppet tool, shortcut, "Control + p"
+
+
+	_de ésta manera, procederemos ha aplicar puppet pins, en las áreas de interés ó en las articulaciones
+
+	del character, u objeto
+
+
+	_para luego proceder ha realizar la animación de la layers, respectiva, entendiéndo así, que para generar
+
+	el sistema debemos de haber creado previamente al menos dos keyframes, a través, del tiempo de una propiedad 
+
+	como:
+
+
+
+		_Position
+
+		_Scale
+
+		_Rotation
+
+
+
+
+
+
+
+	

@@ -1,0 +1,112 @@
+
+
+
+
+
+	Rubberhose 2
+
+		http://www.battleaxe.co/rubberhose/
+
+
+		Tutorial:
+
+			Motion+ - Rubber Hose V2 Rigging Script Tutorial - After Effects
+
+				https://www.youtube.com/watch?v=vYXFviD_IZ0&t=464s
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Rubberhose:
+	___________
+
+	_éste plugins, nos permitirá crear sistemas de rig, de extremidades ó articulaciones las cuáles, pueden 
+
+	funcionar por si mismas ó como un todo conformando un character, en su totalidad
+
+
+	_éste plugins, ofrece soporte para tres modalidades de trabajo, donde la más flexible y potente es la
+
+	primera opción 
+
+
+
+	Option 1:
+	_________
+
+	_la primera opción "Rubberhose", consiste en layers, de tipo shape, nodales a través, de las cuáles, el 
+
+	sistema generará extremidades las cuáles, podrán articularse de forma blanda u orgánica ó totalmente rígidas 
+
+	y articuladas y a su vez, éstas serán totalmente graduables y animables
+
+
+	_la primera opción es la opción nodal, y por ende la única opción de las tres que permitirá la estilización
+
+	y administración ó mejor dicho 
+
+
+	_ésta será la única opción que podrá disponer de todas las opciones del plugins, en su totalidad
+
+
+	_ésta opción al ser una layer, de tipo shape, nos permitirá poder modificar el path, pudiendo así, aumentar
+
+	ó disminuir su grosor, cambiar su color
+
+
+	_también, podremos agregar opciones nativas del sistema como trim paths, agregar más path, en grupos, otros
+
+
+
+
+	Option 2:
+	_________
+
+	_la segunda opción "RubberRig", ésta opción nos permitirá generar sistemas de rig, de layers, ya existentes, 
+
+	éstas layers, podrán ser layers, importadas de imágenes ó vectores de otras aplicaciones 
+
+
+	_como también, de layers, realizadas en after effects, con la característica de que ésta opción ó modadlidad
+
+	nos permitirá generar sistemas con varias layers de las partes de la extremidad 
+
+
+	_así, como también, la ya no utilización de layers, nodales de forma obligatoria
+
+
+	NOTA: para la generación del sistema es necesario que las layers, conformen en su conjunto el tamaño ó alto
+
+	de la composición respectiva
+
+
+	_para que así, éstas layers, coincidan con el tamño del sistema general el cuál, no se pueda graduar 
+
+	posteriormente de haberse generado, (al menos yo no se como hacerlo hasta ahora)
+
+
+
+
+
+	Option 3:
+	_________
+
+	_la segunda opción "RubberPin", ésta opción nos permitirá 
+
+
+
+	
+
+
+
+
+
+
+
+
+	

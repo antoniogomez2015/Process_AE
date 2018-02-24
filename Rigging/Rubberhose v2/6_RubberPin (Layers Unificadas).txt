@@ -1,0 +1,211 @@
+
+
+
+
+
+	Rubberhose 2
+
+		http://www.battleaxe.co/rubberhose/
+
+
+		Tutorial:
+
+			Motion+ - Rubber Hose V2 Rigging Script Tutorial - After Effects
+
+				https://www.youtube.com/watch?v=vYXFviD_IZ0&t=464s
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	RubberPin: (Layers Unificadas)
+	__________
+
+
+
+	General:
+	________
+
+	_primeramente debemos de tener una composición con las layers, que conforman la extremidad ó articulación
+
+	de forma unificada, es decir, que éstas parte del cuerpo estén conformadas por una sóla layer
+
+
+
+	NOTA: si éstas layers, estarán conformadas por layers, de tipo "Shape", ó "Masks", es recomendable pre
+
+	componer éstas layers, para evitar así, comportamientos inesperados de éstas layers, dentro del sistema
+
+
+	
+
+
+	Sistem:
+	_______
+
+	_una vez hemos generado el sistema, éste estará conformado por las siguientes layers, y controles:
+
+
+
+		_Name_transform
+
+		_Hose 2::Hip
+
+		_Hose 2::Center
+
+		_Hose 2::Ankle
+
+
+
+	_de ésta manera, la layer, "Name_transform", es un handle, principal a través, del cuál, podremos mover,
+
+	rotar y emparentar todo el sistema con otros sistemas y demás layers, en general
+
+	
+	_y layer, "Hose 2::Hip", corresponderá con una hnadle, a través, del cuál, podremo articular el sistema
+
+	por la parte del "root", del sistema
+
+
+	_y la layer, "Hose 2::Center", le permitirá al sistema crear y la flexión de la articulación, ésta layer,
+
+	no la podremos controlar directamente en el viewport, del panel compositing
+
+
+	_y por último la layer, "Hose 2::Ankle", ésta layer, nos permitirá controlar el sistema permitiréndonos 
+
+	poder realizar la flexión y articular la extremidad en su totalidad
+
+
+	
+
+
+	Effects:
+	________
+
+	_más las layers, generadas por el sistema también dispondrán de efectos agregados como controladores del
+
+	sistema a través, del panel effects control
+
+
+	_de ésta manera, la layer, "Name_transform", y la layer, "Hose 2::Hip", nos dispondrán de efectos aplicados
+
+	de forma adicional por el sistema generado
+
+
+	_más la layer, "Hose 2::Center", si dispondrá de un efecto aplicado, "Center Bias", el cuál, es un slider,
+
+	por medio del cuál, podremos controlar la altura de la articulación a través, del tiempo
+
+
+	_y por último la layer, "Hose 2::Ankle", dispondrá del siguiente efecto aplicado:
+
+
+
+		_Hose Length:
+
+			_ésta opción nos permitirá indicarle al sistema la longitud de la articulación ó extremidad
+
+			de ésta manera, podremos también, exagerar ó atenuar una articulación a através, del tiempo
+
+			y generar así, tensión ó soltura en un character
+			
+
+
+		_Bend Radius:
+
+			_(ésta opción estará controlada por el sistema), ya que el sistema en éste caso no es 
+
+			vectorial ó nodal
+
+
+		_Realism:
+
+			_ésta opción nos permitirá indicarle al sistema el punto de inflexión a partir del cual,
+
+			el comenzará ha flexiónar la extremidad ó articulación
+
+
+		_Bend Direction:
+
+			_ésta opción nos permitirá indicarle al sistema la dirección a partir de la cuál, se 
+
+			generará la flexión ó articulación
+
+
+			_lo cuál, nos permitirá generar transiciones suavizadas a través, del tiempo
+
+
+		_Auto Rotate Start:
+
+			_ésta opción nos permitirá indicarle al sistema la rotación de la layer, "root", en éste
+
+			caso la layer, "Hose 2::Hip" 
+
+
+			_de ésta manera, las layers, emparentadas ha ésta layer, heredarán la rotación del sistema
+
+
+		_Auto Rotate End:
+
+			_ésta opción nos permitirá indicarle al sistema la rotación de la layer, "efector", en éste
+
+			caso la layer, "Hose 2::Ankle" 
+
+
+			_de ésta manera, las layers, emparentadas ha ésta layer, heredarán la rotación del sistema
+
+
+
+		_Math Stuff:
+
+
+			_A:
+
+				_(ésta opción estará controlada por el sistema)
+
+
+			_B:
+
+				_(ésta opción estará controlada por el sistema)
+
+
+			_Outer Radius:
+
+				_(ésta opción estará controlada por el sistema)
+
+
+			_Inner Radius:
+
+				_(ésta opción estará controlada por el sistema)
+
+
+			_Straight:
+
+				_(ésta opción estará controlada por el sistema)
+
+
+			_Base Rotation:
+
+				_(ésta opción estará controlada por el sistema)
+
+
+			_AutoFlop:
+
+				_(ésta opción estará controlada por el sistema)
+
+
+			_Parent Scale:
+
+				_(ésta opción estará controlada por el sistema)
+
+
+
+
+
+
+	

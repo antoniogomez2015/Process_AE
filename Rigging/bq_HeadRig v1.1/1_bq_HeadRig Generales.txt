@@ -26,7 +26,14 @@
 	y totalmente animable y con la interpolación gráfica mínima
 
 
-	_
+	_así como también, nos permitirá crear instancias de las diferentes poses del character, por ejemplo; 
+
+	podremos asistir al character, cuando éste está de lado ó está de frente cuando el character, mira hacia
+
+	un lado ó hacia el otro ó hacia el frente
+
+
+	_entre otras muchas posibilidades de animación y producción
 
 
 
