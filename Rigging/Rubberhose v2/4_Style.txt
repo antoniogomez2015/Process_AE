@@ -1,0 +1,216 @@
+
+
+
+
+
+	Rubberhose 2
+
+		http://www.battleaxe.co/rubberhose/
+
+
+		Tutorial:
+
+			Motion+ - Rubber Hose V2 Rigging Script Tutorial - After Effects
+
+				https://www.youtube.com/watch?v=vYXFviD_IZ0&t=464s
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Style:
+	______
+
+	_la sección de "Style", del pluging, aplica sólo a sistema "Rubberhose", ó sistema vectoriales y nodales
+
+	de ésta manera, podremos personalizar el sistema base generado a través, de presets, prestablecidos dentro
+
+	del plging
+
+
+
+
+	Presets:
+	________
+
+	_un vez hemos generado un sistema de tipo "Rubberhose", vectorial ó nodal, debemos de seleccionar la layer,
+
+	del "efector", del sistema generado con el nombre de "Hose 1::Wrist"
+
+
+	_de ésta manera, una vez hemos seleccionada la layer, del efector debemos de ir al pluging, a las opciones
+
+	de "Style", en la cuál, dispondremos de los siguientes presets:
+
+
+
+		_BaseHose
+
+			_ésta opcion nos permitirá indicarle al sistema que deseamos aplicarle al sistema generado
+
+			el diseño base ó sin estilismos al sistema generado, ésta es la opción por defecto
+
+
+		_Edge Highlight:
+
+			_ésta opcion nos permitirá indicarle al sistema que deseamos aplicarle al sistema generado
+
+			un estilo con un resaltado de reflejos para generar volúmen
+
+
+		_Finger Nail:
+			
+			_ésta opcion nos permitirá indicarle al sistema que deseamos aplicarle al sistema generado
+
+			 un etilo de "Dedo"
+
+
+			_de ésta manera, el sistema será mucho más grueso y tendrá una uña
+
+
+		_Knob Knee:
+
+			_ésta opcion nos permitirá indicarle al sistema que deseamos aplicarle al sistema generado
+
+			 un etilo de "Rodilla"
+
+
+			_de ésta manera, el sistema será un poco más grueso y tendrá un contorno negro y a su vez,
+
+			en la fexión de la articulación tendrá una forma de rodilla para generar más naturalidad 
+
+			al sistema generado, el cuál, podremos personalizar posteriormente
+
+
+		_Popeye:
+
+			_ésta opcion nos permitirá indicarle al sistema que deseamos aplicarle al sistema generado
+
+			 un etilo de un braso más grueso pero a su vez redondeado
+
+
+		_Round-ButtCap01:
+
+			_ésta opcion nos permitirá indicarle al sistema que deseamos aplicarle al sistema generado
+
+			 un etilo de color rosado, ésta opción es similar a la opción por defecto de "BaseHose"
+
+
+		_Round-ButtCap02:
+
+			_ésta opcion nos permitirá indicarle al sistema que deseamos aplicarle al sistema generado
+
+			 un etilo de color morado, ésta opcíon es similar a la opción por defecto de "BaseHose"
+
+
+		_Tight Parts:
+
+			_ésta opcion nos permitirá indicarle al sistema que deseamos aplicarle al sistema generado
+
+			 un etilo de brazo más realista, donde el el brazo es más grueso y cónico que el antebrazo
+
+
+			_y a su vez, es redondeado en la parte superior del "root", y en el "efector", tiene una
+
+			manga y a su vez, otra layer, de otro color carne la cuál, emula la piel humana
+
+
+		_Track Suit:
+
+			_ésta opcion nos permitirá indicarle al sistema que deseamos aplicarle al sistema generado
+
+			 un etilo de "brazo con manga de rayas", verticales ó paralelas al brazo
+
+
+		_TwoTone Dash:
+
+			_ésta opcion nos permitirá indicarle al sistema que deseamos aplicarle al sistema generado
+
+			 un etilo de "brazo con manga de rayas", horizontales y perpendiculares al brazo
+
+
+		_TwoTone:
+
+			_ésta opcion nos permitirá indicarle al sistema que deseamos aplicarle al sistema generado
+
+			 un etilo de "brazo más grueso en dos tonos de color", colores perpendiculares al sentido
+
+			del brazo
+
+
+		_Taperred Hose:
+
+			_ésta opcion nos permitirá indicarle al sistema que deseamos aplicarle al sistema generado
+
+			 un etilo de brazo más realista, donde el el brazo es más grueso y cónico que el antebrazo
+
+
+			_y a su vez, es redondeado en la parte superior del "root", y en el "efector", a diferencia 
+
+			de la opción de "Tight Parts", la opción de "Taperred Hose", ésta no tiene una manga y a su 
+
+			vez, otra layer, de otro color carne la cuál, emula la piel humana
+
+
+	
+
+	Menu:
+	_____
+
+
+	_de ésta manera, una vez hemos aplicado el sistema de "Rubberhose", y una vez hemos seleccionado la layer, 
+
+	"Hose 2::Wrist"
+
+
+	_y con ésta layer, seleccionada y a su vez, con un preset, seleccionado podremos realizar una de las 
+
+	siguientes operaciones:
+
+
+
+		_Apply Style:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos aplicar el estilo que tenemos
+
+			seleccionado sobre el sistema generado
+
+
+		_Copy Style:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos copiar un estilo aplicado en
+
+			un sistema generado
+
+
+			_aplicando éste comando con la tecla "Alt", sostenida podremos abrir el panel de presets,
+
+			nativos del sistema para que así, podamos guardas nuestros propios presets, personalizados
+
+
+		_Clear and Paste Copied Style:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos borrar el estilo existente en
+
+			un sistema generado, y pergar el estilo almacenado en memoria de un sistema anterior
+
+
+		_Open the Style Folder:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos abrir el explorador en la
+
+			ubicación donde se encuentran los presets, del sistema
+	
+
+
+
+
+
+
+
+
+	

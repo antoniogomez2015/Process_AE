@@ -36,8 +36,39 @@
 
 
 
+	
+	Audio:
+	______
+
+	_es recomendable incorporar un layer, de audio con el audio en off, para que así, la música y demás
+
+	audios de la animación vayan en layers, a perte de la layer, de los diálogos del character
 
 
+	_para que así, el sistema no tenga problemas de lectura y hayan los mínimos conflictos posibles
+
+
+
+
+	Picos de Audio:
+	_______________
+
+	_de ésta manera, una vez hemos importado el track, de audio en off, de los diálogos del character, en la
+
+	composición respectiva
+
+
+	_podremos seleccionar ésta layer, y hacer "Mouse Right Click", y seleccionar la opción de 
+
+	"Keyframe Assitant"
+
+
+	_y una vez allí, darle a la opción de "Convert Autio to Keyframes", para que así, el sistema realize un
+
+	volvado de los picos del espectro de audio ha keyframes, ó fotogramas claves
+
+
+	_a través, de los cuáles, el sistema podrá controlar el sistema de la boca del character
 
 
 

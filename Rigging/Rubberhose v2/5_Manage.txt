@@ -1,0 +1,200 @@
+
+
+
+
+
+	Rubberhose 2
+
+		http://www.battleaxe.co/rubberhose/
+
+
+		Tutorial:
+
+			Motion+ - Rubber Hose V2 Rigging Script Tutorial - After Effects
+
+				https://www.youtube.com/watch?v=vYXFviD_IZ0&t=464s
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Manage:
+	_______
+
+	_la sección de "Manage", del pluging, aplica a todos los modos ó sistema tanto vectoriales y nodales como
+
+	de pixeles ó importados de otras aplicaciones externas
+
+
+	_de ésta manera, podremos realizar acciones directas por medio de comandos prestablecidos por el sistema
+
+
+
+
+
+	Presets:
+	________
+
+	_un vez hemos generado un sistema debemos de seleccionar la layer, del "efector", del sistema generado con 
+
+	el nombre de "Hose 1::Wrist"
+
+
+	_de ésta manera, una vez hemos seleccionada la layer, del efector debemos de ir al pluging, a las opciones
+
+	de "Manage", en la cuál, dispondremos de los siguientes comandos:
+
+
+
+		_New AutoFlop Control:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos un ángulo de rotación 
+
+			personalizado para le sistema generado
+
+
+			_de ésta manera, con la layer, "Hose 1", seleccionada podremos aplicar el comando 
+
+			"New AutoFlop Control"
+
+
+			_para que así, el sistema genere una layer, auxiliar con el nombre de "Hose 1 AutoFlop",
+
+			a través, de la cuál, podremos mover un ángulo ó punto de rotación de la articulación
+
+			ó extremidad
+
+
+			_para lo cuál, utilizaremos la herramienta de rotación, shortcut "W", para que así, a
+
+			nivel gráfico podamos determinar el grado del rotación dorectamente en el viewport, del
+
+			panel compositing
+
+
+			_lo cuál, a su vez, nos permitirá determinar el punto de inflexión a través, del cuál, el
+
+			sistema invertirá la orientación de la extremidad ó articulación
+
+
+		_Duplicate Selected Hose Group:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos duplicar un sistema generado
+
+			de ésta manera 
+
+
+			_podremos duplicar una extremidad ó articulación previamente configurada y personalizada 
+
+			de forma rápida y práctica
+
+
+		_New Center Point Layer:
+
+			_(indeterminado)
+
+
+		_Rename Hose Group:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos renombrar una layer, 
+
+			seleccionada
+
+
+			_de ésta manera, se abrirá un panel contextual a través, del cuál, podremos indicar un
+
+			nuevo nombre ha asignar a la layer, respectiva ó seleccionar uno de los prestablecidos por
+			
+			el sistema
+
+
+
+		_Show/Hide Controllers:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos ocultar ó visualizar los 
+
+			handles, ó manejadores del sistema
+
+
+			_de ésta  manera, podremos ocultar ó visualizar las layers, de control generadas por el 
+
+			sistema temporalmente
+
+
+		_Select All Layers, in Group:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos seleccionar todas las layers,
+
+			que conforman el sistema a partir de una layer, seleccionada previamente de éste mismos
+
+			sistema
+
+
+		_Bake Math to Keyframes:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos hacer un volcado de un 
+
+			propiedad animada de un controlador como por ejemplo, de un "efector"
+
+
+			_de ésta maenra, debemos de seleccionar una propiedad animada como por ejemplo, "Position",
+
+			y con éstos keyframes, seleccionados aplicar "Bake Math to Keyframes"
+
+
+			_de ésta manera, el sistema hara un pseudo volcado manteniendo los keyframes, existentes
+
+			más eliminará las expresiones aplicadas sobre la propiedad respectiva 
+
+
+			_lo cuál, acelerará el proceso de animación en integración con otros sistemas y layers
+
+	
+
+
+		_Rebert Bake Layers:
+	
+			_ésta opción nos permitirá indicarle al sistema que deseamos deshacer los últimos cambios
+
+			en las trayectorias de animación en las layers, animadas
+
+
+		_Update:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que deseamos actualizar la
+
+			versión del pluging, a la última versión disponible
+
+
+		_Math Selected Controllers Color to Layer Lebels colors:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos cambiar el color de los handles,
+
+			selecionados por el color de los lebels, de las respectivas layers,
+
+
+		_Learn Rubberhose:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos que deseamos ir al sitio web, 
+
+			oficial del pluging
+
+
+		_Rubberhose Settings:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos ir al panel de configuración
+
+			del pluging, en el que podremos personalizar las preferencias del pluging
+
+
+
+
+
+
+
+
+	
