@@ -1,0 +1,83 @@
+
+
+
+
+
+	Joysticks 'n Sliders
+
+		https://aescripts.com/joysticks-n-sliders/
+
+
+
+
+	Tutorial:
+
+
+		Rigging Facial Mario en Español / After Effects
+
+			https://www.youtube.com/watch?v=TwjVb7E_XPc
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	
+	Masking:
+	________
+
+	_una vez tengamos las layers, que conforman el character, organizadas según la lógica de animación y expresión
+
+	del character
+
+
+	_entonces procederemos ha duplicar la layer, base que conforma el contorno principal de la cabeza ó head
+
+
+	_ésta layer, es aconsejable cambiarle el color de referencia de layer, así, como también, es aconsejable 
+
+	renombrar ésta layer, ej: "mask-face"
+
+
+	_para a continuación ir duplicando ésta layer, e ir colocándolas sobre las layers, que van ha tener movimiento
+
+	hacia los lados como por ejemplo; "patillas, nariz, cejas, bicera, otros", y que posiblemente vayan ha salirse 
+
+	del rosto al animar dichas layers, al emular parte de la rotación del rostro
+
+
+	_para posteriormente proceder ha seleccionar ahora todas las layers, a las cuáles, les hemos puesto encima las
+
+	layers, que hemos renombrados como "mask-face", y con éstas seleccionadas vamos a las opciones de "TrackMatte",
+
+	shortcut, "Shift + F4"
+
+
+	_y allí, con las respectivas layers, seleccionadas procederemos ha escoger la opción de "Alpha Matte", para que
+
+	así, el sistema genere un matte, sobre cada una de las layers, para que así, ésta nos se desborden del cortorno
+
+	del rostro a la hora de realizar las animaciones posteriormente
+
+
+	_más ésta misma operación la tendremos que repetir con los ojos, de ésta manera, duplicaremos la layers, que
+
+	conforma la esclerótica del ojo y la colocaremos sobre la layer, de la pupila para luego hacer un "Track Matte"
+
+
+	_para luego seleccionar la opción de "Alpha Matte", para que así, la pupila ya no se desborde más allá de la 
+
+	esclerótica a la hora de animar el ojo, éste mismo proceso lo debemos de repetir para ambos ojos
+
+
+
+
+
+
+
+
+	
+
+
+

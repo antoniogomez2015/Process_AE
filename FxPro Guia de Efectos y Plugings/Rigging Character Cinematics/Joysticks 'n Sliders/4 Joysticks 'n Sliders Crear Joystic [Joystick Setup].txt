@@ -1,0 +1,76 @@
+
+
+
+
+
+	Joysticks 'n Sliders
+
+		https://aescripts.com/joysticks-n-sliders/
+
+
+
+
+	Tutorial:
+
+
+		Rigging Facial Mario en Español / After Effects
+
+			https://www.youtube.com/watch?v=TwjVb7E_XPc
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	
+	Joystick:
+	_________
+
+	_una vez hemos configurados las layers, que conformarán el sistema es hora de generar el sistema de 
+
+	animación para lo cuál, tendremos que seleccionar todas las layers, que conforman el character, shortcut, 
+
+	"Control + A", y con éstas seleccionadas vamos ha generar el sistema:
+
+
+	
+	Joystick Setup:
+	_______________
+
+	_primero debemos de colocar el cabezal del timeline, en el frame "0", y allí generar un keyframes, de todas 
+
+	las layers, shortcut, "Shift + Alt + P"
+
+
+	_para posteriormente abrir el plugins "Joystick'n Sliders", y con todas las layers, seleccionadas darle a la
+
+	opción de "Setup/Origin", para que así, el sistema setee la primera posición base del sistema
+
+
+	_para posteriormente avanzar al siguiente keyframe, ó fotograma, shortcut, "Control + Arrow Right", y a 
+
+	continuación volver ha aplicar "Joystick'n Sliders/Setup/Origin", lo cuál, tendremos que repetir en el 
+
+	siguiente keyframe, hasta que tengamos seteados "5", keyframes, ó fotogramas consecutivos de ésta manera
+
+
+	_lo cuál, nos garantiza que en cada keyframe, generado por el sistema siempre tendremos todas las layers,
+
+	del character, centradas para la posterior animación
+	
+
+	_para que así, el sistema del plugin, genere todos los fotogramas de los diferentes estados que conformarán 
+
+	el sistema, de ésta manera, tendremos setedos los fotogramas "0-1-2-3-4"
+
+
+
+
+
+
+
+	
+
+
+

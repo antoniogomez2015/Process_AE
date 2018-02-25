@@ -22,7 +22,7 @@ Panel Express / Leem's Animation Tools 2
 	Workflow: (Sprites Swapper)
 	_________
 
-	_a continuación vamos ha generar un sistema para el intercambio de instancias de layers, para los 
+	_éste panel nos permitirá generar un sistema para el intercambio de instancias de layers, para los 
 
 	diferentes estados de la animación
 

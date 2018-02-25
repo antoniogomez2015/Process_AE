@@ -22,9 +22,15 @@ Panel Express / Leem's Animation Tools 2
 	Puppet Pins:
 	____________
 
-	_el proceso parte de la creación de un sistema de rig, de una extremidad ó articulación a través, de la
 
-	herramienta de puppet pin, shortcut, "Control + P"
+	_éste panel nos permitirá generar un sistema de rig, convencional a través, de la herramienta puppet pin,
+
+	shortcut, "Control + P", de ésta manera, el pluging, nos asistirá en la generación base de handles, para 
+
+	la creación del rig, posteriormente
+
+
+	_el proceso parte de la creación de un sistema de rig, de una extremidad ó articulación 
 
 
 	_de ésta manera, debemos de seleccionar la layer, la cuál, conforma la etremidad en su totalidad, es decir,
@@ -32,7 +38,7 @@ Panel Express / Leem's Animation Tools 2
 	que por ejemplo, para la extremidad de un brazo, la cuál, estará conformado sólo por una layer
 
 
-	_para a continuación con ésta layer, seleccionada debemos de aplicar puppet pin, en el "root",, en el 
+	_para a continuación con ésta layer, seleccionada debemos de aplicar puppet pin, en el "root", en el 
 
 	"elbow", y en el "efector", de la extremidad ó articulación
 

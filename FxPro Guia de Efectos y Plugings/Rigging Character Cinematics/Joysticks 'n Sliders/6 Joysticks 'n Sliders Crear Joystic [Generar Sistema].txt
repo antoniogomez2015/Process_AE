@@ -1,0 +1,58 @@
+
+
+
+
+
+	Joysticks 'n Sliders
+
+		https://aescripts.com/joysticks-n-sliders/
+
+
+
+
+	Tutorial:
+
+
+		Rigging Facial Mario en Español / After Effects
+
+			https://www.youtube.com/watch?v=TwjVb7E_XPc
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	
+	Generar el Sistema:
+	___________________
+
+	_de ésta manera, una vez ya hemos animados los cuatros estados de la animación del character, es hora de
+
+	generar el sistema
+
+
+	_para lo cuál, debemos de seleccionar todas las layers, del character, shortcut, "Control + A", y con éstas 
+
+	layers, seleccionadas debemos de ir a las opciones de "Joystick'n Sliders/Joystick Tools/", y allí, seleccionar
+
+	la opción de "Create New Joystick!"
+
+
+	_para que así, el sistema genere un nuevo sistema de rig, el cuál, podremos reposicionar y escalar en relación
+
+	a nuestras necesidades
+
+
+	_y a través, del cuál, podremos animar el character con todos los movimientos en conjunto ó al unísono de las 
+
+	cuatro animaciones que hemos realizados previamente
+
+
+
+
+
+	
+
+
+

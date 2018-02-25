@@ -1,0 +1,47 @@
+
+
+
+
+
+	Joysticks 'n Sliders
+
+		https://aescripts.com/joysticks-n-sliders/
+
+
+
+
+	Tutorial:
+
+
+		Rigging Facial Mario en Español / After Effects
+
+			https://www.youtube.com/watch?v=TwjVb7E_XPc
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	
+	Rigging Face Workflow:
+	______________________
+
+	
+
+	Composition:
+	____________
+
+	_debemos de tener un composición de trabajo con las layers, que conformarán el face, del character, de ésta
+
+	manera, tendremos el cortorno base de la cara y por separado también, tendremos la naríz, ojos, pupilas, orejas,
+
+	patillas, bigote, boca, mentón, gorra, bicera, otros, en diferentes layers, unas de las otras
+
+
+
+
+
+
+
+

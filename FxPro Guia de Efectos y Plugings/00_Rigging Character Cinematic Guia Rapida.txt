@@ -1,0 +1,266 @@
+
+
+
+
+
+	Talking Head
+
+		https://aescripts.com/talking-head/
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Rubbertize It v1.0:
+	___________________
+
+	_éste plugins, nos permitirá generar simulaciones colaterales de elementos de blandos a partir de la 
+
+	herramienta puppet tool, y de animaciones existentes de tipo; position, scale, rotation
+
+
+	_de ésta manera, podremos emular los efecto de las fuerzas centrífugas y centrípetas en elementos pseudo
+
+	blandos, abstractos ó en partes characters orgánicos, otros
+
+
+	_ésta herramienta también, es similar al plugins, Overlap, hasta cierto punto
+
+
+
+
+	AutoSway:
+	_________
+
+	_éste plugins, nos pemritirá emular el efecto de las fuerzas centrífugas y centrípetas y a su vez, de las
+
+	físicas de materiales en elementos estáticos influenciados por el viento y no por el movimiento
+
+
+	_por el contrario de los plugins, de "Overlap", y "Rubberize It", que si trabajan directamente con las
+
+	propiedades de position, scale, rotation
+
+
+
+
+	Rubberhose:
+	___________
+
+	_éste plugins, nos permitirá crear sistemas de rig, de extremidades ó articulaciones las cuáles, pueden 
+
+	funcionar por si mismas ó como un todo conformando un character, en su totalidad
+
+
+	_éste plugins, ofrece soporte para tres modalidades de trabajo, donde la más flexible y potente es la
+
+	primera opción de "Rubberhose"
+
+
+	_y en donde las otras dos opciones son a través, de layers, separadas y a través, de layers, unificadas
+
+	por medio de la herramienta puppet pin
+
+
+
+
+	BAO Bones:
+	__________
+
+	_éste efecto nos permitirá generar rigs, de kinemática inversa de forma orgánica y a su vez, por medio de 
+
+	la creación de articulaciones, más con la característica de que el sistema se conforma en una sóla layer
+
+
+	_aunque puede utilizar layers, auxiliares para la generación de characters, compuestos por varias layers, 
+
+	en un sólo sistema
+
+
+	_incluso es posible conformar un rig, de un character, completo en un sólo sistema
+
+
+	_aunque también, el sistema puede renderizarse ó volcarse a layers, auxiliares de tipo null, las cuáles 
+
+	podrán emperentarse ha modo de Duik, ó cualquier otro método convencional de crear rig
+
+
+	_el plugin, lleva más allá las posibilidades que incluso las opciones de los plugins, Duik, y rubberhose, 
+
+	Puppet Tools, otros
+
+
+
+
+
+	Joystick and Sliders:
+	_____________________
+
+	_éste plugins, nos permitirá realizar diferentes riggings, faciales así, como también, realizar diferentes
+
+	controladores para diferentes partes del cuerpo y del mismo rostro a la vez
+
+
+	_de ésta manera, podremos hacer rig, también, de los ojos, bocas otros, como también, crear diferentes 
+
+	handles, a través, de sliders, personalizados para tener así, controles aún más avanzados para crear así,
+
+	un sistema más completo y articulado
+
+
+	_como también, éste pluging, nos permitirá el manejo avanzado de las instancias partes de un character,
+
+	para que así, el character, pueda cambiar de layers, en relacións de las diferentes posturas y perspectivas
+
+	a través, del tiempo, éste plugingn, es una de las mejores opciones para éste proceso
+
+
+
+
+
+	Duik:
+	_____
+
+	_éste plugig, nos permitirá generar sistema de rig, de extremidades y articulaciones como también, de
+
+	characters, complejos tanto en procesos manual ó en proceso totalmente automáticos
+
+
+	_de ésta manera, no sólo dispondremos de herramientas para el proceso de rigging, si no que también,
+
+	dispondremos de herramientas para la aplicación de ayudantes de animación a través, de expresiones más
+
+	utilizadas para el proceso de animación y constraint
+
+
+	_como también, dispondremos herramientas para proceso de interpolación de animación de fotogramas y de
+
+	interpolación espacial
+
+
+	_y a su vez, dispondremos de herramientas de rig, y procesos de cámaras avanzadas dentro del mismo 
+
+	pluging
+
+	
+	_como también, nos brinda la posibilidad de no ser un pluging, invasivo los que nos permitirá integrar 
+
+	el sistema generado con otros plugings, y sistemas, otros
+
+
+
+
+	Puppet Tools 3:
+	_______________
+
+	_éste plugins, nos permitirá crear rigs, de characters, ó parte de characters, a través, de la herramienta
+
+	puppet pins, nativa de la aplicación
+
+
+	_ésta herramienta nos permitirá crear rigs, a través, de articulaciones en una sóla layer, de ésta manera,
+
+	una extremidad conformada por brazo, antebrazo y hasta mano, pueden estar conformada en una misma layer,
+
+	ó composición respectiva
+
+
+	_de ésta manera, a través, de layers, auxiliares de tipo null, éste pluging, nos generará un sistema de
+
+	rigging, automático y totalmente animable
+
+
+	_tanto de kinemática inversa como de kinemática directa, en relación a nuestras necesidades de producción
+
+
+
+
+
+	Talking Head:
+	_____________
+
+	_éste plugins, nos permitirá crear sistemas de rig, para el rostro ó face, para que así, las partes
+
+	expresivas del rostro queden rigieadas
+
+
+	_como por ejemplo, los ojos, las cejas, el mentón ó barbilla y la boca, la cuál, podrá tener tres estados
+
+	los cuáles, pidrían ser la boca abierta, la boca cerra y la boca contraida
+
+	
+	_más el proceso de animación de las instancias de la boca, el sistema los manejará y controlará a través,
+
+	de un volcado ha keyframes, de los picos de audio de una layer, de de tipo autio en la composición 
+
+	respectiva
+
+
+
+
+
+	bq_HeadRig:
+	___________
+
+	_éste  pluging, nos permite hacer rig, y cinemática de todo el rostro de un character, de una forma fácil 
+
+	y totalmente animable y con la interpolación gráfica mínima
+
+
+	_así como también, nos permitirá crear instancias de las diferentes poses del character, por ejemplo; 
+
+	podremos asistir al character, cuando éste está de lado ó está de frente cuando el character, mira hacia
+
+	un lado ó hacia el otro ó hacia el frente
+
+
+	_entre otras muchas posibilidades de animación y producción
+
+
+
+
+
+	Leem's Animation Tools 2:
+	_________________________
+
+	_este pluging, nos brinda una serie de herramientas para realizar diferentes procesos del rigging, de un 
+
+	character, en sus diferentes facetas de producción
+
+
+	_éste pluging, es especialmente potente para el proceso del cambio de partes de un character, a través,
+
+	del tiempo ya que éste dispone de una librería dinámica la cuál, nos hará el proceso mucho más práctico 
+
+	y fluido
+
+
+	_así, como también, posee excelentes herramientas de animación para emular el proceso de "Stop Motion"
+
+
+	_también, tiene la característica de que no es un pluging, invasivo, es decir, que lo podremos combinar
+
+	fácilmente con otros plugins, como Duik, bq_RigHead, Joystick and Sliders, Talking Head, Rubberhose, 
+
+	otros
+
+
+	_éstas herramientas las tendremos divididas en paneles ó secciones las cuales, cumplen diferentes 
+
+	funciones en el tiempo y en diferentes procesos del workflow
+
+
+
+
+
+
+
+
+

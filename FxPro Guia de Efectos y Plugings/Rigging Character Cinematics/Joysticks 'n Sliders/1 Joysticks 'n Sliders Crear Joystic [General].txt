@@ -1,0 +1,54 @@
+
+
+
+
+
+	Joysticks 'n Sliders
+
+		https://aescripts.com/joysticks-n-sliders/
+
+
+
+
+	Tutorial:
+
+
+		Rigging Facial Mario en Español / After Effects
+
+			https://www.youtube.com/watch?v=TwjVb7E_XPc
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	
+	General:
+	________
+
+	_éste plugins, nos permitirá realizar diferentes riggings, faciales así, como también, realizar diferentes
+
+	controladores para diferentes partes del cuerpo y del mismo rostro a la vez
+
+
+	_de ésta manera, podremos hacer rig, también, de los ojos, bocas otros, como también, crear diferentes 
+
+	handles, a través, de sliders, personalizados para tener así, controles aún más avanzados para crear así,
+
+	un sistema más completo y articulado
+
+
+	_como también, éste pluging, nos permitirá el manejo avanzado de las instancias partes de un character,
+
+	para que así, el character, pueda cambiar de layers, en relacións de las diferentes posturas y perspectivas
+
+	a través, del tiempo, éste plugingn, es una de las mejores opciones para éste proceso
+
+
+
+
+
+
+
+

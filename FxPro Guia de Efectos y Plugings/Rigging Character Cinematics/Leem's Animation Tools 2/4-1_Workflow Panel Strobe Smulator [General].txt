@@ -1,0 +1,62 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Strobe Simulator:
+	_________________
+
+	_ésta módulo nos permitirá crear el efecto de strobe en animaciones, efecto similar al obtenido cuando 
+
+	hacemos el efecto demaciado acusado de slow motion, en un video, que los cuadros de animación llegan ha 
+
+	verse, así, como también, a los efectos timming, ó time, como posterize time, entre otros
+
+
+	_especialmente útil para simular el efecto de animación de stop motion, de la animación 2d
+
+
+
+
+	Workflow:
+	_________
+
+	_de ésta manera, con una layer, con una propiedad animada seleccionada ir al panle 
+
+	"Leem's Animation Tools/", e ir a la sección de "Strobe Simulator", y configurar las opciones ó 
+
+	simplemente darle ha "Create", para crear así, el sistema directamente y luego configurar éste
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,59 @@
+
+
+
+
+	Duilk
+
+		https://rainboxprod.coop/en/tools/duik/duik-download/
+
+
+			Ref animacion: http://clterryart.tumblr.com/
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Effects Controls / Duik:
+______________________________
+
+
+	Duik:
+	_____
+
+
+	_éste plugig, nos permitirá generar sistema de rig, de extremidades y articulaciones como también, de
+
+	characters, complejos tanto en procesos manual ó en proceso totalmente automáticos
+
+
+	_de ésta manera, no sólo dispondremos de herramientas para el proceso de rigging, si no que también,
+
+	dispondremos de herramientas para la aplicación de ayudantes de animación a través, de expresiones más
+
+	utilizadas para el proceso de animación y constraint
+
+
+	_como también, dispondremos herramientas para proceso de interpolación de animación de fotogramas y de
+
+	interpolación espacial
+
+
+	_y a su vez, dispondremos de herramientas de rig, y procesos de cámaras avanzadas dentro del mismo 
+
+	pluging
+
+	
+	_como también, nos brinda la posibilidad de no ser un pluging, invasivo los que nos permitirá integrar 
+
+	el sistema generado con otros plugings, y sistemas, otros
+
+	
+
+
+
+
+
+

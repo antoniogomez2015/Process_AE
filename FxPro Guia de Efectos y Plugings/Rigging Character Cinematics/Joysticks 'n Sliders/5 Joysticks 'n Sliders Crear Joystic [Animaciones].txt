@@ -1,0 +1,90 @@
+
+
+
+
+
+	Joysticks 'n Sliders
+
+		https://aescripts.com/joysticks-n-sliders/
+
+
+
+
+	Tutorial:
+
+
+		Rigging Facial Mario en Español / After Effects
+
+			https://www.youtube.com/watch?v=TwjVb7E_XPc
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	
+	Joystick Animation:
+	___________________
+
+	_una vez dispongamos de los keyframes, ó fotogramas configurados procederemos ha realizar las animaciones para
+
+	estado del sistema ha generar
+
+
+
+	DuGr:
+	_____
+
+	_en éste punto es altamente recomendable organizar las layers, ha animar en grupos fácilmente seleccionables
+
+	para un mejor y rápido proceso de animación para lo cuál, podremos hacer uso del plugin "Du-gr", el cuál, nos
+
+	permitirá crear grupos de layers, como "face, gorro, orejas, ojos, otros", lo cuál, nos pemritirá crear 
+
+	movimientos de layers, precisas y rápidos
+
+
+	_de ésta manera, nos ubicaremos en el keyframe, "1", y una vez allí, procederemos ha seleccionar todas las 
+
+	layers móviles del rostro como los son los ojos, cejas, naris, gorra, bicera, vigote, boca, mentón, patillas,
+
+	orejas, otros
+
+
+
+	Animaciones:
+	____________
+
+	
+	_y con éstas layers, seleccionadas procederemos ha desplazar éstas hacia nuestra izquierda ó la derecha del 
+
+	personaje en relación a cuanto deseamos virar el rostro del character, lo más recomendado con cuatro 
+
+	"arrows", del teclado
+
+	
+	_y en el siguiente keyframe, ó fotograma repetir la operación pero ésta vez, hacia nuestra derecha ó 
+
+	izquierda del personaje, virando así, el rostro hacia el sentido opuesto
+
+
+	_y en el siguiente keyframe, ó fotograma proceder ha animar todas las layers, hacia arriba, virando el 
+
+	rostro hacia arriba
+
+
+	_y por último, en el siguiente keyframe, ó fotograma debemos mover todas las layers, hacia abajo virando el 
+
+	rostro hacia abajo
+
+
+
+
+
+
+
+	
+
+
+

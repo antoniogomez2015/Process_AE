@@ -1,0 +1,154 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Properties:
+	___________
+
+
+	_ésta sección del panel nos ofrece los siguientes controles para modificar el sistema ha generar:
+
+
+
+
+		Create:
+
+			_éste botón nos permite generar el sistema sobre una layer, con una propiedad animada y
+
+			seleccionada previamente
+
+
+		Initial Inverval:
+
+			_ésta opción nos permite indicar un intervalo de animación inicial, por defecto son "2"
+
+
+		Range:
+
+			_ésta opción nos permite seleccionar el tipo de criterio de acción en relación al rango
+
+			de animación los cuáles, pueden ser:
+
+
+				
+				Define leter:
+
+					_rango de tiempo desactivado
+
+
+				Entire Comp:
+
+					_éste tomará toda la composición como rango de acción
+
+
+				From Current Time:
+
+					_éste tomará sólo el tiempo actual del cabezal como rango de acción
+
+
+				Up Corrent Time:
+
+					_éste tomará a partir del tiempo actual del cabezal como rango de acción
+
+
+				WorkArea:
+
+					_éste tomará el área enmarcada en el workarea, como rango de trabajo
+
+				
+
+
+		Affected properties:
+
+			_ésta opción nos permitirá definir el alcance sobre las propiedades de una layer, que estén
+
+			animadas, entre las cuales podremos seleccionar las siguientes:
+
+
+			
+				Transforms:
+
+					_éstas se refieren a las propiedades básicas de animación como "position, 
+
+					rotation, scale",..
+
+
+				Selected:
+
+					_éste opción es más específica permitiéndonos seleccionar sólo las 
+
+					propiedades deseadas sobre la layer, directamente ha incorporar dentro del 
+
+					sistema
+
+
+				All Properties:
+
+					_ésta opción incluirá todas las propiedades animables de una layer, dentro 
+
+					del sistema ha generar
+
+
+		Controller Locations:
+
+			_ésta opción nos permite indicar el tipo de controles ha generar como principales y 
+
+			secundarios entre lo cuales disponemos de los siguientes:
+
+	
+				Range | Interval
+
+
+
+		Auto:
+
+			_ésta opción nos permite un automatismo para la generación y cálculo de un sistema 
+
+			automático a partir de la layer, animada seleccionada
+
+
+		Curstom:
+
+			_ésta opción es un plus, ya que ésta nos permite agregar nuevas propiedades al mismos 
+
+			sistema con el objetivo de relacionar ésta nueva propiedad
+
+
+			_agregada al sistema con alguna propiedad especial animada ó de algún efecto adicional 
+
+			de la layer, animada
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

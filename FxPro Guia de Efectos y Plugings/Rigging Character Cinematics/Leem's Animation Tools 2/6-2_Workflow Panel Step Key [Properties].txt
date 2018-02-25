@@ -1,0 +1,152 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Properties:
+	___________
+
+
+	_de ésta manera, el panel de Step Key, nos ofrece los siguientes controles de configuración:
+
+
+		Convert:
+
+			_ésta opción nos permite hacer el volcado de animación ha keyframes
+
+
+
+		Interval:
+
+			_ésta opción nos permite indicar el el factor de simplificación de la trayectoria
+
+			de animación resultante así, como de la interpolación espacial, 
+
+
+			_como también, si la animación será contínua ó "Toggle Hold", ó con fotogramas 
+
+			sostenidos en el tiempo para emular el stop motion
+
+
+			_de ésta manera, entre mayor sea el valor indicado como intervalo ej, "10", más 
+
+			simplicada será la trayectoria de animación resultante 
+
+
+			_y no habrá interpolación espacial en éste punto como tampoco los keyframes, serán 
+
+			normales sino sostenidos ó "toggle hold"
+
+
+
+		Affected Properties:
+
+			_éstas opciones nos permiten indicar el alcance que tendrá el sistema sobre las 
+
+			propiedades existentes y animadas, entre las opciones disponibles tenemos:
+
+
+		
+				_Transform properties:
+
+					_ésta opción es libre y nos permite en el panel checkear las 
+
+					propiedades más generales ha seleccionar y utilizar
+
+
+				_All Properties:
+
+					_ésta opción tomará todas las propiedades existentes para hacer el 
+
+					volcado de animación
+
+					
+
+
+				_Selected Properties:
+
+					_ésta opción tomará las propiedades seleccionadas en la layer, 
+
+					respectiva para hacer el volcado de animación
+
+
+				_Selected Keyframes:
+
+					_ésta opción tomará todos los keyframes, seleccionados para hacer el
+
+					volcado de animación sólo de éstas keyframes, seleccionados
+
+
+
+		Range:
+
+			_ésta opción nos permite seleccionar un criterio para aplicar el rango de acción sobre 
+
+			el timeline, para hacer el volcado de animación, entre los cuales disponemos de los 
+
+			siguientes:
+
+
+
+				Entire Comp:
+
+					_ésta opción tomará como rango de acción toda la duración de la composición
+
+				
+				From Current Time
+
+					_ésta opción tomará como rango de acción sólo el frame, actual donde se 
+
+					encuentre el cabezal del timeline
+
+
+				Up to Current Time:
+
+					_ésta opción tomará como rango de acción a partir del frame, actual donde 
+
+					se encuentre el cabezal del timeline
+
+
+				Workarea:
+
+					_ésta opción tomará como rango de acción toda el área correspondiente a la
+
+					longitud del workarea
+
+
+
+
+	
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

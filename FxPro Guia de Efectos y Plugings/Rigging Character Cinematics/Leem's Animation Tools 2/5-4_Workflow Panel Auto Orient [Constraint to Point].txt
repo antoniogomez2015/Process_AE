@@ -1,0 +1,85 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Definición:
+	___________
+
+
+	_mas también, podremos ir más allá, de sólo hacer que las layers, extras sean auto orientables en relación
+
+	a su rotación original
+
+
+	_si no que ahora también, podremos crear un controlador extra que hará de handle, especial a través, del 
+
+	cuál, podremos controlar la rotación del sistema de layers, extras a través, del tiempo
+
+
+	_de ésta manera, podremos re orientar éxtas layers, extras para la realización de reajustes de animación 
+
+	de la cinemática de la extremidad en su conjunto
+
+
+
+
+
+	Special Handle:
+	_______________
+
+	_de ésta manera, para crear el sistema debemos de seleccionar una de las layers, extra y con ésta 
+
+	seleccionada vamos al pluging, específicamente al panel "Auto Orient", y le damos a la opción de
+
+	"Constraint to Point"
+
+
+	_para que así, una nueva layer, de tipo null, con el nombre de "extra_POINT CONSTRAINT", sea agregada 
+
+	a la composición respectiva
+
+
+	_a través, de la cuál, ahora podremos controlar la rotación u orientación de las layers, extras del
+
+	sistema generado previamente
+
+	
+
+
+
+
+	
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

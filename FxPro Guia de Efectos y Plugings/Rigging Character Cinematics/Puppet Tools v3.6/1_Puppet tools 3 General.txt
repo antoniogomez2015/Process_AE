@@ -1,0 +1,65 @@
+
+
+
+
+
+	Puppet Tools
+
+		https://aescripts.com/puppettools/
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	Puppet Tools:
+	_____________
+
+	_éste plugins, nos permitirá crear rigs, de characters, ó parte de characters, a través, de la herramienta
+
+	puppet pins, nativa de la aplicación
+
+
+	_ésta herramienta nos permitirá crear rigs, a través, de articulaciones en una sóla layer, de ésta manera,
+
+	una extremidad conformada por brazo, antebrazo y hasta mano, pueden estar conformada en una misma layer,
+
+	ó composición respectiva
+
+
+	_de ésta manera, a través, de layers, auxiliares de tipo null, éste pluging, nos generará un sistema de
+
+	rigging, automático y totalmente animable
+
+
+	_tanto de kinemática inversa como de kinemática directa, en relación a nuestras necesidades de producción
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Rigging:
+	________
+
+	_primeramente debemos de creado un sistema de rig, de una extremidad ó articulación por ejemplo, el de una
+
+	pierna la cuál, estará conformada por un handle "root", otro handle "midle", y otro "efector"
+
+
+
+
+	Extras:
+	_______
+
+	_así, como también, el sistema generado tendrá que tener anidada layers, auxiliares ó complementarias del
+
+	sistema, siguiendo el ejemplo anterior de una extremidad ó articulación de una pierna
+
+
+	_ésta también requerirá tener a parte de femur y tibia, la necedad de tener un pie y hasta dedos, de ésta
+
+	manera, las layers, extras serán layer, por a parte del sistema base de la extremidad respectiva
+
+
+	_las cuáles irán emparentadas a la layer, que hace de "efector del sistema", para que así, las layers,
+
+	extras sigan el movimiento de la extremidad ó articulación al ésta ser articulada ó flexionada
+
+
+
+
+	
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

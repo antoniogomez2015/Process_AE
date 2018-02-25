@@ -1,0 +1,77 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Sistema:
+	________
+
+
+	_de ésta manera, una vez generado el sistema a través, de una ó más propiedades animadas y con éstas
+
+	seleccionadas le hemos dado a la opción "CREATE"
+
+
+	_a partir de éste punto, el sistema generará una nueva layer, de tipo null, con el nombre de 
+
+	"New strobe ctrl panel", en la composición respectiva a través, de la cuál, podremos controlar el 
+
+	sistema generado
+
+
+	_para lo cuál, el sistema habrá agregado ha ésta nueva layer, un efecto ha modo de controlador por medio 
+
+	del cuál, podremos indicar el intervalo de animación
+
+
+	_el intervalo por defecto es de "2", entendiendo así, que éstos valores se refieren a la cantidad de
+
+	frames, que deben de pasar para que se realize el siguiente intervalo de transición de animación
+
+
+	_de ésta manera, si indicamos un valor de "0", la transición e interpolación de animación será contínua
+
+	fotograma a fotograma
+
+
+	_más si indicamos por ejemplo, un valor de "5", quiere decir que tendrán que pasar cinco fotogramas para
+
+	que se realize cada intervalo de animación a través, del tiempo
+
+
+	_de ésta manera, entre mayor sea el valor que indiquemos la animación se verá más segmentada emulando así,
+
+	la animación cuadro a cuadro ó "stop motion"
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

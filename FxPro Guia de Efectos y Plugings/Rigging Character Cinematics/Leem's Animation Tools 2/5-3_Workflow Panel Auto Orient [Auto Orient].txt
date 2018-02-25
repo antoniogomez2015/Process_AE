@@ -1,0 +1,75 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Riggins:
+	________
+
+
+	_de ésta manera, una vez hemos ya realizado el rigging, de ambas partes del sistema generado, tanto el
+
+	sistema de la articulación ó extremidad como el rig, de las layers, extras
+
+
+
+
+
+	Constraint to Direction:
+	________________________
+
+	_de ésta manera, podremos ahora seleccionar un de las layers, extras y con ésta seleccionar vamos a las
+
+	opciones del panel "AUto Orient"
+
+
+	_y le damos al botón de "Contraint to Direction", para que así, la layer, respectiva quede signada a la
+
+	dirección actual de la articulación respectiva
+
+
+	_para que así, ahora las layers, extras siempre mantengan su orientación orignal es decir, que ahora
+
+	éstas layers, no rotarán en conjunto con el sistema cuando sea articulado ó flexionado
+
+
+
+
+
+
+
+
+	
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

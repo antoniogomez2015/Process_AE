@@ -1,0 +1,65 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	General:
+	________
+
+
+	_ésta modalidad nos permite en su definición más simple tener la posibilidad de hacer "Bake", ó volcados 
+
+	de animaciones sean éstas de procesos de rigging, ó de animación en general 
+
+
+	_pero con la característica que éste panel nos permite un alto nivel de configuración y de modificaciones 
+
+	disponibles para las trayectorias de animación resultantes, otros
+
+
+	_éste panel a diferencia del panel "Strobe Simulator", es que el panel "Step Key", eliminará la 
+
+	interpolación de tipo bezier, de las trayectorias de animación, por lo demás son bastante similares
+
+
+	como tampoco la opción de "Strober Simulator", tompoco requerirá la utilización de "Hold Kyeframes",
+
+	para la generación del sistema
+
+
+
+
+	
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

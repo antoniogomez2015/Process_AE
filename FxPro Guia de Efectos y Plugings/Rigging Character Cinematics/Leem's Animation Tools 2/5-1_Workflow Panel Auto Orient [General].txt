@@ -1,0 +1,70 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	General:
+	________
+
+
+	_éste panel nos permitirá crear una handle, controlador especial ha modo de "Pole Vector", a través, 
+
+	del cuál, podremos controlar las layers, extras emparentadas ha un sistema de rig, de tipo extremidad
+
+	ó articulación, sistemas mecanicos, otros
+
+
+	_por ejemplo, podremos controlar los dedos ó pesuñas de un extremidad cuando éstos tienen auto 
+
+	orientación propia, es decir, que éstos no obedecen a la rotación de la extremidad cuando ésta es 
+
+	flexionada ó articulada
+
+
+	_de ésta manera, a través, del handle, controlador especial extra, podremos reposicionar la orientación ó
+
+	rotación de éstas layers, extras anidadas del sistema
+
+
+	_para que así, podamos realizar la animación de toda la extremidad ó articulaicón en toda su extrensión
+
+	ó dimensión
+
+
+	_analogía: al igual que un pole vector, controla una rodilla ó knee, de un character, mientras se realiza 
+
+	la animación de kinemática inversa de la extremidad respectiva
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

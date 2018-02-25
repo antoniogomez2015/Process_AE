@@ -1,0 +1,83 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Sistema:
+	________
+
+
+	_primero, debemos de tener una composición de trabajo creada así, como también, layers, animadas sean éstas
+
+	de un character, ó no 
+
+
+
+	_de ésta manera, una vez generado el sistema a través, de una ó más propiedades animadas y con éstas
+
+	seleccionadas le hemos dado a la opción "CONVERT"
+
+
+
+
+	Características:
+	________________
+
+
+	_a partir de éste punto, el sistema convertirá los keyframes, de la propiedad seleccionada de la layer, 
+
+	respectiva cambiando así, el tipo de animación generada
+
+
+	_de ésta manera, a partir de éste punto, los keyframes, de la propiedad animada seleccionada cambiará 
+
+	al tipo de animación de "Hold Keyframe"
+
+
+	_así, como también las interpolación espacial dentro del panel compositing, pasará ha ser en su totalidad
+
+	de tipo "Linear"
+
+
+
+
+	NOTA: éste sistema no agregará layers, adicionales de control a la composición respectiva
+
+
+
+
+
+	
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

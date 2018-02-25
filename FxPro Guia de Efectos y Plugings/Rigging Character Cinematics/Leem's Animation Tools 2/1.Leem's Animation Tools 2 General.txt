@@ -1,0 +1,77 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	General:
+	________
+
+
+	_este pluging, nos brinda una serie de herramientas para realizar diferentes procesos del rigging, de un 
+
+	character, en sus diferentes facetas de producción
+
+
+	_éste pluging, es especialmente potente para el proceso del cambio de partes de un character, a través,
+
+	del tiempo ya que éste dispone de una librería dinámica la cuál, nos hará el proceso mucho más práctico 
+
+	y fluido
+
+
+	_así, como también, posee excelentes herramientas de animación para emular el proceso de "Stop Motion"
+
+
+	_también, tiene la característica de que no es un pluging, invasivo, es decir, que lo podremos combinar
+
+	fácilmente con otros plugins, como Duik, bq_RigHead, Joystick and Sliders, Talking Head, Rubberhose, 
+
+	otros
+
+
+	_éstas herramientas las tendremos divididas en paneles ó secciones las cuales, cumplen diferentes 
+
+	funciones en el tiempo y en diferentes procesos del workflow
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
