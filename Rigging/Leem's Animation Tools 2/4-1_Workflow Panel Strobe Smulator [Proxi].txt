@@ -1,0 +1,48 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Strobe Simulator:
+	_________________
+
+	_ésta opción nos permitirá crear un sistema de layers, de instancias de una parte de un character, a 
+
+	partir de una composición creada y personalizada por nosotros de layers, secuenciadas
+
+
+	
+
+
+	Setting:
+	________
+
+	_
+
+
+
+
+
+
+
+
+
+
+
+

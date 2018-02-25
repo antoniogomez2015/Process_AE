@@ -1,0 +1,89 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Handles:
+	________
+
+	_una vez hemos agregado puppet pins, sobre la layer, correspondiente a la extremidad ó articulación, 
+
+	debemos de desplagar los keyframes, creados en ésta layer, por el efecto "Puppet pins", a través, del
+
+	shortcut, "U/U"
+
+
+	_de ésta manera, podremos seleccionada los keyframes, de los pins, que hemos generado previamente y con 
+
+	éstos seleccionados procedemos ha generar los handles, de controls para lo cuál, debemos de ir al plugin
+
+
+	_a las opciones del panel: 
+
+
+		_"Pin to Parent Create Null Controllers"
+
+
+
+	_y darle al botón "CREATE", para que así, handles, de controls, a través, de layers, de tipo null, sean
+
+	creadas en las posiciones de los puppet pins, que hemos creado previamente
+
+
+	_más antes de de generar los handles, de controls, podremos configurar las opciones del panel como el color
+
+	de los handles, el tamaño
+
+
+	_como también, si deseamos agregar un prefijo y un sufijo al nombre que tendrá cada handle, de control
+
+	
+	_más el nombre de cada handle, corresponderá con el nombre de cada pin, de ésta manera, tenemos dos maneras
+
+	de renombrar los handles, respectivamente:
+
+
+		_la primera forma es renombrando los puppet pins, antes de generar el sistema
+
+		
+		_y la segunda forma es renombrando directamente las layers, handles, generadas por el sistema
+
+
+		_de ésta manera, podremos renombrar éstas layers, como "L_root / L_Midle / L_Efector", otros
+
+
+
+	_de ésta manera, ahora la deformación de la layer, la podremos controlar a través, de los handles, de 
+
+	controls, generados por el sistema
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Parents:
+	________
+
+	_una vez hemos generado el sistema de handles, sobre la layer, base es hora de emparentar éstas layers, 
+
+	sengún la lógica y gerarquía de la extremidad ó articulación, respectiva
+
+
+	_de ésta manera, podremos emparenar la layer, del "efector", la cuál, sea hija de la layer, "Midle", y 
+
+	a su vez que la layer, midle, sea hija de la layer, "Root"
+
+
+	_para lo cuál, debemos de desplegar las opciones de emparentamientos en el panel timeline, shortcut, 
+
+	"Shoft + F4"
+
+
+	_de ésta manera, podremos lograr un sistem de rig, de kinemática directa ó "FK"
+
+
+
+
+
+	Parent Extras:
+	______________
+
+	_y a la estructura de control base de la extremidad ó articulación podremos emparentar layers, extras
+
+	que conformen el character, como manos, pies, pesuñas, props, otros
+
+
+	_para lo cuál, simpplemente debemos de emparentar éstas layers, auxiliares a la última layer, del sistema
+
+	como lo es la layer, handle, que hacer "efector", del sistema generado
+
+
+
+
+
+
+
+
+
+
+
+
+

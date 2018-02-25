@@ -1,0 +1,86 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Workflow: (Sprites Swapper)
+	_________
+
+	_a continuación vamos ha generar un sistema para el intercambio de instancias de layers, para los 
+
+	diferentes estados de la animación
+
+
+	_de ésta manera, por ejemplo; cuando un character, mira hacia la derecha ó está de costado parte de las
+
+	layers, que conforman el character 
+
+
+	_pueden cambiar por layers, las cuáles, también, estén de lado para una mejor representación del character
+
+
+
+
+
+
+	Pre Composición:
+	________________
+
+	_primeramente debemos de tener todas las layers, de las variantes de una parte del character en	específico 
+
+	como por ejemplo, las instancias de una parte del cabello
+
+
+	_las cuáles, debemos de importar dentro de la composición de trabajo ó del character
+
+
+	_de ésta manera, podremos seleccionar éstas layers, correspondientes a las instancias de la parte del
+
+	character, en específico y con éstas layers, seleccionadas 
+
+
+	_proceder ha crear una nueva pre composición para lo cuál, dispondremos del siguiente shortcut, 
+
+	"Control + Shift + C"
+
+
+
+	NOTA: la posición en el viewport, del panel compositing, dependerá de la lógica del character, así,
+
+	como también, de la acción ha realiar
+
+
+	_lo más común es que las instancias del character, estén superpuestas unas sobre otras para que así, unas
+
+	suplanten a las otras a través, del tiempo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Puppet Pins:
+	____________
+
+	_el proceso parte de la creación de un sistema de rig, de una extremidad ó articulación a través, de la
+
+	herramienta de puppet pin, shortcut, "Control + P"
+
+
+	_de ésta manera, debemos de seleccionar la layer, la cuál, conforma la etremidad en su totalidad, es decir,
+
+	que por ejemplo, para la extremidad de un brazo, la cuál, estará conformado sólo por una layer
+
+
+	_para a continuación con ésta layer, seleccionada debemos de aplicar puppet pin, en el "root",, en el 
+
+	"elbow", y en el "efector", de la extremidad ó articulación
+
+
+
+
+

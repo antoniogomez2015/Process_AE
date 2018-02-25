@@ -1,0 +1,56 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Library:
+	________
+
+	_una vez hemos generado el sistema de "Swrapper", podremos hacer uso automáticamente de una librería en la
+
+	cuál, se irán guardando dinámicamente todos los sistema de Swrapper, que vayamos realizando de las 
+
+	diferentes partes del character
+
+
+	_la cuál, nos facilitará el proceso al disponer de una interface, gráfica y visual de los sistema generados
+
+	lo que nos evitará tener que sortear entre los diferentes índices que conforman cada sistema
+
+
+	_ya que en la interface, de la librería, podremos leer y seleccionar el nombre de cada Swrapper, como 
+
+	también, ver de cuantas instancias éste sistema está conformado
+
+
+	_de ésta manera, podremos seleccionar los nombre de cada instancia ha aplicar a través, del tiempo con el
+
+	slider, de un Swrapper, animado a través, del tiempo en el timeline
+
+
+
+
+
+
+
+
+
+
+
+

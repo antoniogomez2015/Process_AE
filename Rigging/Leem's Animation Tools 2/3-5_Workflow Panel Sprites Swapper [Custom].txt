@@ -1,0 +1,98 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Custom:
+	_______
+
+	_más también, tendremos la posibilidad en characters, complejos en los que tengamos pre composiciones
+
+	del sistema en otros composiciones y pre composiciones anidadas y organizadas
+
+	
+	_podremos disponer de éstas composiciones de sistemas y crear accesos directos y controladores 
+
+	personalizados para poder así, utilizar éstos sistemas en los diferentes procesos de animación
+
+
+	_para lo cuál, con ó sin ninguna layer, seleccionada previamente podremos ir al panel "Sprite Swrapper", 
+
+	e ir a la opción de "CUSTOM", a través, de la cuál, se nos despliegará una panel de edición
+
+
+
+	_de ésta manera, ésta panel estará dividido en tres secciones: 
+
+
+		_donde en la primera sección encontraremos un equivalente al panel de "project", en el cuál,
+
+		podremos ubicar las diferentes composiciones existentes en el proyecto respectivo
+
+
+		_y en la segunda sección, encontraremos un explorador en el cuál, podremos ver el contenido de 
+
+		las composiciones que hayamos seleccionado en la sección anterior
+
+
+			_donde éste nivel de navegación corresponderá a la composición abierta en el panel
+
+			timeline,
+
+
+			_de ésta manera, en ésta sección podremos crear una nueva layer, de tipo null, en la 
+
+			que posteriormente podremos agregar un efecto a modo de slider 
+
+
+			_el cuál, será, un controlador de acceso a distancia de las diferentes instancias de un 
+
+			sistema generado en otra composición externa
+
+
+
+		_y en la última sección dispondremos de un explorador a través, del cuál, podremos visualizar
+
+		todos los efectos aplicados sobre una layer, determinada dentro de una composición ó sistema
+
+		respectivamente
+
+
+			_de ésta manera, podremos ubicar una layer, que hayamos creado en el paso anterior en la
+
+			composición abierta en el timeline
+
+
+			_a la cuál, en ésta última sección podremos de crearle un nuevo efecto de tipo slider, a 
+
+			través, del cuál, podremos acceder ha una pre composición anidada externamente 
+
+
+			_y poder así, controlar ó acceder ha un sistema de manera remota
+
+
+
+
+
+
+
+
+
+
+

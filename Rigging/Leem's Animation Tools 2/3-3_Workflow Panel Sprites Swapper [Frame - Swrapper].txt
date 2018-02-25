@@ -1,0 +1,183 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Frame Swrapper:
+	_______________
+
+	_ésta opción nos permitirá crear un sistema de layers, de instancias de una parte de un character, a 
+
+	partir de una composición creada y personalizada por nosotros de layers, secuenciadas
+
+
+	
+
+
+	Setting:
+	________
+
+	_de ésta manera, podremos crear un composición ó pre composición de las layers, que conforman la parte
+
+	del character, que harán de instancias del sistema ha generar
+
+		
+	_y una vez dentro de ésta nueva composición debemos de acortar la duracción el timeline, de ésta 
+
+	composición
+
+
+	_ya que cada instancia ó layer, que conformará el sistema deberá conformar sólo un frame, de duración 
+
+	cada una respectivamente
+
+
+	_de ésta manera, si por ejemplo; el sistema estará conformado de cuatro layers, ó instancias entonces 
+
+	la composición respectiva deberá durar cuatro fotogramas
+
+
+	_para posteriormente proceder ha limitar la duracción de cada layer, que conformará el sistema para que 
+
+	éstas nunca se solapen ó superpongan en ningún momento como layers, unas sobre otras
+
+
+	_es decir, que debemos secuenciar las layers, con un frame, de duración cada una y sin solapamiento
+
+
+
+
+
+	Automatización:
+	_______________
+
+	_más para éste proceso dispondremos de forma nativa de una opción la cuál, realizará el proceso de forma
+
+	automática
+
+
+	_para lo cuál, debemos de seleccionar las layers, respectivas que conformarán las instancias de la parte
+
+	del cuerpo del sistema ha generar
+
+
+	_y con éstas layers, seleccionadas en el panel "Project", debemos de arrastrar éstas layers, al botón de
+
+	crear un nueva composición
+
+
+	_para que así, se nos abra una ventana contextual "New Composition from Selection", a través, de la cuál,
+
+	podremos seleccionar las siguientes opciones:
+
+
+
+		_Create:
+
+
+			_en ésta sección debemos de seleccionar la opción de "Singl Composition"
+
+
+
+		_Option
+
+
+			_en ésta sección debemos de ir ha "Still Duratión", en la cuál, debemos de indicar un 
+
+			tiempo de un frame, por layer, "0:00:00:01"
+
+
+
+		_Secuence Layer:
+
+			_ésta opción la debemos de activar, más la opción de "Overlap", la debemos de dejar
+
+			desactivada
+
+
+
+	_para que así, le demos ha "Ok", y el sistema de layers, en secuencia sea generado automáticamente a
+
+	partir de las layers, seleccionadas previamente
+
+
+	NOTA: el sistema generará el sistema a partir del tamaño referencial de una de las layers, seleccionadas
+
+	para generar el sistema
+
+
+	_de ésta manera, podremos utilizar el pluging, "Ducop", a través, del cuál, podremos posteriormente 
+
+	redimensionar el tamaño de la composición generada por el sistema de secuenciar layers
+
+
+
+
+
+	Generar el Sistema:
+	___________________
+
+	_de ésta manera, una vez hemos creado la composición con las layers, secuenciadas podremos entonces 
+
+	importar ésta composición dentro de la composición del character
+
+
+	_para que así, una vez importada la composición respectiva podremos seleccionar ésta e ir a las opciones
+
+	del panel:
+
+
+		_Sprite Swrapper
+
+
+
+	_en el cuál, podremos darle a la opción de:
+
+
+		_"Create at New Frame-based Swrapper"
+
+
+	_para que así, el sistema sea generado de ésta manera, el sistema agregará a la composición de trabajo una
+
+	nueva layer, con el nombre de "name_SS"
+
+
+	_a través, de la cuál, ha agregado un nuevo efecto controlador del sistema a través, de un slider, el cuál,
+
+	a su vez, estará animado en relación a la duración de la composición del sistema generado
+
+
+	_y también, a partir de la generación del sistema, también, se abrirá el panel "Library", a través, del 
+
+	cuál, podremos administrar las instancias de las layers, que conforman el sistema generado para el proceso
+
+	de animación
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,79 @@
+
+
+
+
+	Leem's Animation Tools 2
+
+		https://aescripts.com/leemsanimationtools/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Express / Leem's Animation Tools 2
+
+
+
+
+	Swrapper:
+	_________
+
+	_de ésta manera, una vez hemos creado la pre composición de las instancias de la parte del character,
+
+	respectivo en el paso anterior
+
+
+	_podremos entonces proceder ha generar el sistema yendo a las opciones de:
+
+
+
+
+		_Panel/Sprites Swapper
+
+
+	
+	_y en éste panel debemos de darle a la opción de:
+
+
+		_"Create a New Layer-based Swapper" 
+
+
+	_para que así, ele sistema genere una nueva layer, de tipo null, con el nombre de "head_base_SSCTRL", 
+
+	a través, de la cuál, podremos controlar las instancias de la parte del character, ha animar
+
+
+	_de ésta manera, ésta layer, generada por el sistema tendrá agregado como efecto un controlador con el
+
+	nombre de:
+
+
+		_Head_base_SS
+
+
+
+	_de ésta manera, a través, de un slider, podremos intercambiar rápidamente entre las instancias dentro de
+
+	la pre composición que hemos creado con las instancias de las partes del character
+
+
+	_para lo cuál, debemos de indicar índices ha modo de "array", es decir, que éstos comenzarán de "0", en
+
+	adelante
+
+
+
+
+
+
+
+
+
+
+
+
+
