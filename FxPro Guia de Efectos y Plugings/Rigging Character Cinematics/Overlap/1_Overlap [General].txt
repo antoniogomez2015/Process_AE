@@ -1,0 +1,55 @@
+
+
+
+
+	Overlap
+
+		http://aescripts.com/Overlap/
+
+
+
+	Overlap Essentials
+
+		https://www.youtube.com/watch?v=ATr5S5M7Ayc
+
+
+	Overlap Tutorial Overlap and Character Rigs
+
+		https://www.youtube.com/watch?v=8OMXvaZ_-ww
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	-----------------------------------------------------------------------------------------------
+
+	Descripción:
+	____________
+
+
+	-este plugins, nos permite emular los efectos de animación como anticipación/delay, squash,
+
+	stretch, otros a través, de un elemento controlador de instancias del motivo principal sean
+
+	éstas identicas ó no al motivo principal
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
