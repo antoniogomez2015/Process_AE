@@ -1,0 +1,61 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Definición:
+	___________
+
+	_una vez hemos creadas y configuradas las layers, tando la layer, que hará de motivo principal como las
+
+	layers, que harán de instancias ó strands, del motivo principal
+
+
+	_de ésta manera, ahora si podremos animar la layer, del motivo principal en relación a la lógica de la 
+
+	escena en una ó varias propiedades de animación, como por ejemplo; "position, rotation, scale, opacity" 
+
+
+	_para que así, éstas propiedades puedan ser relacionadas ó transpoladas a través, del pluging, Overlap,
+
+	por medio de scripts, con las layers, que harán de instancias ó strands, del sistema generado
+
+
+
+
+
+	Animación:
+	__________
+
+	_así, primero debemos seleccionar la layer, del motivo principal ó manejador/driven
+
+
+	_luego, debemos de colocar el cabezal del timeline, en el frame "0"
+
+
+	_para posteriormente proceder ha crear un nuevo keyframe, en las propiedades ha animar, por ejemplo, para 
+
+	la propiedad "Position", shortcut, "Control + Shift + P", "Scale", shortcut, "Control + Shift + S", otros
+
+
+	_para posteriormente proceder ha mover el cabezal del timeliene, hasta una nueva posición en la cuál, 
+
+	podremos igualmente crear nuevos keyframes, hasta terminar la animación deseada de la layer, motivo
+
+
+
+
+
+
+	

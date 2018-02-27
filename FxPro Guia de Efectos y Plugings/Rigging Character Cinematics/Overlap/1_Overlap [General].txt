@@ -20,7 +20,7 @@
 
 
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 
@@ -28,18 +28,129 @@ Panel Preview/Overlap:
 
 
 
-	-----------------------------------------------------------------------------------------------
+	---------------------------------------------------------------------------------------------------------
 
 	Descripción:
 	____________
 
 
-	-este plugins, nos permite emular los efectos de animación como anticipación/delay, squash,
+	_éste plugins, nos permitirá crear dos tipos de sistemas bien diferenciados entre si, los cuáles son; 
 
-	stretch, otros a través, de un elemento controlador de instancias del motivo principal sean
 
-	éstas identicas ó no al motivo principal
 
+		_la generación de "Motion Graphys" 
+
+
+		_como también, efectos de anticipación/delay, squash, stretch, otros, a través, de "FK", e "IK"
+
+	
+
+
+
+	Síntesis:
+	_________
+
+
+		Motion Graphycs:
+		________________
+
+		_de ésta manera, para generar strands, de elementos ó layers, animadas simplemente debemos de
+
+		animar las propiedades de una layer, ej, "Position"
+
+
+		_para posterioriormente tener réplicas ó instancias de ésta layer, animada en la misma posición
+
+		de la layer, animada ó no
+
+
+		_de ésta manera, podremos a través, de "Overlap", relacionar todas las layers, las cuáles, ahora
+
+		segurán el movimiento de la layer, animada como también, serán totalmente controlables por el 
+
+		sistema
+
+
+
+
+
+		Forward Kinematic: (FK)
+		__________________
+
+		_ésta opción nos permitirá generar efectos de fuerzas centrífugas y centrípetas así, como de 
+
+		equilibrio y armonía por ejemplo cuando un character, va caminando y éste mueve las articulaciones 
+
+		de los brazos por el movimeinto	y para mantener el equilibrio
+
+
+		_lo cuál, lo podremos lograr a través, de posibilidades de Overlap, y sis opciones de 
+
+		forward kinematic
+
+
+
+
+
+		Inverse Kinematic:
+		__________________
+
+		_más para los sistema de IK, que hayamos generados podremos agregarle un sistema efectos de fuerzas 
+
+		centrífugas y centrípetas así, como de equilibrio y armonía 
+
+
+		_por ejemplo cuando un character, va caminando y éste tiene apéndise como una antena la cuál, debe 
+
+		de tener un rig, de IK, aplicado
+
+
+		_para que así, a través, de Overlap, y sus opciones de Ik, poder hacer que ésta antena oscile y se
+
+		babolee con la inersia de los movimientos intríncicos en el character, anidado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		_ésta opción nos permitirá a través, de un rig, de una extremidad ó articulación sea ésta 
+
+		compuesta de dos layers, ó de una sóla layers, a través, de la herramienta nativa de puppet pins
+
+
+		_dicho rig, deberá estar generado por lo general a partir de layers, de tipo null, ha modo de 
+
+		handles, para controlar el sistema
+
+
+		_para que así, podamos relacionar la esctructura del sistema como lo son el "root/midle/efectos",
+
+		con el sistema de Overlap
+	
+	
 
 
 

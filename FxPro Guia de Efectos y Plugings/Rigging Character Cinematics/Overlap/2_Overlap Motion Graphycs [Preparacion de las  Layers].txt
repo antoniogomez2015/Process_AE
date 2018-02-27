@@ -1,0 +1,77 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	--------------------------------------------------------------------------------------------------------------
+
+	Layers:
+	_______
+
+
+	_primero necesitamos tener creada una compoisición de trabajo en la cuál, desarrollaremos el sistema
+
+
+	_para luego tener creado una layer, motivo principal ha animar en la escena, éste puede ser una 
+
+	layer, ó una composición 
+
+
+	_lo cuál, es preferible ya que una composición nos permite un mayor rango de acción a la hora de realizar 
+
+	composiciones más complejas y completas
+
+
+	_luego debemos crear y ubicar los elementos, ó instancias de la layer, que relacionaremos con el motivo 
+
+	principal como "strands", del motivo
+
+
+
+
+
+
+
+
+
+
+	_ahora debemos animar el motivo principal en relación a la lógica de la escena en propiedades como
+
+	position, rotation, scale, opacity 
+
+
+	_para que así, éstas propiedades puedan ser relacionadas con los elementos que harán de instancias 
+
+	del motivo principal
+
+
+	_así, primero debemos seleccionar el motivo principal ó manejador/driven, que controlará a los demás
+
+	elementos instancias luego, debemos seleccionar los demás elemento que harán de instancias
+
+
+	_así, con todos los elementos seleccionados tanto el motivo como las instancias vamos ha:
+
+	"Menú Preview/Overlap/", y hacemos "Overlap", así, se abrirá un panel de opciones
+
+
+
+
+
+
+
+
+
+
+
+
+	

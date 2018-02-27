@@ -1,0 +1,57 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Aplicación del Sistema:
+	_______________________
+
+	_de ésta manera, una vez hemos animado propiedades de animación de la layer, que hará de motivo ó 
+
+	manejador/driven
+
+
+	_posteriormente debemos de proceder ha seleccionar todas las layers, en el siguiente orden antes de
+
+	generar el sistema
+
+
+		_Primeramente debemos de seleccionar la layer, con propiedades animadas que hará de motivo
+
+
+		_y a continuación debemos de seleccionar a las demás layers, de harán de instancias ó strands,
+
+		en el orden cronológico ó deseado
+
+
+
+	_de ésta manera, con todas las layers, seleccionadas tanto las layers, del motivo como las layers, de las
+
+	instancias, y todas éstas seleccionadas vamos ha: "Menú Preview/Overlap/", y hacemos "Overlap" 
+
+
+	_así, se abrirá un panel de opciones
+
+
+
+
+
+
+
+
+
+
+
+
+	
