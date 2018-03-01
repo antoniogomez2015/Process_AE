@@ -1,0 +1,259 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Properties:
+	___________
+
+	_
+
+
+
+		_Auto-Orient:
+
+			_ésta opción nos pemritirá indicarle al sistema que active a todas las layer, que 
+
+			conformarán el sistema ha generar
+
+
+			_las opciones de "Auto Orient", abriendo así, el panel "Auto-Orientation", en el cuál,
+
+			debemos de seleccionar la opción de "Orient Along Path"
+
+
+			_de ésta manera, aplicando éste panel "Auto-Orientation", una vez, se aplicará a todas 
+
+			las layers, que conformarán el sistema ha generar
+
+
+		_Rename Driver:
+
+			_ésta opción nos pemritirá indicarle al sistema que le agrege a la layer, que hará de 
+
+			master ó controlar del sistema
+
+
+			_un sufijo con el nombre de "- Driver", quedando renombrada la layer, master de la 
+
+			siguiente manera
+
+
+				_Name - Driver
+
+
+
+		_Offset Controls:
+
+			_ésta opción nos pemritirá indicarle al sistema que agrege un nuevo efecto controlador
+
+			a la layer, master
+
+
+			_el cuál, tiene el nombre de "Position Offset", a través, del cuál, podremos ajustar ó 
+
+			cambiar	la ubicación espacial dentro del viewport, del panel compositing 
+
+
+			_de las layes, que hacen de instancias ó de strands, del sistema generado
+
+
+			_de ésta manera, a través, del efecto "Position Offset", podremos hacer variaciones en 
+
+			las cordenadas "X,Y", de todas las layers, a la vez, y en la misma posición ó cordenada
+
+
+			_como también, podremos hacer variaciones sobre la cordenada "Z", siempre y cuando, las 
+
+			layers, que hacen de instancias ó strands, tendran activada su propiedad "3D", previamente
+
+
+			NOTA: la layer, master controlador, no debe de tener la propiedad "3D", activada
+
+
+			_así, como también, agregará un nuevo efecto con el nombre de "Accepts Offet", a cada
+
+			layer, que hará de instancia ó strands, del sistema generado
+
+			
+			_la cuál, a través, de un checkbox, podremos desactivar el sistema de "Offset", para una
+
+			layer, en específico del conjunto de layers, de conforman el sistema generado
+
+
+
+		_Factor by Index Controls:
+
+			_ésta opción nos pemritirá indicarle al sistema que agrege un nuevo efecto controlador
+
+			a la layer, master
+
+
+			_el cuál, tiene el nombre de "Position Factor", a través, del cuál, podremos ajustar ó 
+
+			cambiar	la ubicación espacial dentro del viewport, del panel compositing 
+
+
+			_de las layes, que hacen de instancias ó de strands, del sistema generado
+
+
+			_de ésta manera, a través, del efecto "Position Offset", podremos hacer variaciones en 
+
+			las cordenadas "X,Y", pero ha modo de factor exponencial, de ésta manera, ésta opción
+
+			irá desfazando las layers, distanciando unas de otras de forma exponencial
+
+
+			_ésta opción es especialmente útil en conjunción con la propiedad de "Offset Controls"
+
+
+			_como también, podremos hacer variaciones sobre la cordenada "Z", siempre y cuando, las 
+
+			layers, que hacen de instancias ó strands, tendran activada su propiedad "3D", previamente
+
+
+
+
+			NOTA: la layer, master controlador, no debe de tener la propiedad "3D", activada
+
+
+
+
+			_así, como también, ésta opción le agregará a cada layer, que hará de instancia ó strand,
+
+			un efecto con el nombre de "Factor Index"
+
+
+			_a través, del cuál, el sistema podrá gerarquizar el sistema de layers, que harán de 
+
+			instancias ó strands 
+
+
+			_así, como también, podremos cambiar el index, de una layer, de forma manual en relación 
+
+			a nuestras necesidades de producción
+
+
+			_de ésta manera, podremos hacer que una layer, que hará de forma predeterminada de 
+
+			instancia ó strands, del sistema generado
+
+
+			_y que ahora se comporte a través, de un "Index", de "0", como otra layer, 
+
+			"Master Controls", 
+
+
+			_ó por ejemplo, que otra layer, instancia, de index, "3", se comporte como otra layer, 
+
+			también, de index, "3", pudiendo haber así, varias layers, de instancia tipo "3", otros
+
+
+		_Maintain Original:
+
+
+			_ésta opción nos permitirá indicarle al sistema que mantenga la posición original de las
+
+			layers, que harán de instancias ó strands, del sistema
+
+
+			_lo que nos permitirá generar otros tipos de efectos y enfoques del sistema, de ésta 
+
+			manera, ya no sólo podremos generar sólo efectos de "Strands", de un movimiento único
+
+
+			_si no que también, podremos generar efectos de cascadas, modulaciones, pantallas, 
+
+			coreografías de secuencias de instancias repetidas en diferentes espacios y tiempo 
+
+			dentro del viewport, del panel compositing
+			
+
+			_ésta opción nos agregará efectos extras al sistema base generado de efectos en la layer,
+
+			master controls
+
+
+		_Invert Controls:
+
+			_ésta opción agregará un efecto con el nombre de "Overlap Invert", a cada layer, que hará
+
+			de instancia ó strand, del sistema generado
+
+
+			_de ésta manera, a través, de un check box, podremos cambiar ó invertir el sentido de la
+
+			animación aplicada
+
+
+			_de ésta manera, los valores de las propiedes animadas heredados de la layer, master
+
+			controls, será invertidos a valores negativos
+
+
+
+		_Index Controls:
+
+			_ésta opción nos agregará efectos extras al sistema base generado de efectos en la layer,
+
+			master controls
+
+
+		_Color Lebels:
+
+			_ésta opción nos agregará efectos extras al sistema base generado de efectos en la layer,
+
+			master controls
+
+
+
+
+
+
+		_Driver Layer Color:
+
+			_ésta opción nos permitirá indicarle al sistema que la layer, master controls, del 
+
+			sistema generado le sea cambiado el color del índice de la layer
+
+
+			_de ésta manera, tendremos a disposición todos los colores nativos de las layers, del
+
+			sistema
+
+
+		Driven Layer Color:
+
+			_ésta opción nos permitirá indicarle al sistema que las layers, que harán de instancias
+
+			ó strands, del sistema generado le sean cambiados el color del índice de la layer
+
+
+			_de ésta manera, tendremos a disposición todos los colores nativos de las layers, del
+
+			sistema
+
+
+		_Phased Layer Color:
+
+			_(Indeterminado)
+
+
+
+		_Defaults:
+
+			_(Indeterminado)
+
+
+

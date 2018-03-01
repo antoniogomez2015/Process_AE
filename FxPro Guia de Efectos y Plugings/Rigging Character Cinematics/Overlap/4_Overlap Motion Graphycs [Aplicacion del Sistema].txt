@@ -36,12 +36,35 @@ Panel Preview/Overlap:
 
 
 
-	_de ésta manera, con todas las layers, seleccionadas tanto las layers, del motivo como las layers, de las
+	_de ésta manera, con todas las layers, seleccionadas, tanto la layer, del motivo como las layers, de las
 
-	instancias, y todas éstas seleccionadas vamos ha: "Menú Preview/Overlap/", y hacemos "Overlap" 
+	instancias, de ésta manera, con todas éstas seleccionadas vamos ha: "Menú Preview/Overlap/", y hacemos 
+
+	"Overlap" 
 
 
-	_así, se abrirá un panel de opciones
+	_así, se abrirá un panel de opciones en el cuál, podremos configurar para parámetros ha incorporar dentro´
+	
+	del sistema ha generar
+
+
+
+
+
+	Layers Settings:
+	________________
+
+	_una vez aplicado el sistema sobre todas las layers, y sin ninguna preferencia u opción aplicada extra como 
+
+	efecto sobre la layer, master ó controls
+
+
+	_las layers, que harán de instancias ó strands, del sistema tomarán la ubicación de la layer, que hará de
+
+	master ó controls
+
+
+	_para que así, se genere el efecto base de "strands", ó instancias para el motion graphics, base
 
 
 

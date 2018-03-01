@@ -1,0 +1,104 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Aplicación del Sistema Shape Layers:
+	____________________________________
+
+	_de ésta manera, una vez hemos animado propiedades de animación de la layer, que hará de motivo ó 
+
+	manejador/driven
+
+
+	_posteriormente debemos de proceder ha seleccionar todos los grupos de formas ó "shapes", en el 
+
+	siguiente orden antes de generar el sistema
+
+
+		_Primeramente debemos de seleccionar el grupo, con propiedades animadas que hará de motivo
+
+
+		_y a continuación debemos de seleccionar a los demás grupos de harán de instancias ó strands,
+
+		en el orden cronológico ó deseado
+
+
+
+	_de ésta manera, con todas los grupos seleccionadas, tanto el grupo, que hará del motivo como los grupos 
+
+	que harán de las instancias, de ésta manera, con todos ésto grupos seleccionadas vamos ha: 
+
+	"Menú Preview/Overlap/", y hacemos "Overlap" 
+
+
+	_así, se abrirá un panel de opciones en el cuál, podremos configurar para parámetros ha incorporar dentro´
+	
+	del sistema ha generar
+
+
+
+
+	Extras:
+	_______
+
+	_los sistemas generados a partir de layers, de tipo shape, y grupos de vectores nodales dispondrán de 
+
+	controles adicionales en el sistema generado a modo de nuevos efectos agregados a la misma layers, de tipo
+
+	shape, base, nuevos efectos como "size", entre otros
+
+
+	_así, como también, al estar todos los grupos de shapes, dentro de la misma layer, todos éstos grupos
+
+	compartirán el mismo punto de anclaje y demás características de la layer, lo que les permitirá poder 
+
+	rotar e interactuar como un todo
+
+
+	_así, como también, de disponer de todas las características de y propiedades extras de las layers, de 
+
+	tipo shape
+
+
+
+
+
+	Layers Settings:
+	________________
+
+	_una vez aplicado el sistema sobre todas las layers, y sin ninguna preferencia u opción aplicada extra como 
+
+	efecto sobre la layer, master ó controls
+
+
+	_las layers, que harán de instancias ó strands, del sistema tomarán la ubicación de la layer, que hará de
+
+	master ó controls
+
+
+	_para que así, se genere el efecto base de "strands", ó instancias para el motion graphics, base
+
+
+
+
+
+
+
+
+
+
+
+
+	

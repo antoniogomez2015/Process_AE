@@ -1,0 +1,106 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Effects Controls:
+	_________________
+
+	_los efectos aplicados sobre la layer, que hará de master, ó controls, serán en relación a la cantidad de
+
+	propiedades animadas incluidas dentro del sistema
+
+
+	_es decir, que para sólo una propiedad como por ej, "Position", sólo se agregará una propiedad por 
+
+	parámetro que incluya efectos sobre la layer, master, ó controls
+
+
+	_más si en el sistema existen más propiedades animadas a la vez, como por ej, "Position", "Scale", 
+
+	"Rotation", entonces en éste caso harán más instancias de los efectos por cada propiedad animada
+
+
+	_de ésta manera, en éste caso habrán por ej, una propiedad "Offset, para "de "Position Offset", 
+
+	"Scale Offset", "Rotate Offset"
+
+
+
+
+
+
+		_Frame Delay:
+
+			_éste efecto se aplica por defecto al generar el sistema base, el cuál, nos permitirá
+
+			controlar el desplazamiento de las instancias, tanto hacia adelante como hacia atras
+
+
+			_en relación a la posición de la layer, master, ó controladora, de ésta manera, podremos
+
+			genear retardos ó adelantamientos de las instancias a través, del tiempo
+
+
+			_para lo cuál, el efecto dispondrá de un slider, a través, del cuál, podremos indicar
+
+			el umbral del "delay", ó retardo 
+
+
+			_por defecto éste valor biene dado en un valor de "5, frames", más podremos aumentar ó 
+
+			disminuir éste valor en relación a nuestras necesidades de producción y paso contínuo
+
+
+
+		Position Offset:
+
+			_éste efecto se aplicará cuando la opción "Offset Controls", esté seleccionada en las 
+
+			opciones del panel del pluging
+
+
+			_de ésta manera, éste efecto nos permitirá desplazar espacialmente en el viewport, del
+	
+			panel compositing, las instancias ó strands, del sistema 
+
+
+			_tanto en las cordenadas "X,Y", como en la cordenada "Z", siempre y cuando las layers, 
+
+			de las instancias respectivas ó strands, tengan activada la propiedad 3D
+
+
+
+			Handle:
+			_______
+
+			_éste efecto dispone den handle, directamente en el viewport, del panel compositing, a
+
+			través, del cuál, podremos hacer desplazamiento secuenciales de todas las layers, que 
+
+			
+			_hacen de instancias ó strands, a partir de la posición de la layer, master, ó controls 
+
+			del sistema generado 
+
+
+			_los cuáles, podrán generar efectos 3d, y de pronfundidad como también, de dinamismo, 
+
+			otros
+	
+
+
+
+
+

@@ -1,0 +1,102 @@
+
+
+
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Panel Workflow:
+	_______________
+
+	_una hez hemos aplicado el pluging, de Overlap, sobre las layers, seleccionadas se nos abrirá un panel
+
+	a través, del cuál, podremos personalizar el sistema ha generar
+
+
+
+
+	Master Layer:
+	_____________
+
+	_de ésta manera, una vez se abre el panel contextual del pluging, éste en la parte superior nos mostrará
+
+	el nombre de la layer master, con la siguiente nomenclatura:
+
+
+		_Driver: master
+
+		_Type Layers
+
+
+	_de ésta manera, el sistema nos estará indicando que la layer, master ó controladora del sistema tiene 
+
+	el nombre de "master", en éste caso
+
+
+
+
+
+	Buttons:
+	________
+
+	_más también, ésta interface, tiene tres botones adicionales a modo de accesos rápidos para poder así,
+
+	a través, de éstos seleccionar todas las layers, ó por el contrario, deseleccionar todas las layers,
+
+	previamente seleccionadas
+
+
+
+		_All:
+
+			_éste botón permite seleccionar todas las propiedades animadas dentro la layer, master
+
+			ó controls, de forma automática
+
+
+
+		_None:
+
+			_éste botón nos permitirá deseleccionar todas las propiedades animadas, de la layer
+
+			master, ó  controls, de forma automática
+
+
+
+		_On/Off:
+
+			_éste botón nos permitirá seleccionar ó deseleccionar las propiedades animadas en la 
+
+			layer, master, ó controls 
+
+
+			_de ésta manera, podremos marginar algunas propiedades animadas que no desiemos incluir 
+
+			en el sistema ha generar
+
+
+
+
+	Options:
+	________
+
+		_éste botón nos permitirá desplegar las opciones de controles extras del sistema ha generar
+
+		en relación a los resultados y requerimientos deseados
+
+
+
+
+
