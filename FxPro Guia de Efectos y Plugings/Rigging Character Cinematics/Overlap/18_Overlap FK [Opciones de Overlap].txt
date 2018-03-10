@@ -1,0 +1,51 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Preferences de Overlap:
+	_______________________
+
+
+	_una vez hemos aplicado el sistema de overlap, sobre las layers, seleccionadas podremos ver en el panel
+
+	contextual que la layer "Master", será la layer "L_Root", la cuál, es la layer, que tiene la propiedad
+
+	de rotación animada del sistema
+
+
+	_para a continuación desplegar las preferencias del panel en las cuáles, sólo debemos de dejas marcadas
+
+	las opciones de:
+
+
+
+		_Offset Control
+
+		_Color Lebels
+
+
+	_para a continuación darle al botón de "OK", para que así, el sistema sea generado
+
+
+	_de ésta manera, a partir de éste punto ahora podremos ver el comportamiento de la extremidad la cuál, 
+
+	se comportará con efectos de cinemática inversa natural y más fluida y rítmica en relación al movimiento
+
+	del character, en general
+
+
+	
+
+

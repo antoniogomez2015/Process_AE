@@ -1,0 +1,32 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Forward Kinematic:
+	__________________
+
+	_ésta plugin, nos permitirá setear ó configurar rigs, de "FK", ó forward kinematic, de extremidades ó
+
+	articulaciones para que éstas respondan a la sinergia y fuerzas de tipo centrífuga y centrípeta
+
+
+	_así, como también, de las fuerzas que aplican sobre el equilibrio y balance del cuerpo de un character, 
+
+	completo
+
+
+
+
+

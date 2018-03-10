@@ -1,0 +1,50 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Aplicar Overlap:
+	________________
+
+
+	_de ésta manera, una vez hemos emparentado la extremidad ó articulación con el character, en movimiento
+
+	y de posteriormente de haber animado el movimiento de la articulación ó extremidad
+
+
+	_es hora de generar el sistema "Overlap", para lo cuál, primeramente debemos de proceder ha seleccionar
+
+	en orden gerárquico las respectivas layers, handles, que conforman el sistema de rig, de la extremidad 
+
+	respectiva	
+
+
+	_de ésta manera, pocederemos ha seleccionar primeramente la layer, que hace de "L_Root", posteriormente
+
+	la layer, correspondiente al "L_Elbow", y por último en éste caso a la layer, que corresponde al 
+
+	"L_Efector"
+
+
+	_para que así, con todas las layers, handles, del sistema procedamos ha ir al plugine "Overlap", y 
+
+	aplicar el botón "Overlap
+
+
+	_para que así, se nos abra el panel de configuración del pluging
+
+	
+	
+
+

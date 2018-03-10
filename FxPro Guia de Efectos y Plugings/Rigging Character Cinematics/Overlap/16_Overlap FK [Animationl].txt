@@ -1,0 +1,48 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Animation:
+	__________
+
+
+	_una vez hemos emparentado la extremidad ó articulación respectiva al character, es hora de proceder ha
+
+	animar la extremidad según la lógica del character, y de la propia extremiada
+
+
+	_por ejemplo; el brazo de un character, en un ciclo de caminata, lo lógico en éste caso es que mientras
+
+	el character, camine el brazo oscile hacia adelante y hacia atras
+
+
+	_de ésta manera, debemos de animar como mínimo un ciclo de éste movimiento, de ésta manera, debemos en el
+
+	frame, "0", animar la layer "Root", rotando ésta hacia atras para rotar así, todo el brazo en su conjunto
+
+
+	_para posteriormente frames, más adelante volver ha animar el brazo rotando la layer, "Root", hacia 
+
+	adelante ésta vez
+
+
+	_de ésta manera, hablemos creado un ciclo de lo que será todo el movimiento regular de la articulación ó
+
+	extremidad respectiva en relación al movimiento del character
+	
+	
+	
+
+

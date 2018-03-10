@@ -1,0 +1,31 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	General:
+	________
+
+
+	_éste plugin, nos permitirá realizar complementos de rigs, especiales para extremidades y articulaciones 
+
+	con cinemática inversa ó "IK"
+
+
+	_para que así, la extremidad respectiva responda a las diferentes fuerzas de la cinemática de los 
+
+	diferentes ciclos de animación de un character, animado y relacionado ha un extremidad respectiva
+	
+
+

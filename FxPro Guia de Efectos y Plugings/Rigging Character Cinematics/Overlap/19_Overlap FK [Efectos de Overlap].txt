@@ -1,0 +1,76 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Efectos de Overlap:
+	___________________
+
+
+	_una vez hemos aplicado el sistema de overlap, sobre las layers, seleccionadas el sistema les aplicará
+
+	ha éstas layers, una serie de efectos en relación a su gerarquía dentro del sistema
+
+
+	_de ésta manera, a la layer, que hace "L_Root", ó layer, animada y primera layer, seleccionada el sistema
+
+	le aplicará los siguientes efectos a través, de los cuáles, podremos controlar el sistema generado:
+
+
+
+
+		_Frame Delay:
+
+			_ésta opción nos permitirá controlar el desface de las fuerzas contrífugas y fuerzas
+
+			centrípetedas inherentes en el movimiento del character, y de la extremidad respectiva
+
+
+		_Rotation Offset:
+
+			_ésta opción nos permitirá controlar el desface de rotación específico en cada punto 
+
+			de la animación ó fuerzas implicadas en el sistema generado
+
+
+
+	_así, como también, en las demás layers, seleccionadas diferentes de la layer, principal ó layer, master 
+
+	en éste caso de la layer, "L_Root"
+
+
+	_el sistema le agregará el efecto de:
+
+
+
+		_Accepts Offset:
+
+			_ésta opción nos permitirá activar ó desactivar el sistema para ésta layer, 
+
+			específicamente
+
+
+
+	_de ésta manera, a través, de los efectos aplicados sobre las layers, partes del sistema de rig, de
+
+	una extremnidad ó articulación
+
+
+	_podremos realizar ajustes de animación y cinemática a través, del tiempo en los diferentes ciclos 
+
+	de animación de un character
+
+	
+
+

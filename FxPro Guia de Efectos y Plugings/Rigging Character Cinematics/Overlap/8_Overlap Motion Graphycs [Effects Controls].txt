@@ -29,10 +29,10 @@ Panel Preview/Overlap:
 
 	_más si en el sistema existen más propiedades animadas a la vez, como por ej, "Position", "Scale", 
 
-	"Rotation", entonces en éste caso harán más instancias de los efectos por cada propiedad animada
+	"Rotation", entonces en éste caso, harán más instancias de los efectos por cada propiedad animada
 
 
-	_de ésta manera, en éste caso habrán por ej, una propiedad "Offset, para "de "Position Offset", 
+	_de ésta manera, en éste caso, habrán por ej, una propiedad "Offset, para "de "Position Offset", 
 
 	"Scale Offset", "Rotate Offset"
 

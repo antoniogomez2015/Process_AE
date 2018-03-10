@@ -1,0 +1,178 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Articulación:
+	_____________
+
+	_primeramente debemos de crear un articulación ó extremidad, por lo general a partir de una layer, única
+
+	y a través, de la herramienta de "Puppet Pins"
+
+
+
+
+
+	Layer:
+	______
+
+	_primeramente debemos de crear una layer, de tipo shape, ó importar un vector ó una imágen con la forma 
+
+	de la articulación base, por ejemplo, una layer, con la forma de brazo y el antebrazo de un character
+
+
+
+
+
+	Puppet Pins:
+	____________
+
+	_para a continuación proceder ha seleccionar la layer, que hará de extremidad y con ésta layer, 
+
+	seleccionada proceder ha activar la herramienta de puppet pin, shortcut, "Control + P"
+
+
+	_para a continuación proceder ha crear un "Pin", a la altura del "Root", de la extremidad 
+
+
+	_otro pin, a la altura de la articulación ó "Elbow", ó codo 
+
+
+	_y por último; un pin, a la altura del efecto ó handle, de la extremiad
+
+
+
+
+
+	Puppet Pins Rename:
+	___________________
+
+	_una vez hemos generado los pins, respectivos de la extremidad ó articulación es recomendable renombrar
+
+	éstos para que así, tengamos una guia visual a la hora de manipular los pins
+
+	
+	_así, como también, para que el sistema no se confunda a la hora de realizar el proceso, como también,
+
+	para otros plugins, y efectos colaterales en el proceso
+
+
+	_de ésta manera, podremos renombrar los pins, generados, shortcut, "E/E", ó "U/U", de la siguiente manera:
+
+
+		_L_Root / L_Elbow / L_Efector
+
+
+
+
+
+	Nulls/Bones/FK:
+	_______________
+
+	_más para controlar el sistema de pins, generado podremos hacer uso del plugin, "Duik", a través, del 
+
+	cuál, podremos generar layers, de tipo nulls, a través, de las cuáles, podremos controlar los pins,
+
+	generados 
+
+
+	_para que así, podamos mover y relacionar éstos pins, y crear así, diferentes sistemas como los son, 
+
+	sistema FK, y sistemas IK
+
+
+	_de ésta manera, podremos seleccionar los pins, que hemos creado y renombrado previamente  y con éstos 
+
+	seleccionados procedemos ha ir ha "Duik/Rig/", y aplicar el botón "Bones"
+
+
+	_para que así, el sistema genere una layer, de tipo null, en la posición de cada pin, seleccionado 
+
+	previamente, la cuáles, a su vez, estarán relacionadas con el pin, respectivo
+
+
+	_de éstam manera, a partir de éste punto habremos creado un sistema "FK", forward kinematic
+
+
+
+
+
+	Handle Rig:
+	___________
+
+	_de ésta manera, una vez hemos creado los nulls, ó handles, a partir de puppet pins, creados previamente
+
+	prodremos ahora crear una layer, handle, especial a través, de la cuál, podremos controlar ó articular 
+
+	todo el sistema
+
+
+	_para lo cuál, debemos de seleccionar el null, ó bone, correspondiente el pin, del efector y con ésta 
+
+	layer, seleccionada proceder ha ir al plugin "Duik/Rigs/", y una vez allí, aplicar el botón "Controller"
+
+
+	_para que así, nos aparezca un menú con las opciones de configuración del handle, ha generar por el
+
+	sistema del plugin,
+
+
+	_de ésta manera, podremos indicar el tamño, forma, color y otros del handle, ha crear en el mismo punto
+
+	que la layer, seleccionada previamente
+
+
+
+
+
+	
+	Parent Handles Bones:
+	_____________________
+
+
+	_para lo cuál, debemos de desplegar las opciones del timeline, de emparentamiento, shortcut, "Shift + F4",
+
+	para que así, a través, de un picker, ó un selector poder emparentar las layers, del sistema
+
+
+	_de ésta manera, una vez hemos generado los handles, ó bones, del sistema de "FK", podremos ahora 
+
+	relacionar éstos en forma de cascada ó gerárquica 
+
+
+	_para que así, podamos mover todo el sistema al unísono como también, para que el sistema en si mismo 
+
+	pueda transferirse las fuerzas entre sus partes a partir de los movimientos colaterales y fuerzas 
+
+	relacionadas
+
+
+	_de ésta manera, emparentaremos el handle master control "C_B_Efector", con la layer, del del "L_ELbow" 
+
+
+	_y a su vez, la layer, del "efector", debemos de emparentarla a la layer, del handle, master control 
+
+	"C_B_Efector" 
+
+
+	_como también, la layer, "L_Elbow", debemos de emparentarla a la layer, "Root"
+
+
+
+
+
+	
+
+
