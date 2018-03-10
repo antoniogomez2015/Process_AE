@@ -1,0 +1,56 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Puppet Pins:
+	____________
+
+	_para a continuación proceder ha seleccionar la layer, que hará de extremidad y con ésta layer, 
+
+	seleccionada proceder ha activar la herramienta de puppet pin, shortcut, "Control + P"
+
+
+	_para a continuación proceder ha crear un "Pin", a la altura del "Root", de la extremidad 
+
+
+	_otro pin, a la altura de la articulación ó "Elbow", ó codo 
+
+
+	_y por último; un pin, a la altura del efecto ó handle, de la extremiad
+
+
+
+
+
+	Puppet Pins Rename:
+	___________________
+
+	_una vez hemos generado los pins, respectivos de la extremidad ó articulación es recomendable renombrar
+
+	éstos para que así, tengamos una guia visual a la hora de manipular los pins
+
+	
+	_así, como también, para que el sistema no se confunda a la hora de realizar el proceso, como también,
+
+	para otros plugins, y efectos colaterales en el proceso
+
+
+	_de ésta manera, podremos renombrar los pins, generados, shortcut, "E/E", ó "U/U", de la siguiente manera:
+
+
+		_L_Root / L_Elbow / L_Efector
+
+
+

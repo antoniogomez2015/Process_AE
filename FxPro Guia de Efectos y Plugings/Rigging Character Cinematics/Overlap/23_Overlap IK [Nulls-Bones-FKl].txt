@@ -1,0 +1,73 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Nulls/Bones/FK:
+	_______________
+
+	_más para controlar el sistema de pins, generado podremos hacer uso del plugin, "Duik", a través, del 
+
+	cuál, podremos generar layers, de tipo nulls, a través, de las cuáles, podremos controlar los pins,
+
+	generados 
+
+
+	_para que así, podamos mover y relacionar éstos pins, y crear así, diferentes sistemas como los son, 
+
+	sistema FK, y sistemas IK
+
+
+	_de ésta manera, podremos seleccionar los pins, que hemos creado y renombrado previamente  y con éstos 
+
+	seleccionados procedemos ha ir ha "Duik/Rig/", y aplicar el botón "Bones"
+
+
+	_para que así, el sistema genere una layer, de tipo null, en la posición de cada pin, seleccionado 
+
+	previamente, la cuáles, a su vez, estarán relacionadas con el pin, respectivo
+
+
+	_de éstam manera, a partir de éste punto habremos creado un sistema "FK", forward kinematic
+
+
+
+
+
+	Handle Rig:
+	___________
+
+	_de ésta manera, una vez hemos creado los nulls, ó handles, a partir de puppet pins, creados previamente
+
+	prodremos ahora crear una layer, handle, especial a través, de la cuál, podremos controlar ó articular 
+
+	todo el sistema
+
+
+	_para lo cuál, debemos de seleccionar el null, ó bone, correspondiente el pin, del efector y con ésta 
+
+	layer, seleccionada proceder ha ir al plugin "Duik/Rigs/", y una vez allí, aplicar el botón "Controller"
+
+
+	_para que así, nos aparezca un menú con las opciones de configuración del handle, ha generar por el
+
+	sistema del plugin,
+
+
+	_de ésta manera, podremos indicar el tamño, forma, color y otros del handle, ha crear en el mismo punto
+
+	que la layer, seleccionada previamente
+
+
+

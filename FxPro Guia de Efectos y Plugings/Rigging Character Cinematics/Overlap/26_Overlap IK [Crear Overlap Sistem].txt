@@ -1,0 +1,56 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Crear Overlap:
+	______________
+
+
+	_una vez hemos emparentado la extremidad con el character, respectivo podremos ahora generar el sistema
+
+	de overlap
+
+
+	_para lo cuál, primeramente debemos de seleccionar una layer, que tiene al menos una propiedad de animación
+
+	activada 
+
+
+	_por lo general siempre será una layer, del character, la cuál, ya tendrá una cinemática de animación por 
+
+	lo general en ciclo
+
+
+	_para posteriormente seleccionar la layer, correspondiente al "efector", de la extremidad respectiva y
+
+	con ambas layers, seleccionadas ir a las opciones del pluging, "Overlap", y una vez allí, darle al botón
+
+	de "Overlap"
+
+
+	_para que así, nos aparezcan las opciones de configuración del pluging, para posteriormente proceder ha
+
+	desplegar las "Propiedades", del pluging, y dejar allí, sólo activada la opción de "Maintain Original"
+
+
+	_para posteriormente darle a la opción de "OK", para que así, el sistema sea generado en el cuál, 
+
+	podremos ver que ahora el efecto de la extremidad respectiva ahora oscila en relación al movimiento de
+
+	la cinemática del character, y el propio movimiento y articulación de la extremidad respectiva
+
+
+
+

@@ -1,0 +1,44 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Crear Overlap:
+	______________
+
+
+	_primeramente debemos de ubicar la extremidad en la posición correcta según la lógica del character, y de
+
+	la propia extremidad respectiva
+
+
+	_para posteriormente proceder ha desplegar las opciones de emparentamiento en el panel timeline, shortcut,
+
+	"Shift + F4"
+
+	
+	_para luego proceder ha emparentar la layer, que corresponde con "L_Root", de la extremidad respectiva con
+
+	la layer, correspondiente al character, la cuál, puede ser un "shoulder, hips, chest, foots, toe, otros"
+
+
+	_de ésta manera, ahora la extremidad respectiva se moverá en conjunto en relación a la cinemática del 
+
+	character, respectivo, excepto el "efector", de la extremidad respectiva, el cuál, será controlado a 
+
+	través, del sistema de "Overlap"
+
+
+
+

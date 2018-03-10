@@ -17,6 +17,7 @@ Panel Preview/Overlap:
 	Articulación:
 	_____________
 
+
 	_primeramente debemos de crear un articulación ó extremidad, por lo general a partir de una layer, única
 
 	y a través, de la herramienta de "Puppet Pins"
@@ -31,6 +32,11 @@ Panel Preview/Overlap:
 	_primeramente debemos de crear una layer, de tipo shape, ó importar un vector ó una imágen con la forma 
 
 	de la articulación base, por ejemplo, una layer, con la forma de brazo y el antebrazo de un character
+
+
+
+
+
 
 
 

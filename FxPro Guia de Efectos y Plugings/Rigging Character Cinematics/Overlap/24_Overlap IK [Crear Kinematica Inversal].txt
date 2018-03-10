@@ -1,0 +1,56 @@
+
+
+http://aescripts.com/Overlap/
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Panel Preview/Overlap:
+
+
+
+	----------------------------------------------------------------------------------------------------------
+
+	Inverse Kinematic:
+	__________________
+
+
+	_una vez hemos creado las layers, que harán de bones, ó handles, del sistema de la articulación respectiva
+
+	podremos ahora crear el sistema de "IK", a través, igualmente del pluging, Duik
+
+
+	_para lo cuál, debemos de seleccionar las layer, generadas por el sistema en el siguiente orden:
+
+
+
+		_L_Efector + L_Elbow + L_Root + L_ArmController
+
+
+
+	_de ésta manera, con éstas layers, seleccionadas en éste orden podremos ir a las opciones del plugins,
+
+	yendo ha "Duik/Rigs/", y allí, darle al botón de "IK"
+
+
+	_para que así, nos aparezcan las opciones de tipos de IK, en el panel del plugin Duik, en la cuál, debemos
+
+	de escoger la opción de extremidad de des partes y una auxiliar para a continuación darle al botón "Create"
+
+
+	_de ésta manera, el sistema de IK, se habrá generado, de ésta manera, ahora al mover la layer, "Controller",
+
+	ahora se moverán también, los demás handles, ó layers, de tipo null, de forma colateral al movimiento 
+
+	de la layer, controller
+
+
+	_con todas las características de la kinematica inversa
+
+
+
+
+
