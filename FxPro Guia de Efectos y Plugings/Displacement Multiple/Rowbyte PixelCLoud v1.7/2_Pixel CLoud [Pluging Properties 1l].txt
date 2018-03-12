@@ -1,0 +1,211 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	Plugins Properties:
+	___________________
+
+
+	_About:
+
+
+		_Source Layer:
+
+			_
+
+
+		_Position Pass:
+
+			_
+
+
+		_Normal Pass:
+
+			_
+
+
+		_Alternate Normal Pass:
+
+			_
+
+
+		_Render Mode:
+
+	
+			_None:
+
+				_
+
+
+			_2D Relight:
+
+				_
+
+
+			_Half:
+
+				_
+
+
+			_Third:
+
+				_
+
+
+			_Quarter:
+
+				_
+
+
+			_Eighth:
+
+				_
+
+
+			_32bpc 2D Position:
+
+				_
+
+
+			_32bpc 2D Normal:
+
+				_
+
+
+			_32bpc Position:
+
+				_
+
+
+			_32bpc Normal:
+
+				_
+
+
+
+		_Cama Relative:
+
+			_
+
+
+
+		_Relight Diffuse:
+
+			_
+
+
+		_Relight Specularity:
+
+			_
+
+
+		_Relight Alpha:
+
+			_
+
+
+
+
+	_Alpha Options:
+		
+		
+		_Alpha has Normal:
+
+			_
+
+
+		_Invert Lit ALpha:
+
+			_
+
+
+		_Composite Alpha:
+
+			_
+
+
+		_Composite ALpha Color:
+
+			_
+
+
+		_Composite Alpha Blending:
+
+
+			_Add:
+
+				_
+
+
+			_Screen:
+
+				_
+
+
+			_Overlay:
+
+				_
+
+
+			_Normal:
+
+				_
+
+
+			_Multipy:
+
+				_
+
+
+			_Averaged:
+
+				_
+
+
+
+	_Enable Falloff:
+
+		_
+
+
+	_Diffuse/Spec Falloff Bias:
+
+		_
+
+
+	_Image Bassed Light:
+
+		_
+
+
+
+
+
+
+
+
+
+
+
+

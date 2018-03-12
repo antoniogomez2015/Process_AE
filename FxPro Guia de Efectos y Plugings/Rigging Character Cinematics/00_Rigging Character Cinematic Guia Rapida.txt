@@ -261,6 +261,23 @@
 
 
 
+	Overlap:
+	________
+
+	_éste plugins, nos permitirá crear dos tipos de sistemas bien diferenciados entre si, los cuáles son; 
+
+
+
+		_la generación de "Motion Graphys" 
+
+
+		_como también, efectos de anticipación/delay, squash, stretch, otros, a través, de "FK", e "IK"
+
+
+
+
+
+
 
 
 

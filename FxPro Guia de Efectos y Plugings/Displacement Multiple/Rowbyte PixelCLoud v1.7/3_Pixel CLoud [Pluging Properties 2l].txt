@@ -1,0 +1,234 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	Plugins Properties:
+	___________________
+
+
+	_IBL Options:
+
+
+		_Use ALt Normal:
+
+			_
+
+
+		_IBL Anti-alias:
+
+			_
+
+
+		_IBL Gain:
+
+			_
+
+
+		_IBL Rotation X | Y | Z:
+
+			_
+
+
+
+	_Reflection Map:
+
+		_
+
+
+
+	_Reflecion Map Options:
+
+
+		_Use Alt Normal:
+
+			_
+
+		_Reflection Anti-alias:
+
+			_
+
+	
+		_Reflection Strength:
+
+			_
+
+
+		_Reflection Blending Mode:
+
+
+			_Add:
+
+				_
+
+
+			_Screen:
+
+				_
+
+
+			_Overlay:
+
+				_
+
+
+			_Normal:
+
+				_
+
+
+			_Multipy:
+
+				_
+
+
+			_Averaged:
+
+				_
+
+
+
+		_Reflection Mask:
+
+			_
+
+
+		_Reflection Mask Mapping:
+
+
+			_Luma:
+
+				_
+
+
+			_Red | Green | Blue:
+
+				_
+
+
+			_Alpha:
+
+				_
+
+
+		_Reflection Rotation X | Y | Z:
+
+			_
+
+
+		_Enable Grid:
+
+			_
+
+
+
+
+	_Grid Options:
+
+		
+		_Grid Size:
+
+			_
+
+
+		_Grid Divisions:
+
+			_
+
+
+		_Grid Position X | Y | Z:
+
+			_
+
+
+	
+	_Gain Adjusment:
+
+		
+		_Uniform Gain:
+
+			_
+
+		
+		_Gain:
+
+			_
+
+
+		_Gain Y | Z:
+
+			_
+
+
+	
+	_Position Pass Adjustment:
+
+		
+		_Map RGB To:
+
+
+			_XYZ MIX:
+
+				_
+
+
+			_Luma Z:
+
+				_
+
+
+			_Red | Green | Blue Z:
+
+				_
+
+
+			_Luma Z Proj:
+
+				_
+
+
+			_Red | Green | Blue Z Proj:
+
+				_
+
+
+
+		_Invert X | Y | Z:
+
+			_
+
+
+		_Curved Projection:
+
+			_
+
+
+
+
+
+
+
+
+
+
+

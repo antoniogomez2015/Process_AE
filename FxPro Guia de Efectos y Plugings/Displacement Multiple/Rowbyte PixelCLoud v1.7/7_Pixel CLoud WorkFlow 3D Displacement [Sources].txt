@@ -1,0 +1,159 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	Sources:
+	________
+
+
+	_primeramente debemos de crear una composición al tamaño de las layers, ó pases de render ha utilizar
+
+	para el proceso
+
+
+	
+
+	Layers:
+	_______
+
+	_debemos de tener las siguientes layers, en orden ascendente en la composición respectiva
+
+
+
+		BG:
+		___
+
+
+		_es recomentable tener una layer, que haba de "background", ó fondo sobre la cuál, crearemos 
+
+		la composición del sistema generado
+
+
+		
+		Motivo:
+		_______
+
+
+		_debemos de tener una layer, base ó motivo la cuál, por lo general tendrá canal alpha, ó 
+
+		estará recortada del fondo, a partir de la cuál, se generará el sistema
+
+
+
+		Depth Map:
+		__________
+
+		_así, como también, debemos de tener una layer, de tipo depth map, la cuál, podrá ser un 
+
+		render pass, en relación de la layer, motivo
+
+
+
+			Depth Map Pass:
+			_______________
+
+
+			_de ésta manera, si la layer, motivo es un render 3d, podremos hacer ó generar también, 
+
+			un pase de depth map, a través, del cuál, podremos generar el sistema
+
+
+			_en los casos en los que generemos un render ha "32bts", de un depth map, debemos en 
+
+			after effects, posteriormente en el panel "Project", de activar la opción de 
+
+			"Preserve RGB", sobre el recurso respectivo, shortcut, "Control + ALt + G"
+
+
+			_para que así, se nos abra el panel "Interpret Footage", en el cuál, debemos de ir la
+
+			pestaña de "Color Management", y activar allí, la opción de "Preserve RGB"
+
+
+
+			Mapa de Densidad:
+			_________________
+
+			_más si la layer, motivo es una imágen genérica ó del mundo real, podremos en éste caso 
+
+			crear un mapa de densidad ó depth map, personalizado
+
+
+			_el cuál, lo podremos hacer en la aplicación Photoshop, ó en el mismo After Effects, 
+
+			yendo a las opciones de "Paint"
+
+
+			_de ésta manera, debemos de ir creando en una layer, nueva un pintado de tonos de "gris",
+
+			los cuáles representarán los planos del "depth map"
+
+
+			_en relación de los planos más próximos y más lejanos según la lógica de la imágen
+
+
+			_donde los tonos de gris más oscuros representarán los planos más lejanos y los tonos 
+
+			más claros representarán los planos más cercanos
+
+
+
+			Mapa de Densidad Espacial: (Buena Depth Cue)
+			__________________________
+
+			_más en motivos que están compuestos por más de una layer, en una composicion anidada
+
+			en éste caso podremos hacer uso de un pluging, yendo ha "Effects/Digieffects_BDC_v2.5/",
+
+			y seleccionando la opción de "DE_Depth", "ver tutorial y estudio de éste pluging"
+
+
+			_a través, del cuál, podremos generar un mapa de densidad ó depth map, a partir de la
+
+			diferencia de planos 3D, de las diferentes layers, de la composición motivo ó respectiva
+
+
+
+		Proxi:
+		______
+
+		_así, como también, requeriremos de una layer, auxiliar que puede ser una layer, de tipo solid,
+
+		a través, de la cuál, podremos cargar el efectos de Pixel Cloud, yendo ha "Effects/Blurrypixel/",
+
+		y allí, seleccionar la opción de Pixel Cloud
+
+
+		_para que así, el pluging, sea aplicado y podamos comenzar con el proceso posteriormente
+
+
+
+
+
+
+
+
+
+
+

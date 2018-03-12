@@ -1,0 +1,251 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	Plugins Properties:
+	___________________
+
+
+	_Scatter Adjustment:
+
+
+		_Uniform Scatter:
+
+			_
+
+
+		_Scatter Y | Z:
+
+			_
+
+
+		_Random Seed:
+
+			_
+
+
+
+	_Pixel Position Offset:
+
+
+		_Anchor Point X | Y | Z:
+
+			_
+
+
+		_Position Offset X | Y | Z:
+
+			_
+
+
+		_Rotation Offset X | Y | Z:
+
+			_
+
+
+		_Uniform Scale Adjust:
+
+			_
+
+
+		_Scale Adjust:
+
+			_
+
+
+		_Scale Adjust Y | Z:
+
+			_
+
+
+
+
+	_Link Reference Camara:
+
+
+		_
+
+
+
+	_Ref Camara Transform:
+
+
+		_Reference Cam Pos X | Y | Z:
+
+			_
+
+
+		_Reference Cam Zoom:
+
+			_
+
+
+
+	_Resolution:
+
+		_
+
+
+	_Pixel Size:
+
+		_
+
+
+	_Enable Persp Pixel:
+
+		_
+
+
+	_PP Predisplaced Reference:
+
+		_
+
+
+	_Persp Pixel Grow:
+
+		_
+
+
+	_Enable Pixel ANto-alias:
+
+		_
+
+
+
+	_Anto-alias Options:
+
+
+		_AA Alpha Offset:
+
+			_
+
+
+		_AA Offset X | Y:
+
+			_
+
+
+		_Displace Subpixel AA:
+
+			_
+
+
+		_Persp Pixel AA:
+
+			_
+
+
+		_Ideal Pixel Lock:
+
+			_
+
+
+
+	_Soft Pixel:
+
+		_
+
+
+	_Soft Pixel Bias:
+
+		_
+
+
+
+	_Pixel Blending Mode:
+
+
+		_Mix:
+
+			_
+
+
+	
+	_Pixel Texxture Adjustment:
+
+
+		_Texture:
+
+			_
+
+
+		_Lifespan:
+
+			_
+
+
+		_Lifespan Mapping:
+
+			_
+
+
+		_Stencil Alpha:
+
+			_
+
+
+		_Texture BLending Mode:
+
+
+			_Mix:
+
+				_
+
+
+
+
+	_Effect Camara Transform:
+
+
+		_Camara Position X | Y | Z:
+
+			_
+
+
+		_Camara Rotation X | Y | Z:
+
+			_
+
+
+		_Zoom:
+
+			_
+
+
+
+
+		
+
+
+		
+
+
+
+
+
+
+
+
+
+

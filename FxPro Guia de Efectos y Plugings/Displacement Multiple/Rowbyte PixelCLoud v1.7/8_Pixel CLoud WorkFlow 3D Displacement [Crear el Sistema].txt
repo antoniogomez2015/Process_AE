@@ -1,0 +1,189 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	Crear el Sistema:
+	_________________
+
+
+	_primeramente debemos de ocultar todas las layers, que conformarán el sistema, como las layers, "Motive",
+
+	"Depth", dejando visibles sólo las layers, "Bg", y la layer, "Pixel Cloud"
+
+
+
+
+
+	Pre Componer:
+	_____________
+
+	_es altamente recomendable pre componer la layer, que hará de depth map, para que el sistema no tenga
+
+	problemas en interpretar la información sin confundirse con los efectos de pintura, así, como también,
+
+	entre otro tipo de efectos y propiedades de ésta layer
+
+
+	_como también, debemos de repetir éste proceso de pre composición para la layer, que hará de "source",
+
+	ó "motive"
+
+
+
+
+	Camara:
+	_______
+
+	_a continuación debemos de crear una nueva cámara, por lo general de "50mm", en la composición respectiva 
+
+	a la cuál, le debemos de dar el nombre de "shortCam", la cuál, debemos de colocar como capa superior en
+
+	la composición respectiva
+
+
+	_así, como también, debemos de crear otra cámara ó duplicar la que ya creamos anteriormente para 
+
+	posteriormente proceder ha renombrar ésta cámara duplicada con el nombre de "refCam", más ésta nueva 
+
+	cámara la debemos de colocar en la parte más baja de la composición respectiva
+
+
+
+
+
+	Source Layer:
+	_____________
+
+	_para a continuación proceder ha generar el sistema para lo cuál, primeramente debemos de ir al pluging,
+
+	específicamente a las opciones de "About/Source Layer", en la cuál, debemos de seleccionar la layer,
+
+	que corresponderá con el "Motivo"
+
+
+
+
+
+	Depth Layer:
+	____________
+
+	_para a continuación ir al pluging, específicamente a las opciones de "About/Possition Layer", en la cuál, 
+
+	debemos de seleccionar la layer, que corresponderá con el "Depth Map"
+
+
+
+
+
+	Link Reference Camara:
+	______________________
+
+	_para a continuación proceder ha configurar la cámara de referencia del sistema, yendo ha las opciones de
+
+	"Link Reference Camara/", y una vez allí, darle al botón de ícono de cámara
+
+
+	_para que así, se nos abra un panel contextual en el podremos seleccionar la cámara con el nombre de
+
+	"refCam", que hemos creado previamente en pasos anteriores
+
+
+	_lo cuál, permitirá que el sistema ahora controle las opciones de "Position", de la cámara "refCam", a
+
+	través, de las opciones de "Pixel Cloud/Ref Camara Transform/Reference Cam Pos X | Y | Z | Zoom", a 
+
+	través, de expresiones
+
+
+
+
+	Position Pass Adjustment:
+	_________________________
+
+	_para posteriormente ir a la sección de "Position Pass Adjustment/", y en las opciones de "Map RGB To",
+
+	seleccionar la opción de "Luma Z Project", para que así, a partir de éste punto ya pueda visualizarse
+
+	la imágen base ó "Source", ó layer, "Motive"
+
+
+	_así, como también, debemos de darle a la opción de "Invert Z", activando ésta opción
+
+
+
+
+
+	Gain Adjustment:
+	________________
+
+	_para posteriormente ir a las opciones de "Gain Adjustment/", y allí, desactivar la opción de 
+
+	"Uniform Gain"
+
+
+	_para que así, ahora en la opción de "Gain Z", podamos indicar un valor en éste caso de "512"~
+
+
+
+
+
+
+	Animation:
+	__________
+
+	_de ésta manera, a partir de éste punto, ya podremos utilizar el sistema puediendo así, orbitar el
+
+	sistema 3D, a través, de la cámara "shortCam" 
+
+
+	_la cuál, se activará automáticamente al utilizar el shortcut, "C/C", ya que la otra cámara "refCam", 
+
+	estará controlada por el sistema a través, de expresiones
+
+
+	_el sistema de partículas generado por lo general suele ser pesado por lo que es recomendable colocar 
+
+	el modo de visualización de "Fast Previews", específicamente la opción de "Fast Draft", shortcut, 
+
+	"Control + Alt + 4", para que así, la pre visualización vaya más rápido
+
+
+	_como también, dispòndremos de la opción de "Pixel Cloud/About/Render Mode", en la cuál, podremos 
+
+	seleccionar una de las opciones como "Quarter", "Third", "Half", otros
+
+
+	_de ésta manera, éstos modos de visualización ligeros nos permitirán poder componer y animar el sistema
+
+	de partículas 3D, generado a través, del tiempo y el espacio de una forma más fluida y apreciable
+
+
+
+
+
+
+
+
+
+

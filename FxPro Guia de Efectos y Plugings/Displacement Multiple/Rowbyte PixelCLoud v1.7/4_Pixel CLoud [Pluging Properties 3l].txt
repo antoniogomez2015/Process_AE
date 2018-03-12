@@ -1,0 +1,199 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	Plugins Properties:
+	___________________
+
+
+	_Normal Pass Adjustment:
+
+
+		_Normal Invert X | Y | Z:
+
+			_
+
+
+		_Normal Rotation X | Y | Z:
+
+			_
+
+
+		_CBackfaces:
+
+			_
+
+
+		_Opposing Normals:
+
+			_
+
+
+		_Relight Backfaces:
+
+			_
+
+
+		_Remap Values:
+
+			_
+
+
+
+		_Remap Adjustment:
+
+
+			_X | Y | Z Min:
+
+				_
+
+
+			_X | Y | Z Max:
+
+				_
+
+
+
+
+	_Specular Pass Adjustment:
+
+
+		_Use Alt Normal:
+
+			_
+
+
+		_Specular Mask:
+
+			_
+
+
+		_Specular Mask Mapping:
+
+
+			_Luma:
+
+				_
+
+
+			_Red | Green | Blue:
+
+				_
+
+
+			_Alpha:
+
+				_
+
+
+		_Specular Intensity:
+
+			_
+
+
+		_Specular Shininess:
+
+			_
+
+
+		_Hard Specularity:
+
+			_
+
+
+		_Use Light Color:
+
+			_
+
+
+		_Specular Color:
+
+			_
+
+
+
+
+	_3D Displacement:
+
+
+		_3D Displacement Layer:
+
+			_
+
+
+		_3D Displacement:
+
+			_
+
+
+		_Remap Adjustment:
+
+
+			_Uniform Displacement:
+
+				_
+
+
+			_Displace Min:
+
+				_
+
+
+			_Displace Max:
+
+				_
+
+
+			_X | Y Min:
+
+				_
+
+
+			_X | Y Max:
+
+				_
+
+
+			_Rotation Displace X | Y | Z:
+
+				_
+
+
+
+
+
+		
+
+
+		
+
+
+
+
+
+
+
+
+
+

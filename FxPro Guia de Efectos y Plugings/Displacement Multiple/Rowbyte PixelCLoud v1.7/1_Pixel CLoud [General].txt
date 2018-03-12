@@ -1,0 +1,56 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	Descripción:
+	____________
+
+
+	_éste plugin, nos permitirá crear efectos de tipo displacement, avanzados como generar volumetrías 3d,
+
+	con altos grados de rotación de efectos 3d
+
+
+	_como también, nos permitirá generar efectos de producción de tipo relight, a través, de los cuáles,
+
+	podremos hacer modificaciones sobre los renders, y mapas generados a partir de aplicaciones 3d, de 
+
+	terceros
+
+
+	_de ésta manera, podremos hacer re composiciones de la iluminación de elementos pseudo 3d, lo cuál, 
+
+	nos permitirá hacer integraciones más avanzadas en composiciones de producción y paso contínuo, otros
+
+
+
+
+
+
+
+
+
+
+
+

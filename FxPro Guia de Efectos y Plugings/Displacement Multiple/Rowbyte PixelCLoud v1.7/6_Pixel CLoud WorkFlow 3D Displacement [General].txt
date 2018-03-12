@@ -1,0 +1,75 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	Workflow 3D Displacement:
+	_________________________
+
+
+	_éste opción nos permitirá crear efectos de volumetrías 3D, avanzadas logrando rotaciones 3D,  de layer, 
+
+	por medio de mapas de densidad ó de un depth map
+
+
+	_para que así, el sistema a través, de partículas genere una volumetría 3D, la cuál, podremos hacer
+
+	interactuar con el resto de elementos en la composición respectiva
+
+
+
+	Tamaños:
+	________
+
+	_los tamaños de composición y renders, más recomendados para la generación del sistema son de "HD", ó
+
+	1920x1080, como mínimo ó "2K", en adelante hasta "4K"
+
+
+	_ya que de ésta manera, obtendremos una mayor resolución y definición del sistema generado
+
+
+	_una técnica alternativa para ahorrar recursos es realizar el sistema por ejemplo, en una tamaño de 
+
+	"SD", y posteriormente proceder ha cambiar las layers, por unas de tamaño muchos más grandes
+
+
+	_así, como también, debemos de cambiar el tamaño de la composición respectiva para que ésta se ajuste
+
+	al tamaño nuevo de las layers, más grandes 
+
+
+	_así, como también, debemos de centrar las layers, en la composición respectiva para que éstas 
+
+	coindicas con la composición original ó sistema generado
+
+
+
+
+
+
+
+
+
+
+
