@@ -1,0 +1,59 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	General:
+	________
+
+
+	_tenemos la posibilidad de marginar ó enmascarar los sistema de "Displacement 3D", que hayamos realizado
+
+	a través, del pluging, pixel cloud
+
+
+	_de ésta manera, podremos limitar la visualización así, como también, hacer transiciones para que así,
+
+	podamos hacer que el sistema generado aparezca gradualmente a través, del tiempo
+
+
+	_de ésta manera, el sistema consiste en generar una máscara a través, de la técnica del "falloff", sobre
+
+	el mapa de densidad ó depth map
+
+	
+	_lo cuál, podremos visualizar activando el modo de visualización de canal alpha, sobre el viewport, del
+
+	panel compositing, shortcut, "Alt + 4"
+
+
+	NOTA: para lo cuál, debemos de ocualtar la layer, de fondo ó "BG", ó hacer un sólo de layer, del sistema
+
+	master "Pixel cloud"
+
+
+
+
+
+
+

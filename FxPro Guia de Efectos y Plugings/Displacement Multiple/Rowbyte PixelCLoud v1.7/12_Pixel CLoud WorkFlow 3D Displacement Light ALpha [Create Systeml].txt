@@ -1,0 +1,60 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	Create System:
+	______________
+
+	_una vez hemos creado las layers, que conformarán el nuevo sistema de "falloff", y de hacer relacionado
+
+	éstas layers, correctamente
+
+
+	_podremos ahora generar el sistema para lo cuál, debemos de ir a las opciones del pluging, yendo ha
+
+	"Pixel Cloud/About", y una vez allí, seleccionar las opciones de:
+
+
+		_Relight Alpha
+
+
+	_cerciorándonos de que las siguientes opciones estén desactivadas:
+
+
+		_Camara Relative
+
+		_Relight Diffuse
+
+		_Relight Specularity
+
+
+
+	_de ésta manera, ahora al orbitar con la cámara "shortCam", activada podremos que ahora el siste posee
+
+	"Falloff"
+
+
+
+
+

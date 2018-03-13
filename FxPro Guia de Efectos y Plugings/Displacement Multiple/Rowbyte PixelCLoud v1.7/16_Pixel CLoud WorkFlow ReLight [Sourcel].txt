@@ -1,0 +1,108 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	Relight Source:
+	_______________
+
+	_primeramente debemos de importar todo el material de archivo el panel proyecto el cuál, estará compuesto
+
+	por las siguientes layers:
+
+
+		_Normal Map
+
+		_Position Pass
+
+		_Source Pass
+
+		_Background
+
+
+	
+
+	Composition:
+	____________
+
+	_primeramente debemos de hacer "Mouse Left Click", sobre el ícono de "8bpc", del panel "Peoject", con 
+
+	"Alt", sostenido hasta que éste ícono cambie ha "32bpc", para que así, la composición que crearemos 
+
+	posteriormente disponga de una rango dinámico superior para la generación del sistema
+
+
+	_más con la layer, que hará de "BG", debemos arrastrar ésta layer, sobre el ícono de "New Composition", en
+
+	el panel "Project", para que así, se cree una nueva composición con el tamaño de la imágen de fondo
+
+
+
+
+
+	Preserve RGB:
+	_____________
+
+	_pero más antes de importar las demás layers, ó sources, a la nueva composición que hemos creado, debemos 
+
+	de ajustar las preferencias del material de archivo de los renders, que conformarán el sistema
+
+
+	_para que así, éstos conserven las propiedades nativas requeridas por el proceso para lo cuál, debemos
+
+	de seleccionar el source, "Normal Map", y hacer "Mouse Right Click", sobre éste y seleccionar la opción 
+
+	de "Interpret Footage/Main", ó a través, del shortcut, "Control + ALt + G"
+
+
+	_para que así, se nos abra el panel contextual de "Interpret Footage", en el cuál, debemos de ir a la
+
+	pestaña de "Color Management", en la cuál, debemos de activar la opción de "Preserve RGB", y luego darle
+
+	al botón "OK"
+
+
+	_para a continuación repetir éste mismo proceso para el source de "Position Pass"
+
+
+	_para posteriormente si arrastrar éstos recursos "Normal Map", y "Position Pass", a la composición que 
+
+	hemos creado previamente para la generación del sistema
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

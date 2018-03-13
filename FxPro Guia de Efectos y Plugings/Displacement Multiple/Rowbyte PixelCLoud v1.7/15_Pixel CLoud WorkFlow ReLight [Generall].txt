@@ -1,0 +1,55 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	Relight General:
+	________________
+
+	_el proceso de relight, nos permitirá volver ha mapear y recostruir el volúmen de un objeto a través, de
+
+	pases de renders, 3d
+
+
+	_para que así, podamos hacer recomposiciones y reajustes de la iluminación del motivo y de la escena para
+
+	lograr así, una mayor integración e interacción en tiempo real y a través, del tiempo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

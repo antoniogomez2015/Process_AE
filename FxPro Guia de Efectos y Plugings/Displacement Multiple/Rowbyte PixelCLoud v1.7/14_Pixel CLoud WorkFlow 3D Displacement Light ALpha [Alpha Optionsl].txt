@@ -1,0 +1,69 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	ALpha Options:
+	______________
+
+	_una vez hemos generado el sistema de "Displacment 3D ALpha Light", podremos configurar el comportamiento
+
+	del alpha, generado por el sistema
+
+
+	_para lo cuál, dispondremos de las opciones avanzadas yendo ha "Pixel Cloud/Alpha Option", en las cuáles,
+
+	podremos seleccionar los siguientes parámetros:
+
+
+
+		_Alpha Has Normal:
+
+			_ésta opción nos permitirá indicarle al sistema que la layer, que hace de depth map, 
+
+			también, contiene información de un mapa de "Normals"
+
+
+		_Invert Lit Alpha:
+
+			_ésta opción nos permitirá indicarle al sistema que deseamos invertir el efecto ó sentido
+
+			del canal alpha, generado
+
+
+		_Composite Alpha:
+
+			_ésta opción nos permitirá indicarle al sistema que permita la generación de una 
+
+			coloración ó "spill color", en el "falloff", ó penumbra generado entre el área 
+
+			iluminada ó visible y el área en penumbra ó semi iluminada por el sistema
+
+
+			_lo cuál, nos permitirá hacer mejores integraciones en composiciones con fondos de
+
+			diferentes colores a la layer, base ó layer, motivo del sistema
+
+
+
+

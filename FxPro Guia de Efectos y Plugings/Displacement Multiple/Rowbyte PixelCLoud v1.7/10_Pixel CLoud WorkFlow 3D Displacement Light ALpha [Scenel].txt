@@ -1,0 +1,130 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	Scene:
+	______
+
+
+	_una vez hayas generado el sistema "Displacement 3D", podremos ahora generar un sistema de "Falloff", 
+
+	para el mismo a través, de una nueva cámara y una nueva luz en el sistema
+
+
+	_para que así, a través, de éstos podamos controlar la visualización del sistema através, de un umbral
+
+	totalmente personalizable y animable a través, del tiempo
+
+
+
+	
+	Camara:
+	_______
+
+
+	_para generar el sistema de falloff, del sistema, debemos de crear dos nuevas cámaras ó duplicar una 
+
+	existente la cuál, debemos de renombrar éstas como "ScratchCam", y "LightCam"
+
+
+	_más éstas nuevas cámaras que estamos creando las debemos de ocualtar, dejando así, sólo visible la 
+
+	cámara "shortCam", y "refCam"
+
+
+
+
+
+	Light:
+	______
+
+	_para a continuación crear una nueva light, shortcut, "Control + Alt + Shift + L", a la cuál, le debemos
+
+	de indicar un nombre de "AlphaLight", así, como también, le debemos de indicar un valor de "Cone Feather",
+
+	de "0", así, como también, un valor de "Falloff", de "None"
+
+
+
+
+	Reset Cam:
+	__________
+
+	_una vez hemos creado una cámara nueva ó duplicado una cámara existente es recomendado resetear las 
+
+	propiedade de la cámara
+
+
+	_para lo cuál, debemos de posarnos sobre la layer, de la cámara en el timeline, y hacer 
+
+	"Mouse Right CLick", y seleccionar la opción de "Transform/Reset"
+
+
+
+
+	Copy Properties:
+	________________
+
+	_así, como también, debemos ahora de copiar las propiedades de "transform", de la cámara "LightCam", y 
+
+	pegar éstas propiedades sobre la layer, de tipo light, que hemos creado con el nombre de "AlphaLight"
+
+
+	_para lo cuál, debemos de desplegar las propiedades de la layer, "LightCam", y proceder ha seleccionar
+
+	todas sus propiedades como: "Point of Interest, Position, Orientation, Rotation X | Y | Z", para a
+
+	continuación aplicar el comando "Control + C"
+
+
+	_para leugo, desplegar también, las propiedades de "tranform", de la layer, "AlphaLight", y procede así,
+
+	ha seleccionar éstas propiedades para seguidamente aplicar el comando "Control + V", pegando así, las
+
+	mismas propiedades ó configuración existente en la layer "LightCam"
+
+
+
+
+
+	Parents:
+	________
+
+	_para posteriormente proceder ha emparentar todas las propiedades de ambas layers, al unísono para lo 
+
+	cuál, debemos de volver ha seleccionar las propiedades de "transform", de la layer "AlphaLight" 
+
+
+	_para luego arrastrar el espiral ó piquick, sobre la layer, "LightCam", para que así, ahora la layer, 
+
+	"AlphaLight", siga los movimientos de la cámara con el nombre de "LightCam" 
+
+
+	_y pueda así, generarse el sistema de "falloff"
+
+
+
+
+
+

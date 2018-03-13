@@ -1,0 +1,70 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	Copy Properties:
+	________________
+
+	_así, como también, debemos ahora de copiar las propiedades de "transform", de la cámara "LightCam", y 
+
+	pegar éstas propiedades sobre la layer, de tipo light, que hemos creado con el nombre de "AlphaLight"
+
+
+	_para lo cuál, debemos de desplegar las propiedades de la layer, "LightCam", y proceder ha seleccionar
+
+	todas sus propiedades como: "Point of Interest, Position, Orientation, Rotation X | Y | Z", para a
+
+	continuación aplicar el comando "Control + C"
+
+
+	_para leugo, desplegar también, las propiedades de "tranform", de la layer, "AlphaLight", y procede así,
+
+	ha seleccionar éstas propiedades para seguidamente aplicar el comando "Control + V", pegando así, las
+
+	mismas propiedades ó configuración existente en la layer "LightCam"
+
+
+
+
+
+	Parents:
+	________
+
+	_para posteriormente proceder ha emparentar todas las propiedades de ambas layers, al unísono para lo 
+
+	cuál, debemos de volver ha seleccionar las propiedades de "transform", de la layer "AlphaLight" 
+
+
+	_para luego arrastrar el espiral ó piquick, sobre la layer, "LightCam", para que así, ahora la layer, 
+
+	"AlphaLight", siga los movimientos de la cámara con el nombre de "LightCam" 
+
+
+	_y pueda así, generarse el sistema de "falloff"
+
+
+
+
+
+

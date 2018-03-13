@@ -1,0 +1,73 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	Control System:
+	_______________
+
+	_una vez hemos generado el proceso de "falloff", podremos controlar el umbral y alcance de ésta a través,
+
+	de las propiedade de la layer, de tipo light - spot, que hemos creado con el nombre de "AlphaLight"
+
+
+	_de ésta manera, podremos desplegar las opciones de las propiedades de ésta layer, para lo cuál,
+
+	dispondremos del shortcut, "A/A"
+
+
+	_pudiendi así, controlar los parámetro de:
+
+
+		_Cone Angle
+
+		_Cone Feather
+
+
+	_así, como también, podremos escoger la modalidad de "falloff", entre las cuáles, dispondremos de las
+
+	siguientes:
+
+
+
+		_None:
+
+			_ésta opción es la por defecto y muy buenos resultados
+
+
+		_Smooth:
+
+			_ésta opción da resultamos más refinados más ésta requiere valos de "Falloff Discance",
+
+			superiores entre valores de entre "2000", y superiores
+
+
+		_Inverse Square Clamped:
+
+			_ésta opción da resultamos más refinados más ésta requiere valos de "Radius", superiores 
+
+			entre valores de entre "1000", y superiores
+
+
+
+
