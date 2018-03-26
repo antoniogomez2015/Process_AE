@@ -23,10 +23,77 @@
 
 	---------------------------------------------------------------------------------------------------------
 
-	Relight Scene:
-	______________
+	Pluging:
+	________
 
-	_
+	_Primeramente debemos de crear una nueva layer, de tipo "Solid", en la cuál, podremos cargar el pluging,
+
+	yendo ha "Effects/Blurrypixel/", y allí, seleccionar el pluging, "Pixel CLoud"
+
+
+	_para que así, el pluging, sea agregado ha ésta layer, y a través, de ésta poder generar el sistema
+
+
+
+
+	Camaras:
+	________
+
+	_para a continuación proceder ha crear una nueva cámara en la escena, en éste caso debemos de indicar 
+
+	un valor de "Focal Length", de "22mm", en éste caso, shortcut, "Control + Alt + Shift + C", a la cuál, 
+
+	debemos de renombrar con el nombre de "shortCam"
+
+
+	_para a continuación proceder ha cambiar las cordenadas de posición de ésta nueva cámara que hemos 
+
+	creado
+
+
+	_para que así, podamos hacer coincidir las cordenadas de posición de la cámara de la aplicación 3d, en 
+
+	la cuál, creamos el motivo 3d, como los respectivos renders
+
+
+	_con las cordenadas de posición de la cámara que hemos creado en after effects, en éste caso, 
+
+	primeramente debemos de desplegar las propiedades de posición de la cámara "shortCam", shortcut, "p/p"
+
+
+	_para que así, en éste caso, podamos sustituir las cordanas por defecto de la propiedad posición por las
+
+	cordendas siguientes:
+
+
+		_58-562 | -46,732 | 5,652
+
+
+
+	_así, como también, debemos haer ésto mismo para la propiedad de "Point of Interest", de la cámara 
+
+	respectiva shortcut "A/A",:
+
+
+		_-1,95 | -5,7 | -1,649
+
+
+	
+	NOTA: otra opción es expotar la cámara 3D, e importala en after effects, para que así, ésta cámara 
+
+	ya posea las cordenadas de la aplicación 3d 
+
+
+	_tomando en cuenta también, que el sistema de cordenadas de after effects, no es el mismo que el de la 
+
+	mayoría de las aplicaciones 3d
+
+
+	_para a continuación proceder ha duplicar ésta cámara que hemos creado y configurado previamente la 
+
+	cuál, podremos renombrar ahora con el nombre de "refCam", la cuál, debemos de ubicar el final ó en la
+
+	parte inferior de la composición respectiva
 
 
 

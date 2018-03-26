@@ -1,0 +1,111 @@
+
+
+
+
+
+	MoglypgFx
+
+
+		https://aescripts.com/moglyph-fx/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Workflow:
+	_________
+
+
+		1_primeramente debemos de seleccioanr el modo de "Glyph Mode"
+
+
+
+
+		2_para posteriormente seleccionar la fuente ha utilizar para la generación de íconos, de ésta manera, 
+
+		podremos seleccionar entre las fuentes de íconos disponibles por el pluging, ó crear nuestras propias
+
+		fuentes de íconos personalizadas
+
+
+		_la fuente por defecto pre seleccionada es "MpGlyph-baseGeometry"
+
+
+
+
+		3_de ésta manera, podremos proceder ha generar los sistemas "Linear, Radial, Grid, y Honeycomp Cloner",
+
+		para lo cuál, sólo tendremos que darle mouse left click, sobre el botón de cada respectivo ícono para que 
+
+		así, el sistema genere un nueva layer, de tipo text,  sobre la composición activa y a través, de dicha 
+
+		layer, se generará el sistema
+
+
+		_y a diferencia de la opción de "Spline Cloner", la cuál, requerirá que creemos sobre una layer, un 
+
+		"Path", de una máscara para que así, podamos seleccionar ésta layer, con una máscara y aplicada y con ésta 
+
+		layers, seleccionada proceder ha pulsar el ícono de "Spline Cloner"
+
+
+		_también , podremos utilizar una layer, de tipo "Shape", con una path, aplicado al generar un forma abierta
+
+
+		_para que así, el sistema sea generado en relación a la spline, del path, de la máscara respectiva
+
+
+
+
+		4_de ésta manera, una vez hemos generado el sistema a través, de uno de los modos posibles, podremos
+
+		ahora agregar nuevas shapes, ó formas extras existentes en la fuente ó font, seleccionada previamente
+
+
+		_de ésta manera, podremos utilizar una shape, personalizada para lo cuál, debemos darle al botón de
+
+		"Add New Glyph", para que así, se abra una ventana en la cuál, podremos visualizar las shapes, 
+
+		incorporadas en la fuente ó font, respectiva
+
+
+		_en la cuál, podremos seleccionar un forma extra haciendo doble click, sobre una de las miniaturas ó
+
+		tumbnails, de ésta manera, la nueva forma ó shape, se agregará como un nuevo efecto con el nombre de
+
+		"Glyph 1", sobre la layer, de tipo "text", generada por el sistema
+
+
+		_de ésta manera, a través, de éste nuevo efecto llamado en éste caso "Glyph..", podremos alternar entre
+
+		los diferentes íconos ó shapes, incorporados dentro de la fuente respectiva
+
+
+		_para lo cuál, debemos de desplegar las opciones de éste efecto, dentro del cuál, encontraremos un slider,
+
+		a través, del cuál, podremos ir avanzando ó recorriendo los diferentes íconos existentes en la fuente 
+
+		respectiva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

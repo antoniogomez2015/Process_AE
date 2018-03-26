@@ -1,0 +1,56 @@
+
+
+
+
+
+	MoglypgFx
+
+
+		https://aescripts.com/moglyph-fx/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	MoglypgFx:
+	__________
+
+
+
+		_éste efecto nos permitirá animar instancias ó clones proceduralmente, dichas instancias deberán ser
+	
+		parte de una fuente tipográfica, sea ésta nativa ó personalizada por nosotros ó una fuente genérica
+
+		conformada por gráficos, otros
+
+
+		_de ésta manera, podremos disponer de todas las propiedades de animación y motion graphycs, de las
+
+		fuentes tipográficas ó "layers", de tipo "text" 
+
+
+		_así, como también, de todas sus características de configuración y personalización como rellenos, 
+
+		contornos, otros
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

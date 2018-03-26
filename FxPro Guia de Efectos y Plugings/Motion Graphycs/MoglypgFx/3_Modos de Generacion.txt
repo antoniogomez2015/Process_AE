@@ -1,0 +1,152 @@
+
+
+
+
+
+	MoglypgFx
+
+
+		https://aescripts.com/moglyph-fx/
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Generate:
+	_________
+
+
+		Spline Cloner:
+		______________
+
+			_ésta opción nos permitirá indicarle al sistema la generación una layer, de tipo "text", en la
+
+			composición respectiva, y a través, de la cuál, se generará el sistema, en éste caso; una forma
+
+			personalizada por medio de una máscara sobre una layer, con un shape, base
+
+
+			_en relación a su vez, a la fuente tipográfica seleccionada en las opciones, por defecto se 
+
+			encuenta seleccionada la fuente: "MoGlyph-basic-Geometry", la cuál, está conformada por formas 
+
+			básicas
+
+
+			_así, como también, la nueva layer, de tipo texto generada tendrá asignada un efecto a través,
+
+			del cuál, podremos controlar todos los parámetros del sistema generado
+
+
+
+		Linear Cloner:
+		______________
+
+			_ésta opción nos permitirá indicarle al sistema la generación una layer, de tipo "text", en la
+
+			composición respectiva, y a través, de la cuál, se generará el sistema, en éste caso; un lineal, 
+
+			con un shape, base
+
+
+			_en relación a su vez, a la fuente tipográfica seleccionada en las opciones, por defecto se 
+
+			encuenta seleccionada la fuente: "MoGlyph-basic-Geometry", la cuál, está conformada por formas 
+
+			básicas
+
+
+			_así, como también, la nueva layer, de tipo texto generada tendrá asignada un efecto a través,
+
+			del cuál, podremos controlar todos los parámetros del sistema generado
+
+
+
+		Radial Cloner:
+		______________
+
+			_ésta opción nos permitirá indicarle al sistema la generación una layer, de tipo "text", en la
+
+			composición respectiva, y a través, de la cuál, se generará el sistema, en éste caso; una 
+
+			modulación radial con un shape, base
+
+
+			_en relación a su vez, a la fuente tipográfica seleccionada en las opciones, por defecto se 
+
+			encuenta seleccionada la fuente: "MoGlyph-basic-Geometry", la cuál, está conformada por formas 
+
+			básicas
+
+
+			_así, como también, la nueva layer, de tipo texto generada tendrá asignada un efecto a través,
+
+			del cuál, podremos controlar todos los parámetros del sistema generado
+
+
+
+
+
+		Grid Gloner:
+		____________
+
+			_ésta opción nos permitirá indicarle al sistema la generación una layer, de tipo "text", en la
+
+			composición respectiva, y a través, de la cuál, se generará el sistema, en éste caso; un grid, 
+
+			con un shape, base
+
+
+			_en relación a su vez, a la fuente tipográfica seleccionada en las opciones, por defecto se 
+
+			encuenta seleccionada la fuente: "MoGlyph-basic-Geometry", la cuál, está conformada por formas 
+
+			básicas
+
+
+			_así, como también, la nueva layer, de tipo texto generada tendrá asignada un efecto a través,
+
+			del cuál, podremos controlar todos los parámetros del sistema generado
+
+		
+
+		Honeycomp Cloner:
+		_________________
+
+			_ésta opción nos permitirá indicarle al sistema la generación una layer, de tipo "text", en la
+
+			composición respectiva, y a través, de la cuál, se generará el sistema, en éste caso; un grid, 
+
+			aleatorio en su perímetro ha modo de colmena con un shape, base
+
+
+			_en relación a su vez, a la fuente tipográfica seleccionada en las opciones, por defecto se 
+
+			encuenta seleccionada la fuente: "MoGlyph-basic-Geometry", la cuál, está conformada por formas 
+
+			básicas
+
+
+			_así, como también, la nueva layer, de tipo texto generada tendrá asignada un efecto a través,
+
+			del cuál, podremos controlar todos los parámetros del sistema generado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

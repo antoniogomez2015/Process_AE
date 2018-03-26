@@ -1,0 +1,60 @@
+
+
+
+
+
+
+	Pixel Cloud
+
+		https://aescripts.com/pixel-cloud/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Pixel Cloud:
+	____________
+
+
+
+	---------------------------------------------------------------------------------------------------------
+
+	Crear el Sistema:
+	_________________
+
+	_una vez hemos creado las layers, y cámaras que conformarán el sistema podremos ahora proceder ha
+
+	configurar el sistema ha generar
+
+
+	_para lo cuál, debemos de ir a las opciones del pluging, yendo ha "Pixel Cloud/About/", y allí, 
+
+	seleccionar en "Source Layer", procedermos ha seleccionar la layer, que hará de "Source"
+
+
+	_para a continuación seguidamente en la opción de "Position Pass", seleccionar la layer, "Position",
+
+	y en la opción de "Normal Map", proceder ha seleccionar la layer, que hará de "Normal"
+
+
+	_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
