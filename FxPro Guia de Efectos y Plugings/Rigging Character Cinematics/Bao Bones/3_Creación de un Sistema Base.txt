@@ -43,7 +43,7 @@
 	________
 
 
-	_el crear el sistema sobre la layer, base ésta estará conformado por tres points, ó handles, los cuáles, 
+	_al crear el sistema sobre la layer, base ésta estará conformado por tres points, ó handles, los cuáles, 
 
 	nos permitirán mover el sistema en ángulo y en posición
 

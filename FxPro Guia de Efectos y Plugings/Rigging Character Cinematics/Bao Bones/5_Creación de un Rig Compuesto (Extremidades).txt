@@ -65,7 +65,7 @@
 	de la naris
 
 
-	_y el handle, ó punto de control correspondiente al efectos del sistema debemos de colocarlo en la corona
+	_y el handle, ó punto de control correspondiente al efector del sistema debemos de colocarlo en la corona
 
 	del character
 
