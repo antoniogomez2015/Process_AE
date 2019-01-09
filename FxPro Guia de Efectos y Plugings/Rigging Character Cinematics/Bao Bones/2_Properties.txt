@@ -320,7 +320,7 @@
 				de la deformación sobre la articulación generada por el sistema
 
 
-				_de ésta manera, podremos evitar deformaciones exesivas sobre la articulación
+				_de ésta manera, podremos evitar deformaciones excesivas sobre la articulación
 
 				generada y lograr rigs, más realistas y agradables a la vista
 

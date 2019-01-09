@@ -53,7 +53,7 @@
 		Aplicación del efecto:
 		______________________
 
-		_para aplicar éfecto efecto ó sistema tenemos dos posibilidades la primero es yendo ha 
+		_para aplicar éste efecto ó sistema tenemos dos posibilidades la primero es yendo ha 
 
 		"Effects/Perspective", y allí, seleccionar la opción de "3D Camara Tracker", sobre una layer, de video 
 
@@ -114,21 +114,21 @@
 
 		_de ésta manera, una vez hemos terminado el análisis correctamente en el paso anterior tendremos la 
 
-		posibilidad de crear en la escena emulada en la composición activa de after effects, nuevas cámaras 
+		posibilidad de recrear la escena de manera virtual emulando la cámara en la composición activa de 
 
-		extra, planos, textos, elementos de tipo nuls, de referencia, otros, los cuáles, podremos utilizar para 
+		after effects, creando así, una nueva cámara extra, planos, textos, elementos de tipo nuls, de referencia, 
 
-		diferentes procesos de composición, producción y paso contínuo
+		otros, los cuáles, podremos utilizar para diferentes procesos de composición, producción y paso contínuo
 
 
 			Perspectivas:
 			_____________
 
-			_de ésta manera, para crear elementos en la nueva escena emulada debemos primeramente de definir
+			_de ésta manera, para crear elementos en la nueva escena emulada debemos primeramente definir
 
-			un plano de perspectiva deseado a partir del cuál, se podrán diferentes tipos de elementos en 
+			un plano de perspectiva deseado a través de una diana de color rojo en éste caso a partir del cuál, 
 
-			escena
+			se podrán crear diferentes tipos de nuevos elementos en escena
 
 
 			_para lo cuál, tendremos que seleccionar al menos "3", tres puntos de trackeo ó referencia los
@@ -146,7 +146,7 @@
 	
 			cuál, debemos hacer uso del comando "mouse left click and drag", para que así, podamos hacer una
 
-			selección de puntos de trackeo personazada y más ámplica en una área deseada ha crear un plano 
+			selección de puntos de trackeo personazada y más ámplia en una área deseada ha crear un plano 
 
 			de perspectiva ha través, de ésta selección extendida
 
@@ -199,11 +199,12 @@
 
 			de recostruir una cámara que emulará los movimientos de la cámara original del clip, de video
 
-			como también la de crear una layer, de tipo text a la vez la cuál, hará de elemento de 
+			como también la de crear una layer, de tipo text a la vez 
 
-			referencia el cuál, se creará en el plano de perspectiva que hemos seleccionado en el paso 
 
-			anterior a través, de la "diana", personalizada
+			_la cuál, hará de elemento de referencia que se creará en el plano de perspectiva que hemos 
+
+			seleccionado en el paso anterior a través, de la "diana", personalizada
 
 
 			_de ésta manera, para crear ésta nueva cámara y texto, debemos primeramente de haber definido
@@ -303,7 +304,7 @@
 			
 			_en relación a su vez, a la grilla del viewport, del panel compositing, para que así, el sistema
 
-			no se crree deliveradamente en un lugar por defecto si no que en vez de eso 
+			no se cree deliveradamente en un lugar por defecto si no que en vez de eso 
 
 
 			_el sistema se cree en el lugar que le indiquemos en relación a nuestras necesidades
