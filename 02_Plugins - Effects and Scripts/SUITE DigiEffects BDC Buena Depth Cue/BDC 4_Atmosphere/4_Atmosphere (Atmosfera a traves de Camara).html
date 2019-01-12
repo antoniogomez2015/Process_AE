@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+</head>
+<body>
+<!--
+
+
+
+
+DigiEffects/Buena Deep Cue Suite  /  http://www.digieffects.com/  /  http://www.rowbyte.com/buena-depth-cue/
+
+
+Referencia: DigiEffects Buena Depth Cue v2 - 04.An�lisis de Atmosphere
+
+		https://www.youtube.com/watch?v=FQwfFy-JBBs
+
+
+
+NOTE:	también, disponemos de todas las opciones de ésta suite directamente en la sección de effects, yendo ha "Effects/DigiEffects BDC v2.5/", aunque éstas opciones no están automatizadas y son recomendables para	realizar un proceso manual ó más avanzado que las automatizadas las cuales están en la sección de "Composition/"
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Atmosphere: (creación de ambiente atmosférico en un entorno 3d)
+___________
+
+
+
+
+
+Criterios y Requerimientos del plugins:
+_______________________________________
+
+
+
+	_éste trata de emular "atmósfera 3d", creando una niebla entre las layers, de diferentes densidades entre si
+
+
+	_para ésto, debemos de tener separadas en capas ó máscaras de la escena que deseamos emular en una depth map, con sus respectivas profundidades ó planos en 3d
+
+
+	_lo más recomendado es partir de una escena a la cuál, le hemos aplicado el proceso de "Camara Mappers", vayamos ha utilizar el sistema de cámaras de proyección de cámara mapper, ó no, por que de ésta manera ya dispondremos de la distribución de layers, de la escena
+
+
+	_asó, podremos tener una composición ó escena ya con una cámara proyección y una cámara animada a nuestras necesidades de acción, otros
+
+
+
+Apply Atmosphere To All Layer:
+______________________________
+
+
+	_luego, debemos seleccionar todas las layers, deseadas en la respectiva composición para crear con éstas layers, seleccionadas el sistema de atmósfera
+
+
+	_luego, con las respectivas layers, seleccionadas vamos ha "Composition/Apply Atmosphere To All Layer"
+
+
+	_y así, podremos ver que a partir de éste punto se ha agregado a la respectiva composición una nueva layer, ésta es:
+
+	"[Master Atmosphere Control]", con la cuál, podremos controlar todo el sistema de atmósfera
+
+
+	_a su vez, que a cada layer, seleccionada para éste proceso se le habrá agregado un efecto "DE_Atmosphere"
+
+
+
+
+Master Atmosphere Control/DE_Atmosphere:
+________________________________________
+
+
+	_Color:
+
+		_ésta opción nos permite indicar el color de la atmósfera resultante
+
+
+	_Start Depth:
+
+		_ésta opción nos permite indicar cuál, será el valor relativo donde comenzará la atmósfera ó niebla
+
+		_es recomendable dejar los valores por defecto a menos que desiemos lograr un efecto diferente
+
+		_se puede acercar éste hacia el valor final para lograr efectos de cercanía, otros
+
+
+	_End Depth:
+
+		_ésta opción nos permite indicar cuál, será el valor relativo donde terminará la atmósfera ó niebla
+
+		_es recomendable dejar los valores por defecto a menos que desiemos lograr un efecto diferente
+
+
+	_Rolloff:
+
+		_la interpolación más recomendable es "Exponential", ya que éste nos permitirá cambiar la intensidad del sistema "cuando veamos todo blanco"
+
+		_es recomendable color valores de entre "0.5", en "Exponential"
+
+
+
+
+------------------------------------------------------------------------------------
+
+Workflow del plugins:
+_____________________
+
+
+
+	_así, la atmósfera dependerá de penetración de la cámara entre las layers, ó capas preconfiguradas más también, de el ángulo de la cámara el cuál indicará la profundidad de campo relativa sobre las capas sobre las cuales este incide
+
+
+	_a su vez, también, contemplando los valores relativos de:
+
+
+		_Master Atmosphere Control/DE_Atmosphere: Start/End Depth
+
+
+	_de esta manera, podremos ver que tendremos una atmósfera dinámica e interactiva con la acción de la cámara, otros
+
+
+
+
+-->
+</body>
+</html>
