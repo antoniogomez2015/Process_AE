@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+</head>
+<body>
+<!--
+
+
+
+
+	BAO Bones
+
+		https://aescripts.com/bao-bones/
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////
+
+
+	Workflow:
+	_________
+
+
+
+	Creación de un Rig Compuesto:
+	_____________________________
+
+
+
+
+	Sistema Adicional:
+	__________________
+
+	_una vez hemos realizado el rig, correspondiente al torso, ó chest, podemos proceder ha realizar el rig, de la layer, ó composición de la cabeza
+
+
+	_para lo cuál, primeramente debemos de agregar otro sistema a la misma layer, del torso 
+	
+	
+	_como efecto adicional para lo cuál, debemos de ir ha "Effects/BAO/Bones", el cuál, debemos de renombrar como "Head", por ejemplo
+
+
+	
+
+	Settings:
+	_________
+
+	_en éste caso debemos de crear los puntos de control ó handles, que controlarán al nuevo sistema anidado de forma invertida
+
+
+	_es decir, el handle, que corresponde al root, debemos de colocarlo en la base del cuello del character
+
+
+	_y el handle, ó punto de control del medio debemos de colocarle en la parte media del rostro a la altura de la naris
+
+
+	_y el handle, ó punto de control correspondiente al efector del sistema debemos de colocarlo en la corona del character
+
+
+	_luego, debemos de ir a las opciones de "Mesh/Radius", para que así, podamos configurar el ancho del sistema auxiliar ha crear en relación al ancho de la cabeza del character
+
+
+	_para  continuación ir a las opciones y aplicar "Quick Bone Set/Set!", para que así, el sistema adicional sea generado
+
+
+	_y posteriormente ir a las opciones y seleccionar: "IK/IK Mode/None (2 points)", para que así, el sistema generado se comporte como una sóla estructura sin articulaciones intermedias
+
+
+	_y luego ir a las opcioens de: "Source/Source 1/", en la cuál, podremos seleccionar la layer, ó composición respectiva en éste caso "Head", ó la de la cabeza del character
+
+
+	_y en éste punto debemos debemos de ir al timeline, y ocualtar la layer, correspondiente a la cabeza del character 
+	
+	_en éste caso la layer, ó composición "Head", para que así, ésta no obstaculize el proceso de visualización del sistema al verse duplicada por el sistema
+
+
+	_y posteriormente ir a las opciones y seleccionar: "Composite Mode/Over Original" 
+	
+	_para que así, tanto la layer, base del torso como la layer, de la cabeza del sistema sean visibles en su totalidad y sen su pposición normal
+
+
+	_y por último ir a las opciones: "Parent Parameters/Parent Effect", y una vez alli seleccionar la layer, ó composición correspondiente con el body, ó chest, ó torso del character, la cuál, será la layer, padre de la layer, de la cabeza respectivamente
+
+
+
+
+	Full Character:
+	_______________
+
+	_de ésta manera, podremos repetir éstos procesos para las demás partes ó articulaciones del character,
+
+	dentro de la misma layer, ó composición del body, chest, ó torso
+
+
+	_de ésta manera, podremos ir agregando más sistemas anidados a modos de más efectos agregados a través, del panel effects controls, hasta que tengamos todo el character, dentro de un mismo sistema
+
+
+	_para que así, dispongamos de un sistema completo como el siguiente:
+
+
+		_Chest
+
+		_Neck
+
+		_Head
+
+		_R_Arm
+
+		_L_Arm
+
+		_R_Leg
+
+		_L_Leg
+
+		_R_Foot
+
+		_L_Foot
+
+
+
+
+	Animation:
+	__________
+
+	_más para animar el sistema debemos de ir a las opciones de "Effectos Controls/Bone/Points/Distort 1,2,3..",
+
+	en los cuáles, podremos activar las opciones de reloj de animación para las propiedades de deformación para cada sistema generado
+
+
+	_de ésta manera, posteriormente podremos visualizar todas las propiedades animadas a través, del shortcut,
+
+	"U/U", para proceder posteriormente ha animar dichas propiedades a través, del tiempo en el timeline
+
+
+	_como también, a través, de los movimientos de los handles, respectivos para cada sistema directamente en el viewport, del panel compositing
+
+
+
+
+
+
+
+
+-->
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+	
