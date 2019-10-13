@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+</head>
+<body>
+<!--
+
+
+	Bones Properties
+	________________
+
+
+
+	_Mesh
+
+		_Radius
+
+			_ésta opción nos permitirá indicarle al sistema el umbral ó alcance del sistema
+
+			_generado en relación an ancho en pixeles, de la layer, base
+
+
+		_Mesh Definition
+
+			_ésta opción nos permitirá indicarle al sistema la definición del sistema generado
+
+			_así, con valores cercanos ha "0", el sistema se verá distorsionado y disminuido 
+
+			_cuando las articulaciones son contraidas ó flexionadas
+
+
+				_más con valores cercanos ó superiores ha "100", el sistema ó layer, base no
+				sufrirán distorsión ni devanecimiento adicional
+
+
+			_Mask 1
+
+				_ésta opción nos permitirá indicarle al sistema una máscara "abierta", en forma de
+
+				_arco en relación a la articulación ha generar aplicada sobre la layer, base 
+				
+				_a través, de la cuál, podremos limitar la visualización del sistema y parte de los pixeles de la layer, base
+
+
+			_Mask 2
+
+				_ésta opción nos permitirá indicarle al sistema una máscara "abierta", en forma de
+
+				arco en relación a la articulación ha generar aplicada sobre la layer, base 
+				
+				_a través, de la cuál, podremos limitar la visualización del sistema y parte de los pixeles de la layer, base
+
+
+				_de tal manera, que ambas layers, de forma de arco rodeen ó enmarquen la layer, 
+
+				base para que así, éstas máscaras abiertas delimiten la acción del sistema
+
+
+
+		_Points
+
+
+			_Show
+
+				_Selection & Distortion
+
+					_ésta opción nos permitirá indicarle al sistema que nos muestre el sistema
+
+					base sin aplicar y sin configurar sobre la layer, base
+
+
+				_Selection Only
+
+					_ésta opción nos permitirá indicarle al sistema que nos muestre el sistema
+
+					base sin aplicar pero configurado por nosotros en el momento en el que
+
+					conformamos el sistema en un principio
+
+
+					_lo que quiere decir que a través, de sta opción podremos reconfigurar el
+					sistema generado
+
+
+					_así, podremos reposicionar los puntos ó handles, que conformarán las 
+					articulaciones del sistema generado
+
+
+
+				_Ditortion Only
+
+					_ésta opción nos permitirá indicarle al sistema que nos muestre la 
+
+					visualización ya con la defirmación de rig, aplicado, ésta es la opción
+					por defecto cuando hemos generado el sistema 
+
+
+			_Select 1,2,3
+
+				_ésta opción nos permitirá indicarle al sistema la posición en coordenadas de los
+
+				handles, cuando estamos editando la posición de las articulaciones del sistema
+
+
+				_éstas opciones estarán activas sólo cuando hayamos seleccionado la opción de
+				"Show/Selection Only"
+
+
+			_Distor 1,2,3
+
+				_ésta opciópn nos permitirá indicarle al sistema la posición en coordenadas de los 
+
+				handles, cuando estamos deformando la layer, base con el sistema aplicado
+
+
+			_Copy
+
+
+				_Selection on Distortion:
+
+					_ésta opción nos permitirá indicarle al sistema que los handles, generados
+
+					por el sistema vuelvan a su posición base u original extendida
+
+
+				_Distortion on Selection:
+
+					_ésta opción nos permitirá indicarle al sistema que los pixeles de la layer,
+
+					base traten de estirarse en el área de entre los tres handles, generados 
+					por el sistema 
+
+
+					_lo cuál, limitará la visualización de la layer, base en los casos en que 
+					la extremidad está flexionada
+
+
+			_Points Scales
+
+
+				_Scale Point 1,2,3
+
+					_ésta opción nos permitirá indicarle al sistema que escale los pixeles 
+
+					afectados por cada handle, generado por el sistema
+
+
+					_de ésta manera, podremos escalar ó distorsionar la layer, base en las 
+					áreas de las articulaciones
+
+
+				_Auto-Scale (Squash & Stretch)
+
+					_(Indeterminado)
+
+
+
+		IK
+
+	
+			_IK Scale
+
+				_�sta opci�n nos permitir� indicarle al sistema el tama�o de la layer, base, en
+
+				relaci�n a la longitud, del sistema generado entre los tres handles
+
+
+				_de �sta manera, el valor por defecto es "100", el cu�l, corresponder� al tama�o
+
+				natural de la layer, base
+
+
+				_m�s con valores cercanos ha "0", la layer, base se har� muy peque�a as�, como 
+
+				tambi�n, se har� muy delgada hasta llegar ha ser casi imperceptible
+
+
+				_m�s con valores superiores ha "100", la layer, base se har� mucho m�s grande
+
+				teniendo que flexionarse al no caber dentro de la longitud de los tres handles
+
+
+
+			_IK Mode
+
+
+				_Auto
+
+					_�sta opci�n nos permitir� indicarle al sistema el modo de kinem�tica
+
+					inversa, �sta es la opci�n por defecto al generar el sistema
+
+
+				_Manual
+
+					_�sta opci�n nos permitir� indicarle al sistema el modo de kenem�tica
+
+					directa � "forward kinematics"
+
+
+					_de �sta manera, podremos controlar los tres handles, de forma 
+
+					independiente y en todas las direcciones
+
+
+					_m�s �sta opc�on permite la deformaci�n � rescadado de las partes de la 
+
+					layer, base		
+
+
+				_None (2 point)
+
+					_�sta opci�n nos permitir� indicarle al sistema el modo de generaci�n del
+
+					sistema a partir de s�lo dos puntos de control � handles
+
+
+					_�sta opci�n es especialmente �til para la generaci�n de partes �nicas de
+
+					un character, como por ejemplo la inclusi�n de un cuello � una cabeza, otros
+
+					como sistema anidado � "Child"
+
+
+
+
+			_Clamp Max Size
+
+				_�sta opci�n nos permitir� indicarle al sistema que �ste permita que la layer,
+
+				base se estire en relaci�n a la posici�n de los handles
+
+
+				_de �sta manera, si el handle, se posiciona m�s all� de la posici�n � longitud
+
+				de la layer, base entonces la layer, base se estirar� hasta la posici�n del handle
+
+
+				_m�s si desactivamos �sta opci�n la layer, base, nunca exceder� su tama�o original
+
+				al estirar la flexi�n de la articulaci�n respectiva � sistema en general
+
+
+			_Flip
+
+				_�sta opci�n nos permitir� indicarle al sistema que �ste invierta la direcci�n del
+
+				"pole vector", � la direcci�n en la cu�l, flexiona � se articula el sistema generado
+
+
+				_de �sta manera, podremos alternar � variar la direcci�n u orientaci�n en la cu�l,
+
+				se articula el sistema generado
+
+
+			_IK Proportion (Left/Right)
+
+				_�sta opci�n nos permitir� indicarle al sistema un ajuste en la articulaci�n 
+
+				genera por el sistema
+
+
+				_de �sta manera, podremos hacer que la articulaci�n se extienta amulando as�, que
+
+				la articulaci�n y sistema es m�s grande � m�s peque�o respectivamente
+
+
+				_donde su valor por defecto es "100", el cu�l, respetar� la opci�n de la opci�n
+
+				de "IK/Flip"
+
+
+				_m�s con valores negativos, ej: "-100", podremos invertir el sentido de la 
+
+				articulaci�n de forma gradual a diferencia de la opci�n de "flip", la cu�l, crea
+
+				un cambio brusco y no suavizado
+
+
+			_IK Proportion (Up/Down)
+
+				_�sta opci�n nos permitir� indicarle al sistema la posici�n de la articulaci�n
+
+				central generada por el sistema
+
+
+				_de �sta manera, podremos hacer que �sta suba � baje del punto medio del sistema 
+
+				� del cu�l, lo hemos colocado a la hora de generar el sistema base
+
+
+			_Invert Order:
+
+				_�sta opci�n nos permitir� indicarle al sistema que �ste invierta la orientaci�n
+
+				de la deformaci�n sobre la articulaci�n generada por el sistema
+
+
+				_de �sta manera, podremos evitar deformaciones excesivas sobre la articulaci�n
+
+				generada y lograr rigs, m�s realistas y agradables a la vista
+
+
+				_mejorarando as�, la capacidad de animaci�n y simulaci�n de movimiento
+
+
+			_Keep Original Bend
+
+				_�sta opci�n nos permitir� indicarle al sistema la generaci�n de un sistema 
+
+				m�s org�nico � m�s articulado � r�gido respectivamente
+
+
+				_de �sta manera, podremos generar rigs, m�s flexibles y el�sticos � rigs m�s
+
+				mec�nicos ha modo de huesos bien definidos
+
+
+				_de �sta manera, con valores cercanos ha "0", el rig, generado ser� totalmente
+
+				articulado y r�gido
+
+
+				_m�s con valores cercanos ha "200", el rig, generado ser� totalmente org�nico y
+
+				flexible
+
+
+				_de �sta manera, lo m�s recomendable es generar un sistema h�brido el cu�l, sea
+
+				r�gido y a su vez algo flexible u org�nico
+
+			
+			_Bending Minimum
+
+				_�sta opci�n nos permitir� indicarle al sistema el umbral de distorsi�n aplicado
+
+				sobre la layer, base
+
+
+				_de �sta manera, podremos indicar un umbral de deformaci�n sobre la layer, base
+
+				para que as�, el sistema al flexionar la articulaci�n afecte en cierto grado la
+
+				layer, base � no
+
+
+				_de �sta manera, con valores cercanos ha "0", la deformaci�n ser� total sobre la
+
+				layer, base de parte del sistema generado
+
+
+				_m�s con valores cercanos ha "400", la deformaci�n ser� cada vez menor hasta llegar
+
+				ha ser totalmente nula
+
+
+			_Bending Maximum
+
+				_�sta opci�n nos permitir� indicarle al sistema un umbral � �rea m�xima en la cu�l,
+
+				podr� tener acci�n la deformaci�n sobre la articulaci�n
+
+
+				_de �sta manera, con valores inferiores ha "400", se ver� comprometida la acci�n
+
+				de la deformaci�n sobre la articulaci�n distorsionando la layer, base de forma
+
+				inadecuada
+
+
+				_m�s con valores cercanos ha "10.000", la deformaci�n de la layer, base ser� normal
+
+				sobre la articulaci�n generada por el sistema
+
+
+			_Un-Bend at Start
+
+				_�sta opci�n nos permitir� indicarle al sistema la deformaci�n del "root", � del
+
+				primer handle, � handle superior generado por el sistema
+
+
+				_de �sta manera, podremos a trav�s, de un par�metro extra "Start Angle", controlar 
+
+				la distorsi�n de rotaci�n generada sobre los pixeles de la layer, base afectados 
+
+				por el primer handle, generado por el sistema
+
+
+
+			_Source
+
+
+				_Source 1
+
+					_
+
+
+
+			_Child Parameters
+
+
+				_Child Source
+
+					_�sta opci�n nos permitir� seleccionar una layer, lo m�s recomendable es que
+
+					�sta layer, sea una layer, precompuesta para que no haya conflicto entre el
+
+					sistema y el funcionalismo de �sta layer
+
+
+					_de �sta manera, �sta layer, ser� hija del sistema lo que nos permitir� crear
+
+					sistema compuestos de rig, con m�s de una layer, dentro de un mismo sistema
+
+
+				_Child Time Mode:
+
+
+					NOTA: las siguiente opciones de "Child", de aqu� en adelante s�lo estar�n 
+
+					disponibles cuando se haya seleccionado una layer, en: "Child Source"
+
+
+
+
+					_Current Time:
+
+						_�sta opci�n nos permitir� indicarle al sistema que genere el sistema
+
+						a trav�s, del fotograma actual de la layer, � composici�n relacionada
+
+						como layer, hija del sistema principal
+
+
+					_Selector:
+
+						_�sta opci�n nos permitir� indicarle al sistema que genere el sistema
+
+						a partir de uno de los fotogramas de la layer, � composici�n 
+
+						relacionada como layer, hija del sistema
+
+
+				_Child Time Selector:
+
+					_de �sta manera, a trav�s, de un slider, podremos ir cambiando de instancia 
+
+					de �sta layer, animadada al sistema principal
+
+
+
+				_Attachment Anchor:
+
+					_�sta opci�n nos permitir� indicarle al sistema un reposicionamiento del
+
+					punto de anclaje de la layer, � composici�n asignada como child, del sistema
+
+					base
+
+
+					NOTA: para activar �sta opci�n debemos de activar previamente la opci�n de:
+
+					"Child Parameters/Hide Child Position Controls"
+
+
+				_Position:
+
+					_�sta opci�n nos permitir� indicarle al sistema un reposicionamiento del
+
+					de la layer, � composici�n asignada como child, del sistema base
+
+
+					NOTA: para activar �sta opci�n debemos de activar previamente la opci�n de:
+
+					"Child Parameters/Hide Child Position Controls"
+
+
+				_X_Scale:
+
+					_�sta opci�n nos permitir� indicarle al sistema un rescalado en la cordenada
+
+					"X", de la layer, � composici�n asignada como elemento child, del sistema
+
+					generado
+
+
+				_Y_Scale:
+
+					_�sta opci�n nos permitir� indicarle al sistema un rescalado en la cordenada
+
+					"Y", de la layer, � composici�n asignada como elemento child, del sistema
+
+					generado
+
+
+				_Rotation:
+
+					_�sta opci�n nos permitir� indicarle al sistema una rotaci�n de la layer, 
+
+					� composici�n asignada como elemento child, del sistema	generado
+
+
+					_de �sta manera, podremos hacer un reajuste sobre el sistema generado
+
+
+				_Child Inherit Rotation:
+
+
+					_Always:
+
+						_�sta opci�n nos permitir� indicarle al sistema que rote la layer,
+
+						� composici�n asignada como child, 
+
+
+						_de �sta manera, �sta layer, copiar� el mismo grado de rotaci�n de 
+
+						la deformaci�n de la layer, del sistema base � sistema primario 
+
+						con el cu�l, fu� relacionada
+
+
+
+					_Never:
+
+						_�sta opci�n nos permitir� indicarle al sistema que no rote la layer,
+
+						� composici�n asignada como child, de �sta manera, �sta layer, 
+
+						siempre mantendr� el mismo grado de rotaci�n con el cu�l, fu� 
+
+						relacionada
+
+
+				_Compositing Mode:
+
+
+					_Behind (Smart):
+
+						_�sta opci�n nos permitir� indicarle al sistema que posicione la 
+
+						layer, � composici�n asignada como child, detr�s inmediatamente
+
+						despu�s de la layer, del sistema base
+
+
+					_In Front (Smart):
+
+						_�sta opci�n nos permitir� indicarle al sistema que posicione la 
+
+						layer, � composici�n asignada como child, delante inmediatamente
+
+						sobre de la layer, del sistema base
+
+
+					_Behind (Full):
+
+						_�sta opci�n nos permitir� indicarle al sistema que posicione la 
+
+						layer, � composici�n asignada como child, detr�s al final de todas
+
+						las layers, que conforman el sistema base
+
+
+					_In Front (Full):
+
+						_�sta opci�n nos permitir� indicarle al sistema que posicione la 
+
+						layer, � composici�n asignada como child, por delante de todas las 
+
+						layers, que conforman el sistema base
+
+
+				_Child Opacity:
+
+					_�sta opci�n nos permitir� indicarle al sistema la opacidad de la layer, �
+
+					composici�n asignada como child
+
+
+					_de �sta manera, con valores cercanos ha "0", la layer, ser� imperceptible
+
+					m�s con valores cercanos ha "100", la layer, ser� totalmente visible
+
+
+				_Hide Child Position Controls:
+
+					_�sta opci�n nos permitir� indicarle al sistema que active las opciones de
+
+					ajuste de reposicionamiento de punto de anclaje como de posici�n de la layer,
+
+					� composici�n asignada como child
+
+
+			_Advanced Settings
+
+
+				_Auto Key
+
+					_
+
+
+				_Use Rounded Time
+
+					_
+
+
+				_Auto Set Anchor Points
+
+					_
+
+
+				_Show Bone
+
+					_
+
+
+				_Bone Color
+
+					_
+
+		
+				_Bone Handles Size
+
+					_
+
+
+
+		_Render Parameters
+
+
+			_Opacity
+
+				_
+
+
+			_ALpha Blending
+
+				_
+
+
+			_Composite Mode
+
+				_
+
+
+			_Quick Bone Set
+
+				_
+
+
+			_Add Child
+
+				_
+
+
+
+
+
+
+
+
+
+
+
+-->
+</body>
+</html>
+
+
+
+
+
+	
